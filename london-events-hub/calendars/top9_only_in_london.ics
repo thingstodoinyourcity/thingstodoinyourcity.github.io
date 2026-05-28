@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//London Events Scraper//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 Top 9 – Only in London
+X-WR-CALDESC:Unique\, one-of-a-kind London experiences you won't find anywhere else.
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#FF6B35
+BEGIN:VEVENT
+UID:b96a6930bfda@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Join a guided walk through Soho's alleyways and townhouses\, en
+ countering historical figures like madams\, body snatchers\, and doctors i
+ n a two-hour tour.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/weekend/
+LOCATION:Tottenham Court Road tube station\, Soho\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:333aca0a23b5@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:London’s Roman Amphitheatre Tour
+DESCRIPTION:Guided tour of the Roman ruins in Guildhall Yard.\n\nPrice: £7
+ .50\n\nTickets/Info: https://www.thecityofldn.com/event/london-roman-amphi
+ theatre-guided-tour/
+LOCATION:Guildhall Yard\, The City\, London
+URL:https://www.thecityofldn.com/event/london-roman-amphitheatre-guided-tou
+ r/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:6a75ed304acc@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Surgery and the Victorian Operating Theatre
+DESCRIPTION:Explore historical medical practices in a preserved 19th-centur
+ y operating theatre.\n\nPrice: 17\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/weekend/
+LOCATION:Old Operating Theatre Museum and Herb Garret\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:9959bd0a9b28@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Queen's House Treasures Tour
+DESCRIPTION:Explore the history of the Queen's House\, a former royal resid
+ ence\, and enjoy a drink in its picturesque surroundings.\n\nPrice: £25 (
+ plus £3 booking fee per booking)\n\nTickets/Info: https://www.rmg.co.uk/w
+ hats-on
+LOCATION:Queen's House\, Art and culture\, London
+URL:https://www.rmg.co.uk/whats-on
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d179d7b84f@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Roman fort gate tours
+DESCRIPTION:Explore the hidden remains of Roman London's military fort.\n\n
+ Price: Free\n\nTickets/Info: https://www.londonmuseum.org.uk/whats-on/
+LOCATION:Museum of London Docklands\, London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c67a605dc4@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260719
+SUMMARY:A Midsummer Night's Dream
+DESCRIPTION:Watch Atri Banerjee's production of 'A Midsummer Night's Dream'
+  at Regent's Park Open Air Theatre\, featuring a folk-infused score and a 
+ tale of tangled relationships in fairyland.\n\nPrice: £18.00\n\nTickets/I
+ nfo: https://www.londonboxoffice.co.uk/all-london-shows
+LOCATION:Regent's Park Open Air Theatre\, Primrose Hill\, London
+URL:https://www.londonboxoffice.co.uk/all-london-shows
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5740f41ae6@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Jock McFadyen with Jem Finer: Underground Exhibition
+DESCRIPTION:An art exhibition exploring London's Tube system.\n\nPrice: fro
+ m £35\n\nTickets/Info: https://www.thecityofldn.com/event/jock-mcfadyen-w
+ ith-jem-finer-underground-and-surface-exhibition/
+LOCATION:Guildhall Art Gallery\, City of London\, London
+URL:https://www.thecityofldn.com/event/jock-mcfadyen-with-jem-finer-undergr
+ ound-and-surface-exhibition/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:955b0a5db22b@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Tours of the Lyceum Theatre
+DESCRIPTION:Take a guided tour of the historic Lyceum Theatre's backstage a
+ reas.\n\nPrice: 17.50\n\nTickets/Info: https://www.ianvisits.co.uk/calenda
+ r/theatre-royal-drury-lane-guided-tours-422378/
+LOCATION:Central Criminal Court (Old Bailey)\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/theatre-royal-drury-lane-guided-to
+ urs-422378/
+CATEGORIES:Only in London
+END:VEVENT
+BEGIN:VEVENT
+UID:a62db2cac9da@london-events-scraper
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260614
+SUMMARY:The Last Man
+DESCRIPTION:Catch a performance of 'The Last Man' at Southwark Playhouse El
+ ephant\, with tickets starting from £30.\n\nPrice: from £30\n\nTickets/I
+ nfo: https://ticketing.timeout.com/london/shows/46828-the-last-man
+LOCATION:Southwark Playhouse Elephant\, Elephant and Castle\, London
+URL:https://ticketing.timeout.com/london/shows/46828-the-last-man
+CATEGORIES:Only in London
+END:VEVENT
+END:VCALENDAR
