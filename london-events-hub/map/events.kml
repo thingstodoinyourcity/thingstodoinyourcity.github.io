@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>London Events — 25 May 26 to 31 May 26</name>
-    <description>Weekend events in London, 25 May 26 to 31 May 26. Pins coloured by category.</description>
+    <name>London Events — 1 Jun 26 to 7 Jun 26</name>
+    <description>Weekend events in London, 1 Jun 26 to 7 Jun 26. Pins coloured by category.</description>
   <Style id="blue-dot.png">
     <IconStyle>
       <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
@@ -39,275 +39,243 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Claridge's X The Newt</name>
-      <description><![CDATA[<b>Claridge's X The Newt</b><br><i>Arts &amp; Culture</i><br>Wed 27th May – Sun 31st May<br>Claridge’s, Mayfair<br>Check site<br><br>Claridge’s collaborates with The Newt in Somerset, featuring a six-meter sculptural installation, willow sculptures, and 800 apples in a hallway display. Menus at Claridge’s will include ingredients from The Newt’s estate.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1475256,51.5125194,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>London Never Sleeps</name>
-      <description><![CDATA[<b>London Never Sleeps</b><br><i>Nightlife</i><br>Wed 27th May<br>The London Cabaret Club<br>from £52.47 – £196.60<br><br>Experience a glamorous evening at The London Cabaret Club with a sumptuous dinner, live DJ, and performances inspired by British espionage. Enjoy talented singers, dancers, and specialty acts all night long.<br><br><a href="https://www.designmynight.com/london/event-space/holborn/the-london-cabaret-club/london-never-sleeps">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1365302,51.5189497,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Little Venice – the pursuit of pleasure</name>
-      <description><![CDATA[<b>Little Venice – the pursuit of pleasure</b><br><i>Arts &amp; Culture</i><br>Thu 28th May<br>Warwick Avenue tube station, Little Venice<br>£20<br><br>Explore Little Venice and the canal towpath, discovering remnants of the Age of Canals along the way. This walk offers a glimpse into the area's rich history.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1838506,51.5233436,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Rooftop Cinema Night</name>
-      <description><![CDATA[<b>Rooftop Cinema Night</b><br><i>Nightlife</i><br>Fri 29th May<br>Moorings Social Club, Greenwich<br>Early Bird - £5.5, Standard Cinema Ticket - £6.5, Door Admission Ticket - £8<br><br>Watch a feel-good film at Moorings Social Club’s indoor cinema in Greenwich. Enjoy cocktails, hot food, and fresh popcorn while taking in a classic movie.<br><br><a href="https://www.designmynight.com/london/whats-on/film-and-movie-bar-nights">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0507879,51.5146358,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>In the Mood for Love</name>
-      <description><![CDATA[<b>In the Mood for Love</b><br><i>Arts &amp; Culture</i><br>Sat 30th May<br>Prince Charles Cinema, London<br>£1<br><br>A 35mm screening of the romantic drama film.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.130123,51.511482,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>R&amp;B Lovers: The Lovers Brunch</name>
-      <description><![CDATA[<b>R&amp;B Lovers: The Lovers Brunch</b><br><i>Music</i><br>Sat 30th May<br>Boxhall City, Liverpool Street<br>from £27.50<br><br>Celebrate the spring bank holiday with The Lovers Brunch at BOXHALL City. Enjoy 90s and 00s R&amp;B music in a historic Edwardian arcade turned sanctuary for R&amp;B fans.<br><br><a href="https://old-school-rb-brunch.designmynight.com/690b38f1f9231a199c7e3387/old-school-rb-brunch-london-32">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.082604,51.517464,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Fleetwood Mac by Candlelight</name>
-      <description><![CDATA[<b>Fleetwood Mac by Candlelight</b><br><i>Music</i><br>Sun 31st May<br>London Palladium<br>from £17<br><br>West End singers perform the music of Fleetwood Mac by candlelight at the London Palladium. Enjoy an intimate and enchanting evening of classic hits.<br><br><a href="https://www.london-theatreland.co.uk/shows/the-london-palladium/fleetwood-mac-by-candlelight">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.140578,51.514538,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Death, Debauchery &amp; Doctors in Soho</name>
-      <description><![CDATA[<b>Death, Debauchery &amp; Doctors in Soho</b><br><i>Arts &amp; Culture</i><br>Thu 28th May<br>Tottenham Court Road tube station, Soho<br>£20<br><br>Join a guided walk through Soho's alleyways and townhouses, encountering historical figures like madams, body snatchers, and doctors in a two-hour tour.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.133753,51.520068,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>London’s Roman Amphitheatre Tour</name>
-      <description><![CDATA[<b>London’s Roman Amphitheatre Tour</b><br><i>Cultural</i><br>Sat 30th May<br>Guildhall Yard, The City<br>£7.50<br><br>Guided tour of the Roman ruins in Guildhall Yard.<br><br><a href="https://www.thecityofldn.com/event/london-roman-amphitheatre-guided-tour/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0914071,51.5155115,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Surgery and the Victorian Operating Theatre</name>
-      <description><![CDATA[<b>Surgery and the Victorian Operating Theatre</b><br><i>Arts &amp; Culture</i><br>Sat 30th May<br>Old Operating Theatre Museum and Herb Garret<br>17<br><br>Explore historical medical practices in a preserved 19th-century operating theatre.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0885198,51.505025,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Queen's House Treasures Tour</name>
-      <description><![CDATA[<b>Queen's House Treasures Tour</b><br><i>Cultural</i><br>Sun 31st May<br>Queen's House, Art and culture<br>£25 (plus £3 booking fee per booking)<br><br>Explore the history of the Queen's House, a former royal residence, and enjoy a drink in its picturesque surroundings.<br><br><a href="https://www.rmg.co.uk/whats-on">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>0.0132484,51.5696786,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Roman fort gate tours</name>
-      <description><![CDATA[<b>Roman fort gate tours</b><br><i>Cultural</i><br>Sun 31st May<br>Museum of London Docklands, London-wide<br>Free<br><br>Explore the hidden remains of Roman London's military fort.<br><br><a href="https://www.londonmuseum.org.uk/whats-on/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0238687,51.5076342,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>A Midsummer Night's Dream</name>
-      <description><![CDATA[<b>A Midsummer Night's Dream</b><br><i>Theatre</i><br>Wed 27th May – Sat 18th Jul<br>Regent's Park Open Air Theatre, Primrose Hill<br>£18.00<br><br>Watch Atri Banerjee's production of 'A Midsummer Night's Dream' at Regent's Park Open Air Theatre, featuring a folk-infused score and a tale of tangled relationships in fairyland.<br><br><a href="https://www.londonboxoffice.co.uk/all-london-shows">More info / tickets</a>]]></description>
+      <name>Cabaret</name>
+      <description><![CDATA[<b>Cabaret</b><br><i>Theatre</i><br>Tue 2nd Jun<br>Kit Kat Club at the Playhouse, West End<br>from £65<br><br>Step into 1930s Berlin at the transformed Playhouse Theatre. Enjoy the vibrant and turbulent world of Cabaret, a show that has captivated London’s theatre scene.<br><br><a href="https://www.londonboxoffice.co.uk/shows-tonight">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.106631,51.51279,0</coordinates>
+        <coordinates>-0.095967,51.503541,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Jock McFadyen with Jem Finer: Underground Exhibition</name>
-      <description><![CDATA[<b>Jock McFadyen with Jem Finer: Underground Exhibition</b><br><i>Arts &amp; Culture</i><br>Sat 30th May<br>Guildhall Art Gallery, City of London<br>from £35<br><br>An art exhibition exploring London's Tube system.<br><br><a href="https://www.thecityofldn.com/event/jock-mcfadyen-with-jem-finer-underground-and-surface-exhibition/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0914071,51.5155115,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Tours of the Lyceum Theatre</name>
-      <description><![CDATA[<b>Tours of the Lyceum Theatre</b><br><i>Theatre</i><br>Sat 30th May<br>Central Criminal Court (Old Bailey), City of London<br>17.50<br><br>Take a guided tour of the historic Lyceum Theatre's backstage areas.<br><br><a href="https://www.ianvisits.co.uk/calendar/theatre-royal-drury-lane-guided-tours-422378/">More info / tickets</a>]]></description>
+      <name>Moulin Rouge! The Musical</name>
+      <description><![CDATA[<b>Moulin Rouge! The Musical</b><br><i>Theatre</i><br>Tue 2nd Jun<br>Piccadilly Theatre, West End<br>from £48<br><br>Experience a breathtaking celebration of love and art. Moulin Rouge! The Musical brings the iconic story to life with spectacular performances and dazzling costumes.<br><br><a href="https://www.londonboxoffice.co.uk/shows-tonight">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1021082,51.5157116,0</coordinates>
+        <coordinates>-0.135381,51.510883,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Last Man</name>
-      <description><![CDATA[<b>The Last Man</b><br><i>Theatre</i><br>Fri 8th May – Sat 13th Jun<br>Southwark Playhouse Elephant, Elephant and Castle<br>from £30<br><br>Catch a performance of 'The Last Man' at Southwark Playhouse Elephant, with tickets starting from £30.<br><br><a href="https://ticketing.timeout.com/london/shows/46828-the-last-man">More info / tickets</a>]]></description>
+      <name>Moco Museum London + Cocktail</name>
+      <description><![CDATA[<b>Moco Museum London + Cocktail</b><br><i>Arts &amp; Culture</i><br>Tue 2nd Jun – Sun 7th Jun<br>Moco Museum London, London<br>from £26<br><br>Modern art museum visit followed by a cocktail at The Cumberland Hotel.<br><br><a href="https://www.london-theatreland.co.uk/shows/moco-museum-london/moco-museum-london-cocktail-at-the-cumberland-hotel/tickets/calendar">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.159238,51.5135,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roses Walk – The Promise of a Rose Garden</name>
+      <description><![CDATA[<b>Roses Walk – The Promise of a Rose Garden</b><br><i>Arts &amp; Culture</i><br>Tue 2nd Jun<br>Chiswick House &amp; Gardens, Chiswick<br>Check site<br><br>Join Head of Gardens Rosie Fyles for a colourful and fragrant walk through Chiswick House &amp; Gardens' 1000s of roses. Enjoy the beauty and scent of the rose garden.<br><br><a href="https://chiswickhouseandgardens.org.uk/event/roses-walk-the-promise-of-a-rose-garden/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.246992,51.495397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alphonso Mango Season</name>
+      <description><![CDATA[<b>Alphonso Mango Season</b><br><i>Food &amp; Drink</i><br>Tue 2nd Jun – Sun 7th Jun<br>Dishoom<br>Check site<br><br>Celebrate Alphonso mango season at Dishoom. Indulge in a delicious dessert featuring this sunburst-coloured fruit, topped with a scoop of vanilla ice cream.<br><br><a href="https://www.designmynight.com/london/whats-on/best-events-in-may">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0768246,51.5244991,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Definitive Rat Pack</name>
+      <description><![CDATA[<b>The Definitive Rat Pack</b><br><i>Music</i><br>Tue 2nd Jun – Tue 30th Jun<br>Boisdale of Canary Wharf, Canary Wharf<br>from £52.92 – £99.64<br><br>Enjoy the music and chemistry of Sinatra, Martin, and Davis in The Definitive Rat Pack. This show features sharp phrasing, relaxed delivery, and moments of spontaneity, with a set list including &quot;That’s Life&quot; and &quot;Mr. Bojangles&quot;.<br><br><a href="https://boisdalecanarywharf.designmynight.com/69dfc30ab064a97589676694/the-definitive-rat-pack-15">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0220439,51.5052156,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amélie - 25th Anniversary</name>
+      <description><![CDATA[<b>Amélie - 25th Anniversary</b><br><i>Film</i><br>Sat 6th Jun<br>Prince Charles Cinema, Leicester Square<br>Check site<br><br>Celebrating 25 years of this beloved French film.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1304091,51.5109335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sky High Brunch</name>
+      <description><![CDATA[<b>Sky High Brunch</b><br><i>Food &amp; Drink</i><br>Sun 7th Jun<br>CÉ LA VI London, Paddington<br>From £45<br><br>Brunch with free-flowing drinks and live DJs.<br><br><a href="https://www.factmagazines.com/london/united-kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this-month">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.174591,51.516356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buzzcocks 50th anniversary show</name>
+      <description><![CDATA[<b>Buzzcocks 50th anniversary show</b><br><i>Music</i><br>Sat 6th Jun<br>Dixie Queen, London<br>£330<br><br>Celebrate Buzzcocks' 50th anniversary with a unique show aboard the Dixie Queen paddle steamer on the Thames. Enjoy a cruise while listening to legendary performances.<br><br><a href="https://www.skiddle.com/whats-on/London/drag-shows/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.099934,51.5136848,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trooping the Colour Rehearsal</name>
+      <description><![CDATA[<b>Trooping the Colour Rehearsal</b><br><i>Cultural</i><br>Sat 6th Jun<br>Horse Guards Parade, Whitehall, Westminster<br>£<br><br>Witness a full-scale rehearsal of the Trooping the Colour parade at Horse Guards Parade. Experience the royal-parade energy before the main event.<br><br><a href="https://www.londoninfoguide.com/events-in-london-in-june.html">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.127054,51.504775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zoo Nights</name>
+      <description><![CDATA[<b>Zoo Nights</b><br><i>Family</i><br>Fri 5th Jun – Fri 24th Jul<br>Outer Circle, Regent's Park, NW1 4RY, Regent's Park<br>£23.50<br><br>Visit London Zoo after hours during Zoo Nights. Enjoy seeing over 8,500 animals and hear expert talks in an adults-only evening event.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#green-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.155404,51.535939,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GHASTLY LONDON GHOST TOUR</name>
+      <description><![CDATA[<b>GHASTLY LONDON GHOST TOUR</b><br><i>Cultural</i><br>Wed 3rd Jun<br>All Hallows by the Tower<br>from £25<br><br>Explore London's haunted history on a guided ghost tour.<br><br><a href="https://www.london-theatreland.co.uk/dates/2026/06/category/special-performance">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.079301,51.5093945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>StreetHunt Games - The Case of Colombia's Finest</name>
+      <description><![CDATA[<b>StreetHunt Games - The Case of Colombia's Finest</b><br><i>Arts &amp; Culture</i><br>Tue 2nd Jun<br>Gunpowder Square<br>£16.50<br><br>Join a scavenger hunt and escape room hybrid in London. Solve mysteries across iconic streets and discover hidden treasures in this unique outdoor activity.<br><br><a href="https://streethunt-games.designmynight.com/61e08dcd00390d1f1912d899/streethunt-games-colombias-finest">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.107405,51.515162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>StreetHunt Games - Will Breaker</name>
+      <description><![CDATA[<b>StreetHunt Games - Will Breaker</b><br><i>Arts &amp; Culture</i><br>Tue 2nd Jun<br>Sicilian House, Holborn<br>£16.50<br><br>Embark on a scavenger hunt and escape room adventure in London. Follow clues left by your uncle to claim your inheritance in this engaging outdoor experience.<br><br><a href="https://streethunt-games.designmynight.com/64e761971fe5a53a9d610ad2/streethunt-games-will-breaker">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.208753,51.5024454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Giffords Circus</name>
+      <description><![CDATA[<b>Giffords Circus</b><br><i>Theatre</i><br>Thu 21st May – Sun 7th Jun<br>Chiswick House &amp; Gardens, Chiswick<br>Check site<br><br>Experience Giffords Circus' new show, Waterfield, inspired by the English countryside. Enjoy breathtaking acts and moments that will leave you in awe.<br><br><a href="https://chiswickhouseandgardens.org.uk/event/giffords-circus-waterfield/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.10278508687097637,51.49242345,0</coordinates>
+        <coordinates>-0.246992,51.495397,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>QUEER EAST 2026</name>
-      <description><![CDATA[<b>QUEER EAST 2026</b><br><i>Cultural</i><br>Sun 10th May – Thu 28th May<br>Rich Mix, Bethnal Green<br>Check site<br><br>A festival celebrating queer culture and arts.<br><br><a href="https://richmix.org.uk/events/queer-east-2026/">More info / tickets</a>]]></description>
+      <name>David Bowie: You’re Not Alone</name>
+      <description><![CDATA[<b>David Bowie: You’re Not Alone</b><br><i>Arts &amp; Culture</i><br>Wed 22nd Apr – Sun 28th Jun<br>Lightroom, London<br>Free<br><br>Step into the world of David Bowie with this immersive exhibition. It features rare concert footage shown through 360-degree projections and clips, offering a unique look at the iconic performer's career.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0733464,51.5244023,0</coordinates>
+        <coordinates>-0.1260074,51.5374302,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>STASH Exhibition</name>
-      <description><![CDATA[<b>STASH Exhibition</b><br><i>Arts &amp; Culture</i><br>Tue 19th May – Fri 29th May<br>Great Pulteney Street Gallery, London<br>Free<br><br>A retrospective exhibition celebrating the life and work of painter Anastasia Lewis, known as Stash, showcasing a collection of her art.<br><br><a href="https://eventsforlondon.co.uk/event/stash-exhibition/2026-05-19/">More info / tickets</a>]]></description>
+      <name>Undercroft Skate Space Retrospective</name>
+      <description><![CDATA[<b>Undercroft Skate Space Retrospective</b><br><i>Arts &amp; Culture</i><br>Thu 30th Apr – Sun 21st Jun<br>Southbank Centre, Southbank<br>Free<br><br>Celebrate 50 years of the Undercroft Skate Space with this retrospective exhibition. It showcases the history and impact of this iconic London skateboarding spot.<br><br><a href="https://secretldn.com/things-to-do-london-april-2026/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.136029,51.512162,0</coordinates>
+        <coordinates>-0.1158875,51.5060021,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Disruptors: Fractured Images and Migrant World</name>
-      <description><![CDATA[<b>Disruptors: Fractured Images and Migrant World</b><br><i>Arts &amp; Culture</i><br>Wed 27th May – Fri 26th Jun<br>Ben Uri Gallery, St John's Wood<br>Free<br><br>A collaborative exhibition featuring works from the Ben Uri and William Allen Collections, exploring themes of migration and disrupted images.<br><br><a href="https://eventsforlondon.co.uk/event/disruptors-fractured-images-and-migrant-wordl/2026-05-14/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1853268,51.5375248,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Banksy Limitless: Reframed</name>
-      <description><![CDATA[<b>Banksy Limitless: Reframed</b><br><i>Arts &amp; Culture</i><br>Thu 28th May – Tue 30th Jun<br>Sussex Mansions, London<br>From £22.18<br><br>Art exhibition featuring Banksy's work.<br><br><a href="https://feverup.com/en/london/night-clubs">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1763099,51.4927236,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Dark Secrets: The Esoteric Exhibition</name>
-      <description><![CDATA[<b>Dark Secrets: The Esoteric Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 28th May – Sun 28th Jun<br>Vaults - Leake Street, London<br>Free<br><br>An immersive exhibition exploring esotericism, occultism, and folklore through 27 themed rooms, featuring over 1,000 original objects and historical artifacts.<br><br><a href="https://feverup.com/m/427444">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1147409,51.5013532,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Shakespeare and Brecht Talk</name>
-      <description><![CDATA[<b>Shakespeare and Brecht Talk</b><br><i>Theatre</i><br>Thu 28th May<br>BANKSIDE, Bankside<br>Free<br><br>A talk featuring Co-Artistic Director of the RSC Daniel Evans, the Globe’s Artistic Director Michelle Terry, and Associate Artistic Director Sean Holmes discussing the relationship between Shakespeare and Brecht.<br><br><a href="https://www.shakespearesglobe.com/whats-on/globe-talks-shakespeare-brecht-rsc/">More info / tickets</a>]]></description>
+      <name>Equus</name>
+      <description><![CDATA[<b>Equus</b><br><i>Theatre</i><br>Fri 8th May – Sat 4th Jul<br>Menier Chocolate Factory<br>from £43<br><br>Catch a performance of Equus at the Menier Chocolate Factory. This play explores the complex relationship between a young man and horses, delving into themes of obsession and identity.<br><br><a href="https://ticketing.timeout.com/london/shows/46354-equus">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.09934164882888792,51.5074293,0</coordinates>
+        <coordinates>-0.0943545,51.5046293,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Almost Here: The Pool That Never Existed</name>
-      <description><![CDATA[<b>Almost Here: The Pool That Never Existed</b><br><i>Arts &amp; Culture</i><br>Fri 29th May – Sat 30th May<br>Battersea Arts Centre, Battersea<br>Check site<br><br>A participatory workshop reimagining the hidden past of Battersea Arts Centre, exploring what might have been if it had become a swimming pool.<br><br><a href="https://bac.org.uk/whats-on-highlights">More info / tickets</a>]]></description>
+      <name>Curating at Home: Making Personal Spaces</name>
+      <description><![CDATA[<b>Curating at Home: Making Personal Spaces</b><br><i>Arts &amp; Culture</i><br>Sun 10th May – Tue 9th Jun<br>IMT Gallery, London<br>£115<br><br>Join a four-session online course exploring how art shapes our personal spaces. This course will help you understand how to live with art and make your home a creative haven.<br><br><a href="https://eventsforlondon.co.uk/event/curating-at-home-making-personal-spaces-of-creative-agency-with-dr-mark-rohtmaa-jackson/2026-05-10/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1607853,51.4649605,0</coordinates>
+        <coordinates>-0.129486,51.508428,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Untitled Artists Fair</name>
-      <description><![CDATA[<b>Untitled Artists Fair</b><br><i>Arts &amp; Culture</i><br>Fri 29th May – Sun 31st May<br>Chelsea Old Town Hall, Chelsea<br>Free<br><br>The UK’s largest artists’ fair, featuring up to 170 exhibitors showcasing a wide range of artistic works.<br><br><a href="https://eventsforlondon.co.uk/event/untitled-artists-fair-2/">More info / tickets</a>]]></description>
+      <name>CARE</name>
+      <description><![CDATA[<b>CARE</b><br><i>Theatre</i><br>Mon 11th May – Sat 11th Jul<br>Young Vic<br>from £28<br><br>Theatre performance exploring themes of care and relationships.<br><br><a href="https://ticketing.timeout.com/london/shows/45211-care">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1073226,51.5032838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>360 ALLSTARS</name>
+      <description><![CDATA[<b>360 ALLSTARS</b><br><i>Theatre</i><br>Tue 2nd Jun – Sat 6th Jun<br>Peacock Theatre, Covent Garden<br>from £23<br><br>Experience the energy of 360 ALLSTARS, a lively urban circus featuring BMX tricks, acrobatics, beatboxing, and live drumming. The show is enhanced with video projections for a dynamic performance.<br><br><a href="https://www.london-theatreland.co.uk/shows/peacock-theatre/360-allstars/tickets/calendar">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1176335,51.5144171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SXSW London</name>
+      <description><![CDATA[<b>SXSW London</b><br><i>Festival</i><br>Mon 1st Jun – Sat 6th Jun<br>Shoreditch, Shoreditch<br>£25 (day pass) or £79 (full access)<br><br>SXSW London brings a mix of music, art, and tech to Shoreditch. Catch performances by Rachel Chinouriri, Pete Tong, and Earl Sweatshirt. Day passes are £25, or £79 for full access.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1676096,51.4879736,0</coordinates>
+        <coordinates>-0.0775543,51.5256278,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Katharina Grosse: I Set Out, I walked Fast</name>
-      <description><![CDATA[<b>Katharina Grosse: I Set Out, I walked Fast</b><br><i>Arts &amp; Culture</i><br>Sun 31st May<br>White Cube Bermondsey, Bermondsey<br>Check site<br><br>Contemporary art exhibition by Katharina Grosse.<br><br><a href="https://www.culturalwednesday.co.uk/best-london-exhibitions-2/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0823052,51.4994649,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>BADDIIE ARMY: R&amp;B, HIP-HOP, AFROBEATS</name>
-      <description><![CDATA[<b>BADDIIE ARMY: R&amp;B, HIP-HOP, AFROBEATS</b><br><i>Music</i><br>Sat 30th May<br>Oslo, Hackney<br>Check site<br><br>A night of R&amp;B, hip-hop, and Afrobeats music.<br><br><a href="https://www.oslohackney.com/events/baddiie-army-rb-hip-hop-afrobeats-more-3/">More info / tickets</a>]]></description>
+      <name>Between the Bridges’ Rhinestone Fest</name>
+      <description><![CDATA[<b>Between the Bridges’ Rhinestone Fest</b><br><i>Music</i><br>Sat 6th Jun<br>The Queens Walk, Southbank, Southbank<br>Check site<br><br>Between the Bridges’ Rhinestone Fest offers country music, dance, and DJs. Enjoy food stalls and even a rodeo bull. Held on the Southbank.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.036526,51.497706,0</coordinates>
+        <coordinates>-0.0845576,51.5064847,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Get Wild Shoreditch Party</name>
-      <description><![CDATA[<b>Get Wild Shoreditch Party</b><br><i>Nightlife</i><br>Fri 29th May<br>The Lighthouse Bar And Club, London, Shoreditch<br>Buy Tickets<br><br>A high-energy party in Shoreditch with free entry before midnight.<br><br><a href="https://www.skiddle.com/whats-on/London/rave-events/">More info / tickets</a>]]></description>
+      <name>Beehive LDN 4th Birthday</name>
+      <description><![CDATA[<b>Beehive LDN 4th Birthday</b><br><i>Nightlife</i><br>Sat 6th Jun<br>Egg London, London<br>Check site<br><br>A birthday party with deep, tech, afro, and tribal house music.<br><br><a href="https://egglondon.co.uk/events/beehive-ldn-4th-birthday-deep-tech-afro-tribal-house/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.074351,51.524827,0</coordinates>
+        <coordinates>-0.1247881,51.5418275,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mighty Hoopla</name>
-      <description><![CDATA[<b>Mighty Hoopla</b><br><i>Music</i><br>Sat 30th May – Sun 31st May<br>Brockwell Park, Brixton<br>£60 – £110<br><br>A pop-focused festival in Brockwell Park with colorful staging, nostalgic headliners, and inclusive programming. Enjoy chart music, drag performances, dance acts, and themed party zones.<br><br><a href="https://www.londonbackpackers.com/blog/london-events-in-may-explore-things-to-do/">More info / tickets</a>]]></description>
+      <name>Bottomless Disco Brunch</name>
+      <description><![CDATA[<b>Bottomless Disco Brunch</b><br><i>Nightlife</i><br>Sat 6th Jun<br>Core Bar, London<br>Check site<br><br>Disco Dollies and Boogie Babes, join the wildest drag brunch. Sparkle, slay, and sashay your way through Core Bar.<br><br><a href="https://www.skiddle.com/whats-on/London/drag-shows/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1113412,51.4519046,0</coordinates>
+        <coordinates>-0.092749,51.512922,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Dialled In London</name>
-      <description><![CDATA[<b>Dialled In London</b><br><i>Nightlife</i><br>Sat 30th May<br>EartH, Dalson<br>Check site<br><br>Celebrating 5 years, Dialled In offers a day-to-night journey through iconic venues. Expect a spirit of discovery and a diverse lineup of music and performances.<br><br><a href="https://earthackney.co.uk/events/dialled-in-london-30th-may-the-shacklewell-arms-london-cafe-oto-london-total-refreshment-centre-london-earth-london-dalston-den-london-the-marquee-moon-london-tickets-xe28rk/">More info / tickets</a>]]></description>
+      <name>Echoes of Prince: Birthday Party</name>
+      <description><![CDATA[<b>Echoes of Prince: Birthday Party</b><br><i>Music</i><br>Sat 6th Jun<br>The Jazz Cafe, Camden, London<br>£20<br><br>A celebration of Prince's music and legacy.<br><br><a href="https://thejazzcafe.com/event/echoes-of-prince-birthday-party-2/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1075017,51.4968911,0</coordinates>
+        <coordinates>-0.143016,51.538609,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>House of Burlesque Speakeasy</name>
-      <description><![CDATA[<b>House of Burlesque Speakeasy</b><br><i>Nightlife</i><br>Sat 30th May<br>QT at The Middle Eight Hotel, West End<br>from £15<br><br>Experience a night of fun, feathers, and fizz at the House of Burlesque Speakeasy. Enjoy a secretive evening of burlesque performances and entertainment.<br><br><a href="https://www.designmynight.com/london/whats-on/burlesque-cabaret/house-of-burlesque-speakeasy">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>London Brewery Tour &amp; Beer Tasting</name>
+      <description><![CDATA[<b>London Brewery Tour &amp; Beer Tasting</b><br><i>Food &amp; Drink</i><br>Sat 6th Jun<br>The Five Points Brewery Taproom &amp; Courtyard, Hackney<br>Tickets from £20 – £30<br><br>Tour the Five Points Brewery in Hackney. Learn about brewing and taste four beers. Includes 10% off drinks and food post-tour.<br><br><a href="https://fivepointsbrewingco.designmynight.com/61600861e02807737e46b405/the-five-points-brewery-tours-and-tastings">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1255974,51.5128988,0</coordinates>
+        <coordinates>-0.103835,51.519274,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Raindance at fabric 2026</name>
-      <description><![CDATA[<b>Raindance at fabric 2026</b><br><i>Music</i><br>Sat 30th May<br>Fabric London, London<br>£20.00<br><br>Raindance returns to fabric London with over 30 artists playing across three rooms. Enjoy Old Skool, Hardcore, Rave, Jungle, DnB, Acid, and Early House music.<br><br><a href="https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weekend/">More info / tickets</a>]]></description>
+      <name>UKG Brunch - ALL DAY RAVE</name>
+      <description><![CDATA[<b>UKG Brunch - ALL DAY RAVE</b><br><i>Music</i><br>Sat 6th Jun<br>Fabric London, London<br>£55<br><br>Daytime party with UK garage music and brunch.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0058557,51.5685362,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>90s RnB Brunch</name>
-      <description><![CDATA[<b>90s RnB Brunch</b><br><i>Music</i><br>Sat 30th May<br>The Dark Horse Camden, Camden<br>Tickets from £27.50 – £59.40<br><br>Enjoy a 90s RnB brunch with bottomless cocktails, a scrumptious meal, and DJs spinning your favorite RnB singalongs and floor fillers. Expect games, trivia, and live performances.<br><br><a href="https://hiphopbrunchldn.designmynight.com/6926dfec35ee831e8042ceff/the-90s-rnb-edition-may-30th">More info / tickets</a>]]></description>
+      <name>VIVA Reggaeton - Bad Bunny Tribute</name>
+      <description><![CDATA[<b>VIVA Reggaeton - Bad Bunny Tribute</b><br><i>Music</i><br>Sat 6th Jun – Sun 7th Jun<br>Lightbox, London<br>£15<br><br>VIVA Reggaeton celebrates Bad Bunny with three rooms of music. Enjoy arcade games, cocktails, and street food at Lightbox.<br><br><a href="https://www.skiddle.com/whats-on/London/Lightbox/VIVA-Reggaeton---Bad-Bunny-Tribute/42413906/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.148964,51.5426466,0</coordinates>
+        <coordinates>-0.1234761,51.4853592,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Beats and Boards</name>
-      <description><![CDATA[<b>Beats and Boards</b><br><i>Music</i><br>Thu 28th May<br>Barbican Centre, Barbican<br>Free<br><br>Join DJ, broadcaster, and historian Haseeb Iqbal for a night of board games and music. Enjoy games from around the world and an eclectic record collection in a space of connection and inclusivity.<br><br><a href="https://www.barbican.org.uk/whats-on/2026/event/haseeb-iqbal-presents-beats-and-boards">More info / tickets</a>]]></description>
+      <name>Battersea Jazz Festival</name>
+      <description><![CDATA[<b>Battersea Jazz Festival</b><br><i>Music</i><br>Tue 2nd Jun – Sun 7th Jun<br>Arches Lane Theatre, Battersea<br>Check site<br><br>Live jazz performances at a local theatre.<br><br><a href="https://batterseapowerstation.co.uk/events/battersea-jazz-festival-at-arches-lane-theatre/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.09396929352451569,51.5198685,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ginger's Big Drag Bingo</name>
-      <description><![CDATA[<b>Ginger's Big Drag Bingo</b><br><i>Nightlife</i><br>Fri 29th May<br>The Joiner on Worship, Shoreditch<br>from £16.50<br><br>Ginger's Big Drag Bingo offers a glitzy bingo night with prizes, party anthems, dance-offs, and drag performances. Enjoy a raucous night of fun and outrageous campery.<br><br><a href="https://party-with-ginger.designmynight.com/5cab21830653b141b15c7336/gingers-big-drag-bingo-london">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.084314,51.5222217,0</coordinates>
+        <coordinates>-0.1202295,51.5129942,0</coordinates>
       </Point>
     </Placemark>
   </Document>
