@@ -88,16 +88,17 @@ URL:https://www.darlingharbour.com/whats-on/events/vivid-nights-begin-at-vo
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:70da207780ff@sydney-events-scraper
+UID:735fd9f23e78@sydney-events-scraper
 DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid Fire Kitchen
-DESCRIPTION:Open-fire cooking and food vendors during Vivid Sydney.\n\nPric
- e: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/eve
- nts/vivid-fire-kitchen
-LOCATION:Barangaroo Reserve\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Comedy Untamed Sydney
+DESCRIPTION:Comedy Untamed brings a Sydney lineup of stand-up comics to The
+  Comedy Store\, hosted by Neel Kolhatkar\, with live social-media-style li
+ ne games and an early Saturday evening show.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://www.comedystore.com.au/event/comedy-untamed/
+LOCATION:The Comedy Store\, Moore Park\, Sydney
+URL:https://www.comedystore.com.au/event/comedy-untamed/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -120,11 +121,12 @@ DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Long Weekend Party
 DESCRIPTION:Kick off the long weekend with a party at ivy precinct. Check t
- he eventbrite page for ticket prices.\n\nPrice: Check ticket price on even
- t\n\nTickets/Info: https://www.eventbrite.com.au/b/australia--sydney/music
- /
+ he eventbrite page for ticket prices.\n\nPrice: Check site\n\nTickets/Info
+ : https://www.eventbrite.com.au/e/fri-05-jun-long-weekend-wao-superclub-ti
+ ckets-1988979738941?aff=ebdssbcategorybrowse
 LOCATION:ivy precinct\, Sydney\, Sydney
-URL:https://www.eventbrite.com.au/b/australia--sydney/music/
+URL:https://www.eventbrite.com.au/e/fri-05-jun-long-weekend-wao-superclub-t
+ ickets-1988979738941?aff=ebdssbcategorybrowse
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
