@@ -8,122 +8,123 @@ X-WR-CALDESC:Sydney's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:b890865f3203@sydney-events-scraper
-DTSTAMP:20260529T000000Z
+UID:64dd7461e4a1@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:HABIBI Sydney - Queer Middle Eastern Dance Party
+DESCRIPTION:HABIBI Sydney is a queer Middle Eastern dance party at Oxford A
+ rt Factory. Check the site for ticket details.\n\nPrice: Check site\n\nTic
+ kets/Info: https://oxfordartfactory.com/events/
+LOCATION:Oxford Art Factory\, Sydney\, Sydney
+URL:https://oxfordartfactory.com/events/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:dc258dc63a3a@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260607
+SUMMARY:Who's Bad | Ultimate Michael Jackson Experience
+DESCRIPTION:Who's Bad brings the ultimate Michael Jackson experience to the
+  Enmore Theatre. This tribute show features dazzling choreography and stun
+ ning costumes.\n\nPrice: Check site\n\nTickets/Info: https://www.onlysydne
+ y.com.au/target-theatre.php
+LOCATION:Enmore Theatre\, Newtown\, Sydney
+URL:https://www.onlysydney.com.au/target-theatre.php
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:1b29a2d76961@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Drag Bingo Bottomless Brunch
+DESCRIPTION:A fun brunch with drag queens hosting bingo and unlimited drink
+ s.\n\nPrice: Check site\n\nTickets/Info: https://humanitix.com/au/events/a
+ ustralia/sydney
+LOCATION:Manly\, Sydney\, Sydney
+URL:https://humanitix.com/au/events/australia/sydney
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c1e0587728@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Battle of the Greeks: The Great Greek Comedy Roast
+DESCRIPTION:A comedy showdown between Greek and Australian comedians.\n\nPr
+ ice: $45\n\nTickets/Info: https://www.darlingharbour.com/see-do-stay/darli
+ ng-quarter-theatre
+LOCATION:Darling Quarter Theatre\, Darling Harbour\, Sydney
+URL:https://www.darlingharbour.com/see-do-stay/darling-quarter-theatre
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:252816d54c94@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Talk and Tease Comedy Cabaret
+DESCRIPTION:Talk and Tease Comedy Cabaret at Honeycomb Club offers a rockin
+ ' variety show with a 3-course meal. Enjoy belly laughs in an intimate set
+ ting.\n\nPrice: Check site\n\nTickets/Info: https://honeycombclub.com.au
+LOCATION:Honeycomb Club\, Potts Point\, NSW\, Australia\, Sydney
+URL:https://honeycombclub.com.au
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:34d9e68ab767@sydney-events-scraper
+DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260530
-SUMMARY:Light Nights Silent Disco
-DESCRIPTION:Dance to live DJs in the MCA's Foundation Hall during Vivid Syd
- ney. Choose from multiple audio channels featuring hits from various decad
- es. Enjoy Angela Tiatia's video works on large screens inside.\n\nPrice: A
- UD65.0\n\nTickets/Info: https://www.therocks.com/whats-on/events/mca-light
- -nights
-LOCATION:Museum of Contemporary Art Australia\, The Rocks\, Sydney
-URL:https://www.therocks.com/whats-on/events/mca-light-nights
+DTEND;VALUE=DATE:20260614
+SUMMARY:Vivid Nights Begin at Vogue
+DESCRIPTION:Pre-show cocktails and tapas at Vogue Cafe.\n\nPrice: Free\n\nT
+ ickets/Info: https://www.darlingharbour.com/whats-on/events/vivid-nights-b
+ egin-at-vogue
+LOCATION:Vogue Cafe\, Darling Harbour\, Sydney
+URL:https://www.darlingharbour.com/whats-on/events/vivid-nights-begin-at-vo
+ gue
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:18ea9fb1620b@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260601
-SUMMARY:Cronulla Jazz and Blues Festival
-DESCRIPTION:Experience a diverse music lineup with eleven stages featuring 
- Jazz\, Blues\, Funk\, Soul\, and more. Enjoy free performances in parks an
- d on streets\, or attend ticketed shows at local venues.\n\nPrice: Most ev
- ents are free\n\nTickets/Info: https://sydneyexpert.com/sydney-in-may/
-LOCATION:Cronulla Street\, Cronulla\, Sydney
-URL:https://sydneyexpert.com/sydney-in-may/
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Vivid Fire Kitchen
+DESCRIPTION:Open-fire cooking and food vendors during Vivid Sydney.\n\nPric
+ e: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/eve
+ nts/vivid-fire-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:05e99c3bece4@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:90s R&B Night
-DESCRIPTION:A night of soul\, R&B\, and reggae music.\n\nPrice: Free\n\nTic
- kets/Info: https://lazyboneslounge.com.au/gigs/
-LOCATION:Lazybones Lounge Restaurant & Bar\, Marrickville\, Sydney
-URL:https://lazyboneslounge.com.au/gigs/
+UID:f9eaf5a2da72@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Harbour Glow
+DESCRIPTION:Harbour Glow takes over The Glenmore rooftop on Sunday\, June 7
+ th\, during the King’s Birthday Long Weekend.\n\nPrice: Free\n\nTickets/
+ Info: https://www.therocks.com/whats-on/events/harbour-glow-the-glenmore
+LOCATION:The Glenmore Hotel\, The Rocks\, Sydney
+URL:https://www.therocks.com/whats-on/events/harbour-glow-the-glenmore
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:42fe34a2a6c8@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Drag Race Viewing Party
-DESCRIPTION:A party to watch Drag Race with performances and energy.\n\nPri
- ce: Check site\n\nTickets/Info: https://surreal.live/en-au/event/universal
- -sydney_drag-race-viewing-party-tarauu
-LOCATION:Universal Sydney\, Darlinghurst\, Sydney
-URL:https://surreal.live/en-au/event/universal-sydney_drag-race-viewing-par
- ty-tarauu
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:deafd174f3ab@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Serial Killer Speakeasy
-DESCRIPTION:Enter a dark\, hidden setting for themed cocktails and immersiv
- e storytelling. Enjoy a unique night out with a sinister twist.\n\nPrice: 
- From $168.00\n\nTickets/Info: https://feverup.com/m/651995
-LOCATION:Albert Palais Events\, Leichhardt\, Sydney
-URL:https://feverup.com/m/651995
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:a003afbb2672@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:A Taste of HQ: Street Eats Edition
-DESCRIPTION:Enjoy a free alfresco festival in Surry Hills with live music a
- nd street food. The event runs from day to night\, offering a vibrant atmo
- sphere.\n\nPrice: Free\n\nTickets/Info: https://www.vividsydney.com/progra
- ms/free-events
-LOCATION:Foster and Hunt streets\, Surry Hills\, Sydney
-URL:https://www.vividsydney.com/programs/free-events
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:2efa85365d40@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:Bollywood Rave
-DESCRIPTION:Bollywood-themed dance party with rave music.\n\nPrice: AUD 20\
- n\nTickets/Info: https://allevents.in/sydney/live-music
-LOCATION:Barrio Cellar\, Martin Place\, Martin Place\, Sydney
-URL:https://allevents.in/sydney/live-music
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:27287372b4ed@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:Safari Park Free Party
-DESCRIPTION:A free party with live music at Safari Park.\n\nPrice: Free\n\n
- Tickets/Info: https://humanitix.com/au/events/au--nsw--sydney/free--thiswe
- ekend
-LOCATION:Marrickville\, Marrickville\, Sydney
-URL:https://humanitix.com/au/events/au--nsw--sydney/free--thisweekend
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:6d6c31e0aa91@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Awesome Black Block Party
-DESCRIPTION:Vivid Sydney music and cultural event.\n\nPrice: Free\n\nTicket
- s/Info: https://carriageworks.com.au/events/awesome-black-block-party/
-LOCATION:Carriageworks\, Sydney\, Sydney
-URL:https://carriageworks.com.au/events/awesome-black-block-party/
+UID:fce3bf146283@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Long Weekend Party
+DESCRIPTION:Kick off the long weekend with a party at ivy precinct. Check t
+ he eventbrite page for ticket prices.\n\nPrice: Check ticket price on even
+ t\n\nTickets/Info: https://www.eventbrite.com.au/b/australia--sydney/music
+ /
+LOCATION:ivy precinct\, Sydney\, Sydney
+URL:https://www.eventbrite.com.au/b/australia--sydney/music/
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
