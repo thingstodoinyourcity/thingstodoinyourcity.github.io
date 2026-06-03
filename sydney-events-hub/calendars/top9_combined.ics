@@ -30,10 +30,12 @@ DTEND;VALUE=DATE:20260607
 SUMMARY:Date Night · A Love Letter to Mexico
 DESCRIPTION:Celebrate bold Mexican flavors at Melba's Rooftop. Enjoy modern
   dishes by Chef Han Chen and Don Julio tequila cocktails by Seine Cheung. 
- Upgrade to premium Don Julio 1942 for a luxe experience.\n\nPrice: Check s
- ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/?time=weekend
+ Upgrade to premium Don Julio 1942 for a luxe experience.\n\nPrice: From $9
+ \n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/a-love-le
+ tter-to-mexico-at-melbas-rooftop
 LOCATION:THE ROCKS\, FOOD & DRINK\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/?time=weekend
+URL:https://whatson.cityofsydney.nsw.gov.au/events/a-love-letter-to-mexico-
+ at-melbas-rooftop
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
@@ -57,9 +59,11 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260608
 SUMMARY:Date Night · The Pirates of Penzance
-DESCRIPTION:Theatre production of Gilbert and Sullivan's classic comedy.\n\
- nPrice: from $59.99\n\nTickets/Info: https://www.sydney.com/destinations/s
- ydney/sydney-city/pyrmont/events/the-pirates-penzance
+DESCRIPTION:The Pirates of Penzance or The Slave of Duty brings five actors
+  into every role\, with Hayes Theatre Co taking its landmark production to
+  the Foundry Stage after a sold-out season.\n\nPrice: from $59.99\n\nTicke
+ ts/Info: https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/ev
+ ents/the-pirates-penzance
 LOCATION:Foundry Stage\, Sydney City\, Sydney
 URL:https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/events/t
  he-pirates-penzance
@@ -258,9 +262,11 @@ DTEND;VALUE=DATE:20260609
 SUMMARY:Only in Sydney · VIVID VOYAGE - Feat SPECTACULAR VIVID LIGHTS
 DESCRIPTION:Experience a boat party with 11 DJs\, a saxophonist\, and percu
  ssionist\, dancing under Vivid lights on a three-level boat for four hours
- .\n\nPrice: $3\n\nTickets/Info: https://allevents.in/sydney/performances
+ .\n\nPrice: $3\n\nTickets/Info: https://allevents.in/sydney/vivid-voyage-f
+ eat-spectacular-vivid-lights/100001988058571705
 LOCATION:King Street Wharf 3\, Sydney\, Sydney
-URL:https://allevents.in/sydney/performances
+URL:https://allevents.in/sydney/vivid-voyage-feat-spectacular-vivid-lights/
+ 100001988058571705
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
@@ -293,18 +299,18 @@ URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-ci
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:057b3437b600@sydney-events-scraper
+UID:a48b34fbe9ea@sydney-events-scraper
 DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
-SUMMARY:Culture & Arts · Angela Tiatia: Vaiola
-DESCRIPTION:Sāmoan-Australian artist Angela Tiatia’s Vaiola is a large-s
- cale light projection exploring migration\, belonging\, and Pacific cultur
- es through cinematic language and an accompanying score by Corin Ileto.\n\
- nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/even
- ts/angela-tiatia-vaiola
-LOCATION:Museum of Contemporary Art\, EXHIBITIONS\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/angela-tiatia-vaiola
+SUMMARY:Culture & Arts · Prima Facie
+DESCRIPTION:Australian playwright Suzie Miller’s acclaimed one-woman play
+  returns to Sydney in its original Australian production\, with Sheridan H
+ arbridge reprising her role and Lee Lewis directing.\n\nPrice: From $84\n\
+ nTickets/Info: https://sydneyexpert.com/sydney-in-june/
+LOCATION:Roslyn Packer Theatre\, 22 Hickson Road\, Walsh Bay\, Walsh Bay\, 
+ Sydney
+URL:https://sydneyexpert.com/sydney-in-june/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -359,9 +365,9 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Culture & Arts · Bach and the Bard
-DESCRIPTION:Discover concerts\, gigs\, and live music in Sydney\, including
-  jazz festivals\, sing-alongs\, and drum lessons.\n\nPrice: Check site\n\n
- Tickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/music
+DESCRIPTION:A concert pairing classical music with Shakespeare's poetry.\n\
+ nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.a
+ u/categories/music
 LOCATION:Surry Hills\, Surry Hills\, Sydney
 URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
 CATEGORIES:Culture & Arts
@@ -372,9 +378,10 @@ DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260608
 SUMMARY:Culture & Arts · Alexander Yau in Recital
-DESCRIPTION:Discover concerts\, gigs\, and live music in Sydney\, including
-  jazz festivals\, sing-alongs\, and drum lessons.\n\nPrice: Check site\n\n
- Tickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/music
+DESCRIPTION:Alexander Yau traverses wit\, lyricism\, and drama through the 
+ works of Beethoven\, Schumann\, Debussy and Prokofiev.\n\nPrice: Check sit
+ e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/musi
+ c
 LOCATION:GLEBE\, Glebe\, Sydney
 URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
 CATEGORIES:Culture & Arts
@@ -389,9 +396,9 @@ SUMMARY:Culture & Arts · Come Alive - The Greatest Showman Circus Spectacu
 DESCRIPTION:Experience The Greatest Showman like never before with COME ALI
  VE!\, featuring acrobatic artistry and aerial acts set to iconic anthems f
  rom the film.\n\nPrice: Check site\n\nTickets/Info: https://www.onlysydney
- .com.au/target-theatre.php
+ .com.au/come-alive-eq
 LOCATION:See event link\, Moore Park\, Sydney
-URL:https://www.onlysydney.com.au/target-theatre.php
+URL:https://www.onlysydney.com.au/come-alive-eq
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -475,16 +482,17 @@ URL:https://www.darlingharbour.com/whats-on/events/vivid-nights-begin-at-vo
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:70da207780ff@sydney-events-scraper
+UID:735fd9f23e78@sydney-events-scraper
 DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Going Out · Vivid Fire Kitchen
-DESCRIPTION:Open-fire cooking and food vendors during Vivid Sydney.\n\nPric
- e: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/eve
- nts/vivid-fire-kitchen
-LOCATION:Barangaroo Reserve\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Going Out · Comedy Untamed Sydney
+DESCRIPTION:Comedy Untamed brings a Sydney lineup of stand-up comics to The
+  Comedy Store\, hosted by Neel Kolhatkar\, with live social-media-style li
+ ne games and an early Saturday evening show.\n\nPrice: Check site\n\nTicke
+ ts/Info: https://www.comedystore.com.au/event/comedy-untamed/
+LOCATION:The Comedy Store\, Moore Park\, Sydney
+URL:https://www.comedystore.com.au/event/comedy-untamed/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
@@ -507,11 +515,12 @@ DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Going Out · Long Weekend Party
 DESCRIPTION:Kick off the long weekend with a party at ivy precinct. Check t
- he eventbrite page for ticket prices.\n\nPrice: Check ticket price on even
- t\n\nTickets/Info: https://www.eventbrite.com.au/b/australia--sydney/music
- /
+ he eventbrite page for ticket prices.\n\nPrice: Check site\n\nTickets/Info
+ : https://www.eventbrite.com.au/e/fri-05-jun-long-weekend-wao-superclub-ti
+ ckets-1988979738941?aff=ebdssbcategorybrowse
 LOCATION:ivy precinct\, Sydney\, Sydney
-URL:https://www.eventbrite.com.au/b/australia--sydney/music/
+URL:https://www.eventbrite.com.au/e/fri-05-jun-long-weekend-wao-superclub-t
+ ickets-1988979738941?aff=ebdssbcategorybrowse
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
