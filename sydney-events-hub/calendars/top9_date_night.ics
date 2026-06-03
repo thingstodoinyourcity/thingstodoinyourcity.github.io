@@ -8,134 +8,133 @@ X-WR-CALDESC:Sydney's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:a161c63ff265@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260628
-SUMMARY:Taste of Country Experience
-DESCRIPTION:Bush Tucker tour and dining in the Royal Botanic Garden.\n\nPri
- ce: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/t
- aste-of-country-experience
-LOCATION:The Royal Botanic Garden\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/taste-of-country-experie
- nce
+UID:1fc052ebe20e@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:An Evening at Vaucluse House
+DESCRIPTION:Explore Vaucluse House after dark with an intimate tour. Discov
+ er the lavishly decorated drawing room by candlelight and hear stories abo
+ ut the Wentworth family and their servants. Enjoy nibbles and a glass of w
+ ine in the servants’ kitchen.\n\nPrice: Check site\n\nTickets/Info: http
+ s://mhnsw.au/whats-on/events/an-evening-visit-to-vaucluse-house/
+LOCATION:Vaucluse House\, Wentworth Road\, Vaucluse NSW 2030\, Sydney
+URL:https://mhnsw.au/whats-on/events/an-evening-visit-to-vaucluse-house/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:402ea6dea43d@sydney-events-scraper
-DTSTAMP:20260529T000000Z
+UID:49ca12277472@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:A Love Letter to Mexico
+DESCRIPTION:Celebrate bold Mexican flavors at Melba's Rooftop. Enjoy modern
+  dishes by Chef Han Chen and Don Julio tequila cocktails by Seine Cheung. 
+ Upgrade to premium Don Julio 1942 for a luxe experience.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/?time=weekend
+LOCATION:THE ROCKS\, FOOD & DRINK\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/?time=weekend
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb299e78781@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260605
+SUMMARY:Lucas Debargue Piano Recital
+DESCRIPTION:A rare performance by the imaginative French pianist Lucas Deba
+ rgue.\n\nPrice: from $35\n\nTickets/Info: https://www.sydney.com/destinati
+ ons/sydney/sydney-city/city-centre/events/live-the-great-lucas-debargue-le
+ nigme-francaise
+LOCATION:Sydney City\, Sydney City\, Sydney
+URL:https://www.sydney.com/destinations/sydney/sydney-city/city-centre/even
+ ts/live-the-great-lucas-debargue-lenigme-francaise
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:f838e9e56b14@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260608
+SUMMARY:The Pirates of Penzance
+DESCRIPTION:Theatre production of Gilbert and Sullivan's classic comedy.\n\
+ nPrice: from $59.99\n\nTickets/Info: https://www.sydney.com/destinations/s
+ ydney/sydney-city/pyrmont/events/the-pirates-penzance
+LOCATION:Foundry Stage\, Sydney City\, Sydney
+URL:https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/events/t
+ he-pirates-penzance
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:46013ab4e752@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Swing & Sway Soiree ft. Charlie Chech
+DESCRIPTION:Charlie Chech returns for a one-off Swing & Sway Soiree show. E
+ njoy an evening of talented performances and live music.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/las-ve
+ gas-nights-ft-charlie-chech-live
+LOCATION:CARDEA BARANGAROO\, FOOD & DRINK\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-nights-ft-char
+ lie-chech-live
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:cdabae94123a@sydney-events-scraper
+DTSTAMP:20260603T000000Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260614
-SUMMARY:Night Picnic at Vivid Sydney
-DESCRIPTION:Spread out under the stars and the Vivid lights with a picnic o
- n Hickson Road. Enjoy the illuminated views of the Sydney Harbour Bridge. 
- Free entry.\n\nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.n
- sw.gov.au/events/night-picnic-at-vivid-sydney
-LOCATION:Hickson Rd\, Dawes Point NSW 2000\, Australia\, Dawes Point\, Sydn
- ey
-URL:https://whatson.cityofsydney.nsw.gov.au/events/night-picnic-at-vivid-sy
- dney
+SUMMARY:Vivid Sydney 2026
+DESCRIPTION:Vivid Sydney features extraordinary lighting sculptures\, cutti
+ ng-edge music\, and ideas programs. This annual event transforms Sydney in
+ to an outdoor gallery of light and creativity.\n\nPrice: Free\n\nTickets/I
+ nfo: https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/vivid-sy
+ dney-2026
+LOCATION:Bennelong Point\, Sydney Harbour\, Sydney Harbour\, Sydney
+URL:https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/vivid-sydn
+ ey-2026
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:36ed3574f578@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Saltbush & Starlight Dining
-DESCRIPTION:Dining experience with a tour of the Sydney Opera House.\n\nPri
- ce: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/s
- altbush-and-starlight-dining-at-sydney-opera-house
-LOCATION:Sydney Opera House\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/saltbush-and-starlight-d
- ining-at-sydney-opera-house
+UID:1511bc7ed299@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260726
+SUMMARY:Sydney Harbour Lunch Cruise
+DESCRIPTION:A scenic cruise with lunch while exploring Sydney Harbour.\n\nP
+ rice: $159\n\nTickets/Info: https://feverup.com/en/sydney/when/this-weeken
+ d
+LOCATION:Sydney
+URL:https://feverup.com/en/sydney/when/this-weekend
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0b1deba73058@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid at Blu Bar on 36
-DESCRIPTION:Sip a glowing cocktail while taking in Vivid's best views from 
- the 36th floor of the Shangri-La Hotel. Free entry.\n\nPrice: Free\n\nTick
- ets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-at-blu-bar-
- on-36-shangri-la-sydney
-LOCATION:Shangri-La Hotel\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-at-blu-bar-on-36-s
- hangri-la-sydney
+UID:761b59a7978b@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Winter Roast & Live Jazz
+DESCRIPTION:Enjoy a Winter Roast paired with live jazz at The Old Fitzroy H
+ otel. Experience a cozy evening of great food and music.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/mu
+ sic
+LOCATION:THE OLD FITZROY HOTEL\, FOOD & DRINK\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0826287778ca@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid Lights & Cabaret Delights On The Showboat Vivid Cruise
-DESCRIPTION:Cruise Sydney Harbour on the Showboat\, enjoying a three-course
-  meal\, live cabaret\, and Vivid lights. Free entry.\n\nPrice: Free\n\nTic
- kets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-lights-and
- -cabaret-delights-on-the-showboat-vivid-cruise
-LOCATION:Sydney Harbour\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-lights-and-cabaret
- -delights-on-the-showboat-vivid-cruise
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:9820d2ac8e8d@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260622
-SUMMARY:Sunflowers & Swirls
-DESCRIPTION:A floral art installation at The Grounds of Alexandria.\n\nPric
- e: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/su
- nflowers-and-swirls
-LOCATION:The Grounds of Alexandria\, Alexandria\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/sunflowers-and-swirls
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:8a95b5b4528f@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260612
-SUMMARY:After Dark Dinners at Canvas
-DESCRIPTION:Dine at Canvas restaurant with a menu inspired by Angela Tiatia
- 's art\, then explore the MCA after hours. AUD290.\n\nPrice: AUD290.0\n\nT
- ickets/Info: https://www.therocks.com/whats-on/events/after-dark-dinners-a
- t-canvas
-LOCATION:Museum of Contemporary Art Australia\, The Rocks\, Sydney
-URL:https://www.therocks.com/whats-on/events/after-dark-dinners-at-canvas
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:2cf3e87b666d@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260531
-SUMMARY:A Shared Table With Yotam Ottolenghi
-DESCRIPTION:Join chef Yotam Ottolenghi for a special lunch or dinner. A rar
- e chance to experience his unique culinary style. From AUD340.\n\nPrice: F
- rom $340.00*\n\nTickets/Info: https://www.vividsydney.com/event/food/a-sha
- red-table-with-yotam-ottolenghi
-LOCATION:Sydney CBD and Surrounds\, Sydney CBD and Surrounds\, Sydney
-URL:https://www.vividsydney.com/event/food/a-shared-table-with-yotam-ottole
- nghi
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:9e589a61f082@sydney-events-scraper
-DTSTAMP:20260529T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Night in the Balkans
-DESCRIPTION:Enjoy live Balkan music and a celebratory dinner at Cardea. Fea
- turing vocalist Daniela and the dynamic Group Todorovici. AUD130.\n\nPrice
- : AUD130.0\n\nTickets/Info: https://www.barangaroo.com/whats-on/events/nig
- ht-in-the-balkans-live-music-show-dinner
-LOCATION:Cardea\, Barangaroo\, Sydney
-URL:https://www.barangaroo.com/whats-on/events/night-in-the-balkans-live-mu
- sic-show-dinner
+UID:b12bc7c388ae@sydney-events-scraper
+DTSTAMP:20260603T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Cult & Classic Food & Wine Party
+DESCRIPTION:NSW food and wine celebration in an urban cellar door setting.\
+ n\nPrice: From $45\n\nTickets/Info: https://www.vividsydney.com/event/food
+ /cult-classic-a-nsw-food-wine-party
+LOCATION:The Wine Bar at The International\, Sydney CBD\, Sydney
+URL:https://www.vividsydney.com/event/food/cult-classic-a-nsw-food-wine-par
+ ty
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
