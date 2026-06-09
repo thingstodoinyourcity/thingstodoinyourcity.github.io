@@ -8,140 +8,134 @@ X-WR-CALDESC:London's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:6e6335393e6f@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Cabaret
-DESCRIPTION:Step into 1930s Berlin at the transformed Playhouse Theatre. En
- joy the vibrant and turbulent world of Cabaret\, a show that has captivate
- d London’s theatre scene.\n\nPrice: from £65\n\nTickets/Info: https://w
- ww.londonboxoffice.co.uk/shows-tonight
-LOCATION:Kit Kat Club at the Playhouse\, West End\, London
-URL:https://www.londonboxoffice.co.uk/shows-tonight
+UID:c54e24209fb2@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260630
+SUMMARY:Citizens of Soil Olive Oil Bar
+DESCRIPTION:One-month pop-up with tastings\, masterclasses\, and a cookbook
+  launch.\n\nPrice: £95\n\nTickets/Info: https://www.londonpopups.com/2026
+ /06/pop-ups-in-london-5th-12th-june-2026.html?m=0
+LOCATION:Covent Garden\, Covent Garden\, London
+URL:https://www.londonpopups.com/2026/06/pop-ups-in-london-5th-12th-june-20
+ 26.html?m=0
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:8c19404c4eec@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Moulin Rouge! The Musical
-DESCRIPTION:Experience a breathtaking celebration of love and art. Moulin R
- ouge! The Musical brings the iconic story to life with spectacular perform
- ances and dazzling costumes.\n\nPrice: from £48\n\nTickets/Info: https://
- www.londonboxoffice.co.uk/shows-tonight
-LOCATION:Piccadilly Theatre\, West End\, London
-URL:https://www.londonboxoffice.co.uk/shows-tonight
+UID:bd05039edb9b@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Gin Talk and Tasting on HMS Belfast
+DESCRIPTION:Celebrate National Gin Day aboard HMS Belfast with a talk on gi
+ n's history in the Armed Forces. Enjoy a tasting of Veteran Gin's award-wi
+ nning London dry\, with proceeds supporting veterans. Event is on 13th Jun
+ e 2026\, 6:30pm to 7:45pm.\n\nPrice: £20\n\nTickets/Info: https://www.ian
+ visits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-42949
+ 4/
+LOCATION:HMS Belfast\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on
+ -hms-belfast-429494/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:0bc387c27509@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260608
-SUMMARY:Moco Museum London + Cocktail
-DESCRIPTION:Explore more than 100 modern\, contemporary\, digital and immer
- sive works at Moco Museum London\, then finish with a cocktail at The Cumb
- erland's SOUND Cafe and Bar.\n\nPrice: from £26\n\nTickets/Info: https://
- feverup.com/m/364373
-LOCATION:Moco Museum London\, London\, London
-URL:https://feverup.com/m/364373
+UID:ff69c307bc4c@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260621
+SUMMARY:Romeo and Juliet
+DESCRIPTION:Sadie Sink and Noah Jupe make their West End debuts in this new
+  adaptation of Shakespeare's tragedy. Running time is 2 hours 55 minutes\,
+  including one interval. Show runs until 20th June 2026.\n\nPrice: from £
+ 24\n\nTickets/Info: https://www.londonboxoffice.co.uk/all-london-shows/jun
+ e
+LOCATION:Harold Pinter Theatre\, West End\, London
+URL:https://www.londonboxoffice.co.uk/all-london-shows/june
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:816620813637@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Roses Walk – The Promise of a Rose Garden
-DESCRIPTION:Join Head of Gardens Rosie Fyles for a colourful and fragrant w
- alk through Chiswick House & Gardens' 1000s of roses. Enjoy the beauty and
-  scent of the rose garden.\n\nPrice: Check site\n\nTickets/Info: https://c
- hiswickhouseandgardens.org.uk/event/roses-walk-the-promise-of-a-rose-garde
+UID:6ba8ef2b75ce@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Jean-Paul Live in Concert
+DESCRIPTION:Soul-stirring music performance by versatile artist Jean-Paul.\
+ n\nPrice: Free\n\nTickets/Info: https://www.londontheatres.com/events/come
+ dy
+LOCATION:Soul Mama\, Stratford\, London
+URL:https://www.londontheatres.com/events/comedy
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:4185855de2e8@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Wine\, Blinis and Conversation
+DESCRIPTION:Evening of wine tasting and blinis at Borough Market.\n\nPrice:
+  £15\n\nTickets/Info: https://batterseapowerstation.co.uk/events/wine-bli
+ nis-and-conversation/
+LOCATION:Borough\, London
+URL:https://batterseapowerstation.co.uk/events/wine-blinis-and-conversation
+ /
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b6afe0b1fe@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Evening Garden Tour at Richmond Castle
+DESCRIPTION:Explore historic gardens after hours with guided tours.\n\nPric
+ e: Free\n\nTickets/Info: https://www.english-heritage.org.uk/visit/whats-o
  n/
-LOCATION:Chiswick House & Gardens\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/roses-walk-the-promise-of-
- a-rose-garden/
+LOCATION:Richmond Castle\, Richmond\, London
+URL:https://www.english-heritage.org.uk/visit/whats-on/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:ad7d1c09ed32@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260608
-SUMMARY:Alphonso Mango Season
-DESCRIPTION:Celebrate Alphonso mango season at Dishoom. Indulge in a delici
- ous dessert featuring this sunburst-coloured fruit\, topped with a scoop o
- f vanilla ice cream.\n\nPrice: Check site\n\nTickets/Info: https://www.des
- ignmynight.com/london/whats-on/best-events-in-may
-LOCATION:Dishoom\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+UID:82df2c1640c4@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Much Ado About Nothing
+DESCRIPTION:Enjoy a sun-soaked Shakespeare comedy of sharp tongues\, gossip
+ \, and second chances at Shakespeare's Globe. Free entry.\n\nPrice: Free\n
+ \nTickets/Info: https://www.skiddle.com/whats-on/London/Shakespeare%27s-Gl
+ obe/Much-Ado-About-Nothing-2026/42369918/
+LOCATION:Shakespeare's Globe\, London\, London
+URL:https://www.skiddle.com/whats-on/London/Shakespeare%27s-Globe/Much-Ado-
+ About-Nothing-2026/42369918/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:9251ebe842d7@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-SUMMARY:Fine Dining Tasting Menus
-DESCRIPTION:Blending Japanese elegance with bold Peruvian flavours\, Ayllu 
- offers two tasting menus: Cuzco and Machu Picchu. Enjoy dishes like Tuna T
- ataki and Peruvian Beef BBQ\, with a vegetarian option available.\n\nPrice
- : from £48.60 – £63.89\n\nTickets/Info: https://ayllu-restaurant.desig
- nmynight.com/653796076b4fa02f376f5549/experience-unforgettable-tasting-men
- us-at-ayllu
-LOCATION:London
-URL:https://ayllu-restaurant.designmynight.com/653796076b4fa02f376f5549/exp
- erience-unforgettable-tasting-menus-at-ayllu
+UID:aa17ecae535d@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:A Guide to Gavi with Jimmy Smith
+DESCRIPTION:Taste the diversity of Gavi wines from Italy.\n\nPrice: £30\n\
+ nTickets/Info: https://batterseapowerstation.co.uk/events/a-guide-to-gavi-
+ with-jimmy-smith/
+LOCATION:The Tasting Tent\, Power Station Park\, London
+URL:https://batterseapowerstation.co.uk/events/a-guide-to-gavi-with-jimmy-s
+ mith/
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:637f662d6c86@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260701
-SUMMARY:The Definitive Rat Pack
-DESCRIPTION:Enjoy the music and chemistry of Sinatra\, Martin\, and Davis i
- n The Definitive Rat Pack. This show features sharp phrasing\, relaxed del
- ivery\, and moments of spontaneity\, with a set list including "That’s L
- ife" and "Mr. Bojangles".\n\nPrice: from £52.92 – £99.64\n\nTickets/In
- fo: https://boisdalecanarywharf.designmynight.com/69dfc30ab064a97589676694
- /the-definitive-rat-pack-15
-LOCATION:Boisdale of Canary Wharf\, Canary Wharf\, London
-URL:https://boisdalecanarywharf.designmynight.com/69dfc30ab064a97589676694/
- the-definitive-rat-pack-15
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:f7d02fef55f2@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Amélie - 25th Anniversary
-DESCRIPTION:See Amelie on 35mm at Prince Charles Cinema for its 25th annive
- rsary. The Saturday 6 June screening is at 2:55pm in Leicester Square.\n\n
- Price: Check site\n\nTickets/Info: https://princecharlescinema.com/film/18
- 70384/amelie-25th-anniversary/
-LOCATION:Prince Charles Cinema\, Leicester Square\, London
-URL:https://princecharlescinema.com/film/1870384/amelie-25th-anniversary/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:fe00de98c846@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Sky High Brunch
-DESCRIPTION:CÉ LA VI's Sky High Brunch pairs signature brunch dishes with 
- 90 minutes of free-flowing drinks and live DJs. Tickets are listed from £
- 45.\n\nPrice: From £45\n\nTickets/Info: https://www.factmagazines.com/lon
- don/united-kingdom/london-united-kingdom/things-to-do-london-united-kingdo
- m/fabulous-things-to-do-in-london-this-month
-LOCATION:CÉ LA VI London\, Paddington\, London
-URL:https://www.factmagazines.com/london/united-kingdom/london-united-kingd
- om/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this
- -month
+UID:953459d21606@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Gimme! Gimme! Gimme! Bottomless Brunch
+DESCRIPTION:Join a rooftop ABBA-themed brunch with live performances\, bott
+ omless cocktails\, and brunch. Tickets from £42.90\, event on 13th June 2
+ 026.\n\nPrice: from £42.90 – £59.40\n\nTickets/Info: https://www.desig
+ nmynight.com/london/bars/waterloo/circes-waterloo/mamma-mia-bottomless-bru
+ nch
+LOCATION:Circe’s Rooftop Waterloo\, Waterloo\, London
+URL:https://www.designmynight.com/london/bars/waterloo/circes-waterloo/mamm
+ a-mia-bottomless-brunch
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
