@@ -8,134 +8,133 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:f94deb9fa7f2@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260607
-SUMMARY:SXSW London
-DESCRIPTION:SXSW London brings a mix of music\, art\, and tech to Shoreditc
- h. Catch performances by Rachel Chinouriri\, Pete Tong\, and Earl Sweatshi
- rt. Day passes are £25\, or £79 for full access.\n\nPrice: £25 (day pas
- s) or £79 (full access)\n\nTickets/Info: https://secretldn.com/things-to-
- do-in-london-weekend/
-LOCATION:Shoreditch\, Shoreditch\, London
+UID:e85c0ede003e@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260613
+SUMMARY:Lido Festival
+DESCRIPTION:Lido Festival brings live music to Victoria Park from 9 to 12 J
+ une\, featuring internationally known artists across multiple days.\n\nPri
+ ce: £15\n\nTickets/Info: https://www.factmagazines.com/london/united-king
+ dom/london-united-kingdom/things-to-do-london-united-kingdom/fabulous-thin
+ gs-to-do-in-london-this-month
+LOCATION:Victoria Park\, London E3 5TB\, London
+URL:https://www.factmagazines.com/london/united-kingdom/london-united-kingd
+ om/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this
+ -month
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:c4edda3bfb79@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:London Nocturn
+DESCRIPTION:London Nocturn offers cycling competitions for all ages\, with 
+ fast-paced races and a festival program on a closed-road circuit through C
+ heapside and Bank.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.c
+ o.uk/calendar/london-nocturn-431307/
+LOCATION:Mansion House\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/london-nocturn-431307/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae934dc2f32@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260830
+SUMMARY:Summer in Camden
+DESCRIPTION:Summer in Camden features free events all summer at Camden Mark
+ et and Hawley Wharf\, including Wimbledon screenings\, food\, music\, and 
+ performances.\n\nPrice: FREE\n\nTickets/Info: https://camdenmarket.com/eve
+ nts
+LOCATION:Camden Market and Hawley Wharf\, Camden\, London
+URL:https://camdenmarket.com/events
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a82c265a767e@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Tali Tigers: Summer Send Off
+DESCRIPTION:Bollywood and bhangra club night with summer vibes.\n\nPrice: C
+ heck site\n\nTickets/Info: https://www.xoyo.co.uk/events/tali-tigers-summe
+ r-send-off-bollywood-x-bhangra-x-club-anthems
+LOCATION:London
+URL:https://www.xoyo.co.uk/events/tali-tigers-summer-send-off-bollywood-x-b
+ hangra-x-club-anthems
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:c8f985fb160c@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Disko Wunderbar
+DESCRIPTION:Disko Wunderbar at Albert's Schloss in Soho offers live music e
+ very Wednesday\, with bands reworking classic hits and guilty pleasures.\n
+ \nPrice: Free\n\nTickets/Info: http://alberts-schloss-london.designmynight
+ .com
+LOCATION:Albert's Schloss - Soho\, Soho\, London
+URL:http://alberts-schloss-london.designmynight.com
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b47acdf4b8@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:San Vito\, The Fugs\, Mayzel
+DESCRIPTION:San Vito\, The Fugs\, and Mayzel perform at The Old Blue Last o
+ n Wednesday 10th June. Free entry\, but arrive early to secure a spot.\n\n
+ Price: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/san-vito-
+ the-fugs-mayzel-at-the-old-blue-last-london/
+LOCATION:The Old Blue Last\, Shoreditch\, London
+URL:https://eventsforlondon.co.uk/event/san-vito-the-fugs-mayzel-at-the-old
+ -blue-last-london/
+CATEGORIES:Going Out
+END:VEVENT
+BEGIN:VEVENT
+UID:11a095ff1500@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+SUMMARY:British Grand Prix at KERB Sports Bar
+DESCRIPTION:Celebrate the British Grand Prix with F1-themed activities at t
+ his Shoreditch sports bar.\n\nPrice: Free\n\nTickets/Info: https://secretl
+ dn.com/things-to-do-in-london-weekend/
+LOCATION:KERB Sports Bar\, Shoreditch\, London
 URL:https://secretldn.com/things-to-do-in-london-weekend/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:0f440b4a2dfa@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Between the Bridges’ Rhinestone Fest
-DESCRIPTION:Between the Bridges’ Rhinestone Fest offers country music\, d
- ance\, and DJs. Enjoy food stalls and even a rodeo bull. Held on the South
- bank.\n\nPrice: Check site\n\nTickets/Info: https://secretldn.com/things-t
- o-do-in-london-weekend/
-LOCATION:The Queens Walk\, Southbank\, Southbank\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
+UID:c33a67344a9e@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+SUMMARY:Burger Fest UK 2026
+DESCRIPTION:Burger Fest UK 2026 at Richmond Athletic Ground features over 2
+ 0 traders competing for the UK Burger Championship\, with live music and e
+ ating competitions.\n\nPrice: from £17.60\n\nTickets/Info: https://www.de
+ signmynight.com/london/whats-on/food-drink-festival/burger-fest-uk
+LOCATION:Richmond Athletic Ground\, Richmond\, London
+URL:https://www.designmynight.com/london/whats-on/food-drink-festival/burge
+ r-fest-uk
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:28c80acf4184@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Beehive LDN 4th Birthday
-DESCRIPTION:Beehive LDN returns to Egg London for its 4th birthday\, runnin
- g 11pm-7am on Saturday 6 June with deep\, tech\, afro and tribal house.\n\
- nPrice: Check site\n\nTickets/Info: https://egglondon.co.uk/events/beehive
- -ldn-4th-birthday-deep-tech-afro-tribal-house/
-LOCATION:Egg London\, London\, London
-URL:https://egglondon.co.uk/events/beehive-ldn-4th-birthday-deep-tech-afro-
- tribal-house/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:b3233ba72393@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Bottomless Disco Brunch
-DESCRIPTION:Disco Dollies and Boogie Babes\, join the wildest drag brunch. 
- Sparkle\, slay\, and sashay your way through Core Bar.\n\nPrice: Check sit
- e\n\nTickets/Info: https://www.skiddle.com/whats-on/London/drag-shows/
-LOCATION:Core Bar\, London\, London
-URL:https://www.skiddle.com/whats-on/London/drag-shows/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:81988d2c60f1@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Echoes of Prince: Birthday Party
-DESCRIPTION:Celebrate Prince at The Jazz Cafe with Echoes Of and The DreZon
- e. Expect live classics including When Doves Cry and I Would Die 4 U.\n\nP
- rice: £20\n\nTickets/Info: https://thejazzcafe.com/event/echoes-of-prince
- -birthday-party-2/
-LOCATION:The Jazz Cafe\, Camden\, London\, London
-URL:https://thejazzcafe.com/event/echoes-of-prince-birthday-party-2/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:53eca1b39c32@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:London Brewery Tour & Beer Tasting
-DESCRIPTION:Tour the Five Points Brewery in Hackney. Learn about brewing an
- d taste four beers. Includes 10% off drinks and food post-tour.\n\nPrice: 
- Tickets from £20 – £30\n\nTickets/Info: https://fivepointsbrewingco.de
- signmynight.com/61600861e02807737e46b405/the-five-points-brewery-tours-and
- -tastings
-LOCATION:The Five Points Brewery Taproom & Courtyard\, Hackney\, London
-URL:https://fivepointsbrewingco.designmynight.com/61600861e02807737e46b405/
- the-five-points-brewery-tours-and-tastings
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:56ec86ff04f3@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:UKG Brunch - ALL DAY RAVE
-DESCRIPTION:UKG Brunch takes over Fabric London on Saturday 6 June from 1pm
-  to 9pm for a huge daytime party. Current tickets are listed from £15.\n\
- nPrice: from £15\n\nTickets/Info: https://www.skiddle.com/whats-on/London
- /Fabric-London/UKG-Brunch---ALL-DAY-RAVE/42247520/
-LOCATION:Fabric London\, London\, London
-URL:https://www.skiddle.com/whats-on/London/Fabric-London/UKG-Brunch---ALL-
- DAY-RAVE/42247520/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:d922e0df6ecc@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260608
-SUMMARY:VIVA Reggaeton - Bad Bunny Tribute
-DESCRIPTION:VIVA Reggaeton celebrates Bad Bunny with three rooms of music. 
- Enjoy arcade games\, cocktails\, and street food at Lightbox.\n\nPrice: £
- 15\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Lightbox/VIVA-
- Reggaeton---Bad-Bunny-Tribute/42413906/
-LOCATION:Lightbox\, London\, London
-URL:https://www.skiddle.com/whats-on/London/Lightbox/VIVA-Reggaeton---Bad-B
- unny-Tribute/42413906/
-CATEGORIES:Going Out
-END:VEVENT
-BEGIN:VEVENT
-UID:867fce2e4288@london-events-scraper
-DTSTAMP:20260602T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Boogie-Funk Experience ft. Jéroboam
-DESCRIPTION:Paris-based Jéroboam bring an 11-piece boogie-funk live show t
- o The Jazz Cafe on Friday 5 June\, with standing tickets listed at £17.50
- .\n\nPrice: £17.50\n\nTickets/Info: https://thejazzcafe.com/event/boogie-
- funk-experience-ft-jeroboam/
-LOCATION:The Jazz Cafe\, Camden\, London\, London
-URL:https://thejazzcafe.com/event/boogie-funk-experience-ft-jeroboam/
+UID:4d2fb69698b7@london-events-scraper
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Carwash Daytime Disco: Sunset Sessions
+DESCRIPTION:Carwash Daytime Disco: Sunset Sessions at Core Bar offers a vib
+ rant\, immersive disco experience with retro glamour\, themed giveaways\, 
+ and a soul-soaked soundtrack.\n\nPrice: Tickets from £18.50 – £480\n\n
+ Tickets/Info: http://carwash.designmynight.com
+LOCATION:Core Bar\, City of London\, London
+URL:http://carwash.designmynight.com
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
