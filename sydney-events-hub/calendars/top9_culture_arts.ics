@@ -8,134 +8,127 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in Sydney 
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:46bdf20f97cf@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260614
-SUMMARY:Bangarra Dance Theatre: Sheltering
-DESCRIPTION:Australia’s leading Indigenous performing arts company presen
- ts a triple bill exploring First Nations perspectives on country\, identit
- y\, and intergenerational connection.\n\nPrice: From $79\n\nTickets/Info: 
- https://sydneyexpert.com/sydney-in-june/
-LOCATION:Joan Sutherland Theatre\, Sydney Opera House\, Sydney Opera House\
- , Sydney
-URL:https://sydneyexpert.com/sydney-in-june/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:a6e14f99df24@sydney-events-scraper
-DTSTAMP:20260603T000000Z
+UID:fd4d7ccfb5e0@sydney-events-scraper
+DTSTAMP:20260610T000000Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid Bloom
-DESCRIPTION:Light and dining experience during Vivid Sydney.\n\nPrice: Free
- \n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/vivid-blo
- om-at-market-city
-LOCATION:Market City\, Haymarket\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-ci
- ty
+SUMMARY:Afterimage: Projection Mapped Mural
+DESCRIPTION:A 3D-animated graffiti mural created live at Tumbalong Park\, b
+ lending street art with projection mapping. Part of Vivid Sydney\, it's fr
+ ee to view.\n\nPrice: Free\n\nTickets/Info: https://www.vividsydney.com/ev
+ ent/light/afterimage-a-projection-mapped-mural
+LOCATION:Tumbalong Park\, Darling Harbour\, Sydney
+URL:https://www.vividsydney.com/event/light/afterimage-a-projection-mapped-
+ mural
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:a48b34fbe9ea@sydney-events-scraper
-DTSTAMP:20260603T000000Z
+UID:6d7247a12167@sydney-events-scraper
+DTSTAMP:20260610T000000Z
 DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:Prima Facie
-DESCRIPTION:Australian playwright Suzie Miller’s acclaimed one-woman play
-  returns to Sydney in its original Australian production\, with Sheridan H
- arbridge reprising her role and Lee Lewis directing.\n\nPrice: From $84\n\
- nTickets/Info: https://sydneyexpert.com/sydney-in-june/
-LOCATION:Roslyn Packer Theatre\, 22 Hickson Road\, Walsh Bay\, Walsh Bay\, 
- Sydney
-URL:https://sydneyexpert.com/sydney-in-june/
+DTEND;VALUE=DATE:20260628
+SUMMARY:Ilyarnayt
+DESCRIPTION:Art exhibition presented in collaboration with Utopia Art Centr
+ e.\n\nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au
+ /events/ilyarnayt
+LOCATION:104 Cathedral St\, Woolloomooloo NSW 2011\, Australia\, Woolloomoo
+ loo\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/ilyarnayt
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:fc850ee26918@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
+UID:d753223d368e@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260628
+SUMMARY:Shooting Hedda Gabler
+DESCRIPTION:A darkly comedic play by Nina Segal exploring themes of ambitio
+ n and manipulation. Check the site for ticket prices.\n\nPrice: Check site
+ \n\nTickets/Info: https://www.experiencesydneyaustralia.com/whats-on/event
+ s/
+LOCATION:Seymour Centre\, Chippendale NSW 2008\, Sydney
+URL:https://www.experiencesydneyaustralia.com/whats-on/events/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:945105b501e0@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260705
+SUMMARY:Decentralised Gesture
+DESCRIPTION:Solo exhibition by Chinese artist Wang Yigang.\n\nPrice: Free\n
+ \nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/decentralis
+ ed-gesture
+LOCATION:Shop 2/1 Francis St\, Darlinghurst\, Darlinghurst\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/decentralised-gesture
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:bf45e7e51e46@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260810
+SUMMARY:The Lion King
+DESCRIPTION:Disney's beloved musical about a young lion's journey to kingsh
+ ip.\n\nPrice: From $165 via\n\nTickets/Info: https://www.sydneytravelguide
+ .com.au/things-to-do-in-sydney-june/
+LOCATION:Capitol Theatre\, 13 Campbell St\, Haymarket\, Haymarket\, Sydney
+URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:14efe9e3798b@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260622
+SUMMARY:An Iliad
+DESCRIPTION:A poet retells the Trojan War in a powerful adaptation.\n\nPric
+ e: Tickets from $79\n\nTickets/Info: https://www.sydneytravelguide.com.au/
+ things-to-do-in-sydney-june/
+LOCATION:Wharf 1 Theatre\, The Wharf\, Wharf 4/5/15 Hickson Rd\, Dawes Poin
+ t NSW 2000\, Dawes Point\, Sydney
+URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:87877bc8fbdb@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260701
+SUMMARY:Kate Mitchell: In the Eye of the Giant
+DESCRIPTION:Digital art installation visualising emotions through intricate
+  drawings by Sydney artist Kate Mitchell.\n\nPrice: Check site\n\nTickets/
+ Info: https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydne
+ y
+LOCATION:Art Gallery of New South Wales\, Sydney\, Sydney
+URL:https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydney
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e922400da6@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260824
+SUMMARY:Pet Palace - Little Orange Studio x AGNSW
+DESCRIPTION:An art exhibition blending visual arts and studio creations.\n\
+ nPrice: Check site\n\nTickets/Info: https://www.campbelltown.nsw.gov.au/Wh
+ ats-On
+LOCATION:Art Gallery of NSW\, Sydney\, Sydney
+URL:https://www.campbelltown.nsw.gov.au/Whats-On
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:b751521e24de@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260615
-SUMMARY:Sydney Film Festival
-DESCRIPTION:Sydney Film Festival returns with a lineup of bold stories and 
- unforgettable films from June 3-14.\n\nPrice: from $20\n\nTickets/Info: ht
- tps://www.sydney.com/destinations/sydney/sydney-city/city-centre/events/sy
- dney-film-festival
-LOCATION:State Theatre\, Sydney City\, Sydney
-URL:https://www.sydney.com/destinations/sydney/sydney-city/city-centre/even
- ts/sydney-film-festival
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e9f0aa0957cc@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:25th Biennale of Sydney
-DESCRIPTION:The 25th Biennale of Sydney\, curated by Hoor Al Qasimi\, invit
- es you to revisit and reconstruct histories across six exhibition location
- s and 13 program locations in Greater Sydney.\n\nPrice: Free\n\nTickets/In
- fo: https://whatson.cityofsydney.nsw.gov.au/events/biennale-of-sydney-stud
- ent-led-art-tours
-LOCATION:WHITE BAY POWER STATION\, TOURS & EXPERIENCES\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/biennale-of-sydney-stude
- nt-led-art-tours
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:6ddeb106d333@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260607
-SUMMARY:Bridge Tenant Art Show
-DESCRIPTION:Bridge Housing’s Tenant Art Show celebrates local creativity\
- , showcasing social housing residents’ connections to home\, community\,
-  culture\, and country during Reconciliation Week.\n\nPrice: Free\n\nTicke
- ts/Info: https://www.innerwest.nsw.gov.au/whats-on/bridge-tenant-art-show-
- 2026
-LOCATION:Marrickville\, Marrickville\, Sydney
-URL:https://www.innerwest.nsw.gov.au/whats-on/bridge-tenant-art-show-2026
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:f0008065e8f9@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Bach and the Bard
-DESCRIPTION:A concert pairing classical music with Shakespeare's poetry.\n\
- nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.a
- u/categories/music
-LOCATION:Surry Hills\, Surry Hills\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e639c3906d55@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Alexander Yau in Recital
-DESCRIPTION:Alexander Yau traverses wit\, lyricism\, and drama through the 
- works of Beethoven\, Schumann\, Debussy and Prokofiev.\n\nPrice: Check sit
- e\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/musi
- c
-LOCATION:GLEBE\, Glebe\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:b0f3a1f1f22c@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260727
-SUMMARY:Come Alive - The Greatest Showman Circus Spectacular
-DESCRIPTION:Experience The Greatest Showman like never before with COME ALI
- VE!\, featuring acrobatic artistry and aerial acts set to iconic anthems f
- rom the film.\n\nPrice: Check site\n\nTickets/Info: https://www.onlysydney
- .com.au/come-alive-eq
-LOCATION:See event link\, Moore Park\, Sydney
-URL:https://www.onlysydney.com.au/come-alive-eq
+SUMMARY:The Pirates of Penzance
+DESCRIPTION:An immersive revival of Gilbert and Sullivan's classic comedy.\
+ n\nPrice: Tickets from $59.90 per person (transaction fees apply)\n\nTicke
+ ts/Info: https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+LOCATION:Foundry Theatre\, inside the Sydney Lyric\, Pirrama Road\, Pyrmont
+ \, Pyrmont\, Sydney
+URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
