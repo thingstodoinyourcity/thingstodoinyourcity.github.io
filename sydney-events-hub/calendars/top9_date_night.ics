@@ -8,137 +8,123 @@ X-WR-CALDESC:Sydney's top date night experiences this week\, curated for you.
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:1fc052ebe20e@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-SUMMARY:An Evening at Vaucluse House
-DESCRIPTION:Explore Vaucluse House after dark with an intimate tour. Discov
- er the lavishly decorated drawing room by candlelight and hear stories abo
- ut the Wentworth family and their servants. Enjoy nibbles and a glass of w
- ine in the servants’ kitchen.\n\nPrice: Check site\n\nTickets/Info: http
- s://mhnsw.au/whats-on/events/an-evening-visit-to-vaucluse-house/
-LOCATION:Vaucluse House\, Wentworth Road\, Vaucluse NSW 2030\, Sydney
-URL:https://mhnsw.au/whats-on/events/an-evening-visit-to-vaucluse-house/
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:49ca12277472@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:A Love Letter to Mexico
-DESCRIPTION:Celebrate bold Mexican flavors at Melba's Rooftop. Enjoy modern
-  dishes by Chef Han Chen and Don Julio tequila cocktails by Seine Cheung. 
- Upgrade to premium Don Julio 1942 for a luxe experience.\n\nPrice: From $9
- \n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/a-love-le
- tter-to-mexico-at-melbas-rooftop
-LOCATION:THE ROCKS\, FOOD & DRINK\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/a-love-letter-to-mexico-
- at-melbas-rooftop
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:2eb299e78781@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260605
-SUMMARY:Lucas Debargue Piano Recital
-DESCRIPTION:A rare performance by the imaginative French pianist Lucas Deba
- rgue.\n\nPrice: from $35\n\nTickets/Info: https://www.sydney.com/destinati
- ons/sydney/sydney-city/city-centre/events/live-the-great-lucas-debargue-le
- nigme-francaise
-LOCATION:Sydney City\, Sydney City\, Sydney
-URL:https://www.sydney.com/destinations/sydney/sydney-city/city-centre/even
- ts/live-the-great-lucas-debargue-lenigme-francaise
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:f838e9e56b14@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260608
-SUMMARY:The Pirates of Penzance
-DESCRIPTION:The Pirates of Penzance or The Slave of Duty brings five actors
-  into every role\, with Hayes Theatre Co taking its landmark production to
-  the Foundry Stage after a sold-out season.\n\nPrice: from $59.99\n\nTicke
- ts/Info: https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/ev
- ents/the-pirates-penzance
-LOCATION:Foundry Stage\, Sydney City\, Sydney
-URL:https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/events/t
- he-pirates-penzance
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:46013ab4e752@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-SUMMARY:Swing & Sway Soiree ft. Charlie Chech
-DESCRIPTION:Charlie Chech returns for a one-off Swing & Sway Soiree show. E
- njoy an evening of talented performances and live music.\n\nPrice: Check s
- ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/las-ve
- gas-nights-ft-charlie-chech-live
-LOCATION:CARDEA BARANGAROO\, FOOD & DRINK\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-nights-ft-char
- lie-chech-live
-CATEGORIES:Date Night
-END:VEVENT
-BEGIN:VEVENT
-UID:cdabae94123a@sydney-events-scraper
-DTSTAMP:20260603T000000Z
+UID:70da207780ff@sydney-events-scraper
+DTSTAMP:20260610T000000Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid Sydney 2026
-DESCRIPTION:Vivid Sydney features extraordinary lighting sculptures\, cutti
- ng-edge music\, and ideas programs. This annual event transforms Sydney in
- to an outdoor gallery of light and creativity.\n\nPrice: Free\n\nTickets/I
- nfo: https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/vivid-sy
- dney-2026
-LOCATION:Bennelong Point\, Sydney Harbour\, Sydney Harbour\, Sydney
-URL:https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/vivid-sydn
- ey-2026
+SUMMARY:Vivid Fire Kitchen
+DESCRIPTION:Indigenous chefs showcase open-fire dining with local ingredien
+ ts.\n\nPrice: Varies\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov
+ .au/events/vivid-fire-kitchen
+LOCATION:Barangaroo Reserve\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:1511bc7ed299@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260726
-SUMMARY:Sydney Harbour Lunch Cruise
-DESCRIPTION:A scenic cruise with lunch while exploring Sydney Harbour.\n\nP
- rice: $159\n\nTickets/Info: https://feverup.com/en/sydney/when/this-weeken
- d
-LOCATION:Sydney
-URL:https://feverup.com/en/sydney/when/this-weekend
+UID:962a80e38f11@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260612
+SUMMARY:Perspective at Infinity by Mark Best
+DESCRIPTION:Immersive dining experience inspired by landscapes.\n\nPrice: F
+ rom $295*\n\nTickets/Info: https://www.vividsydney.com/event/food/perspect
+ ive-at-infinity-by-mark-best
+LOCATION:Sydney CBD and Surrounds\, Sydney CBD\, Sydney
+URL:https://www.vividsydney.com/event/food/perspective-at-infinity-by-mark-
+ best
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:761b59a7978b@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Winter Roast & Live Jazz
-DESCRIPTION:Enjoy a Winter Roast paired with live jazz at The Old Fitzroy H
- otel. Experience a cozy evening of great food and music.\n\nPrice: Check s
- ite\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/categories/mu
- sic
-LOCATION:THE OLD FITZROY HOTEL\, FOOD & DRINK\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/categories/music
+UID:d7351f844a84@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Regional Dinner Series: Hunter Valley
+DESCRIPTION:A Hunter Valley-themed dinner with chefs Frank Fawkner and Ales
+ sandro Pavoni.\n\nPrice: $175\n\nTickets/Info: https://www.barangaroo.com/
+ whats-on/archive/events/regional-dinner-series
+LOCATION:A’Mare\, Barangaroo\, Sydney
+URL:https://www.barangaroo.com/whats-on/archive/events/regional-dinner-seri
+ es
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:b12bc7c388ae@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Cult & Classic Food & Wine Party
-DESCRIPTION:NSW food and wine celebration in an urban cellar door setting.\
- n\nPrice: From $45\n\nTickets/Info: https://www.vividsydney.com/event/food
- /cult-classic-a-nsw-food-wine-party
-LOCATION:The Wine Bar at The International\, Sydney CBD\, Sydney
-URL:https://www.vividsydney.com/event/food/cult-classic-a-nsw-food-wine-par
- ty
+UID:4d9f23d38b49@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260614
+SUMMARY:Hold Me Hold Me Hold Me
+DESCRIPTION:Theatre performance about soulmates across time.\n\nPrice: Free
+ \n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/hold-me-h
+ old-me-hold-me
+LOCATION:Qtopia Sydney\, Darlinghurst\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/hold-me-hold-me-hold-me
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:8e89fca92e24@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+SUMMARY:Stravinsky’s The Firebird
+DESCRIPTION:A classical music performance of Stravinsky’s iconic ballet.\
+ n\nPrice: Check site\n\nTickets/Info: https://www.sydneyoperahouse.com/wha
+ ts-on
+LOCATION:Concert Hall\, Sydney Opera House\, Sydney
+URL:https://www.sydneyoperahouse.com/whats-on
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:2f80aa16e22f@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Coward
+DESCRIPTION:A queer romance about two soldiers during World War I.\n\nPrice
+ : Free\n\nTickets/Info: https://www.sff.org.au/program
+LOCATION:Ritz Cinemas Randwick\, Eastern Suburbs\, Sydney
+URL:https://www.sff.org.au/program
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:434e2a7d0a6e@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Dumplings with the Artist
+DESCRIPTION:Join Jack Ball for an artist talk and dinner at Passage Gallery
+  on June 11th at 6:30 PM. The event is free to attend.\n\nPrice: Free\n\nT
+ ickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/dumplings-with
+ -the-artist-or-jack-ball
+LOCATION:102/8 Quay St\, Haymarket NSW 2000\, Australia\, Haymarket\, Sydne
+ y
+URL:https://whatson.cityofsydney.nsw.gov.au/events/dumplings-with-the-artis
+ t-or-jack-ball
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:6109fa3edcc3@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260614
+SUMMARY:Vivid Sydney Percy Supper Club
+DESCRIPTION:Spanish tapas and wine experience during Vivid Sydney.\n\nPrice
+ : from $12\n\nTickets/Info: https://www.darlingharbour.com/eat-drink/percy
+LOCATION:Percy\, Darling Harbour\, Sydney
+URL:https://www.darlingharbour.com/eat-drink/percy
+CATEGORIES:Date Night
+END:VEVENT
+BEGIN:VEVENT
+UID:11b0ac9397a6@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:High Tea at Nutcote
+DESCRIPTION:Elegant afternoon tea experience in a historic setting.\n\nPric
+ e: Check site\n\nTickets/Info: https://humanitix.com/au/events/au--nsw--sy
+ dney/thisweekend
+LOCATION:5 Wallaringa Ave\, Sydney
+URL:https://humanitix.com/au/events/au--nsw--sydney/thisweekend
 CATEGORIES:Date Night
 END:VEVENT
 END:VCALENDAR
