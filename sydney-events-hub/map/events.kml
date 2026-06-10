@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Sydney Events — 1 Jun 26 to 7 Jun 26</name>
-    <description>Weekend events in Sydney, 1 Jun 26 to 7 Jun 26. Pins coloured by category.</description>
+    <name>Sydney Events — 8 Jun 26 to 14 Jun 26</name>
+    <description>Weekend events in Sydney, 8 Jun 26 to 14 Jun 26. Pins coloured by category.</description>
   <Style id="blue-dot.png">
     <IconStyle>
       <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
@@ -39,275 +39,291 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>An Evening at Vaucluse House</name>
-      <description><![CDATA[<b>An Evening at Vaucluse House</b><br><i>Cultural</i><br>Thu 4th Jun<br>Vaucluse House, Wentworth Road, Vaucluse NSW 2030<br>Check site<br><br>Explore Vaucluse House after dark with an intimate tour. Discover the lavishly decorated drawing room by candlelight and hear stories about the Wentworth family and their servants. Enjoy nibbles and a glass of wine in the servants’ kitchen.<br><br><a href="https://mhnsw.au/whats-on/events/an-evening-visit-to-vaucluse-house/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.270956,-33.8563112,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>A Love Letter to Mexico</name>
-      <description><![CDATA[<b>A Love Letter to Mexico</b><br><i>Food &amp; Drink</i><br>Sat 6th Jun<br>THE ROCKS, FOOD &amp; DRINK<br>From $9<br><br>Celebrate bold Mexican flavors at Melba's Rooftop. Enjoy modern dishes by Chef Han Chen and Don Julio tequila cocktails by Seine Cheung. Upgrade to premium Don Julio 1942 for a luxe experience.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/a-love-letter-to-mexico-at-melbas-rooftop">More info / tickets</a>]]></description>
+      <name>Vivid Fire Kitchen</name>
+      <description><![CDATA[<b>Vivid Fire Kitchen</b><br><i>Food &amp; Drink</i><br>Fri 22nd May – Sat 13th Jun<br>Barangaroo Reserve, Sydney<br>Varies<br><br>Indigenous chefs showcase open-fire dining with local ingredients.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/vivid-fire-kitchen">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>151.210898,-33.867331,0</coordinates>
+        <coordinates>151.2011648,-33.8584893,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Lucas Debargue Piano Recital</name>
-      <description><![CDATA[<b>Lucas Debargue Piano Recital</b><br><i>Music</i><br>Wed 3rd Jun – Thu 4th Jun<br>Sydney City, Sydney City<br>from $35<br><br>A rare performance by the imaginative French pianist Lucas Debargue.<br><br><a href="https://www.sydney.com/destinations/sydney/sydney-city/city-centre/events/live-the-great-lucas-debargue-lenigme-francaise">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Perspective at Infinity by Mark Best</name>
+      <description><![CDATA[<b>Perspective at Infinity by Mark Best</b><br><i>Food &amp; Drink</i><br>Wed 10th Jun – Thu 11th Jun<br>Sydney CBD and Surrounds, Sydney CBD<br>From $295*<br><br>Immersive dining experience inspired by landscapes.<br><br><a href="https://www.vividsydney.com/event/food/perspective-at-infinity-by-mark-best">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2053644,-33.8747234,0</coordinates>
+        <coordinates>151.209021,-33.873385,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>The Pirates of Penzance</name>
-      <description><![CDATA[<b>The Pirates of Penzance</b><br><i>Theatre</i><br>Wed 3rd Jun – Sun 7th Jun<br>Foundry Stage, Sydney City<br>from $59.99<br><br>The Pirates of Penzance or The Slave of Duty brings five actors into every role, with Hayes Theatre Co taking its landmark production to the Foundry Stage after a sold-out season.<br><br><a href="https://www.sydney.com/destinations/sydney/sydney-city/pyrmont/events/the-pirates-penzance">More info / tickets</a>]]></description>
+      <name>Regional Dinner Series: Hunter Valley</name>
+      <description><![CDATA[<b>Regional Dinner Series: Hunter Valley</b><br><i>Food &amp; Drink</i><br>Thu 11th Jun<br>A’Mare, Barangaroo<br>$175<br><br>A Hunter Valley-themed dinner with chefs Frank Fawkner and Alessandro Pavoni.<br><br><a href="https://www.barangaroo.com/whats-on/archive/events/regional-dinner-series">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.201571,-33.860378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hold Me Hold Me Hold Me</name>
+      <description><![CDATA[<b>Hold Me Hold Me Hold Me</b><br><i>Theatre</i><br>Tue 9th Jun – Sat 13th Jun<br>Qtopia Sydney, Darlinghurst<br>Free<br><br>Theatre performance about soulmates across time.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/hold-me-hold-me-hold-me">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>151.228245,-33.892472,0</coordinates>
+        <coordinates>151.2172056,-33.8797412,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Swing &amp; Sway Soiree ft. Charlie Chech</name>
-      <description><![CDATA[<b>Swing &amp; Sway Soiree ft. Charlie Chech</b><br><i>Music</i><br>Fri 5th Jun<br>CARDEA BARANGAROO, FOOD &amp; DRINK<br>Check site<br><br>Charlie Chech returns for a one-off Swing &amp; Sway Soiree show. Enjoy an evening of talented performances and live music.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/las-vegas-nights-ft-charlie-chech-live">More info / tickets</a>]]></description>
+      <name>Stravinsky’s The Firebird</name>
+      <description><![CDATA[<b>Stravinsky’s The Firebird</b><br><i>Music</i><br>Thu 11th Jun – Sat 13th Jun<br>Concert Hall, Sydney Opera House<br>Check site<br><br>A classical music performance of Stravinsky’s iconic ballet.<br><br><a href="https://www.sydneyoperahouse.com/whats-on">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>151.210898,-33.867331,0</coordinates>
+        <coordinates>151.214847,-33.856629,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vivid Sydney 2026</name>
-      <description><![CDATA[<b>Vivid Sydney 2026</b><br><i>Festival</i><br>Fri 22nd May – Sat 13th Jun<br>Bennelong Point, Sydney Harbour, Sydney Harbour<br>Free<br><br>Vivid Sydney features extraordinary lighting sculptures, cutting-edge music, and ideas programs. This annual event transforms Sydney into an outdoor gallery of light and creativity.<br><br><a href="https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/vivid-sydney-2026">More info / tickets</a>]]></description>
+      <name>Coward</name>
+      <description><![CDATA[<b>Coward</b><br><i>Arts &amp; Culture</i><br>Thu 11th Jun<br>Ritz Cinemas Randwick, Eastern Suburbs<br>Free<br><br>A queer romance about two soldiers during World War I.<br><br><a href="https://www.sff.org.au/program">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.0744163,-33.8333835,0</coordinates>
+        <coordinates>151.2432906,-33.9201716,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Winter Roast &amp; Live Jazz</name>
-      <description><![CDATA[<b>Winter Roast &amp; Live Jazz</b><br><i>Food &amp; Drink</i><br>Sun 7th Jun<br>THE OLD FITZROY HOTEL, FOOD &amp; DRINK<br>Check site<br><br>Enjoy a Winter Roast paired with live jazz at The Old Fitzroy Hotel. Experience a cozy evening of great food and music.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/categories/music">More info / tickets</a>]]></description>
+      <name>Dumplings with the Artist</name>
+      <description><![CDATA[<b>Dumplings with the Artist</b><br><i>Arts &amp; Culture</i><br>Thu 11th Jun<br>102/8 Quay St, Haymarket NSW 2000, Australia, Haymarket<br>Free<br><br>Join Jack Ball for an artist talk and dinner at Passage Gallery on June 11th at 6:30 PM. The event is free to attend.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/dumplings-with-the-artist-or-jack-ball">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2034445,-33.8810777,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vivid Sydney Percy Supper Club</name>
+      <description><![CDATA[<b>Vivid Sydney Percy Supper Club</b><br><i>Food &amp; Drink</i><br>Fri 22nd May – Sat 13th Jun<br>Percy, Darling Harbour<br>from $12<br><br>Spanish tapas and wine experience during Vivid Sydney.<br><br><a href="https://www.darlingharbour.com/eat-drink/percy">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2206302,-33.8731318,0</coordinates>
+        <coordinates>151.199,-33.8723,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Cult &amp; Classic Food &amp; Wine Party</name>
-      <description><![CDATA[<b>Cult &amp; Classic Food &amp; Wine Party</b><br><i>Food &amp; Drink</i><br>Sat 6th Jun<br>The Wine Bar at The International, Sydney CBD<br>From $45<br><br>NSW food and wine celebration in an urban cellar door setting.<br><br><a href="https://www.vividsydney.com/event/food/cult-classic-a-nsw-food-wine-party">More info / tickets</a>]]></description>
+      <name>High Tea at Nutcote</name>
+      <description><![CDATA[<b>High Tea at Nutcote</b><br><i>Food &amp; Drink</i><br>Sun 14th Jun<br>5 Wallaringa Ave<br>Check site<br><br>Elegant afternoon tea experience in a historic setting.<br><br><a href="https://humanitix.com/au/events/au--nsw--sydney/thisweekend">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2718017,-33.8871741,0</coordinates>
+        <coordinates>151.2213168,-33.8420572,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vivid Sydney</name>
-      <description><![CDATA[<b>Vivid Sydney</b><br><i>Festival</i><br>Fri 22nd May – Sat 13th Jun<br>City-wide, Sydney CBD<br>Free (Light Walk)<br><br>The world's largest light, music, and ideas festival illuminates Sydney's landmarks, including the Opera House, Harbour Bridge, and Darling Harbour, over 23 nights.<br><br><a href="https://sydneyholidays.com.au/sydney-events">More info / tickets</a>]]></description>
+      <name>Adventure Clues: Unlock The Rocks</name>
+      <description><![CDATA[<b>Adventure Clues: Unlock The Rocks</b><br><i>Cultural</i><br>Fri 5th Jun – Fri 31st Jul<br>Customs House Square, The Rocks<br>Free<br><br>Explore The Rocks with cryptic clues in a fun, interactive way.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/unlock-the-rocks-cryptic-adventure">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.20557,-33.87871,0</coordinates>
+        <coordinates>151.1636635,-33.9337195,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Retro Silent Disco</name>
-      <description><![CDATA[<b>Retro Silent Disco</b><br><i>Nightlife</i><br>Sat 6th Jun<br>Overseas Passenger Terminal, Circular Quay<br>$50<br><br>Dance to 80s, 90s, and 00s music with wireless headphones at this silent disco, featuring three DJs and stunning harbour views during Vivid.<br><br><a href="https://www.eventbrite.com/e/retro-silent-disco-vivid-season-special-overseas-passenger-terminal-tickets-1982192524199?aff=ebdssbcategorybrowse">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.2107193,-33.8613593,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Oysters in the House</name>
-      <description><![CDATA[<b>Oysters in the House</b><br><i>Food &amp; Drink</i><br>Sun 7th Jun<br>Circular Quay and The Rocks, Circular Quay and The Rocks<br>From $50*<br><br>Celebrate Sydney Rock Oysters and other culinary heroes at this one-day event at Shell House.<br><br><a href="https://www.vividsydney.com/event/food/oysters-in-the-house">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.209421,-33.868633,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>The Rocks to Barangaroo: Layers of Sydney</name>
-      <description><![CDATA[<b>The Rocks to Barangaroo: Layers of Sydney</b><br><i>Arts &amp; Culture</i><br>Wed 3rd Jun<br>Museum of Contemporary Art, The Rocks<br>Check site<br><br>Explore the blend of heritage and contemporary architecture on a guided 2-hour walk through Sydney's historic and modern sites.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/from-the-rocks-to-barangaroo-walk">More info / tickets</a>]]></description>
+      <name>Sky Symphony: Fireworks, Lasers, Music</name>
+      <description><![CDATA[<b>Sky Symphony: Fireworks, Lasers, Music</b><br><i>Arts &amp; Culture</i><br>Mon 8th Jun – Thu 11th Jun<br>Darling Harbour, Darling Harbour<br>Free<br><br>Vivid Sydney light show with fireworks and lasers.<br><br><a href="https://www.vividsydney.com/event/light/sky-symphony-fireworks-lasers-music">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2089549,-33.8599598,0</coordinates>
+        <coordinates>151.199,-33.8723,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Sin City: Sydney Crime Stories</name>
-      <description><![CDATA[<b>Sin City: Sydney Crime Stories</b><br><i>Cultural</i><br>Sun 7th Jun<br>Justice &amp; Police Museum, Corner Albert and Phillip streets, Sydney NSW 2000<br>Check site<br><br>Discover Sydney's turbulent past with a two-hour walk through The Rocks and the waterfront, uncovering stories of crime and history.<br><br><a href="https://mhnsw.au/whats-on/events/sin-city-sydney/">More info / tickets</a>]]></description>
+      <name>Guided walk - Edensor Creek</name>
+      <description><![CDATA[<b>Guided walk - Edensor Creek</b><br><i>Cultural</i><br>Sat 13th Jun<br>Edensor Park, Sydney<br>Check site<br><br>A guided walk along Edensor Creek.<br><br><a href="https://humanitix.com/au/events/au--nsw--sydney/thisweekend">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2122831,-33.8620845,0</coordinates>
+        <coordinates>150.8740858,-33.8765135,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Merchants of Haymarket</name>
-      <description><![CDATA[<b>Merchants of Haymarket</b><br><i>Cultural</i><br>Wed 3rd Jun<br>HAYMARKET, COMMUNITY &amp; CAUSES<br>Free<br><br>Explore the Chinese merchants who built Sydney’s Chinatown and shaped Haymarket’s history.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/?freeEvent=true">More info / tickets</a>]]></description>
+      <name>Astronomy Night</name>
+      <description><![CDATA[<b>Astronomy Night</b><br><i>Cultural</i><br>Mon 25th May – Tue 23rd Jun<br>The Royal Botanic Garden, Sydney<br>Check site<br><br>Explore the night sky with guided astronomy sessions.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/astronomy-at-the-calyx">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2053073,-33.9023506,0</coordinates>
+        <coordinates>151.215711,-33.8627694,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vivid Night Ride</name>
-      <description><![CDATA[<b>Vivid Night Ride</b><br><i>Festival</i><br>Tue 2nd Jun – Wed 3rd Jun<br>Chalmers St, Haymarket NSW 2000, Australia, Haymarket<br>Free<br><br>A bike ride through Sydney's Vivid festival lights.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/celebrate-world-bicycle-day-vivid-night-ride">More info / tickets</a>]]></description>
+      <name>Holding Light</name>
+      <description><![CDATA[<b>Holding Light</b><br><i>Arts &amp; Culture</i><br>Sat 25th Apr – Sun 28th Jun<br>Bondi Pavilion, Bondi<br>Check site<br><br>Artistic response to the Bondi Beach terror attack.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/holding-light">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2070752,-33.8852446,0</coordinates>
+        <coordinates>151.2775798,-33.8901046,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>VIVID VOYAGE - Feat SPECTACULAR VIVID LIGHTS</name>
-      <description><![CDATA[<b>VIVID VOYAGE - Feat SPECTACULAR VIVID LIGHTS</b><br><i>Festival</i><br>Sun 7th Jun – Mon 8th Jun<br>King Street Wharf 3, Sydney<br>$3<br><br>Experience a boat party with 11 DJs, a saxophonist, and percussionist, dancing under Vivid lights on a three-level boat for four hours.<br><br><a href="https://allevents.in/sydney/vivid-voyage-feat-spectacular-vivid-lights/100001988058571705">More info / tickets</a>]]></description>
+      <name>Luku dhinthun: Always following the path of our Ancestors</name>
+      <description><![CDATA[<b>Luku dhinthun: Always following the path of our Ancestors</b><br><i>Cultural</i><br>Sat 16th May – Sat 27th Jun<br>The Cross Art Projects, Potts Point<br>Check site<br><br>Artists from diverse clan groups share stories of Milingimbi art.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/luku-dhinthun-always-following-the-path-of-our-ancestors">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2013989,-33.8674525,0</coordinates>
+        <coordinates>151.2245132,-33.8723375,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Bangarra Dance Theatre: Sheltering</name>
-      <description><![CDATA[<b>Bangarra Dance Theatre: Sheltering</b><br><i>Theatre</i><br>Wed 3rd Jun – Sat 13th Jun<br>Joan Sutherland Theatre, Sydney Opera House, Sydney Opera House<br>From $79<br><br>Australia’s leading Indigenous performing arts company presents a triple bill exploring First Nations perspectives on country, identity, and intergenerational connection.<br><br><a href="https://sydneyexpert.com/sydney-in-june/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.215534,-33.856671,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Vivid Bloom</name>
-      <description><![CDATA[<b>Vivid Bloom</b><br><i>Arts &amp; Culture</i><br>Fri 22nd May – Sat 13th Jun<br>Market City, Haymarket<br>Free<br><br>Light and dining experience during Vivid Sydney.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/vivid-bloom-at-market-city">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.2034354,-33.879847,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Prima Facie</name>
-      <description><![CDATA[<b>Prima Facie</b><br><i>Theatre</i><br>Wed 3rd Jun<br>Roslyn Packer Theatre, 22 Hickson Road, Walsh Bay, Walsh Bay<br>From $84<br><br>Australian playwright Suzie Miller’s acclaimed one-woman play returns to Sydney in its original Australian production, with Sheridan Harbridge reprising her role and Lee Lewis directing.<br><br><a href="https://sydneyexpert.com/sydney-in-june/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.204558,-33.8573453,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Sydney Film Festival</name>
-      <description><![CDATA[<b>Sydney Film Festival</b><br><i>Arts &amp; Culture</i><br>Wed 3rd Jun – Sun 14th Jun<br>State Theatre, Sydney City<br>from $20<br><br>Sydney Film Festival returns with a lineup of bold stories and unforgettable films from June 3-14.<br><br><a href="https://www.sydney.com/destinations/sydney/sydney-city/city-centre/events/sydney-film-festival">More info / tickets</a>]]></description>
+      <name>Sydney Film Festival: Official Competition</name>
+      <description><![CDATA[<b>Sydney Film Festival: Official Competition</b><br><i>Arts &amp; Culture</i><br>Wed 3rd Jun – Sun 14th Jun<br>State Theatre, Sydney<br>Check site<br><br>From June 3 to 14, the State Theatre will showcase daring and innovative films as part of the 2026 Official Competition. Check the website for pricing details.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/sydney-film-festival-official-competition-2026">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>151.2075264,-33.8709129,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>25th Biennale of Sydney</name>
-      <description><![CDATA[<b>25th Biennale of Sydney</b><br><i>Arts &amp; Culture</i><br>Sat 6th Jun<br>WHITE BAY POWER STATION, TOURS &amp; EXPERIENCES<br>Free<br><br>The 25th Biennale of Sydney, curated by Hoor Al Qasimi, invites you to revisit and reconstruct histories across six exhibition locations and 13 program locations in Greater Sydney.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/biennale-of-sydney-student-led-art-tours">More info / tickets</a>]]></description>
+      <name>200th Anniversary Exhibitions</name>
+      <description><![CDATA[<b>200th Anniversary Exhibitions</b><br><i>Arts &amp; Culture</i><br>Thu 4th Jun – Thu 2nd Jul<br>State Library of NSW, Sydney<br>Check site<br><br>A guided tour of the State Library of NSW's 200th anniversary exhibits.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/discover-the-200th-anniversary-exhibitions">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.1210749,-34.041826,0</coordinates>
+        <coordinates>151.2036882,-33.8848313,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Bridge Tenant Art Show</name>
-      <description><![CDATA[<b>Bridge Tenant Art Show</b><br><i>Arts &amp; Culture</i><br>Mon 1st Jun – Sat 6th Jun<br>Marrickville, Marrickville<br>Free<br><br>Bridge Housing’s Tenant Art Show celebrates local creativity, showcasing social housing residents’ connections to home, community, culture, and country during Reconciliation Week.<br><br><a href="https://www.innerwest.nsw.gov.au/whats-on/bridge-tenant-art-show-2026">More info / tickets</a>]]></description>
+      <name>Sydney Film Festival Hub Events</name>
+      <description><![CDATA[<b>Sydney Film Festival Hub Events</b><br><i>Arts &amp; Culture</i><br>Thu 4th Jun – Sun 14th Jun<br>Lower Town Hall - Sydney Town Hall, Sydney<br>Free<br><br>Film festival events and talks at Lower Town Hall.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/events-and-talks-at-the-sydney-film-festival-hub">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.1705601,-33.9099511,0</coordinates>
+        <coordinates>151.2061792,-33.8731968,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Bach and the Bard</name>
-      <description><![CDATA[<b>Bach and the Bard</b><br><i>Music</i><br>Sat 6th Jun<br>Surry Hills, Surry Hills<br>Check site<br><br>A concert pairing classical music with Shakespeare's poetry.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/categories/music">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.2078488,-33.8844161,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Alexander Yau in Recital</name>
-      <description><![CDATA[<b>Alexander Yau in Recital</b><br><i>Music</i><br>Sun 7th Jun<br>GLEBE, Glebe<br>Check site<br><br>Alexander Yau traverses wit, lyricism, and drama through the works of Beethoven, Schumann, Debussy and Prokofiev.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/categories/music">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>150.9985101,-33.8210326,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Come Alive - The Greatest Showman Circus Spectacular</name>
-      <description><![CDATA[<b>Come Alive - The Greatest Showman Circus Spectacular</b><br><i>Theatre</i><br>Tue 19th May – Sun 26th Jul<br>See event link, Moore Park<br>Check site<br><br>Experience The Greatest Showman like never before with COME ALIVE!, featuring acrobatic artistry and aerial acts set to iconic anthems from the film.<br><br><a href="https://www.onlysydney.com.au/come-alive-eq">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.21889,-33.8891732,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>HABIBI Sydney - Queer Middle Eastern Dance Party</name>
-      <description><![CDATA[<b>HABIBI Sydney - Queer Middle Eastern Dance Party</b><br><i>Nightlife</i><br>Sat 6th Jun<br>Oxford Art Factory, Sydney<br>Check site<br><br>HABIBI Sydney is a queer Middle Eastern dance party at Oxford Art Factory. Check the site for ticket details.<br><br><a href="https://oxfordartfactory.com/events/">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.2137927,-33.8779851,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Who's Bad | Ultimate Michael Jackson Experience</name>
-      <description><![CDATA[<b>Who's Bad | Ultimate Michael Jackson Experience</b><br><i>Music</i><br>Fri 5th Jun – Sat 6th Jun<br>Enmore Theatre, Newtown<br>Check site<br><br>Who's Bad brings the ultimate Michael Jackson experience to the Enmore Theatre. This tribute show features dazzling choreography and stunning costumes.<br><br><a href="https://www.onlysydney.com.au/target-theatre.php">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.1742479,-33.8990063,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Drag Bingo Bottomless Brunch</name>
-      <description><![CDATA[<b>Drag Bingo Bottomless Brunch</b><br><i>Nightlife</i><br>Sat 6th Jun<br>Manly, Sydney<br>Check site<br><br>A fun brunch with drag queens hosting bingo and unlimited drinks.<br><br><a href="https://humanitix.com/au/events/australia/sydney">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>151.2905582,-33.8128845,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Battle of the Greeks: The Great Greek Comedy Roast</name>
-      <description><![CDATA[<b>Battle of the Greeks: The Great Greek Comedy Roast</b><br><i>Comedy</i><br>Fri 5th Jun<br>Darling Quarter Theatre, Darling Harbour<br>$45<br><br>A comedy showdown between Greek and Australian comedians.<br><br><a href="https://www.darlingharbour.com/see-do-stay/darling-quarter-theatre">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>Afterimage: Projection Mapped Mural</name>
+      <description><![CDATA[<b>Afterimage: Projection Mapped Mural</b><br><i>Arts &amp; Culture</i><br>Fri 22nd May – Sat 13th Jun<br>Tumbalong Park, Darling Harbour<br>Free<br><br>A 3D-animated graffiti mural created live at Tumbalong Park, blending street art with projection mapping. Part of Vivid Sydney, it's free to view.<br><br><a href="https://www.vividsydney.com/event/light/afterimage-a-projection-mapped-mural">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>151.199,-33.8723,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Talk and Tease Comedy Cabaret</name>
-      <description><![CDATA[<b>Talk and Tease Comedy Cabaret</b><br><i>Comedy</i><br>Fri 5th Jun<br>Honeycomb Club, Potts Point, NSW, Australia<br>Check site<br><br>Talk and Tease Comedy Cabaret at Honeycomb Club offers a rockin' variety show with a 3-course meal. Enjoy belly laughs in an intimate setting.<br><br><a href="https://honeycombclub.com.au">More info / tickets</a>]]></description>
+      <name>Ilyarnayt</name>
+      <description><![CDATA[<b>Ilyarnayt</b><br><i>Arts &amp; Culture</i><br>Wed 3rd Jun – Sat 27th Jun<br>104 Cathedral St, Woolloomooloo NSW 2011, Australia, Woolloomooloo<br>Free<br><br>Art exhibition presented in collaboration with Utopia Art Centre.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/ilyarnayt">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2164011,-33.8720357,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shooting Hedda Gabler</name>
+      <description><![CDATA[<b>Shooting Hedda Gabler</b><br><i>Theatre</i><br>Fri 5th Jun – Sat 27th Jun<br>Seymour Centre, Chippendale NSW 2008<br>Check site<br><br>A darkly comedic play by Nina Segal exploring themes of ambition and manipulation. Check the site for ticket prices.<br><br><a href="https://www.experiencesydneyaustralia.com/whats-on/events/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2082848,-33.8698439,0</coordinates>
+        <coordinates>151.1935486,-33.8885683,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vivid Nights Begin at Vogue</name>
-      <description><![CDATA[<b>Vivid Nights Begin at Vogue</b><br><i>Nightlife</i><br>Fri 22nd May – Sat 13th Jun<br>Vogue Cafe, Darling Harbour<br>Free<br><br>Pre-show cocktails and tapas at Vogue Cafe.<br><br><a href="https://www.darlingharbour.com/whats-on/events/vivid-nights-begin-at-vogue">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>Decentralised Gesture</name>
+      <description><![CDATA[<b>Decentralised Gesture</b><br><i>Arts &amp; Culture</i><br>Sat 6th Jun – Sat 4th Jul<br>Shop 2/1 Francis St, Darlinghurst, Darlinghurst<br>Free<br><br>Solo exhibition by Chinese artist Wang Yigang.<br><br><a href="https://whatson.cityofsydney.nsw.gov.au/events/decentralised-gesture">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>151.199,-33.8723,0</coordinates>
+        <coordinates>151.1829198,-33.8086767,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Comedy Untamed Sydney</name>
-      <description><![CDATA[<b>Comedy Untamed Sydney</b><br><i>Comedy</i><br>Sat 6th Jun<br>The Comedy Store, Moore Park<br>Check site<br><br>Comedy Untamed brings a Sydney lineup of stand-up comics to The Comedy Store, hosted by Neel Kolhatkar, with live social-media-style line games and an early Saturday evening show.<br><br><a href="https://www.comedystore.com.au/event/comedy-untamed/">More info / tickets</a>]]></description>
+      <name>The Lion King</name>
+      <description><![CDATA[<b>The Lion King</b><br><i>Theatre</i><br>Wed 10th Jun – Sun 9th Aug<br>Capitol Theatre, 13 Campbell St, Haymarket, Haymarket<br>From $165 via<br><br>Disney's beloved musical about a young lion's journey to kingship.<br><br><a href="https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2265906,-33.8947104,0</coordinates>
+        <coordinates>151.0761048,-33.7946193,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Harbour Glow</name>
-      <description><![CDATA[<b>Harbour Glow</b><br><i>Nightlife</i><br>Sun 7th Jun<br>The Glenmore Hotel, The Rocks<br>Free<br><br>Harbour Glow takes over The Glenmore rooftop on Sunday, June 7th, during the King’s Birthday Long Weekend.<br><br><a href="https://www.therocks.com/whats-on/events/harbour-glow-the-glenmore">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
+      <name>An Iliad</name>
+      <description><![CDATA[<b>An Iliad</b><br><i>Theatre</i><br>Wed 10th Jun – Sun 21st Jun<br>Wharf 1 Theatre, The Wharf, Wharf 4/5/15 Hickson Rd, Dawes Point NSW 2000, Dawes Point<br>Tickets from $79<br><br>A poet retells the Trojan War in a powerful adaptation.<br><br><a href="https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>151.2073996,-33.8587233,0</coordinates>
+        <coordinates>151.2061593,-33.856023,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Long Weekend Party</name>
-      <description><![CDATA[<b>Long Weekend Party</b><br><i>Nightlife</i><br>Fri 5th Jun<br>ivy precinct, Sydney<br>Check site<br><br>Kick off the long weekend with a party at ivy precinct. Check the eventbrite page for ticket prices.<br><br><a href="https://www.eventbrite.com.au/e/fri-05-jun-long-weekend-wao-superclub-tickets-1988979738941?aff=ebdssbcategorybrowse">More info / tickets</a>]]></description>
+      <name>Kate Mitchell: In the Eye of the Giant</name>
+      <description><![CDATA[<b>Kate Mitchell: In the Eye of the Giant</b><br><i>Arts &amp; Culture</i><br>Thu 11th Jun – Tue 30th Jun<br>Art Gallery of New South Wales, Sydney<br>Check site<br><br>Digital art installation visualising emotions through intricate drawings by Sydney artist Kate Mitchell.<br><br><a href="https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydney">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2174176,-33.8686067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pet Palace - Little Orange Studio x AGNSW</name>
+      <description><![CDATA[<b>Pet Palace - Little Orange Studio x AGNSW</b><br><i>Arts &amp; Culture</i><br>Wed 10th Jun – Sun 23rd Aug<br>Art Gallery of NSW, Sydney<br>Check site<br><br>An art exhibition blending visual arts and studio creations.<br><br><a href="https://www.campbelltown.nsw.gov.au/Whats-On">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.218028,-33.868457,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Pirates of Penzance</name>
+      <description><![CDATA[<b>The Pirates of Penzance</b><br><i>Theatre</i><br>Wed 10th Jun – Sun 14th Jun<br>Foundry Theatre, inside the Sydney Lyric, Pirrama Road, Pyrmont, Pyrmont<br>Tickets from $59.90 per person (transaction fees apply)<br><br>An immersive revival of Gilbert and Sullivan's classic comedy.<br><br><a href="https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/">More info / tickets</a>]]></description>
+      <styleUrl>#blue-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.1927237,-33.8636232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pride Fest</name>
+      <description><![CDATA[<b>Pride Fest</b><br><i>Cultural</i><br>Wed 10th Jun – Sun 14th Jun<br>Sydney City, Sydney City<br>Varies<br><br>Pride Fest is a month-long celebration of queer arts and culture in Sydney, featuring performances, conversations, and community events.<br><br><a href="https://www.experiencesydneyaustralia.com/whats-on/events/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2053644,-33.8747234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drag Bingo</name>
+      <description><![CDATA[<b>Drag Bingo</b><br><i>Nightlife</i><br>Thu 11th Jun<br>Southern Cross Hotel, Saint Peters<br>Check site<br><br>Fun drag queen-hosted bingo night at Southern Cross Hotel.<br><br><a href="https://surreal.live/en-au/events/sydney">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>151.207571,-33.866318,0</coordinates>
+        <coordinates>151.1745173,-33.9157791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newtown Open Mic Night</name>
+      <description><![CDATA[<b>Newtown Open Mic Night</b><br><i>Nightlife</i><br>Thu 11th Jun<br>8:52 Newtown, Newtown<br>Free<br><br>A free evening of live music, poetry, and comedy performances.<br><br><a href="https://humanitix.com/au/events/au--nsw--sydney/free--thisweek">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>150.8916388,-33.9751661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abercrombie ROOFTOP</name>
+      <description><![CDATA[<b>Abercrombie ROOFTOP</b><br><i>Nightlife</i><br>Fri 12th Jun – Sat 13th Jun<br>The Abercrombie Hotel, Chippendale<br>Check site<br><br>A rooftop event at The Abercrombie Hotel.<br><br><a href="https://surreal.live/en-au/event/the-abercrombie-hotel_abercrombie-rooftop-xxzaww">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.1987369,-33.8844932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bois Night Out</name>
+      <description><![CDATA[<b>Bois Night Out</b><br><i>Nightlife</i><br>Fri 12th Jun<br>Factory Theatre, Marrickville, NSW<br>Free<br><br>A fun night out with friends.<br><br><a href="https://www.factorytheatre.com.au/event/bois-night-out-june/">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2075264,-33.8709129,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farra de Dancehall</name>
+      <description><![CDATA[<b>Farra de Dancehall</b><br><i>Music</i><br>Fri 12th Jun<br>The Soda Factory<br>Check site<br><br>A dancehall music event at The Soda Factory.<br><br><a href="https://humanitix.com/au/events/au--nsw--sydney/free--thisweek">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2119491,-33.8776482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>French Girls Premiere Party</name>
+      <description><![CDATA[<b>French Girls Premiere Party</b><br><i>Arts &amp; Culture</i><br>Fri 12th Jun<br>Sydney Film Festival Hub, Sydney<br>Free<br><br>Join the film team for a chic celebration following the premiere screening of French Girls at the Sydney Film Festival Hub.<br><br><a href="https://www.sydneytravelguide.com.au/sydney-film-festival-guide-dates-top-events-and-tickets/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.2061792,-33.8731968,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Body Blow</name>
+      <description><![CDATA[<b>Body Blow</b><br><i>Arts &amp; Culture</i><br>Sat 13th Jun<br>Dendy Newtown, Sydney<br>$27.50<br><br>Body Blow is an erotic thriller starring Paul Capsis as a disgraced cop navigating Sydney's gay nightlife, exploring themes of crime, obsession, lust, and danger.<br><br><a href="https://www.sydneytravelguide.com.au/sydney-film-festival-guide-dates-top-events-and-tickets/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.1804038,-33.8959356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>World Cup Live Site</name>
+      <description><![CDATA[<b>World Cup Live Site</b><br><i>Sport &amp; Fitness</i><br>Sun 14th Jun<br>Cathy Freeman Park, Sydney Olympic Park<br>Free<br><br>Watch the Socceroos' World Cup matches in a lively park setting.<br><br><a href="https://www.sydneyolympicpark.com.au/things-to-see-and-do">More info / tickets</a>]]></description>
+      <styleUrl>#ltblue-dot.png</styleUrl>
+      <Point>
+        <coordinates>151.0664658,-33.8464075,0</coordinates>
       </Point>
     </Placemark>
   </Document>
