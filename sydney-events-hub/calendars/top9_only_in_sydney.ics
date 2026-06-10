@@ -8,131 +8,127 @@ X-WR-CALDESC:Unique\, one-of-a-kind Sydney experiences you won't find anywhere e
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:c5962c425f20@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260522
+UID:01e297a0e5e0@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260801
+SUMMARY:Adventure Clues: Unlock The Rocks
+DESCRIPTION:Explore The Rocks with cryptic clues in a fun\, interactive way
+ .\n\nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/
+ events/unlock-the-rocks-cryptic-adventure
+LOCATION:Customs House Square\, The Rocks\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/unlock-the-rocks-cryptic
+ -adventure
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:83e3141439e0@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260612
+SUMMARY:Sky Symphony: Fireworks\, Lasers\, Music
+DESCRIPTION:Vivid Sydney light show with fireworks and lasers.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://www.vividsydney.com/event/light/sky-symphony-f
+ ireworks-lasers-music
+LOCATION:Darling Harbour\, Darling Harbour\, Sydney
+URL:https://www.vividsydney.com/event/light/sky-symphony-fireworks-lasers-m
+ usic
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:6874f0110e6d@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-SUMMARY:Vivid Sydney
-DESCRIPTION:The world's largest light\, music\, and ideas festival illumina
- tes Sydney's landmarks\, including the Opera House\, Harbour Bridge\, and 
- Darling Harbour\, over 23 nights.\n\nPrice: Free (Light Walk)\n\nTickets/I
- nfo: https://sydneyholidays.com.au/sydney-events
-LOCATION:City-wide\, Sydney CBD\, Sydney
-URL:https://sydneyholidays.com.au/sydney-events
+SUMMARY:Guided walk - Edensor Creek
+DESCRIPTION:A guided walk along Edensor Creek.\n\nPrice: Check site\n\nTick
+ ets/Info: https://humanitix.com/au/events/au--nsw--sydney/thisweekend
+LOCATION:Edensor Park\, Sydney\, Sydney
+URL:https://humanitix.com/au/events/au--nsw--sydney/thisweekend
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:e0f8b38a415e@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:Retro Silent Disco
-DESCRIPTION:Dance to 80s\, 90s\, and 00s music with wireless headphones at 
- this silent disco\, featuring three DJs and stunning harbour views during 
- Vivid.\n\nPrice: $50\n\nTickets/Info: https://www.eventbrite.com/e/retro-s
- ilent-disco-vivid-season-special-overseas-passenger-terminal-tickets-19821
- 92524199?aff=ebdssbcategorybrowse
-LOCATION:Overseas Passenger Terminal\, Circular Quay\, Sydney
-URL:https://www.eventbrite.com/e/retro-silent-disco-vivid-season-special-ov
- erseas-passenger-terminal-tickets-1982192524199?aff=ebdssbcategorybrowse
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:4c0556ad5d90@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Oysters in the House
-DESCRIPTION:Celebrate Sydney Rock Oysters and other culinary heroes at this
-  one-day event at Shell House.\n\nPrice: From $50*\n\nTickets/Info: https:
- //www.vividsydney.com/event/food/oysters-in-the-house
-LOCATION:Circular Quay and The Rocks\, Circular Quay and The Rocks\, Sydney
-URL:https://www.vividsydney.com/event/food/oysters-in-the-house
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:7cb77d4bda6c@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:The Rocks to Barangaroo: Layers of Sydney
-DESCRIPTION:Explore the blend of heritage and contemporary architecture on 
- a guided 2-hour walk through Sydney's historic and modern sites.\n\nPrice:
+UID:0b2b349378d4@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260624
+SUMMARY:Astronomy Night
+DESCRIPTION:Explore the night sky with guided astronomy sessions.\n\nPrice:
   Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/event
- s/from-the-rocks-to-barangaroo-walk
-LOCATION:Museum of Contemporary Art\, The Rocks\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/from-the-rocks-to-barang
- aroo-walk
+ s/astronomy-at-the-calyx
+LOCATION:The Royal Botanic Garden\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/astronomy-at-the-calyx
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:4f54adf3e22a@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-SUMMARY:Sin City: Sydney Crime Stories
-DESCRIPTION:Discover Sydney's turbulent past with a two-hour walk through T
- he Rocks and the waterfront\, uncovering stories of crime and history.\n\n
- Price: Check site\n\nTickets/Info: https://mhnsw.au/whats-on/events/sin-ci
- ty-sydney/
-LOCATION:Justice & Police Museum\, Corner Albert and Phillip streets\, Sydn
- ey NSW 2000\, Sydney
-URL:https://mhnsw.au/whats-on/events/sin-city-sydney/
+UID:e301b6efdbba@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260629
+SUMMARY:Holding Light
+DESCRIPTION:Artistic response to the Bondi Beach terror attack.\n\nPrice: C
+ heck site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/
+ holding-light
+LOCATION:Bondi Pavilion\, Bondi\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/holding-light
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:105d316edd0d@sydney-events-scraper
-DTSTAMP:20260603T000000Z
+UID:9099b75ac407@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260628
+SUMMARY:Luku dhinthun: Always following the path of our Ancestors
+DESCRIPTION:Artists from diverse clan groups share stories of Milingimbi ar
+ t.\n\nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.
+ gov.au/events/luku-dhinthun-always-following-the-path-of-our-ancestors
+LOCATION:The Cross Art Projects\, Potts Point\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/luku-dhinthun-always-fol
+ lowing-the-path-of-our-ancestors
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:eacb798ead6b@sydney-events-scraper
+DTSTAMP:20260610T000000Z
 DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:Merchants of Haymarket
-DESCRIPTION:Explore the Chinese merchants who built Sydney’s Chinatown an
- d shaped Haymarket’s history.\n\nPrice: Free\n\nTickets/Info: https://wh
- atson.cityofsydney.nsw.gov.au/?freeEvent=true
-LOCATION:HAYMARKET\, COMMUNITY & CAUSES\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/?freeEvent=true
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:f539596e447b@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260615
-SUMMARY:Sydney Biennale 2026 – Rememory
-DESCRIPTION:Major art event with installations\, performances\, and commiss
- ions across Sydney.\n\nPrice: Free\n\nTickets/Info: https://sitchu.com.au/
- sydney/arts-culture/best-art-exhibitions-sydney
-LOCATION:Various Sydney venues\, Sydney\, Sydney
-URL:https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydney
+SUMMARY:Sydney Film Festival: Official Competition
+DESCRIPTION:From June 3 to 14\, the State Theatre will showcase daring and 
+ innovative films as part of the 2026 Official Competition. Check the websi
+ te for pricing details.\n\nPrice: Check site\n\nTickets/Info: https://what
+ son.cityofsydney.nsw.gov.au/events/sydney-film-festival-official-competiti
+ on-2026
+LOCATION:State Theatre\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/sydney-film-festival-off
+ icial-competition-2026
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:b11a80e68266@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260604
-SUMMARY:Vivid Night Ride
-DESCRIPTION:A bike ride through Sydney's Vivid festival lights.\n\nPrice: F
- ree\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/celebr
- ate-world-bicycle-day-vivid-night-ride
-LOCATION:Chalmers St\, Haymarket NSW 2000\, Australia\, Haymarket\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/celebrate-world-bicycle-
- day-vivid-night-ride
+UID:a14f48a06340@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260703
+SUMMARY:200th Anniversary Exhibitions
+DESCRIPTION:A guided tour of the State Library of NSW's 200th anniversary e
+ xhibits.\n\nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydne
+ y.nsw.gov.au/events/discover-the-200th-anniversary-exhibitions
+LOCATION:State Library of NSW\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/discover-the-200th-anniv
+ ersary-exhibitions
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:b7793a312f81@sydney-events-scraper
-DTSTAMP:20260603T000000Z
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260609
-SUMMARY:VIVID VOYAGE - Feat SPECTACULAR VIVID LIGHTS
-DESCRIPTION:Experience a boat party with 11 DJs\, a saxophonist\, and percu
- ssionist\, dancing under Vivid lights on a three-level boat for four hours
- .\n\nPrice: $3\n\nTickets/Info: https://allevents.in/sydney/vivid-voyage-f
- eat-spectacular-vivid-lights/100001988058571705
-LOCATION:King Street Wharf 3\, Sydney\, Sydney
-URL:https://allevents.in/sydney/vivid-voyage-feat-spectacular-vivid-lights/
- 100001988058571705
+UID:43d2b743121a@sydney-events-scraper
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260615
+SUMMARY:Sydney Film Festival Hub Events
+DESCRIPTION:Film festival events and talks at Lower Town Hall.\n\nPrice: Fr
+ ee\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/events-
+ and-talks-at-the-sydney-film-festival-hub
+LOCATION:Lower Town Hall - Sydney Town Hall\, Sydney\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/events/events-and-talks-at-the-
+ sydney-film-festival-hub
 CATEGORIES:Only in Sydney
 END:VEVENT
 END:VCALENDAR
