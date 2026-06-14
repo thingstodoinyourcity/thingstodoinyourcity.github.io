@@ -9,22 +9,21 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:dd7e778c4913@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Trooping The Colour
 DESCRIPTION:The King's Birthday Parade features prime pageantry. Free viewi
  ng along the Mall or St James's Park. Grandstand seating is limited and hi
- ghly sought after.\n\nPrice: free to watch from certain points\, tickets v
- ary from £10 – £30\n\nTickets/Info: https://www.londonperfect.com/plan
- -your-trip/events-in-london/june.php
+ ghly sought after.\n\nPrice: Free viewing\; seats £10-£30\n\nTickets/Inf
+ o: https://www.londonperfect.com/plan-your-trip/events-in-london/june.php
 LOCATION:Horse Guards Parade\, Westminster\, London
 URL:https://www.londonperfect.com/plan-your-trip/events-in-london/june.php
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:b74cbb64ff2b@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Gun Salutes
@@ -41,7 +40,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a9b2eb01b7@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Cruise ship passing through Tower Bridge
@@ -54,7 +53,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:98949013ccf0@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Cinema Paradiso outdoor screening
@@ -67,7 +66,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:f5977fe0998f@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 SUMMARY:Floating Art Gallery on Regent's Canal
@@ -80,7 +79,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:9e325716b2d4@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:BMW Classics 2026
@@ -95,21 +94,20 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:fc072edd4276@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
 SUMMARY:Ferreira Weekend at Cutty Sark
 DESCRIPTION:Celebrate Portugal Day with activities themed around the ship's
-  history as Ferreira.\n\nPrice: Free with entry to Cutty Sark - Adults £2
- 2 | Students £16.50 | Children £11\n\nTickets/Info: https://www.rmg.co.u
- k/whats-on
+  history as Ferreira.\n\nPrice: Included with Cutty Sark entry\n\nTickets/
+ Info: https://www.rmg.co.uk/whats-on
 LOCATION:Cutty Sark\, Greenwich\, London
 URL:https://www.rmg.co.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:8de211fcfa04@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260629
 SUMMARY:Molly houses: London's early club scene
@@ -121,15 +119,18 @@ URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:318046f5b8be@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260614
-SUMMARY:Resonant Matter
-DESCRIPTION:Exhibition on London's underground culture and its influence.\n
- \nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
-LOCATION:London
-URL:https://www.ianvisits.co.uk/calendar/
+UID:c2d9a045e2f3@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260615
+SUMMARY:A London Lark Rising
+DESCRIPTION:Join a dramatised walking tour through the City of London\, unc
+ overing the East India Company's history from 1599 onward.\n\nPrice: £30\
+ n\nTickets/Info: https://www.thecityofldn.com/event/a-london-lark-rising-i
+ mmersive-walking-play/
+LOCATION:Various locations\, City of London\, London
+URL:https://www.thecityofldn.com/event/a-london-lark-rising-immersive-walki
+ ng-play/
 CATEGORIES:Only in London
 END:VEVENT
 END:VCALENDAR
