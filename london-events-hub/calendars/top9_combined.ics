@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:c54e24209fb2@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260630
 SUMMARY:Date Night · Citizens of Soil Olive Oil Bar
@@ -22,17 +22,15 @@ URL:https://www.londonpopups.com/2026/06/pop-ups-in-london-5th-12th-june-20
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:bd05039edb9b@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
+UID:6c535c770820@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
 SUMMARY:Date Night · Gin Talk and Tasting on HMS Belfast
-DESCRIPTION:Celebrate National Gin Day aboard HMS Belfast with a talk on gi
- n's history in the Armed Forces. Enjoy a tasting of Veteran Gin's award-wi
- nning London dry\, with proceeds supporting veterans. Event is on 13th Jun
- e 2026\, 6:30pm to 7:45pm.\n\nPrice: £20\n\nTickets/Info: https://www.ian
- visits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-42949
- 4/
+DESCRIPTION:Board HMS Belfast for a gin talk and tasting exploring the drin
+ k's armed-forces history\, with Veteran Gin samples and proceeds supportin
+ g veterans.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-429494/
 LOCATION:HMS Belfast\, Southwark\, London
 URL:https://www.ianvisits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on
  -hms-belfast-429494/
@@ -40,7 +38,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:ff69c307bc4c@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260621
 SUMMARY:Date Night · Romeo and Juliet
@@ -55,7 +53,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:6ba8ef2b75ce@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Date Night · Jean-Paul Live in Concert
@@ -68,41 +66,45 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:4185855de2e8@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Date Night · Wine\, Blinis and Conversation
-DESCRIPTION:Evening of wine tasting and blinis at Borough Market.\n\nPrice:
-  £15\n\nTickets/Info: https://batterseapowerstation.co.uk/events/wine-bli
- nis-and-conversation/
-LOCATION:Borough\, London
+DESCRIPTION:Join Where The Pancakes Are and Borough Market's Sustainable Wi
+ ne Solutions for a summer-wine and blinis tasting at Battersea Power Stati
+ on.\n\nPrice: £15\n\nTickets/Info: https://batterseapowerstation.co.uk/ev
+ ents/wine-blinis-and-conversation/
+LOCATION:Battersea Power Station\, Battersea\, London
 URL:https://batterseapowerstation.co.uk/events/wine-blinis-and-conversation
  /
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b6afe0b1fe@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Date Night · Evening Garden Tour at Richmond Castle
-DESCRIPTION:Explore historic gardens after hours with guided tours.\n\nPric
- e: Free\n\nTickets/Info: https://www.english-heritage.org.uk/visit/whats-o
- n/
-LOCATION:Richmond Castle\, Richmond\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/
+UID:1ee30fa72654@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Date Night · Aqua Aerobics on art'otel Rooftop
+DESCRIPTION:Start the day with aqua aerobics in art'otel's heated rooftop i
+ nfinity pool\, with Battersea Power Station views and a post-workout drink
+  and pastry.\n\nPrice: from £27.50\n\nTickets/Info: https://artotel-londo
+ n-battersea-power-station.designmynight.com/659434039f05d0513b1e8aa6/aqua-
+ on-the-rooftop
+LOCATION:Art'otel London Battersea Power Station\, Battersea\, London
+URL:https://artotel-london-battersea-power-station.designmynight.com/659434
+ 039f05d0513b1e8aa6/aqua-on-the-rooftop
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:82df2c1640c4@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Date Night · Much Ado About Nothing
-DESCRIPTION:Enjoy a sun-soaked Shakespeare comedy of sharp tongues\, gossip
- \, and second chances at Shakespeare's Globe. Free entry.\n\nPrice: Free\n
- \nTickets/Info: https://www.skiddle.com/whats-on/London/Shakespeare%27s-Gl
- obe/Much-Ado-About-Nothing-2026/42369918/
+DESCRIPTION:Catch a sun-soaked Much Ado About Nothing at Shakespeare's Glob
+ e\, full of sharp tongues\, gossip\, and second chances.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Shakespeare%2
+ 7s-Globe/Much-Ado-About-Nothing-2026/42369918/
 LOCATION:Shakespeare's Globe\, London\, London
 URL:https://www.skiddle.com/whats-on/London/Shakespeare%27s-Globe/Much-Ado-
  About-Nothing-2026/42369918/
@@ -110,7 +112,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:aa17ecae535d@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Date Night · A Guide to Gavi with Jimmy Smith
@@ -124,7 +126,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:953459d21606@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Date Night · Gimme! Gimme! Gimme! Bottomless Brunch
@@ -140,22 +142,21 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:dd7e778c4913@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Only in London · Trooping The Colour
 DESCRIPTION:The King's Birthday Parade features prime pageantry. Free viewi
  ng along the Mall or St James's Park. Grandstand seating is limited and hi
- ghly sought after.\n\nPrice: free to watch from certain points\, tickets v
- ary from £10 – £30\n\nTickets/Info: https://www.londonperfect.com/plan
- -your-trip/events-in-london/june.php
+ ghly sought after.\n\nPrice: Free viewing\; seats £10-£30\n\nTickets/Inf
+ o: https://www.londonperfect.com/plan-your-trip/events-in-london/june.php
 LOCATION:Horse Guards Parade\, Westminster\, London
 URL:https://www.londonperfect.com/plan-your-trip/events-in-london/june.php
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:b74cbb64ff2b@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Only in London · Gun Salutes
@@ -172,7 +173,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a9b2eb01b7@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Only in London · Cruise ship passing through Tower Bridge
@@ -185,7 +186,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:98949013ccf0@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Only in London · Cinema Paradiso outdoor screening
@@ -198,7 +199,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:f5977fe0998f@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 SUMMARY:Only in London · Floating Art Gallery on Regent's Canal
@@ -211,7 +212,7 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:9e325716b2d4@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Only in London · BMW Classics 2026
@@ -226,21 +227,20 @@ CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:fc072edd4276@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
 SUMMARY:Only in London · Ferreira Weekend at Cutty Sark
 DESCRIPTION:Celebrate Portugal Day with activities themed around the ship's
-  history as Ferreira.\n\nPrice: Free with entry to Cutty Sark - Adults £2
- 2 | Students £16.50 | Children £11\n\nTickets/Info: https://www.rmg.co.u
- k/whats-on
+  history as Ferreira.\n\nPrice: Included with Cutty Sark entry\n\nTickets/
+ Info: https://www.rmg.co.uk/whats-on
 LOCATION:Cutty Sark\, Greenwich\, London
 URL:https://www.rmg.co.uk/whats-on
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:8de211fcfa04@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260629
 SUMMARY:Only in London · Molly houses: London's early club scene
@@ -252,33 +252,36 @@ URL:https://www.londonmuseum.org.uk/whats-on/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
-UID:318046f5b8be@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260614
-SUMMARY:Only in London · Resonant Matter
-DESCRIPTION:Exhibition on London's underground culture and its influence.\n
- \nPrice: Free\n\nTickets/Info: https://www.ianvisits.co.uk/calendar/
-LOCATION:London
-URL:https://www.ianvisits.co.uk/calendar/
+UID:c2d9a045e2f3@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260615
+SUMMARY:Only in London · A London Lark Rising
+DESCRIPTION:Join a dramatised walking tour through the City of London\, unc
+ overing the East India Company's history from 1599 onward.\n\nPrice: £30\
+ n\nTickets/Info: https://www.thecityofldn.com/event/a-london-lark-rising-i
+ mmersive-walking-play/
+LOCATION:Various locations\, City of London\, London
+URL:https://www.thecityofldn.com/event/a-london-lark-rising-immersive-walki
+ ng-play/
 CATEGORIES:Only in London
 END:VEVENT
 BEGIN:VEVENT
 UID:44e115510fc2@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260615
 SUMMARY:Culture & Arts · Veronica Ryan: Multiple Conversations
 DESCRIPTION:A retrospective of Turner Prize-winning artist Veronica Ryan's 
- career.\n\nPrice: Paid\n\nTickets/Info: https://whatsdownthatstreet.com/lo
- ndon-museum-guide/exhibitions-london/
+ career.\n\nPrice: Check site\n\nTickets/Info: https://whatsdownthatstreet.
+ com/london-museum-guide/exhibitions-london/
 LOCATION:Whitechapel Gallery\, Whitechapel\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-london/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:7c3cbb4979d5@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260628
 SUMMARY:Culture & Arts · Mother Courage and Her Children
@@ -295,7 +298,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:8d15c6c88f4a@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260810
 SUMMARY:Culture & Arts · HOLY POP!
@@ -309,7 +312,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:46a14f0ef90d@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260712
 SUMMARY:Culture & Arts · Patricia Piccinini: Holding Tight and Letting Go
@@ -325,14 +328,14 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:1323ab712542@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260901
 SUMMARY:Culture & Arts · Murugiah: Ever Feel Like...
 DESCRIPTION:Contemporary artist explores mental health and diverse identiti
- es in new commission.\n\nPrice: 50% off exhibitions\n\nTickets/Info: https
- ://www.artfund.org/explore/get-inspired/features/best-exhibitions-in-londo
- n-open-now
+ es in new commission.\n\nPrice: Check site\n\nTickets/Info: https://www.ar
+ tfund.org/explore/get-inspired/features/best-exhibitions-in-london-open-no
+ w
 LOCATION:Quentin Blake Centre for Illustration\, London\, London
 URL:https://www.artfund.org/explore/get-inspired/features/best-exhibitions-
  in-london-open-now
@@ -340,7 +343,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:5327c579ef40@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260712
 SUMMARY:Culture & Arts · Yinka Ilori: Joy Through Resistance
@@ -356,7 +359,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:1e1e240c2154@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260614
 SUMMARY:Culture & Arts · ALLEGRA
@@ -370,7 +373,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:3df29d747d7c@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260622
 SUMMARY:Culture & Arts · Jinkx Monsoon in End of the Rainbow
@@ -386,7 +389,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:601589c746d1@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260629
 SUMMARY:Culture & Arts · Lottie Cole Exhibition: My Relation\, Elizabeth B
@@ -400,7 +403,7 @@ CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:e85c0ede003e@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260613
 SUMMARY:Going Out · Lido Festival
@@ -417,7 +420,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:c4edda3bfb79@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Going Out · London Nocturn
@@ -431,7 +434,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:7ae934dc2f32@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260830
 SUMMARY:Going Out · Summer in Camden
@@ -445,7 +448,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:a82c265a767e@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Going Out · Tali Tigers: Summer Send Off
@@ -459,7 +462,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f985fb160c@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Going Out · Disko Wunderbar
@@ -473,7 +476,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:a0b47acdf4b8@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Going Out · San Vito\, The Fugs\, Mayzel
@@ -488,7 +491,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:11a095ff1500@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 SUMMARY:Going Out · British Grand Prix at KERB Sports Bar
@@ -501,7 +504,7 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:c33a67344a9e@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 SUMMARY:Going Out · Burger Fest UK 2026
@@ -516,16 +519,18 @@ CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
 UID:4d2fb69698b7@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Going Out · Carwash Daytime Disco: Sunset Sessions
 DESCRIPTION:Carwash Daytime Disco: Sunset Sessions at Core Bar offers a vib
  rant\, immersive disco experience with retro glamour\, themed giveaways\, 
- and a soul-soaked soundtrack.\n\nPrice: Tickets from £18.50 – £480\n\n
- Tickets/Info: http://carwash.designmynight.com
+ and a soul-soaked soundtrack.\n\nPrice: from £11 - £48.60\n\nTickets/Inf
+ o: https://carwash.designmynight.com/689342b1cf8bce02f91086e1/carwash-dayt
+ ime-disco-sunset-sessions
 LOCATION:Core Bar\, City of London\, London
-URL:http://carwash.designmynight.com
+URL:https://carwash.designmynight.com/689342b1cf8bce02f91086e1/carwash-dayt
+ ime-disco-sunset-sessions
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
