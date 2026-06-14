@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
 UID:c54e24209fb2@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260630
 SUMMARY:Citizens of Soil Olive Oil Bar
@@ -22,17 +22,15 @@ URL:https://www.londonpopups.com/2026/06/pop-ups-in-london-5th-12th-june-20
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:bd05039edb9b@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
+UID:6c535c770820@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
 SUMMARY:Gin Talk and Tasting on HMS Belfast
-DESCRIPTION:Celebrate National Gin Day aboard HMS Belfast with a talk on gi
- n's history in the Armed Forces. Enjoy a tasting of Veteran Gin's award-wi
- nning London dry\, with proceeds supporting veterans. Event is on 13th Jun
- e 2026\, 6:30pm to 7:45pm.\n\nPrice: £20\n\nTickets/Info: https://www.ian
- visits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-42949
- 4/
+DESCRIPTION:Board HMS Belfast for a gin talk and tasting exploring the drin
+ k's armed-forces history\, with Veteran Gin samples and proceeds supportin
+ g veterans.\n\nPrice: £20\n\nTickets/Info: https://www.ianvisits.co.uk/ca
+ lendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-429494/
 LOCATION:HMS Belfast\, Southwark\, London
 URL:https://www.ianvisits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on
  -hms-belfast-429494/
@@ -40,7 +38,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:ff69c307bc4c@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260621
 SUMMARY:Romeo and Juliet
@@ -55,7 +53,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:6ba8ef2b75ce@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Jean-Paul Live in Concert
@@ -68,41 +66,45 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:4185855de2e8@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Wine\, Blinis and Conversation
-DESCRIPTION:Evening of wine tasting and blinis at Borough Market.\n\nPrice:
-  £15\n\nTickets/Info: https://batterseapowerstation.co.uk/events/wine-bli
- nis-and-conversation/
-LOCATION:Borough\, London
+DESCRIPTION:Join Where The Pancakes Are and Borough Market's Sustainable Wi
+ ne Solutions for a summer-wine and blinis tasting at Battersea Power Stati
+ on.\n\nPrice: £15\n\nTickets/Info: https://batterseapowerstation.co.uk/ev
+ ents/wine-blinis-and-conversation/
+LOCATION:Battersea Power Station\, Battersea\, London
 URL:https://batterseapowerstation.co.uk/events/wine-blinis-and-conversation
  /
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
-UID:a2b6afe0b1fe@london-events-scraper
-DTSTAMP:20260609T000000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Evening Garden Tour at Richmond Castle
-DESCRIPTION:Explore historic gardens after hours with guided tours.\n\nPric
- e: Free\n\nTickets/Info: https://www.english-heritage.org.uk/visit/whats-o
- n/
-LOCATION:Richmond Castle\, Richmond\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/
+UID:1ee30fa72654@london-events-scraper
+DTSTAMP:20260614T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Aqua Aerobics on art'otel Rooftop
+DESCRIPTION:Start the day with aqua aerobics in art'otel's heated rooftop i
+ nfinity pool\, with Battersea Power Station views and a post-workout drink
+  and pastry.\n\nPrice: from £27.50\n\nTickets/Info: https://artotel-londo
+ n-battersea-power-station.designmynight.com/659434039f05d0513b1e8aa6/aqua-
+ on-the-rooftop
+LOCATION:Art'otel London Battersea Power Station\, Battersea\, London
+URL:https://artotel-london-battersea-power-station.designmynight.com/659434
+ 039f05d0513b1e8aa6/aqua-on-the-rooftop
 CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:82df2c1640c4@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Much Ado About Nothing
-DESCRIPTION:Enjoy a sun-soaked Shakespeare comedy of sharp tongues\, gossip
- \, and second chances at Shakespeare's Globe. Free entry.\n\nPrice: Free\n
- \nTickets/Info: https://www.skiddle.com/whats-on/London/Shakespeare%27s-Gl
- obe/Much-Ado-About-Nothing-2026/42369918/
+DESCRIPTION:Catch a sun-soaked Much Ado About Nothing at Shakespeare's Glob
+ e\, full of sharp tongues\, gossip\, and second chances.\n\nPrice: Check s
+ ite\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Shakespeare%2
+ 7s-Globe/Much-Ado-About-Nothing-2026/42369918/
 LOCATION:Shakespeare's Globe\, London\, London
 URL:https://www.skiddle.com/whats-on/London/Shakespeare%27s-Globe/Much-Ado-
  About-Nothing-2026/42369918/
@@ -110,7 +112,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:aa17ecae535d@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:A Guide to Gavi with Jimmy Smith
@@ -124,7 +126,7 @@ CATEGORIES:Date Night
 END:VEVENT
 BEGIN:VEVENT
 UID:953459d21606@london-events-scraper
-DTSTAMP:20260609T000000Z
+DTSTAMP:20260614T000000Z
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
 SUMMARY:Gimme! Gimme! Gimme! Bottomless Brunch
