@@ -8,127 +8,128 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in Sydney 
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:fd4d7ccfb5e0@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260614
-SUMMARY:Afterimage: Projection Mapped Mural
-DESCRIPTION:A 3D-animated graffiti mural created live at Tumbalong Park\, b
- lending street art with projection mapping. Part of Vivid Sydney\, it's fr
- ee to view.\n\nPrice: Free\n\nTickets/Info: https://www.vividsydney.com/ev
- ent/light/afterimage-a-projection-mapped-mural
-LOCATION:Tumbalong Park\, Darling Harbour\, Sydney
-URL:https://www.vividsydney.com/event/light/afterimage-a-projection-mapped-
- mural
+UID:c024202671f6@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260702
+SUMMARY:Banksy Limitless
+DESCRIPTION:The world-renowned LEGO® art exhibition\, The Art of the Brick
+ \, is coming to a secret Sydney location. This acclaimed show has toured m
+ ultiple cities and been featured on CNN.\n\nPrice: from $42\n\nTickets/Inf
+ o: https://www.therocks.com/whats-on/events/banksy-limitless
+LOCATION:155 George Street\, The Rocks\, Sydney
+URL:https://www.therocks.com/whats-on/events/banksy-limitless
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:6d7247a12167@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260628
-SUMMARY:Ilyarnayt
-DESCRIPTION:Art exhibition presented in collaboration with Utopia Art Centr
- e.\n\nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au
- /events/ilyarnayt
-LOCATION:104 Cathedral St\, Woolloomooloo NSW 2011\, Australia\, Woolloomoo
- loo\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/ilyarnayt
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:d753223d368e@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260628
-SUMMARY:Shooting Hedda Gabler
-DESCRIPTION:A darkly comedic play by Nina Segal exploring themes of ambitio
- n and manipulation. Check the site for ticket prices.\n\nPrice: Check site
- \n\nTickets/Info: https://www.experiencesydneyaustralia.com/whats-on/event
- s/
-LOCATION:Seymour Centre\, Chippendale NSW 2008\, Sydney
-URL:https://www.experiencesydneyaustralia.com/whats-on/events/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:945105b501e0@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260705
-SUMMARY:Decentralised Gesture
-DESCRIPTION:Solo exhibition by Chinese artist Wang Yigang.\n\nPrice: Free\n
- \nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/decentralis
- ed-gesture
-LOCATION:Shop 2/1 Francis St\, Darlinghurst\, Darlinghurst\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/decentralised-gesture
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:bf45e7e51e46@sydney-events-scraper
-DTSTAMP:20260610T000000Z
+UID:e08df75c394d@sydney-events-scraper
+DTSTAMP:20260625T000000Z
 DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260810
-SUMMARY:The Lion King
-DESCRIPTION:Disney's beloved musical about a young lion's journey to kingsh
- ip.\n\nPrice: From $165 via\n\nTickets/Info: https://www.sydneytravelguide
- .com.au/things-to-do-in-sydney-june/
-LOCATION:Capitol Theatre\, 13 Campbell St\, Haymarket\, Haymarket\, Sydney
-URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+DTEND;VALUE=DATE:20260713
+SUMMARY:HSBC Spanish & Latin American Film Festival
+DESCRIPTION:The HSBC Spanish & Latin American Film Festival brings a winter
+  selection of Spanish and Latin American films to Palace Cinemas across Au
+ stralia.\n\nPrice: $25\n\nTickets/Info: https://spanishfilmfestival.com/se
+ ssion-times?city=Sydney
+LOCATION:Palace Norton Street Cinema\, Leichhardt\, Sydney
+URL:https://spanishfilmfestival.com/session-times?city=Sydney
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:14efe9e3798b@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260622
-SUMMARY:An Iliad
-DESCRIPTION:A poet retells the Trojan War in a powerful adaptation.\n\nPric
- e: Tickets from $79\n\nTickets/Info: https://www.sydneytravelguide.com.au/
- things-to-do-in-sydney-june/
-LOCATION:Wharf 1 Theatre\, The Wharf\, Wharf 4/5/15 Hickson Rd\, Dawes Poin
- t NSW 2000\, Dawes Point\, Sydney
-URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+UID:2607a71948c4@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260706
+SUMMARY:Disney's The Lion King
+DESCRIPTION:Disney's The Lion King is now on stage at the Capitol Theatre. 
+ Follow Simba's powerful story in this spectacular production.\n\nPrice: fr
+ om $60\n\nTickets/Info: https://www.sydney.com/destinations/sydney/sydney-
+ city/chinatown-and-haymarket/events/disneys-the-lion-king
+LOCATION:Capitol Theatre\, Haymarket\, Sydney
+URL:https://www.sydney.com/destinations/sydney/sydney-city/chinatown-and-ha
+ ymarket/events/disneys-the-lion-king
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:87877bc8fbdb@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260701
-SUMMARY:Kate Mitchell: In the Eye of the Giant
-DESCRIPTION:Digital art installation visualising emotions through intricate
-  drawings by Sydney artist Kate Mitchell.\n\nPrice: Check site\n\nTickets/
- Info: https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydne
- y
-LOCATION:Art Gallery of New South Wales\, Sydney\, Sydney
-URL:https://sitchu.com.au/sydney/arts-culture/best-art-exhibitions-sydney
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:e0e922400da6@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
+UID:1b0e60b212e3@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260824
-SUMMARY:Pet Palace - Little Orange Studio x AGNSW
-DESCRIPTION:An art exhibition blending visual arts and studio creations.\n\
- nPrice: Check site\n\nTickets/Info: https://www.campbelltown.nsw.gov.au/Wh
- ats-On
-LOCATION:Art Gallery of NSW\, Sydney\, Sydney
-URL:https://www.campbelltown.nsw.gov.au/Whats-On
+SUMMARY:Mike Hewson - The Key's Under the Mat
+DESCRIPTION:Art installation using salvaged materials to blend art\, play\,
+  and community.\n\nPrice: from $35\n\nTickets/Info: https://www.sydney.com
+ /events/exhibitions-and-shows
+LOCATION:Art Gallery of NSW\, Sydney City\, Sydney
+URL:https://www.sydney.com/events/exhibitions-and-shows
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:b751521e24de@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260615
-SUMMARY:The Pirates of Penzance
-DESCRIPTION:An immersive revival of Gilbert and Sullivan's classic comedy.\
- n\nPrice: Tickets from $59.90 per person (transaction fees apply)\n\nTicke
- ts/Info: https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
-LOCATION:Foundry Theatre\, inside the Sydney Lyric\, Pirrama Road\, Pyrmont
- \, Pyrmont\, Sydney
-URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-june/
+UID:a70e86e8abc7@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260629
+SUMMARY:Sydney Dance Company - Engine
+DESCRIPTION:Sydney Dance Company triple bill at the Drama Theatre\, Sydney 
+ Opera House.\n\nPrice: from $81\n\nTickets/Info: https://www.sydneyoperaho
+ use.com/dance/engine
+LOCATION:Sydney Opera House\, Sydney Opera House\, Sydney
+URL:https://www.sydneyoperahouse.com/dance/engine
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:3699f0439926@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260706
+SUMMARY:The Incognito Art Show
+DESCRIPTION:The Incognito Art Show returns to Carriageworks with over 20\,0
+ 00 original artworks priced at $100 each. The artist behind each piece rem
+ ains anonymous\, adding an element of surprise to your purchase.\n\nPrice:
+  Every piece of art costs $100\n\nTickets/Info: https://www.timeout.com/sy
+ dney/things-to-do/things-to-do-in-sydney-this-week
+LOCATION:Carriageworks\, Eveleigh\, Sydney
+URL:https://www.timeout.com/sydney/things-to-do/things-to-do-in-sydney-this
+ -week
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:d76d08481563@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260720
+SUMMARY:World Press Photo Exhibition
+DESCRIPTION:Global World Press Photo Exhibition at the State Library of NSW
+ .\n\nPrice: Free\n\nTickets/Info: https://www.sl.nsw.gov.au/exhibitions/wo
+ rld-press-photo-exhibition-2026
+LOCATION:State Library of NSW\, Sydney CBD\, Sydney
+URL:https://www.sl.nsw.gov.au/exhibitions/world-press-photo-exhibition-2026
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:7b09c26d9ec3@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260713
+SUMMARY:Hair Musical
+DESCRIPTION:A rock musical celebrating counterculture and freedom\, with st
+ anding ovations.\n\nPrice: Check site\n\nTickets/Info: https://www.western
+ sydneymums.au/event/hair/
+LOCATION:Theatre Royal Sydney\, Theatre Royal Sydney\, Sydney
+URL:https://www.westernsydneymums.au/event/hair/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:5585fb7a23ea@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260629
+SUMMARY:A Succulent Chinese Musical
+DESCRIPTION:A hilarious musical about a notorious car thief and prison esca
+ pee\, inspired by a famous meme.\n\nPrice: From $42\n\nTickets/Info: https
+ ://www.sydneytravelguide.com.au/things-to-do-in-sydney-this-weekend/
+LOCATION:Flight Path Theatre\, Marrickville\, Sydney
+URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-this-weeken
+ d/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
