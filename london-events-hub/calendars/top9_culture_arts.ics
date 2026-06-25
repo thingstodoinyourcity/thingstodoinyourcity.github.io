@@ -8,137 +8,123 @@ X-WR-CALDESC:The best theatre\, art\, exhibitions and cultural events in London 
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:44e115510fc2@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260615
-SUMMARY:Veronica Ryan: Multiple Conversations
-DESCRIPTION:A retrospective of Turner Prize-winning artist Veronica Ryan's 
- career.\n\nPrice: Check site\n\nTickets/Info: https://whatsdownthatstreet.
- com/london-museum-guide/exhibitions-london/
-LOCATION:Whitechapel Gallery\, Whitechapel\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-london/
+UID:11e0eda71522@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260907
+SUMMARY:Project a Black Planet: Panafrican Art
+DESCRIPTION:An exhibition exploring the role of visual art in Panafricanism
+ .\n\nPrice: £19\n\nTickets/Info: https://www.barbican.org.uk/whats-on/tal
+ ks-events
+LOCATION:Barbican\, EC2Y 8DS\, London
+URL:https://www.barbican.org.uk/whats-on/talks-events
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:7c3cbb4979d5@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260628
-SUMMARY:Mother Courage and Her Children
-DESCRIPTION:Follow Mother Courage as she navigates a war-torn world\, selli
- ng goods from her cart to survive. This production\, set in a dystopian se
- tting\, explores themes of fascism\, family\, and complicity. Michelle Ter
- ry leads the cast as Mother Courage.\n\nPrice: from £8\n\nTickets/Info: h
- ttps://www.londontheatre.co.uk/show/46231-mother-courage-and-her-children-
- globe
-LOCATION:Globe Theatre\, South Bank\, London
-URL:https://www.londontheatre.co.uk/show/46231-mother-courage-and-her-child
- ren-globe
+UID:b13a2ded5568@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260907
+SUMMARY:Hepworth in Colour
+DESCRIPTION:Barbara Hepworth's colour-focused exhibition at the Courtauld G
+ allery.\n\nPrice: £18\n\nTickets/Info: https://courtauld.ac.uk/whats-on/e
+ xh-hepworth-in-colour/
+LOCATION:Courtauld Gallery\, Strand\, London
+URL:https://courtauld.ac.uk/whats-on/exh-hepworth-in-colour/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:8d15c6c88f4a@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260810
-SUMMARY:HOLY POP!
-DESCRIPTION:Explore modern shrines and how we honor heroes and celebrities.
-  This exhibition delves into the world of contemporary icons and the ways 
- we pay tribute to them.\n\nPrice: Free\n\nTickets/Info: https://londonthei
- nside.com/map/exhibitions-2/
-LOCATION:Somerset House\, Strand\, London
+UID:3bbc703b4e47@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260627
+SUMMARY:Summer Music in City Churches
+DESCRIPTION:Nine-day music festival in historic City of London churches.\n\
+ nPrice: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/summer-m
+ usic-in-city-churches-around-the-world-london-concerts/
+LOCATION:St Giles Cripplegate\, City of London\, London
+URL:https://eventsforlondon.co.uk/event/summer-music-in-city-churches-aroun
+ d-the-world-london-concerts/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:1597754391d1@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260824
+SUMMARY:David Hockney Exhibition
+DESCRIPTION:New works by David Hockney\, including still lifes and portrait
+ s.\n\nPrice: Free\n\nTickets/Info: https://londontheinside.com/map/exhibit
+ ions-2/
+LOCATION:Serpentine North Gallery\, Kensington Gardens\, London
 URL:https://londontheinside.com/map/exhibitions-2/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:46a14f0ef90d@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260712
-SUMMARY:Patricia Piccinini: Holding Tight and Letting Go
-DESCRIPTION:Piccinini's first London exhibition features humanoid chimeras 
- in silicone and fibreglass\, exploring kinship\, empathy\, and the tension
-  between cruelty and tenderness.\n\nPrice: Check site\n\nTickets/Info: htt
- ps://www.galleriesnow.net/shows/patricia-piccinini-holding-tight-and-letti
- ng-go/
-LOCATION:Ames Yavuz\, London West End\, London
-URL:https://www.galleriesnow.net/shows/patricia-piccinini-holding-tight-and
- -letting-go/
+UID:11597151b93a@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260819
+SUMMARY:Frida Kahlo Exhibition
+DESCRIPTION:A major exhibition featuring 130+ works and personal artefacts 
+ of Frida Kahlo.\n\nPrice: Free\n\nTickets/Info: https://secretldn.com/thin
+ gs-to-do-in-london-weekend/
+LOCATION:Tate Modern\, Bankside\, London
+URL:https://secretldn.com/things-to-do-in-london-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:1323ab712542@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260901
-SUMMARY:Murugiah: Ever Feel Like...
-DESCRIPTION:Contemporary artist explores mental health and diverse identiti
- es in new commission.\n\nPrice: Check site\n\nTickets/Info: https://www.ar
- tfund.org/explore/get-inspired/features/best-exhibitions-in-london-open-no
- w
-LOCATION:Quentin Blake Centre for Illustration\, London\, London
-URL:https://www.artfund.org/explore/get-inspired/features/best-exhibitions-
- in-london-open-now
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:5327c579ef40@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260712
-SUMMARY:Yinka Ilori: Joy Through Resistance
-DESCRIPTION:Inspired by his heritage and communal gatherings\, Yinka Ilori 
- presents new paintings\, prints\, sculpture\, and an immersive sound insta
- llation in his first solo gallery exhibition in London.\n\nPrice: Check si
- te\n\nTickets/Info: https://www.galleriesnow.net/shows/yinka-ilori-joy-thr
- ough-resistance-he-who-laughs-last-laughs-best/
-LOCATION:Cristea Roberts Gallery\, London West End\, London
-URL:https://www.galleriesnow.net/shows/yinka-ilori-joy-through-resistance-h
- e-who-laughs-last-laughs-best/
-CATEGORIES:Culture & Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:1e1e240c2154@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260614
-SUMMARY:ALLEGRA
-DESCRIPTION:Maureen Lipman stars in this moving comedy with musical sequenc
- es\, exploring family\, love\, and the emotional journey of a beautiful mi
- nd.\n\nPrice: Check site\n\nTickets/Info: https://www.londontheatres.com/e
- vents/comedy
-LOCATION:Richmond Theatre\, Richmond\, London
+UID:f509471249f4@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260920
+SUMMARY:The Producers
+DESCRIPTION:The Producers\, based on the classic cult film\, transfers to t
+ he Garrick Theatre. The original Broadway production won a record twelve T
+ ony Awards\, including Best Musical.\n\nPrice: Free\n\nTickets/Info: https
+ ://www.londontheatres.com/events/comedy
+LOCATION:Garrick Theatre\, London\, London
 URL:https://www.londontheatres.com/events/comedy
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:3df29d747d7c@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260622
-SUMMARY:Jinkx Monsoon in End of the Rainbow
-DESCRIPTION:Jinkx Monsoon stars as Judy Garland in this captivating product
- ion\, exploring the icon's life and struggles behind the glittering spotli
- ght. A limited season not to be missed.\n\nPrice: From £29\n\nTickets/Inf
- o: https://sohotheatre.com/events/jinkx-monsoon-as-judy-garland-in-end-of-
- the-rainbow/
-LOCATION:Soho Theatre Walthamstow\, Walthamstow\, London
-URL:https://sohotheatre.com/events/jinkx-monsoon-as-judy-garland-in-end-of-
- the-rainbow/
+UID:b55137752b57@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260907
+SUMMARY:M. C. Escher - The Exhibition
+DESCRIPTION:Admire over 150 original works by M. C. Escher\, master of opti
+ cal illusions and impossible constructions. The exhibition features instal
+ lations\, videos\, and interactive learning features.\n\nPrice: £16.5\n\n
+ Tickets/Info: https://feverup.com/m/637982
+LOCATION:Somerset House\, Embankment\, London
+URL:https://feverup.com/m/637982
 CATEGORIES:Culture & Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:601589c746d1@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260629
-SUMMARY:Lottie Cole Exhibition: My Relation\, Elizabeth Bowen
-DESCRIPTION:An atmospheric exhibition inspired by the life and writing of I
- rish novelist Elizabeth Bowen.\n\nPrice: Check site\n\nTickets/Info: https
- ://www.tat-london.co.uk/post/things-to-do-in-june-2026
-LOCATION:Long & Ryle Gallery\, London\, London
-URL:https://www.tat-london.co.uk/post/things-to-do-in-june-2026
+UID:e34a8ee46e7d@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Summer open days at Lambeth Palace
+DESCRIPTION:Explore historic Lambeth Palace halls and rooms during summer o
+ pen days.\n\nPrice: £14\n\nTickets/Info: https://www.ianvisits.co.uk/cale
+ ndar/date/2026/06/
+LOCATION:Lambeth Palace\, Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/date/2026/06/
+CATEGORIES:Culture & Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcc18b2c33d@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260713
+SUMMARY:Ramses and the Pharaoh's Gold Exhibition
+DESCRIPTION:An exhibition featuring 180+ authentic Ancient Egyptian artefac
+ ts\, including Ramses II's coffin.\n\nPrice: Free\n\nTickets/Info: https:/
+ /secretldn.com/things-to-do-in-london-weekend/
+LOCATION:The Power Station\, 2 Circus Rd E NEON\, London SW11 8DQ\, London
+URL:https://secretldn.com/things-to-do-in-london-weekend/
 CATEGORIES:Culture & Arts
 END:VEVENT
 END:VCALENDAR
