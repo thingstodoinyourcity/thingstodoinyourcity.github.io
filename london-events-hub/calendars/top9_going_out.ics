@@ -8,135 +8,129 @@ X-WR-CALDESC:London's best live music\, comedy and nights out this week.
 X-WR-TIMEZONE:Europe/London
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:e85c0ede003e@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260613
-SUMMARY:Lido Festival
-DESCRIPTION:Lido Festival brings live music to Victoria Park from 9 to 12 J
- une\, featuring internationally known artists across multiple days.\n\nPri
- ce: £15\n\nTickets/Info: https://www.factmagazines.com/london/united-king
- dom/london-united-kingdom/things-to-do-london-united-kingdom/fabulous-thin
- gs-to-do-in-london-this-month
-LOCATION:Victoria Park\, London E3 5TB\, London
-URL:https://www.factmagazines.com/london/united-kingdom/london-united-kingd
- om/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this
- -month
+UID:89c66c3c91e4@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Cirque Du Soul Summer Day Party
+DESCRIPTION:Annual outdoor summer party with circus and soul music.\n\nPric
+ e: £35\n\nTickets/Info: https://www.skiddle.com/whats-on/London/The-Cause
+ -London/Cirque-Du-Soul-London--Summer-Day-Party/41958244/
+LOCATION:The Cause London\, London\, London
+URL:https://www.skiddle.com/whats-on/London/The-Cause-London/Cirque-Du-Soul
+ -London--Summer-Day-Party/41958244/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:c4edda3bfb79@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-SUMMARY:London Nocturn
-DESCRIPTION:London Nocturn offers cycling competitions for all ages\, with 
- fast-paced races and a festival program on a closed-road circuit through C
- heapside and Bank.\n\nPrice: Free\n\nTickets/Info: https://www.ianvisits.c
- o.uk/calendar/london-nocturn-431307/
-LOCATION:Mansion House\, City of London\, London
-URL:https://www.ianvisits.co.uk/calendar/london-nocturn-431307/
+UID:9fcc3dd4cfa2@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Clockwork Orange
+DESCRIPTION:Outdoor daytime club party with UK's celebrated institution.\n\
+ nPrice: £50\n\nTickets/Info: https://www.skiddle.com/whats-on/London/Stud
+ io-338/Clockwork-Orange---Studio-338---London/42308984/
+LOCATION:Studio 338\, London\, London
+URL:https://www.skiddle.com/whats-on/London/Studio-338/Clockwork-Orange---S
+ tudio-338---London/42308984/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:7ae934dc2f32@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260830
-SUMMARY:Summer in Camden
-DESCRIPTION:Summer in Camden features free events all summer at Camden Mark
- et and Hawley Wharf\, including Wimbledon screenings\, food\, music\, and 
- performances.\n\nPrice: FREE\n\nTickets/Info: https://camdenmarket.com/eve
- nts
-LOCATION:Camden Market and Hawley Wharf\, Camden\, London
-URL:https://camdenmarket.com/events
+UID:ec1f85baee5c@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:KIKI Drag Cabaret
+DESCRIPTION:Saturday-night drag cabaret at Queen of Hoxton with comedy\, mu
+ sic and hosted performances.\n\nPrice: £13-£18 plus booking fee\n\nTicke
+ ts/Info: https://www.outsavvy.com/event/5259/kiki-drag-cabaret
+LOCATION:Queen of Hoxton\, Shoreditch\, London
+URL:https://www.outsavvy.com/event/5259/kiki-drag-cabaret
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a82c265a767e@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-SUMMARY:Tali Tigers: Summer Send Off
-DESCRIPTION:Bollywood and bhangra club night with summer vibes.\n\nPrice: C
- heck site\n\nTickets/Info: https://www.xoyo.co.uk/events/tali-tigers-summe
- r-send-off-bollywood-x-bhangra-x-club-anthems
-LOCATION:London
-URL:https://www.xoyo.co.uk/events/tali-tigers-summer-send-off-bollywood-x-b
- hangra-x-club-anthems
+UID:3b4b260010b4@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Massi's Yard Brunch
+DESCRIPTION:90s and 00s Bhangra and Bollywood brunch with live music.\n\nPr
+ ice: £20\n\nTickets/Info: https://www.skiddle.com/whats-on/London/
+LOCATION:Jaks Mayfair\, Mayfair\, London
+URL:https://www.skiddle.com/whats-on/London/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:c8f985fb160c@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:Disko Wunderbar
-DESCRIPTION:Disko Wunderbar at Albert's Schloss in Soho offers live music e
- very Wednesday\, with bands reworking classic hits and guilty pleasures.\n
- \nPrice: Free\n\nTickets/Info: http://alberts-schloss-london.designmynight
- .com
-LOCATION:Albert's Schloss - Soho\, Soho\, London
-URL:http://alberts-schloss-london.designmynight.com
+UID:7d3f4ae9b720@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Reggae Brunch
+DESCRIPTION:Join a lively brunch party at Brixton Jamm on Sat 27th Jun with
+  Caribbean food\, reggae\, dancehall\, and soca music. Tickets include bot
+ tomless rum punch\, a 2-course meal\, and reserved seating. Birthday packa
+ ges and party-only options are available.\n\nPrice: £48.60\n\nTickets/Inf
+ o: https://thereggaebrunch.designmynight.com/68fa22e5a5ff74086813dda5/the-
+ reggae-brunch-sat-27th-june
+LOCATION:Brixton Jamm\, Brixton\, London
+URL:https://thereggaebrunch.designmynight.com/68fa22e5a5ff74086813dda5/the-
+ reggae-brunch-sat-27th-june
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b47acdf4b8@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-SUMMARY:San Vito\, The Fugs\, Mayzel
-DESCRIPTION:San Vito\, The Fugs\, and Mayzel perform at The Old Blue Last o
- n Wednesday 10th June. Free entry\, but arrive early to secure a spot.\n\n
- Price: Free\n\nTickets/Info: https://eventsforlondon.co.uk/event/san-vito-
- the-fugs-mayzel-at-the-old-blue-last-london/
-LOCATION:The Old Blue Last\, Shoreditch\, London
-URL:https://eventsforlondon.co.uk/event/san-vito-the-fugs-mayzel-at-the-old
- -blue-last-london/
+UID:52996481726e@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260629
+SUMMARY:Summer Bollywood Desi boat party
+DESCRIPTION:Bollywood and Bhangra music on a Thames boat with drinks\, food
+ \, and football screening.\n\nPrice: £20\n\nTickets/Info: https://www.ski
+ ddle.com/whats-on/London/
+LOCATION:Crown Pier\, London\, London
+URL:https://www.skiddle.com/whats-on/London/
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:11a095ff1500@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260615
-SUMMARY:British Grand Prix at KERB Sports Bar
-DESCRIPTION:Celebrate the British Grand Prix with F1-themed activities at t
- his Shoreditch sports bar.\n\nPrice: Free\n\nTickets/Info: https://secretl
- dn.com/things-to-do-in-london-weekend/
-LOCATION:KERB Sports Bar\, Shoreditch\, London
-URL:https://secretldn.com/things-to-do-in-london-weekend/
+UID:afe2d84b7e29@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Bashment Nation Summer Day Festival
+DESCRIPTION:Open-air bashment\, dancehall and soca day festival at LDN EAST
+ .\n\nPrice: from £11.71\n\nTickets/Info: https://www.eventbrite.com/e/bas
+ hment-nation-londons-no1-bashment-summer-day-festival-tickets-199058821493
+ 6
+LOCATION:LDN EAST\, Canning Town\, London
+URL:https://www.eventbrite.com/e/bashment-nation-londons-no1-bashment-summe
+ r-day-festival-tickets-1990588214936
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:c33a67344a9e@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260615
-SUMMARY:Burger Fest UK 2026
-DESCRIPTION:Burger Fest UK 2026 at Richmond Athletic Ground features over 2
- 0 traders competing for the UK Burger Championship\, with live music and e
- ating competitions.\n\nPrice: from £17.60\n\nTickets/Info: https://www.de
- signmynight.com/london/whats-on/food-drink-festival/burger-fest-uk
-LOCATION:Richmond Athletic Ground\, Richmond\, London
-URL:https://www.designmynight.com/london/whats-on/food-drink-festival/burge
- r-fest-uk
+UID:db6a1d3c73ea@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:BST in Hyde Park
+DESCRIPTION:Summer music festival with Ateez\, Bazzi\, Flo\, and Taemin.\n\
+ nPrice: from £49.95\n\nTickets/Info: https://www.designmynight.com/london
+ /blog/things-to-do-in-london-this-weekend
+LOCATION:Hyde Park\, Hyde Park\, London
+URL:https://www.designmynight.com/london/blog/things-to-do-in-london-this-w
+ eekend
 CATEGORIES:Going Out
 END:VEVENT
 BEGIN:VEVENT
-UID:4d2fb69698b7@london-events-scraper
-DTSTAMP:20260614T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:Carwash Daytime Disco: Sunset Sessions
-DESCRIPTION:Carwash Daytime Disco: Sunset Sessions at Core Bar offers a vib
- rant\, immersive disco experience with retro glamour\, themed giveaways\, 
- and a soul-soaked soundtrack.\n\nPrice: from £11 - £48.60\n\nTickets/Inf
- o: https://carwash.designmynight.com/689342b1cf8bce02f91086e1/carwash-dayt
- ime-disco-sunset-sessions
-LOCATION:Core Bar\, City of London\, London
-URL:https://carwash.designmynight.com/689342b1cf8bce02f91086e1/carwash-dayt
- ime-disco-sunset-sessions
+UID:392fe40ed5e0@london-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:HipHop & R&B Summer Block Party
+DESCRIPTION:Outdoor party with 90s and 00s hip-hop and R&B hits.\n\nPrice: 
+ £5\n\nTickets/Info: https://supa-dupa-fly.designmynight.com/69ef6d3a0207a
+ 753ef684194/supa-dupa-fly-summer-block-party
+LOCATION:Between The Bridges\, London
+URL:https://supa-dupa-fly.designmynight.com/69ef6d3a0207a753ef684194/supa-d
+ upa-fly-summer-block-party
 CATEGORIES:Going Out
 END:VEVENT
 END:VCALENDAR
