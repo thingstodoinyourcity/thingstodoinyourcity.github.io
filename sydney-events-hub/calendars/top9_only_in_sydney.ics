@@ -8,127 +8,114 @@ X-WR-CALDESC:Unique\, one-of-a-kind Sydney experiences you won't find anywhere e
 X-WR-TIMEZONE:Australia/Sydney
 X-APPLE-CALENDAR-COLOR:#FF6B35
 BEGIN:VEVENT
-UID:01e297a0e5e0@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260801
-SUMMARY:Adventure Clues: Unlock The Rocks
-DESCRIPTION:Explore The Rocks with cryptic clues in a fun\, interactive way
- .\n\nPrice: Free\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/
- events/unlock-the-rocks-cryptic-adventure
-LOCATION:Customs House Square\, The Rocks\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/unlock-the-rocks-cryptic
- -adventure
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:83e3141439e0@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260612
-SUMMARY:Sky Symphony: Fireworks\, Lasers\, Music
-DESCRIPTION:Vivid Sydney light show with fireworks and lasers.\n\nPrice: Fr
- ee\n\nTickets/Info: https://www.vividsydney.com/event/light/sky-symphony-f
- ireworks-lasers-music
-LOCATION:Darling Harbour\, Darling Harbour\, Sydney
-URL:https://www.vividsydney.com/event/light/sky-symphony-fireworks-lasers-m
- usic
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:6874f0110e6d@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:Guided walk - Edensor Creek
-DESCRIPTION:A guided walk along Edensor Creek.\n\nPrice: Check site\n\nTick
- ets/Info: https://humanitix.com/au/events/au--nsw--sydney/thisweekend
-LOCATION:Edensor Park\, Sydney\, Sydney
-URL:https://humanitix.com/au/events/au--nsw--sydney/thisweekend
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:0b2b349378d4@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260624
-SUMMARY:Astronomy Night
-DESCRIPTION:Explore the night sky with guided astronomy sessions.\n\nPrice:
-  Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/event
- s/astronomy-at-the-calyx
-LOCATION:The Royal Botanic Garden\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/astronomy-at-the-calyx
-CATEGORIES:Only in Sydney
-END:VEVENT
-BEGIN:VEVENT
-UID:e301b6efdbba@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260425
+UID:680f2825e9de@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260629
-SUMMARY:Holding Light
-DESCRIPTION:Artistic response to the Bondi Beach terror attack.\n\nPrice: C
- heck site\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/
- holding-light
-LOCATION:Bondi Pavilion\, Bondi\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/holding-light
+SUMMARY:Rise Manly
+DESCRIPTION:Rise Manly is a winter event series featuring light installatio
+ ns\, performances\, and night markets. The Corso and Manly’s laneways wi
+ ll host live performances\, artworks\, and activities. A Ferris Wheel will
+  be set up on the Manly Beachfront.\n\nPrice: Mostly free to attend\, some
+  ticketed events\n\nTickets/Info: https://www.sydneytravelguide.com.au/thi
+ ngs-to-do-in-sydney-this-weekend/
+LOCATION:Various Manly venues\, Manly\, Sydney
+URL:https://www.sydneytravelguide.com.au/things-to-do-in-sydney-this-weeken
+ d/
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:9099b75ac407@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260516
+UID:c79db0ca5a68@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:Luku dhinthun: Always following the path of our Ancestors
-DESCRIPTION:Artists from diverse clan groups share stories of Milingimbi ar
- t.\n\nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.
- gov.au/events/luku-dhinthun-always-following-the-path-of-our-ancestors
-LOCATION:The Cross Art Projects\, Potts Point\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/luku-dhinthun-always-fol
- lowing-the-path-of-our-ancestors
+SUMMARY:Aboriginal Bush Tucker Tour
+DESCRIPTION:A guided tour exploring Indigenous Australian food and culture.
+ \n\nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydney.nsw.go
+ v.au/?time=weekend
+LOCATION:The Royal Botanic Garden\, The Royal Botanic Garden\, Sydney
+URL:https://whatson.cityofsydney.nsw.gov.au/?time=weekend
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:eacb798ead6b@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260615
-SUMMARY:Sydney Film Festival: Official Competition
-DESCRIPTION:From June 3 to 14\, the State Theatre will showcase daring and 
- innovative films as part of the 2026 Official Competition. Check the websi
- te for pricing details.\n\nPrice: Check site\n\nTickets/Info: https://what
- son.cityofsydney.nsw.gov.au/events/sydney-film-festival-official-competiti
- on-2026
-LOCATION:State Theatre\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/sydney-film-festival-off
- icial-competition-2026
+UID:633eaed79f16@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Kirribilli General & Fashion Market
+DESCRIPTION:Market with live entertainment\, food\, and harbour views.\n\nP
+ rice: Free\n\nTickets/Info: https://www.northsydney.nsw.gov.au/events/even
+ t/422/kirribilli-general-fashion-market
+LOCATION:Coal Loader\, Kirribilli\, Sydney
+URL:https://www.northsydney.nsw.gov.au/events/event/422/kirribilli-general-
+ fashion-market
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:a14f48a06340@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260703
-SUMMARY:200th Anniversary Exhibitions
-DESCRIPTION:A guided tour of the State Library of NSW's 200th anniversary e
- xhibits.\n\nPrice: Check site\n\nTickets/Info: https://whatson.cityofsydne
- y.nsw.gov.au/events/discover-the-200th-anniversary-exhibitions
-LOCATION:State Library of NSW\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/discover-the-200th-anniv
- ersary-exhibitions
+UID:753395114d2e@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Adrian Feint Revisited
+DESCRIPTION:A conversation with the creators of fashion house Nicol & Ford.
+ \n\nPrice: $60\n\nTickets/Info: https://mhnsw.au/whats-on/events/adrian-fe
+ int-revisited/
+LOCATION:Elizabeth Bay House\, Elizabeth Bay\, Sydney
+URL:https://mhnsw.au/whats-on/events/adrian-feint-revisited/
 CATEGORIES:Only in Sydney
 END:VEVENT
 BEGIN:VEVENT
-UID:43d2b743121a@sydney-events-scraper
-DTSTAMP:20260610T000000Z
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260615
-SUMMARY:Sydney Film Festival Hub Events
-DESCRIPTION:Film festival events and talks at Lower Town Hall.\n\nPrice: Fr
- ee\n\nTickets/Info: https://whatson.cityofsydney.nsw.gov.au/events/events-
- and-talks-at-the-sydney-film-festival-hub
-LOCATION:Lower Town Hall - Sydney Town Hall\, Sydney\, Sydney
-URL:https://whatson.cityofsydney.nsw.gov.au/events/events-and-talks-at-the-
- sydney-film-festival-hub
+UID:fc0055867453@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:The Making of Parliament
+DESCRIPTION:Richard Thorp shares stories from the design and construction o
+ f Australia’s Parliament House.\n\nPrice: Free\n\nTickets/Info: https://
+ events.humanitix.com/the-making-of-parliament-richard-thorp
+LOCATION:fjcstudio\, Sydney CBD\, Sydney
+URL:https://events.humanitix.com/the-making-of-parliament-richard-thorp
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:86860566e21f@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Designing Your Local: Hotel Plans in the NSW State Archives
+DESCRIPTION:Online MHNSW webinar exploring historic NSW pub plans from the 
+ State Archives Collection.\n\nPrice: Check site\n\nTickets/Info: https://m
+ hnsw.au/whats-on/
+LOCATION:Online\, Sydney
+URL:https://mhnsw.au/whats-on/
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:51add32691f8@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Do the Right Thing
+DESCRIPTION:Curated cinema screening at the Art Gallery of New South Wales.
+ \n\nPrice: Charges apply\n\nTickets/Info: https://www.artgallery.nsw.gov.a
+ u/whats-on/cinema/
+LOCATION:Art Gallery of New South Wales\, Sydney\, Sydney
+URL:https://www.artgallery.nsw.gov.au/whats-on/cinema/
+CATEGORIES:Only in Sydney
+END:VEVENT
+BEGIN:VEVENT
+UID:abd8c18f1e29@sydney-events-scraper
+DTSTAMP:20260625T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Sisters of Perpetual Indulgence Pride Walk
+DESCRIPTION:A living-history Newtown Pride walk with the Sisters of Perpetu
+ al Indulgence and Barry Charles.\n\nPrice: Free with optional donation\n\n
+ Tickets/Info: https://events.humanitix.com/sisters-of-perpetual-indulgence
+ -newtown-pride-walk
+LOCATION:Inner West Pride Centre\, Newtown\, Sydney
+URL:https://events.humanitix.com/sisters-of-perpetual-indulgence-newtown-pr
+ ide-walk
 CATEGORIES:Only in Sydney
 END:VEVENT
 END:VCALENDAR
