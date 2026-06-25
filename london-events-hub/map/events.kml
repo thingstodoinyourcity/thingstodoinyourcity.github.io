@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>London Events — 8 Jun 26 to 14 Jun 26</name>
-    <description>Weekend events in London, 8 Jun 26 to 14 Jun 26. Pins coloured by category.</description>
+    <name>London Events — 22 Jun 26 to 28 Jun 26</name>
+    <description>Weekend events in London, 22 Jun 26 to 28 Jun 26. Pins coloured by category.</description>
   <Style id="blue-dot.png">
     <IconStyle>
       <Icon><href>https://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon>
@@ -39,275 +39,259 @@
     </IconStyle>
   </Style>
     <Placemark>
-      <name>Citizens of Soil Olive Oil Bar</name>
-      <description><![CDATA[<b>Citizens of Soil Olive Oil Bar</b><br><i>Food &amp; Drink</i><br>Sun 7th Jun – Mon 29th Jun<br>Covent Garden, Covent Garden<br>£95<br><br>One-month pop-up with tastings, masterclasses, and a cookbook launch.<br><br><a href="https://www.londonpopups.com/2026/06/pop-ups-in-london-5th-12th-june-2026.html?m=0">More info / tickets</a>]]></description>
+      <name>Afternoon Tea at CORD</name>
+      <description><![CDATA[<b>Afternoon Tea at CORD</b><br><i>Food &amp; Drink</i><br>Fri 26th Jun<br>CORD by Le Cordon Bleu, Fleet Street<br>£27<br><br>British-French afternoon tea with handmade pastries by Le Cordon Bleu chefs.<br><br><a href="https://onecitylondon.com/event/afternoon-tea-at-cord/">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.12274129343434531,51.5119791,0</coordinates>
+        <coordinates>-0.1104742,51.5139523,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Gin Talk and Tasting on HMS Belfast</name>
-      <description><![CDATA[<b>Gin Talk and Tasting on HMS Belfast</b><br><i>Food &amp; Drink</i><br>Sat 13th Jun<br>HMS Belfast, Southwark<br>£20<br><br>Board HMS Belfast for a gin talk and tasting exploring the drink's armed-forces history, with Veteran Gin samples and proceeds supporting veterans.<br><br><a href="https://www.ianvisits.co.uk/calendar/up-spirits-gin-talk-and-tasting-on-hms-belfast-429494/">More info / tickets</a>]]></description>
+      <name>Billingsgate Market Seafood Experience</name>
+      <description><![CDATA[<b>Billingsgate Market Seafood Experience</b><br><i>Food &amp; Drink</i><br>Thu 25th Jun<br>The English Grill at The Rubens at The Palace Hotel<br>Tickets from £27.50 – £51.84<br><br>Create a bespoke seafood menu with fresh catches from Billingsgate Market.<br><br><a href="https://the-rubens-at-the-palace.designmynight.com/688b47f56978220112412d49/the-rubens-masterclass-series-billingsgate-market-experience-1">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0811518,51.5065428,0</coordinates>
+        <coordinates>-0.082473,51.414978,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Romeo and Juliet</name>
-      <description><![CDATA[<b>Romeo and Juliet</b><br><i>Theatre</i><br>Tue 9th Jun – Sat 20th Jun<br>Harold Pinter Theatre, West End<br>from £24<br><br>Sadie Sink and Noah Jupe make their West End debuts in this new adaptation of Shakespeare's tragedy. Running time is 2 hours 55 minutes, including one interval. Show runs until 20th June 2026.<br><br><a href="https://www.londonboxoffice.co.uk/all-london-shows/june">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
+      <name>Henry Moore after hours</name>
+      <description><![CDATA[<b>Henry Moore after hours</b><br><i>Arts &amp; Culture</i><br>Thu 25th Jun<br>Kew Botanic Gardens, Richmond<br>£23<br><br>Evening of art, music, and performance inspired by Henry Moore's exhibition.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.131647,51.509345,0</coordinates>
+        <coordinates>-0.2968861,51.4781974,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Jean-Paul Live in Concert</name>
-      <description><![CDATA[<b>Jean-Paul Live in Concert</b><br><i>Music</i><br>Wed 10th Jun<br>Soul Mama, Stratford<br>Free<br><br>Soul-stirring music performance by versatile artist Jean-Paul.<br><br><a href="https://www.londontheatres.com/events/comedy">More info / tickets</a>]]></description>
+      <name>Jazz on the Tea Lawn</name>
+      <description><![CDATA[<b>Jazz on the Tea Lawn</b><br><i>Music</i><br>Thu 25th Jun<br>Lauderdale House, London<br>£15.50<br><br>Latin jazz fusion performance by John Crawford.<br><br><a href="https://eventsforlondon.co.uk/event/jazz-on-the-tea-lawn-john-crawford-latin-quintet/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>0.0016208,51.5406878,0</coordinates>
+        <coordinates>-0.1434217,51.5693005,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Wine, Blinis and Conversation</name>
-      <description><![CDATA[<b>Wine, Blinis and Conversation</b><br><i>Food &amp; Drink</i><br>Wed 10th Jun<br>Battersea Power Station, Battersea<br>£15<br><br>Join Where The Pancakes Are and Borough Market's Sustainable Wine Solutions for a summer-wine and blinis tasting at Battersea Power Station.<br><br><a href="https://batterseapowerstation.co.uk/events/wine-blinis-and-conversation/">More info / tickets</a>]]></description>
+      <name>Dishoom x Shreeji Pop-Up</name>
+      <description><![CDATA[<b>Dishoom x Shreeji Pop-Up</b><br><i>Food &amp; Drink</i><br>Fri 26th Jun – Sun 28th Jun<br>Shreeji Newsagents, Marylebone<br>Free<br><br>A food pop-up serving authentic dishes in a newsagent setting.<br><br><a href="https://www.tiktok.com/discover/free-pop-ups-in-london">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1429709,51.4796154,0</coordinates>
+        <coordinates>-0.1545323,51.5185855,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Aqua Aerobics on art'otel Rooftop</name>
-      <description><![CDATA[<b>Aqua Aerobics on art'otel Rooftop</b><br><i>Wellness</i><br>Tue 9th Jun<br>Art'otel London Battersea Power Station, Battersea<br>from £27.50<br><br>Start the day with aqua aerobics in art'otel's heated rooftop infinity pool, with Battersea Power Station views and a post-workout drink and pastry.<br><br><a href="https://artotel-london-battersea-power-station.designmynight.com/659434039f05d0513b1e8aa6/aqua-on-the-rooftop">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
+      <name>Romantic Escape at Tower Suites</name>
+      <description><![CDATA[<b>Romantic Escape at Tower Suites</b><br><i>Arts &amp; Social</i><br>Fri 26th Jun<br>Tower Suites, Tower Hill<br>£27<br><br>Overnight stay with discounts on West End shows and attractions.<br><br><a href="https://onecitylondon.com/event/romantic-escape-with-10-off-experiences-at-tower-suites/">More info / tickets</a>]]></description>
+      <styleUrl>#yellow-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.145292,51.4808041,0</coordinates>
+        <coordinates>-0.0767353,51.5094963,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Much Ado About Nothing</name>
-      <description><![CDATA[<b>Much Ado About Nothing</b><br><i>Theatre</i><br>Fri 12th Jun<br>Shakespeare's Globe, London<br>Check site<br><br>Catch a sun-soaked Much Ado About Nothing at Shakespeare's Globe, full of sharp tongues, gossip, and second chances.<br><br><a href="https://www.skiddle.com/whats-on/London/Shakespeare%27s-Globe/Much-Ado-About-Nothing-2026/42369918/">More info / tickets</a>]]></description>
+      <name>Venus &amp; Adonis</name>
+      <description><![CDATA[<b>Venus &amp; Adonis</b><br><i>Theatre</i><br>Sat 27th Jun<br>Barbican Theatre, Theatre &amp; Dance<br>Check site<br><br>Simon Russell Beale narrates Greg Doran's acclaimed production of Shakespeare's 'Venus &amp; Adonis' at the Barbican Theatre. The performance features world-class puppeteers bringing the poem to life.<br><br><a href="https://www.barbican.org.uk/whats-on/theatre-dance">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0971864,51.5081214,0</coordinates>
+        <coordinates>0.145345,51.482028,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>A Guide to Gavi with Jimmy Smith</name>
-      <description><![CDATA[<b>A Guide to Gavi with Jimmy Smith</b><br><i>Food &amp; Drink</i><br>Sat 13th Jun<br>The Tasting Tent, Power Station Park<br>£30<br><br>Taste the diversity of Gavi wines from Italy.<br><br><a href="https://batterseapowerstation.co.uk/events/a-guide-to-gavi-with-jimmy-smith/">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1429709,51.4796154,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Gimme! Gimme! Gimme! Bottomless Brunch</name>
-      <description><![CDATA[<b>Gimme! Gimme! Gimme! Bottomless Brunch</b><br><i>Food &amp; Drink</i><br>Sat 13th Jun<br>Circe’s Rooftop Waterloo, Waterloo<br>from £42.90 – £59.40<br><br>Join a rooftop ABBA-themed brunch with live performances, bottomless cocktails, and brunch. Tickets from £42.90, event on 13th June 2026.<br><br><a href="https://www.designmynight.com/london/bars/waterloo/circes-waterloo/mamma-mia-bottomless-brunch">More info / tickets</a>]]></description>
-      <styleUrl>#red-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1100617,51.5026643,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Trooping The Colour</name>
-      <description><![CDATA[<b>Trooping The Colour</b><br><i>Cultural</i><br>Sat 13th Jun<br>Horse Guards Parade, Westminster<br>Free viewing; seats £10-£30<br><br>The King's Birthday Parade features prime pageantry. Free viewing along the Mall or St James's Park. Grandstand seating is limited and highly sought after.<br><br><a href="https://www.londonperfect.com/plan-your-trip/events-in-london/june.php">More info / tickets</a>]]></description>
+      <name>When Harry Met Sally</name>
+      <description><![CDATA[<b>When Harry Met Sally</b><br><i>Cultural</i><br>Sat 27th Jun<br>Prince Charles Cinema, London<br>$200<br><br>Romantic comedy classic in 35mm.<br><br><a href="https://princecharlescinema.com/next-7-days/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.127054,51.504775,0</coordinates>
+        <coordinates>-0.130123,51.511482,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Gun Salutes</name>
-      <description><![CDATA[<b>Gun Salutes</b><br><i>Cultural</i><br>Tue 9th Jun<br>Various locations, Green Park and Tower of London<br>Free<br><br>Two sets of military gun salutes mark the Official Birthday of HM The King. The first is in Green Park at 12:52pm, preceded by a horse-drawn arrival ceremony. The second is at 1pm outside the Tower of London, with a better view often from Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/gun-salutes-in-green-park-and-tower-of-london-372330/">More info / tickets</a>]]></description>
+      <name>Frida Kahlo's world of colour floods Carnaby Street</name>
+      <description><![CDATA[<b>Frida Kahlo's world of colour floods Carnaby Street</b><br><i>Arts &amp; Culture</i><br>Thu 25th Jun<br>Carnaby Street, Carnaby<br>Free<br><br>An outdoor extension of the Tate Modern's Frida Kahlo exhibition.<br><br><a href="https://www.cntraveller.com/gallery/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0754722,51.5055748,0</coordinates>
+        <coordinates>-0.1380133,51.512284,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Cruise ship passing through Tower Bridge</name>
-      <description><![CDATA[<b>Cruise ship passing through Tower Bridge</b><br><i>Cultural</i><br>Wed 10th Jun<br>Tower Bridge, Southwark<br>Free<br><br>The cruise ship World Voyager will pass through Tower Bridge. Arriving at 1:15pm, it's something to look out for if in the area.<br><br><a href="https://www.ianvisits.co.uk/calendar/weekend/">More info / tickets</a>]]></description>
+      <name>London Bike Ride + Historic Pub + Graffiti</name>
+      <description><![CDATA[<b>London Bike Ride + Historic Pub + Graffiti</b><br><i>Cultural</i><br>Thu 25th Jun – Tue 18th Aug<br>The Walrus Bar &amp; Hostel, London<br>From £65<br><br>Explore London by bike, visiting historic pubs and street art.<br><br><a href="https://feverup.com/en/london">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0934412,51.5127204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tall sailing ship passing through Tower Bridge</name>
+      <description><![CDATA[<b>Tall sailing ship passing through Tower Bridge</b><br><i>Cultural</i><br>Fri 26th Jun<br>Tower Bridge, Tower Bridge<br>Free<br><br>The TS Royalist, a Sea Cadets training ship, sails through Tower Bridge.<br><br><a href="https://www.ianvisits.co.uk/calendar/tall-sailing-ship-passing-through-tower-bridge-2-431908/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
         <coordinates>-0.0753662,51.5055166,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Cinema Paradiso outdoor screening</name>
-      <description><![CDATA[<b>Cinema Paradiso outdoor screening</b><br><i>Music</i><br>Thu 11th Jun<br>Devonshire Square, Liverpool Street<br>Check site<br><br>Outdoor screening of the classic film with deckchairs and snacks.<br><br><a href="https://www.timeout.com/london/film/outdoor-cinema-in-london">More info / tickets</a>]]></description>
+      <name>Historic Highlights of Highgate Village</name>
+      <description><![CDATA[<b>Historic Highlights of Highgate Village</b><br><i>Cultural</i><br>Sat 27th Jun<br>Highgate<br>21<br><br>Guided tour of Highgate's historic sites and stories.<br><br><a href="https://www.ianvisits.co.uk/calendar/historic-highlights-of-highgate-village-tour-425429/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1492397,51.5706446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seven Dials walk: the 1920s and 1930s</name>
+      <description><![CDATA[<b>Seven Dials walk: the 1920s and 1930s</b><br><i>Cultural</i><br>Sat 27th Jun<br>Seven Dials<br>25<br><br>Explore London's 1920s and 1930s history on a walking tour.<br><br><a href="https://www.ianvisits.co.uk/calendar/seven-dials-walk-the-1920s-and-1930s-and-the-making-of-modern-london-430902/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1267321,51.5148427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St Mary Islington - Church and Tower tour</name>
+      <description><![CDATA[<b>St Mary Islington - Church and Tower tour</b><br><i>Cultural</i><br>Sat 27th Jun<br>St Mary's church Islington, Islington<br>16.96<br><br>Tour the historic St Mary's church and its tower.<br><br><a href="https://www.ianvisits.co.uk/calendar/st-mary-islington-church-and-tower-tour-4-427803/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1017197,51.5384067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Project a Black Planet: Panafrican Art</name>
+      <description><![CDATA[<b>Project a Black Planet: Panafrican Art</b><br><i>Arts &amp; Culture</i><br>Thu 11th Jun – Sun 6th Sep<br>Barbican, EC2Y 8DS<br>£19<br><br>An exhibition exploring the role of visual art in Panafricanism.<br><br><a href="https://www.barbican.org.uk/whats-on/talks-events">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.0923806,51.5194587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hepworth in Colour</name>
+      <description><![CDATA[<b>Hepworth in Colour</b><br><i>Arts &amp; Culture</i><br>Fri 12th Jun – Sun 6th Sep<br>Courtauld Gallery, Strand<br>£18<br><br>Barbara Hepworth's colour-focused exhibition at the Courtauld Gallery.<br><br><a href="https://courtauld.ac.uk/whats-on/exh-hepworth-in-colour/">More info / tickets</a>]]></description>
+      <styleUrl>#orange-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1177,51.511624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summer Music in City Churches</name>
+      <description><![CDATA[<b>Summer Music in City Churches</b><br><i>Music</i><br>Tue 16th Jun – Fri 26th Jun<br>St Giles Cripplegate, City of London<br>Free<br><br>Nine-day music festival in historic City of London churches.<br><br><a href="https://eventsforlondon.co.uk/event/summer-music-in-city-churches-around-the-world-london-concerts/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0813329,51.5173613,0</coordinates>
+        <coordinates>-0.093879,51.518839,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Floating Art Gallery on Regent's Canal</name>
-      <description><![CDATA[<b>Floating Art Gallery on Regent's Canal</b><br><i>Arts &amp; Culture</i><br>Fri 12th Jun – Sun 14th Jun<br>Hope &amp; Desperation, Regent's Canal<br>Free<br><br>A carbon-negative gallery showcasing artist Sam Smith's work on a canal barge.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
+      <name>David Hockney Exhibition</name>
+      <description><![CDATA[<b>David Hockney Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 25th Jun – Sun 23rd Aug<br>Serpentine North Gallery, Kensington Gardens<br>Free<br><br>New works by David Hockney, including still lifes and portraits.<br><br><a href="https://londontheinside.com/map/exhibitions-2/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1034391,51.5432471,0</coordinates>
+        <coordinates>-0.1903443,51.51462585,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>BMW Classics 2026</name>
-      <description><![CDATA[<b>BMW Classics 2026</b><br><i>Music</i><br>Sat 13th Jun<br>Trafalgar Square, Westminster<br>Free<br><br>The London Symphony Orchestra performs a free outdoor concert in Trafalgar Square. Conducted by Sir Antonio Pappano, the programme includes highlights from Holst’s The Planets and Elgar’s Enigma Variations, plus the world premiere of Louise Drewett’s Four Dances.<br><br><a href="https://www.london.gov.uk/events/bmw-classics-2026">More info / tickets</a>]]></description>
-      <styleUrl>#purple-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.127475,51.50765,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Ferreira Weekend at Cutty Sark</name>
-      <description><![CDATA[<b>Ferreira Weekend at Cutty Sark</b><br><i>Cultural</i><br>Sat 13th Jun – Sun 14th Jun<br>Cutty Sark, Greenwich<br>Included with Cutty Sark entry<br><br>Celebrate Portugal Day with activities themed around the ship's history as Ferreira.<br><br><a href="https://www.rmg.co.uk/whats-on">More info / tickets</a>]]></description>
+      <name>Frida Kahlo Exhibition</name>
+      <description><![CDATA[<b>Frida Kahlo Exhibition</b><br><i>Arts &amp; Culture</i><br>Thu 25th Jun – Tue 18th Aug<br>Tate Modern, Bankside<br>Free<br><br>A major exhibition featuring 130+ works and personal artefacts of Frida Kahlo.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0101646,51.4821653,0</coordinates>
+        <coordinates>-0.09934164882888792,51.5074293,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>A London Lark Rising</name>
-      <description><![CDATA[<b>A London Lark Rising</b><br><i>Walking theatre</i><br>Thu 11th Jun – Sun 14th Jun<br>Various locations, City of London<br>£30<br><br>Join a dramatised walking tour through the City of London, uncovering the East India Company's history from 1599 onward.<br><br><a href="https://www.thecityofldn.com/event/a-london-lark-rising-immersive-walking-play/">More info / tickets</a>]]></description>
-      <styleUrl>#yellow-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0919983,51.5156177,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Veronica Ryan: Multiple Conversations</name>
-      <description><![CDATA[<b>Veronica Ryan: Multiple Conversations</b><br><i>Arts &amp; Culture</i><br>Thu 2nd Apr – Sun 14th Jun<br>Whitechapel Gallery, Whitechapel<br>Check site<br><br>A retrospective of Turner Prize-winning artist Veronica Ryan's career.<br><br><a href="https://whatsdownthatstreet.com/london-museum-guide/exhibitions-london/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0703132444698357,51.51617175,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Mother Courage and Her Children</name>
-      <description><![CDATA[<b>Mother Courage and Her Children</b><br><i>Theatre</i><br>Thu 7th May – Sat 27th Jun<br>Globe Theatre, South Bank<br>from £8<br><br>Follow Mother Courage as she navigates a war-torn world, selling goods from her cart to survive. This production, set in a dystopian setting, explores themes of fascism, family, and complicity. Michelle Terry leads the cast as Mother Courage.<br><br><a href="https://www.londontheatre.co.uk/show/46231-mother-courage-and-her-children-globe">More info / tickets</a>]]></description>
+      <name>The Producers</name>
+      <description><![CDATA[<b>The Producers</b><br><i>Theatre</i><br>Thu 25th Jun – Sat 19th Sep<br>Garrick Theatre, London<br>Free<br><br>The Producers, based on the classic cult film, transfers to the Garrick Theatre. The original Broadway production won a record twelve Tony Awards, including Best Musical.<br><br><a href="https://www.londontheatres.com/events/comedy">More info / tickets</a>]]></description>
       <styleUrl>#blue-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.300806,51.392171,0</coordinates>
+        <coordinates>-0.127802,51.509996,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>HOLY POP!</name>
-      <description><![CDATA[<b>HOLY POP!</b><br><i>Arts &amp; Culture</i><br>Thu 21st May – Sun 9th Aug<br>Somerset House, Strand<br>Free<br><br>Explore modern shrines and how we honor heroes and celebrities. This exhibition delves into the world of contemporary icons and the ways we pay tribute to them.<br><br><a href="https://londontheinside.com/map/exhibitions-2/">More info / tickets</a>]]></description>
+      <name>M. C. Escher - The Exhibition</name>
+      <description><![CDATA[<b>M. C. Escher - The Exhibition</b><br><i>Arts &amp; Culture</i><br>Fri 26th Jun – Sun 6th Sep<br>Somerset House, Embankment<br>£16.5<br><br>Admire over 150 original works by M. C. Escher, master of optical illusions and impossible constructions. The exhibition features installations, videos, and interactive learning features.<br><br><a href="https://feverup.com/m/637982">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.11689232823185038,51.512029556237245,0</coordinates>
+        <coordinates>-0.216009,51.467043,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Patricia Piccinini: Holding Tight and Letting Go</name>
-      <description><![CDATA[<b>Patricia Piccinini: Holding Tight and Letting Go</b><br><i>Arts &amp; Culture</i><br>Thu 4th Jun – Sat 11th Jul<br>Ames Yavuz, London West End<br>Check site<br><br>Piccinini's first London exhibition features humanoid chimeras in silicone and fibreglass, exploring kinship, empathy, and the tension between cruelty and tenderness.<br><br><a href="https://www.galleriesnow.net/shows/patricia-piccinini-holding-tight-and-letting-go/">More info / tickets</a>]]></description>
+      <name>Summer open days at Lambeth Palace</name>
+      <description><![CDATA[<b>Summer open days at Lambeth Palace</b><br><i>Cultural</i><br>Fri 26th Jun<br>Lambeth Palace, Southwark<br>£14<br><br>Explore historic Lambeth Palace halls and rooms during summer open days.<br><br><a href="https://www.ianvisits.co.uk/calendar/date/2026/06/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0380141,51.5162044,0</coordinates>
+        <coordinates>-0.1200826,51.4955481,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Murugiah: Ever Feel Like...</name>
-      <description><![CDATA[<b>Murugiah: Ever Feel Like...</b><br><i>Arts &amp; Culture</i><br>Fri 5th Jun – Mon 31st Aug<br>Quentin Blake Centre for Illustration, London<br>Check site<br><br>Contemporary artist explores mental health and diverse identities in new commission.<br><br><a href="https://www.artfund.org/explore/get-inspired/features/best-exhibitions-in-london-open-now">More info / tickets</a>]]></description>
+      <name>Ramses and the Pharaoh's Gold Exhibition</name>
+      <description><![CDATA[<b>Ramses and the Pharaoh's Gold Exhibition</b><br><i>Arts &amp; Culture</i><br>Sat 27th Jun – Sun 12th Jul<br>The Power Station, 2 Circus Rd E NEON, London SW11 8DQ<br>Free<br><br>An exhibition featuring 180+ authentic Ancient Egyptian artefacts, including Ramses II's coffin.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
       <styleUrl>#orange-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1076445,51.528594,0</coordinates>
+        <coordinates>-0.145992,51.481361,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Yinka Ilori: Joy Through Resistance</name>
-      <description><![CDATA[<b>Yinka Ilori: Joy Through Resistance</b><br><i>Arts &amp; Culture</i><br>Fri 5th Jun – Sat 11th Jul<br>Cristea Roberts Gallery, London West End<br>Check site<br><br>Inspired by his heritage and communal gatherings, Yinka Ilori presents new paintings, prints, sculpture, and an immersive sound installation in his first solo gallery exhibition in London.<br><br><a href="https://www.galleriesnow.net/shows/yinka-ilori-joy-through-resistance-he-who-laughs-last-laughs-best/">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1361372,51.5060637,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ALLEGRA</name>
-      <description><![CDATA[<b>ALLEGRA</b><br><i>Theatre</i><br>Tue 9th Jun – Sat 13th Jun<br>Richmond Theatre, Richmond<br>Check site<br><br>Maureen Lipman stars in this moving comedy with musical sequences, exploring family, love, and the emotional journey of a beautiful mind.<br><br><a href="https://www.londontheatres.com/events/comedy">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.3037274,51.4620194,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Jinkx Monsoon in End of the Rainbow</name>
-      <description><![CDATA[<b>Jinkx Monsoon in End of the Rainbow</b><br><i>Theatre</i><br>Tue 9th Jun – Sun 21st Jun<br>Soho Theatre Walthamstow, Walthamstow<br>From £29<br><br>Jinkx Monsoon stars as Judy Garland in this captivating production, exploring the icon's life and struggles behind the glittering spotlight. A limited season not to be missed.<br><br><a href="https://sohotheatre.com/events/jinkx-monsoon-as-judy-garland-in-end-of-the-rainbow/">More info / tickets</a>]]></description>
-      <styleUrl>#blue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0205321,51.5859102,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lottie Cole Exhibition: My Relation, Elizabeth Bowen</name>
-      <description><![CDATA[<b>Lottie Cole Exhibition: My Relation, Elizabeth Bowen</b><br><i>Arts &amp; Culture</i><br>Tue 9th Jun – Sun 28th Jun<br>Long &amp; Ryle Gallery, London<br>Check site<br><br>An atmospheric exhibition inspired by the life and writing of Irish novelist Elizabeth Bowen.<br><br><a href="https://www.tat-london.co.uk/post/things-to-do-in-june-2026">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.1303539,51.48954,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Lido Festival</name>
-      <description><![CDATA[<b>Lido Festival</b><br><i>Music</i><br>Tue 9th Jun – Fri 12th Jun<br>Victoria Park, London E3 5TB<br>£15<br><br>Lido Festival brings live music to Victoria Park from 9 to 12 June, featuring internationally known artists across multiple days.<br><br><a href="https://www.factmagazines.com/london/united-kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this-month">More info / tickets</a>]]></description>
+      <name>Cirque Du Soul Summer Day Party</name>
+      <description><![CDATA[<b>Cirque Du Soul Summer Day Party</b><br><i>Music</i><br>Sat 27th Jun<br>The Cause London, London<br>£35<br><br>Annual outdoor summer party with circus and soul music.<br><br><a href="https://www.skiddle.com/whats-on/London/The-Cause-London/Cirque-Du-Soul-London--Summer-Day-Party/41958244/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0421754,51.5343129,0</coordinates>
+        <coordinates>-0.1648137,51.5871881,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>London Nocturn</name>
-      <description><![CDATA[<b>London Nocturn</b><br><i>Sport &amp; Fitness</i><br>Tue 9th Jun<br>Mansion House, City of London<br>Free<br><br>London Nocturn offers cycling competitions for all ages, with fast-paced races and a festival program on a closed-road circuit through Cheapside and Bank.<br><br><a href="https://www.ianvisits.co.uk/calendar/london-nocturn-431307/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0895217,51.512924,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Summer in Camden</name>
-      <description><![CDATA[<b>Summer in Camden</b><br><i>Festival</i><br>Tue 9th Jun – Sat 29th Aug<br>Camden Market and Hawley Wharf, Camden<br>FREE<br><br>Summer in Camden features free events all summer at Camden Market and Hawley Wharf, including Wimbledon screenings, food, music, and performances.<br><br><a href="https://camdenmarket.com/events">More info / tickets</a>]]></description>
-      <styleUrl>#orange-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.092813,51.514993,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Disko Wunderbar</name>
-      <description><![CDATA[<b>Disko Wunderbar</b><br><i>Music</i><br>Wed 10th Jun<br>Albert's Schloss - Soho, Soho<br>Free<br><br>Disko Wunderbar at Albert's Schloss in Soho offers live music every Wednesday, with bands reworking classic hits and guilty pleasures.<br><br><a href="http://alberts-schloss-london.designmynight.com">More info / tickets</a>]]></description>
+      <name>Clockwork Orange</name>
+      <description><![CDATA[<b>Clockwork Orange</b><br><i>Nightlife</i><br>Sat 27th Jun<br>Studio 338, London<br>£50<br><br>Outdoor daytime club party with UK's celebrated institution.<br><br><a href="https://www.skiddle.com/whats-on/London/Studio-338/Clockwork-Orange---Studio-338---London/42308984/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.1336464,51.5108198,0</coordinates>
+        <coordinates>0.0047635,51.4954879,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>San Vito, The Fugs, Mayzel</name>
-      <description><![CDATA[<b>San Vito, The Fugs, Mayzel</b><br><i>Music</i><br>Wed 10th Jun<br>The Old Blue Last, Shoreditch<br>Free<br><br>San Vito, The Fugs, and Mayzel perform at The Old Blue Last on Wednesday 10th June. Free entry, but arrive early to secure a spot.<br><br><a href="https://eventsforlondon.co.uk/event/san-vito-the-fugs-mayzel-at-the-old-blue-last-london/">More info / tickets</a>]]></description>
+      <name>KIKI Drag Cabaret</name>
+      <description><![CDATA[<b>KIKI Drag Cabaret</b><br><i>Nightlife</i><br>Sat 27th Jun<br>Queen of Hoxton, Shoreditch<br>£13-£18 plus booking fee<br><br>Saturday-night drag cabaret at Queen of Hoxton with comedy, music and hosted performances.<br><br><a href="https://www.outsavvy.com/event/5259/kiki-drag-cabaret">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0800599,51.5243657,0</coordinates>
+        <coordinates>-0.081156,51.522163,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>British Grand Prix at KERB Sports Bar</name>
-      <description><![CDATA[<b>British Grand Prix at KERB Sports Bar</b><br><i>Sport &amp; Fitness</i><br>Fri 12th Jun – Sun 14th Jun<br>KERB Sports Bar, Shoreditch<br>Free<br><br>Celebrate the British Grand Prix with F1-themed activities at this Shoreditch sports bar.<br><br><a href="https://secretldn.com/things-to-do-in-london-weekend/">More info / tickets</a>]]></description>
-      <styleUrl>#ltblue-dot.png</styleUrl>
-      <Point>
-        <coordinates>-0.0699015,51.516928,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Burger Fest UK 2026</name>
-      <description><![CDATA[<b>Burger Fest UK 2026</b><br><i>Food &amp; Drink</i><br>Fri 12th Jun – Sun 14th Jun<br>Richmond Athletic Ground, Richmond<br>from £17.60<br><br>Burger Fest UK 2026 at Richmond Athletic Ground features over 20 traders competing for the UK Burger Championship, with live music and eating competitions.<br><br><a href="https://www.designmynight.com/london/whats-on/food-drink-festival/burger-fest-uk">More info / tickets</a>]]></description>
+      <name>Massi's Yard Brunch</name>
+      <description><![CDATA[<b>Massi's Yard Brunch</b><br><i>Food &amp; Drink</i><br>Sat 27th Jun<br>Jaks Mayfair, Mayfair<br>£20<br><br>90s and 00s Bhangra and Bollywood brunch with live music.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
       <styleUrl>#red-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.3033217,51.4668519,0</coordinates>
+        <coordinates>-0.149,51.50954,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Carwash Daytime Disco: Sunset Sessions</name>
-      <description><![CDATA[<b>Carwash Daytime Disco: Sunset Sessions</b><br><i>Nightlife</i><br>Sat 13th Jun<br>Core Bar, City of London<br>from £11 - £48.60<br><br>Carwash Daytime Disco: Sunset Sessions at Core Bar offers a vibrant, immersive disco experience with retro glamour, themed giveaways, and a soul-soaked soundtrack.<br><br><a href="https://carwash.designmynight.com/689342b1cf8bce02f91086e1/carwash-daytime-disco-sunset-sessions">More info / tickets</a>]]></description>
+      <name>Reggae Brunch</name>
+      <description><![CDATA[<b>Reggae Brunch</b><br><i>Food &amp; Drink</i><br>Sat 27th Jun<br>Brixton Jamm, Brixton<br>£48.60<br><br>Join a lively brunch party at Brixton Jamm on Sat 27th Jun with Caribbean food, reggae, dancehall, and soca music. Tickets include bottomless rum punch, a 2-course meal, and reserved seating. Birthday packages and party-only options are available.<br><br><a href="https://thereggaebrunch.designmynight.com/68fa22e5a5ff74086813dda5/the-reggae-brunch-sat-27th-june">More info / tickets</a>]]></description>
+      <styleUrl>#red-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.112081,51.4706805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Summer Bollywood Desi boat party</name>
+      <description><![CDATA[<b>Summer Bollywood Desi boat party</b><br><i>Music</i><br>Sat 27th Jun – Sun 28th Jun<br>Crown Pier, London<br>£20<br><br>Bollywood and Bhangra music on a Thames boat with drinks, food, and football screening.<br><br><a href="https://www.skiddle.com/whats-on/London/">More info / tickets</a>]]></description>
       <styleUrl>#purple-dot.png</styleUrl>
       <Point>
-        <coordinates>-0.0995109,51.5142575,0</coordinates>
+        <coordinates>-0.1098881,51.5107115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bashment Nation Summer Day Festival</name>
+      <description><![CDATA[<b>Bashment Nation Summer Day Festival</b><br><i>Music</i><br>Sun 28th Jun<br>LDN EAST, Canning Town<br>from £11.71<br><br>Open-air bashment, dancehall and soca day festival at LDN EAST.<br><br><a href="https://www.eventbrite.com/e/bashment-nation-londons-no1-bashment-summer-day-festival-tickets-1990588214936">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>0.0041767,51.5172234,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BST in Hyde Park</name>
+      <description><![CDATA[<b>BST in Hyde Park</b><br><i>Music</i><br>Sun 28th Jun<br>Hyde Park, Hyde Park<br>from £49.95<br><br>Summer music festival with Ateez, Bazzi, Flo, and Taemin.<br><br><a href="https://www.designmynight.com/london/blog/things-to-do-in-london-this-weekend">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.1808292,51.5011061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HipHop &amp; R&amp;B Summer Block Party</name>
+      <description><![CDATA[<b>HipHop &amp; R&amp;B Summer Block Party</b><br><i>Music</i><br>Sun 28th Jun<br>Between The Bridges<br>£5<br><br>Outdoor party with 90s and 00s hip-hop and R&amp;B hits.<br><br><a href="https://supa-dupa-fly.designmynight.com/69ef6d3a0207a753ef684194/supa-dupa-fly-summer-block-party">More info / tickets</a>]]></description>
+      <styleUrl>#purple-dot.png</styleUrl>
+      <Point>
+        <coordinates>-0.3066662,51.4102865,0</coordinates>
       </Point>
     </Placemark>
   </Document>
