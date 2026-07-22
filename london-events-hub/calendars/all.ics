@@ -8,6 +8,23 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_75b52baf1f1b4480b05c6e1de6184f6a-occ_46ff4690a15d4602893a9b74608
+ b81d2@thingstodoinyourcity
+DTSTAMP:20260722T193351Z
+DTSTART:20260713T080000Z
+DTEND:20260902T150000Z
+SUMMARY:Bizzy Buddies Summer Camp: Chiswick House & Gardens
+DESCRIPTION:Bizzy Buddies offer kids a programme of jam-packed fun for th
+ eir holidays. Bizzy Buddies' camp is packed with activities to ensure th
+ at your kids have the most fun-filled day.\nPrice: £25 half day £40 fu
+ ll day £160 for a full week\nhttps://chiswickhouseandgardens.org.uk/eve
+ nt/bizzy-buddies-summer-camp-4
+LOCATION:Cricket Pavillion\, Burlington Lane\, Chiswick London W4 2RP\, C
+ hiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/bizzy-buddies-summer-cam
+ p-4
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f907e86b9871471dbe1ac96a44e64aec-occ_1d73ad18517a479491b360be394
  d0a09@thingstodoinyourcity
 DTSTAMP:20260722T180731Z
@@ -134,6 +151,36 @@ LOCATION:Museum of Freemasonry\, 60 Great Queen Street London WC2B 5AZ\,
  Southwark\, London
 URL:https://www.ianvisits.co.uk/calendar/grand-temple-guided-tour-at-free
  masons-hall-2026-4-431671
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bb79935ac2d844109950bc96db2c1e2e-occ_192e0579c5544e7baad1ca0a6b5
+ 12b02@thingstodoinyourcity
+DTSTAMP:20260722T221454Z
+DTSTART:20260726T093000Z
+DTEND:20260726T150000Z
+SUMMARY:The Lazy Flea: Chiswick House & Gardens
+DESCRIPTION:Shop vintage\, antiques and one-of-a-kind finds and treasures
+ . Browse 60+ traders selling homeware\, furniture\, clothing and jewelle
+ ry.\nPrice: Check site\nhttps://chiswickhouseandgardens.org.uk/event/the
+ -lazy-flea
+LOCATION:Chiswick House Forecourt\, Burlington Lane\, Chiswick London W4 
+ 2RP\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/the-lazy-flea
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7f38515303584ccda3675ad857200cff-occ_f8642383f8f8415a9c3fd7f6a3e
+ 28c98@thingstodoinyourcity
+DTSTAMP:20260722T194647Z
+DTSTART:20260728T180000Z
+DTEND:20260728T200000Z
+SUMMARY:Artistic Mathematics: Truth and Beauty
+DESCRIPTION:Henry Segerman explores mathematical visualisation. Visitors 
+ explore MathsWorld before the talk.\nPrice: £8.00\nhttps://www.ianvisit
+ s.co.uk/calendar/artistic-mathematics-truth-and-beauty-432673
+LOCATION:MathsWorld\, 6 Burrell Street London SE1 0UN\, Southwark\, Londo
+ n
+URL:https://www.ianvisits.co.uk/calendar/artistic-mathematics-truth-and-b
+ eauty-432673
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_d0c723a959b74ee79658d41e5a1
