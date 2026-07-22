@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Things To Do In Your City//Candidate Queue//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:London Events — Weekend
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_f907e86b9871471dbe1ac96a44e64aec-occ_a194353b8a1448c09672a60b7a6
+ 99655@thingstodoinyourcity
+DTSTAMP:20260722T180731Z
+DTSTART:20260725T130000Z
+DTEND:20260725T140000Z
+SUMMARY:Grand Temple Guided Tour at Freemasons' Hall 2026
+DESCRIPTION:Guides lead a 55-minute voyage into 300 years of history. The
+  journey begins in the North Gallery.\nPrice: £15.00\nhttps://www.ianvi
+ sits.co.uk/calendar/grand-temple-guided-tour-at-freemasons-hall-2026-4-4
+ 31671
+LOCATION:Museum of Freemasonry\, 60 Great Queen Street London WC2B 5AZ\, 
+ Southwark\, London
+URL:https://www.ianvisits.co.uk/calendar/grand-temple-guided-tour-at-free
+ masons-hall-2026-4-431671
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_c26a3c6b3b7f49fd948d3abf72b
+ 0efec@thingstodoinyourcity
+DTSTAMP:20260722T145750Z
+DTSTART:20260815T130000Z
+DTEND:20260815T150000Z
+SUMMARY:Monthly opening of the Barnet "Physic Well"
+DESCRIPTION:Volunteers open the historic mineral water spring. Visitors d
+ escend steep stone steps to view the underground well.\nPrice: Free\nhtt
+ ps://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-quotphys
+ ic-wellquot-402317
+LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
+ t\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
+ otphysic-wellquot-402317
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_18eb01107ed548da92585790003
+ df7bd@thingstodoinyourcity
+DTSTAMP:20260722T145750Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Monthly opening of the Barnet "Physic Well"
+DESCRIPTION:Volunteers open the historic mineral water spring. Visitors d
+ escend steep stone steps to view the underground well.\nPrice: Free\nhtt
+ ps://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-quotphys
+ ic-wellquot-402317
+LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
+ t\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
+ otphysic-wellquot-402317
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_07a51df179fa4123952323319d4
+ e99f0@thingstodoinyourcity
+DTSTAMP:20260722T145750Z
+DTSTART:20261121T140000Z
+DTEND:20261121T160000Z
+SUMMARY:Monthly opening of the Barnet "Physic Well"
+DESCRIPTION:Volunteers open the historic mineral water spring. Visitors d
+ escend steep stone steps to view the underground well.\nPrice: Free\nhtt
+ ps://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-quotphys
+ ic-wellquot-402317
+LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
+ t\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
+ otphysic-wellquot-402317
+END:VEVENT
+END:VCALENDAR
