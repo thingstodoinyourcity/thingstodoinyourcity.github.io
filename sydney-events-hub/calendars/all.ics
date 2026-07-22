@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Things To Do In Your City//Candidate Queue//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sydney Events — All
+X-WR-TIMEZONE:Australia/Sydney
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_e0243eda30f843d7b8867351647942e0-occ_b026df1ed50c4b009704c660654
+ ed674@thingstodoinyourcity
+DTSTAMP:20260722T150446Z
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Jennifer Wong: Salt & Pepper Squiz
+DESCRIPTION:Jennifer Wong brings a food-curious stand-up show to Parramat
+ ta. The performance explores life's big questions with salty humor.\nPri
+ ce: From $34\nhttps://riversideparramatta.com.au/whats-on/jennifer-wong-
+ salt-pepper-squiz
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/jennifer-wong-salt-pepper
+ -squiz
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dfc9b970ccdc4314b073139c9d0828d9-occ_9c3bf3171549453380bb773bc40
+ fac66@thingstodoinyourcity
+DTSTAMP:20260722T150359Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Anh Do – The Happiest Refugee Live!
+DESCRIPTION:Anh Do adapts his best-selling memoir into a stand-up show. T
+ he performance blends humour with real-life stories.\nPrice: From $74.90
+ \nhttps://riversideparramatta.com.au/whats-on/anh-do-the-happiest-refuge
+ e-live
+LOCATION:Riverside Theatre\, Cnr Church & Market Sts\, Parramatta\, Sydne
+ y
+URL:https://riversideparramatta.com.au/whats-on/anh-do-the-happiest-refug
+ ee-live
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c733c7a60ef7491da5fa0835bc6bfb13-occ_06f30ced8d6140bc9ae263f282a
+ 1d3d1@thingstodoinyourcity
+DTSTAMP:20260722T150457Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Emily-Rose and The Wild\, Parvyn & Ofri
+DESCRIPTION:Three celebrated songwriters unite for a dream collaboration 
+ weaving voice\, piano\, strings and synths. The trio explores landscapes
+  of nature and human yearning.\nPrice: All tickets from $45\nhttps://riv
+ ersideparramatta.com.au/whats-on/emily-rose-and-the-wild
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/emily-rose-and-the-wild
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0a016c2f3e664cea8ca66f4bc4b23b98-occ_6c2ba4aaf7c54268903f09fc67d
+ 8f34e@thingstodoinyourcity
+DTSTAMP:20260722T150546Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Noor-e-Dastaan by Bhuwin
+DESCRIPTION:Bhuwin Khursija blends soulful originals with Qawwali\, folk\
+ , and Sufi sounds. The show invites audiences on an emotional journey th
+ rough music and poetry.\nPrice: All tickets from $67.25\nhttps://riversi
+ deparramatta.com.au/whats-on/noor-e-dastaan-by-bhuwin
+LOCATION:Riverside Theatres\, Cnr Church & Market Sts\, Parramatta\, Sydn
+ ey
+URL:https://riversideparramatta.com.au/whats-on/noor-e-dastaan-by-bhuwin
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0b47605ef2c549048e88a1bc931bfa1c-occ_31496dfa81534e998e28fcafbcf
+ 0daa1@thingstodoinyourcity
+DTSTAMP:20260722T150411Z
+DTSTART:20261010T040000Z
+SUMMARY:The Man from Snowy River in Concert
+DESCRIPTION:Along the way\, he discovers love\, adventure and a secret hi
+ dden in the hills more precious than any treasure. • Babes in arms und
+ er 12 months are free to sit on the lap.\nPrice: $149.00 - Premium $129.
+ 00 – A Res $99.00 – B Res $79.00 – C Res\nhttps://coliseumtheatre.
+ com.au/whats-on/the-man-from-snowy-river-in-concert
+LOCATION:Coliseum Theatre\, 33 Railway St Rooty Hill NSW 2766\, Western S
+ ydney\, Sydney
+URL:https://coliseumtheatre.com.au/whats-on/the-man-from-snowy-river-in-c
+ oncert
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0b47605ef2c549048e88a1bc931bfa1c-occ_f09d604167f2460985bee3db562
+ 95c16@thingstodoinyourcity
+DTSTAMP:20260722T150411Z
+DTSTART:20261010T073000Z
+SUMMARY:The Man from Snowy River in Concert
+DESCRIPTION:Along the way\, he discovers love\, adventure and a secret hi
+ dden in the hills more precious than any treasure. • Babes in arms und
+ er 12 months are free to sit on the lap.\nPrice: $149.00 - Premium $129.
+ 00 – A Res $99.00 – B Res $79.00 – C Res\nhttps://coliseumtheatre.
+ com.au/whats-on/the-man-from-snowy-river-in-concert
+LOCATION:Coliseum Theatre\, 33 Railway St Rooty Hill NSW 2766\, Western S
+ ydney\, Sydney
+URL:https://coliseumtheatre.com.au/whats-on/the-man-from-snowy-river-in-c
+ oncert
+END:VEVENT
+END:VCALENDAR
