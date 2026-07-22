@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Things To Do In Your City//Candidate Queue//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sydney Events — Weekday
+X-WR-TIMEZONE:Australia/Sydney
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_dfc9b970ccdc4314b073139c9d0828d9-occ_9c3bf3171549453380bb773bc40
+ fac66@thingstodoinyourcity
+DTSTAMP:20260722T150359Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Anh Do – The Happiest Refugee Live!
+DESCRIPTION:Anh Do adapts his best-selling memoir into a stand-up show. T
+ he performance blends humour with real-life stories.\nPrice: From $74.90
+ \nhttps://riversideparramatta.com.au/whats-on/anh-do-the-happiest-refuge
+ e-live
+LOCATION:Riverside Theatre\, Cnr Church & Market Sts\, Parramatta\, Sydne
+ y
+URL:https://riversideparramatta.com.au/whats-on/anh-do-the-happiest-refug
+ ee-live
+END:VEVENT
+END:VCALENDAR
