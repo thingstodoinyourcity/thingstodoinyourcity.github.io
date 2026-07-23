@@ -8,6 +8,19 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_1d490bba5dad4746b0b4751ab3512731-occ_5dc6ac836ce84f39a0223df5a11
+ 536b7@thingstodoinyourcity
+DTSTAMP:20260723T125219Z
+DTSTART:20260902T121500Z
+SUMMARY:Doggett's Coat and Badge
+DESCRIPTION:The world's oldest boat race\, contested annually since 1715 
+ by watermen and lightermen. A pageant of livery cutters precedes the Tha
+ mes course from London Bridge to Chelsea.\nPrice: Free\nhttps://www.ianv
+ isits.co.uk/calendar/doggetts-coat-and-badge-394786
+LOCATION:Various locations\, London
+URL:https://www.ianvisits.co.uk/calendar/doggetts-coat-and-badge-394786
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_08cf7c6180c448e79480bc42a3f2ee0c-occ_5ac2c604353d46ad97451fba92e
  bb433@thingstodoinyourcity
 DTSTAMP:20260723T002336Z
