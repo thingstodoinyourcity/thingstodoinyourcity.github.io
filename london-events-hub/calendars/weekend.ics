@@ -8,6 +8,22 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_abb62fcc7bec4a08a8dd7c166f3e5f83-occ_e4aea26a2a2e42d88ceb6236acb
+ ccce3@thingstodoinyourcity
+DTSTAMP:20260723T094919Z
+DTSTART:20260920T093000Z
+DTEND:20260920T143000Z
+SUMMARY:Learning Hub Launch & Community Celebration Day
+DESCRIPTION:Launch the Learning Hub & Yard with activities for all. Free 
+ access to Chiswick House and Artists' Studios.\nPrice: Check site\nhttps
+ ://chiswickhouseandgardens.org.uk/event/learning-hub-launch-and-communit
+ y-celebration
+LOCATION:Chiswick House and Gardens\, Burlington Lane\, Chiswick London W
+ 4 2RP\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/learning-hub-launch-and-
+ community-celebration
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_502a0fb9f4294afc8a9eca03648866bb-occ_432e44bf8e30472fb0da09738f5
  c82ca@thingstodoinyourcity
 DTSTAMP:20260723T004639Z
