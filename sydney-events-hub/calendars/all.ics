@@ -37,6 +37,27 @@ URL:https://genesiantheatre.com.au/events/the-complete-works-of-jane-aust
  en-abridged
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e17d5bafa94841aaba785426f0c4165f-occ_a31e9db6b1994f36ae95932a9a3
+ b2ec5@thingstodoinyourcity
+DTSTAMP:20260723T092226Z
+DTSTART;VALUE=DATE:20260723
+SUMMARY:ivy Nightlife
+DESCRIPTION:Price: Check site\nhttps://merivale.com/whatson/nightlife/ivy
+LOCATION:ivy\, Sydney CBD\, Sydney
+URL:https://merivale.com/whatson/nightlife/ivy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7eccc261fc004653b22776eb29fb7af3-occ_23b55cf6be024aff824dff56607
+ efa4d@thingstodoinyourcity
+DTSTAMP:20260723T091451Z
+DTSTART;VALUE=DATE:20260724
+SUMMARY:Beresford Nightlife
+DESCRIPTION:Price: Check site\nhttps://merivale.com/whatson/nightlife/ber
+ esford-nightlife
+LOCATION:The Beresford\, Sydney CBD\, Sydney
+URL:https://merivale.com/whatson/nightlife/beresford-nightlife
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6513a1d0ce6645d188a08bab5e593d18-occ_c3688a97da7f47e3be5e000f8a9
  2253f@thingstodoinyourcity
 DTSTAMP:20260723T022904Z
@@ -75,39 +96,6 @@ URL:https://coliseumtheatre.com.au/whats-on/emma-memmas-jungle-picnic-tou
  r
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_defc9b400e7e450b97d9e8c82cb9ea05-occ_3c66abc7cac24a808a5e0138859
- baa2b@thingstodoinyourcity
-DTSTAMP:20260723T041816Z
-DTSTART:20260818T100000Z
-SUMMARY:Max Amini: Live in Action
-DESCRIPTION:Price: Check site\nhttps://tiktokentcent.com/event/max-amini-
- live-in-action-2
-LOCATION:TikTok Entertainment Centre\, Darling Harbour\, Sydney
-URL:https://tiktokentcent.com/event/max-amini-live-in-action-2
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_defc9b400e7e450b97d9e8c82cb9ea05-occ_87bbea592f64487e98c98161465
- b0f40@thingstodoinyourcity
-DTSTAMP:20260723T041816Z
-DTSTART:20260822T070000Z
-SUMMARY:Max Amini: Live in Action
-DESCRIPTION:Price: Check site\nhttps://tiktokentcent.com/event/max-amini-
- live-in-action-2
-LOCATION:TikTok Entertainment Centre\, Darling Harbour\, Sydney
-URL:https://tiktokentcent.com/event/max-amini-live-in-action-2
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_defc9b400e7e450b97d9e8c82cb9ea05-occ_549369efb1504a3fbc77e13b5e3
- f9223@thingstodoinyourcity
-DTSTAMP:20260723T041816Z
-DTSTART:20260822T110000Z
-SUMMARY:Max Amini: Live in Action
-DESCRIPTION:Price: Check site\nhttps://tiktokentcent.com/event/max-amini-
- live-in-action-2
-LOCATION:TikTok Entertainment Centre\, Darling Harbour\, Sydney
-URL:https://tiktokentcent.com/event/max-amini-live-in-action-2
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_be3a71c57cf84323becf032b9a37c11b-occ_6e42eb7b40e94adca75208c3fb6
  1a9f9@thingstodoinyourcity
 DTSTAMP:20260723T023757Z
@@ -142,6 +130,45 @@ DESCRIPTION:A stormy wind blows away the witch's hat\, bow and wand. A he
  //riversideparramatta.com.au/whats-on/room-on-the-broom
 LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
 URL:https://riversideparramatta.com.au/whats-on/room-on-the-broom
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bcf5fdd8e4e54263a924ffcf00bf70b1-occ_ea75c6e9b52b46c081c57df8ee3
+ cd0ab@thingstodoinyourcity
+DTSTAMP:20260723T075704Z
+DTSTART:20260825T001500Z
+SUMMARY:ARCO by Adam Kelly and James Berlyn
+DESCRIPTION:Adam Kelly is an autistic gentleman whose friend Finbar is a 
+ fish. The show takes a heartfelt look at the life and struggles of a you
+ ng man trying to make connections.\nPrice: $25 ea\nhttps://riversideparr
+ amatta.com.au/whats-on/arco
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/arco
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bcf5fdd8e4e54263a924ffcf00bf70b1-occ_7372ca20114b44be8b2908ed151
+ cb8bf@thingstodoinyourcity
+DTSTAMP:20260723T075704Z
+DTSTART:20260825T030000Z
+SUMMARY:ARCO by Adam Kelly and James Berlyn
+DESCRIPTION:Adam Kelly is an autistic gentleman whose friend Finbar is a 
+ fish. The show takes a heartfelt look at the life and struggles of a you
+ ng man trying to make connections.\nPrice: $25 ea\nhttps://riversideparr
+ amatta.com.au/whats-on/arco
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/arco
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bcf5fdd8e4e54263a924ffcf00bf70b1-occ_29b7c3c892074e699af0cc91f32
+ 3e280@thingstodoinyourcity
+DTSTAMP:20260723T075704Z
+DTSTART:20260826T003000Z
+SUMMARY:ARCO by Adam Kelly and James Berlyn
+DESCRIPTION:Adam Kelly is an autistic gentleman whose friend Finbar is a 
+ fish. The show takes a heartfelt look at the life and struggles of a you
+ ng man trying to make connections.\nPrice: $25 ea\nhttps://riversideparr
+ amatta.com.au/whats-on/arco
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/arco
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2f3b39fd78dd4a6ca9b21b63548a5c19-occ_edf85ec9077c414596100ba5560
@@ -362,17 +389,5 @@ DESCRIPTION:Price: $104.25\nhttps://tiktokentcent.com/event/lord-of-the-r
 LOCATION:TikTok Entertainment Centre\, 14 Darling Drive Darling Harbour\,
   Darling Harbour\, Sydney
 URL:https://tiktokentcent.com/event/lord-of-the-rings-in-concert
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fd16eb5fcff2449d930e86c9b8393b1a-occ_b6d16865232b4679b7bbb199f9e
- c6383@thingstodoinyourcity
-DTSTAMP:20260723T034325Z
-DTSTART:20261023T083000Z
-DTEND;VALUE=DATE:20261114
-SUMMARY:Yerma
-DESCRIPTION:Price: Check site\nhttps://genesiantheatre.com.au/events/yerm
- a
-LOCATION:Genesian Theatre\, 2B Gordon Street\, Rozelle\, Rozelle\, Sydney
-URL:https://genesiantheatre.com.au/events/yerma
 END:VEVENT
 END:VCALENDAR
