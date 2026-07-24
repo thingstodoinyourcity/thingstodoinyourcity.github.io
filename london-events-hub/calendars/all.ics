@@ -8,6 +8,45 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_c718197d505842e89ca670951f178798-occ_13acce0f12f84f8f9192e99d4a9
+ f74f6@thingstodoinyourcity
+DTSTAMP:20260724T035508Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260830
+SUMMARY:The Magician's Table
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/the-m
+ agicians-table-430760
+LOCATION:The Vaults Theatre\, Launcelot Street London SE1 7AD\, Southwark
+ \, London
+URL:https://www.ianvisits.co.uk/calendar/the-magicians-table-430760
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4b47b6929f04fceba95bd7e62db791b-occ_4eeb69a0581a4a9a822f13351d0
+ a1e9f@thingstodoinyourcity
+DTSTAMP:20260724T040318Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260905
+SUMMARY:Jesus Christ Superstar
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/jesus
+ -christ-superstar-2-432037
+LOCATION:The London Palladium\, 8 Argyll Street London W1F 7TF\, Soho Nor
+ th\, London
+URL:https://www.ianvisits.co.uk/calendar/jesus-christ-superstar-2-432037
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aa2eb0154d90433c9fca64ef19f8dc44-occ_92330b882dd84bfcbedfeaa90b9
+ b76e7@thingstodoinyourcity
+DTSTAMP:20260724T041222Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260905
+SUMMARY:Trainspotting The Musical
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/train
+ spotting-the-musical-429540
+LOCATION:Theatre Royal Haymarket\, 18 Suffolk Street London SW1Y 4HT\, St
+  James\, London
+URL:https://www.ianvisits.co.uk/calendar/trainspotting-the-musical-429540
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ddc06c7b44ca463aaf5bc2dbd6ac85e1-occ_52c1e481995343f58e4a435333d
  ede8b@thingstodoinyourcity
 DTSTAMP:20260724T012336Z
@@ -215,6 +254,38 @@ LOCATION:Waterloo Station\, Southwark\, London SE1 8SW\, Waterloo Road\,
 URL:https://www.ianvisits.co.uk/calendar/london-loo-tour-2-427727
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2b16a403bb284ac98308c7d3ff8bcb80-occ_332164a209604d8eafd37f11ffd
+ a4f91@thingstodoinyourcity
+DTSTAMP:20260724T014128Z
+DTSTART:20260725T120000Z
+DTEND:20260725T140000Z
+SUMMARY:East End Homes: A Walking Tour
+DESCRIPTION:An immersive walking tour explores diverse housing landscapes
+  in East London. Participants visit local homes from different periods.\
+ nPrice: £15.00\nhttps://www.ianvisits.co.uk/calendar/east-end-homes-a-w
+ alking-tour-432563
+LOCATION:Museum of the Home\, 136 Kingsland Road London E2 8EA\, Bethnal 
+ Green\, London
+URL:https://www.ianvisits.co.uk/calendar/east-end-homes-a-walking-tour-43
+ 2563
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b16a403bb284ac98308c7d3ff8bcb80-occ_822a3758451448a5a1b53b0c865
+ f93de@thingstodoinyourcity
+DTSTAMP:20260724T014128Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:East End Homes: A Walking Tour
+DESCRIPTION:An immersive walking tour explores diverse housing landscapes
+  in East London. Participants visit local homes from different periods.\
+ nPrice: £15.00\nhttps://www.ianvisits.co.uk/calendar/east-end-homes-a-w
+ alking-tour-432563
+LOCATION:Museum of the Home\, 136 Kingsland Road London E2 8EA\, Bethnal 
+ Green\, London
+URL:https://www.ianvisits.co.uk/calendar/east-end-homes-a-walking-tour-43
+ 2563
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_095371b3ea7e4e7bb077cd73aad11baa-occ_8b4882928fd14f3180d51fa913a
  531e8@thingstodoinyourcity
 DTSTAMP:20260724T002405Z
@@ -230,270 +301,16 @@ LOCATION:London Canal Museum\, 12-13 New Wharf Road London N1 9RT\, Islin
 URL:https://www.ianvisits.co.uk/calendar/ice-well-sunday-421197
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_d0c723a959b74ee79658d41e5a1
- 0d406@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20260806T160000Z
-DTEND:20260806T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_f8404c6f888846a0a6d2972be58
- 684b3@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20260903T160000Z
-DTEND:20260903T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_a4936346b5eb4b9c9063282ecc8
- fbc97@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20261001T160000Z
-DTEND:20261001T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_66a74e9277bf4ee4a84e0b51686
- 569e1@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20261105T170000Z
-DTEND:20261105T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_6afd264568fe4f558f2b77705a4
- 2dc9c@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20261203T170000Z
-DTEND:20261203T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_379bc0149a1e4d4fa027621f062
- 65343@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270107T170000Z
-DTEND:20270107T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_2274d2b371dc43c5a6c67b47d42
- a5db4@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270204T170000Z
-DTEND:20270204T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_2f38b4f3be2d400cbcd436c80f6
- b1b1a@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270304T170000Z
-DTEND:20270304T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_bbf2b6d9a1ee48ff99c5d1c6d65
- ecfc0@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270401T160000Z
-DTEND:20270401T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_cdf3e4bafe3a4150913d12af17c
- a5e6a@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270506T160000Z
-DTEND:20270506T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_7ae8a61e40924dc792561f0cb80
- 8a747@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270603T160000Z
-DTEND:20270603T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_58b2933b1e0e4c9daca657f4311
- 8f662@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270805T160000Z
-DTEND:20270805T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_3e49dcb7eb794161bd2d66a7ed3
- 3bc85@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20270902T160000Z
-DTEND:20270902T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_0645f75c26f245d1a4ad4f28b7a
- e4ad7@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20271007T160000Z
-DTEND:20271007T200000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_fe98bc78c4164fdd9426b3d1c55
- 80116@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20271104T170000Z
-DTEND:20271104T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba7aa06652644d85b8028ddc9426e561-occ_9a36bca8494244e9b541e8a5550
- 0e24c@thingstodoinyourcity
-DTSTAMP:20260723T222816Z
-DTSTART:20271202T170000Z
-DTEND:20271202T210000Z
-SUMMARY:Monthly bar night at Novelty Automation
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-bar
- -night-at-novelty-automation-285712
-LOCATION:Novelty Automation\, 1a Princeton Street London WC1R 4AX\, Holbo
- rn\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-bar-night-at-novelty-aut
- omation-285712
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_c26a3c6b3b7f49fd948d3abf72b
- 0efec@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20260815T130000Z
-DTEND:20260815T150000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_18eb01107ed548da92585790003
- df7bd@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20261017T130000Z
-DTEND:20261017T150000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_07a51df179fa4123952323319d4
- e99f0@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
+UID:cand_dd9fadabf8d14261bc3b815395dba9e6-occ_5183ea9cc0f64d758622989266a
+ 5bbdd@thingstodoinyourcity
+DTSTAMP:20260724T030603Z
+DTSTART:20260730T170000Z
+DTEND:20260730T200000Z
+SUMMARY:Christie's Lates: The Meeting Ground
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/chris
+ ties-lates-3-432387
+LOCATION:Christie's London\, St. James's\, London
+URL:https://www.ianvisits.co.uk/calendar/christies-lates-3-432387
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1d490bba5dad4746b0b4751ab3512731-occ_5dc6ac836ce84f39a0223df5a11
@@ -660,5 +477,19 @@ LOCATION:EartH Theatre\, 11-17 Stoke Newington Rd Dalston London N16 8BH\
  , Dalston\, London
 URL:https://earthackney.co.uk/events/actress-kmru-joy-guidry-5th-nov-eart
  h-london-tickets-3oank8
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_24d9a53d0b374c618a5114a800363e39-occ_dbb27cc0d3ae423bb10c454e798
+ fd3aa@thingstodoinyourcity
+DTSTAMP:20260724T023717Z
+DTSTART:20261106T190000Z
+DTEND:20261106T220000Z
+SUMMARY:MARIAM sings AMADOU & MARIAM
+DESCRIPTION:Price: Check site\nhttps://earthackney.co.uk/events/mariam-si
+ ngs-amadou-mariam-6th-nov-earth-london-tickets-92knvd
+LOCATION:EartH Hall\, 11-17 Stoke Newington Rd Dalston London N16 8BH\, D
+ alston\, London
+URL:https://earthackney.co.uk/events/mariam-sings-amadou-mariam-6th-nov-e
+ arth-london-tickets-92knvd
 END:VEVENT
 END:VCALENDAR
