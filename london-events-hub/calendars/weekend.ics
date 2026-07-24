@@ -8,6 +8,45 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_c718197d505842e89ca670951f178798-occ_13acce0f12f84f8f9192e99d4a9
+ f74f6@thingstodoinyourcity
+DTSTAMP:20260724T035508Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260830
+SUMMARY:The Magician's Table
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/the-m
+ agicians-table-430760
+LOCATION:The Vaults Theatre\, Launcelot Street London SE1 7AD\, Southwark
+ \, London
+URL:https://www.ianvisits.co.uk/calendar/the-magicians-table-430760
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4b47b6929f04fceba95bd7e62db791b-occ_4eeb69a0581a4a9a822f13351d0
+ a1e9f@thingstodoinyourcity
+DTSTAMP:20260724T040318Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260905
+SUMMARY:Jesus Christ Superstar
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/jesus
+ -christ-superstar-2-432037
+LOCATION:The London Palladium\, 8 Argyll Street London W1F 7TF\, Soho Nor
+ th\, London
+URL:https://www.ianvisits.co.uk/calendar/jesus-christ-superstar-2-432037
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aa2eb0154d90433c9fca64ef19f8dc44-occ_92330b882dd84bfcbedfeaa90b9
+ b76e7@thingstodoinyourcity
+DTSTAMP:20260724T041222Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260905
+SUMMARY:Trainspotting The Musical
+DESCRIPTION:Price: Check site\nhttps://www.ianvisits.co.uk/calendar/train
+ spotting-the-musical-429540
+LOCATION:Theatre Royal Haymarket\, 18 Suffolk Street London SW1Y 4HT\, St
+  James\, London
+URL:https://www.ianvisits.co.uk/calendar/trainspotting-the-musical-429540
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ddc06c7b44ca463aaf5bc2dbd6ac85e1-occ_52c1e481995343f58e4a435333d
  ede8b@thingstodoinyourcity
 DTSTAMP:20260724T012336Z
@@ -140,6 +179,38 @@ LOCATION:Waterloo Station\, Southwark\, London SE1 8SW\, Waterloo Road\,
 URL:https://www.ianvisits.co.uk/calendar/london-loo-tour-2-427727
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2b16a403bb284ac98308c7d3ff8bcb80-occ_332164a209604d8eafd37f11ffd
+ a4f91@thingstodoinyourcity
+DTSTAMP:20260724T014128Z
+DTSTART:20260725T120000Z
+DTEND:20260725T140000Z
+SUMMARY:East End Homes: A Walking Tour
+DESCRIPTION:An immersive walking tour explores diverse housing landscapes
+  in East London. Participants visit local homes from different periods.\
+ nPrice: £15.00\nhttps://www.ianvisits.co.uk/calendar/east-end-homes-a-w
+ alking-tour-432563
+LOCATION:Museum of the Home\, 136 Kingsland Road London E2 8EA\, Bethnal 
+ Green\, London
+URL:https://www.ianvisits.co.uk/calendar/east-end-homes-a-walking-tour-43
+ 2563
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b16a403bb284ac98308c7d3ff8bcb80-occ_822a3758451448a5a1b53b0c865
+ f93de@thingstodoinyourcity
+DTSTAMP:20260724T014128Z
+DTSTART:20260822T120000Z
+DTEND:20260822T140000Z
+SUMMARY:East End Homes: A Walking Tour
+DESCRIPTION:An immersive walking tour explores diverse housing landscapes
+  in East London. Participants visit local homes from different periods.\
+ nPrice: £15.00\nhttps://www.ianvisits.co.uk/calendar/east-end-homes-a-w
+ alking-tour-432563
+LOCATION:Museum of the Home\, 136 Kingsland Road London E2 8EA\, Bethnal 
+ Green\, London
+URL:https://www.ianvisits.co.uk/calendar/east-end-homes-a-walking-tour-43
+ 2563
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_095371b3ea7e4e7bb077cd73aad11baa-occ_8b4882928fd14f3180d51fa913a
  531e8@thingstodoinyourcity
 DTSTAMP:20260724T002405Z
@@ -153,48 +224,6 @@ DESCRIPTION:Visitors climb a ladder into a Victorian ice well to learn ab
 LOCATION:London Canal Museum\, 12-13 New Wharf Road London N1 9RT\, Islin
  gton\, London
 URL:https://www.ianvisits.co.uk/calendar/ice-well-sunday-421197
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_c26a3c6b3b7f49fd948d3abf72b
- 0efec@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20260815T130000Z
-DTEND:20260815T150000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_18eb01107ed548da92585790003
- df7bd@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20261017T130000Z
-DTEND:20261017T150000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b4ffb88ac0d24a27a56549e32566768e-occ_07a51df179fa4123952323319d4
- e99f0@thingstodoinyourcity
-DTSTAMP:20260723T223618Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Monthly opening of the Barnet "Physic Well"
-DESCRIPTION:Price: Free\nhttps://www.ianvisits.co.uk/calendar/monthly-ope
- ning-of-the-barnet-quotphysic-wellquot-402317
-LOCATION:Barnet Physic Well\, Well Approach Barnet London EN5 3DY\, Barne
- t\, London
-URL:https://www.ianvisits.co.uk/calendar/monthly-opening-of-the-barnet-qu
- otphysic-wellquot-402317
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_48820ed1ce624732bf49aa2e81d65c4f-occ_2060fd0ca9c84c6ab5dec64b4d2
@@ -275,5 +304,19 @@ LOCATION:EartH Hall\, 11-17 Stoke Newington Rd Dalston London N16 8BH\, D
  alston\, London
 URL:https://earthackney.co.uk/events/almamegretta-barezzi-way-1st-nov-ear
  th-london-tickets-avr7yq
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_24d9a53d0b374c618a5114a800363e39-occ_dbb27cc0d3ae423bb10c454e798
+ fd3aa@thingstodoinyourcity
+DTSTAMP:20260724T023717Z
+DTSTART:20261106T190000Z
+DTEND:20261106T220000Z
+SUMMARY:MARIAM sings AMADOU & MARIAM
+DESCRIPTION:Price: Check site\nhttps://earthackney.co.uk/events/mariam-si
+ ngs-amadou-mariam-6th-nov-earth-london-tickets-92knvd
+LOCATION:EartH Hall\, 11-17 Stoke Newington Rd Dalston London N16 8BH\, D
+ alston\, London
+URL:https://earthackney.co.uk/events/mariam-sings-amadou-mariam-6th-nov-e
+ arth-london-tickets-92knvd
 END:VEVENT
 END:VCALENDAR
