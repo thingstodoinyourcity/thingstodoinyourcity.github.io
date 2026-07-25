@@ -7,4 +7,28 @@ X-WR-CALNAME:Sydney Events — Weekend
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_5b479cac5d6343fd9c51cc2d54e9b6f3-occ_8ea1b03e74224225ae72ca9cf45
+ 48c87@thingstodoinyourcity
+DTSTAMP:20260725T045330Z
+DTSTART:20260911T070000Z
+SUMMARY:Aaron Chen: Technology
+DESCRIPTION:Aaron Chen debuts a new stand-up hour about technology. His d
+ eadpan\, surreal style returns to Sydney.\nPrice: Reserve Seating: $71.1
+ 0\nhttps://www.statetheatre.com.au/show-calendar/aaron-chen
+LOCATION:State Theatre\, Sydney CBD\, Sydney
+URL:https://www.statetheatre.com.au/show-calendar/aaron-chen
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b479cac5d6343fd9c51cc2d54e9b6f3-occ_f9ecb6d050064144a844d38dadd
+ a94ef@thingstodoinyourcity
+DTSTAMP:20260725T045330Z
+DTSTART:20260911T103000Z
+SUMMARY:Aaron Chen: Technology
+DESCRIPTION:Aaron Chen debuts a new stand-up hour about technology. His d
+ eadpan\, surreal style returns to Sydney.\nPrice: Reserve Seating: $71.1
+ 0\nhttps://www.statetheatre.com.au/show-calendar/aaron-chen
+LOCATION:State Theatre\, Sydney CBD\, Sydney
+URL:https://www.statetheatre.com.au/show-calendar/aaron-chen
+END:VEVENT
 END:VCALENDAR
