@@ -7,4 +7,20 @@ X-WR-CALNAME:Sydney Events — Weekday
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_b00fd12340fb487388b836900690de21-occ_93bbb59c744e42c3b69408db3b9
+ d0711@thingstodoinyourcity
+DTSTAMP:20260726T171742Z
+DTSTART:20260627T000000Z
+DTEND:20260913T135900Z
+SUMMARY:2026 Friends Annual and Focus
+DESCRIPTION:An eclectic display showcases regional artistic talent. The 2
+ 026 Focus exhibition highlights Zara Collins.\nPrice: Free\nhttps://www.
+ campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-Friends-Annual-a
+ nd-Focus
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
+ own\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-F
+ riends-Annual-and-Focus
+END:VEVENT
 END:VCALENDAR
