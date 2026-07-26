@@ -7,39 +7,4 @@ X-WR-CALNAME:Sydney Events — Weekday
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
-BEGIN:VEVENT
-UID:cand_0f8a185b37564e7284bd4ee9075338d2-occ_90d4a8d8b5c4463db9cd4b184c4
- deb36@thingstodoinyourcity
-DTSTAMP:20260726T095312Z
-DTSTART:20260825T001500Z
-DTEND;VALUE=DATE:20260826
-SUMMARY:ARCO Jnr
-DESCRIPTION:Price: $25 ea\nhttps://riversideparramatta.com.au/whats-on/ar
- co
-LOCATION:PHIVE\, PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
-URL:https://riversideparramatta.com.au/whats-on/arco
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0f8a185b37564e7284bd4ee9075338d2-occ_104dbea77de44b22a3d61eb254d
- 5f0f1@thingstodoinyourcity
-DTSTAMP:20260726T095312Z
-DTSTART:20260825T030000Z
-DTEND;VALUE=DATE:20260825
-SUMMARY:ARCO Jnr
-DESCRIPTION:Price: $25 ea\nhttps://riversideparramatta.com.au/whats-on/ar
- co
-LOCATION:PHIVE\, PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
-URL:https://riversideparramatta.com.au/whats-on/arco
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0f8a185b37564e7284bd4ee9075338d2-occ_8ad027cd06e640d2b1134462ce7
- 113fb@thingstodoinyourcity
-DTSTAMP:20260726T095312Z
-DTSTART:20260826T003000Z
-SUMMARY:ARCO Jnr
-DESCRIPTION:Price: $25 ea\nhttps://riversideparramatta.com.au/whats-on/ar
- co
-LOCATION:PHIVE\, PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
-URL:https://riversideparramatta.com.au/whats-on/arco
-END:VEVENT
 END:VCALENDAR
