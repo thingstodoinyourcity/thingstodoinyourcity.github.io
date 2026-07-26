@@ -7,4 +7,28 @@ X-WR-CALNAME:Sydney Events — Weekend
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_8c5177a12d3e464abb2d533a050a8356-occ_dbb292e5878f4d49aee849d856e
+ 37641@thingstodoinyourcity
+DTSTAMP:20260726T101605Z
+DTSTART;VALUE=DATE:20260905
+SUMMARY:Bassem Youssef
+DESCRIPTION:The Belly of the Beast Tour arrives in 2026. The comedian ble
+ nds stand-up with cultural commentary.\nPrice: Check site\nhttps://tikto
+ kentcent.com/event/bassem-youssef
+LOCATION:TIKTOK ENT CENT\, Darling Harbour\, Sydney
+URL:https://tiktokentcent.com/event/bassem-youssef
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8c5177a12d3e464abb2d533a050a8356-occ_97ef1eac6cb04d209a64e81a86b
+ 763a2@thingstodoinyourcity
+DTSTAMP:20260726T101605Z
+DTSTART:20260905T083000Z
+SUMMARY:Bassem Youssef
+DESCRIPTION:The Belly of the Beast Tour arrives in 2026. The comedian ble
+ nds stand-up with cultural commentary.\nPrice: Check site\nhttps://tikto
+ kentcent.com/event/bassem-youssef
+LOCATION:TIKTOK ENT CENT\, Darling Harbour\, Sydney
+URL:https://tiktokentcent.com/event/bassem-youssef
+END:VEVENT
 END:VCALENDAR
