@@ -8,19 +8,105 @@ X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_832ba0ef82ca411f96f61fd5e299096a-occ_3412f8cf940643758636e6f792e
+ 60a5d@thingstodoinyourcity
+DTSTAMP:20260726T200732Z
+DTSTART:20260204T010000Z
+DTEND:20261216T040000Z
+SUMMARY:Sweet Tonic Singers
+DESCRIPTION:A seniors group sings for fun and fellowship. Members rehears
+ e weekly during school terms.\nPrice: Check site\nhttps://www.campbellto
+ wnartscentre.com.au/Whats-On/Music/Sweet-Tonic-Singers
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
+ own\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-
+ Singers
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_832ba0ef82ca411f96f61fd5e299096a-occ_c4d2cf2592ba4ba095a51c14d5c
+ bdd90@thingstodoinyourcity
+DTSTAMP:20260726T200732Z
+DTSTART:20260727T020000Z
+DTEND:20261216T040000Z
+SUMMARY:Sweet Tonic Singers
+DESCRIPTION:A seniors group sings for fun and fellowship. Members rehears
+ e weekly during school terms.\nPrice: Check site\nhttps://www.campbellto
+ wnartscentre.com.au/Whats-On/Music/Sweet-Tonic-Singers
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
+ own\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-
+ Singers
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b00fd12340fb487388b836900690de21-occ_93bbb59c744e42c3b69408db3b9
  d0711@thingstodoinyourcity
-DTSTAMP:20260726T171742Z
+DTSTAMP:20260726T195248Z
 DTSTART:20260627T000000Z
 DTEND:20260913T135900Z
 SUMMARY:2026 Friends Annual and Focus
-DESCRIPTION:An eclectic display showcases regional artistic talent. The 2
- 026 Focus exhibition highlights Zara Collins.\nPrice: Free\nhttps://www.
- campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-Friends-Annual-a
- nd-Focus
+DESCRIPTION:An eclectic display of artworks features diverse styles. The 
+ Focus section highlights artist Zara Collins.\nPrice: Check site\nhttps:
+ //www.campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-Friends-An
+ nual-and-Focus
 LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
  own\, Sydney
 URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-F
  riends-Annual-and-Focus
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_652f7d040c314eaea7be4136227ea0c5-occ_5a6876c018764e8696e10e40eeb
+ 4f450@thingstodoinyourcity
+DTSTAMP:20260726T200116Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260727
+SUMMARY:Entries Open: Fisher's Ghost Art Award
+DESCRIPTION:Price: Check site\nhttps://www.campbelltownartscentre.com.au/
+ Whats-On/Exhibitions/2026-Fishers-Ghost-Art-Award/Entries-Open-2026-Fish
+ ers-Ghost-Art-Award
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-F
+ ishers-Ghost-Art-Award/Entries-Open-2026-Fishers-Ghost-Art-Award
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7c4627821e7e4189b7eb6c3da9facdae-occ_b1002418850846b3b92c1b73552
+ e3c9d@thingstodoinyourcity
+DTSTAMP:20260726T201336Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+SUMMARY:Menopause The Musical
+DESCRIPTION:Grab your girlfriends and get ready to laugh\, relate and fee
+ l the joy of being understood. See what millions of women (and brave men
+ ) have been laughing about for over 25 years.\nPrice: Check site\nhttps:
+ //riversideparramatta.com.au/whats-on/menopause-the-musical
+LOCATION:Riverside Theatre\, Cnr Church & Market Sts\, Parramatta\, Sydne
+ y
+URL:https://riversideparramatta.com.au/whats-on/menopause-the-musical
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ea29fe91db93431a8e19529be63adb53-occ_ff0a2b3115bb415db962dc8bf6d
+ 93d56@thingstodoinyourcity
+DTSTAMP:20260726T203055Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260906
+SUMMARY:The Gospel According To Paul
+DESCRIPTION:Jonathan Biggins transforms into Paul Keating. The satire exp
+ lores the former PM's achievements.\nPrice: From $75\nhttps://riversidep
+ arramatta.com.au/whats-on/the-gospel-according-to-paul
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/the-gospel-according-to-p
+ aul
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b6918b0c441a49058fd08eeacf63c2f7-occ_8ffdc1a0dc9e468eaa619416c8e
+ e9183@thingstodoinyourcity
+DTSTAMP:20260726T202836Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260926
+SUMMARY:The Lark
+DESCRIPTION:Noni Hazlehurst stars in Daniel Keene's new play. Rose Grey s
+ ays goodbye to her local pub.\nPrice: From $79\nhttps://riversideparrama
+ tta.com.au/whats-on/the-lark
+LOCATION:PHIVE\, 5 Parramatta Square\, Parramatta\, Sydney
+URL:https://riversideparramatta.com.au/whats-on/the-lark
 END:VEVENT
 END:VCALENDAR
