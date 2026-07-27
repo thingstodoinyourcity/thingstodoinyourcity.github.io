@@ -7,4 +7,18 @@ X-WR-CALNAME:London Events — Weekend
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_4d06bfaa30b6423fa8b78f7b33359a1c-occ_959e2ba31ad1475886bbdb4991f
+ 507ab@thingstodoinyourcity
+DTSTAMP:20260727T202325Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20260905
+SUMMARY:Disney's Hercules
+DESCRIPTION:Myth\, music\, and magic blend in a heroic journey. Humour\, 
+ heart\, and unforgettable songs fill the stage.\nPrice: Check site\nhttp
+ s://ianvisits.londontheatredirect.com/musical/hercules-tickets
+LOCATION:Theatre Royal Drury Lane\, Catherine Street London WC2B 5JF\, Lo
+ ndon
+URL:https://ianvisits.londontheatredirect.com/musical/hercules-tickets
+END:VEVENT
 END:VCALENDAR
