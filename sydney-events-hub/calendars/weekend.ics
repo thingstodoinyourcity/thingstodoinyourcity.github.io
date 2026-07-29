@@ -10,7 +10,7 @@ X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
 UID:cand_b4124eb7623c44a098414faa16d198a9-occ_c774b0c75e9d45c69fc112e40c2
  b9068@thingstodoinyourcity
-DTSTAMP:20260729T054209Z
+DTSTAMP:20260729T124846Z
 DTSTART:20260131T090000Z
 DTEND:20260906T120000Z
 SUMMARY:Burlesque Shows & Dinner
@@ -22,72 +22,39 @@ LOCATION:Cardea\, Shop 2 T3.01\, 300 Barangaroo Ave\, Barangaroo NSW 2000
 URL:https://www.barangaroo.com/whats-on/events/burlesque-shows-dinner
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_832ba0ef82ca411f96f61fd5e299096a-occ_3412f8cf940643758636e6f792e
- 60a5d@thingstodoinyourcity
-DTSTAMP:20260727T183324Z
-DTSTART:20260204T010000Z
-DTEND:20261216T040000Z
-SUMMARY:Sweet Tonic Singers
-DESCRIPTION:A seniors singing group meets weekly for fun and fellowship. 
- Members connect and socialise during school terms.\nPrice: Check site\nh
- ttps://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-Sing
- ers
-LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
- own\, Sydney
-URL:https://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-
- Singers
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_832ba0ef82ca411f96f61fd5e299096a-occ_c4d2cf2592ba4ba095a51c14d5c
- bdd90@thingstodoinyourcity
-DTSTAMP:20260727T183324Z
-DTSTART:20260727T020000Z
-DTEND:20261216T040000Z
-SUMMARY:Sweet Tonic Singers
-DESCRIPTION:A seniors singing group meets weekly for fun and fellowship. 
- Members connect and socialise during school terms.\nPrice: Check site\nh
- ttps://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-Sing
- ers
-LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
- own\, Sydney
-URL:https://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-
- Singers
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_832ba0ef82ca411f96f61fd5e299096a-occ_bcd0886aede24219a2c8164e226
- b07b8@thingstodoinyourcity
-DTSTAMP:20260727T183324Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:Sweet Tonic Singers
-DESCRIPTION:A seniors singing group meets weekly for fun and fellowship. 
- Members connect and socialise during school terms.\nPrice: Check site\nh
- ttps://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-Sing
- ers
-LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
- own\, Sydney
-URL:https://www.campbelltownartscentre.com.au/Whats-On/Music/Sweet-Tonic-
- Singers
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_6726bd260df34c0193ae34dfc3fc5866-occ_6e03160ae14b464e9e28da24b8d
  f5859@thingstodoinyourcity
-DTSTAMP:20260728T184021Z
+DTSTAMP:20260729T120747Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260731
 SUMMARY:Celebrate EOFY at Novotel
-DESCRIPTION:The Ternary is ideal for corporate celebrations\, team dinner
- s\, client events. The Ternary's EOFY packages are designed to make orga
- nising your event simple and seamless.\nPrice: Check site\nhttps://www.d
- arlingharbour.com/offers/celebrate-eofy-with-event-packages
+DESCRIPTION:Host your EOFY event in Sydney. Flexible spaces and curated p
+ ackages simplify planning.\nPrice: Check site\nhttps://www.darlingharbou
+ r.com/offers/celebrate-eofy-with-event-packages
 LOCATION:The Ternary\, 100 Murray Street\, Pyrmont\, Darling Harbour\, Sy
  dney
 URL:https://www.darlingharbour.com/offers/celebrate-eofy-with-event-packa
  ges
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fff33f5bc11040d59b597b0d13c462e0-occ_74aad3bededd46bbb6116d09ce8
+ 98995@thingstodoinyourcity
+DTSTAMP:20260729T115550Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260831
+SUMMARY:Hickory Express Lunch
+DESCRIPTION:Signature rolls by Ross Lusted pair with chips and a drink. O
+ ptions include a crispy chicken bun\, Moreton Bay bug brioche or The Ult
+ imate French Dip.\nPrice: Check site\nhttps://www.barangaroo.com/whats-o
+ n/events/hickory-express-lunch
+LOCATION:Hickory Bar\, Level 1/1 Barangaroo Ave\, Barangaroo\, Crown Sydn
+ ey\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/hickory-express-lunch
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fff33f5bc11040d59b597b0d13c462e0-occ_dc22135ef9ab4130b6692440ab9
  9d7ae@thingstodoinyourcity
-DTSTAMP:20260729T052532Z
+DTSTAMP:20260729T115550Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260831
 SUMMARY:Hickory Express Lunch
@@ -102,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_fff33f5bc11040d59b597b0d13c462e0-occ_e39b6ef7e66a4e5c8bbcf7ef3b4
  bf4a2@thingstodoinyourcity
-DTSTAMP:20260729T052532Z
+DTSTAMP:20260729T115550Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260831
 SUMMARY:Hickory Express Lunch
@@ -117,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_33b7353ead354799840c6e3a7c9cf6c8-occ_43d17769bef748138058dbccc09
  81030@thingstodoinyourcity
-DTSTAMP:20260729T051403Z
+DTSTAMP:20260729T124743Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260918
 SUMMARY:Stay 3\, Pay 2
@@ -132,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_33b7353ead354799840c6e3a7c9cf6c8-occ_bb7a624b793343d2b34c419b5e4
  bb435@thingstodoinyourcity
-DTSTAMP:20260729T051403Z
+DTSTAMP:20260729T124743Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260918
 SUMMARY:Stay 3\, Pay 2
@@ -145,33 +112,79 @@ LOCATION:Crown Sydney\, 1 Barangaroo Ave\, Barangaroo NSW 2000\, Barangar
 URL:https://www.barangaroo.com/whats-on/events/stay-3\,-pay-2
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b00fd12340fb487388b836900690de21-occ_93bbb59c744e42c3b69408db3b9
- d0711@thingstodoinyourcity
-DTSTAMP:20260727T185314Z
+UID:cand_33b7353ead354799840c6e3a7c9cf6c8-occ_e7d3061ccbe9468dad1c22ac1de
+ c6537@thingstodoinyourcity
+DTSTAMP:20260729T124743Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260918
+SUMMARY:Stay 3\, Pay 2
+DESCRIPTION:Enjoy an exclusive offer: stay for three nights and only pay 
+ for two in our Deluxe King room. Stay for three nights and only pay for 
+ two in our Deluxe King room.\nPrice: FREE\nhttps://www.barangaroo.com/wh
+ ats-on/events/stay-3\,-pay-2
+LOCATION:Crown Sydney\, 1 Barangaroo Ave\, Barangaroo NSW 2000\, Barangar
+ oo\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/stay-3\,-pay-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6a804f6ab340456ba444be4e86b03ed3-occ_f83eb2740dce4c479c7cbb6cf04
+ 935e9@thingstodoinyourcity
+DTSTAMP:20260729T120242Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260913
+SUMMARY:Gillian Kayrooz & L-FRESH The LION
+DESCRIPTION:Gillian Kayrooz and L-FRESH The LION collaborate with five em
+ erging artists. Installations respond to the Campbelltown City Council A
+ rt Collection.\nPrice: Free\nhttps://www.campbelltownartscentre.com.au/W
+ hats-On/Exhibitions/Gillian-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-
+ Us’
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/Gillia
+ n-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-Us’
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6a804f6ab340456ba444be4e86b03ed3-occ_5465252b1f34443e9a08180b57b
+ 071b4@thingstodoinyourcity
+DTSTAMP:20260729T120242Z
 DTSTART:20260627T000000Z
-DTEND:20260913T135900Z
-SUMMARY:2026 Friends Annual and Focus
-DESCRIPTION:An eclectic display of artworks features diverse styles and m
- ediums. The 'Focus' section highlights the practice of artist Zara Colli
- ns.\nPrice: Check site\nhttps://www.campbelltownartscentre.com.au/Whats-
- On/Exhibitions/2026-Friends-Annual-and-Focus
-LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Campbellt
- own\, Sydney
-URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/2026-F
- riends-Annual-and-Focus
+DTEND:20260913T060000Z
+SUMMARY:Gillian Kayrooz & L-FRESH The LION
+DESCRIPTION:Gillian Kayrooz and L-FRESH The LION collaborate with five em
+ erging artists. Installations respond to the Campbelltown City Council A
+ rt Collection.\nPrice: Free\nhttps://www.campbelltownartscentre.com.au/W
+ hats-On/Exhibitions/Gillian-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-
+ Us’
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/Gillia
+ n-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-Us’
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_392aeb2b6ea4409aaf33c734830654f7-occ_9194f53f83cc4ed19ad7f3d42c0
+ 20004@thingstodoinyourcity
+DTSTAMP:20260729T114819Z
+DTSTART:20260627T000000Z
+DTEND:20260913T060000Z
+SUMMARY:Kirtika Kain: Pitch
+DESCRIPTION:Kirtika Kain explores anti-caste movements through gold\, bit
+ umen\, and turmeric surfaces. Her works create intricate and luminous su
+ rfaces highlighting aesthetic qualities.\nPrice: Free\nhttps://www.campb
+ elltownartscentre.com.au/Whats-On/Exhibitions/Kirtika-Kain-Pitch
+LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
+URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/Kirtik
+ a-Kain-Pitch
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_625c6689e3ab4589b57940277348d61f-occ_18b7e046c96649a9b66096d19f3
  4313d@thingstodoinyourcity
-DTSTAMP:20260729T085503Z
+DTSTAMP:20260729T122929Z
 DTSTART:20260627T000000Z
 DTEND:20260913T060000Z
 SUMMARY:Zico Albaiquni: To all the steps that shake
-DESCRIPTION:Two new monumental paintings explore memory\, land and commun
- al practices. The exhibition draws on Indonesian 'lukis' concepts and co
- lonial histories.\nPrice: Free\nhttps://www.campbelltownartscentre.com.a
- u/Whats-On/Exhibitions/Zico-Albaiquni-To-all-the-steps-that-shake-the-la
- nd’s-memory
+DESCRIPTION:Two new monumental paintings explore memory\, land\, and comm
+ unal practices. The exhibition draws on Indonesian concepts of 'lukis' a
+ nd colonial histories.\nPrice: Free\nhttps://www.campbelltownartscentre.
+ com.au/Whats-On/Exhibitions/Zico-Albaiquni-To-all-the-steps-that-shake-t
+ he-land’s-memory
 LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
 URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/Zico-A
  lbaiquni-To-all-the-steps-that-shake-the-land’s-memory
@@ -194,15 +207,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_45b5a1e1eeeb42ee889add97b046f550-occ_dd8b2ed0515943fcadc5a4fc725
  5307e@thingstodoinyourcity
-DTSTAMP:20260729T091245Z
+DTSTAMP:20260729T123722Z
 DTSTART:20260729T080000Z
 DTEND:20260913T060000Z
 SUMMARY:Gillian Kayrooz & L-FRESH The LION
-DESCRIPTION:Respected Gillian Kayrooz and L-FRESH The LION collaborate wi
- th five emerging artists. The series responds to works in the Campbellto
- wn City Council Art Collection.\nPrice: Free\nhttps://www.campbelltownar
- tscentre.com.au/Whats-On/Exhibitions/Gillian-Kayrooz-L-FRESH-The-LION-
- ‘The-Sky-Between-Us’
+DESCRIPTION:Gillian Kayrooz and L-FRESH The LION join five emerging artis
+ ts. Installations respond to the Campbelltown City Council Art Collectio
+ n.\nPrice: Free\nhttps://www.campbelltownartscentre.com.au/Whats-On/Exhi
+ bitions/Gillian-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-Us’
 LOCATION:Campbelltown Arts Centre\, 1 Art Gallery Road\, 2560\, Sydney
 URL:https://www.campbelltownartscentre.com.au/Whats-On/Exhibitions/Gillia
  n-Kayrooz-L-FRESH-The-LION-‘The-Sky-Between-Us’
@@ -364,13 +376,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f165815426cd4bb2b02ea0c52e54b964-occ_afccf9837bff4d5d83f0118f487
  3d4d1@thingstodoinyourcity
-DTSTAMP:20260727T215726Z
+DTSTAMP:20260729T123356Z
 DTSTART;VALUE=DATE:20260801
 SUMMARY:Nicolas Altstaedt & Thomas Dunford
 DESCRIPTION:Cellist Nicolas Altstaedt and lutenist Thomas Dunford present
   a night of musical mischief. The duo performs baroque masterpieces and 
- modern treasures.\nPrice: Check site\nhttps://www.cityrecitalhall.com/wh
- ats-on/events/nicolas-altstaedt-thomas-dunford
+ modern treasures from Bach\, Pärt and Duparc.\nPrice: Check site\nhttps
+ ://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-thomas-dunf
+ ord
+LOCATION:City Recital Hall\, Sydney CBD / Angel Place\, Sydney
+URL:https://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-tho
+ mas-dunford
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f165815426cd4bb2b02ea0c52e54b964-occ_ff4482dcc3434a4e861b72f5ba8
+ cf599@thingstodoinyourcity
+DTSTAMP:20260729T123356Z
+DTSTART;VALUE=DATE:20260801
+SUMMARY:Nicolas Altstaedt & Thomas Dunford
+DESCRIPTION:Cellist Nicolas Altstaedt and lutenist Thomas Dunford present
+  a night of musical mischief. The duo performs baroque masterpieces and 
+ modern treasures from Bach\, Pärt and Duparc.\nPrice: Check site\nhttps
+ ://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-thomas-dunf
+ ord
 LOCATION:City Recital Hall\, Sydney CBD / Angel Place\, Sydney
 URL:https://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-tho
  mas-dunford
@@ -378,13 +406,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f165815426cd4bb2b02ea0c52e54b964-occ_606aefbc1a884b81810843a3e46
  8d6fa@thingstodoinyourcity
-DTSTAMP:20260727T215726Z
+DTSTAMP:20260729T123356Z
 DTSTART;VALUE=DATE:20260808
 SUMMARY:Nicolas Altstaedt & Thomas Dunford
 DESCRIPTION:Cellist Nicolas Altstaedt and lutenist Thomas Dunford present
   a night of musical mischief. The duo performs baroque masterpieces and 
- modern treasures.\nPrice: Check site\nhttps://www.cityrecitalhall.com/wh
- ats-on/events/nicolas-altstaedt-thomas-dunford
+ modern treasures from Bach\, Pärt and Duparc.\nPrice: Check site\nhttps
+ ://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-thomas-dunf
+ ord
+LOCATION:City Recital Hall\, Sydney CBD / Angel Place\, Sydney
+URL:https://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-tho
+ mas-dunford
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f165815426cd4bb2b02ea0c52e54b964-occ_dcb0ec4c46184250816fb44b11b
+ eed7a@thingstodoinyourcity
+DTSTAMP:20260729T123356Z
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Nicolas Altstaedt & Thomas Dunford
+DESCRIPTION:Cellist Nicolas Altstaedt and lutenist Thomas Dunford present
+  a night of musical mischief. The duo performs baroque masterpieces and 
+ modern treasures from Bach\, Pärt and Duparc.\nPrice: Check site\nhttps
+ ://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-thomas-dunf
+ ord
 LOCATION:City Recital Hall\, Sydney CBD / Angel Place\, Sydney
 URL:https://www.cityrecitalhall.com/whats-on/events/nicolas-altstaedt-tho
  mas-dunford
