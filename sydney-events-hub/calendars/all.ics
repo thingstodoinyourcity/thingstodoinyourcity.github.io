@@ -8,6 +8,20 @@ X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_b4124eb7623c44a098414faa16d198a9-occ_c774b0c75e9d45c69fc112e40c2
+ b9068@thingstodoinyourcity
+DTSTAMP:20260729T054209Z
+DTSTART:20260131T090000Z
+DTEND:20260906T120000Z
+SUMMARY:Burlesque Shows & Dinner
+DESCRIPTION:Classic and contemporary burlesque fills the stage. Crafted c
+ ocktails pair with optional dinners.\nPrice: Check site\nhttps://www.bar
+ angaroo.com/whats-on/events/burlesque-shows-dinner
+LOCATION:Cardea\, Shop 2 T3.01\, 300 Barangaroo Ave\, Barangaroo NSW 2000
+ \, Barangaroo\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/burlesque-shows-dinner
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6726bd260df34c0193ae34dfc3fc5866-occ_6e03160ae14b464e9e28da24b8d
  f5859@thingstodoinyourcity
 DTSTAMP:20260728T184021Z
@@ -22,6 +36,66 @@ LOCATION:The Ternary\, 100 Murray Street\, Pyrmont\, Darling Harbour\, Sy
  dney
 URL:https://www.darlingharbour.com/offers/celebrate-eofy-with-event-packa
  ges
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fff33f5bc11040d59b597b0d13c462e0-occ_dc22135ef9ab4130b6692440ab9
+ 9d7ae@thingstodoinyourcity
+DTSTAMP:20260729T052532Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260831
+SUMMARY:Hickory Express Lunch
+DESCRIPTION:Signature rolls by Ross Lusted pair with chips and a drink. O
+ ptions include a crispy chicken bun\, Moreton Bay bug brioche or The Ult
+ imate French Dip.\nPrice: Check site\nhttps://www.barangaroo.com/whats-o
+ n/events/hickory-express-lunch
+LOCATION:Hickory Bar\, Level 1/1 Barangaroo Ave\, Barangaroo\, Crown Sydn
+ ey\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/hickory-express-lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fff33f5bc11040d59b597b0d13c462e0-occ_e39b6ef7e66a4e5c8bbcf7ef3b4
+ bf4a2@thingstodoinyourcity
+DTSTAMP:20260729T052532Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260831
+SUMMARY:Hickory Express Lunch
+DESCRIPTION:Signature rolls by Ross Lusted pair with chips and a drink. O
+ ptions include a crispy chicken bun\, Moreton Bay bug brioche or The Ult
+ imate French Dip.\nPrice: Check site\nhttps://www.barangaroo.com/whats-o
+ n/events/hickory-express-lunch
+LOCATION:Hickory Bar\, Level 1/1 Barangaroo Ave\, Barangaroo\, Crown Sydn
+ ey\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/hickory-express-lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_33b7353ead354799840c6e3a7c9cf6c8-occ_43d17769bef748138058dbccc09
+ 81030@thingstodoinyourcity
+DTSTAMP:20260729T051403Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260918
+SUMMARY:Stay 3\, Pay 2
+DESCRIPTION:Enjoy an exclusive offer: stay for three nights and only pay 
+ for two in our Deluxe King room. Stay for three nights and only pay for 
+ two in our Deluxe King room.\nPrice: FREE\nhttps://www.barangaroo.com/wh
+ ats-on/events/stay-3\,-pay-2
+LOCATION:Crown Sydney\, 1 Barangaroo Ave\, Barangaroo NSW 2000\, Barangar
+ oo\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/stay-3\,-pay-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_33b7353ead354799840c6e3a7c9cf6c8-occ_bb7a624b793343d2b34c419b5e4
+ bb435@thingstodoinyourcity
+DTSTAMP:20260729T051403Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260918
+SUMMARY:Stay 3\, Pay 2
+DESCRIPTION:Enjoy an exclusive offer: stay for three nights and only pay 
+ for two in our Deluxe King room. Stay for three nights and only pay for 
+ two in our Deluxe King room.\nPrice: FREE\nhttps://www.barangaroo.com/wh
+ ats-on/events/stay-3\,-pay-2
+LOCATION:Crown Sydney\, 1 Barangaroo Ave\, Barangaroo NSW 2000\, Barangar
+ oo\, Sydney
+URL:https://www.barangaroo.com/whats-on/events/stay-3\,-pay-2
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b00fd12340fb487388b836900690de21-occ_93bbb59c744e42c3b69408db3b9
