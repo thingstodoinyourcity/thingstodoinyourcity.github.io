@@ -8,6 +8,19 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_7525d425044a45fab4e1fa8e545542fa-occ_0c991682956544c8a88baeb1941
+ 4bc99@thingstodoinyourcity
+DTSTAMP:20260730T133823Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260930
+SUMMARY:Spend Summer on the Rooftop at Seabird
+DESCRIPTION:Mediterranean vibes arrive for lazy lunches and golden hour c
+ ocktails. DJs play throughout the summer season.\nPrice: Check site\nhtt
+ ps://londontheinside.com/whats-on-this-week/
+LOCATION:Seabird rooftop\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7497170a24024bcab4c32f6ade316c70-occ_226c56818d694c23996ded096ee
  e79d7@thingstodoinyourcity
 DTSTAMP:20260730T132637Z
@@ -134,6 +147,17 @@ LOCATION:Sewing Machine Museum\, Tooting\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1b0523857cd04fe4a2f1f749ed3519d5-occ_a7e38f17b8b84654b1ae481e8bf
+ d4471@thingstodoinyourcity
+DTSTAMP:20260730T140410Z
+DTSTART:20260801T133000Z
+SUMMARY:Saturday Stand Up Comedy Afternoon Show
+DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
+ s-listings/
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_667b5703f53a4e678d7cd5786845b12d-occ_71927581bed4415ba9ba155cd98
  efc06@thingstodoinyourcity
 DTSTAMP:20260730T101624Z
@@ -213,6 +237,17 @@ LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b981ef7b0f924d649772e18268023293-occ_95cf2bd58c8245ae90fad0acb6e
+ a8fe7@thingstodoinyourcity
+DTSTAMP:20260730T141223Z
+DTSTART:20260802T133000Z
+SUMMARY:Ollie Horn & Friends (New Material)
+DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
+ s-listings/
+LOCATION:170 Drury Lane (ground floor)\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_87d593f588174cc785ac5d83ae137d88-occ_a2c1fdc5b0cb47648adc0b366aa
  1ac4e@thingstodoinyourcity
 DTSTAMP:20260730T102715Z
@@ -237,59 +272,5 @@ DESCRIPTION:Over four nights\, fireworks displays will be held on the Tha
 LOCATION:Old Royal Naval College\, Old Royal Naval College\, Greenwich\, 
  Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_372e0d54d23d4c3695a6674fe8ec4c32-occ_88d8063d7989417fa6dbb80a7b8
- 2d8d9@thingstodoinyourcity
-DTSTAMP:20260730T125112Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260808
-SUMMARY:Cocktails in the City
-DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
-LOCATION:West End\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_163cf71875514a76ab501957c8f7d70b-occ_4a8a2737e8064ea1b7c5f71e511
- 29691@thingstodoinyourcity
-DTSTAMP:20260730T124916Z
-DTSTART:20260817T180000Z
-DTEND:20260817T200000Z
-SUMMARY:Big Fat Quizbox Shoreditch
-DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
-LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9a8b13fafe3546129a3711998b22667e-occ_0294276552d148738fdb40d25a5
- fb997@thingstodoinyourcity
-DTSTAMP:20260730T125852Z
-DTSTART:20260819T173000Z
-SUMMARY:Queer Britain & Sounds Queer with Kimmy Beatbox
-DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
-LOCATION:King's Cross\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_24172f4339404196b40c7e2b32732707-occ_8b6322ae30054f138265fa2559d
- 3c124@thingstodoinyourcity
-DTSTAMP:20260730T124953Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260827
-SUMMARY:All Points East & In The NBHD
-DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
-LOCATION:Victoria Park\, Bethnal Green\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_295c3f3d4aee4c5d8784779b03d6878b-occ_dc81c7cca3814962a0029f8d09c
- da7c3@thingstodoinyourcity
-DTSTAMP:20260730T125033Z
-DTSTART:20260822T090000Z
-DTEND:20260823T160000Z
-SUMMARY:Hackney Flea Market
-DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
-LOCATION:Market\, Stoke Newington\, London
-URL:https://londoncheapo.com/events/
 END:VEVENT
 END:VCALENDAR
