@@ -8,6 +8,18 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_7497170a24024bcab4c32f6ade316c70-occ_226c56818d694c23996ded096ee
+ e79d7@thingstodoinyourcity
+DTSTAMP:20260730T132637Z
+DTSTART:20260730T070000Z
+DTEND:20260730T160000Z
+SUMMARY:Antiques Market
+DESCRIPTION:Specialists and dealers bring vintage stock. The market runs 
+ weekly.\nPrice: Check site\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:Old Spitalfields Market\, Spitalfields\, London
+URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5a916879a11f4b1a9f1a49f58449abc9-occ_a70451232bb14343b6ebe9e7e8a
  3cb17@thingstodoinyourcity
 DTSTAMP:20260730T101956Z
@@ -44,6 +56,71 @@ LOCATION:The Comedy Store London\, West End (Piccadilly Circus / Leiceste
 URL:https://london.thecomedystore.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_eb95f45e1ec04a999feeed788c2de474-occ_6b70db6d4fb04869b05c2a3b791
+ efa41@thingstodoinyourcity
+DTSTAMP:20260730T114152Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260823
+SUMMARY:The Little Mermaid: Song of the Sea
+DESCRIPTION:Price: Check site\nhttps://greenwichtheatre.org.uk/whats-on/
+LOCATION:Greenwich Theatre\, Greenwich\, south-east London\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eb95f45e1ec04a999feeed788c2de474-occ_d72c8c4305c44d808748bf2378f
+ 4a209@thingstodoinyourcity
+DTSTAMP:20260730T114152Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260823
+SUMMARY:The Little Mermaid: Song of the Sea
+DESCRIPTION:Price: Check site\nhttps://greenwichtheatre.org.uk/whats-on/
+LOCATION:Greenwich Theatre\, Greenwich\, south-east London\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4efd5aa6b3544d1e81dda9e444d6a5aa-occ_67dfb4a4bea34fd085db790f000
+ afd18@thingstodoinyourcity
+DTSTAMP:20260730T132805Z
+DTSTART:20260731T160000Z
+DTEND:20260731T180000Z
+SUMMARY:Spital Beats - Live Music Summer Fridays
+DESCRIPTION:Price: Check site\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:market floor\, Spitalfields\, London
+URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c5f29b6aa7d4348a11f0725278e2961-occ_6f1fc61213a54a7f9e6c5251416
+ 11853@thingstodoinyourcity
+DTSTAMP:20260730T125822Z
+DTSTART:20260731T210000Z
+DTEND:20260801T000000Z
+SUMMARY:Silent Disco at the Natural History Museum
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:Natural History Museum\, South Kensington\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f5b6f0485b04157a9bb4db6035d8ec9-occ_760925a210274b6d9d76bfd3b80
+ 762bd@thingstodoinyourcity
+DTSTAMP:20260730T113215Z
+DTSTART;VALUE=DATE:20260801
+SUMMARY:House Of Silk - Summer House Party
+DESCRIPTION:Price: Check site\nhttps://e1ldn.co/events
+LOCATION:House\, Wapping / East London\, London
+URL:https://e1ldn.co/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_86cc8e9d468a4d2b882a7bc584a8d5ca-occ_a1fd25fe166f44c0bf39afaa9eb
+ 23969@thingstodoinyourcity
+DTSTAMP:20260730T125748Z
+DTSTART:20260801T090000Z
+DTEND:20260801T153000Z
+SUMMARY:The Kensington Botanical Market
+DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
+LOCATION:The Kensington Botanical Market\, Kensington\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_80798bd3ec6540a480ae8c0a437b3482-occ_c26da1eaead347a690ca07b3956
  99d61@thingstodoinyourcity
 DTSTAMP:20260730T100522Z
@@ -66,6 +143,20 @@ SUMMARY:HUSH: Steve Gunn\, anaiis\, Loula Yorke\, Ghuraba
 DESCRIPTION:Price: Check site\nhttps://earthackney.co.uk/events/
 LOCATION:EartH Hackney\, Dalston / Hackney\, London
 URL:https://earthackney.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6af5682460664463ac986455bcad56e6-occ_69aff8a7d1db4c8f87e55321ae0
+ 62886@thingstodoinyourcity
+DTSTAMP:20260730T112449Z
+DTSTART:20260802T090000Z
+DTEND:20260802T150000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:A vibrant monthly market features arts\, crafts\, and homewar
+ e. Visitors find much more at this event.\nPrice: Check site\nhttps://ch
+ iswickhouseandgardens.org.uk/whats-on/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
+ \, London
+URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_109122286dcc4d36af8ebf8b6049311c-occ_5eddaa00fea64fc79c51d542740
@@ -108,6 +199,20 @@ LOCATION:Shirley Windmill\, Shirley Windmill\, Croydon\, Croydon\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_16c7ad44c42f4015975738dbb3163375-occ_1d0ed2268fd84cec884beab25d0
+ aa1ef@thingstodoinyourcity
+DTSTAMP:20260730T112410Z
+DTSTART:20260802T130000Z
+DTEND;VALUE=DATE:20260802
+SUMMARY:The Tale of Peter Rabbit
+DESCRIPTION:Peter and Benjamin embark on hair-raising adventures. This en
+ chanting adaptation is a family treat.\nPrice: Check site\nhttps://chisw
+ ickhouseandgardens.org.uk/whats-on/
+LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
+ \, London
+URL:https://chiswickhouseandgardens.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_87d593f588174cc785ac5d83ae137d88-occ_a2c1fdc5b0cb47648adc0b366aa
  1ac4e@thingstodoinyourcity
 DTSTAMP:20260730T102715Z
@@ -132,5 +237,59 @@ DESCRIPTION:Over four nights\, fireworks displays will be held on the Tha
 LOCATION:Old Royal Naval College\, Old Royal Naval College\, Greenwich\, 
  Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_372e0d54d23d4c3695a6674fe8ec4c32-occ_88d8063d7989417fa6dbb80a7b8
+ 2d8d9@thingstodoinyourcity
+DTSTAMP:20260730T125112Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260808
+SUMMARY:Cocktails in the City
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:West End\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_163cf71875514a76ab501957c8f7d70b-occ_4a8a2737e8064ea1b7c5f71e511
+ 29691@thingstodoinyourcity
+DTSTAMP:20260730T124916Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Big Fat Quizbox Shoreditch
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a8b13fafe3546129a3711998b22667e-occ_0294276552d148738fdb40d25a5
+ fb997@thingstodoinyourcity
+DTSTAMP:20260730T125852Z
+DTSTART:20260819T173000Z
+SUMMARY:Queer Britain & Sounds Queer with Kimmy Beatbox
+DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
+LOCATION:King's Cross\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_24172f4339404196b40c7e2b32732707-occ_8b6322ae30054f138265fa2559d
+ 3c124@thingstodoinyourcity
+DTSTAMP:20260730T124953Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260827
+SUMMARY:All Points East & In The NBHD
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:Victoria Park\, Bethnal Green\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_295c3f3d4aee4c5d8784779b03d6878b-occ_dc81c7cca3814962a0029f8d09c
+ da7c3@thingstodoinyourcity
+DTSTAMP:20260730T125033Z
+DTSTART:20260822T090000Z
+DTEND:20260823T160000Z
+SUMMARY:Hackney Flea Market
+DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
+LOCATION:Market\, Stoke Newington\, London
+URL:https://londoncheapo.com/events/
 END:VEVENT
 END:VCALENDAR
