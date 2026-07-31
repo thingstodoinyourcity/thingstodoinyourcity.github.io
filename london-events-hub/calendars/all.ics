@@ -21,18 +21,6 @@ LOCATION:Seabird rooftop\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7497170a24024bcab4c32f6ade316c70-occ_226c56818d694c23996ded096ee
- e79d7@thingstodoinyourcity
-DTSTAMP:20260730T132637Z
-DTSTART:20260730T070000Z
-DTEND:20260730T160000Z
-SUMMARY:Antiques Market
-DESCRIPTION:Specialists and dealers bring vintage stock. The market runs 
- weekly.\nPrice: Check site\nhttps://oldspitalfieldsmarket.com/events
-LOCATION:Old Spitalfields Market\, Spitalfields\, London
-URL:https://oldspitalfieldsmarket.com/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5a916879a11f4b1a9f1a49f58449abc9-occ_a70451232bb14343b6ebe9e7e8a
  3cb17@thingstodoinyourcity
 DTSTAMP:20260730T101956Z
@@ -272,5 +260,37 @@ DESCRIPTION:Over four nights\, fireworks displays will be held on the Tha
 LOCATION:Old Royal Naval College\, Old Royal Naval College\, Greenwich\, 
  Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_372e0d54d23d4c3695a6674fe8ec4c32-occ_88d8063d7989417fa6dbb80a7b8
+ 2d8d9@thingstodoinyourcity
+DTSTAMP:20260730T125112Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260808
+SUMMARY:Cocktails in the City
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:West End\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_163cf71875514a76ab501957c8f7d70b-occ_4a8a2737e8064ea1b7c5f71e511
+ 29691@thingstodoinyourcity
+DTSTAMP:20260730T124916Z
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+SUMMARY:Big Fat Quizbox Shoreditch
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:BOXPARK Shoreditch\, Shoreditch\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a8b13fafe3546129a3711998b22667e-occ_0294276552d148738fdb40d25a5
+ fb997@thingstodoinyourcity
+DTSTAMP:20260730T125852Z
+DTSTART:20260819T173000Z
+SUMMARY:Queer Britain & Sounds Queer with Kimmy Beatbox
+DESCRIPTION:Price: Free\nhttps://londoncheapo.com/events/
+LOCATION:King's Cross\, London
+URL:https://londoncheapo.com/events/
 END:VEVENT
 END:VCALENDAR
