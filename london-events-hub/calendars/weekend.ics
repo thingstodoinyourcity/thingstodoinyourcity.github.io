@@ -21,18 +21,6 @@ LOCATION:Seabird rooftop\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5a916879a11f4b1a9f1a49f58449abc9-occ_f739bacf844142dea889caf0fb2
- 74958@thingstodoinyourcity
-DTSTAMP:20260730T101956Z
-DTSTART:20260801T173000Z
-SUMMARY:5 World-Class Stand Up Comedians
-DESCRIPTION:Price: Check site\nhttps://london.thecomedystore.co.uk/whats-
- on
-LOCATION:The Comedy Store London\, West End (Piccadilly Circus / Leiceste
- r Square)\, London
-URL:https://london.thecomedystore.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_eb95f45e1ec04a999feeed788c2de474-occ_6b70db6d4fb04869b05c2a3b791
  efa41@thingstodoinyourcity
 DTSTAMP:20260730T114152Z
@@ -53,28 +41,6 @@ SUMMARY:The Little Mermaid: Song of the Sea
 DESCRIPTION:Price: Check site\nhttps://greenwichtheatre.org.uk/whats-on/
 LOCATION:Greenwich Theatre\, Greenwich\, south-east London\, London
 URL:https://greenwichtheatre.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4efd5aa6b3544d1e81dda9e444d6a5aa-occ_67dfb4a4bea34fd085db790f000
- afd18@thingstodoinyourcity
-DTSTAMP:20260730T132805Z
-DTSTART:20260731T160000Z
-DTEND:20260731T180000Z
-SUMMARY:Spital Beats - Live Music Summer Fridays
-DESCRIPTION:Price: Check site\nhttps://oldspitalfieldsmarket.com/events
-LOCATION:market floor\, Spitalfields\, London
-URL:https://oldspitalfieldsmarket.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5c5f29b6aa7d4348a11f0725278e2961-occ_6f1fc61213a54a7f9e6c5251416
- 11853@thingstodoinyourcity
-DTSTAMP:20260730T125822Z
-DTSTART:20260731T210000Z
-DTEND:20260801T000000Z
-SUMMARY:Silent Disco at the Natural History Museum
-DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
-LOCATION:Natural History Museum\, South Kensington\, London
-URL:https://londoncheapo.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8f5b6f0485b04157a9bb4db6035d8ec9-occ_760925a210274b6d9d76bfd3b80
@@ -120,6 +86,18 @@ DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
  s-listings/
 LOCATION:170 Drury Lane\, Covent Garden\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a916879a11f4b1a9f1a49f58449abc9-occ_f739bacf844142dea889caf0fb2
+ 74958@thingstodoinyourcity
+DTSTAMP:20260730T101956Z
+DTSTART:20260801T173000Z
+SUMMARY:5 World-Class Stand Up Comedians
+DESCRIPTION:Price: Check site\nhttps://london.thecomedystore.co.uk/whats-
+ on
+LOCATION:The Comedy Store London\, West End (Piccadilly Circus / Leiceste
+ r Square)\, London
+URL:https://london.thecomedystore.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_667b5703f53a4e678d7cd5786845b12d-occ_71927581bed4415ba9ba155cd98
