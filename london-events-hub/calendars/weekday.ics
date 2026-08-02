@@ -8,17 +8,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:cand_3eebb7b834744185942603d6a545caef-occ_9606ef80136845c9b9ec2b1d76c
- bb5b2@thingstodoinyourcity
-DTSTAMP:20260802T113058Z
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260804
-SUMMARY:The Singalong Songbook
-DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
-LOCATION:Stockton Globe\, West Street / Covent Garden\, London
-URL:https://www.atgtickets.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_08ebabea17244622bdb2b33d1f63690b-occ_e15b60abe19c45668cbd7a90cf2
  f8cd7@thingstodoinyourcity
 DTSTAMP:20260802T093220Z
