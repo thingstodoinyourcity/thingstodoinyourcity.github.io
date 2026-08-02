@@ -8,12 +8,73 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_6774fcc6813e495daf02c6bf22676375-occ_67c801dedac54a57aa9110627f9
+ d039e@thingstodoinyourcity
+DTSTAMP:20260802T125121Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260919
+SUMMARY:Secret Cinema Is Returning to London This Summer
+DESCRIPTION:An immersive movie musical returns in 2026. The experience is
+  Grease.\nPrice: Free\nhttps://londontheinside.com/whats-on-this-week/
+LOCATION:Evolution in Battersea Park\, Battersea\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_29ff9e500667457abf02e37a8bfd9af3-occ_c50a760998394f568a3d2e1ee4d
+ 64f45@thingstodoinyourcity
+DTSTAMP:20260802T104532Z
+DTSTART;VALUE=DATE:20260802
+DTEND:20260802T150000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:The market features arts\, crafts and homeware. Stalls sell p
+ roducts made or sourced locally\, ethically and sustainably.\nPrice: Che
+ ck site\nhttps://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+LOCATION:Chiswick House Forecourt\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_29ff9e500667457abf02e37a8bfd9af3-occ_7d5a228b8a7549b2991e789e8c5
+ b0e84@thingstodoinyourcity
+DTSTAMP:20260802T104532Z
+DTSTART:20260802T090000Z
+DTEND:20260802T030000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:The market features arts\, crafts and homeware. Stalls sell p
+ roducts made or sourced locally\, ethically and sustainably.\nPrice: Che
+ ck site\nhttps://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+LOCATION:Chiswick House Forecourt\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_275173661227425f94cef520357e7ccf-occ_1bfe853e46f14982b4b11029cd1
+ 9d7c3@thingstodoinyourcity
+DTSTAMP:20260802T104326Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama
+DESCRIPTION:Price: Check site\nhttps://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, City of Westminster\, London
+URL:https://www.somersethouse.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_19318a925f504278bcac5c0ec70132b3-occ_6d17750a9a244da58a5895ed5f9
  21486@thingstodoinyourcity
 DTSTAMP:20260802T101421Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Laughterama: Ed Gamble & Tim Key
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Somerset House\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_237abf7599934d7db1c9e66dc7ac1305-occ_5d31145b95e14d1d8a6f63174ed
+ c2b1f@thingstodoinyourcity
+DTSTAMP:20260802T103453Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama: Tom Allen & Lou Sanders
 DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
  dy
 LOCATION:Somerset House\, London
@@ -29,6 +90,17 @@ DESCRIPTION:This event marks a second year. It features a battle of the s
  teelbands.\nPrice: Check site\nhttps://www.artsdepot.co.uk/whats-on
 LOCATION:Pentland Theatre\, North Finchley (Barnet)\, London
 URL:https://www.artsdepot.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3eebb7b834744185942603d6a545caef-occ_9606ef80136845c9b9ec2b1d76c
+ bb5b2@thingstodoinyourcity
+DTSTAMP:20260802T113058Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+SUMMARY:The Singalong Songbook
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Stockton Globe\, West Street / Covent Garden\, London
+URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_08ebabea17244622bdb2b33d1f63690b-occ_e15b60abe19c45668cbd7a90cf2
@@ -63,6 +135,28 @@ DESCRIPTION:Entry requires a booking fee. Contributions are collected aft
  er the show to share with the comedians.\nPrice: Check site\nhttps://the
  topsecretcomedyclub.co.uk/events-listings/
 LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_460a88a25cfc4491b297d62192178da2-occ_881455a05145458caa5b4cfccf0
+ cb8d2@thingstodoinyourcity
+DTSTAMP:20260802T114124Z
+DTSTART;VALUE=DATE:20260806
+SUMMARY:AFTERS
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34bcf3337b2d4b12b2cb23a2194613a0-occ_f37b881a21134e56a8b5bdb8a8d
+ c0136@thingstodoinyourcity
+DTSTAMP:20260802T105916Z
+DTSTART:20260806T173000Z
+SUMMARY:Thursday Stand-up Comedy Show
+DESCRIPTION:The ticket price is a booking fee for entry. Contributions wi
+ ll be collected after the show.\nPrice: Check site\nhttps://thetopsecret
+ comedyclub.co.uk/events-listings/
+LOCATION:23 Kingsway\, Covent Garden\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 END:VCALENDAR
