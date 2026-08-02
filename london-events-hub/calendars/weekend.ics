@@ -8,12 +8,73 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_6774fcc6813e495daf02c6bf22676375-occ_67c801dedac54a57aa9110627f9
+ d039e@thingstodoinyourcity
+DTSTAMP:20260802T125121Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260919
+SUMMARY:Secret Cinema Is Returning to London This Summer
+DESCRIPTION:An immersive movie musical returns in 2026. The experience is
+  Grease.\nPrice: Free\nhttps://londontheinside.com/whats-on-this-week/
+LOCATION:Evolution in Battersea Park\, Battersea\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_29ff9e500667457abf02e37a8bfd9af3-occ_c50a760998394f568a3d2e1ee4d
+ 64f45@thingstodoinyourcity
+DTSTAMP:20260802T104532Z
+DTSTART;VALUE=DATE:20260802
+DTEND:20260802T150000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:The market features arts\, crafts and homeware. Stalls sell p
+ roducts made or sourced locally\, ethically and sustainably.\nPrice: Che
+ ck site\nhttps://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+LOCATION:Chiswick House Forecourt\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_29ff9e500667457abf02e37a8bfd9af3-occ_7d5a228b8a7549b2991e789e8c5
+ b0e84@thingstodoinyourcity
+DTSTAMP:20260802T104532Z
+DTSTART:20260802T090000Z
+DTEND:20260802T030000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:The market features arts\, crafts and homeware. Stalls sell p
+ roducts made or sourced locally\, ethically and sustainably.\nPrice: Che
+ ck site\nhttps://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+LOCATION:Chiswick House Forecourt\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_275173661227425f94cef520357e7ccf-occ_1bfe853e46f14982b4b11029cd1
+ 9d7c3@thingstodoinyourcity
+DTSTAMP:20260802T104326Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama
+DESCRIPTION:Price: Check site\nhttps://www.somersethouse.org.uk/whats-on
+LOCATION:Somerset House\, Strand\, City of Westminster\, London
+URL:https://www.somersethouse.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_19318a925f504278bcac5c0ec70132b3-occ_6d17750a9a244da58a5895ed5f9
  21486@thingstodoinyourcity
 DTSTAMP:20260802T101421Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
 SUMMARY:Laughterama: Ed Gamble & Tim Key
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Somerset House\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_237abf7599934d7db1c9e66dc7ac1305-occ_5d31145b95e14d1d8a6f63174ed
+ c2b1f@thingstodoinyourcity
+DTSTAMP:20260802T103453Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama: Tom Allen & Lou Sanders
 DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
  dy
 LOCATION:Somerset House\, London
