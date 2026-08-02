@@ -7,4 +7,62 @@ X-WR-CALNAME:London Events — All
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_19318a925f504278bcac5c0ec70132b3-occ_6d17750a9a244da58a5895ed5f9
+ 21486@thingstodoinyourcity
+DTSTAMP:20260802T101421Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama: Ed Gamble & Tim Key
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Somerset House\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a2caff32a10496697a814654c033271-occ_0d98224831ac492f884f5e005f0
+ 64f66@thingstodoinyourcity
+DTSTAMP:20260802T102028Z
+DTSTART:20260802T130000Z
+SUMMARY:UK Small Band Panorama – Battle of the Steelbands
+DESCRIPTION:This event marks a second year. It features a battle of the s
+ teelbands.\nPrice: Check site\nhttps://www.artsdepot.co.uk/whats-on
+LOCATION:Pentland Theatre\, North Finchley (Barnet)\, London
+URL:https://www.artsdepot.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_08ebabea17244622bdb2b33d1f63690b-occ_e15b60abe19c45668cbd7a90cf2
+ f8cd7@thingstodoinyourcity
+DTSTAMP:20260802T093220Z
+DTSTART:20260805T090000Z
+DTEND:20260805T170000Z
+SUMMARY:The summer LEGO project
+DESCRIPTION:Price: Free\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:Old Spitalfields Market\, Spitalfields\, London
+URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21de15cbd7e14752be9fee96135be508-occ_fad3f4c752ed422ea47e43a5254
+ 7da4c@thingstodoinyourcity
+DTSTAMP:20260802T102630Z
+DTSTART:20260805T173000Z
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Entry requires a booking fee. Contributions are collected aft
+ er the show to share with the comedians.\nPrice: Check site\nhttps://the
+ topsecretcomedyclub.co.uk/events-listings/
+LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21de15cbd7e14752be9fee96135be508-occ_742f58a0e9d44c078492889eae8
+ 47ed9@thingstodoinyourcity
+DTSTAMP:20260802T102630Z
+DTSTART:20260805T180000Z
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Entry requires a booking fee. Contributions are collected aft
+ er the show to share with the comedians.\nPrice: Check site\nhttps://the
+ topsecretcomedyclub.co.uk/events-listings/
+LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
 END:VCALENDAR
