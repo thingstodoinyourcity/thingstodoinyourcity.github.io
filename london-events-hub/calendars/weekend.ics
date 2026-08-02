@@ -7,4 +7,27 @@ X-WR-CALNAME:London Events — Weekend
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_19318a925f504278bcac5c0ec70132b3-occ_6d17750a9a244da58a5895ed5f9
+ 21486@thingstodoinyourcity
+DTSTAMP:20260802T101421Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+SUMMARY:Laughterama: Ed Gamble & Tim Key
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Somerset House\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a2caff32a10496697a814654c033271-occ_0d98224831ac492f884f5e005f0
+ 64f66@thingstodoinyourcity
+DTSTAMP:20260802T102028Z
+DTSTART:20260802T130000Z
+SUMMARY:UK Small Band Panorama – Battle of the Steelbands
+DESCRIPTION:This event marks a second year. It features a battle of the s
+ teelbands.\nPrice: Check site\nhttps://www.artsdepot.co.uk/whats-on
+LOCATION:Pentland Theatre\, North Finchley (Barnet)\, London
+URL:https://www.artsdepot.co.uk/whats-on
+END:VEVENT
 END:VCALENDAR
