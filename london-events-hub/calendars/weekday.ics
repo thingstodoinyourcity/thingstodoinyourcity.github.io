@@ -7,4 +7,39 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_08ebabea17244622bdb2b33d1f63690b-occ_e15b60abe19c45668cbd7a90cf2
+ f8cd7@thingstodoinyourcity
+DTSTAMP:20260802T093220Z
+DTSTART:20260805T090000Z
+DTEND:20260805T170000Z
+SUMMARY:The summer LEGO project
+DESCRIPTION:Price: Free\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:Old Spitalfields Market\, Spitalfields\, London
+URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21de15cbd7e14752be9fee96135be508-occ_fad3f4c752ed422ea47e43a5254
+ 7da4c@thingstodoinyourcity
+DTSTAMP:20260802T102630Z
+DTSTART:20260805T173000Z
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Entry requires a booking fee. Contributions are collected aft
+ er the show to share with the comedians.\nPrice: Check site\nhttps://the
+ topsecretcomedyclub.co.uk/events-listings/
+LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21de15cbd7e14752be9fee96135be508-occ_742f58a0e9d44c078492889eae8
+ 47ed9@thingstodoinyourcity
+DTSTAMP:20260802T102630Z
+DTSTART:20260805T180000Z
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Entry requires a booking fee. Contributions are collected aft
+ er the show to share with the comedians.\nPrice: Check site\nhttps://the
+ topsecretcomedyclub.co.uk/events-listings/
+LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
 END:VCALENDAR
