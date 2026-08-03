@@ -29,4 +29,15 @@ DESCRIPTION:Price: Check site\nhttps://www.whatsonstage.com/
 LOCATION:London
 URL:https://www.whatsonstage.com/
 END:VEVENT
+BEGIN:VEVENT
+UID:cand_4073cb7d6d144d87af20451038334ac7-occ_2b371cc7f33c43188b42ec5081b
+ 00cd7@thingstodoinyourcity
+DTSTAMP:20260802T113326Z
+DTSTART:20260827T191500Z
+DTEND:20260827T201500Z
+SUMMARY:The Jazz Room: Frank Sinatra & Louis Armstrong Tribute
+DESCRIPTION:Price: Check site\nhttps://londoncheapo.com/events/
+LOCATION:Soho\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
 END:VCALENDAR
