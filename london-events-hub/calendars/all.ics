@@ -8,6 +8,18 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_cdd59b16b9b34d8caf15e8119b11ad0b-occ_46a96477af4b4599aee048d7f23
+ 08dbb@thingstodoinyourcity
+DTSTAMP:20260803T063938Z
+DTSTART:20260803T113000Z
+SUMMARY:12 Angry Men
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  Leicester Square / West End\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0f4887965ea64b38980410470f3e7542-occ_93b273e3884941398d4c775649f
  39cf9@thingstodoinyourcity
 DTSTAMP:20260803T013820Z
@@ -29,6 +41,50 @@ DESCRIPTION:This August\, the end goal becomes the destination. The pinna
  ndon/tickets
 LOCATION:FOLD\, Canning Town\, London
 URL:https://www.fold.london/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd1255043a7444b6a5e380a2c3848430-occ_e63dbc01c8974e118e4433f0003
+ 05c81@thingstodoinyourcity
+DTSTAMP:20260803T044934Z
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Bougie Drag Bottomless Brunch London
+DESCRIPTION:Price: Check site\nhttps://bougie-drag-events.designmynight.c
+ om/
+LOCATION:Vauxhall Arches / The Garden\, Vauxhall\, London
+URL:https://bougie-drag-events.designmynight.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd1255043a7444b6a5e380a2c3848430-occ_4a911a90e0864c59a093bd77f9d
+ 86113@thingstodoinyourcity
+DTSTAMP:20260803T044934Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Bougie Drag Bottomless Brunch London
+DESCRIPTION:Price: Check site\nhttps://bougie-drag-events.designmynight.c
+ om/
+LOCATION:Vauxhall Arches / The Garden\, Vauxhall\, London
+URL:https://bougie-drag-events.designmynight.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd1255043a7444b6a5e380a2c3848430-occ_1fcdcfd2c7eb48b28de8a775e50
+ b2f86@thingstodoinyourcity
+DTSTAMP:20260803T044934Z
+DTSTART;VALUE=DATE:20260912
+SUMMARY:Bougie Drag Bottomless Brunch London
+DESCRIPTION:Price: Check site\nhttps://bougie-drag-events.designmynight.c
+ om/
+LOCATION:Vauxhall Arches / The Garden\, Vauxhall\, London
+URL:https://bougie-drag-events.designmynight.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd1255043a7444b6a5e380a2c3848430-occ_2c388da8ed2f4432887ef1804c4
+ 7b679@thingstodoinyourcity
+DTSTAMP:20260803T044934Z
+DTSTART;VALUE=DATE:20261212
+SUMMARY:Bougie Drag Bottomless Brunch London
+DESCRIPTION:Price: Check site\nhttps://bougie-drag-events.designmynight.c
+ om/
+LOCATION:Vauxhall Arches / The Garden\, Vauxhall\, London
+URL:https://bougie-drag-events.designmynight.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7f8013861bad4acf974515b65adbecd5-occ_5ee49100f71b4b85bedf18c26ce
