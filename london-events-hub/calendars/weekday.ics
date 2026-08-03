@@ -8,6 +8,18 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_cdd59b16b9b34d8caf15e8119b11ad0b-occ_46a96477af4b4599aee048d7f23
+ 08dbb@thingstodoinyourcity
+DTSTAMP:20260803T063938Z
+DTSTART:20260803T113000Z
+SUMMARY:12 Angry Men
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  Leicester Square / West End\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0f4887965ea64b38980410470f3e7542-occ_93b273e3884941398d4c775649f
  39cf9@thingstodoinyourcity
 DTSTAMP:20260803T013820Z
