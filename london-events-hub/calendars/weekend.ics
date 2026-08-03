@@ -8,15 +8,27 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_0e3b797d51b74b6c8d0821abc8da7309-occ_d0e2311e69ba4fd4b77ea021a0b
+ 67554@thingstodoinyourcity
+DTSTAMP:20260803T093311Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20270515
+SUMMARY:Burlesque The Musical
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Tour\, 12 Venues for Burlesque The Musical\, West Street / Coven
+ t Garden\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8505125c945e48b88e2c99d6da8fc0a5-occ_8d823f225e7f41d1bbe369a59a1
  242b9@thingstodoinyourcity
-DTSTAMP:20260803T024212Z
+DTSTAMP:20260803T093745Z
 DTSTART:20260807T225900Z
 DTEND:20260808T070000Z
 SUMMARY:FOLD presents KEY VINYL (Extended)
-DESCRIPTION:This August\, the end goal becomes the destination. The pinna
- cle of sultry\, hypnotic techno.\nPrice: Check site\nhttps://www.fold.lo
- ndon/tickets
+DESCRIPTION:The workshop draws on three decades of careful craft. It expl
+ ores hypnotic techno through vinyl.\nPrice: Check site\nhttps://www.fold
+ .london/tickets
 LOCATION:FOLD\, Canning Town\, London
 URL:https://www.fold.london/tickets
 END:VEVENT
@@ -67,13 +79,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7f8013861bad4acf974515b65adbecd5-occ_5ee49100f71b4b85bedf18c26ce
  901c1@thingstodoinyourcity
-DTSTAMP:20260803T030506Z
+DTSTAMP:20260803T093746Z
 DTSTART:20260822T225900Z
 DTEND:20260823T110000Z
 SUMMARY:FOLD presents Ute.rec (EXTENDED)
-DESCRIPTION:The collective brings progressive psychedelia and ethereal te
- chno. Its sound emerged from Norway’s wilderness.\nPrice: Check site\n
- https://www.fold.london/tickets
+DESCRIPTION:Progressive psychedelia and ethereal techno reach the dance f
+ loor. The collective developed a new sound in Norway’s wilderness.\nPr
+ ice: Check site\nhttps://www.fold.london/tickets
 LOCATION:FOLD\, Canning Town\, London
 URL:https://www.fold.london/tickets
 END:VEVENT
