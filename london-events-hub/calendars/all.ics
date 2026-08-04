@@ -664,6 +664,19 @@ LOCATION:Below Stone Nest\, London\, UK\, London
 URL:https://www.songkick.com/metro-areas/24426-uk-london/2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_807e94a4129042f2a7070ed5f0d82bc8-occ_d6ef77b601ab45d6884c1376738
+ 4bb88@thingstodoinyourcity
+DTSTAMP:20260804T044214Z
+DTSTART;VALUE=DATE:20260804
+SUMMARY:Richard Turner Life and Music Celebration
+DESCRIPTION:The event honours a brilliant trumpeter and composer. It high
+ lights a pillar of the London Jazz community.\nPrice: Standard £15 / Vo
+ rtex Members £7.5 / Students & UC beneficiaries £6.25 (All Ticket Sale
+ s Will Be Donated to Mind)\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Downstairs\, Dalston\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9ef77b22d352497ebff81eb3b2199382-occ_03f679b687e24bbdbd1f990460f
  61679@thingstodoinyourcity
 DTSTAMP:20260803T210933Z
@@ -748,12 +761,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2cbe681a2fa448ae8db53b1d2f08c4f8-occ_e3686b5e3b464faaa38a745320a
  7e6dd@thingstodoinyourcity
-DTSTAMP:20260803T213617Z
+DTSTAMP:20260804T054521Z
 DTSTART;VALUE=DATE:20260804
 SUMMARY:Tuesday Stand up Comedy Show
-DESCRIPTION:The booking fee covers entry. Contributions are collected aft
- er the show to share with the comedians.\nPrice: £1\; concessions free\
- nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+DESCRIPTION:The ticket price is a booking fee for entry. Contributions ar
+ e collected after the show to share with the comedians.\nPrice: £1\; co
+ ncessions FREE\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
 LOCATION:Top Secret Comedy Club\, 23 Kingsway\, Covent Garden\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
@@ -1101,16 +1114,29 @@ LOCATION:The Lexington\, London\, UK\, London
 URL:https://www.songkick.com/metro-areas/24426-uk-london/2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a08f6871763240c2a57f2dd463fbf894-occ_8fdd285904ec4243a27a0a22ea9
- 3c419@thingstodoinyourcity
-DTSTAMP:20260803T213854Z
+UID:cand_a08f6871763240c2a57f2dd463fbf894-occ_0b401d8641164fcf8ff360c8f5d
+ 610bf@thingstodoinyourcity
+DTSTAMP:20260804T054605Z
 DTSTART;VALUE=DATE:20260805
 SUMMARY:Tim Renkow: Work In Progress
-DESCRIPTION:The ticket price is a booking fee for entry. Contributions wi
- ll be collected after the show to share with the comedians.\nPrice: £1\
- nhttps://thetopsecretcomedyclub.co.uk/events-listings/
-LOCATION:Top Secret Comedy Club\, 170 Drury Lane (ground floor)\, Covent 
- Garden\, London
+DESCRIPTION:Entry is covered by a booking fee. Contributions are collecte
+ d after the show to share with the comedians.\nPrice: £1\nhttps://theto
+ psecretcomedyclub.co.uk/events-listings/
+LOCATION:ground floor\, 170 Drury Lane (ground floor)\, Covent Garden\, L
+ ondon
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a08f6871763240c2a57f2dd463fbf894-occ_8fdd285904ec4243a27a0a22ea9
+ 3c419@thingstodoinyourcity
+DTSTAMP:20260804T054605Z
+DTSTART;VALUE=DATE:20260805
+SUMMARY:Tim Renkow: Work In Progress
+DESCRIPTION:Entry is covered by a booking fee. Contributions are collecte
+ d after the show to share with the comedians.\nPrice: £1\nhttps://theto
+ psecretcomedyclub.co.uk/events-listings/
+LOCATION:ground floor\, 170 Drury Lane (ground floor)\, Covent Garden\, L
+ ondon
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
@@ -1745,6 +1771,18 @@ DESCRIPTION:Price: Check site\nhttps://londontheinside.com/whats-on-this-
  week/
 LOCATION:London
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a6523fb2872a4607af9ac9b18fecf018-occ_ba1e92ab802b4b8c9a32c57c690
+ be25a@thingstodoinyourcity
+DTSTAMP:20260804T045353Z
+DTSTART;VALUE=DATE:20260808
+SUMMARY:Saturday Stand Up Comedy Afternoon Show
+DESCRIPTION:The ticket price is a booking fee for entry. Contributions wi
+ ll be collected after the show.\nPrice: Check site\nhttps://thetopsecret
+ comedyclub.co.uk/events-listings/
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_37800a7224fc4aafa71499f1588820ab-occ_caebc83e3a924aa1ac1f47dc009
