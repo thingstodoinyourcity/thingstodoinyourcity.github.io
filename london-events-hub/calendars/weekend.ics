@@ -442,6 +442,28 @@ LOCATION:ST.ART Gallery\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_63be55e753094db3a8b9c5ccc1bacc16-occ_2daf02e6dd584a62999e9209183
+ adc94@thingstodoinyourcity
+DTSTAMP:20260803T211426Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260819
+SUMMARY:SideWays Play
+DESCRIPTION:Price: Check site\nhttps://www.vam.ac.uk/whatson
+LOCATION:Young V&A\, South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_98d6462ca4d14045a36509f55519c00e-occ_e85b7a346dd64eb9bedd86d4a7d
+ 36932@thingstodoinyourcity
+DTSTAMP:20260804T030506Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260819
+SUMMARY:SideWays Play gentle sessions
+DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
+LOCATION:Young V&A\, South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bc02737f4ac7402eaf12880bc6373cf6-occ_f5ba08a1ebf14640af3fdf341dd
  b105d@thingstodoinyourcity
 DTSTAMP:20260803T211428Z
@@ -466,28 +488,6 @@ DESCRIPTION:The musical\, inspired by the animated film\, based on the an
  ical/hercules-tickets
 LOCATION:Theatre Royal Drury Lane\, London
 URL:https://ianvisits.londontheatredirect.com/musical/hercules-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_63be55e753094db3a8b9c5ccc1bacc16-occ_2daf02e6dd584a62999e9209183
- adc94@thingstodoinyourcity
-DTSTAMP:20260803T211426Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260819
-SUMMARY:SideWays Play
-DESCRIPTION:Price: Check site\nhttps://www.vam.ac.uk/whatson
-LOCATION:Young V&A\, South Kensington\, London
-URL:https://www.vam.ac.uk/whatson
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_98d6462ca4d14045a36509f55519c00e-occ_e85b7a346dd64eb9bedd86d4a7d
- 36932@thingstodoinyourcity
-DTSTAMP:20260804T030506Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260819
-SUMMARY:SideWays Play gentle sessions
-DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
-LOCATION:Young V&A\, South Kensington\, London
-URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0e3b797d51b74b6c8d0821abc8da7309-occ_d0e2311e69ba4fd4b77ea021a0b
