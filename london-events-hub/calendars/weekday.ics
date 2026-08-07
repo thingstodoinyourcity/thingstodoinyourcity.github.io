@@ -8,83 +8,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:cand_c784272ff43e41e3bd57fab66e8dd61f-occ_b9e5e201207f41cbab6dc111c99
- c4de3@thingstodoinyourcity
-DTSTAMP:20260803T214749Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:Bring The Laughter
-DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
- s-listings/
-LOCATION:170 Drury Lane (basement)\, Covent Garden\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c784272ff43e41e3bd57fab66e8dd61f-occ_f3ab3f54c8d3439c84eaa3e8ab8
- 38cf4@thingstodoinyourcity
-DTSTAMP:20260803T214749Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:Bring The Laughter
-DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
- s-listings/
-LOCATION:170 Drury Lane (basement)\, Covent Garden\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_62b9edd4364447da832b5e0f748c7da1-occ_f6bfadae0f9a4b618d38c1a82e3
- fe654@thingstodoinyourcity
-DTSTAMP:20260803T225347Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:Juke Box Baby
-DESCRIPTION:Price: Free\nhttps://alberts-schloss-london.designmynight.com
- /
-LOCATION:Albert's Schloss - Soho\, Soho\, London
-URL:https://alberts-schloss-london.designmynight.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_35a9f65ac9cf44848993b3daaff2e302-occ_e7dea98670dc443ab1adf176eeb
- c8304@thingstodoinyourcity
-DTSTAMP:20260803T215348Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260806
-SUMMARY:LPL Live - Shawn and Derek Durant
-DESCRIPTION:Price: Check site\nhttps://www.londontourism.ca/events
-LOCATION:Reading Garden - Central Branch\, London Public Library\, London
-URL:https://www.londontourism.ca/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2adcf8e14c504743bba2b166ffb84257-occ_978dfb22cce247ca82055b1a354
- 184f7@thingstodoinyourcity
-DTSTAMP:20260803T212717Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:MEATBODIES
-DESCRIPTION:Price: Check site\nhttps://www.thegarage.london/live/
-LOCATION:The Garage\, Highbury & Islington\, London
-URL:https://www.thegarage.london/live/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1a8fd6b301104c91abd27a9aa77c801e-occ_417eb6c596aa4d0099cc0328de5
- 334a0@thingstodoinyourcity
-DTSTAMP:20260804T034731Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:Thursday Stand Up Comedy Show
-DESCRIPTION:Price: Check site\nhttps://thetopsecretcomedyclub.co.uk/event
- s-listings/
-LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a1da89c53ade48018e2fb39d7d631cf8-occ_3027977ba30d48c99acd2331ec5
- 40dff@thingstodoinyourcity
-DTSTAMP:20260803T205116Z
-DTSTART;VALUE=DATE:20260806
-SUMMARY:Thursday Stand up Comedy Show
-DESCRIPTION:The ticket price covers entry as a booking fee. Contributions
-  are collected after the show for the comedians.\nPrice: Check site\nhtt
- ps://thetopsecretcomedyclub.co.uk/events-listings/
-LOCATION:23 Kingsway\, Covent Garden\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_624df4d1e0d44e2191025af6eeb4a412-occ_ce6cb9ebea9f4a568b0a984169a
  14c26@thingstodoinyourcity
 DTSTAMP:20260803T225448Z
@@ -97,40 +20,6 @@ DESCRIPTION:The event serves a mix of 90s R&B\, hip-hop\, house\, and fee
 LOCATION:49 Ridley Rd\, London E8 2NP\, UK\, London\, 49 Ridley Rd\, Lond
  on E8 2NP\, UK\, London
 URL:https://www.ridleyroadmarketbar.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fcb41ba616149c78859429e464b67a9-occ_baf08b48fa3d4ebcae2277fd71a
- 1709b@thingstodoinyourcity
-DTSTAMP:20260803T225816Z
-DTSTART:20260806T170000Z
-DTEND:20260806T190000Z
-SUMMARY:Low-stim Openings: Audrey Amiss and Rudy Loewe
-DESCRIPTION:Price: Check site\nhttps://wellcomecollection.org/whats-on
-LOCATION:Gallery 2\, Euston\, London
-URL:https://wellcomecollection.org/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fcb41ba616149c78859429e464b67a9-occ_e49971f71b6c4cb8803b3b92b17
- 76f17@thingstodoinyourcity
-DTSTAMP:20260803T225816Z
-DTSTART:20261119T180000Z
-DTEND:20261119T200000Z
-SUMMARY:Low-stim Openings: Audrey Amiss and Rudy Loewe
-DESCRIPTION:Price: Check site\nhttps://wellcomecollection.org/whats-on
-LOCATION:Gallery 2\, Euston\, London
-URL:https://wellcomecollection.org/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_507dfa60e9c44cd4bab89f8533762532-occ_eb1d0670a94a4eaaabf52013884
- ea2cd@thingstodoinyourcity
-DTSTAMP:20260803T223202Z
-DTSTART:20260806T220000Z
-SUMMARY:Lisa Maffia Garage Karaoke
-DESCRIPTION:Audience members can join the stage to perform and party. The
-  night brings UK garage nostalgia and golden-era energy.\nPrice: Check s
- ite\nhttps://link.dice.fm/P38e35fbe4fb
-LOCATION:Between The Bridges\, Southbank\, Central London\, London
-URL:https://link.dice.fm/P38e35fbe4fb
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4407fe5ccd1343b69be15d5a1b4b459f-occ_8b34200547e44246b24f6cd78cf
@@ -293,5 +182,16 @@ DESCRIPTION:Tickets are released monthly. A small group can watch the cer
 LOCATION:Tower of London\, Tower Hill London EC3N 4AB\, Tower Hill\, Lond
  on
 URL:https://www.hrp.org.uk/tower-of-london/whats-on/ceremony-of-the-keys
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9fcb41ba616149c78859429e464b67a9-occ_e49971f71b6c4cb8803b3b92b17
+ 76f17@thingstodoinyourcity
+DTSTAMP:20260803T225816Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+SUMMARY:Low-stim Openings: Audrey Amiss and Rudy Loewe
+DESCRIPTION:Price: Check site\nhttps://wellcomecollection.org/whats-on
+LOCATION:Gallery 2\, Euston\, London
+URL:https://wellcomecollection.org/whats-on
 END:VEVENT
 END:VCALENDAR
