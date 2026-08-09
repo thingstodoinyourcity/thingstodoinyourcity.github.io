@@ -8,6 +8,48 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_98e31e99d818473a917fd947020ecee9-occ_9e2d968a5f92407b9e4ffe192fa
+ e9b47@thingstodoinyourcity
+DTSTAMP:20260809T052031Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20261101
+SUMMARY:Beauty and Destruction: Wartime London in Art
+DESCRIPTION:Artists captured wartime resilience. Artists captured wartime
+  devastation.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museu
+ m-guide/exhibitions-london/
+LOCATION:Imperial War Museum London\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_796fc301066d4f58aa81623a85103afe-occ_63002c9b0cab4e12a6cd1ee96d5
+ cb186@thingstodoinyourcity
+DTSTAMP:20260809T051808Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20270207
+SUMMARY:Audrey Amiss: The Surviving Exhibitions
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Wellcome Collection\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e4e10600f6ae4bb49cb1464ff1f5b001-occ_e21aa365a51141608b8395b3423
+ 49ea5@thingstodoinyourcity
+DTSTAMP:20260809T055202Z
+DTSTART:20260801T130000Z
+DTEND:20260809T170000Z
+SUMMARY:Upside Down London
+DESCRIPTION:An immersive camera obscura brings London’s panorama\, park
+ \, and people into view upside down. Capture a piece of photographic his
+ tory on your phone.\nPrice: Free\nhttps://www.ianvisits.co.uk/calendar/u
+ pside-down-london-432400
+LOCATION:Alexandra Palace (Ally Pally)\, Alexandra Palace Way\, London\, 
+ N22 7AY\, Alexandra Park\, London Borough of Haringey\, London
+URL:https://www.ianvisits.co.uk/calendar/upside-down-london-432400
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4ebdb7cfd3db43a8a14ff5bd353979e5-occ_a54975c9016e494790a270184e7
  774fb@thingstodoinyourcity
 DTSTAMP:20260809T010930Z
