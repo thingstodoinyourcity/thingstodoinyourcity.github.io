@@ -8,6 +8,41 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_d915de7e37ff4e1f83c208ccedaea949-occ_aba52f918d1f4e38aaf8ec7eba7
+ 6f8be@thingstodoinyourcity
+DTSTAMP:20260810T004945Z
+DTSTART;VALUE=DATE:20260810
+SUMMARY:Little Lyric
+DESCRIPTION:The programme features children's shows from family-beloved t
+ heatre companies. New shows are offered on Saturdays and during half ter
+ m residencies.\nPrice: Check site\nhttps://lyric.co.uk/whats-on/shows/
+LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, west London\, London
+URL:https://lyric.co.uk/whats-on/shows/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8eb598c3ea8e43c98bd1f49174082333-occ_081234f608db4d6684f026e7865
+ 1484f@thingstodoinyourcity
+DTSTAMP:20260810T005050Z
+DTSTART;VALUE=DATE:20260810
+SUMMARY:Ricky Gervais
+DESCRIPTION:This tour brings a new show to audiences. It will later be fi
+ lmed as a Netflix special.\nPrice: Check site\nhttps://www.londontheatre
+ s.com/events/comedy
+LOCATION:Alexandra Palace\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_89ab90b7f77e4611897ec3077f6982e4-occ_3982102ebf7d4ec7a5ca364785c
+ cedef@thingstodoinyourcity
+DTSTAMP:20260809T233924Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260812
+SUMMARY:Summer Design Club: MAKE-SHIFT
+DESCRIPTION:Price: Check site\nhttps://www.vam.ac.uk/whatson
+LOCATION:Young V&A\, South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3e28a90c463f444094a4e6c3cbf271bd-occ_6eb58fec535848bc804150a23a9
  287f0@thingstodoinyourcity
 DTSTAMP:20260809T154019Z
@@ -36,5 +71,111 @@ LOCATION:Barbican Theatre\, Barbican Centre\, Silk Street\, London\, EC2Y
   8DS.\, London
 URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
  ndon-this-week-64229/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2056d5698d35441286a673521b198b03-occ_877587d120bf40a7bf94004649a
+ c4a15@thingstodoinyourcity
+DTSTAMP:20260810T000931Z
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Decoding Pictures Family Tour
+DESCRIPTION:Price: Free\nhttps://www.nationalgallery.org.uk/events
+LOCATION:The Roden Centre for Creative Learning\, In Gallery\, London
+URL:https://www.nationalgallery.org.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a14af6aa35364c548d16644fde3c7a42-occ_a0456b3539c541aba4f111a4e29
+ 25030@thingstodoinyourcity
+DTSTAMP:20260810T003205Z
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Midweek Downstairs Jam
+DESCRIPTION:The event is welcoming and relaxed. Visitors can listen or jo
+ in in with horns\, sticks and strings during the second set.\nPrice: Fre
+ e Entry\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Downstairs\, Dalston\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4ed66921baac4aa79446b1a4babfe2fd-occ_df562086ff9442dbb1d79d601db
+ ec46e@thingstodoinyourcity
+DTSTAMP:20260810T002241Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Little dockers: At the seaside
+DESCRIPTION:Scoop ice cream and build sandcastles. Paddle in a sequin sea
+ .\nPrice: Check site\nhttps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands (Museum of London Docklands)\, Docklands
+  / Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a6935a51c6b448f3abea8908f42b553b-occ_786fe6e986334dd0823d711ca16
+ c23d4@thingstodoinyourcity
+DTSTAMP:20260810T004832Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Little dockers: At the seaside
+DESCRIPTION:Take a trip to the seaside. Do it without leaving the city.\n
+ Price: Check site\nhttps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands (Museum of London Docklands)\, Docklands
+  / Canary Wharf\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc6893ed3a384a42be0f05aaf6e7e808-occ_8a10a01b53c4411c9f73f847231
+ 1757c@thingstodoinyourcity
+DTSTAMP:20260810T003858Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Partial Solar Eclipse 2026 LIVE
+DESCRIPTION:Watch a 90% partial solar eclipse visible from the UK. Join t
+ he Royal Observatory Greenwich live to watch it.\nPrice: Free\nhttps://w
+ ww.rmg.co.uk/whats-on
+LOCATION:Online\, Greenwich\, Royal Borough of Greenwich\, London
+URL:https://www.rmg.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f33642a2e7be45088c1747e07d33b2cb-occ_4cbc9a97add549d29e30e2527f9
+ 79344@thingstodoinyourcity
+DTSTAMP:20260809T234202Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:AFTERS
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc14771c708c4ca8bd71b6bd38859b95-occ_7ef0181c9d5240308adc55986f1
+ 662e9@thingstodoinyourcity
+DTSTAMP:20260810T004950Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:The Best in Stand Up
+DESCRIPTION:World-class stand-up comedy from five of the funniest people 
+ on the planet. A two-hour extravaganza of belly laughs.\nPrice: Check si
+ te\nhttps://www.londontheatres.com/events/comedy
+LOCATION:The Comedy Store\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_024078a2cee7437a851591dc96fe48e4-occ_3cc0f9b1f7744cf6ba653069ced
+ cfeae@thingstodoinyourcity
+DTSTAMP:20260810T001044Z
+DTSTART:20260813T180000Z
+SUMMARY:After Work Flex
+DESCRIPTION:Throwback Hip Hop and R&B classics shape the mix. Garage keep
+ s the after-work session interesting.\nPrice: Check site\nhttps://www.be
+ tweenthebridges.co.uk/events-btb/after-work-flex-13
+LOCATION:Dock\, South Bank\, London
+URL:https://www.betweenthebridges.co.uk/events-btb/after-work-flex-13
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ae52e3bcc50440e8bf60e286233eaf89-occ_15a4b578824c4740a21a4d9b4fc
+ 65721@thingstodoinyourcity
+DTSTAMP:20260809T231556Z
+DTSTART:20260908T083000Z
+DTEND;VALUE=DATE:20260910
+SUMMARY:The Odyssey in 70mm IMAX at BFI IMAX
+DESCRIPTION:Christopher Nolan’s epic is projected in 70mm IMAX. It is s
+ hown on Britain’s biggest screen.\nPrice: Check site\nhttps://southban
+ k.london/whats-on/the-odyssey
+LOCATION:BFI IMAX\, BFI IMAX\, Charlie Chaplin Walk\, London\, UK\, Londo
+ n
+URL:https://southbank.london/whats-on/the-odyssey
 END:VEVENT
 END:VCALENDAR
