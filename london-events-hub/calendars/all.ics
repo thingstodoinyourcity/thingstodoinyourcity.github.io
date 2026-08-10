@@ -244,6 +244,20 @@ LOCATION:Tate Britain\, London SW1P 4RG\, Millbank\, London
 URL:https://www.ianvisits.co.uk/calendar/hurvin-anderson-426598
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9b5e67eaad8c4a38bf8733a2dc2c21e2-occ_43627f8881c34659b171b908462
+ 09db6@thingstodoinyourcity
+DTSTAMP:20260810T212705Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260823
+SUMMARY:Fairy Tales
+DESCRIPTION:Families can explore enchanted lands and magical creatures. I
+ nteractive displays bring timeless tales to life through costumes\, pupp
+ ets and artwork.\nPrice: Check site\nhttps://events.bl.uk/exhibitions/fa
+ iry-tales
+LOCATION:British Library\, London
+URL:https://events.bl.uk/exhibitions/fairy-tales
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2e20269f10b74ad18c46e17128b31b93-occ_e3083da698bf40cba9d00cbb9ae
  49fb0@thingstodoinyourcity
 DTSTAMP:20260809T214527Z
@@ -3910,19 +3924,5 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ae52e3bcc50440e8bf60e286233eaf89-occ_15a4b578824c4740a21a4d9b4fc
- 65721@thingstodoinyourcity
-DTSTAMP:20260809T231556Z
-DTSTART:20260908T083000Z
-DTEND;VALUE=DATE:20260910
-SUMMARY:The Odyssey in 70mm IMAX at BFI IMAX
-DESCRIPTION:Christopher Nolan’s epic is projected in 70mm IMAX. It is s
- hown on Britain’s biggest screen.\nPrice: Check site\nhttps://southban
- k.london/whats-on/the-odyssey
-LOCATION:BFI IMAX\, BFI IMAX\, Charlie Chaplin Walk\, London\, UK\, Londo
- n
-URL:https://southbank.london/whats-on/the-odyssey
 END:VEVENT
 END:VCALENDAR
