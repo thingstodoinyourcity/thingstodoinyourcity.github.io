@@ -40,6 +40,17 @@ URL:https://alberts-schloss-london.designmynight.com/669f70cd8a6dba18ff03
  9924/wanderlust
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e933a30f98d4436d888569192c73a124-occ_44ce2984537d404ea621e0b2350
+ 35708@thingstodoinyourcity
+DTSTAMP:20260811T071445Z
+DTSTART:20260812T200000Z
+SUMMARY:Blade Runner: The Final Cut
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:Prince Charles Cinema\, Leicester Square / West End\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5ec8c77995bc4bb5a03dd7a261fc05b4-occ_816f0127793044f8981e31d9523
  9836c@thingstodoinyourcity
 DTSTAMP:20260811T011229Z
@@ -1079,5 +1090,16 @@ LOCATION:Albert's Schloss - Soho\, 20-24 Shaftesbury Ave\, W1D 7EU\, West
   End\, London
 URL:https://alberts-schloss-london.designmynight.com/66963481aa68e777eb76
  38c0/baby-grand-slam
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1d0a67992f0c404ebccb12b5595e67f3-occ_f14baec1c9744510af1963dae55
+ 390ed@thingstodoinyourcity
+DTSTAMP:20260811T064836Z
+DTSTART:20260813T194500Z
+SUMMARY:Perfect Blue
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:Prince Charles Cinema\, Leicester Square / West End\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 END:VCALENDAR
