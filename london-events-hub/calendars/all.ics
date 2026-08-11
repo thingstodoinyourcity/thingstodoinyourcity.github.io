@@ -8,6 +8,32 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_e792c2a1dc784547b182075127b0bb6c-occ_fde6ffe152574001928020b3d09
+ 26a88@thingstodoinyourcity
+DTSTAMP:20260811T194038Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Coming of Age
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Wellcome Collection\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6efd28d6df084602b1888860ecc44eb1-occ_ba3d1ef940a94227988bbad338b
+ b5355@thingstodoinyourcity
+DTSTAMP:20260811T194801Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20261109
+SUMMARY:Schiaparelli: Fashion Becomes Art
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Victoria and Albert Museum (V&A)\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_efe8330ab050450b950cd4f6760a4c4e-occ_7942287faef74c8f8c7d7b40aaf
  2e93a@thingstodoinyourcity
 DTSTAMP:20260811T071530Z
@@ -36,6 +62,87 @@ LOCATION:Royal Festival Hall\, Royal Festival Hall\, Belvedere Road\, Lon
 URL:https://southbank.london/whats-on/southbank-centre-tours
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ed514af8e5c941a5b69d984941dcbb14-occ_5590999f936244c2b1c0958a446
+ 86cee@thingstodoinyourcity
+DTSTAMP:20260811T194855Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20261004
+SUMMARY:NIGO: From Japan with Love
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Design Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_728504411cf643399ae4d0094d4d1f6a-occ_4b6f0f4bcc9c4c82907ee2686ac
+ fdef4@thingstodoinyourcity
+DTSTAMP:20260811T194705Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260823
+SUMMARY:Paulo Nimer Pjota: Encantados
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:South London Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5087b66f300e4811a07dbbc93aa538b2-occ_1ed43ec3c17a4d3896ea350f894
+ 2423a@thingstodoinyourcity
+DTSTAMP:20260811T193551Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260823
+SUMMARY:Zurbarán
+DESCRIPTION:Marvel at dramatic masterpieces by a Spanish Baroque painter.
+  The exhibition spotlights his development as an artist.\nPrice: Check s
+ ite\nhttps://artlovers.travel/en/exhibitions/zurbaran-national-gallery-l
+ ondon
+LOCATION:National Gallery\, London
+URL:https://artlovers.travel/en/exhibitions/zurbaran-national-gallery-lon
+ don
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_146707a6e1564da09179ffcdfae21cc0-occ_e96816fee32047d78e5999dc193
+ cfd46@thingstodoinyourcity
+DTSTAMP:20260811T193451Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20270131
+SUMMARY:Henry Moore: Monumental Nature
+DESCRIPTION:More than 30 sculptures are positioned across 320 acres. 90 m
+ ore are in the Shirley Sherwood Gallery.\nPrice: Check site\nhttps://wha
+ tsdownthatstreet.com/london-museum-guide/exhibitions-london/
+LOCATION:Kew Gardens\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0338ed5d34240708ccc0c65714c709b-occ_2f63a691ebef48b7b81cc5919c1
+ 16e8c@thingstodoinyourcity
+DTSTAMP:20260811T195052Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20270103
+SUMMARY:Jurassic Oceans: Monsters of the Deep
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Natural History Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d7d0173d01424e3a89c4f068f9cac2ff-occ_2e62165b52e44b1ab8ad08b0211
+ f8bce@thingstodoinyourcity
+DTSTAMP:20260811T194442Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Tenderness and Rage: Stories of HIV and AIDS
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Wellcome Collection\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_275a84c32fdd436ba81adb2ca4591358-occ_af53015d1f4f49e88d0e230476b
  9eedc@thingstodoinyourcity
 DTSTAMP:20260811T064619Z
@@ -49,6 +156,21 @@ DESCRIPTION:This exhibition looks at Monroe not only as a screen icon. So
 LOCATION:National Portrait Gallery London\, St Martin's Place\, London\, 
  WC2H 0HE\, London
 URL:https://artlovers.travel/en/exhibitions/marilyn-monroe-a-portrait
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3f759b70b97a4c319011e1d7484bb525-occ_2ebd462f851c4f6fa92f19fdacf
+ 921cd@thingstodoinyourcity
+DTSTAMP:20260811T192745Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260906
+SUMMARY:Marilyn Monroe: A Portrait
+DESCRIPTION:Portraits celebrate Marilyn Monroe’s life\, art and endurin
+ g cultural influence. The exhibition marks 100 years since her birth.\nP
+ rice: Check site\nhttps://whatsdownthatstreet.com/london-museum-guide/ex
+ hibitions-london/
+LOCATION:National Portrait Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ab657806dcbd4bbf9427b65fb9ca8af9-occ_18d0681db5644ee5a4b8d1d0e51
@@ -150,6 +272,19 @@ LOCATION:London
 URL:https://southbank.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7edffd14f9fe453d88b2f0769f7eb5da-occ_aea9b2e60dc64a169e0101ec8b2
+ f6db8@thingstodoinyourcity
+DTSTAMP:20260811T194039Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20261109
+SUMMARY:RPS International Photography Exhibition 167
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Saatchi Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a546cbde559a4bc8a5358987af4d981d-occ_f6e25ed3035244948389cc8905e
  dc13f@thingstodoinyourcity
 DTSTAMP:20260811T065707Z
@@ -175,6 +310,19 @@ LOCATION:BFI IMAX\, London
 URL:https://southbank.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_58c8de7513544c22980d4011abaa67fc-occ_3f157ca0808f43db8b830fa4cee
+ 45050@thingstodoinyourcity
+DTSTAMP:20260811T194801Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20261108
+SUMMARY:Clare Woods: Garden Without Seasons
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Pitzhanger Manor & Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bdc927231f4545b097b7ad0884ed66e4-occ_1ac350d81abd43569a87c608ee6
  aed28@thingstodoinyourcity
 DTSTAMP:20260811T100010Z
@@ -185,6 +333,82 @@ DESCRIPTION:A witty comedy of sex and class. A witty comedy of marital mi
  sunderstanding.\nPrice: Check site\nhttps://southbank.london/whats-on
 LOCATION:The Old Vic\, London
 URL:https://southbank.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b7ccfb7f1b14969906c0cf90c4213cf-occ_55733aaacf3c47e99701de00bcf
+ f318b@thingstodoinyourcity
+DTSTAMP:20260811T195205Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260816
+SUMMARY:Dog Man: The Musical
+DESCRIPTION:The crime-biting sensation gets a brand-new musical. This hap
+ pens this summer.\nPrice: Check site\nhttps://southbank.london/whats-on
+LOCATION:Southbank Centre\, London
+URL:https://southbank.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4922e2a35c7640f6acc94a9294f65b48-occ_c482a62474504180b756642ebec
+ 9aa81@thingstodoinyourcity
+DTSTAMP:20260811T194705Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20270228
+SUMMARY:Childhood in War
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Imperial War Museum London\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5e2af8541e04455fb139f00b6e41802c-occ_099070752e364ef2a02f5acc80b
+ b18ad@thingstodoinyourcity
+DTSTAMP:20260811T193250Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260822
+SUMMARY:Love’s Labour’s Lost
+DESCRIPTION:By William Shakespeare. Directed by Tom Littler.\nPrice: Chec
+ k site\nhttps://orangetreetheatre.co.uk/whats-on/
+LOCATION:Orange Tree Theatre\, Richmond\, London Borough of Richmond upon
+  Thames\, London
+URL:https://orangetreetheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_736c1782b6334c00a960a52c8e65301e-occ_c1ffda93d80f4b6299e7d8e841a
+ d1c7c@thingstodoinyourcity
+DTSTAMP:20260811T195132Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260822
+SUMMARY:Much Ado About Nothing
+DESCRIPTION:Written by William Shakespeare. Directed by Tom Littler.\nPri
+ ce: Check site\nhttps://orangetreetheatre.co.uk/whats-on/
+LOCATION:OT ON THE HILL\, Richmond\, London Borough of Richmond upon Tham
+ es\, London
+URL:https://orangetreetheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8cb552c4b7c243d88bf338b534d0be24-occ_bbf03b3b0b5149b398ca4c03393
+ 8f073@thingstodoinyourcity
+DTSTAMP:20260811T193915Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260822
+SUMMARY:Much Ado About Nothing
+DESCRIPTION:By William Shakespeare. Directed by Tom Littler.\nPrice: Chec
+ k site\nhttps://orangetreetheatre.co.uk/whats-on/
+LOCATION:Orange Tree Theatre\, Richmond\, London Borough of Richmond upon
+  Thames\, London
+URL:https://orangetreetheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9590644da7c0449ea1b0c4b7afa6569f-occ_c35240a6608c437081b6b98598d
+ 6e76e@thingstodoinyourcity
+DTSTAMP:20260811T210635Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260905
+SUMMARY:This is What It's Like
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:Torriano Meeting House\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3d359dbbe3684846a25f5ac15f12c85b-occ_04ccee8446b244358660f7188d0
@@ -211,6 +435,79 @@ LOCATION:Saatchi Gallery\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6bb3929a282840ef9283984fb74827c4-occ_c0a787b0cd8d4baf96c0ab6bc49
+ 4d7fc@thingstodoinyourcity
+DTSTAMP:20260811T205818Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260823
+SUMMARY:Paper Path
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:APT Gallery (Art in Perpetuity Trust)\, London\, United Kingdom\
+ , London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b0836864965f4fdaa77e89617e972326-occ_9be80c4cda8f4ff997c8f1686d2
+ 51942@thingstodoinyourcity
+DTSTAMP:20260811T205345Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260905
+SUMMARY:Kawan! Kawan!
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:Hypha Studios HQ\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_af570e66283041bcaca1869190dfb66f-occ_f885a70b6a354d5eacc9e4a3a1a
+ 6a3d9@thingstodoinyourcity
+DTSTAMP:20260811T213022Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260823
+SUMMARY:Sucking Face
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:Outsiders Gallery\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1c116aeb71484a8c84fecd80b0046e89-occ_783d765948df46a2af2b9dfb9f7
+ 61dd4@thingstodoinyourcity
+DTSTAMP:20260811T205427Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260912
+SUMMARY:The Raw and The Cooked
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:Saatchi Gallery\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6fb2596d1f444ed08632bc4487532974-occ_c0ab31c37a434fc28c3a5853c06
+ 5e782@thingstodoinyourcity
+DTSTAMP:20260811T210018Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260815
+SUMMARY:Krio Collective: Usai Wi De
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/events/krio-coll
+ ective-usai-wi-de?__cc=1
+LOCATION:The Old Street Gallery\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/events/krio-collective-usai-wi-de?__cc=1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b52c1681a0fc406f8398fb56a11fa50d-occ_0735a9f72e2f44ac98a581a9b80
+ 65843@thingstodoinyourcity
+DTSTAMP:20260811T210640Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260829
+SUMMARY:The Invigilators: 'Birthday Party' Group exhibition
+DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
+ -kingdom/london
+LOCATION:Finch Gallery\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2664df4ccaf24f3eac5020cec85cea4f-occ_169c00f289a24ff29861b77b396
  ecc06@thingstodoinyourcity
 DTSTAMP:20260811T130341Z
@@ -221,6 +518,17 @@ DESCRIPTION:Price: Check site\nhttps://www.artrabbit.com/all-shows/united
  -kingdom/london
 LOCATION:BOTH Gallery\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6f7ac891b36e4bbeabe3cc6f2160cc41-occ_31a469a6543c4fc791749904068
+ 3957b@thingstodoinyourcity
+DTSTAMP:20260811T203021Z
+DTSTART:20260811T173000Z
+SUMMARY:Celine Kuklowsky: Bed Boy (EdFringe Preview)
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
+ ngton\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1954619a63984d978ff5884db8792123-occ_ca98a5afafd74cb09c1de2d4bf6
@@ -288,6 +596,31 @@ URL:https://alberts-schloss-london.designmynight.com/669f70cd8a6dba18ff03
  9924/wanderlust
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_993fb4cde73a44988d6a39b9fca0dd56-occ_63a70b1871eb4b538eeaef8a34b
+ 6b869@thingstodoinyourcity
+DTSTAMP:20260811T203720Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Wednesday Stand up Comedy Show
+DESCRIPTION:Top Secret Acts TBA. Contributions will be collected after th
+ e show to share with the comedians.\nPrice: £3\; Concessions: £2\nhttp
+ s://fixr.co/event/wednesday-kw-tickets-393871786
+LOCATION:23 Kingsway\, Covent Garden\, London
+URL:https://fixr.co/event/wednesday-kw-tickets-393871786
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4226fda7e29a47d58fbfb5c2f4aca290-occ_9ecc9bfcb6b84a00b8588a0cd89
+ f9058@thingstodoinyourcity
+DTSTAMP:20260811T195902Z
+DTSTART:20260812T170000Z
+SUMMARY:Forgotten Sentiment
+DESCRIPTION:An album release show features Carved In My Heart and talkpea
+ ce. New Cross Live presents the show.\nPrice: Check site\nhttps://pit.li
+ ve/events/forgotten-sentiment
+LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, New Cro
+ ss\, London
+URL:https://pit.live/events/forgotten-sentiment
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_98a0f9c2aeeb47c5a02764d32fa4a305-occ_5bb786bfb9504e6ca1a06833ff5
  c4dfb@thingstodoinyourcity
 DTSTAMP:20260811T095724Z
@@ -308,6 +641,19 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b06315a199941178e76d440926bbad0-occ_fa0a47efab8f40139e00406632a
+ a7490@thingstodoinyourcity
+DTSTAMP:20260811T203340Z
+DTSTART:20260812T190000Z
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Russell Hicks and David McSavage are listed among the comedia
+ ns. Contributions will be collected after the show to share with the com
+ edians.\nPrice: Check site\nhttps://fixr.co/event/wednesday-dl-tickets-2
+ 3097795
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://fixr.co/event/wednesday-dl-tickets-23097795
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e933a30f98d4436d888569192c73a124-occ_44ce2984537d404ea621e0b2350
@@ -334,6 +680,26 @@ DESCRIPTION:Whether you're a stage siren or just here for the drama\, LUN
 LOCATION:Ridley Road Market Bar\, 49 Ridley Rd\, London E8 2NP\, UK\, Lon
  don
 URL:https://www.ridleyroadmarketbar.com/event-details/lungs-karaoke-17
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f33642a2e7be45088c1747e07d33b2cb-occ_4cbc9a97add549d29e30e2527f9
+ 79344@thingstodoinyourcity
+DTSTAMP:20260811T211007Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:AFTERS
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f33642a2e7be45088c1747e07d33b2cb-occ_d46d3f12ab43480a957a0b50387
+ f2411@thingstodoinyourcity
+DTSTAMP:20260811T211007Z
+DTSTART;VALUE=DATE:20260820
+SUMMARY:AFTERS
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_afa1982cfdfd441481be8dd10b220060-occ_3865d19fad8547ad9ffcd28597e
@@ -1466,6 +1832,41 @@ LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
 URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b3ed4db0846d4fce924cab93e1007be3-occ_a95587702d7043a5b80f4573cba
+ 7bea5@thingstodoinyourcity
+DTSTAMP:20260811T213429Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260816
+SUMMARY:2026 FISU World University Championships Rowing
+DESCRIPTION:Price: Check site\nhttps://www.londontourism.ca/events/2026-f
+ isu-world-university-championships-rowing
+LOCATION:London
+URL:https://www.londontourism.ca/events/2026-fisu-world-university-champi
+ onships-rowing
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6538047edbba41419b1efe280c2d71bd-occ_5576b80228504d229a7c215ebfa
+ d44f4@thingstodoinyourcity
+DTSTAMP:20260811T203719Z
+DTSTART;VALUE=DATE:20260814
+SUMMARY:Friday Stand Up Comedy Early Show
+DESCRIPTION:Jeff Innocent and a Top Secret Mystery Guest appear. More act
+ s are included.\nPrice: Check site\nhttps://fixr.co/event/friday-early-t
+ ickets-124770559
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://fixr.co/event/friday-early-tickets-124770559
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b840c8da6314913aae19c2bb4261cb8-occ_e9af16aa48844fb180a7e14d767
+ 0b406@thingstodoinyourcity
+DTSTAMP:20260811T203427Z
+DTSTART;VALUE=DATE:20260814
+SUMMARY:When Chai Met Toast
+DESCRIPTION:Price: Check site\nhttps://www.thegarage.london/live/
+LOCATION:The Garage\, Highbury & Islington\, London
+URL:https://www.thegarage.london/live/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7b4332f3160a48bbb09a0174b13b0903-occ_cda38f0e5da640cdab82c4ffd53
  aaf81@thingstodoinyourcity
 DTSTAMP:20260811T095240Z
@@ -2305,6 +2706,29 @@ LOCATION:23 Kingsway\, Covent Garden\, London
 URL:https://fixr.co/event/friday-10pm-show-tickets-544781365
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_34e8941560874f61886018ed265f693f-occ_0500c91951e64a4b872945aaaf5
+ de11b@thingstodoinyourcity
+DTSTAMP:20260811T213602Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Baddiie Army: R&B\, Hip-Hop\, Afrobeats + More
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d00bf6f485a84df787d768be80a71407-occ_ec10aaf193bf4953baadd604083
+ 8963e@thingstodoinyourcity
+DTSTAMP:20260811T210413Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Camp Perform: The Theatre That Lost Its Magic
+DESCRIPTION:The event culminates in an original\, devised performance. It
+  celebrates musical theatre classics.\nPrice: Check site\nhttps://www.ar
+ tsdepot.co.uk/event/camp-perform-the-theatre-that-lost-its-magic
+LOCATION:Studio Theatre\, North Finchley (Barnet)\, London
+URL:https://www.artsdepot.co.uk/event/camp-perform-the-theatre-that-lost-
+ its-magic
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_eedc02eb27464acfb62189148e8bc162-occ_f2b04246a78647b19af4e731cea
  ecaf3@thingstodoinyourcity
 DTSTAMP:20260811T000919Z
@@ -2339,6 +2763,21 @@ DESCRIPTION:The event reveals overlooked architectural details. These inc
 LOCATION:Meet at Welcome Desk\, 421 Ridout Street North\, London\, Ontari
  o\, Canada\, London
 URL:https://www.eventsrealm.com/london-on/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_661f915681c348d29586dbe7efd9699f-occ_87699e133a3a4d8fa74b3054118
+ c563e@thingstodoinyourcity
+DTSTAMP:20260811T203434Z
+DTSTART:20260815T100000Z
+SUMMARY:Saturday Seminar: Shakespeare Comedies
+DESCRIPTION:The discussion examines love in Love’s Labour’s Lost and 
+ Much Ado About Nothing. It considers love\, war\, friendship\, and poetr
+ y.\nPrice: Check site\nhttps://orangetreetheatre.co.uk/whats-on/saturday
+ -seminar-shakespeare-comedies
+LOCATION:Orange Tree Theatre\, Richmond\, London Borough of Richmond upon
+  Thames\, London
+URL:https://orangetreetheatre.co.uk/whats-on/saturday-seminar-shakespeare
+ -comedies
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c97822863e6b499dbcd747477c47fc9c-occ_79c45d74f6ac46748fa059f001c
@@ -2432,6 +2871,17 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19f30cde6e234b8d8d8f736a1381893c-occ_29bcaf7f72294b10b720394b68b
+ 69371@thingstodoinyourcity
+DTSTAMP:20260811T215906Z
+DTSTART:20260815T170000Z
+SUMMARY:Stonebwoy BHIM Festival With Guest Acts
+DESCRIPTION:The festival includes guest acts. Guest acts accompany the fe
+ stival.\nPrice: Check site\nhttps://www.ovoarena.co.uk/events
+LOCATION:OVO Arena Wembley\, Wembley\, London
+URL:https://www.ovoarena.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a738ebd9587a4e0d946f189d2481aac6-occ_bb6736980b6e4fc0804be86153f
@@ -2622,6 +3072,16 @@ DESCRIPTION:A special theatre props sale is offered. A samples and second
  ats-on
 LOCATION:National Theatre\, London
 URL:https://southbank.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_448fcbc1678f4e2d9fcb8fa547bc9e4d-occ_e10eead5d4124e1e81c915c9fa4
+ b16c7@thingstodoinyourcity
+DTSTAMP:20260811T213153Z
+DTSTART;VALUE=DATE:20260816
+SUMMARY:SAV NDO
+DESCRIPTION:Price: Check site\nhttps://www.oslohackney.com/events/
+LOCATION:Oslo Hackney\, Hackney Central\, London
+URL:https://www.oslohackney.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_20e2c31d7e40407f9615d30806fcfa1b-occ_88e0caf9716a4ffbb527ebc2714
@@ -3456,6 +3916,16 @@ LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
 URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7e00a3162b8a400c9c26e4856833e6a6-occ_985db305dd0242d1867631f0aa7
+ ac24f@thingstodoinyourcity
+DTSTAMP:20260811T214343Z
+DTSTART:20260816T170000Z
+SUMMARY:Meiotempo
+DESCRIPTION:Price: Check site\nhttps://www.newcrossinn.com/gigs/
+LOCATION:New Cross Inn\, New Cross\, London
+URL:https://www.newcrossinn.com/gigs/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4fffd01aaa3d4ba6863ac45c6c87c02e-occ_e3caa8374cde4e979438a722121
  36595@thingstodoinyourcity
 DTSTAMP:20260811T095547Z
@@ -3491,5 +3961,20 @@ DESCRIPTION:Four women revisit a village after an idyllic pre-war summer.
 LOCATION:Thomas’s College\, Queen’s Road\, Richmond Hill\, TW10 6JW\,
   Richmond Hill\, London
 URL:https://orangetreetheatre.co.uk/whats-on/much-ado-about-nothing
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ae52e3bcc50440e8bf60e286233eaf89-occ_14b49580f22f48db9b9b7b95f1a
+ 5c040@thingstodoinyourcity
+DTSTAMP:20260811T210251Z
+DTSTART:20260908T083000Z
+DTEND;VALUE=DATE:20260910
+SUMMARY:The Odyssey in 70mm IMAX at BFI IMAX
+DESCRIPTION:Tickets for the first weeks of screenings sold out almost imm
+ ediately. The film is dedicated to this titan of the IMAX world who pass
+ ed away shortly after the film wrapped.\nPrice: Check site\nhttps://sout
+ hbank.london/whats-on/the-odyssey
+LOCATION:BFI IMAX\, BFI IMAX\, Charlie Chaplin Walk\, London\, UK\, Londo
+ n
+URL:https://southbank.london/whats-on/the-odyssey
 END:VEVENT
 END:VCALENDAR
