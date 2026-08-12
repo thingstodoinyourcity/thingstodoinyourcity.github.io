@@ -117,6 +117,19 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8098162f2154441bbc7265f48535115a-occ_b738548df85546b493329e1fafd
+ 25064@thingstodoinyourcity
+DTSTAMP:20260812T164141Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20270131
+SUMMARY:Henry Moore: Monumental Nature
+DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
+ eum-guide/exhibitions-london/
+LOCATION:Kew Gardens\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_73fb18edc6ba46afa887f8c6b9727d66-occ_a448e09766c44055afddd02aad6
  36852@thingstodoinyourcity
 DTSTAMP:20260812T115042Z
@@ -1049,6 +1062,18 @@ DESCRIPTION:Price: Check site\nhttps://thelexicinema.co.uk/TheLexiCinema.
  dll/WhatsOn
 LOCATION:Lexi Cinema\, Kensal Rise / Kensal Green\, London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f33dcd1ebff94d0ba064bf7b905f6df0-occ_6fdefbb57f234d4f8d9fd331b5d
+ ddec2@thingstodoinyourcity
+DTSTAMP:20260812T165443Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Post-war Poplar & Call the Midwife
+DESCRIPTION:This guided walk around Poplar uncovers stories. It focuses o
+ n the East End in the 1950s.\nPrice: Check site\nhttps://www.londonmuseu
+ m.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e201b5cba0514f79be6e182f40ecb480-occ_30580d07b1d942b78be492c4abe
