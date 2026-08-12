@@ -725,6 +725,31 @@ LOCATION:Lyric Hammersmith Theatre\, Hammersmith\, west London\, London
 URL:https://lyric.co.uk/whats-on/shows/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4cf27f15d244402f848c2209cf603fc6-occ_60c3b7f14a744925bb5461e6199
+ cf5ef@thingstodoinyourcity
+DTSTAMP:20260812T094636Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20270102
+SUMMARY:Oh Mary!
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Trafalgar Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_768bca91e6e64b45a148c27f94cfda74-occ_21d37ffd87ef4a49aa6aca0632f
+ 761d2@thingstodoinyourcity
+DTSTAMP:20260812T100934Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20270220
+SUMMARY:Operation Mincemeat
+DESCRIPTION:A musical comedy follows a bizarre true story involving a sec
+ ret mission. The mission helped the Allies win World War II.\nPrice: Che
+ ck site\nhttps://www.londonboxoffice.co.uk/all-london-shows
+LOCATION:Fortune Theatre\, London
+URL:https://www.londonboxoffice.co.uk/all-london-shows
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_993fb4cde73a44988d6a39b9fca0dd56-occ_63a70b1871eb4b538eeaef8a34b
  6b869@thingstodoinyourcity
 DTSTAMP:20260811T203720Z
@@ -995,6 +1020,18 @@ DESCRIPTION:Throwback classics\, R&B and more fuel an after-work session.
  ://www.betweenthebridges.co.uk/all-events
 LOCATION:Dock\, South Bank\, London
 URL:https://www.betweenthebridges.co.uk/all-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc14771c708c4ca8bd71b6bd38859b95-occ_7ef0181c9d5240308adc55986f1
+ 662e9@thingstodoinyourcity
+DTSTAMP:20260812T090614Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:The Best in Stand Up
+DESCRIPTION:World-class stand-up comedy comes from five of the funniest p
+ eople on the planet. It is a two-hour extravaganza of belly laughs.\nPri
+ ce: Check site\nhttps://www.londontheatres.com/events/comedy
+LOCATION:The Comedy Store\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e827457b60a748d5a309bcb0fba043fb-occ_371159347e954e1c97287901311
