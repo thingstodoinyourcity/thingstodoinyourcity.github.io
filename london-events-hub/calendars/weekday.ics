@@ -8,6 +8,16 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_e58d6b2962924681869b43e951f24c62-occ_be7dfbcaef4947b1a2817ab28eb
+ 29388@thingstodoinyourcity
+DTSTAMP:20260812T205322Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Beside the seaside
+DESCRIPTION:Price: From £20\nhttps://www.nationalgallery.org.uk/events
+LOCATION:Sainsbury Wing Foyer\, In Gallery\, London
+URL:https://www.nationalgallery.org.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_84c12ee5a89b44e4b6170641f08e89fb-occ_f569d90ae3a14639adfdc047923
  dd59a@thingstodoinyourcity
 DTSTAMP:20260811T034107Z
@@ -38,6 +48,19 @@ LOCATION:Albert's Schloss - Soho\, 20-24 Shaftesbury Ave\, W1D 7EU\, West
   End\, London
 URL:https://alberts-schloss-london.designmynight.com/669f70cd8a6dba18ff03
  9924/wanderlust
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f58f42d67ec049d9be8d4988c695e464-occ_d7fc635904e149a7b82a6af9c55
+ dd2d4@thingstodoinyourcity
+DTSTAMP:20260812T205132Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Earth and Bones Residency: Emre Ramazanoglu
+DESCRIPTION:Idris Rahman and Liran Donin collaborate with favourite music
+ ians. Improvisation and experimentation dominate.\nPrice: Standard £15 
+ / Vortex Members £10 / Students & UC beneficiaries £8 + Residency Pass
+ es\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, Dalston\, London
+URL:https://www.vortexjazz.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_096a9da9d9e74a67921ef5f64cb0c610-occ_9badcd45b4324dab98b2f03d1dc
@@ -1435,6 +1458,16 @@ DESCRIPTION:Jeff Innocent appears alongside a top-secret mystery guest. T
  //thetopsecretcomedyclub.co.uk/events-listings/
 LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6ff0c6b592a843c39ab6a504375cc977-occ_f07c87b1434c4ae1995e255964d
+ 558cd@thingstodoinyourcity
+DTSTAMP:20260812T194228Z
+DTSTART;VALUE=DATE:20260814
+SUMMARY:Library and Archives Discovery Day: Youth Collective
+DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
+LOCATION:V&A South Kensington\, South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b840c8da6314913aae19c2bb4261cb8-occ_e9af16aa48844fb180a7e14d767
