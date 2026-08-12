@@ -8,50 +8,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:cand_6f7ac891b36e4bbeabe3cc6f2160cc41-occ_31a469a6543c4fc791749904068
- 3957b@thingstodoinyourcity
-DTSTAMP:20260811T203021Z
-DTSTART:20260811T173000Z
-SUMMARY:Celine Kuklowsky: Bed Boy (EdFringe Preview)
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1954619a63984d978ff5884db8792123-occ_ca98a5afafd74cb09c1de2d4bf6
- 9dabd@thingstodoinyourcity
-DTSTAMP:20260811T092249Z
-DTSTART:20260811T190000Z
-SUMMARY:Liam McGough & Dave Vaughan: Two Guys/One GCSE
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_ab672294d5514f65ae4a14ab651
- c57c0@thingstodoinyourcity
-DTSTAMP:20260811T095440Z
-DTSTART:20260811T210000Z
-SUMMARY:Rhys James: Work In Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_996a68384a1944ba80eaaaa964e
- 2e9c7@thingstodoinyourcity
-DTSTAMP:20260811T095440Z
-DTSTART:20260812T203000Z
-SUMMARY:Rhys James: Work In Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_84c12ee5a89b44e4b6170641f08e89fb-occ_f569d90ae3a14639adfdc047923
  dd59a@thingstodoinyourcity
 DTSTAMP:20260811T034107Z
@@ -109,6 +65,37 @@ LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, New Cro
 URL:https://pit.live/events/forgotten-sentiment
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_552c53b8ad0c4ec4937b6f461df43a30-occ_334c99517ae84adab4fb77be17c
+ b6286@thingstodoinyourcity
+DTSTAMP:20260812T003353Z
+DTSTART:20260812T173000Z
+SUMMARY:Daisy Rickman plays Nick Drake’s Guitar
+DESCRIPTION:The performance features songs performed on two guitars. The 
+ guitars bookend a short but hugely influential career.\nPrice: Check sit
+ e\nhttps://earthackney.co.uk/events/daisy-rickman-plays-nick-drakes-guit
+ ar-12th-aug-earth-london-tickets-l8dknr
+LOCATION:EartH Theatre\, 11-17 Stoke Newington Rd\, London\, N16 8BH\, Da
+ lston\, London
+URL:https://earthackney.co.uk/events/daisy-rickman-plays-nick-drakes-guit
+ ar-12th-aug-earth-london-tickets-l8dknr
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_36998fc84df849aeb2f9b05d48e18f74-occ_bfa021e8375740aa874d30d7881
+ 9215f@thingstodoinyourcity
+DTSTAMP:20260812T001903Z
+DTSTART:20260812T180000Z
+SUMMARY:Grubby Little Mitts: Late Night 70’s Game Show
+DESCRIPTION:A retro game show/sketch show features catch phrases\, cue ca
+ rds and audience participation. Running time is 60 minutes\; age advisor
+ y is 14+.\nPrice: Ticket Prices Include a £1.25 Venue Restoration Levy\
+ nhttps://www.museumofcomedy.com/grubby-little-mitts-late-night-70s-game-
+ show
+LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
+ ry Way\, London\, WC1A 2SR\, Bloomsbury Way\, London
+URL:https://www.museumofcomedy.com/grubby-little-mitts-late-night-70s-gam
+ e-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4b06315a199941178e76d440926bbad0-occ_fa0a47efab8f40139e00406632a
  a7490@thingstodoinyourcity
 DTSTAMP:20260811T203340Z
@@ -120,6 +107,20 @@ DESCRIPTION:Russell Hicks and David McSavage are listed among the comedia
  3097795
 LOCATION:170 Drury Lane\, Covent Garden\, London
 URL:https://fixr.co/event/wednesday-dl-tickets-23097795
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c76eca96050c4b7b8afe01aa68f676c8-occ_f2a9472db51340a497c2523dbea
+ 6718a@thingstodoinyourcity
+DTSTAMP:20260812T003627Z
+DTSTART:20260812T193000Z
+SUMMARY:Henry Paker Work In Progress
+DESCRIPTION:This work-in-progress show comes from Henry Paker. It combine
+ s stand-up comedy and live illustration.\nPrice: Ticket Prices Include a
+  £1.25 Venue Restoration Levy\nhttps://www.museumofcomedy.com/henry-pak
+ er-work-in-progress
+LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
+ ry Way\, London\, WC1A 2SR\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/henry-paker-work-in-progress
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e933a30f98d4436d888569192c73a124-occ_44ce2984537d404ea621e0b2350
@@ -146,6 +147,17 @@ DESCRIPTION:Whether you're a stage siren or just here for the drama\, LUN
 LOCATION:Ridley Road Market Bar\, 49 Ridley Rd\, London E8 2NP\, UK\, Lon
  don
 URL:https://www.ridleyroadmarketbar.com/event-details/lungs-karaoke-17
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_996a68384a1944ba80eaaaa964e
+ 2e9c7@thingstodoinyourcity
+DTSTAMP:20260811T095440Z
+DTSTART:20260812T203000Z
+SUMMARY:Rhys James: Work In Progress
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
+ ngton\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f33642a2e7be45088c1747e07d33b2cb-occ_4cbc9a97add549d29e30e2527f9
@@ -226,6 +238,17 @@ LOCATION:Meet at Welcome Desk\, 421 Ridout Street North\, London
 URL:https://www.eventsrealm.com/london-on/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2f8b8cbeed06425aa707e28e741b0adb-occ_b821eadd54b14654a102f613dc1
+ 996f2@thingstodoinyourcity
+DTSTAMP:20260812T002059Z
+DTSTART:20260813T170000Z
+SUMMARY:Mishikui
+DESCRIPTION:A new wave of UK emo fills the bill. Artist links are provide
+ d.\nPrice: £10.00\nhttps://pit.live/events/mishikui-1
+LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
+URL:https://pit.live/events/mishikui-1
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4770d5dfa49f41cd92695b32046a24f1-occ_d22ca70aa90f465391224c01efa
  c2a01@thingstodoinyourcity
 DTSTAMP:20260811T153847Z
@@ -235,6 +258,19 @@ DESCRIPTION:Real Life presents the new wave. It is UK emo.\nPrice: £10.0
  0\nhttps://pit.live/events/mishikui-1
 LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
 URL:https://pit.live/events/mishikui-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_024078a2cee7437a851591dc96fe48e4-occ_3cc0f9b1f7744cf6ba653069ced
+ cfeae@thingstodoinyourcity
+DTSTAMP:20260812T001107Z
+DTSTART:20260813T180000Z
+SUMMARY:After Work Flex
+DESCRIPTION:Owen from Flexin' brings throwback Hip Hop\, R&B classics and
+  Garage. The riverside session is completely free.\nPrice: Check site\nh
+ ttps://www.betweenthebridges.co.uk/events-btb/after-work-flex-13
+LOCATION:Dock\, THE QUEENS WALK\, SOUTHBANK\, LONDON\, SE1\, South Bank\,
+  London
+URL:https://www.betweenthebridges.co.uk/events-btb/after-work-flex-13
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c1d60135d2c648879368ebfb752daf4b-occ_830ebdda3f7e438b9ba281d1a65
@@ -1252,6 +1288,18 @@ LOCATION:Albert's Schloss - Soho\, 20-24 Shaftesbury Ave\, W1D 7EU\, West
   End\, London
 URL:https://alberts-schloss-london.designmynight.com/66963481aa68e777eb76
  38c0/baby-grand-slam
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4a174d55fb314a288d6ea0fb29235c12-occ_15431b3968524c7c8e66e0de609
+ ca44e@thingstodoinyourcity
+DTSTAMP:20260811T232610Z
+DTSTART:20260813T190000Z
+SUMMARY:Thursday Stand Up Comedy Show
+DESCRIPTION:Jeff Innocent and David Rose appear. More acts are to be anno
+ unced.\nPrice: £14\; concessions £11\nhttps://fixr.co/event/thursday-d
+ rury-tickets-273710053
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://fixr.co/event/thursday-drury-tickets-273710053
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1d0a67992f0c404ebccb12b5595e67f3-occ_f14baec1c9744510af1963dae55
