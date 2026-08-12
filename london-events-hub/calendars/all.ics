@@ -117,6 +117,20 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_29258edc79fa4e91a808dc915bacf6ec-occ_fd6bc6a121a24bdabbf2f73181b
+ 9fae1@thingstodoinyourcity
+DTSTAMP:20260811T223416Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260927
+SUMMARY:James McNeill Whistler
+DESCRIPTION:1 (pictured above) – also known as 'Whistler's Mother'. The
+  first to be held in Europe in 30 years.\nPrice: Check site\nhttps://wha
+ tsdownthatstreet.com/london-museum-guide/exhibitions-london/
+LOCATION:Tate Britain\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f0338ed5d34240708ccc0c65714c709b-occ_2f63a691ebef48b7b81cc5919c1
  16e8c@thingstodoinyourcity
 DTSTAMP:20260811T195052Z
@@ -228,6 +242,22 @@ LOCATION:Southbank Centre\, London
 URL:https://southbank.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3852f30fe4ea43f0911351b35035253f-occ_77c710a336064a5ea99fe2c0aca
+ 8a9ad@thingstodoinyourcity
+DTSTAMP:20260812T002426Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260905
+SUMMARY:The Tiger Who Came to Tea
+DESCRIPTION:Sophie and her mummy sit down to tea before a big\, stripy ti
+ ger arrives. The stage is set for a return.\nPrice: Check site\nhttps://
+ www.whatsonstage.com/shows/london-theatre/west-end-theatre/the-tiger-who
+ -came-to-tea_1717263
+LOCATION:Theatre Royal Haymarket\, 18 Suffolk Street\, West End\, SW1Y 4H
+ T\, West End\, London
+URL:https://www.whatsonstage.com/shows/london-theatre/west-end-theatre/th
+ e-tiger-who-came-to-tea_1717263
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_83d231b7a7004bbe9c36d01fa72fbd53-occ_7230b63adb6643648a986cbc88e
  51b84@thingstodoinyourcity
 DTSTAMP:20260811T132253Z
@@ -258,6 +288,22 @@ LOCATION:The Photographers' Gallery\, 16-18 Ramillies Street\, London\, G
  reater London\, W1F 7LW\, London
 URL:https://www.artfund.org/explore/exhibitions/2026/06/24/japanese-women
  -photographers-from-1950s-to-now
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fef750085f4a452f9e510382c431d7ce-occ_1402930d88ec4e6d8a7ed6cc010
+ 98ec2@thingstodoinyourcity
+DTSTAMP:20260812T002554Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260912
+SUMMARY:To Kill a Mockingbird
+DESCRIPTION:Aaron Sorkin’s award-winning stage adaptation returns for a
+  strictly limited season. Richard Coyle stars in the production.\nPrice:
+  Check site\nhttps://www.whatsonstage.com/shows/london-theatre/west-end-
+ theatre/to-kill-a-mockingbird_1712850
+LOCATION:Wyndham's Theatre\, Charing Cross Road\, West End\, WC2H 0DA\, W
+ est End\, London
+URL:https://www.whatsonstage.com/shows/london-theatre/west-end-theatre/to
+ -kill-a-mockingbird_1712850
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_83511e7a82984049a5a9e68af4d57399-occ_dbc8f4671f33473ba6a5e37dfd0
@@ -308,6 +354,35 @@ DESCRIPTION:Watch an epic projected in 70mm IMAX. It screens on Britain's
   biggest screen.\nPrice: Check site\nhttps://southbank.london/whats-on
 LOCATION:BFI IMAX\, London
 URL:https://southbank.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3a6d79f6a7174767a679a19b0b83204b-occ_4118f04cc3024ad9a10be0a4b5a
+ 6b39c@thingstodoinyourcity
+DTSTAMP:20260812T001944Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260822
+SUMMARY:The Enormous Crocodile
+DESCRIPTION:The musical features toe-tapping tunes. It also features a me
+ nagerie of puppets.\nPrice: Check site\nhttps://www.whatsonstage.com/sho
+ ws/london-theatre/off-west-end-theatre/the-enormous-crocodile_1713161
+LOCATION:Lyric Hammersmith Theatre\, King Street\, Hammersmith\, Outer Lo
+ ndon\, W6 0QL\, Off-West End\, London
+URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
+ e/the-enormous-crocodile_1713161
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3a6d79f6a7174767a679a19b0b83204b-occ_3c0d07150a5a43d88b366968428
+ f09c9@thingstodoinyourcity
+DTSTAMP:20260812T001944Z
+DTSTART;VALUE=DATE:20260822
+SUMMARY:The Enormous Crocodile
+DESCRIPTION:The musical features toe-tapping tunes. It also features a me
+ nagerie of puppets.\nPrice: Check site\nhttps://www.whatsonstage.com/sho
+ ws/london-theatre/off-west-end-theatre/the-enormous-crocodile_1713161
+LOCATION:Lyric Hammersmith Theatre\, King Street\, Hammersmith\, Outer Lo
+ ndon\, W6 0QL\, Off-West End\, London
+URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
+ e/the-enormous-crocodile_1713161
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_58c8de7513544c22980d4011abaa67fc-occ_3f157ca0808f43db8b830fa4cee
@@ -373,6 +448,63 @@ LOCATION:Orange Tree Theatre\, Richmond\, London Borough of Richmond upon
 URL:https://orangetreetheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6e20d398eff34d48bc9ad3276084ed3f-occ_e9faaa26cddf42d684e57b6579d
+ 7bc02@thingstodoinyourcity
+DTSTAMP:20260812T001432Z
+DTSTART:20260731T133000Z
+DTEND;VALUE=DATE:20260906
+SUMMARY:Now You See Me Live
+DESCRIPTION:The acclaimed stage illusion spectacular brings magic to life
+  with high-tech illusions and solo stunts. The live spectacle includes n
+ ever-before-seen feats of wonder.\nPrice: Check site\nhttps://londoncoli
+ seum.org/events/now-you-see-me-live
+LOCATION:London Coliseum\, St Martin’s Lane\, London WC2N 4ES\, St Mart
+ in's Lane / West End\, London
+URL:https://londoncoliseum.org/events/now-you-see-me-live
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6e20d398eff34d48bc9ad3276084ed3f-occ_c40bacfcb692470aa42b9661a2f
+ 786c0@thingstodoinyourcity
+DTSTAMP:20260812T001432Z
+DTSTART:20260816T133000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:The acclaimed stage illusion spectacular brings magic to life
+  with high-tech illusions and solo stunts. The live spectacle includes n
+ ever-before-seen feats of wonder.\nPrice: Check site\nhttps://londoncoli
+ seum.org/events/now-you-see-me-live
+LOCATION:London Coliseum\, St Martin’s Lane\, London WC2N 4ES\, St Mart
+ in's Lane / West End\, London
+URL:https://londoncoliseum.org/events/now-you-see-me-live
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6e20d398eff34d48bc9ad3276084ed3f-occ_96eb5de777104831ae4202ccfb7
+ 04691@thingstodoinyourcity
+DTSTAMP:20260812T001432Z
+DTSTART:20260816T180000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:The acclaimed stage illusion spectacular brings magic to life
+  with high-tech illusions and solo stunts. The live spectacle includes n
+ ever-before-seen feats of wonder.\nPrice: Check site\nhttps://londoncoli
+ seum.org/events/now-you-see-me-live
+LOCATION:London Coliseum\, St Martin’s Lane\, London WC2N 4ES\, St Mart
+ in's Lane / West End\, London
+URL:https://londoncoliseum.org/events/now-you-see-me-live
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6e20d398eff34d48bc9ad3276084ed3f-occ_9b7e9eed9b284b98b14399b349f
+ b84b0@thingstodoinyourcity
+DTSTAMP:20260812T001432Z
+DTSTART;VALUE=DATE:20260906
+SUMMARY:Now You See Me Live
+DESCRIPTION:The acclaimed stage illusion spectacular brings magic to life
+  with high-tech illusions and solo stunts. The live spectacle includes n
+ ever-before-seen feats of wonder.\nPrice: Check site\nhttps://londoncoli
+ seum.org/events/now-you-see-me-live
+LOCATION:London Coliseum\, St Martin’s Lane\, London WC2N 4ES\, St Mart
+ in's Lane / West End\, London
+URL:https://londoncoliseum.org/events/now-you-see-me-live
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_736c1782b6334c00a960a52c8e65301e-occ_c1ffda93d80f4b6299e7d8e841a
  d1c7c@thingstodoinyourcity
 DTSTAMP:20260811T195132Z
@@ -397,6 +529,21 @@ DESCRIPTION:By William Shakespeare. Directed by Tom Littler.\nPrice: Chec
 LOCATION:Orange Tree Theatre\, Richmond\, London Borough of Richmond upon
   Thames\, London
 URL:https://orangetreetheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c206079c3ec348d78be51e4be512c276-occ_272e2e49ad9d4448ad852dfb2b5
+ 2da36@thingstodoinyourcity
+DTSTAMP:20260812T001253Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260831
+SUMMARY:No Strings Attached – Puppets on Film
+DESCRIPTION:This film season celebrates puppeteers and practical performa
+ nce. It brings together family favourites\, cult classics and boundary-p
+ ushing comedy.\nPrice: Check site\nhttps://southbank.london/whats-on/no-
+ strings-attached-puppets-on-film
+LOCATION:BFI Southbank\, BFI Southbank\, Belvedere Road\, London\, UK\, L
+ ondon
+URL:https://southbank.london/whats-on/no-strings-attached-puppets-on-film
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9590644da7c0449ea1b0c4b7afa6569f-occ_c35240a6608c437081b6b98598d
@@ -520,50 +667,6 @@ LOCATION:BOTH Gallery\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6f7ac891b36e4bbeabe3cc6f2160cc41-occ_31a469a6543c4fc791749904068
- 3957b@thingstodoinyourcity
-DTSTAMP:20260811T203021Z
-DTSTART:20260811T173000Z
-SUMMARY:Celine Kuklowsky: Bed Boy (EdFringe Preview)
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1954619a63984d978ff5884db8792123-occ_ca98a5afafd74cb09c1de2d4bf6
- 9dabd@thingstodoinyourcity
-DTSTAMP:20260811T092249Z
-DTSTART:20260811T190000Z
-SUMMARY:Liam McGough & Dave Vaughan: Two Guys/One GCSE
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_ab672294d5514f65ae4a14ab651
- c57c0@thingstodoinyourcity
-DTSTAMP:20260811T095440Z
-DTSTART:20260811T210000Z
-SUMMARY:Rhys James: Work In Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_996a68384a1944ba80eaaaa964e
- 2e9c7@thingstodoinyourcity
-DTSTAMP:20260811T095440Z
-DTSTART:20260812T203000Z
-SUMMARY:Rhys James: Work In Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
- ngton\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_84c12ee5a89b44e4b6170641f08e89fb-occ_f569d90ae3a14639adfdc047923
  dd59a@thingstodoinyourcity
 DTSTAMP:20260811T034107Z
@@ -608,6 +711,104 @@ LOCATION:23 Kingsway\, Covent Garden\, London
 URL:https://fixr.co/event/wednesday-kw-tickets-393871786
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_82d137175e7840b2be42426ad09
+ 877d7@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260812T133000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_24895d19d67747f096245163edf
+ 717c8@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260812T183000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_30894e89dc7a48e887efbafd10e
+ b5572@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260813T183000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_1c1e5cf1de7a4c04a151e868c1d
+ 61b5c@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260814T183000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_2a9d1cb47fa047f1ae9d377ca5a
+ f0d59@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260815T133000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_485f414ed99640fd8dd6924c8d4
+ b11bc@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260815T183000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c4a22f0377948f6bccba4a2db1155bf-occ_226d463f97b04a01b6d6b1c8079
+ 1c7c4@thingstodoinyourcity
+DTSTAMP:20260812T002100Z
+DTSTART:20260816T133000Z
+SUMMARY:The Comedy About Spies
+DESCRIPTION:The production brings spies together over a top-secret weapon
+  file. The original West End cast returns with Bryony Corrigan.\nPrice: 
+ Check site\nhttps://whatsonstage.londontheatredirect.com/booking/the-com
+ edy-about-spies-tickets/08-2026/776040
+LOCATION:Adelphi Theatre\, London
+URL:https://whatsonstage.londontheatredirect.com/booking/the-comedy-about
+ -spies-tickets/08-2026/776040
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4226fda7e29a47d58fbfb5c2f4aca290-occ_9ecc9bfcb6b84a00b8588a0cd89
  f9058@thingstodoinyourcity
 DTSTAMP:20260811T195902Z
@@ -643,6 +844,37 @@ LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
 URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_552c53b8ad0c4ec4937b6f461df43a30-occ_334c99517ae84adab4fb77be17c
+ b6286@thingstodoinyourcity
+DTSTAMP:20260812T003353Z
+DTSTART:20260812T173000Z
+SUMMARY:Daisy Rickman plays Nick Drake’s Guitar
+DESCRIPTION:The performance features songs performed on two guitars. The 
+ guitars bookend a short but hugely influential career.\nPrice: Check sit
+ e\nhttps://earthackney.co.uk/events/daisy-rickman-plays-nick-drakes-guit
+ ar-12th-aug-earth-london-tickets-l8dknr
+LOCATION:EartH Theatre\, 11-17 Stoke Newington Rd\, London\, N16 8BH\, Da
+ lston\, London
+URL:https://earthackney.co.uk/events/daisy-rickman-plays-nick-drakes-guit
+ ar-12th-aug-earth-london-tickets-l8dknr
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_36998fc84df849aeb2f9b05d48e18f74-occ_bfa021e8375740aa874d30d7881
+ 9215f@thingstodoinyourcity
+DTSTAMP:20260812T001903Z
+DTSTART:20260812T180000Z
+SUMMARY:Grubby Little Mitts: Late Night 70’s Game Show
+DESCRIPTION:A retro game show/sketch show features catch phrases\, cue ca
+ rds and audience participation. Running time is 60 minutes\; age advisor
+ y is 14+.\nPrice: Ticket Prices Include a £1.25 Venue Restoration Levy\
+ nhttps://www.museumofcomedy.com/grubby-little-mitts-late-night-70s-game-
+ show
+LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
+ ry Way\, London\, WC1A 2SR\, Bloomsbury Way\, London
+URL:https://www.museumofcomedy.com/grubby-little-mitts-late-night-70s-gam
+ e-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4b06315a199941178e76d440926bbad0-occ_fa0a47efab8f40139e00406632a
  a7490@thingstodoinyourcity
 DTSTAMP:20260811T203340Z
@@ -654,6 +886,20 @@ DESCRIPTION:Russell Hicks and David McSavage are listed among the comedia
  3097795
 LOCATION:170 Drury Lane\, Covent Garden\, London
 URL:https://fixr.co/event/wednesday-dl-tickets-23097795
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c76eca96050c4b7b8afe01aa68f676c8-occ_f2a9472db51340a497c2523dbea
+ 6718a@thingstodoinyourcity
+DTSTAMP:20260812T003627Z
+DTSTART:20260812T193000Z
+SUMMARY:Henry Paker Work In Progress
+DESCRIPTION:This work-in-progress show comes from Henry Paker. It combine
+ s stand-up comedy and live illustration.\nPrice: Ticket Prices Include a
+  £1.25 Venue Restoration Levy\nhttps://www.museumofcomedy.com/henry-pak
+ er-work-in-progress
+LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
+ ry Way\, London\, WC1A 2SR\, Bloomsbury\, London
+URL:https://www.museumofcomedy.com/henry-paker-work-in-progress
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e933a30f98d4436d888569192c73a124-occ_44ce2984537d404ea621e0b2350
@@ -680,6 +926,17 @@ DESCRIPTION:Whether you're a stage siren or just here for the drama\, LUN
 LOCATION:Ridley Road Market Bar\, 49 Ridley Rd\, London E8 2NP\, UK\, Lon
  don
 URL:https://www.ridleyroadmarketbar.com/event-details/lungs-karaoke-17
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f55595cbbf642f689c28ac7836f4bf3-occ_996a68384a1944ba80eaaaa964e
+ 2e9c7@thingstodoinyourcity
+DTSTAMP:20260811T095440Z
+DTSTART:20260812T203000Z
+SUMMARY:Rhys James: Work In Progress
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
+ ngton\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f33642a2e7be45088c1747e07d33b2cb-occ_4cbc9a97add549d29e30e2527f9
@@ -760,6 +1017,17 @@ LOCATION:Meet at Welcome Desk\, 421 Ridout Street North\, London
 URL:https://www.eventsrealm.com/london-on/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2f8b8cbeed06425aa707e28e741b0adb-occ_b821eadd54b14654a102f613dc1
+ 996f2@thingstodoinyourcity
+DTSTAMP:20260812T002059Z
+DTSTART:20260813T170000Z
+SUMMARY:Mishikui
+DESCRIPTION:A new wave of UK emo fills the bill. Artist links are provide
+ d.\nPrice: £10.00\nhttps://pit.live/events/mishikui-1
+LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
+URL:https://pit.live/events/mishikui-1
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4770d5dfa49f41cd92695b32046a24f1-occ_d22ca70aa90f465391224c01efa
  c2a01@thingstodoinyourcity
 DTSTAMP:20260811T153847Z
@@ -769,6 +1037,19 @@ DESCRIPTION:Real Life presents the new wave. It is UK emo.\nPrice: £10.0
  0\nhttps://pit.live/events/mishikui-1
 LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
 URL:https://pit.live/events/mishikui-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_024078a2cee7437a851591dc96fe48e4-occ_3cc0f9b1f7744cf6ba653069ced
+ cfeae@thingstodoinyourcity
+DTSTAMP:20260812T001107Z
+DTSTART:20260813T180000Z
+SUMMARY:After Work Flex
+DESCRIPTION:Owen from Flexin' brings throwback Hip Hop\, R&B classics and
+  Garage. The riverside session is completely free.\nPrice: Check site\nh
+ ttps://www.betweenthebridges.co.uk/events-btb/after-work-flex-13
+LOCATION:Dock\, THE QUEENS WALK\, SOUTHBANK\, LONDON\, SE1\, South Bank\,
+  London
+URL:https://www.betweenthebridges.co.uk/events-btb/after-work-flex-13
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c1d60135d2c648879368ebfb752daf4b-occ_830ebdda3f7e438b9ba281d1a65
@@ -1788,6 +2069,18 @@ URL:https://alberts-schloss-london.designmynight.com/66963481aa68e777eb76
  38c0/baby-grand-slam
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4a174d55fb314a288d6ea0fb29235c12-occ_15431b3968524c7c8e66e0de609
+ ca44e@thingstodoinyourcity
+DTSTAMP:20260811T232610Z
+DTSTART:20260813T190000Z
+SUMMARY:Thursday Stand Up Comedy Show
+DESCRIPTION:Jeff Innocent and David Rose appear. More acts are to be anno
+ unced.\nPrice: £14\; concessions £11\nhttps://fixr.co/event/thursday-d
+ rury-tickets-273710053
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://fixr.co/event/thursday-drury-tickets-273710053
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1d0a67992f0c404ebccb12b5595e67f3-occ_f14baec1c9744510af1963dae55
  390ed@thingstodoinyourcity
 DTSTAMP:20260811T064836Z
@@ -1876,6 +2169,29 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_03917ceaa4c44fc79f09ff369a7597e0-occ_1982c190091f4e048736c243a6e
+ cdd48@thingstodoinyourcity
+DTSTAMP:20260812T002557Z
+DTSTART:20260814T170000Z
+SUMMARY:Kodiak Bears
+DESCRIPTION:The bill brings feral punk ’n’ roll and straight-up rock 
+ with teeth. It features high-energy rock from the South of England.\nPri
+ ce: £7.00\nhttps://pit.live/events/kodiak-bears-2
+LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
+URL:https://pit.live/events/kodiak-bears-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c0e3082f9b74f7b82e8197a6b0a2c18-occ_39fc47b7942940f48bc241474bd
+ 1b3ff@thingstodoinyourcity
+DTSTAMP:20260811T235227Z
+DTSTART:20260814T173000Z
+DTEND:20260814T210000Z
+SUMMARY:Eastside Live Presents: Frequency
+DESCRIPTION:Price: Check site\nhttps://earthackney.co.uk/events
+LOCATION:EartH Hackney\, Dalston / Hackney\, London
+URL:https://earthackney.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e0012a10f502404ba38fefe080f78369-occ_2c40702023f3431bba74377408c
@@ -2706,6 +3022,35 @@ LOCATION:23 Kingsway\, Covent Garden\, London
 URL:https://fixr.co/event/friday-10pm-show-tickets-544781365
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4b0f423b4fd1491eaf07b3f3f4e13279-occ_78160789babf4901ae0831a0a57
+ a1a8c@thingstodoinyourcity
+DTSTAMP:20260812T002256Z
+DTSTART:20260814T213000Z
+DTEND:20260814T233000Z
+SUMMARY:Clark Rainbow
+DESCRIPTION:A hyperpop\, nightcore and trance club night brings jumpy DJ 
+ sets. Sparkly live performances are also planned.\nPrice: First Release 
+ SOLD OUT £10\; General Admission £12\; Ticket Price £10.00\; Booking 
+ fee £1.00\; Grand Total £11.00\nhttps://pit.live/events/clark-rainbow
+LOCATION:The Waiting Room\, 175 Stoke Newington High Street\, London\, N1
+ 6 0PE\, London
+URL:https://pit.live/events/clark-rainbow
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec3356568d6a401cb22962098b9bf4f2-occ_4193fb68b98b41c2b9990d88f12
+ d0c08@thingstodoinyourcity
+DTSTAMP:20260812T001753Z
+DTSTART:20260814T220000Z
+DTEND;VALUE=DATE:20260816
+SUMMARY:Nitecawr w/ Cortisa Star & Dazegxd
+DESCRIPTION:An all-night rave features CORTISA STAR and DAZEGXD. DJs and 
+ live performances include SOMA\, ISH99NI and DJ ROSETOY.\nPrice: Check s
+ ite\nhttps://www.colourfactory.com/whatson/nitecawr-w-cortisa-star-dazeg
+ xd
+LOCATION:Colour Factory\, Hackney Wick\, London
+URL:https://www.colourfactory.com/whatson/nitecawr-w-cortisa-star-dazegxd
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_34e8941560874f61886018ed265f693f-occ_0500c91951e64a4b872945aaaf5
  de11b@thingstodoinyourcity
 DTSTAMP:20260811T213602Z
@@ -2871,6 +3216,27 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c9d681c160244f469ade49851f2ae873-occ_764ca67a96b34a3fb880fc3eec1
+ 23c4e@thingstodoinyourcity
+DTSTAMP:20260812T003512Z
+DTSTART:20260815T170000Z
+SUMMARY:Never A Phase
+DESCRIPTION:Price: Check site\nhttps://pit.live/events/meiotempo
+LOCATION:New Cross Inn\, London
+URL:https://pit.live/events/meiotempo
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5adaedcfcdd6481caeea365b3b10fc0e-occ_3f74dcf016eb469fbe6bc6ead2c
+ 00de3@thingstodoinyourcity
+DTSTAMP:20260812T003737Z
+DTSTART:20260815T170000Z
+SUMMARY:Stonebwoy
+DESCRIPTION:BHIM FESTIVAL has guest acts. Guest acts join the festival.\n
+ Price: Check site\nhttps://www.ovoarena.co.uk/
+LOCATION:OVO Arena Wembley\, Wembley\, London
+URL:https://www.ovoarena.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_19f30cde6e234b8d8d8f736a1381893c-occ_29bcaf7f72294b10b720394b68b
@@ -3072,6 +3438,18 @@ DESCRIPTION:A special theatre props sale is offered. A samples and second
  ats-on
 LOCATION:National Theatre\, London
 URL:https://southbank.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0e69f5e1cd84bd7941d969689d34d98-occ_5b9b24adaee14cc6a18fd4be223
+ 3110a@thingstodoinyourcity
+DTSTAMP:20260812T002150Z
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Jimmy Eat World
+DESCRIPTION:The show features Bleed American in full for its 25th anniver
+ sary. Rarities and hits span the band’s catalogue.\nPrice: Check site\
+ nhttps://www.palacebowlpresents.co.uk/events/jimmy-eat-world
+LOCATION:Crystal Palace Bowl\, London
+URL:https://www.palacebowlpresents.co.uk/events/jimmy-eat-world
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_448fcbc1678f4e2d9fcb8fa547bc9e4d-occ_e10eead5d4124e1e81c915c9fa4
@@ -3914,6 +4292,22 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:Angel Comedy Club (The Bill Murray & Camden Head)\, Angel\, Isli
  ngton\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2e7624d70c9c475d915183aaba093f9b-occ_5b9f2be1a2cc4b57ac8af754413
+ ef110@thingstodoinyourcity
+DTSTAMP:20260812T001811Z
+DTSTART:20260816T153000Z
+SUMMARY:Sunday Sessions - Twin Sun
+DESCRIPTION:The duo return with yacht rock and smooth sunny soul sounds. 
+ A carefully curated soundtrack features Balearic beats\, soul and R&B.\n
+ Price: Check site\nhttps://www.betweenthebridges.co.uk/events-btb/sunday
+ -sessions-31-kpwn6-f2sga-bpckk-7nwsp-cl9nw-dccab-lrkpa-mj9s8-nls99-w88xd
+ -6rw8p-e3g38
+LOCATION:Between The Bridges\, THE QUEENS WALK\, SOUTHBANK\, LONDON\, SE1
+ \, South Bank\, London
+URL:https://www.betweenthebridges.co.uk/events-btb/sunday-sessions-31-kpw
+ n6-f2sga-bpckk-7nwsp-cl9nw-dccab-lrkpa-mj9s8-nls99-w88xd-6rw8p-e3g38
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e00a3162b8a400c9c26e4856833e6a6-occ_985db305dd0242d1867631f0aa7
