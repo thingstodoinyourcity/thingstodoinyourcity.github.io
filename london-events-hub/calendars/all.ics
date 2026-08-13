@@ -8,6 +8,22 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_05f5792b90614f7e801f5bc72067d92b-occ_07b6e542047e420d86c4b7dc373
+ 8f7bc@thingstodoinyourcity
+DTSTAMP:20260813T073143Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260831
+SUMMARY:Tracey Emin: A Second Life — Tate Modern\, London
+DESCRIPTION:The exhibition spans more than four decades of work. It explo
+ res a deeply personal artistic language through painting\, installation\
+ , sculpture\, textiles and video.\nPrice: Check site\nhttps://www.london
+ museumtours.com/temporary-exhibitions/tracey-emin-a-second-life-at-tate-
+ modern
+LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
+URL:https://www.londonmuseumtours.com/temporary-exhibitions/tracey-emin-a
+ -second-life-at-tate-modern
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e792c2a1dc784547b182075127b0bb6c-occ_fde6ffe152574001928020b3d09
  26a88@thingstodoinyourcity
 DTSTAMP:20260811T194038Z
@@ -32,6 +48,23 @@ DESCRIPTION:Price: Check site\nhttps://whatsdownthatstreet.com/london-mus
 LOCATION:Victoria and Albert Museum (V&A)\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9bab8b6cb974dfbbf861d0633d881a3-occ_18afcba241b94fb78e4c42bacb5
+ c07eb@thingstodoinyourcity
+DTSTAMP:20260813T073603Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260920
+SUMMARY:Early Netherlandish Drawings: British Museum Guide 2026
+DESCRIPTION:This exhibition explores how drawing evolved from a workshop 
+ tool into an art form. It brings together works by artists including Rog
+ ier van der Weyden and Lucas van Leyden.\nPrice: Check site\nhttps://www
+ .londonmuseumtours.com/temporary-exhibitions/early-netherlandish-drawing
+ s
+LOCATION:Room 90\, British Museum\, Great Russell Street\, London WC1B 3D
+ G\, London
+URL:https://www.londonmuseumtours.com/temporary-exhibitions/early-netherl
+ andish-drawings
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_efe8330ab050450b950cd4f6760a4c4e-occ_7942287faef74c8f8c7d7b40aaf
@@ -604,22 +637,6 @@ LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7ab8eee605734b6fa8310bc6373e1a24-occ_ce5cabe15267432381ec8ff1e43
- 654e7@thingstodoinyourcity
-DTSTAMP:20260813T062914Z
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260824
-SUMMARY:All Stars & Dynamos Cricket
-DESCRIPTION:National programmes introduce children to cricket. They are d
- esigned to be fun\, inclusive and engaging.\nPrice: Check site\nhttps://
- www.norfolkcricket.co.uk/ecb-national-programmes-all-stars-dynamos-crick
- et-2026-register-now
-LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
- \, London
-URL:https://www.norfolkcricket.co.uk/ecb-national-programmes-all-stars-dy
- namos-cricket-2026-register-now
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3d359dbbe3684846a25f5ac15f12c85b-occ_04ccee8446b244358660f7188d0
  d01ec@thingstodoinyourcity
 DTSTAMP:20260811T133415Z
@@ -983,17 +1000,6 @@ DTSTART:20260813T170000Z
 SUMMARY:Mishikui
 DESCRIPTION:A new wave of UK emo fills the bill. Artist links are provide
  d.\nPrice: £10.00\nhttps://pit.live/events/mishikui-1
-LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
-URL:https://pit.live/events/mishikui-1
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4770d5dfa49f41cd92695b32046a24f1-occ_d22ca70aa90f465391224c01efa
- c2a01@thingstodoinyourcity
-DTSTAMP:20260811T153847Z
-DTSTART:20260813T170000Z
-SUMMARY:Mishikui
-DESCRIPTION:Real Life presents the new wave. It is UK emo.\nPrice: £10.0
- 0\nhttps://pit.live/events/mishikui-1
 LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
 URL:https://pit.live/events/mishikui-1
 END:VEVENT
@@ -3753,6 +3759,17 @@ DTSTAMP:20260813T054303Z
 DTSTART:20260815T203000Z
 DTEND;VALUE=DATE:20260815
 SUMMARY:The Best in Stand Up - Saturday 15th August
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:The Comedy Store\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b62b3932def4035916ea05180787315-occ_399bd2e2d9e7411d8e20589fdec
+ b8c3b@thingstodoinyourcity
+DTSTAMP:20260813T082012Z
+DTSTART:20260815T203000Z
+SUMMARY:The Best in Stand Up: Saturday
 DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
  dy
 LOCATION:The Comedy Store\, London
