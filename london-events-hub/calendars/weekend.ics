@@ -120,20 +120,6 @@ LOCATION:Sainsbury Wing\, Trafalgar Square\, London WC2N 5DN\, Trafalgar
 URL:https://www.londonmuseumtours.com/temporary-exhibitions/zurbaran
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_146707a6e1564da09179ffcdfae21cc0-occ_e96816fee32047d78e5999dc193
- cfd46@thingstodoinyourcity
-DTSTAMP:20260811T193451Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20270131
-SUMMARY:Henry Moore: Monumental Nature
-DESCRIPTION:More than 30 sculptures are positioned across 320 acres. 90 m
- ore are in the Shirley Sherwood Gallery.\nPrice: Check site\nhttps://wha
- tsdownthatstreet.com/london-museum-guide/exhibitions-london/
-LOCATION:Kew Gardens\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8098162f2154441bbc7265f48535115a-occ_b738548df85546b493329e1fafd
  25064@thingstodoinyourcity
 DTSTAMP:20260812T164141Z
@@ -604,18 +590,34 @@ LOCATION:Torriano Meeting House\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_38940fede80943669c879cafd534593e-occ_75279b7469324918bc42835bcf3
- 05559@thingstodoinyourcity
-DTSTAMP:20260812T022931Z
+UID:cand_222b72e159ed454c90a676b595a33749-occ_58145064ffc64635a3a1ad174c9
+ 0966e@thingstodoinyourcity
+DTSTAMP:20260813T045434Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260824
 SUMMARY:All Stars & Dynamos Cricket
-DESCRIPTION:National programmes introduce children to cricket in a fun\, 
- inclusive way. They are designed to be engaging.\nPrice: Check site\nhtt
- ps://chiswickhouseandgardens.org.uk/whats-on/
+DESCRIPTION:National programmes introduce children to cricket. They are f
+ un\, inclusive and engaging.\nPrice: Check site\nhttps://chiswickhousean
+ dgardens.org.uk/whats-on/
 LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
  \, London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ab8eee605734b6fa8310bc6373e1a24-occ_ce5cabe15267432381ec8ff1e43
+ 654e7@thingstodoinyourcity
+DTSTAMP:20260813T062914Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260824
+SUMMARY:All Stars & Dynamos Cricket
+DESCRIPTION:National programmes introduce children to cricket. They are d
+ esigned to be fun\, inclusive and engaging.\nPrice: Check site\nhttps://
+ www.norfolkcricket.co.uk/ecb-national-programmes-all-stars-dynamos-crick
+ et-2026-register-now
+LOCATION:Chiswick House & Gardens\, Chiswick\, London Borough of Hounslow
+ \, London
+URL:https://www.norfolkcricket.co.uk/ecb-national-programmes-all-stars-dy
+ namos-cricket-2026-register-now
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3d359dbbe3684846a25f5ac15f12c85b-occ_04ccee8446b244358660f7188d0
@@ -1646,6 +1648,18 @@ DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
  s/
 LOCATION:Prince Charles Cinema\, Leicester Square / West End\, London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c9b36c89a8a64e9999ce0af86809eb41-occ_26acfb6c51bb4b3496da1df9c81
+ 53fa2@thingstodoinyourcity
+DTSTAMP:20260813T054303Z
+DTSTART:20260815T203000Z
+DTEND;VALUE=DATE:20260815
+SUMMARY:The Best in Stand Up - Saturday 15th August
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:The Comedy Store\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_53b30f500efe4ac29c81a9bae42fa1d9-occ_9042996fdfc64916baf3d2056a8
