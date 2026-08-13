@@ -7,4 +7,47 @@ X-WR-CALNAME:London Events — All
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_3b55e16727694e8d99ba14013e955b0b-occ_5d81180b0c154b268b666298e9b
+ 9d357@thingstodoinyourcity
+DTSTAMP:20260813T202406Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Annie Whitehead New 5tet
+DESCRIPTION:She has worked across the UK jazz scene. Her projects explore
+  many different musical styles.\nPrice: Standard £18 / Vortex Members 
+ £16 / Students & UC beneficiaries £14\nhttps://www.vortexjazz.co.uk/ev
+ ents/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
+ n\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_353520ef481a445db7f3cadb464181b3-occ_888241401d8247609e30abb2c27
+ 10bfc@thingstodoinyourcity
+DTSTAMP:20260813T203350Z
+DTSTART;VALUE=DATE:20260816
+DTEND:20260816T160000Z
+SUMMARY:Mopomoso: International Free Improvised Music
+DESCRIPTION:The lineup includes Julian Woods\, Steve Beresford\, Susanna 
+ Ferrar\, Tracy Lisk and others. They are not necessarily playing in this
+  order.\nPrice: Standard £12.50 / Vortex Members £8 / Students & UC be
+ neficiaries £8\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
+ n\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_353520ef481a445db7f3cadb464181b3-occ_dd75c626f96241f5b93f1e2274b
+ 727c7@thingstodoinyourcity
+DTSTAMP:20260813T203350Z
+DTSTART;VALUE=DATE:20260816
+SUMMARY:Mopomoso: International Free Improvised Music
+DESCRIPTION:The lineup includes Julian Woods\, Steve Beresford\, Susanna 
+ Ferrar\, Tracy Lisk and others. They are not necessarily playing in this
+  order.\nPrice: Standard £12.50 / Vortex Members £8 / Students & UC be
+ neficiaries £8\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
+ n\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
 END:VCALENDAR
