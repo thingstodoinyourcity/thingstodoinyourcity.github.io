@@ -22,6 +22,19 @@ LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
 URL:https://www.vortexjazz.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_31366dbb12ac45f498559e8a0a8e4f4d-occ_247a149dc3b440c69f9f76c9544
+ 9c0d0@thingstodoinyourcity
+DTSTAMP:20260813T225752Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Saturday Stand Up Comedy Late Late Show
+DESCRIPTION:Top secret acts are to be announced. The acts are top secret.
+ \nPrice: £11\; concessions £9\nhttps://thetopsecretcomedyclub.co.uk/ev
+ ents-listings/
+LOCATION:The Top Secret Comedy Club\, 170 Drury Lane\, Covent Garden\, Lo
+ ndon
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_353520ef481a445db7f3cadb464181b3-occ_888241401d8247609e30abb2c27
  10bfc@thingstodoinyourcity
 DTSTAMP:20260813T203350Z
@@ -49,5 +62,33 @@ DESCRIPTION:The lineup includes Julian Woods\, Steve Beresford\, Susanna
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
  n\, London
 URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_67e102f9e1fa459ea8264f7ce3f5bb69-occ_161d4ab0a8af4cee8af5d78fb94
+ 5266b@thingstodoinyourcity
+DTSTAMP:20260813T230549Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+SUMMARY:Sunday Stand Up Comedy 5pm Show
+DESCRIPTION:Entry is covered by the booking price. Contributions are coll
+ ected after the event to support the acts and club.\nPrice: £1\; Conces
+ sions: FREE\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+LOCATION:170a Drury Lane - Basement\, 170 Drury Lane (basement)\, Covent 
+ Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_67e102f9e1fa459ea8264f7ce3f5bb69-occ_d6c933dacda44028808b5febd19
+ 332e7@thingstodoinyourcity
+DTSTAMP:20260813T230549Z
+DTSTART:20260816T160000Z
+DTEND;VALUE=DATE:20260816
+SUMMARY:Sunday Stand Up Comedy 5pm Show
+DESCRIPTION:Entry is covered by the booking price. Contributions are coll
+ ected after the event to support the acts and club.\nPrice: £1\; Conces
+ sions: FREE\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+LOCATION:170a Drury Lane - Basement\, 170 Drury Lane (basement)\, Covent 
+ Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 END:VCALENDAR
