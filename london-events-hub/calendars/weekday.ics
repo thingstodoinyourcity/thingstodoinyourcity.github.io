@@ -7,4 +7,30 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_2dbd84e12b7c4d8da4f918d3dc3960ee-occ_d5e857f332d34c56a37dc6c748d
+ 1095b@thingstodoinyourcity
+DTSTAMP:20260813T230245Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+SUMMARY:Friday Stand Up Comedy Early Show
+DESCRIPTION:Jeff Innocent appears with a top secret mystery guest. The ce
+ lebrity guest remains secret.\nPrice: £11\; Concessions: £9\nhttps://t
+ hetopsecretcomedyclub.co.uk/events-listings/
+LOCATION:170 Drury Lane\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_064b6ef11bfc40c8a32156ae786ce8ad-occ_22d4a1d63a864bb2bcaea57723f
+ 66b08@thingstodoinyourcity
+DTSTAMP:20260813T230625Z
+DTSTART;VALUE=DATE:20260814
+SUMMARY:When Chai Met Toast
+DESCRIPTION:DHP Presents When Chai Met Toast with support at The Garage. 
+ Tickets are available for the London show.\nPrice: £18\nhttps://www.the
+ garage.london/live/
+LOCATION:The Garage\, 20-22 Highbury Corner\, London\, N5 1RD\, Highbury 
+ & Islington\, London
+URL:https://www.thegarage.london/live/
+END:VEVENT
 END:VCALENDAR
