@@ -8,6 +8,19 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_e328225d3b144dd38b6ebc57dc51e1ce-occ_89a2b3f78b384266910042b228b
+ 552af@thingstodoinyourcity
+DTSTAMP:20260814T152215Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260930
+SUMMARY:House of Dreamers London
+DESCRIPTION:This immersive exhibition features 16 installations designed 
+ to awaken imagination. It celebrates the power of dreams for all ages.\n
+ Price: £21.90\nhttps://www.excel.london/visitor/whats-on
+LOCATION:Immerse LDN\, Excel London Waterfront\, London
+URL:https://www.excel.london/visitor/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fd6682bc52be45f289111db97beb9e09-occ_9dc6bb6db77c4f10a6758641f8d
  133b8@thingstodoinyourcity
 DTSTAMP:20260814T034555Z
@@ -113,6 +126,18 @@ LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, New Cro
 URL:https://www.newcrossinn.com/gigs/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4046312f45f74f91a0361bb8fc2a2479-occ_cc744d5f876545429b8c73449f7
+ a7cfe@thingstodoinyourcity
+DTSTAMP:20260814T161547Z
+DTSTART:20260814T203000Z
+SUMMARY:Newsrevue
+DESCRIPTION:Topical comedy sketches. It features topical comedy sketches.
+ \nPrice: £16.25 to £22.50\nhttps://www.chortle.co.uk/venues/10/england
+ _london
+LOCATION:Canal Cafe Theatre\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3b55e16727694e8d99ba14013e955b0b-occ_5d81180b0c154b268b666298e9b
  9d357@thingstodoinyourcity
 DTSTAMP:20260813T202406Z
@@ -167,6 +192,18 @@ DESCRIPTION:The lineup includes Julian Woods\, Steve Beresford\, Susanna
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
  n\, London
 URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2284c3d48864460ead4e8bd7f9f7587a-occ_db60bb9486a043398a85616fb07
+ b3f42@thingstodoinyourcity
+DTSTAMP:20260814T153924Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260816
+SUMMARY:Sunday Stand Up Comedy 5pm Show
+DESCRIPTION:Price: £1\; Concessions: FREE\nhttps://thetopsecretcomedyclu
+ b.co.uk/events-listings/
+LOCATION:170 Drury Lane (basement)\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_67e102f9e1fa459ea8264f7ce3f5bb69-occ_161d4ab0a8af4cee8af5d78fb94
