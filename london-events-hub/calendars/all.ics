@@ -8,6 +8,36 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_e4f5aee6fb3448b4881a13f8dc55e2ae-occ_8fbc7f6a1ad24307a04860b1198
+ a5dce@thingstodoinyourcity
+DTSTAMP:20260815T090250Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20261101
+SUMMARY:Beauty and Destruction: Wartime London in Art
+DESCRIPTION:The exhibition tells London’s wartime story through artists
+ ’ work. It focuses on the Second World War.\nPrice: Free\nhttps://what
+ sdownthatstreet.com/london-museum-guide/exhibitions-london/
+LOCATION:IWM London\, IWM London\, Lambeth Road\, London\, SE1 6HZ\, Lond
+ on
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e4f5aee6fb3448b4881a13f8dc55e2ae-occ_ee3e4e81f48e46e29d0f8ce8cc3
+ 3a62d@thingstodoinyourcity
+DTSTAMP:20260815T090250Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20261101
+SUMMARY:Beauty and Destruction: Wartime London in Art
+DESCRIPTION:The exhibition tells London’s wartime story through artists
+ ’ work. It focuses on the Second World War.\nPrice: Free\nhttps://what
+ sdownthatstreet.com/london-museum-guide/exhibitions-london/
+LOCATION:IWM London\, IWM London\, Lambeth Road\, London\, SE1 6HZ\, Lond
+ on
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fdbd8230ce23442692b2db5eef1198f7-occ_919665bd2ce44336bfca589a1fc
  db184@thingstodoinyourcity
 DTSTAMP:20260815T070816Z
@@ -67,6 +97,20 @@ DESCRIPTION:She has worked across the UK jazz scene. Her projects explore
 LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
  n\, London
 URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_56f0c1c01b3541c7969b07e5bee739ac-occ_c968298a98af4ee09a6935c49db
+ 290ac@thingstodoinyourcity
+DTSTAMP:20260815T075211Z
+DTSTART;VALUE=DATE:20260815
+SUMMARY:Meet Me Here
+DESCRIPTION:Actors guide audiences along the High Road in a travelling pe
+ rformance about three Kilburners meeting across time. The performance un
+ folds in public spaces.\nPrice: £5 – £10\nhttps://kilntheatre.com/wh
+ ats-on/
+LOCATION:High Road\, 269 Kilburn High Road\, London\, UK\, NW6 7JR\, Kilb
+ urn\, London
+URL:https://kilntheatre.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_42db2fa0e92f47eba037eb5293f1c623-occ_af599d57b66544fbbccad62c671
@@ -144,6 +188,19 @@ DESCRIPTION:Actors guide audiences along the High Road in a travelling pe
 LOCATION:Kiln Theatre\, 269 Kilburn High Road\, London\, UK\, NW6 7JR\, K
  ilburn\, London
 URL:https://kilntheatre.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4904741a9364d8b907a5490580a1933-occ_4eb6141173734328bb548376898
+ cf4ed@thingstodoinyourcity
+DTSTAMP:20260815T094910Z
+DTSTART:20260815T160000Z
+SUMMARY:Saturday Afternoon Comedy
+DESCRIPTION:A comedy lineup features one host and four comedians\, with a
+  15-minute break. Unreserved seating is available\, and valid photo ID i
+ s required.\nPrice: From £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
+LOCATION:JK Comedy Club Leicester Square\, Upstairs at Grosvenor Casino -
+  Rialto\, 3-4 Coventry St\, London W1D 6BL\, Leicester Square\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_353520ef481a445db7f3cadb464181b3-occ_888241401d8247609e30abb2c27
@@ -228,6 +285,21 @@ DESCRIPTION:Live music from The Jive Aces with Dani West\, support from T
 LOCATION:The 100 club\, 100 Oxford Street\, London \, W1D 1LL\, Oxford St
  reet / West End\, London
 URL:https://the100club.co.uk/100club-events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_98a61bb8e50a41eda24856b9111e251b-occ_bae4a2fc5ce549dfa0dbcd62799
+ ffb78@thingstodoinyourcity
+DTSTAMP:20260815T093552Z
+DTSTART:20260816T133000Z
+DTEND:20260816T173000Z
+SUMMARY:Roots of the King: Rockin’ Elvis Party
+DESCRIPTION:Live music from The Jive Aces with Dani West\, The Sundown Bo
+ ys and Bill Guntrip. An afternoon dedicated to Elvis and the music that 
+ inspired him.\nPrice: £20 adv + bf\nhttps://www.the100club.co.uk/100clu
+ b-events/
+LOCATION:THE 100 CLUB\, 100 Oxford Street\, London\, W1D 1LL\, Oxford Str
+ eet / West End\, London
+URL:https://www.the100club.co.uk/100club-events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f29bba04fbe5494b837a1da8df49a0d4-occ_d727931d87774dc3b9310d199ae
