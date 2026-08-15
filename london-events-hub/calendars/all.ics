@@ -8,6 +8,40 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_fdbd8230ce23442692b2db5eef1198f7-occ_919665bd2ce44336bfca589a1fc
+ db184@thingstodoinyourcity
+DTSTAMP:20260815T070816Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260913
+SUMMARY:Paint! Pattern! Print!
+DESCRIPTION:Explore the Collier Campbell Archive and the designers’ jou
+ rney from painted beginnings to textiles\, fashion and homeware. The exh
+ ibition celebrates their innovative partnership.\nPrice: £12.65 (Conces
+ sions may apply)\nhttps://whatsdownthatstreet.com/london-museum-guide/ex
+ hibitions-london/
+LOCATION:Fashion & Textile Museum\, 83 Bermondsey Street London SE1 3XF\,
+  Bermondsey Street\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fdbd8230ce23442692b2db5eef1198f7-occ_76421a73d3dc4ba88ca9a6503cb
+ e470a@thingstodoinyourcity
+DTSTAMP:20260815T070816Z
+DTSTART:20260327T110000Z
+DTEND:20260913T170000Z
+SUMMARY:Paint! Pattern! Print!
+DESCRIPTION:Explore the Collier Campbell Archive and the designers’ jou
+ rney from painted beginnings to textiles\, fashion and homeware. The exh
+ ibition celebrates their innovative partnership.\nPrice: £12.65 (Conces
+ sions may apply)\nhttps://whatsdownthatstreet.com/london-museum-guide/ex
+ hibitions-london/
+LOCATION:Fashion & Textile Museum\, 83 Bermondsey Street London SE1 3XF\,
+  Bermondsey Street\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e328225d3b144dd38b6ebc57dc51e1ce-occ_89a2b3f78b384266910042b228b
  552af@thingstodoinyourcity
 DTSTAMP:20260814T152215Z
