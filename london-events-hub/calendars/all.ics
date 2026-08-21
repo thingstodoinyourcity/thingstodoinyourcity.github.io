@@ -72,6 +72,35 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_259ba9455cd045b58bd204b0d3e08c30-occ_daff7f0735a341abb0e127683aa
+ 384b6@thingstodoinyourcity
+DTSTAMP:20260821T203354Z
+DTSTART;VALUE=DATE:20260602
+DTEND:20260906T140000Z
+SUMMARY:Nunnery Café Exhibition: jdwoof
+DESCRIPTION:Showcase of jdwoof’s paintings and drawings inspired by cre
+ atures\, found materials and reclaimed objects. Opening celebration on 4
+  June accompanies the exhibition.\nPrice: Free\nhttps://bowarts.org/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, Bow Road\, Londo
+ n
+URL:https://bowarts.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4fea72b9423442eab373e4fca9309095-occ_16c33480160f49a3bf702a90e6b
+ 513ed@thingstodoinyourcity
+DTSTAMP:20260821T210031Z
+DTSTART;VALUE=DATE:20260605
+DTEND:20260830T150000Z
+SUMMARY:Bow Open: to belong
+DESCRIPTION:An exhibition bringing together work from 25 artists around b
+ elonging\, including painting\, print\, sculpture and video. Selected by
+  young curators with Mile End Community Project.\nPrice: Free\nhttps://b
+ owarts.org/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, Bow Road\, Londo
+ n
+URL:https://bowarts.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e328225d3b144dd38b6ebc57dc51e1ce-occ_89a2b3f78b384266910042b228b
  552af@thingstodoinyourcity
 DTSTAMP:20260814T152215Z
@@ -123,6 +152,19 @@ DESCRIPTION:Moses Boyd leads a conversation with British drumming and per
 LOCATION:Lydia and Manfred Gorvy Lecture Theatre\, Cromwell Road London\,
   SW7 2RL\, South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19d557c8dcea41edb42233ac272e09ed-occ_dcace41c43c848cbbd9b33289e6
+ f5b3d@thingstodoinyourcity
+DTSTAMP:20260821T200956Z
+DTSTART:20260821T210000Z
+SUMMARY:Friday Stand Up Comedy 10pm Show
+DESCRIPTION:Featuring Mark Rothman (mc)\, Kate Barron\, Daniel Simonsen\,
+  David McSavage and Thomas Green. The listing names five performers.\nPr
+ ice: £11 Concessions: £9\nhttps://thetopsecretcomedyclub.co.uk/events-
+ listings/
+LOCATION:Top Secret Comedy Club\, 23 Kingsway\, Covent Garden\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f35a9e62c11a4a8f98c933a267231ee3-occ_adf64a5416c24b59a810dc4c117
