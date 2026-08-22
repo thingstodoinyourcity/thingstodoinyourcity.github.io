@@ -140,19 +140,6 @@ LOCATION:Regent's Park Open Air Theatre\, Inner Circle NW1 4NU\, central\
 URL:https://www.toddlerldn.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_19d557c8dcea41edb42233ac272e09ed-occ_dcace41c43c848cbbd9b33289e6
- f5b3d@thingstodoinyourcity
-DTSTAMP:20260821T200956Z
-DTSTART:20260821T210000Z
-SUMMARY:Friday Stand Up Comedy 10pm Show
-DESCRIPTION:Featuring Mark Rothman (mc)\, Kate Barron\, Daniel Simonsen\,
-  David McSavage and Thomas Green. The listing names five performers.\nPr
- ice: £11 Concessions: £9\nhttps://thetopsecretcomedyclub.co.uk/events-
- listings/
-LOCATION:Top Secret Comedy Club\, 23 Kingsway\, Covent Garden\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f35a9e62c11a4a8f98c933a267231ee3-occ_adf64a5416c24b59a810dc4c117
  ba66e@thingstodoinyourcity
 DTSTAMP:20260821T171842Z
@@ -374,5 +361,78 @@ DESCRIPTION:A weekly Lego Club at Pimlico Library for children aged five
 LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
  dom\, London
 URL:https://www.westminster.gov.uk/event
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5794ef4372be426eb4e50a7de5e75d7c-occ_3514ab6c8e34440da362c0159e9
+ 6fa82@thingstodoinyourcity
+DTSTAMP:20260821T224008Z
+DTSTART;VALUE=DATE:20260822
+SUMMARY:Rory Ingham Quintet ft. Maarten Combrink
+DESCRIPTION:Rory Ingham invites trombonist Maarten Combrink of the Metrop
+ ole Orchestra. They explore the trombone’s sound palette through influ
+ ences from different musical scenes.\nPrice: Standard £18 / Vortex Memb
+ ers £14 / Students & UC beneficiaries £12\nhttps://www.vortexjazz.co.u
+ k/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, Dalsto
+ n\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4bcfc4cfd9ff4e84b8a6e3c80f91d7a6-occ_6e56be88778e4e1aa0cd41847e6
+ b4a20@thingstodoinyourcity
+DTSTAMP:20260821T232142Z
+DTSTART:20260822T010000Z
+SUMMARY:Wonderland: Adult Soft Play
+DESCRIPTION:An adult soft-play adventure with ball pits\, retro arcade ga
+ mes\, photo booths and DJs. The experience turns playtime into a nightcl
+ ub atmosphere.\nPrice: From ≈ €29\nhttps://yournearevents.com/blog/w
+ hats-on-in-london-2026-08
+LOCATION:Car Park\, Car Park\, 220 Green Lanes\, Lodge Drive\, London\, B
+ ounds Green\, London
+URL:https://yournearevents.com/blog/whats-on-in-london-2026-08
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4bcfc4cfd9ff4e84b8a6e3c80f91d7a6-occ_fc48901a0139482f99f377a4db9
+ 8873e@thingstodoinyourcity
+DTSTAMP:20260821T232142Z
+DTSTART:20260822T200000Z
+DTEND:20260823T003000Z
+SUMMARY:Wonderland: Adult Soft Play
+DESCRIPTION:An adult soft-play adventure with ball pits\, retro arcade ga
+ mes\, photo booths and DJs. The experience turns playtime into a nightcl
+ ub atmosphere.\nPrice: From ≈ €29\nhttps://yournearevents.com/blog/w
+ hats-on-in-london-2026-08
+LOCATION:Car Park\, Car Park\, 220 Green Lanes\, Lodge Drive\, London\, B
+ ounds Green\, London
+URL:https://yournearevents.com/blog/whats-on-in-london-2026-08
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_02a043d0137a4ce1940dd7c837bebab0-occ_d06d6a8b10bf4bfa8f563694f13
+ d0113@thingstodoinyourcity
+DTSTAMP:20260821T223406Z
+DTSTART:20260822T193000Z
+DTEND:20260822T213000Z
+SUMMARY:Saturday Comedy Club London
+DESCRIPTION:International stand-up comedy featuring award-winning comedia
+ ns\, TV favourites and Edinburgh Comedy Award nominees. Shows are in Cov
+ ent Garden's West End.\nPrice: £15\nhttps://opencomedy.com/uk/gigs/lond
+ on
+LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
+ H 9LA\, Covent Garden\, London
+URL:https://opencomedy.com/uk/gigs/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_02a043d0137a4ce1940dd7c837bebab0-occ_d73d9c171fa54483b526f3bfda8
+ 66b67@thingstodoinyourcity
+DTSTAMP:20260821T223406Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Saturday Comedy Club London
+DESCRIPTION:International stand-up comedy featuring award-winning comedia
+ ns\, TV favourites and Edinburgh Comedy Award nominees. Shows are in Cov
+ ent Garden's West End.\nPrice: £15\nhttps://opencomedy.com/uk/gigs/lond
+ on
+LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
+ H 9LA\, Covent Garden\, London
+URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 END:VCALENDAR
