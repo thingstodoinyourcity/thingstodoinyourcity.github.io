@@ -7,4 +7,44 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_b287e2654d964c0c9a69a4f5c37c393d-occ_78c208e881df48b38f7419855bb
+ e32c8@thingstodoinyourcity
+DTSTAMP:20260826T114117Z
+DTSTART:20260826T183000Z
+SUMMARY:GENA (Liv.e & Karriem Riggins)
+DESCRIPTION:GENA performs with Liv.e and Karriem Riggins\, with support f
+ rom Elliott Skinner. The Oslo show is sold out.\nPrice: Check site\nhttp
+ s://www.oslohackney.com/events/
+LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, HACKNEY\, LON
+ DON\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d057be9f7a694eb2a0ee195a0f499c76-occ_7dcfc07175c742058d47156cde4
+ 144c3@thingstodoinyourcity
+DTSTAMP:20260826T114904Z
+DTSTART:20260826T190000Z
+DTEND:20260826T210000Z
+SUMMARY:Fela Kuti Live at Glastonbury (1984)
+DESCRIPTION:A pub screening of a classic concert film featuring Fela Kuti
+ ’s 1984 Glastonbury performance. Big screens and cold pints are part o
+ f the Weeknight Tapes format.\nPrice: £0\nhttps://www.oslohackney.com/e
+ vents/
+LOCATION:OSLO\, HACKNEY\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, HAC
+ KNEY\, LONDON\, London
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_909b09cb2f854eabb59944d74f4250c0-occ_c66553928f46420e86a8164a7ea
+ 48988@thingstodoinyourcity
+DTSTAMP:20260826T123531Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:City Splash Warm-Up Party
+DESCRIPTION:City Splash’s warm-up party returns to The Steelyard. It ta
+ kes place during Notting Hill Carnival.\nPrice: Check site\nhttps://lond
+ ontheinside.com/whats-on-this-week/
+LOCATION:The Steelyard\, CENTRAL LONDON\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
 END:VCALENDAR
