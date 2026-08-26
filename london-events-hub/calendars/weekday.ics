@@ -8,6 +8,43 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_82f2737c258a429e83544818728eb6f5-occ_fb43a2c722f24e908f24887d140
+ ede58@thingstodoinyourcity
+DTSTAMP:20260826T153246Z
+DTSTART;VALUE=DATE:20260826
+SUMMARY:Hexmoor: Wizarding Prison
+DESCRIPTION:Price: £48.00 - £88.50\nhttps://www.designmynight.com/londo
+ n/whats-on/best-events-in-may
+LOCATION:Hexmoor: London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_05b3c90f71aa4b1f9472658db3b0df5c-occ_2fed9e475acd496f9aa51ee8bb4
+ a5e6e@thingstodoinyourcity
+DTSTAMP:20260826T153947Z
+DTSTART:20260826T170000Z
+SUMMARY:Tim Renkow: Work In Progress
+DESCRIPTION:A Tim Renkow work-in-progress comedy show at The Top Secret C
+ omedy Club. The £1 ticket is a booking fee\, with contributions collect
+ ed after the show.\nPrice: £1\nhttps://thetopsecretcomedyclub.co.uk/eve
+ nts-listings/
+LOCATION:170 Drury Lane (ground floor)\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4ac84cd41ce3496e9b8ebdda785ce6d0-occ_6e42ec5d20f94eeea0b4ca74070
+ 7bebe@thingstodoinyourcity
+DTSTAMP:20260826T145750Z
+DTSTART:20260826T183000Z
+SUMMARY:GENA (Liv.e & Karriem Riggins)
+DESCRIPTION:GENA performs with Liv.e and Karriem Riggins\, supported by E
+ lliott Skinner. The event is sold out.\nPrice: Check site\nhttps://www.o
+ slohackney.com/events/
+LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, HACKNEY\, Lon
+ don
+URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b287e2654d964c0c9a69a4f5c37c393d-occ_78c208e881df48b38f7419855bb
  e32c8@thingstodoinyourcity
 DTSTAMP:20260826T114117Z
@@ -19,6 +56,17 @@ DESCRIPTION:GENA performs with Liv.e and Karriem Riggins\, with support f
 LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, HACKNEY\, LON
  DON\, London
 URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5faa75082e0642ebabf121534ec42e30-occ_48d153b4af874cfea6aaccdbc30
+ f0af4@thingstodoinyourcity
+DTSTAMP:20260826T162902Z
+DTSTART:20260826T183000Z
+SUMMARY:We Saw That with Andrew Mensah & Gbemi Oladipo
+DESCRIPTION:Price: £15\nhttps://thetopsecretcomedyclub.co.uk/events-list
+ ings/
+LOCATION:The Top Secret Comedy Club\, 23 Kingsway\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d057be9f7a694eb2a0ee195a0f499c76-occ_7dcfc07175c742058d47156cde4
@@ -34,6 +82,55 @@ DESCRIPTION:A pub screening of a classic concert film featuring Fela Kuti
 LOCATION:OSLO\, HACKNEY\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, HAC
  KNEY\, LONDON\, London
 URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6465de861b2142dc94c874766d096157-occ_2ba135baac3f4cffb0399f755a5
+ 8b9b2@thingstodoinyourcity
+DTSTAMP:20260826T152159Z
+DTSTART:20260826T190000Z
+DTEND;VALUE=DATE:20260826
+SUMMARY:Wednesday Stand Up Comedy Show
+DESCRIPTION:Price: £3\; Concessions: £2\nhttps://thetopsecretcomedyclub
+ .co.uk/events-listings/
+LOCATION:170 Drury Lane\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2c7cf7e59588417a95d2ed72efd72b67-occ_5475517953d9412bbda9d967d50
+ 14483@thingstodoinyourcity
+DTSTAMP:20260826T155206Z
+DTSTART;VALUE=DATE:20260827
+SUMMARY:The Murdér Express Part Deux
+DESCRIPTION:An immersive murder mystery experience aboard The Murdér Exp
+ ress\, featuring a fabulous three-course meal in your train carriage.\nP
+ rice: Tickets from £92.90 - £99.50\nhttps://www.designmynight.com/lond
+ on/whats-on/best-events-in-may
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fe75621bd11e48e9800e7939e31e0f4c-occ_a8ab1aa8a05747da850879ddcf9
+ 8cbfa@thingstodoinyourcity
+DTSTAMP:20260826T152327Z
+DTSTART:20260827T183000Z
+SUMMARY:Thursday Stand up Comedy Show
+DESCRIPTION:A sell-out mixed bill show featuring comedians from around to
+ wn\, with possible celebrity guests. Acts are announced as top secret.\n
+ Price: £3 Concessions: £2\nhttps://thetopsecretcomedyclub.co.uk/events
+ -listings/
+LOCATION:Top Secret Comedy Club 23 Kinsgway\, 23 Kingsway\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5fc72ee0be74dc68f4dd5136f2c1102-occ_e71d499dabf242a494811ecfc57
+ c5661@thingstodoinyourcity
+DTSTAMP:20260826T151129Z
+DTSTART:20260827T190000Z
+SUMMARY:Thursday Stand Up Comedy Show
+DESCRIPTION:Price: £20\; Concessions: £16\nhttps://thetopsecretcomedycl
+ ub.co.uk/events-listings/
+LOCATION:170 Drury Lane\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_909b09cb2f854eabb59944d74f4250c0-occ_c66553928f46420e86a8164a7ea
