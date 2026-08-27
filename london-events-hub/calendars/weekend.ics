@@ -142,6 +142,21 @@ LOCATION:Cafe 1001\, Brick Lane\, SHOREDITCH\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5e3e691eef66462b9b9ed7bd49b15d81-occ_e4de8b89337e462c89ffe4e2897
+ 8da48@thingstodoinyourcity
+DTSTAMP:20260827T120942Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20261107
+SUMMARY:Kimberly Akimbo
+DESCRIPTION:A Hampstead Theatre European Premiere with book and lyrics by
+  David Lindsay-Abaire and music by Jeanine Tesori. Directed by Michael L
+ onghurst.\nPrice: Check site\nhttps://www.hampsteadtheatre.com/whats-on/
+ main-stage/
+LOCATION:HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTTAGE\, LONDON\, NW3 3
+ EU\, SWISS COTTAGE\, London
+URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_15f12e4d0a3344e7b27c647ea8eca0eb-occ_0f09645c42f742f1ab7cfd2d524
  393ea@thingstodoinyourcity
 DTSTAMP:20260826T114356Z
@@ -228,6 +243,30 @@ DESCRIPTION:Price: Check site\nhttps://londontheinside.com/whats-on-this-
 LOCATION:Electric Shuffle\, CANARY WHARF KINGS CROSS LONDON BRIDGE\, Lond
  on
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_99b1a0959610466ab07908caa31c3000-occ_db63ecb0af6e453c9581f622abf
+ dd740@thingstodoinyourcity
+DTSTAMP:20260827T120533Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Ginger's Big Drag Bottomless Brunch
+DESCRIPTION:Drag performances accompany a meal with cheeseburgers\, avo t
+ oast and vegan eats. The brunch includes 90 minutes of prosecco.\nPrice:
+  Tickets from £19.80 - £59.34\nhttps://www.designmynight.com/london/wh
+ ats-on/best-events-in-may
+LOCATION:Balls Brothers- Austin Friars\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_92a7b09ceb1e4aa980c567b98a649c50-occ_ec8edaa46a8142df96e80432283
+ 6af80@thingstodoinyourcity
+DTSTAMP:20260827T120533Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:KIKI Drag Cabaret
+DESCRIPTION:Price: Tickets from £14.30 - £19.80\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Queen of Hoxton\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_addc280e10e44edc906b9f1099f4b018-occ_708c216f3e8d4d6e91b70b1338a
