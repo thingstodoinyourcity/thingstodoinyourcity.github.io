@@ -156,6 +156,19 @@ LOCATION:Park200\, London
 URL:https://parktheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fa5088f10cee4befb9a430d37c265198-occ_39d6d5cda3284c35a5d53480a83
+ d06a1@thingstodoinyourcity
+DTSTAMP:20260828T160429Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Josh Smith Trio
+DESCRIPTION:Blues guitarist Josh Smith brings his trio for a night of blu
+ es\, rock and improvisation. The performance draws from his acclaimed li
+ ve and solo recordings.\nPrice: Check site\nhttps://www.ronniescotts.co.
+ uk/find-a-show
+LOCATION:Main Show\, 47 Frith Street Soho London W1D 4HT\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b638d74296ea40ed8a4c955ba1727ffb-occ_8146b0f235ba4529bd89a6ba5b1
  bacae@thingstodoinyourcity
 DTSTAMP:20260827T214906Z
@@ -203,6 +216,20 @@ LOCATION:Pedley Street Station\, Bethnal Green\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0e1028833ede4df1a5d760f0b32be841-occ_b24d8587f0e94fd79d42074ed90
+ 98f1e@thingstodoinyourcity
+DTSTAMP:20260828T155808Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Vibe Village Acoustic
+DESCRIPTION:An intimate evening featuring accomplished UK vocalists. Feat
+ ured credits include Gorillaz\, Dua Lipa\, Christina Aguilera\, Stormzy\
+ , Coldplay and Becky Hill.\nPrice: Check site\nhttps://www.ronniescotts.
+ co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, 47 Frith Street Soho London W1D 4HT\, Soh
+ o\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0b72881725154d9fa4b78814e556af18-occ_316b4efbd4bd4aaabd2db222fc7
  5d12f@thingstodoinyourcity
 DTSTAMP:20260827T202550Z
@@ -222,5 +249,29 @@ DESCRIPTION:Price: €261 – €2\,250 EUR\nhttps://catchmovement.com/lo
  ndon/concerts
 LOCATION:O2 Arena - London\, London
 URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_55397cb47129469f83e1f2581a6b27ed-occ_b14b3ab8d249467592db75083ba
+ be324@thingstodoinyourcity
+DTSTAMP:20260828T144415Z
+DTSTART:20260828T141500Z
+SUMMARY:Blade Runner: The Final Cut
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e404b029b85d4f65a591f462bf83960b-occ_48dfbf77df9e4049baf848d87fc
+ 70fae@thingstodoinyourcity
+DTSTAMP:20260828T144413Z
+DTSTART:20260828T143000Z
+SUMMARY:Bring Me the Head of Alfredo Garcia
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 END:VCALENDAR
