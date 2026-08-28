@@ -8,6 +8,36 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_a98ce299a37c42928a68fdb110c5abee-occ_182c50a87a044a628596ed7e895
+ 242c6@thingstodoinyourcity
+DTSTAMP:20260828T152255Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20261115
+SUMMARY:Inside Aardman: Wallace & Gromit
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Young V&A\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8a063a7313e9454f973a661b3aed95c6-occ_240316a7e1bd494ba7a16bfdd92
+ d1010@thingstodoinyourcity
+DTSTAMP:20260828T155506Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260831
+SUMMARY:Tracey Emin: A Second Life
+DESCRIPTION:A landmark exhibition tracing 40 years of Tracey Emin’s pra
+ ctice through painting\, video\, textiles\, neons\, writing\, sculpture 
+ and installation. Presented in the Eyal Ofer Galleries.\nPrice: £22 / F
+ ree for Members Concessions available £5 for Tate Collective. 16–25? 
+ Sign up and log in to book\nhttps://whatsdownthatstreet.com/london-museu
+ m-guide/exhibitions-london/
+LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f4b9c1e3d34a4582b56bab085d34b3a6-occ_3a6ebd83de7a49a698a7ee0a76d
  d97ba@thingstodoinyourcity
 DTSTAMP:20260827T234433Z
@@ -21,6 +51,47 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c4656f1719da4a7a929a875ea6718e34-occ_14d1d574c81b4b3e977ed689aad
+ fa067@thingstodoinyourcity
+DTSTAMP:20260828T152254Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Coming of Age
+DESCRIPTION:An exhibition exploring experiences and perceptions of ageing
+ . It brings together 150 artworks and objects from art\, science and pop
+ ular culture.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museu
+ m-guide/exhibitions-london/
+LOCATION:Wellcome Collection\, 183 Euston Road\, London NW1 2BE\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_36470fac2b3245cb89c713ff17dcb1d8-occ_de3e9dfd03de4bcda84baaa8e7e
+ c43ce@thingstodoinyourcity
+DTSTAMP:20260828T155155Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20261108
+SUMMARY:The Last Princesses of Punjab
+DESCRIPTION:Price: Included in palace ticket\nhttps://whatsdownthatstreet
+ .com/london-museum-guide/exhibitions-london/
+LOCATION:Kensington Palace\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_46f15916582c4245a94ade70cdfb4507-occ_cb699db0fb7f408f8d23f547f19
+ 90bd7@thingstodoinyourcity
+DTSTAMP:20260828T134421Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260906
+SUMMARY:Cecily Brown: Picture Making
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Serpentine Galleries\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a6a13d5b7d084f1e93bb63905258fae0-occ_fda5a1331c0d4b11a24f58f0e1c
  ce880@thingstodoinyourcity
 DTSTAMP:20260827T234737Z
@@ -32,6 +103,62 @@ DESCRIPTION:Price: 50% off exhibitions\nhttps://www.artfund.org/explore/g
 LOCATION:V&A South Kensington\, London
 URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bf81ed91e1d448658109318b7b67fd4a-occ_befbfc693d9140b4a1af07273d0
+ 922a0@thingstodoinyourcity
+DTSTAMP:20260828T150812Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20261109
+SUMMARY:Schiaparelli: Fashion Becomes Art
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Victoria and Albert Museum (V&A)\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fba5320f41604209ad05927d9e7a9149-occ_e7a773916d624187a6f12f0ac60
+ 78578@thingstodoinyourcity
+DTSTAMP:20260828T145953Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260906
+SUMMARY:Gabriel Chaile: Archaeology of Memory
+DESCRIPTION:A site-specific installation by Argentinian artist Gabriel Ch
+ aile explores East End histories through adobe sculptures and locally so
+ urced objects.\nPrice: Free entry\nhttps://whatsdownthatstreet.com/londo
+ n-museum-guide/exhibitions-london/
+LOCATION:Whitechapel Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fba5320f41604209ad05927d9e7a9149-occ_ee2367e3b61d447da44384223aa
+ f7267@thingstodoinyourcity
+DTSTAMP:20260828T145953Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260906
+SUMMARY:Gabriel Chaile: Archaeology of Memory
+DESCRIPTION:A site-specific installation by Argentinian artist Gabriel Ch
+ aile explores East End histories through adobe sculptures and locally so
+ urced objects.\nPrice: Free entry\nhttps://whatsdownthatstreet.com/londo
+ n-museum-guide/exhibitions-london/
+LOCATION:Whitechapel Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_79c5fd94b4004b8bb7f56b5bfa71668a-occ_45bf068795b34d1e86438ea3ae0
+ 48bda@thingstodoinyourcity
+DTSTAMP:20260828T155509Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20261018
+SUMMARY:Queen Elizabeth II: Her Life in Style
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:The King’s Gallery\, Buckingham Palace\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2fe45061e56848819c1b1719fdf63dec-occ_edc578d309b649b090a5d8d7e65
@@ -49,6 +176,49 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_60b56d55e63b4ed1b3c97e8a47e782ba-occ_aa8846df7c4441dc86dc054e970
+ 754aa@thingstodoinyourcity
+DTSTAMP:20260828T133813Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20270131
+SUMMARY:Henry Moore: Monumental Nature
+DESCRIPTION:Price: Included in Kew Gardens ticket\nhttps://whatsdownthats
+ treet.com/london-museum-guide/exhibitions-london/
+LOCATION:Kew Gardens\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_db78fe57bd184f18a3d6933b4f640ad6-occ_0612a737b1154152b933d20b3c2
+ 66c66@thingstodoinyourcity
+DTSTAMP:20260828T142922Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20270117
+SUMMARY:Tate Britain Commission: Zineb Sedira
+DESCRIPTION:Zineb Sedira creates a major site-specific installation in Ta
+ te Britain’s Duveen Galleries. The work explores memory\, migration an
+ d trauma.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_db78fe57bd184f18a3d6933b4f640ad6-occ_98ad88d8204340d8a531613dc1d
+ 091f5@thingstodoinyourcity
+DTSTAMP:20260828T142922Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20270117
+SUMMARY:Tate Britain Commission: Zineb Sedira
+DESCRIPTION:Zineb Sedira creates a major site-specific installation in Ta
+ te Britain’s Duveen Galleries. The work explores memory\, migration an
+ d trauma.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_195666206b7d40eebc3e356aae2bb13e-occ_dcacf9d09dd04196a01daacc1d1
  f3c5d@thingstodoinyourcity
 DTSTAMP:20260827T233824Z
@@ -62,6 +232,62 @@ DESCRIPTION:A major retrospective celebrates the rule-breaking American a
 LOCATION:Tate Britain\, London
 URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_79c4f658ab4c46a88432081061468dfa-occ_4951e22c43a1418d8ee56f92b6f
+ 0a2be@thingstodoinyourcity
+DTSTAMP:20260828T151817Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20270103
+SUMMARY:Jurassic Oceans: Monsters of the Deep
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Natural History Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fbf401cb00d64238be6ffbec9fb7fdfe-occ_b064daa4a49748e4a6b6dd3513d
+ d8b3d@thingstodoinyourcity
+DTSTAMP:20260828T152737Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Tenderness and Rage
+DESCRIPTION:An exhibition exploring HIV and AIDS through protest\, care a
+ nd activism. It features photography\, film and archival materials\, inc
+ luding work by Gideon Mendel.\nPrice: Free\nhttps://whatsdownthatstreet.
+ com/london-museum-guide/exhibitions-london/
+LOCATION:Gallery 3\, level 1\, 183 Euston Road\, London NW1 2BE\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fbf401cb00d64238be6ffbec9fb7fdfe-occ_f846dca5ab7d42aeaef9aa9c2dc
+ e5e30@thingstodoinyourcity
+DTSTAMP:20260828T152737Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Tenderness and Rage
+DESCRIPTION:An exhibition exploring HIV and AIDS through protest\, care a
+ nd activism. It features photography\, film and archival materials\, inc
+ luding work by Gideon Mendel.\nPrice: Free\nhttps://whatsdownthatstreet.
+ com/london-museum-guide/exhibitions-london/
+LOCATION:Gallery 3\, level 1\, 183 Euston Road\, London NW1 2BE\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_433a6576ba214b6dbe6f18297f6a0291-occ_af812f6e61a0401cb846221ffec
+ 8735b@thingstodoinyourcity
+DTSTAMP:20260828T145626Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260906
+SUMMARY:Marilyn Monroe: A Portrait
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:National Portrait Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6aae3bce5ce14bf38196e21023d2e081-occ_4b863811a2b6403e90ed8e871ae
@@ -94,6 +320,45 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0550e700b05e47e0ac8566fd0bfd397c-occ_60e5ef08a2b745bcaae7cc268a8
+ 94106@thingstodoinyourcity
+DTSTAMP:20260828T135938Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20261004
+SUMMARY:Hepworth and Nicholson Studio Photographs
+DESCRIPTION:Price: Free with gallery entry\nhttps://whatsdownthatstreet.c
+ om/london-museum-guide/exhibitions-london/
+LOCATION:Courtauld Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3c26863a24dc45cb913a6bb65e925008-occ_e501ce4570264d57a22d14b3923
+ 634bb@thingstodoinyourcity
+DTSTAMP:20260828T142421Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260913
+SUMMARY:Studio Prints: An Artists’ Workshop
+DESCRIPTION:Price: Free with gallery entry\nhttps://whatsdownthatstreet.c
+ om/london-museum-guide/exhibitions-london/
+LOCATION:Courtauld Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cda328536e0b4986864b5b1e31d35c4c-occ_13243316c74e4f838d6ec0bd87b
+ 1fab3@thingstodoinyourcity
+DTSTAMP:20260828T133130Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260830
+SUMMARY:Back Again
+DESCRIPTION:Georg Baselitz’s solo exhibition takes its title from one o
+ f his final paintings. It reflects motifs explored throughout his career
+ .\nPrice: Check site\nhttps://www.whitecube.com/exhibitions/london
+LOCATION:White Cube Bermondsey\, Bermondsey\, London\, London
+URL:https://www.whitecube.com/exhibitions/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5398070cdc344c068fabee691d6ffdd7-occ_9d638f3d8724447da47403830e9
  7d44c@thingstodoinyourcity
 DTSTAMP:20260827T234725Z
@@ -124,6 +389,32 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9551a9ec226c468c8a6452b22dedbd50-occ_01c979c30c9240918cd7821a879
+ 34a96@thingstodoinyourcity
+DTSTAMP:20260828T135653Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260906
+SUMMARY:Hepworth in Colour
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Courtauld Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_600e0cc40c7f4bf5a7edb01f58694165-occ_48882eac5fef46568109d710bce
+ b5a58@thingstodoinyourcity
+DTSTAMP:20260828T142049Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20261018
+SUMMARY:Anish Kapoor
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Hayward Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3a07aea508804e0d949f57947a7f9e0d-occ_18fb4a6b6b504c989759615733e
  e938a@thingstodoinyourcity
 DTSTAMP:20260827T233253Z
@@ -135,6 +426,19 @@ DESCRIPTION:Price: 50% off entry\nhttps://www.artfund.org/explore/get-ins
 LOCATION:The Photographers' Gallery\, London
 URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6fa35ab0868b4753a85b28e32995ddc1-occ_831c429dca1b4dc8a1beaedda96
+ be071@thingstodoinyourcity
+DTSTAMP:20260828T143511Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20270103
+SUMMARY:Frida: The Making of an Icon
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Tate Modern\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f90a7574f7a54bed867906a000330909-occ_9ff7ecc3523543bd8d29ad4ea89
@@ -152,6 +456,90 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7a6508eb84f04ff29ef66ccbe67f91c7-occ_845c92403f5b4d379c6f1cd3153
+ 18d8a@thingstodoinyourcity
+DTSTAMP:20260828T151818Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20261007
+SUMMARY:Kramer Portrait Award 2026
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:National Portrait Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9f7763a40bdc405fa4f49b7f2834a7dc-occ_d44d2cd85a5b409a92d9314cdcf
+ ab3f8@thingstodoinyourcity
+DTSTAMP:20260828T143837Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20261114
+SUMMARY:Manasa Chitra: Art of Mental Health
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Bethlem Museum of the Mind\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_59b3ffb46fa1451db9a235d8d2f1c90d-occ_5d92906cb6ad4506a78f99b8dc1
+ 64413@thingstodoinyourcity
+DTSTAMP:20260828T140535Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260920
+SUMMARY:Waldmüller: Landscapes
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:National Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_556feac27eb04b83893816665f7900c9-occ_f15f920fce274243bb41b9dbea1
+ 61218@thingstodoinyourcity
+DTSTAMP:20260828T160758Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20261109
+SUMMARY:International Photography Exhibition 167
+DESCRIPTION:The Royal Photographic Society presents 113 prints by 48 phot
+ ographers exploring contemporary photography and socially significant th
+ emes.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museum-guide/
+ exhibitions-london/
+LOCATION:Saatchi Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_556feac27eb04b83893816665f7900c9-occ_569d6b308fc04ddcb5166740efa
+ 4d02c@thingstodoinyourcity
+DTSTAMP:20260828T160758Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260911
+SUMMARY:International Photography Exhibition 167
+DESCRIPTION:The Royal Photographic Society presents 113 prints by 48 phot
+ ographers exploring contemporary photography and socially significant th
+ emes.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museum-guide/
+ exhibitions-london/
+LOCATION:Saatchi Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_556feac27eb04b83893816665f7900c9-occ_56394c1238934ecba8d867c4cd9
+ 1cbce@thingstodoinyourcity
+DTSTAMP:20260828T160758Z
+DTSTART:20260807T090000Z
+DTEND;VALUE=DATE:20260911
+SUMMARY:International Photography Exhibition 167
+DESCRIPTION:The Royal Photographic Society presents 113 prints by 48 phot
+ ographers exploring contemporary photography and socially significant th
+ emes.\nPrice: Free\nhttps://whatsdownthatstreet.com/london-museum-guide/
+ exhibitions-london/
+LOCATION:Saatchi Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_680368e4a92b448494e1d379c388eff3-occ_d662a1acf8c749679cbbee71909
  ebc30@thingstodoinyourcity
 DTSTAMP:20260827T233943Z
@@ -163,6 +551,19 @@ DESCRIPTION:Price: 50% off exhibitions\nhttps://www.artfund.org/explore/g
 LOCATION:Tate Modern\, London
 URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec66607f1c7b4aa4bc012636ac4ecfd8-occ_4fe945ab8f5e4b529d9e5d26242
+ 2b172@thingstodoinyourcity
+DTSTAMP:20260828T135652Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20270207
+SUMMARY:Rudy Loewe: Intimacies of Care
+DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Wellcome Collection\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_26e9123d85954aaaa4551a08f0e32533-occ_5d38e94cd57d46fda14e1d83b99
@@ -189,6 +590,40 @@ DESCRIPTION:Holiday camps keep children busy during the holidays. Suitabl
  gardens.org.uk/whats-on/
 LOCATION:London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f2269106dee415c8b5d14d1d7f5f09d-occ_3d4432452a66470bb8569c1afbe
+ 3c8b2@thingstodoinyourcity
+DTSTAMP:20260828T144906Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ana Mendieta
+DESCRIPTION:A major UK exhibition brings together iconic works\, remaster
+ ed films\, paintings and sculptures by Ana Mendieta. Her practice explor
+ es displacement\, identity and the natural world.\nPrice: £18 / Free fo
+ r Members\; £17 Concessions\; £5 for Tate Collective. 16–25? Sign up
+  and log in to book\nhttps://whatsdownthatstreet.com/london-museum-guide
+ /exhibitions-london/
+LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f2269106dee415c8b5d14d1d7f5f09d-occ_27bf6cf8af594cb9a4d60f84f9e
+ 8f90e@thingstodoinyourcity
+DTSTAMP:20260828T144906Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ana Mendieta
+DESCRIPTION:A major UK exhibition brings together iconic works\, remaster
+ ed films\, paintings and sculptures by Ana Mendieta. Her practice explor
+ es displacement\, identity and the natural world.\nPrice: £18 / Free fo
+ r Members\; £17 Concessions\; £5 for Tate Collective. 16–25? Sign up
+  and log in to book\nhttps://whatsdownthatstreet.com/london-museum-guide
+ /exhibitions-london/
+LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c4071edd0a8b4468b9a0d8c0942ec8e3-occ_6d8fea7171e34c88bd098181483
@@ -219,6 +654,32 @@ LOCATION:artsdepot\, Barnet\, London
 URL:https://www.artsdepot.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5ce4ed4c020046d0af11f66760d69afa-occ_f50218a5eaf6491e835b838008e
+ 37e9f@thingstodoinyourcity
+DTSTAMP:20260828T141250Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20261004
+SUMMARY:Portrait of a City
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Dulwich Picture Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1d2508996a5c4caca4b1a2b0c30dbd7f-occ_98f8f30320fd42708ff5f99570a
+ 72c02@thingstodoinyourcity
+DTSTAMP:20260828T135153Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20261108
+SUMMARY:Clare Woods: Garden Without Seasons
+DESCRIPTION:Price: Free with entrance ticket\nhttps://whatsdownthatstreet
+ .com/london-museum-guide/exhibitions-london/
+LOCATION:Pitzhanger Manor & Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4701a0ef6d0c4acbb22e9611943de8a7-occ_695339b4ec1f4f2d93008e04449
  0dfa6@thingstodoinyourcity
 DTSTAMP:20260827T202708Z
@@ -231,6 +692,100 @@ DESCRIPTION:A London premiere inspired by Lionsgate’s worldwide blockbu
 LOCATION:London Coliseum\, London Coliseum\, St Martin’s Lane\, London 
  WC2N 4ES\, London
 URL:https://londoncoliseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f3bbcaf529354b13b45dfc07421ed2e5-occ_12dd9451833c468099c4303db41
+ 16a79@thingstodoinyourcity
+DTSTAMP:20260828T162507Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260901
+SUMMARY:Films by Nagisa Ōshima
+DESCRIPTION:A programme of nine films by Japanese New Wave filmmaker Nagi
+ sa Ōshima. It focuses on work made through his production company in th
+ e 1960s and early 1970s.\nPrice: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2a0e09136ff54451b9e72a96f7596e77-occ_bd2fbacd3a534b109a10bb26358
+ 9948d@thingstodoinyourcity
+DTSTAMP:20260828T163012Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260905
+SUMMARY:Death By Hanging + Yunbogi's Diary
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3b434e90484345bf9a22a8fb7c820ea1-occ_83194c2d8a5143c4b46eb3bac33
+ 6e6c2@thingstodoinyourcity
+DTSTAMP:20260828T162507Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260905
+SUMMARY:Diary of a Shinjuku Thief
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c34d4d0e7479486590dbb979b8146ec0-occ_5ee8d6ac537d48f4ab20611148e
+ 57a74@thingstodoinyourcity
+DTSTAMP:20260828T161449Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260906
+SUMMARY:Boy
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3df71618b5ad4076a938b35649933080-occ_30f69ad920024633a5bd509ae0a
+ 9ecd4@thingstodoinyourcity
+DTSTAMP:20260828T155154Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260831
+SUMMARY:Imagining Animals
+DESCRIPTION:Price: Included in entrance\nhttps://whatsdownthatstreet.com/
+ london-museum-guide/exhibitions-london/
+LOCATION:Tower of London\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e7d6beda49b94473a404b854eeba1cbb-occ_25898a04a4f64cf7b3ec1e82a40
+ fc310@thingstodoinyourcity
+DTSTAMP:20260828T162004Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260903
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DESCRIPTION:A Camp Miasma slasher revival turns into a blood-soaked world
+  of desire\, fear and delirium. Screening dates run from 21 August to 3 
+ September 2026.\nPrice: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_be1490c287424acfa43f6fa80c91307d-occ_fe3ee65cfd2e4868a55a420e6b6
+ 1fbd4@thingstodoinyourcity
+DTSTAMP:20260828T161449Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260903
+SUMMARY:The Visitor
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3b4dbed2abdc4d2b8fd847430cc173cc-occ_0055f4d05a094e5e8b400a5178a
+ a262e@thingstodoinyourcity
+DTSTAMP:20260828T162006Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260906
+SUMMARY:A. Rimbaud
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0bdc65c251804546bd67dff98dfb36d0-occ_3fe408ed72e44ce1b8635e7896f
@@ -734,6 +1289,20 @@ LOCATION:Tour (10 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b3c3df0258d1493588a1de020cff93ba-occ_f732d43c1dab4b2b8e9b8ab46aa
+ 437cc@thingstodoinyourcity
+DTSTAMP:20260828T143254Z
+DTSTART;VALUE=DATE:20260828
+DTEND:20260828T213000Z
+SUMMARY:Eddie Prévost\, Binker Golding\, Olie Brice Trio
+DESCRIPTION:An evening of improvised music by Eddie Prévost\, Binker Gol
+ ding and Olie Brice. The programme includes two sets of music.\nPrice: S
+ tandard £17.50 / Vortex Members £15 / Students & UC beneficiaries £12
+ .5\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ae444b56d78840e89f57a6ec767a2206-occ_9456ccfa7c3a4451b79f0b90f94
  66970@thingstodoinyourcity
 DTSTAMP:20260828T115156Z
@@ -812,6 +1381,19 @@ SUMMARY:Holy Fool
 DESCRIPTION:Price: Check site\nhttps://parktheatre.co.uk/whats-on/
 LOCATION:Park200\, London
 URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fa5088f10cee4befb9a430d37c265198-occ_39d6d5cda3284c35a5d53480a83
+ d06a1@thingstodoinyourcity
+DTSTAMP:20260828T160429Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Josh Smith Trio
+DESCRIPTION:Blues guitarist Josh Smith brings his trio for a night of blu
+ es\, rock and improvisation. The performance draws from his acclaimed li
+ ve and solo recordings.\nPrice: Check site\nhttps://www.ronniescotts.co.
+ uk/find-a-show
+LOCATION:Main Show\, 47 Frith Street Soho London W1D 4HT\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b638d74296ea40ed8a4c955ba1727ffb-occ_8146b0f235ba4529bd89a6ba5b1
@@ -1034,6 +1616,46 @@ LOCATION:Theatre Royal Haymarket\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0e1028833ede4df1a5d760f0b32be841-occ_b24d8587f0e94fd79d42074ed90
+ 98f1e@thingstodoinyourcity
+DTSTAMP:20260828T155808Z
+DTSTART;VALUE=DATE:20260828
+SUMMARY:Vibe Village Acoustic
+DESCRIPTION:An intimate evening featuring accomplished UK vocalists. Feat
+ ured credits include Gorillaz\, Dua Lipa\, Christina Aguilera\, Stormzy\
+ , Coldplay and Becky Hill.\nPrice: Check site\nhttps://www.ronniescotts.
+ co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, 47 Frith Street Soho London W1D 4HT\, Soh
+ o\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3eab45b19c5042e998f146d54d072f6a-occ_c71efc2325804d00b7721380ede
+ 3b796@thingstodoinyourcity
+DTSTAMP:20260828T160802Z
+DTSTART:20260828T110000Z
+SUMMARY:All Points East
+DESCRIPTION:Two Tyler\, The Creator headline nights feature Rex Orange Co
+ unty\, Turnstile and more at Victoria Park.\nPrice: Various\nhttps://www
+ .timeout.com/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Victoria Park\, Victoria Park Rd\, London\, E3 5SN\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3eab45b19c5042e998f146d54d072f6a-occ_5322c34ec32b411c8cb702896dc
+ eb4f6@thingstodoinyourcity
+DTSTAMP:20260828T160802Z
+DTSTART:20260829T110000Z
+SUMMARY:All Points East
+DESCRIPTION:Two Tyler\, The Creator headline nights feature Rex Orange Co
+ unty\, Turnstile and more at Victoria Park.\nPrice: Various\nhttps://www
+ .timeout.com/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Victoria Park\, Victoria Park Rd\, London\, E3 5SN\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0b72881725154d9fa4b78814e556af18-occ_316b4efbd4bd4aaabd2db222fc7
  5d12f@thingstodoinyourcity
 DTSTAMP:20260827T202550Z
@@ -1055,18 +1677,88 @@ LOCATION:O2 Arena - London\, London
 URL:https://catchmovement.com/london/concerts
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_55397cb47129469f83e1f2581a6b27ed-occ_b14b3ab8d249467592db75083ba
+ be324@thingstodoinyourcity
+DTSTAMP:20260828T144415Z
+DTSTART:20260828T141500Z
+SUMMARY:Blade Runner: The Final Cut
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e404b029b85d4f65a591f462bf83960b-occ_48dfbf77df9e4049baf848d87fc
+ 70fae@thingstodoinyourcity
+DTSTAMP:20260828T144413Z
+DTSTART:20260828T143000Z
+SUMMARY:Bring Me the Head of Alfredo Garcia
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4d4d377c4da24598aefd6c057ea5de4d-occ_2b3f8a0135074680afcabb24662
+ 65e09@thingstodoinyourcity
+DTSTAMP:20260828T154303Z
+DTSTART:20260828T170000Z
+SUMMARY:Daniel Simonsen: Work in Progress
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
+ ington\, London\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b5ae5133c0e4c1997b4bab1e64234f4-occ_4b02e835a85945f28ce8e733a47
+ fe2e5@thingstodoinyourcity
+DTSTAMP:20260828T153531Z
+DTSTART:20260828T170000Z
+SUMMARY:Daniel Simonsen: Work in Progress
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
+ don\, N1 8NQ\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ccb735aaf58f4361811e3f4b1a93b89a-occ_38f0078ae8a840ff9caa7429fa3
  76efb@thingstodoinyourcity
-DTSTAMP:20260827T222811Z
+DTSTAMP:20260828T140448Z
 DTSTART:20260828T170000Z
 SUMMARY:K-POP LIVE - The Theatre Show
-DESCRIPTION:A high-energy tribute to K-pop idols and anthems\, featuring 
- hits from Blackpink\, Twice\, Katseye and K-Pop: Demon Hunters. Includes
-  live vocals and choreography.\nPrice: Check site\nhttps://www.atgticket
- s.com/whats-on/
+DESCRIPTION:A high-energy K-POP tribute featuring hits from Blackpink\, T
+ wice\, Katseye and K-Pop: Demon Hunters. Expect live vocals\, choreograp
+ hy and stage visuals.\nPrice: Check site\nhttps://www.atgtickets.com/wha
+ ts-on/
 LOCATION:New Wimbledon Theatre\, 93 The Broadway\, Wimbledon\, London SW1
  9 1QG\, UK\, Wimbledon\, London
 URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_70451e19a8d84af7836a0555fcb4810f-occ_ce0d16f4bed34960bc44a001dcf
+ 782c4@thingstodoinyourcity
+DTSTAMP:20260828T144523Z
+DTSTART:20260828T170000Z
+SUMMARY:Perfect Blue
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0dc2eb24fff14c42b2f99e2951156f89-occ_633c6cb52775496d9663fb95cfc
+ 47b17@thingstodoinyourcity
+DTSTAMP:20260828T144523Z
+DTSTART:20260828T171500Z
+SUMMARY:Beyond the Mat Presented by WrestleTalk
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_57542cfa31c74d6796824268739329a8-occ_997109e29c39477ba70c89a985f
@@ -1116,6 +1808,17 @@ DESCRIPTION:Price: £15\; Concessions: £12\nhttps://thetopsecretcomedycl
 LOCATION:The Top Secret Comedy Club (23 Kingsway)\, York House 23 Kingswa
  y\, London\, WC2B 6UJ\, United Kingdom\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f1e8dcbbe53409ab18486b19bbe8247-occ_349a46d9bbb64950a588dd3dfad
+ db5c9@thingstodoinyourcity
+DTSTAMP:20260828T153104Z
+DTSTART:20260828T182000Z
+SUMMARY:Angel Comedy Fridays
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
+ don\, N1 8NQ\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_4efd5f6975564d9f9ef498dd341
@@ -1182,6 +1885,30 @@ LOCATION:The Top Secret Comedy Club (23 Kingsway)\, 23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_533627ad8b8742b0b8d803cbaeff06ee-occ_4b68f63e917947d38be68552b47
+ 35a93@thingstodoinyourcity
+DTSTAMP:20260828T145408Z
+DTSTART:20260828T191000Z
+SUMMARY:Heat
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_99a04f8bfcc94eefa5d867ab84d7edc1-occ_13f591a317c146578b91334116c
+ fd949@thingstodoinyourcity
+DTSTAMP:20260828T145408Z
+DTSTART:20260828T194500Z
+SUMMARY:Slowburn Shoot: An Indie Wrestling Story
+DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
+ s/
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e76633c235924a2daf8c50a6a87d0c4e-occ_6716d4ce3e9c4995a4b456bb738
  2ef0c@thingstodoinyourcity
 DTSTAMP:20260827T205848Z
@@ -1191,6 +1918,28 @@ DESCRIPTION:Price: £18\; Concessions: £15\nhttps://thetopsecretcomedycl
  ub.co.uk/events-listings/
 LOCATION:170 Drury Lane\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94bd55c06c1b4b3a91741aa138515e4c-occ_6662905db7c7495dba81aa88210
+ dced0@thingstodoinyourcity
+DTSTAMP:20260828T153102Z
+DTSTART:20260828T201500Z
+SUMMARY:Angel Comedy Fridays
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
+ don\, N1 8NQ\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f6501677a4224cfa96086d37a9c8b74f-occ_f778a14e8bcd43038554bc9f9c6
+ 5102b@thingstodoinyourcity
+DTSTAMP:20260828T154701Z
+DTSTART:20260828T201500Z
+SUMMARY:Angel Comedy Fridays
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
+ ington\, London\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bc5f6b7454d34365b2d900b26f6d746b-occ_af109d5af1344fa78446e0898f2
@@ -1205,18 +1954,26 @@ LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b3c3df0258d1493588a1de020cff93ba-occ_f732d43c1dab4b2b8e9b8ab46aa
- 437cc@thingstodoinyourcity
-DTSTAMP:20260828T125316Z
-DTSTART:20260828T213000Z
-DTEND:20260828T213000Z
-SUMMARY:Eddie Prévost\, Binker Golding\, Olie Brice Trio
-DESCRIPTION:An evening of improvised music from Eddie Prévost\, Binker G
- olding and Olie Brice. The programme features two sets of music.\nPrice:
-  Standard £17.50 / Vortex Members £15 / Students & UC beneficiaries £
- 12.5\nhttps://www.vortexjazz.co.uk/events/
-LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
-URL:https://www.vortexjazz.co.uk/events/
+UID:cand_94f49263b5eb4ae1bb4679d8fe8800f4-occ_79a91b2fedda4a3388d65bb028d
+ 57e8d@thingstodoinyourcity
+DTSTAMP:20260828T154700Z
+DTSTART:20260828T220000Z
+SUMMARY:Roast Battle UK
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
+ ington\, London\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e9ed70c4b3134e60aa1d0745d0cceb4d-occ_32b1f32216dc410f868d3b2d490
+ fb4f3@thingstodoinyourcity
+DTSTAMP:20260828T153531Z
+DTSTART:20260828T220000Z
+SUMMARY:Roast Battle UK
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
+ don\, N1 8NQ\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_80fc6d9c3c3142f2aeb5676d65a3fb1f-occ_80740c768a30413ba4fa4f5817d
@@ -1396,6 +2153,19 @@ LOCATION:Queen of Hoxton\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2ef2ec24953a428ab795ac62fe104bf3-occ_511682d613214dd6ab25d8cb515
+ 69def@thingstodoinyourcity
+DTSTAMP:20260828T155805Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Late Late Show with Nim Sadot
+DESCRIPTION:A bass-led\, Blue Note-influenced combo promising cool groove
+ s and hornful joyfulness. Door sales only.\nPrice: Check site\nhttps://w
+ ww.ronniescotts.co.uk/find-a-show
+LOCATION:Late Late Show\, 47 Frith Street Soho London W1D 4HT\, Soho\, Lo
+ ndon
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b522b707ca8f402d917d3c37f4cd0cf6-occ_1bb83fa6d29a41e9b926d4fe50d
  81fb0@thingstodoinyourcity
 DTSTAMP:20260827T215204Z
@@ -1446,6 +2216,36 @@ DESCRIPTION:Carnival returns to London across the August Bank Holiday for
  \nPrice: FREE\nhttps://londontheinside.com/whats-on-this-week/
 LOCATION:NOTTING HILL\, London
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_41b9faf3f29347fb918bd711f9387610-occ_73721cc9b9994258b358faff389
+ 42bfb@thingstodoinyourcity
+DTSTAMP:20260828T161239Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:RALLY 2026
+DESCRIPTION:Rally returns for its fourth edition in 2026 with a line-up c
+ urated by Blood Orange. The programme includes Daniel Avery\, james K\, 
+ Optimo and Jump Source.\nPrice: From £42.50\nhttps://www.timeout.com/lo
+ ndon/things-to-do/things-to-do-in-london-this-week
+LOCATION:Southwark Park\, Lower Rd\, London\, SE16 2PA\, Bermondsey\, Lon
+ don
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_41b9faf3f29347fb918bd711f9387610-occ_fea126fb2a7e4ffaaedec9f0807
+ a3c23@thingstodoinyourcity
+DTSTAMP:20260828T161239Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:RALLY 2026
+DESCRIPTION:Rally returns for its fourth edition in 2026 with a line-up c
+ urated by Blood Orange. The programme includes Daniel Avery\, james K\, 
+ Optimo and Jump Source.\nPrice: From £42.50\nhttps://www.timeout.com/lo
+ ndon/things-to-do/things-to-do-in-london-this-week
+LOCATION:Southwark Park\, Lower Rd\, London\, SE16 2PA\, Bermondsey\, Lon
+ don
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4351c9876d3f4eeca699a239b86ccbdd-occ_cb822d99dbc6441b9980983bf71
@@ -1565,6 +2365,16 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f3cc8031b8124179aef5d51d9ffb46ed-occ_3d1d5775493d481e9c7f237330c
+ c25f3@thingstodoinyourcity
+DTSTAMP:20260828T144309Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:The Alarm 2.0 Reunion (Night 1)
+DESCRIPTION:Price: Check site\nhttps://www.thegarage.london/live/
+LOCATION:The Garage\, 20-22 Highbury Corner\, London\, N5 1RD\, London
+URL:https://www.thegarage.london/live/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fe6e3e532ba7407dba2c18eb998698e1-occ_533dc7f1e4f94e899561f5ee045
  fd832@thingstodoinyourcity
 DTSTAMP:20260827T190246Z
@@ -1670,6 +2480,17 @@ LOCATION:Billingsgate Roman House and Baths\, 101 Lower Thames Street\, L
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bfeda5833cae4fc3965d4686be436ce0-occ_e366191ca6d6445287b0759529c
+ 4bb8d@thingstodoinyourcity
+DTSTAMP:20260828T153938Z
+DTSTART:20260829T130000Z
+SUMMARY:Stand Up Beginners Course Showcase
+DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
+ don\, N1 8NQ\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1e71d921d97c44ef8c3e1789dab8e20a-occ_5086d8abdf7f4fa2a3aa8f33a5b
  fff94@thingstodoinyourcity
 DTSTAMP:20260827T203458Z
@@ -1767,12 +2588,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f5951712b17649c297b5c56c2eae2371-occ_4b04cacb58d14c5bbd80cf42235
  44edd@thingstodoinyourcity
-DTSTAMP:20260828T130822Z
+DTSTAMP:20260828T142942Z
 DTSTART:20260829T200000Z
 SUMMARY:Saturday Stand Up Comedy
-DESCRIPTION:The lineup includes Russell Hicks and Daniel Simonsen. A top 
- secret celebrity guest and more acts are promised.\nPrice: £20\; Conces
- sions: £16\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+DESCRIPTION:Features Russell Hicks\, Daniel Simonsen and a top secret cel
+ ebrity guest\, with more acts to be announced.\nPrice: £20\; Concession
+ s: £16\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
@@ -1827,6 +2648,16 @@ DESCRIPTION:Take a guided tour through an area packed with medieval and T
  ondonmuseum.org.uk/whats-on/
 LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_566ab4bd0df946189bd696955c99d289-occ_8f0f421114e248ba9db1d253d5d
+ 1496e@thingstodoinyourcity
+DTSTAMP:20260828T144309Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:The Alarm 2.0 - Reunion Night 2
+DESCRIPTION:Price: Check site\nhttps://www.thegarage.london/live/
+LOCATION:The Garage\, 20-22 Highbury Corner\, London\, N5 1RD\, London
+URL:https://www.thegarage.london/live/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_91ce97d3f45841cd822deecbf9118355-occ_8467168de0224d30867b5f8a52a
