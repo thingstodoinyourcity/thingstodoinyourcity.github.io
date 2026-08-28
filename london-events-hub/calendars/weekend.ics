@@ -514,9 +514,56 @@ LOCATION:Soho Theatre Walthamstow\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3ff5e4e874954d829a19c01e584bca85-occ_f35b890f39fb428cb92fc041b9b
+ 0f140@thingstodoinyourcity
+DTSTAMP:20260828T124450Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:A Midsummer Night's Dream
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Shakespeare's Globe\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_edae07c77afe483db2e3d06fbd064004-occ_1014d6c3221445e2becca0f6f1b
+ fbfc9@thingstodoinyourcity
+DTSTAMP:20260828T124450Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270103
+SUMMARY:Avenue Q
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Shaftesbury Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7487b66eeb4247948a43f61bdf6e5660-occ_702b79439cf9455b80a9a539d72
+ 16db3@thingstodoinyourcity
+DTSTAMP:20260828T124032Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270417
+SUMMARY:Beetlejuice the Musical
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Prince Edward Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_173796f97a7f4546842098c0a65b52ca-occ_352199cf9ec242958edb3bc4574
  3f76e@thingstodoinyourcity
 DTSTAMP:20260827T211238Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270515
+SUMMARY:Burlesque The Musical
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Tour (11 Venues)\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_37cc303a965448549e8e77c80bf739d5-occ_c1ffe47686e8478cae876c74a95
+ 8bd31@thingstodoinyourcity
+DTSTAMP:20260828T103558Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20270515
 SUMMARY:Burlesque The Musical
@@ -595,6 +642,32 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d3ed12ac39354a18993afb37f5c36604-occ_354f7e4b22b14923b20924ada70
+ 1ea47@thingstodoinyourcity
+DTSTAMP:20260828T121423Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20261107
+SUMMARY:Kimberly Akimbo
+DESCRIPTION:A Hampstead Theatre European premiere with book and lyrics by
+  David Lindsay-Abaire\, music by Jeanine Tesori\, and direction by Micha
+ el Longhurst.\nPrice: Check site\nhttps://www.hampsteadtheatre.com/whats
+ -on/main-stage/
+LOCATION:MAIN STAGE\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTTAGE\, L
+ ONDON\, NW3 3EU\, SWISS COTTAGE\, London
+URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7d68fce2dcdc49149b412a78aeea0463-occ_1af5208b27b3485ba094849e9da
+ 0920f@thingstodoinyourcity
+DTSTAMP:20260828T103558Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270103
+SUMMARY:MAMMA MIA!
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Tour (3 Venues)\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ac3c0def01f1408dac698fc682541067-occ_bb43cc01b9d24cf48524d3bfdeb
  669c1@thingstodoinyourcity
 DTSTAMP:20260827T221032Z
@@ -615,6 +688,29 @@ SUMMARY:MAMMA MIA!
 DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
 LOCATION:Tour (3 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c44de72f5824d02976970143550201b-occ_3dd18ea81d594d73b92ea64b356
+ 89174@thingstodoinyourcity
+DTSTAMP:20260828T124836Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Matthew Bourne's The Car Man
+DESCRIPTION:Price: Check site\nhttps://www.sadlerswells.com/whats-on
+LOCATION:Sadler's Wells Theatre\, London
+URL:https://www.sadlerswells.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a7deada55ec743c0a81b745043443a4f-occ_0ffede7dd21d41cc9a3d91f4942
+ 52fa1@thingstodoinyourcity
+DTSTAMP:20260828T122833Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270102
+SUMMARY:OH MARY!
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Trafalgar Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2c791ef2ea5f4f7dbb76c65ea2fe0c97-occ_1b3674dfb68747d4a8f267f7a50
@@ -639,6 +735,17 @@ LOCATION:Tour (7 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b4f2c715c7bc466186fc509b821253ad-occ_1687016c10fe4b7ba85fbd0d6da
+ 21c50@thingstodoinyourcity
+DTSTAMP:20260828T104140Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270806
+SUMMARY:Paul Smith - Happy
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Tour (7 Venues)\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_59d2eba50326433b90a8221c809338db-occ_6b8881e1cdee4e8baea37638fa5
  4eac1@thingstodoinyourcity
 DTSTAMP:20260827T231618Z
@@ -650,6 +757,30 @@ LOCATION:Sadler's Wells Theatre\, London
 URL:https://www.sadlerswells.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_00d6f705463b448999494c8f55dec2aa-occ_b9c4cfa9d8484e2191871f66faa
+ 8f9cb@thingstodoinyourcity
+DTSTAMP:20260828T125901Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20271003
+SUMMARY:The Play That Goes Wrong
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Duchess Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7d04e1cd54f94082848b117514a82da9-occ_8dc0e4e31172486aa33d047fcd6
+ a7c84@thingstodoinyourcity
+DTSTAMP:20260828T123226Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260919
+SUMMARY:The Producers
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Garrick Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_30ff293c4a5a44ccbf46c521cdea541f-occ_c900b54e9810499a8db018a67ec
  c1caa@thingstodoinyourcity
 DTSTAMP:20260827T205551Z
@@ -659,6 +790,29 @@ SUMMARY:The Silence of the Lambs
 DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
 LOCATION:Tour (10 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a020c05dce0142b78b4c7720370c614d-occ_41bdb2c3d0884eb8846a55c60cb
+ 0b565@thingstodoinyourcity
+DTSTAMP:20260828T103745Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20270626
+SUMMARY:The Silence of the Lambs
+DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
+LOCATION:Tour (10 Venues)\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e1967d6479084a398d4e1a62d14fe8d8-occ_b6d8cedbc80f4c339d1bf46be28
+ 1f7a8@thingstodoinyourcity
+DTSTAMP:20260828T123227Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260905
+SUMMARY:Trainspotting The Musical
+DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
+ dy
+LOCATION:Theatre Royal Haymarket\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ccb735aaf58f4361811e3f4b1a93b89a-occ_38f0078ae8a840ff9caa7429fa3
@@ -724,6 +878,70 @@ LOCATION:The Top Secret Comedy Club (23 Kingsway)\, York House 23 Kingswa
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_4efd5f6975564d9f9ef498dd341
+ e7bd5@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260828T183000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_5f609e84a4744e209509a9020ac
+ f4ff5@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260829T133000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_d5b4e1d4e288494485ab16912a7
+ 8f2f5@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260829T183000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_18638a6a323e4c0a8d80791787e
+ d4209@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260830T140000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d47775c0203041589763aab89e797e5e-occ_0ed042f8b9f744c5bc66b76d594
+ 69b55@thingstodoinyourcity
+DTSTAMP:20260828T104623Z
+DTSTART:20260828T190000Z
+DTEND;VALUE=DATE:20260828
+SUMMARY:Friday Stand Up Comedy Show
+DESCRIPTION:Price: £16 Concessions: £13\nhttps://thetopsecretcomedyclub
+ .co.uk/events-listings/
+LOCATION:The Top Secret Comedy Club (23 Kingsway)\, 23 Kingsway\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e76633c235924a2daf8c50a6a87d0c4e-occ_6716d4ce3e9c4995a4b456bb738
  2ef0c@thingstodoinyourcity
 DTSTAMP:20260827T205848Z
@@ -737,15 +955,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_bc5f6b7454d34365b2d900b26f6d746b-occ_af109d5af1344fa78446e0898f2
  afb0a@thingstodoinyourcity
-DTSTAMP:20260827T203806Z
+DTSTAMP:20260828T131956Z
 DTSTART:20260828T210000Z
 SUMMARY:Friday Stand Up Comedy 10pm Show
-DESCRIPTION:Featuring Daniel Simonsen and Russell Hicks\, with more acts 
- to be announced. The listing also includes Top Secret and Plus More Acts
- .\nPrice: £11\; Concessions: £9\nhttps://thetopsecretcomedyclub.co.uk/
- events-listings/
+DESCRIPTION:Featuring Daniel Simonsen and Russell Hicks. More acts are to
+  be announced\, with additional acts promised.\nPrice: £11\; Concession
+ s: £9\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b3c3df0258d1493588a1de020cff93ba-occ_f732d43c1dab4b2b8e9b8ab46aa
+ 437cc@thingstodoinyourcity
+DTSTAMP:20260828T125316Z
+DTSTART:20260828T213000Z
+DTEND:20260828T213000Z
+SUMMARY:Eddie Prévost\, Binker Golding\, Olie Brice Trio
+DESCRIPTION:An evening of improvised music from Eddie Prévost\, Binker G
+ olding and Olie Brice. The programme features two sets of music.\nPrice:
+  Standard £17.50 / Vortex Members £15 / Students & UC beneficiaries £
+ 12.5\nhttps://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
+URL:https://www.vortexjazz.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_80fc6d9c3c3142f2aeb5676d65a3fb1f-occ_80740c768a30413ba4fa4f5817d
@@ -772,6 +1003,44 @@ LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
 URL:https://www.oslohackney.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_04d3526e75ba4961b191b201f6a98b2a-occ_0c258aee9ef144fdadd28337d7b
+ 828a0@thingstodoinyourcity
+DTSTAMP:20260828T125315Z
+DTSTART;VALUE=DATE:20260829
+DTEND:20260829T213000Z
+SUMMARY:Alexandra Ridout & Fabrice Tarel Quartet
+DESCRIPTION:A quartet led by trumpeter Alexandra Ridout and pianist Fabri
+ ce Tarel. The programme features two sets of music.\nPrice: Standard £1
+ 8 / Vortex Members £16 / Students & UC beneficiaries £14\nhttps://www.
+ vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_04d3526e75ba4961b191b201f6a98b2a-occ_7c30df167c99430dbc6cc3b7789
+ b6d12@thingstodoinyourcity
+DTSTAMP:20260828T125315Z
+DTSTART:20260829T193000Z
+SUMMARY:Alexandra Ridout & Fabrice Tarel Quartet
+DESCRIPTION:A quartet led by trumpeter Alexandra Ridout and pianist Fabri
+ ce Tarel. The programme features two sets of music.\nPrice: Standard £1
+ 8 / Vortex Members £16 / Students & UC beneficiaries £14\nhttps://www.
+ vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
+URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_66d7faf480554cf88036c8ce58f1289e-occ_8201e9c3ebd44f4892ef25d1afc
+ 57fa6@thingstodoinyourcity
+DTSTAMP:20260828T112420Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Big Top 90'S VS 00'S Brunch
+DESCRIPTION:Price: Tickets from £43.94 - £49.62\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Trapeze\, East London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9b66051436194ecb93fe155feca7a3a8-occ_a2128f67c96c47079da6e14cc92
  285ac@thingstodoinyourcity
 DTSTAMP:20260827T213906Z
@@ -781,6 +1050,18 @@ DESCRIPTION:Price: Tickets from £43.94 - £49.62\nhttps://www.designmyni
  ght.com/london/whats-on/best-events-in-may
 LOCATION:Trapeze\, East London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_967224f9a0824619b87be750a2412f68-occ_bb8e97be6e9a4c4c8859f9af3b4
+ a0cdc@thingstodoinyourcity
+DTSTAMP:20260828T103956Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Electric Shuffle’s Disco Brunch
+DESCRIPTION:Price: Check site\nhttps://londontheinside.com/whats-on-this-
+ week/
+LOCATION:Electric Shuffle\, CANARY WHARF KINGS CROSS LONDON BRIDGE\, Lond
+ on
+URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b3cfcac020ed4ea882ce23cb8a50580c-occ_0598db6e8670469c8e8716f9a9e
@@ -795,6 +1076,17 @@ LOCATION:Electric Shuffle\, CANARY WHARF • KINGS CROSS • LONDON BRIDG
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9b8f78d42a6f44c4baf81420c9170987-occ_082c782e63ff44b689f36ab4ee0
+ 611b7@thingstodoinyourcity
+DTSTAMP:20260828T105846Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Ginger's Big Drag Bottomless Brunch
+DESCRIPTION:Price: Tickets from £19.80 - £59.34\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Balls Brothers- Austin Friars\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a5a2cd38bd054333926378155b83cb1d-occ_f8de98370c0a40e4935a8becf89
  993cd@thingstodoinyourcity
 DTSTAMP:20260827T213256Z
@@ -803,6 +1095,39 @@ SUMMARY:Ginger's Big Drag Bottomless Brunch
 DESCRIPTION:Price: Tickets from £19.80 - £59.34\nhttps://www.designmyni
  ght.com/london/whats-on/best-events-in-may
 LOCATION:Balls Brothers- Austin Friars\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d0e3e6e1670b4539af0d65631baeeea3-occ_8c33b475fe144b2f96a4dc38388
+ 4daac@thingstodoinyourcity
+DTSTAMP:20260828T121101Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Ginger's Big Drag Bottomless Brunch
+DESCRIPTION:Price: Tickets from £19.80 - £59.34\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Balls Brothers- Austin Friars\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c255ccf153694605996ef5cfebae9dee-occ_cb306e3216244bb49974f920196
+ afb7c@thingstodoinyourcity
+DTSTAMP:20260828T111218Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:KIKI Drag Cabaret
+DESCRIPTION:Price: Tickets from £14.30 - £19.80\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Queen of Hoxton\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c5879069c2f3478c8201170f74eec07c-occ_22f8338a2ec94c91890b672997f
+ 5fd2c@thingstodoinyourcity
+DTSTAMP:20260828T115156Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:KIKI Drag Cabaret
+DESCRIPTION:Price: Tickets from £14.30 - £19.80\nhttps://www.designmyni
+ ght.com/london/whats-on/best-events-in-may
+LOCATION:Queen of Hoxton\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
@@ -826,6 +1151,19 @@ SUMMARY:London Museum Docklands highlights tour
 DESCRIPTION:Tour around the very best bits of London Museum Docklands. Th
  e tour runs from 29 August to 12 September 2026.\nPrice: Check site\nhtt
  ps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd8f7b114f3446839d32bc61c9a77ed9-occ_f256454198c94a898d30e1e2062
+ 67834@thingstodoinyourcity
+DTSTAMP:20260828T121921Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260912
+SUMMARY:London Museum Docklands highlights tour
+DESCRIPTION:Take a tour around the very best bits of London Museum Dockla
+ nds. The gallery tour runs from 29 August to 12 September 2026.\nPrice: 
+ Check site\nhttps://www.londonmuseum.org.uk/whats-on/
 LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
@@ -854,6 +1192,17 @@ DESCRIPTION:Carnival returns to London across the August Bank Holiday for
  \nPrice: FREE\nhttps://londontheinside.com/whats-on-this-week/
 LOCATION:NOTTING HILL\, London
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4351c9876d3f4eeca699a239b86ccbdd-occ_cb822d99dbc6441b9980983bf71
+ 37173@thingstodoinyourcity
+DTSTAMP:20260828T112944Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Red Dog's Bottomless Country Brunch
+DESCRIPTION:Price: Tickets from £48.06 - £283.02\nhttps://www.designmyn
+ ight.com/london/whats-on/best-events-in-may
+LOCATION:Red Dog Saloon Shoreditch\, Shoreditch\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dcbf5e03653e48dfa66206f73197b15e-occ_aa88bea1a7184baea74386041d2
@@ -924,6 +1273,18 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bbdcc28159ac46ddadd1e2880339e05a-occ_db32e5478aaa4a688e97e346483
+ 2f0dc@thingstodoinyourcity
+DTSTAMP:20260828T122212Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Roman Fort Gate Tours
+DESCRIPTION:Explore the remains of Roman London's military fort\, hidden 
+ beneath the streets. Guided walks run from 29 August to 28 September 202
+ 6.\nPrice: Check site\nhttps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_536fcce3343f4ad8ac98bcc3b380a1f7-occ_a249caa1dba64374aaa2b572f0d
  b66a8@thingstodoinyourcity
 DTSTAMP:20260827T215606Z
@@ -932,6 +1293,19 @@ DTEND;VALUE=DATE:20260912
 SUMMARY:Roman London family walk
 DESCRIPTION:Go back 2\,000 years and walk Londinium's streets on a family
   guided walk across London.\nPrice: Check site\nhttps://www.londonmuseum
+ .org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_95b29b2d418a49ce8b613de5083d27f5-occ_22cd55537e2648ff900d4c29584
+ e0135@thingstodoinyourcity
+DTSTAMP:20260828T121922Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260912
+SUMMARY:Roman London family walk
+DESCRIPTION:Go back 2\,000 years and walk Londinium's streets on a guided
+  family walk across London.\nPrice: Check site\nhttps://www.londonmuseum
  .org.uk/whats-on/
 LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
@@ -1055,7 +1429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_814465a9cfb54476803c097387c51286-occ_a962943a03de4de3b4f19ffcba3
  4eda5@thingstodoinyourcity
-DTSTAMP:20260827T204013Z
+DTSTAMP:20260828T121128Z
 DTSTART:20260829T170000Z
 SUMMARY:Saturday Stand Up Comedy Early Show
 DESCRIPTION:Russell Hicks is listed\, with more acts to be announced. The
@@ -1085,6 +1459,19 @@ DESCRIPTION:Price: £15\; Concessions: £12\nhttps://thetopsecretcomedycl
  ub.co.uk/events-listings/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d2da03d297314f4699253dda941c2c60-occ_7a7fbf329f364c078aaf009ffb0
+ 7307a@thingstodoinyourcity
+DTSTAMP:20260828T125054Z
+DTSTART:20260829T184500Z
+SUMMARY:Alexandra Ridout & Fabrice Tarel Quartet
+DESCRIPTION:Trumpet virtuoso Alexandra Ridout performs with Fabrice Tarel
+ ’s quartet in an evening redefining jazz’s boundaries.\nPrice: Stand
+ ard £18 / Vortex Members £16 / Students & UC beneficiaries £14\nhttps
+ ://www.vortexjazz.co.uk/events/
+LOCATION:Vortex Jazz Club\, 11 Gillett Square\, London\, N16 8AZ\, London
+URL:https://www.vortexjazz.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_231a957a14e246da8d16eff5c56e667e-occ_7a77591252c641029d9212ed1bd
@@ -1124,6 +1511,18 @@ LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f5951712b17649c297b5c56c2eae2371-occ_4b04cacb58d14c5bbd80cf42235
+ 44edd@thingstodoinyourcity
+DTSTAMP:20260828T130822Z
+DTSTART:20260829T200000Z
+SUMMARY:Saturday Stand Up Comedy
+DESCRIPTION:The lineup includes Russell Hicks and Daniel Simonsen. A top 
+ secret celebrity guest and more acts are promised.\nPrice: £20\; Conces
+ sions: £16\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+LOCATION:23 Kingsway\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_09e868d35d3644d0b3cb220746e214e6-occ_5854ca7ac6f34fcfa91057745ec
  389b7@thingstodoinyourcity
 DTSTAMP:20260828T100514Z
@@ -1138,10 +1537,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_67c736ab14d846849766c0e82bc2876b-occ_81439be45c4e464f8c779c4fcbc
  4aeaa@thingstodoinyourcity
-DTSTAMP:20260827T190344Z
+DTSTAMP:20260828T103216Z
 DTSTART:20260829T220000Z
 DTEND:20260830T033000Z
-SUMMARY:ADMIRAL T @CARNIVAL ENERGY – NOTTING HILL 2026 WARM UP
+SUMMARY:Admiral T Carnival Energy Warm Up
 DESCRIPTION:Admiral T headlines a pre-Notting Hill Carnival party with Ca
  ribbean and African carnival music across two rooms.\nPrice: Check site\
  nhttps://earthackney.co.uk/events/
@@ -1159,6 +1558,19 @@ SUMMARY:In & around Smithfield Market
 DESCRIPTION:Explore an area packed with medieval and Tudor history. The g
  uided walk takes place around Smithfield Market.\nPrice: Check site\nhtt
  ps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b1bbdab2e9164ba99aa017b87d1d9bf8-occ_0845cb49e39b493993acb60f344
+ 1af90@thingstodoinyourcity
+DTSTAMP:20260828T121539Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260929
+SUMMARY:In & around Smithfield Market
+DESCRIPTION:Take a guided tour through an area packed with medieval and T
+ udor history around Smithfield Market.\nPrice: Check site\nhttps://www.l
+ ondonmuseum.org.uk/whats-on/
 LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
@@ -1215,6 +1627,19 @@ URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
  nd/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_eeb27cd4cd5b4e19a99ce571f4162975-occ_727cd652c34546858a457f0a082
+ df210@thingstodoinyourcity
+DTSTAMP:20260828T125536Z
+DTSTART:20260830T160000Z
+SUMMARY:Sunday Stand Up Comedy 5pm Show
+DESCRIPTION:A sell-out mixed-bill comedy show featuring Daniel Simonsen a
+ nd more acts to be announced. A collection follows the show to support t
+ he comedians.\nPrice: £1\; Concessions: FREE\nhttps://thetopsecretcomed
+ yclub.co.uk/events-listings/
+LOCATION:basement\, 170 Drury Lane (basement)\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a215d1e99d124ebda98843d1b8163809-occ_27e5ee0e76004a64a9dff9eb580
  21a4b@thingstodoinyourcity
 DTSTAMP:20260827T194610Z
@@ -1243,13 +1668,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3f66e51fcae44a03bb88d36e050120b8-occ_3a38d04dde434d3aabdba06a1cb
  ca1af@thingstodoinyourcity
-DTSTAMP:20260827T204218Z
+DTSTAMP:20260828T131646Z
 DTSTART:20260830T180000Z
 SUMMARY:Brown Sugar Comedy Night
-DESCRIPTION:Kojo Anim headlines a work-in-progress main show. TOP SECRET 
- and more acts are also advertised.\nPrice: £10\; Concessions: £7\nhttp
- s://thetopsecretcomedyclub.co.uk/events-listings/
-LOCATION:170 Drury Lane (ground floor)\, 170 Drury Lane\, London
+DESCRIPTION:Featuring Kojo Anim\, with TOP SECRET and more acts to be ann
+ ounced. Advertised as a main show and work in progress.\nPrice: £10\; C
+ oncessions: £7\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
+LOCATION:170 Drury Lane (ground floor)\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
@@ -1261,6 +1686,19 @@ SUMMARY:Sunday Stand Up Comedy
 DESCRIPTION:Price: £1\; concessions FREE\nhttps://thetopsecretcomedyclub
  .co.uk/events-listings/
 LOCATION:170 Drury Lane (basement)\, 170 Drury Lane\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fd5b7f80cd9e49609186e3afa695cf1d-occ_954aee04d9cc4ef59ae022a4690
+ 18642@thingstodoinyourcity
+DTSTAMP:20260828T131645Z
+DTSTART:20260830T183000Z
+SUMMARY:Sunday Stand Up Comedy
+DESCRIPTION:A mixed-bill comedy show featuring Daniel Simonsen\, with mor
+ e acts to be announced. Entry is booked online\, followed by a door coll
+ ection.\nPrice: £1\; Concessions: FREE\nhttps://thetopsecretcomedyclub.
+ co.uk/events-listings/
+LOCATION:170 Drury Lane (basement)\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
