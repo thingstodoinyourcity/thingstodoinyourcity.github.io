@@ -553,6 +553,21 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e1e5484caf0c45b3a83a7ffe6663623d-occ_567f7720c89d4e97b605c16dc13
+ 267ff@thingstodoinyourcity
+DTSTAMP:20260828T184800Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20270207
+SUMMARY:Audrey Amiss: The Surviving Exhibitions
+DESCRIPTION:The first museum exhibition dedicated to Audrey Amiss brings 
+ together drawings\, paintings and exhibition materials. It explores her 
+ work as an artist and campaigner.\nPrice: Free\nhttps://whatsdownthatstr
+ eet.com/london-museum-guide/exhibitions-london/
+LOCATION:Wellcome Collection\, 183 Euston Road\, London NW1 2BE\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec66607f1c7b4aa4bc012636ac4ecfd8-occ_4fe945ab8f5e4b529d9e5d26242
  2b172@thingstodoinyourcity
 DTSTAMP:20260828T135652Z
@@ -624,6 +639,17 @@ DESCRIPTION:A major UK exhibition brings together iconic works\, remaster
 LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_78dafdeca72d4312a68fc3aee328cd14-occ_3c171bde04d444c59d955bfb2e0
+ 8dcc6@thingstodoinyourcity
+DTSTAMP:20260828T163012Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260903
+SUMMARY:The Day She Returns
+DESCRIPTION:Price: Check site\nhttps://www.ica.art/films
+LOCATION:London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c4071edd0a8b4468b9a0d8c0942ec8e3-occ_6d8fea7171e34c88bd098181483
@@ -1081,6 +1107,20 @@ LOCATION:Shakespeare's Globe\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4934fa486b394ddd84c1da1b1260e4db-occ_ae7496870a5d4661b9e09f68a0a
+ 7bcc7@thingstodoinyourcity
+DTSTAMP:20260828T172333Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260830
+SUMMARY:All Elite Wrestling 2026
+DESCRIPTION:Price: Check site\nhttps://discover.ticketmaster.co.uk/specia
+ l-events/things-to-do-in-london-this-week-64229/
+LOCATION:Wembley Stadium\, Wembley Stadium\, South Way\, Wembley\, London
+ \, HA90WS.\, Wembley\, London
+URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
+ ndon-this-week-64229/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_edae07c77afe483db2e3d06fbd064004-occ_1014d6c3221445e2becca0f6f1b
  fbfc9@thingstodoinyourcity
 DTSTAMP:20260828T124450Z
@@ -1209,6 +1249,19 @@ DESCRIPTION:Explore the Great Fire of 1666 in the great outdoors on a fam
  ts-on/
 LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d1d7ba3d70104b34955b6c40121944de-occ_2d370a224d3b48daacb142d0f26
+ 9b115@thingstodoinyourcity
+DTSTAMP:20260828T165438Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20261024
+SUMMARY:Jane Eyre
+DESCRIPTION:A musical by John Caird and Paul Gordon\, co-directed by John
+  Caird and Megan McGinnis.\nPrice: Check site\nhttps://southwarkplayhous
+ e.co.uk
+LOCATION:Main Space\, Elephant SE11\, London
+URL:https://southwarkplayhouse.co.uk
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d3ed12ac39354a18993afb37f5c36604-occ_354f7e4b22b14923b20924ada70
@@ -1384,6 +1437,36 @@ LOCATION:Theatre Royal Haymarket\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_9ed24d46b6124ea78882c948667
+ fb0c5@thingstodoinyourcity
+DTSTAMP:20260828T180147Z
+DTSTART:20260828T230000Z
+SUMMARY:St Kat’s Jazz Festival
+DESCRIPTION:A free jazz programme features 15 artists over three days on 
+ Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
+ rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
+ ondon\, E1W 1LA\, Tower Bridge\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_99643ba24d1a41598858a1b4902
+ 95f68@thingstodoinyourcity
+DTSTAMP:20260828T180147Z
+DTSTART:20260829T230000Z
+SUMMARY:St Kat’s Jazz Festival
+DESCRIPTION:A free jazz programme features 15 artists over three days on 
+ Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
+ rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
+ ondon\, E1W 1LA\, Tower Bridge\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3eab45b19c5042e998f146d54d072f6a-occ_5322c34ec32b411c8cb702896dc
  eb4f6@thingstodoinyourcity
 DTSTAMP:20260828T160802Z
@@ -1455,6 +1538,66 @@ DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_b2fa8d10300a475981b21ddf5fa
+ f1507@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260828T180000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_d52b6ea9335643c6bacdc457f36
+ b3f26@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260828T200000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_78ce41f4a39140548cb0bc27984
+ 6ba47@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260829T180000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_c7398ffccb6140f88bad66ab6c9
+ 68d4a@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260829T200000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_d9404043050c455dad8344f4c0b
+ 016ab@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260830T190000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_57542cfa31c74d6796824268739329a8-occ_997109e29c39477ba70c89a985f
@@ -1591,6 +1734,54 @@ DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_19d8efb1c7f54b0dbc9fb6478c0
+ 04d5d@thingstodoinyourcity
+DTSTAMP:20260828T165958Z
+DTSTART:20260828T193000Z
+SUMMARY:Barbican Outdoor Cinema
+DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
+ he programme spans concert documentaries\, science fiction\, French New 
+ Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
+  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
+ C2Y 8AE\, Barbican\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_d96b33e3939e47b3aa607db3b6a
+ 843d3@thingstodoinyourcity
+DTSTAMP:20260828T165958Z
+DTSTART:20260829T193000Z
+SUMMARY:Barbican Outdoor Cinema
+DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
+ he programme spans concert documentaries\, science fiction\, French New 
+ Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
+  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
+ C2Y 8AE\, Barbican\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_ba8376d592664cda947b5e87b17
+ 9b254@thingstodoinyourcity
+DTSTAMP:20260828T165958Z
+DTSTART:20260830T193000Z
+SUMMARY:Barbican Outdoor Cinema
+DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
+ he programme spans concert documentaries\, science fiction\, French New 
+ Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
+  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
+ C2Y 8AE\, Barbican\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_99a04f8bfcc94eefa5d867ab84d7edc1-occ_13f591a317c146578b91334116c
@@ -1745,6 +1936,30 @@ LOCATION:Trapeze\, East London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ba3f58a961ca49459c2be07944e92706-occ_63c1877977d74696ace6d570c6b
+ 5d282@thingstodoinyourcity
+DTSTAMP:20260828T164358Z
+DTSTART;VALUE=DATE:20260829
+DTEND:20260829T140000Z
+SUMMARY:Coffee Collective x Rosslyn Pop-Up
+DESCRIPTION:Price: Check site\nhttps://scouts.yutori.com/inbox/219d1f20-0
+ 546-4157-9f07-4d2e598de11a
+LOCATION:Rosslyn London Wall\, 118 London Wall\, London EC2Y 5JA\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ba3f58a961ca49459c2be07944e92706-occ_de0fcfb19c374fdc94187dcacea
+ 04aed@thingstodoinyourcity
+DTSTAMP:20260828T164358Z
+DTSTART;VALUE=DATE:20260829
+DTEND:20260830T140000Z
+SUMMARY:Coffee Collective x Rosslyn Pop-Up
+DESCRIPTION:Price: Check site\nhttps://scouts.yutori.com/inbox/219d1f20-0
+ 546-4157-9f07-4d2e598de11a
+LOCATION:Rosslyn London Wall\, 118 London Wall\, London EC2Y 5JA\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_967224f9a0824619b87be750a2412f68-occ_bb8e97be6e9a4c4c8859f9af3b4
  a0cdc@thingstodoinyourcity
 DTSTAMP:20260828T103956Z
@@ -1833,6 +2048,19 @@ DESCRIPTION:Price: Tickets from £14.30 - £19.80\nhttps://www.designmyni
  ght.com/london/whats-on/best-events-in-may
 LOCATION:Queen of Hoxton\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5ec013c93a4b44ae92fd552d94e9f0b8-occ_915954cf8b174e4ea957f7a4383
+ c89a0@thingstodoinyourcity
+DTSTAMP:20260828T163506Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Late Late Show Upstairs with Amique
+DESCRIPTION:Liverpool singer-songwriter AMIQUE makes his Late Late Show d
+ ebut with a self-styled sacred soul performance.\nPrice: Check site\nhtt
+ ps://www.ronniescotts.co.uk/find-a-show
+LOCATION:Late Late Show Upstairs\, 47 Frith Street Soho London W1D 4HT\, 
+ Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2ef2ec24953a428ab795ac62fe104bf3-occ_511682d613214dd6ab25d8cb515
@@ -2057,6 +2285,20 @@ LOCATION:The Garage\, 20-22 Highbury Corner\, London\, N5 1RD\, London
 URL:https://www.thegarage.london/live/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_be88c18ada754f9e998ae6907eb622e6-occ_aef9976f8fe843ce843a6a6b584
+ 317da@thingstodoinyourcity
+DTSTAMP:20260828T175630Z
+DTSTART:20260829T090000Z
+DTEND:20260829T170000Z
+SUMMARY:Food Festival at Hampton Court Palace
+DESCRIPTION:Vendors include Fresko London\, Haymans Gin\, Sterck & Co\, T
+ aste of Colombian and Hedomonia. Offerings span Greek yogurt\, gin\, hom
+ eware and Belgian ales.\nPrice: Check site\nhttps://scouts.yutori.com/in
+ box/219d1f20-0546-4157-9f07-4d2e598de11a
+LOCATION:Hampton Court Palace\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fe6e3e532ba7407dba2c18eb998698e1-occ_533dc7f1e4f94e899561f5ee045
  fd832@thingstodoinyourcity
 DTSTAMP:20260827T190246Z
@@ -2160,6 +2402,18 @@ DESCRIPTION:Explore late-second-century Roman remains beneath London on a
 LOCATION:Billingsgate Roman House and Baths\, 101 Lower Thames Street\, L
  ondon\, EC3R 6DL\, City of London\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6e9e5b90c1b4445fabd7e59b3e6ed7ee-occ_180b47238abc4557ac2862a9ef0
+ a22da@thingstodoinyourcity
+DTSTAMP:20260828T172435Z
+DTSTART:20260829T110000Z
+DTEND:20260829T180000Z
+SUMMARY:ABOVE THE BARRIERS Pop-Up
+DESCRIPTION:Price: Check site\nhttps://scouts.yutori.com/inbox/219d1f20-0
+ 546-4157-9f07-4d2e598de11a
+LOCATION:The Lobby 777\, The Lobby 777\, W1D\, London\, W1D\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bfeda5833cae4fc3965d4686be436ce0-occ_e366191ca6d6445287b0759529c
@@ -2304,6 +2558,36 @@ DESCRIPTION:Admiral T headlines a pre-Notting Hill Carnival party with Ca
 LOCATION:EartH Hall\, 11-17 Stoke Newington Rd\, London\, N16 8BH\, Dalst
  on\, London
 URL:https://earthackney.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c73425e1cb8c43d8a0359fbd7b297759-occ_edaa831e6b514b19b62385c0bbe
+ 748c8@thingstodoinyourcity
+DTSTAMP:20260828T170833Z
+DTSTART;VALUE=DATE:20260830
+SUMMARY:Body Movements
+DESCRIPTION:A queer nightlife festival with five stages and DJs including
+  Babymorocco and Roza Terenzi. The 2026 edition is sold out.\nPrice: Fro
+ m £45.50\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-l
+ ondon-this-week
+LOCATION:Southwark Park\, Southwark Park Park Lodge Hawkstone Road London
+  SE16 2PA\, Bermondsey\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c73425e1cb8c43d8a0359fbd7b297759-occ_efd77bb8c04b46dc9fd33f16961
+ 47b4c@thingstodoinyourcity
+DTSTAMP:20260828T170833Z
+DTSTART:20260830T110000Z
+SUMMARY:Body Movements
+DESCRIPTION:A queer nightlife festival with five stages and DJs including
+  Babymorocco and Roza Terenzi. The 2026 edition is sold out.\nPrice: Fro
+ m £45.50\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-l
+ ondon-this-week
+LOCATION:Southwark Park\, Southwark Park Park Lodge Hawkstone Road London
+  SE16 2PA\, Bermondsey\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6a035efe12d04f7da90e08211bb3e624-occ_6f1799a05dbb4ec7adfc74186ea
