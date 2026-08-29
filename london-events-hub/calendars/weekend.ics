@@ -814,18 +814,6 @@ LOCATION:London
 URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0bdc65c251804546bd67dff98dfb36d0-occ_3fe408ed72e44ce1b8635e7896f
- ba6b2@thingstodoinyourcity
-DTSTAMP:20260827T232359Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260829
-SUMMARY:A Midsummer Night's Dream
-DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
- dy
-LOCATION:Shakespeare's Globe\, London\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_96a54bed392544939f944cea88542b94-occ_21ed00aa42bc4872938eb6c2ba6
  63cd6@thingstodoinyourcity
 DTSTAMP:20260827T225839Z
@@ -1068,45 +1056,6 @@ LOCATION:Trapeze Bar\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a38471f0c7544b9bb4d31ff1996fbfa0-occ_52c2f9da8816408da3ebc05953d
- 99a41@thingstodoinyourcity
-DTSTAMP:20260827T232711Z
-DTSTART:20260827T190000Z
-DTEND;VALUE=DATE:20260829
-SUMMARY:Guz Khan & Friends
-DESCRIPTION:Guz Khan performs with stand-up friends at Soho Theatre Walth
- amstow. He is known for Man Like Mobeen\, Taskmaster and Live At The Apo
- llo.\nPrice: Our prices are subject to demand.\nhttps://www.londontheatr
- es.com/events/comedy
-LOCATION:Soho Theatre Walthamstow\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a38471f0c7544b9bb4d31ff1996fbfa0-occ_8f3fcdd97eca49fc9b0861e74fa
- 4273d@thingstodoinyourcity
-DTSTAMP:20260827T232711Z
-DTSTART:20260828T190000Z
-SUMMARY:Guz Khan & Friends
-DESCRIPTION:Guz Khan performs with stand-up friends at Soho Theatre Walth
- amstow. He is known for Man Like Mobeen\, Taskmaster and Live At The Apo
- llo.\nPrice: Our prices are subject to demand.\nhttps://www.londontheatr
- es.com/events/comedy
-LOCATION:Soho Theatre Walthamstow\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3ff5e4e874954d829a19c01e584bca85-occ_f35b890f39fb428cb92fc041b9b
- 0f140@thingstodoinyourcity
-DTSTAMP:20260828T124450Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:A Midsummer Night's Dream
-DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
- dy
-LOCATION:Shakespeare's Globe\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4934fa486b394ddd84c1da1b1260e4db-occ_ae7496870a5d4661b9e09f68a0a
  7bcc7@thingstodoinyourcity
 DTSTAMP:20260828T172333Z
@@ -1176,30 +1125,6 @@ SUMMARY:Burlesque The Musical
 DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
 LOCATION:Tour (11 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3ed4392d19b84a12bcfbb3377afa9c1d-occ_0e3128cdecb7471c84c20c21c7d
- 54a14@thingstodoinyourcity
-DTSTAMP:20260828T095347Z
-DTSTART;VALUE=DATE:20260829
-SUMMARY:Cafe 1001 25th Birthday Celebration
-DESCRIPTION:Cafe 1001 celebrates its 25th birthday across two days\, incl
- uding a headline set from Charlie Dark.\nPrice: Check site\nhttps://lond
- ontheinside.com/whats-on-this-week/
-LOCATION:Cafe 1001\, Brick Lane\, SHOREDITCH\, London
-URL:https://londontheinside.com/whats-on-this-week/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c28c7e562acf47c6b2934de1da1e9dcf-occ_c98da8b67bcd417289147521fa7
- 3f598@thingstodoinyourcity
-DTSTAMP:20260827T210055Z
-DTSTART;VALUE=DATE:20260829
-SUMMARY:Cafe 1001 25th Birthday Celebration
-DESCRIPTION:Cafe 1001 celebrates its 25th birthday across two days\, incl
- uding a headline set from Charlie Dark.\nPrice: Check site\nhttps://lond
- ontheinside.com/whats-on-this-week/
-LOCATION:Cafe 1001\, Brick Lane\, SHOREDITCH\, London
-URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_46dce86ee2534abeb5d0020380c7f38e-occ_e315ae084e6e41a39ec91bb2dbd
@@ -1298,17 +1223,6 @@ LOCATION:Tour (3 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4c44de72f5824d02976970143550201b-occ_3dd18ea81d594d73b92ea64b356
- 89174@thingstodoinyourcity
-DTSTAMP:20260828T124836Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Matthew Bourne's The Car Man
-DESCRIPTION:Price: Check site\nhttps://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, London
-URL:https://www.sadlerswells.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a7deada55ec743c0a81b745043443a4f-occ_0ffede7dd21d41cc9a3d91f4942
  52fa1@thingstodoinyourcity
 DTSTAMP:20260828T122833Z
@@ -1352,17 +1266,6 @@ SUMMARY:Paul Smith - Happy
 DESCRIPTION:Price: Check site\nhttps://www.atgtickets.com/whats-on/
 LOCATION:Tour (7 Venues)\, London
 URL:https://www.atgtickets.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_59d2eba50326433b90a8221c809338db-occ_6b8881e1cdee4e8baea37638fa5
- 4eac1@thingstodoinyourcity
-DTSTAMP:20260827T231618Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:The Car Man
-DESCRIPTION:Price: Check site\nhttps://www.sadlerswells.com/whats-on
-LOCATION:Sadler's Wells Theatre\, London
-URL:https://www.sadlerswells.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_00d6f705463b448999494c8f55dec2aa-occ_b9c4cfa9d8484e2191871f66faa
@@ -1421,432 +1324,6 @@ DESCRIPTION:Price: Check site\nhttps://www.londontheatres.com/events/come
  dy
 LOCATION:Theatre Royal Haymarket\, London
 URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_9ed24d46b6124ea78882c948667
- fb0c5@thingstodoinyourcity
-DTSTAMP:20260828T180147Z
-DTSTART:20260828T230000Z
-SUMMARY:St Kat’s Jazz Festival
-DESCRIPTION:A free jazz programme features 15 artists over three days on 
- Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
- rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
- london-this-week
-LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
- ondon\, E1W 1LA\, Tower Bridge\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_99643ba24d1a41598858a1b4902
- 95f68@thingstodoinyourcity
-DTSTAMP:20260828T180147Z
-DTSTART:20260829T230000Z
-SUMMARY:St Kat’s Jazz Festival
-DESCRIPTION:A free jazz programme features 15 artists over three days on 
- Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
- rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
- london-this-week
-LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
- ondon\, E1W 1LA\, Tower Bridge\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3eab45b19c5042e998f146d54d072f6a-occ_5322c34ec32b411c8cb702896dc
- eb4f6@thingstodoinyourcity
-DTSTAMP:20260828T160802Z
-DTSTART:20260829T110000Z
-SUMMARY:All Points East
-DESCRIPTION:Two Tyler\, The Creator headline nights feature Rex Orange Co
- unty\, Turnstile and more at Victoria Park.\nPrice: Various\nhttps://www
- .timeout.com/london/things-to-do/things-to-do-in-london-this-week
-LOCATION:Victoria Park\, Victoria Park Rd\, London\, E3 5SN\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4d4d377c4da24598aefd6c057ea5de4d-occ_2b3f8a0135074680afcabb24662
- 65e09@thingstodoinyourcity
-DTSTAMP:20260828T154303Z
-DTSTART:20260828T170000Z
-SUMMARY:Daniel Simonsen: Work in Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
- ington\, London\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5b5ae5133c0e4c1997b4bab1e64234f4-occ_4b02e835a85945f28ce8e733a47
- fe2e5@thingstodoinyourcity
-DTSTAMP:20260828T153531Z
-DTSTART:20260828T170000Z
-SUMMARY:Daniel Simonsen: Work in Progress
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
- don\, N1 8NQ\, Islington\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccb735aaf58f4361811e3f4b1a93b89a-occ_38f0078ae8a840ff9caa7429fa3
- 76efb@thingstodoinyourcity
-DTSTAMP:20260828T140448Z
-DTSTART:20260828T170000Z
-SUMMARY:K-POP LIVE - The Theatre Show
-DESCRIPTION:A high-energy K-POP tribute featuring hits from Blackpink\, T
- wice\, Katseye and K-Pop: Demon Hunters. Expect live vocals\, choreograp
- hy and stage visuals.\nPrice: Check site\nhttps://www.atgtickets.com/wha
- ts-on/
-LOCATION:New Wimbledon Theatre\, 93 The Broadway\, Wimbledon\, London SW1
- 9 1QG\, UK\, Wimbledon\, London
-URL:https://www.atgtickets.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_70451e19a8d84af7836a0555fcb4810f-occ_ce0d16f4bed34960bc44a001dcf
- 782c4@thingstodoinyourcity
-DTSTAMP:20260828T144523Z
-DTSTART:20260828T170000Z
-SUMMARY:Perfect Blue
-DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
- s/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0dc2eb24fff14c42b2f99e2951156f89-occ_633c6cb52775496d9663fb95cfc
- 47b17@thingstodoinyourcity
-DTSTAMP:20260828T144523Z
-DTSTART:20260828T171500Z
-SUMMARY:Beyond the Mat Presented by WrestleTalk
-DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
- s/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_837a61add458485a8210a93d05e2d80b-occ_b2fa8d10300a475981b21ddf5fa
- f1507@thingstodoinyourcity
-DTSTAMP:20260828T174140Z
-DTSTART:20260828T180000Z
-SUMMARY:Friday Night Comedy
-DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
- London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
- /jkcomedyclub.co.uk/whats-on/
-LOCATION:Leicester Square\, LEICESTER SQUARE\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_837a61add458485a8210a93d05e2d80b-occ_d52b6ea9335643c6bacdc457f36
- b3f26@thingstodoinyourcity
-DTSTAMP:20260828T174140Z
-DTSTART:20260828T200000Z
-SUMMARY:Friday Night Comedy
-DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
- London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
- /jkcomedyclub.co.uk/whats-on/
-LOCATION:Leicester Square\, LEICESTER SQUARE\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_837a61add458485a8210a93d05e2d80b-occ_78ce41f4a39140548cb0bc27984
- 6ba47@thingstodoinyourcity
-DTSTAMP:20260828T174140Z
-DTSTART:20260829T180000Z
-SUMMARY:Friday Night Comedy
-DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
- London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
- /jkcomedyclub.co.uk/whats-on/
-LOCATION:Leicester Square\, LEICESTER SQUARE\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_837a61add458485a8210a93d05e2d80b-occ_c7398ffccb6140f88bad66ab6c9
- 68d4a@thingstodoinyourcity
-DTSTAMP:20260828T174140Z
-DTSTART:20260829T200000Z
-SUMMARY:Friday Night Comedy
-DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
- London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
- /jkcomedyclub.co.uk/whats-on/
-LOCATION:Leicester Square\, LEICESTER SQUARE\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_837a61add458485a8210a93d05e2d80b-occ_d9404043050c455dad8344f4c0b
- 016ab@thingstodoinyourcity
-DTSTAMP:20260828T174140Z
-DTSTART:20260830T190000Z
-SUMMARY:Friday Night Comedy
-DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
- London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
- /jkcomedyclub.co.uk/whats-on/
-LOCATION:Leicester Square\, LEICESTER SQUARE\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_57542cfa31c74d6796824268739329a8-occ_997109e29c39477ba70c89a985f
- f6d19@thingstodoinyourcity
-DTSTAMP:20260828T101851Z
-DTSTART:20260828T180000Z
-SUMMARY:Friday Stand Up Comedy Early Show
-DESCRIPTION:A secret celebrity guest leads an early stand-up show\, with 
- more acts to be announced and Russell Hicks listed.\nPrice: £14\; Conce
- ssions: £11\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
-LOCATION:The Top Secret Comedy Club\, 170 Drury Lane\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_defba058bb4c4288881fb431e75ad5da-occ_5366e4be569a4f419e64ddc83de
- 84f36@thingstodoinyourcity
-DTSTAMP:20260827T203321Z
-DTSTART:20260828T180000Z
-SUMMARY:Top Secret Celebrity Guest Comedy
-DESCRIPTION:Price: £11\; Concessions: £9\nhttps://thetopsecretcomedyclu
- b.co.uk/events-listings/
-LOCATION:170 Drury Lane\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e37c189d45bb491da88b6deaa9e23387-occ_93fa9a44e452472d9e7486b5daf
- 9c749@thingstodoinyourcity
-DTSTAMP:20260827T210114Z
-DTSTART:20260828T180000Z
-DTEND;VALUE=DATE:20260828
-SUMMARY:Top Secret Celebrity Guest Comedy Show
-DESCRIPTION:Price: £15\; Concessions: £12\nhttps://thetopsecretcomedycl
- ub.co.uk/events-listings/
-LOCATION:The Top Secret Comedy Club (23 Kingsway)\, York House 23 Kingswa
- y\, London\, WC2B 6UJ\, United Kingdom\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e37c189d45bb491da88b6deaa9e23387-occ_658c7e64b50e44d0b9cde8462a8
- 81140@thingstodoinyourcity
-DTSTAMP:20260827T210114Z
-DTSTART:20260828T190000Z
-DTEND:20260828T203000Z
-SUMMARY:Top Secret Celebrity Guest Comedy Show
-DESCRIPTION:Price: £15\; Concessions: £12\nhttps://thetopsecretcomedycl
- ub.co.uk/events-listings/
-LOCATION:The Top Secret Comedy Club (23 Kingsway)\, York House 23 Kingswa
- y\, London\, WC2B 6UJ\, United Kingdom\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2f1e8dcbbe53409ab18486b19bbe8247-occ_349a46d9bbb64950a588dd3dfad
- db5c9@thingstodoinyourcity
-DTSTAMP:20260828T153104Z
-DTSTART:20260828T182000Z
-SUMMARY:Angel Comedy Fridays
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
- don\, N1 8NQ\, Islington\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_4efd5f6975564d9f9ef498dd341
- e7bd5@thingstodoinyourcity
-DTSTAMP:20260828T105337Z
-DTSTART:20260828T183000Z
-SUMMARY:Frankenstein
-DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
- ion and denied humanity. Young performers deliver a tense production wit
- h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
- theatre.org.uk/whats-on/
-LOCATION:Main House\, SE10 8ES\, London
-URL:https://greenwichtheatre.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_5f609e84a4744e209509a9020ac
- f4ff5@thingstodoinyourcity
-DTSTAMP:20260828T105337Z
-DTSTART:20260829T133000Z
-SUMMARY:Frankenstein
-DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
- ion and denied humanity. Young performers deliver a tense production wit
- h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
- theatre.org.uk/whats-on/
-LOCATION:Main House\, SE10 8ES\, London
-URL:https://greenwichtheatre.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_d5b4e1d4e288494485ab16912a7
- 8f2f5@thingstodoinyourcity
-DTSTAMP:20260828T105337Z
-DTSTART:20260829T183000Z
-SUMMARY:Frankenstein
-DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
- ion and denied humanity. Young performers deliver a tense production wit
- h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
- theatre.org.uk/whats-on/
-LOCATION:Main House\, SE10 8ES\, London
-URL:https://greenwichtheatre.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_18638a6a323e4c0a8d80791787e
- d4209@thingstodoinyourcity
-DTSTAMP:20260828T105337Z
-DTSTART:20260830T140000Z
-SUMMARY:Frankenstein
-DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
- ion and denied humanity. Young performers deliver a tense production wit
- h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
- theatre.org.uk/whats-on/
-LOCATION:Main House\, SE10 8ES\, London
-URL:https://greenwichtheatre.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d47775c0203041589763aab89e797e5e-occ_0ed042f8b9f744c5bc66b76d594
- 69b55@thingstodoinyourcity
-DTSTAMP:20260828T104623Z
-DTSTART:20260828T190000Z
-DTEND;VALUE=DATE:20260828
-SUMMARY:Friday Stand Up Comedy Show
-DESCRIPTION:Price: £16 Concessions: £13\nhttps://thetopsecretcomedyclub
- .co.uk/events-listings/
-LOCATION:The Top Secret Comedy Club (23 Kingsway)\, 23 Kingsway\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_533627ad8b8742b0b8d803cbaeff06ee-occ_4b68f63e917947d38be68552b47
- 35a93@thingstodoinyourcity
-DTSTAMP:20260828T145408Z
-DTSTART:20260828T191000Z
-SUMMARY:Heat
-DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
- s/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_19d8efb1c7f54b0dbc9fb6478c0
- 04d5d@thingstodoinyourcity
-DTSTAMP:20260828T165958Z
-DTSTART:20260828T193000Z
-SUMMARY:Barbican Outdoor Cinema
-DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
- he programme spans concert documentaries\, science fiction\, French New 
- Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
-  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
- london-this-week
-LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
- C2Y 8AE\, Barbican\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_d96b33e3939e47b3aa607db3b6a
- 843d3@thingstodoinyourcity
-DTSTAMP:20260828T165958Z
-DTSTART:20260829T193000Z
-SUMMARY:Barbican Outdoor Cinema
-DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
- he programme spans concert documentaries\, science fiction\, French New 
- Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
-  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
- london-this-week
-LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
- C2Y 8AE\, Barbican\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_ba8376d592664cda947b5e87b17
- 9b254@thingstodoinyourcity
-DTSTAMP:20260828T165958Z
-DTSTART:20260830T193000Z
-SUMMARY:Barbican Outdoor Cinema
-DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
- he programme spans concert documentaries\, science fiction\, French New 
- Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
-  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
- london-this-week
-LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
- C2Y 8AE\, Barbican\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_99a04f8bfcc94eefa5d867ab84d7edc1-occ_13f591a317c146578b91334116c
- fd949@thingstodoinyourcity
-DTSTAMP:20260828T145408Z
-DTSTART:20260828T194500Z
-SUMMARY:Slowburn Shoot: An Indie Wrestling Story
-DESCRIPTION:Price: Check site\nhttps://princecharlescinema.com/next-7-day
- s/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e76633c235924a2daf8c50a6a87d0c4e-occ_6716d4ce3e9c4995a4b456bb738
- 2ef0c@thingstodoinyourcity
-DTSTAMP:20260827T205848Z
-DTSTART:20260828T200000Z
-SUMMARY:Friday Stand Up Comedy Late Show
-DESCRIPTION:Price: £18\; Concessions: £15\nhttps://thetopsecretcomedycl
- ub.co.uk/events-listings/
-LOCATION:170 Drury Lane\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94bd55c06c1b4b3a91741aa138515e4c-occ_6662905db7c7495dba81aa88210
- dced0@thingstodoinyourcity
-DTSTAMP:20260828T153102Z
-DTSTART:20260828T201500Z
-SUMMARY:Angel Comedy Fridays
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
- don\, N1 8NQ\, Islington\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f6501677a4224cfa96086d37a9c8b74f-occ_f778a14e8bcd43038554bc9f9c6
- 5102b@thingstodoinyourcity
-DTSTAMP:20260828T154701Z
-DTSTART:20260828T201500Z
-SUMMARY:Angel Comedy Fridays
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
- ington\, London\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc5f6b7454d34365b2d900b26f6d746b-occ_af109d5af1344fa78446e0898f2
- afb0a@thingstodoinyourcity
-DTSTAMP:20260828T131956Z
-DTSTART:20260828T210000Z
-SUMMARY:Friday Stand Up Comedy 10pm Show
-DESCRIPTION:Featuring Daniel Simonsen and Russell Hicks. More acts are to
-  be announced\, with additional acts promised.\nPrice: £11\; Concession
- s: £9\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
-LOCATION:23 Kingsway\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94f49263b5eb4ae1bb4679d8fe8800f4-occ_79a91b2fedda4a3388d65bb028d
- 57e8d@thingstodoinyourcity
-DTSTAMP:20260828T154700Z
-DTSTART:20260828T220000Z
-SUMMARY:Roast Battle UK
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, 39 Queen's Head Street\, London\, N1 8NQ\, Isl
- ington\, London\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e9ed70c4b3134e60aa1d0745d0cceb4d-occ_32b1f32216dc410f868d3b2d490
- fb4f3@thingstodoinyourcity
-DTSTAMP:20260828T153531Z
-DTSTART:20260828T220000Z
-SUMMARY:Roast Battle UK
-DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
-LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
- don\, N1 8NQ\, Islington\, London
-URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_80fc6d9c3c3142f2aeb5676d65a3fb1f-occ_80740c768a30413ba4fa4f5817d
@@ -1920,6 +1397,30 @@ DESCRIPTION:Price: Tickets from £43.94 - £49.62\nhttps://www.designmyni
  ght.com/london/whats-on/best-events-in-may
 LOCATION:Trapeze\, East London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3ed4392d19b84a12bcfbb3377afa9c1d-occ_0e3128cdecb7471c84c20c21c7d
+ 54a14@thingstodoinyourcity
+DTSTAMP:20260828T095347Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Cafe 1001 25th Birthday Celebration
+DESCRIPTION:Cafe 1001 celebrates its 25th birthday across two days\, incl
+ uding a headline set from Charlie Dark.\nPrice: Check site\nhttps://lond
+ ontheinside.com/whats-on-this-week/
+LOCATION:Cafe 1001\, Brick Lane\, SHOREDITCH\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c28c7e562acf47c6b2934de1da1e9dcf-occ_c98da8b67bcd417289147521fa7
+ 3f598@thingstodoinyourcity
+DTSTAMP:20260827T210055Z
+DTSTART;VALUE=DATE:20260829
+SUMMARY:Cafe 1001 25th Birthday Celebration
+DESCRIPTION:Cafe 1001 celebrates its 25th birthday across two days\, incl
+ uding a headline set from Charlie Dark.\nPrice: Check site\nhttps://lond
+ ontheinside.com/whats-on-this-week/
+LOCATION:Cafe 1001\, Brick Lane\, SHOREDITCH\, London
+URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ba3f58a961ca49459c2be07944e92706-occ_63c1877977d74696ace6d570c6b
@@ -2271,6 +1772,36 @@ LOCATION:The Garage\, 20-22 Highbury Corner\, London\, N5 1RD\, London
 URL:https://www.thegarage.london/live/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_9ed24d46b6124ea78882c948667
+ fb0c5@thingstodoinyourcity
+DTSTAMP:20260828T180147Z
+DTSTART:20260828T230000Z
+SUMMARY:St Kat’s Jazz Festival
+DESCRIPTION:A free jazz programme features 15 artists over three days on 
+ Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
+ rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
+ ondon\, E1W 1LA\, Tower Bridge\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b0b886d35af49f38a2aa6776ca64d6b-occ_99643ba24d1a41598858a1b4902
+ 95f68@thingstodoinyourcity
+DTSTAMP:20260828T180147Z
+DTSTART:20260829T230000Z
+SUMMARY:St Kat’s Jazz Festival
+DESCRIPTION:A free jazz programme features 15 artists over three days on 
+ Marble Dock\, including Olivia Swann\, Inés Nassara and Jamie Safir.\nP
+ rice: Free\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:St Katharine Docks\, St Katharine Docks\, St Katharine's Way\, L
+ ondon\, E1W 1LA\, Tower Bridge\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_be88c18ada754f9e998ae6907eb622e6-occ_aef9976f8fe843ce843a6a6b584
  317da@thingstodoinyourcity
 DTSTAMP:20260828T175630Z
@@ -2402,6 +1933,19 @@ LOCATION:The Lobby 777\, The Lobby 777\, W1D\, London\, W1D\, London
 URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3eab45b19c5042e998f146d54d072f6a-occ_5322c34ec32b411c8cb702896dc
+ eb4f6@thingstodoinyourcity
+DTSTAMP:20260828T160802Z
+DTSTART:20260829T110000Z
+SUMMARY:All Points East
+DESCRIPTION:Two Tyler\, The Creator headline nights feature Rex Orange Co
+ unty\, Turnstile and more at Victoria Park.\nPrice: Various\nhttps://www
+ .timeout.com/london/things-to-do/things-to-do-in-london-this-week
+LOCATION:Victoria Park\, Victoria Park Rd\, London\, E3 5SN\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bfeda5833cae4fc3965d4686be436ce0-occ_e366191ca6d6445287b0759529c
  4bb8d@thingstodoinyourcity
 DTSTAMP:20260828T153938Z
@@ -2411,6 +1955,45 @@ DESCRIPTION:Price: Check site\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:The Bill Murray\, The Bill Murray\, 39 Queen's Head Street\, Lon
  don\, N1 8NQ\, Islington\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_5f609e84a4744e209509a9020ac
+ f4ff5@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260829T133000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_d5b4e1d4e288494485ab16912a7
+ 8f2f5@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260829T183000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5da2ab09bcca4df8afc638438606ba5a-occ_18638a6a323e4c0a8d80791787e
+ d4209@thingstodoinyourcity
+DTSTAMP:20260828T105337Z
+DTSTART:20260830T140000Z
+SUMMARY:Frankenstein
+DESCRIPTION:A visceral new musical adaptation explores judgement\, reject
+ ion and denied humanity. Young performers deliver a tense production wit
+ h an urgent score and jump scares.\nPrice: Check site\nhttps://greenwich
+ theatre.org.uk/whats-on/
+LOCATION:Main House\, SE10 8ES\, London
+URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e71d921d97c44ef8c3e1789dab8e20a-occ_5086d8abdf7f4fa2a3aa8f33a5b
@@ -2434,6 +2017,42 @@ DESCRIPTION:Russell Hicks is listed\, with more acts to be announced. The
  cessions: £9\nhttps://thetopsecretcomedyclub.co.uk/events-listings/
 LOCATION:170 Drury Lane\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_78ce41f4a39140548cb0bc27984
+ 6ba47@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260829T180000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_c7398ffccb6140f88bad66ab6c9
+ 68d4a@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260829T200000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_837a61add458485a8210a93d05e2d80b-occ_d9404043050c455dad8344f4c0b
+ 016ab@thingstodoinyourcity
+DTSTAMP:20260828T174140Z
+DTSTART:20260830T190000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Live stand-up comedy is presented seven nights a week across 
+ London venues. Advertised tickets start at £7.\nPrice: £15.00\nhttps:/
+ /jkcomedyclub.co.uk/whats-on/
+LOCATION:Leicester Square\, LEICESTER SQUARE\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_22a572672033433d8b0493d63c5b0442-occ_52351df4fe234333911f14d4728
@@ -2495,6 +2114,38 @@ DESCRIPTION:Price: £22\; Concessions: £17.6\nhttps://thetopsecretcomedy
 LOCATION:170 Drury Lane\, Drury Lane\, London\, WC2B 5PD\, United Kingdom
  \, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_d96b33e3939e47b3aa607db3b6a
+ 843d3@thingstodoinyourcity
+DTSTAMP:20260828T165958Z
+DTSTART:20260829T193000Z
+SUMMARY:Barbican Outdoor Cinema
+DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
+ he programme spans concert documentaries\, science fiction\, French New 
+ Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
+  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
+ C2Y 8AE\, Barbican\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19046a84f6fc4a19bf1382a48150240c-occ_ba8376d592664cda947b5e87b17
+ 9b254@thingstodoinyourcity
+DTSTAMP:20260828T165958Z
+DTSTART:20260830T193000Z
+SUMMARY:Barbican Outdoor Cinema
+DESCRIPTION:Outdoor films are screened in the Barbican Sculpture Court. T
+ he programme spans concert documentaries\, science fiction\, French New 
+ Wave and Iranian cinema.\nPrice: £20 standard\; £18 concessions\; £10
+  under-18s\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-
+ london-this-week
+LOCATION:Barbican Centre\, Barbican Centre Beech Street Barbican London E
+ C2Y 8AE\, Barbican\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5c40510d32714e269304fad89bce04bd-occ_cf08208e3a1d4418ba8cfad1867
