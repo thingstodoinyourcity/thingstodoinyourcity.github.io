@@ -7,4 +7,18 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_68932a2d18934ce1a27e9b8a16fc3d77-occ_8c1e41b1805e4d349096750d108
+ 81fb3@thingstodoinyourcity
+DTSTAMP:20260828T085042Z
+DTSTART:20260929T180000Z
+DTEND:20260929T220000Z
+SUMMARY:Afters: Tyler the Creator\, Turnstile + More
+DESCRIPTION:Josh Levi performs live at Oslo\, Hackney. The event is for a
+ ges 16+\, with under-18s accompanied by an adult.\nPrice: £20.00\nhttps
+ ://www.oslohackney.com/events/
+LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
+ don
+URL:https://www.oslohackney.com/events/
+END:VEVENT
 END:VCALENDAR
