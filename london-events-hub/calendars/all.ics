@@ -583,13 +583,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_73d5b3842cfb439bbabdf40d2a9384db-occ_025548bb5fad48c68b472b2aaaf
  9f87e@thingstodoinyourcity
-DTSTAMP:20260828T094246Z
+DTSTAMP:20260830T035633Z
 DTSTART:20260713T080000Z
 DTEND:20260902T150000Z
 SUMMARY:Bizzy Buddies Summer Camp
-DESCRIPTION:Holiday camps keep children busy during the holidays. Suitabl
- e for children aged 3–12.\nPrice: Check site\nhttps://chiswickhouseand
- gardens.org.uk/whats-on/
+DESCRIPTION:Holiday camps designed to keep children busy during the holid
+ ays. Suitable for children aged 3–12 years.\nPrice: Check site\nhttps:
+ //chiswickhouseandgardens.org.uk/whats-on/
 LOCATION:London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
@@ -1337,15 +1337,28 @@ LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3047ec17a4ac48b09345a6b20c1af4e8-occ_a6a141f664d94cab8125e703251
- 87760@thingstodoinyourcity
-DTSTAMP:20260828T094547Z
+UID:cand_3047ec17a4ac48b09345a6b20c1af4e8-occ_060033997ebb450b8ea61ff19ed
+ 9c7ab@thingstodoinyourcity
+DTSTAMP:20260830T040018Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
 SUMMARY:Notting Hill Carnival 2026
-DESCRIPTION:Carnival returns to London across the August Bank Holiday. Th
- e 2026 event marks its 60th anniversary.\nPrice: FREE\nhttps://londonthe
- inside.com/whats-on-this-week/
+DESCRIPTION:Carnival returns across London's August Bank Holiday for its 
+ 60th anniversary. A route map is highlighted in the source.\nPrice: Chec
+ k site\nhttps://londontheinside.com/whats-on-this-week/
+LOCATION:NOTTING HILL\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3047ec17a4ac48b09345a6b20c1af4e8-occ_a6a141f664d94cab8125e703251
+ 87760@thingstodoinyourcity
+DTSTAMP:20260830T040018Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Notting Hill Carnival 2026
+DESCRIPTION:Carnival returns across London's August Bank Holiday for its 
+ 60th anniversary. A route map is highlighted in the source.\nPrice: Chec
+ k site\nhttps://londontheinside.com/whats-on-this-week/
 LOCATION:NOTTING HILL\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
@@ -1402,18 +1415,18 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_67c736ab14d846849766c0e82bc2876b-occ_81439be45c4e464f8c779c4fcbc
- 4aeaa@thingstodoinyourcity
-DTSTAMP:20260828T103216Z
-DTSTART:20260829T220000Z
-DTEND:20260830T033000Z
-SUMMARY:Admiral T Carnival Energy Warm Up
-DESCRIPTION:Admiral T headlines a pre-Notting Hill Carnival party with Ca
- ribbean and African carnival music across two rooms.\nPrice: Check site\
- nhttps://earthackney.co.uk/events/
-LOCATION:EartH Hall\, 11-17 Stoke Newington Rd\, London\, N16 8BH\, Dalst
- on\, London
-URL:https://earthackney.co.uk/events/
+UID:cand_be88c18ada754f9e998ae6907eb622e6-occ_aef9976f8fe843ce843a6a6b584
+ 317da@thingstodoinyourcity
+DTSTAMP:20260830T015126Z
+DTSTART:20260829T090000Z
+DTEND:20260831T170000Z
+SUMMARY:Food Festival at Hampton Court Palace
+DESCRIPTION:A food festival featuring Fresko London\, Haymans Gin\, Sterc
+ k & Co\, Taste of Colombian and Hedomonia. Offerings include Greek yogur
+ t\, gin\, homeware and Belgian ales.\nPrice: Check site\nhttps://scouts.
+ yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
+LOCATION:Hampton Court Palace\, London
+URL:https://scouts.yutori.com/inbox/219d1f20-0546-4157-9f07-4d2e598de11a
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c73425e1cb8c43d8a0359fbd7b297759-occ_edaa831e6b514b19b62385c0bbe
@@ -1510,9 +1523,9 @@ LOCATION:Main House\, SE10 8ES\, London
 URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_91ce97d3f45841cd822deecbf9118355-occ_8467168de0224d30867b5f8a52a
- d7c70@thingstodoinyourcity
-DTSTAMP:20260827T195043Z
+UID:cand_2c82f58645cc402ea22bbd581a3fca90-occ_b4a8279161b9447ab0489053c6c
+ 8dc88@thingstodoinyourcity
+DTSTAMP:20260830T035211Z
 DTSTART:20260830T150000Z
 DTEND:20260831T040000Z
 SUMMARY:BBE Music 30th Birthday Party
@@ -1523,15 +1536,15 @@ URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
  nd/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2c82f58645cc402ea22bbd581a3fca90-occ_b4a8279161b9447ab0489053c6c
- 8dc88@thingstodoinyourcity
-DTSTAMP:20260828T084459Z
+UID:cand_91ce97d3f45841cd822deecbf9118355-occ_8467168de0224d30867b5f8a52a
+ d7c70@thingstodoinyourcity
+DTSTAMP:20260827T195043Z
 DTSTART:20260830T150000Z
 DTEND:20260831T040000Z
-SUMMARY:PART 2 BBE Music 30th Birthday Party
+SUMMARY:BBE Music 30th Birthday Party
 DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
  ats-on-in-london-this-weekend/
-LOCATION:Number 90 Bar And Restaurant\, London\, London
+LOCATION:Number 90 Bar And Restaurant\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
  nd/
 END:VEVENT
@@ -1590,7 +1603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b346eefc90254220ad25651993fc4041-occ_4d6f05966659490c93d27e3e71b
  183d8@thingstodoinyourcity
-DTSTAMP:20260828T084156Z
+DTSTAMP:20260830T034836Z
 DTSTART:20260830T160000Z
 DTEND:20260830T210000Z
 SUMMARY:Thegoodgrooves Boat Party
@@ -1741,7 +1754,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a4087469a0ef48a0960d77d8051ca079-occ_319c892ff7124cfcbdcf87a07ba
  fe061@thingstodoinyourcity
-DTSTAMP:20260828T094612Z
+DTSTAMP:20260830T035634Z
 DTSTART:20260830T210000Z
 DTEND:20260831T040000Z
 SUMMARY:Dance for Shaka 2026
@@ -1752,7 +1765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ff56f456920642d1982aeabc052d0bf0-occ_3e3a7cf694b44796ba7f821f4ac
  3630e@thingstodoinyourcity
-DTSTAMP:20260828T084503Z
+DTSTAMP:20260830T035212Z
 DTSTART:20260830T210000Z
 DTEND:20260831T040000Z
 SUMMARY:Dance for Shaka 2026
@@ -1778,7 +1791,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2aa3efb616dd4427ab6c00ced8bea03f-occ_37d3a929f476415090da63ffb63
  93d40@thingstodoinyourcity
-DTSTAMP:20260828T083858Z
+DTSTAMP:20260830T034836Z
 DTSTART:20260830T220000Z
 DTEND:20260831T040000Z
 SUMMARY:Joss Dean [All Night Long]
