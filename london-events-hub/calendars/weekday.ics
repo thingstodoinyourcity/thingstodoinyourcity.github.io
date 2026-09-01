@@ -7,4 +7,17 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_67f83bfd0eab42e19e6114973dfcfd44-occ_7eb98a93025c46dea904f0cc00b
+ 8fdaf@thingstodoinyourcity
+DTSTAMP:20260901T005142Z
+DTSTART:20260904T133000Z
+DTEND:20260904T153000Z
+SUMMARY:Bouquet Arranging Workshop
+DESCRIPTION:Create your own bouquet with expert florist Lilian Highmoor i
+ n the Kitchen Garden. The finished bouquet is yours to take home.\nPrice
+ : Check site\nhttps://chiswickhouseandgardens.org.uk/whats-on/
+LOCATION:Kitchen Garden\, London
+URL:https://chiswickhouseandgardens.org.uk/whats-on/
+END:VEVENT
 END:VCALENDAR
