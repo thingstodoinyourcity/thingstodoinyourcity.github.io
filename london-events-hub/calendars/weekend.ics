@@ -7,4 +7,43 @@ X-WR-CALNAME:London Events — Weekend
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_2ac9da8198e3491bb3d192c28a97bd47-occ_2583e743c61c45d0a79d0eb1535
+ f471c@thingstodoinyourcity
+DTSTAMP:20260901T001054Z
+DTSTART:20260905T110000Z
+DTEND:20260905T213000Z
+SUMMARY:Jazz on Wick 2026
+DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
+ ats-on-in-london-this-weekend/
+LOCATION:Various Venues Hackney Wick\, Hackney Wick\, London\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
+ nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e760585802034565bbee0a533bc46f1d-occ_9cbed0b529f04a19a4e5bfb4546
+ 3ee70@thingstodoinyourcity
+DTSTAMP:20260831T234118Z
+DTSTART:20260905T110000Z
+DTEND:20260905T220000Z
+SUMMARY:SOULTOWN Festival 2026
+DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
+ ats-on-in-london-this-weekend/
+LOCATION:Croydon Road Recreation Ground\, Beckenham\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
+ nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df3e65a1e298429a8f181dd69669811f-occ_7e31838f74f544dcb2295d24b9a
+ ab95a@thingstodoinyourcity
+DTSTAMP:20260831T235853Z
+DTSTART:20260906T110000Z
+DTEND:20260906T190000Z
+SUMMARY:We Are Family Festival 2026
+DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
+ ats-on-in-london-this-weekend/
+LOCATION:Croydon Road Recreation Ground\, Beckenham\, London
+URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
+ nd/
+END:VEVENT
 END:VCALENDAR
