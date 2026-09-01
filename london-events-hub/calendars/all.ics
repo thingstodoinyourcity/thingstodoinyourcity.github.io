@@ -8,6 +8,35 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_0dbf81d84a7b4bfda1465c995bd6528d-occ_69e70f6d62224c478d1a121fa0f
+ 013a8@thingstodoinyourcity
+DTSTAMP:20260901T202254Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260913
+SUMMARY:Paint! Pattern! Print!
+DESCRIPTION:Price: £12.65 (Concessions may apply)\nhttps://fashiontextil
+ emuseum.org/exhibitionsdisplays/paint-pattern-print
+LOCATION:Fashion and Textile Museum\, 83 Bermondsey Street London SE1 3XF
+  – Map\, London
+URL:https://fashiontextilemuseum.org/exhibitionsdisplays/paint-pattern-pr
+ int
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_13aeaa80b4374342bb952cb4f0b7e36e-occ_a6fa74225aba4207ad10905cb61
+ 6331f@thingstodoinyourcity
+DTSTAMP:20260901T202800Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20261004
+SUMMARY:NIGO: From Japan with Love
+DESCRIPTION:Explore NIGO’s vision and legacy in his first UK exhibition
+ \, spanning street style\, music\, vintage objects and traditional craft
+ s.\nPrice: Adult: From £15.29 Child: From £7.65 Student/Concession: Fr
+ om £11.47\nhttps://designmuseum.org/exhibitions/nigo-from-japan-with-lo
+ ve
+LOCATION:Design Museum\, Kensington High Street\, London
+URL:https://designmuseum.org/exhibitions/nigo-from-japan-with-love
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c94b1a860c7743059b848211f6d7e263-occ_464e75f5165e428988f13e61b90
  2b31e@thingstodoinyourcity
 DTSTAMP:20260901T181505Z
@@ -53,6 +82,21 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
  t-the-art-and-culture-of-panafrica
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7efd2e9816ba41d5932c032177e6b7e9-occ_fc847192569b42ed9c94c82de01
+ 2d1cc@thingstodoinyourcity
+DTSTAMP:20260901T203248Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260906
+SUMMARY:Project a Black Planet
+DESCRIPTION:A season exploring the influence of Pan-Africanism on art\, f
+ ilm\, music and culture.\nPrice: Check site\nhttps://www.barbican.org.uk
+ /whats-on/2026/event/project-a-black-planet-the-art-and-culture-of-panaf
+ rica
+LOCATION:London
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
+ t-the-art-and-culture-of-panafrica
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2d1ebc5e7bd843cf8d846041a660e262-occ_8f045b90ca9d40e6a054d8da73e
  a5cd3@thingstodoinyourcity
 DTSTAMP:20260901T183121Z
@@ -70,9 +114,39 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
  t-the-art-and-culture-of-panafrica
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_51ccb79615f84ded937432476cd20170-occ_1efac6e0c8a7425cb95297b3524
+ 14107@thingstodoinyourcity
+DTSTAMP:20260901T203248Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260906
+SUMMARY:Project a Black Planet
+DESCRIPTION:An exhibition exploring Pan-Africanism’s impact on artistic
+  and cultural production. It brings together over 250 paintings\, instal
+ lations\, posters\, journals and films.\nPrice: Standard £20.50 (£19 +
+  £1.50 transaction fee)\nhttps://www.barbican.org.uk/whats-on/2026/even
+ t/project-a-black-planet-the-art-and-culture-of-panafrica
+LOCATION:Art Gallery\, Barbican Centre Silk Street\, London EC2Y 8DS\, Lo
+ ndon
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
+ t-the-art-and-culture-of-panafrica
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8e577bd7dc1c4a7ba4903438a7798891-occ_5e89fd95b079404780358d92905
  73174@thingstodoinyourcity
 DTSTAMP:20260901T192522Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260906
+SUMMARY:Project a Black Planet: Film
+DESCRIPTION:Price: Check site\nhttps://www.barbican.org.uk/whats-on/2026/
+ event/project-a-black-planet-the-art-and-culture-of-panafrica
+LOCATION:London
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
+ t-the-art-and-culture-of-panafrica
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d63b5420a83a4bc18656d8a42bf6c147-occ_5d392b4e3e974feb9a16876b386
+ 59ca5@thingstodoinyourcity
+DTSTAMP:20260901T204030Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260906
 SUMMARY:Project a Black Planet: Film
@@ -206,19 +280,6 @@ LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
 URL:https://www.ovoarena.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_67f83bfd0eab42e19e6114973dfcfd44-occ_7eb98a93025c46dea904f0cc00b
- 8fdaf@thingstodoinyourcity
-DTSTAMP:20260901T005142Z
-DTSTART:20260904T133000Z
-DTEND:20260904T153000Z
-SUMMARY:Bouquet Arranging Workshop
-DESCRIPTION:Create your own bouquet with expert florist Lilian Highmoor i
- n the Kitchen Garden. The finished bouquet is yours to take home.\nPrice
- : Check site\nhttps://chiswickhouseandgardens.org.uk/whats-on/
-LOCATION:Kitchen Garden\, London
-URL:https://chiswickhouseandgardens.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b0bb2c37498b4ff69d7c51def2d02dee-occ_f5f898af606345a1afee626cf7a
  1e1ae@thingstodoinyourcity
 DTSTAMP:20260901T192812Z
@@ -232,15 +293,15 @@ LOCATION:Kitchen Garden\, London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f0aca96283f84ca3bcf1e254fabd16f8-occ_dfd1999655484716bfcd22f1731
- 741b5@thingstodoinyourcity
-DTSTAMP:20260901T163955Z
+UID:cand_6a5325eb821848379ed21266a74ff781-occ_39defa5bb5104d139931e331ceb
+ 4c91c@thingstodoinyourcity
+DTSTAMP:20260901T214306Z
 DTSTART:20260904T133000Z
 DTEND:20260904T153000Z
-SUMMARY:Pick and Arrange Your Own Bouquet
-DESCRIPTION:Expert florist Lilian Highmoor guides participants in creatin
- g a bouquet to take home. The workshop takes place in the Kitchen Garden
- .\nPrice: Check site\nhttps://chiswickhouseandgardens.org.uk/whats-on/
+SUMMARY:Pick and arrange your own bouquet
+DESCRIPTION:Join expert florist Lilian Highmoor in the Kitchen Garden to 
+ create your own bouquet to take home.\nPrice: Check site\nhttps://chiswi
+ ckhouseandgardens.org.uk/whats-on/
 LOCATION:Kitchen Garden\, London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
@@ -313,32 +374,6 @@ URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
  nd/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2ac9da8198e3491bb3d192c28a97bd47-occ_2583e743c61c45d0a79d0eb1535
- f471c@thingstodoinyourcity
-DTSTAMP:20260901T001054Z
-DTSTART:20260905T110000Z
-DTEND:20260905T213000Z
-SUMMARY:Jazz on Wick 2026
-DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
- ats-on-in-london-this-weekend/
-LOCATION:Various Venues Hackney Wick\, Hackney Wick\, London\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
- nd/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9bdffc3a27354f6f8321eadd172bc73c-occ_5dae3029dd1b4f538f73f4a2376
- 765f5@thingstodoinyourcity
-DTSTAMP:20260901T155552Z
-DTSTART:20260905T110000Z
-DTEND:20260905T220000Z
-SUMMARY:SOULTOWN Festival 2026
-DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
- ats-on-in-london-this-weekend/
-LOCATION:Croydon Road Recreation Ground\, Beckenham\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
- nd/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e760585802034565bbee0a533bc46f1d-occ_9cbed0b529f04a19a4e5bfb4546
  3ee70@thingstodoinyourcity
 DTSTAMP:20260831T234118Z
@@ -350,6 +385,30 @@ DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
 LOCATION:Croydon Road Recreation Ground\, Beckenham\, London
 URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
  nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f83dd62ea6c44d47ba62fa288301ac7f-occ_6aeb2d04905f4ff085065fa825a
+ 010b0@thingstodoinyourcity
+DTSTAMP:20260901T210650Z
+DTSTART:20260905T170000Z
+SUMMARY:A Poetry Reading by Lynette Yiadom-Boakye
+DESCRIPTION:Price: Check site\nhttps://www.barbican.org.uk/whats-on/2026/
+ event/project-a-black-planet-the-art-and-culture-of-panafrica
+LOCATION:London
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
+ t-the-art-and-culture-of-panafrica
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fb97b0bc25af499e9c62582808149462-occ_260848c3f68540d9a9107c931ca
+ cabca@thingstodoinyourcity
+DTSTAMP:20260901T211100Z
+DTSTART:20260905T170000Z
+SUMMARY:A Poetry Reading by Lynette Yiadom-Boakye
+DESCRIPTION:Price: Check site\nhttps://www.barbican.org.uk/whats-on/2026/
+ event/project-a-black-planet-the-art-and-culture-of-panafrica
+LOCATION:London
+URL:https://www.barbican.org.uk/whats-on/2026/event/project-a-black-plane
+ t-the-art-and-culture-of-panafrica
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_649769f2f9694c2697b2508df6035553-occ_dfd2fbd6cab8492a92d71d89600
@@ -376,17 +435,17 @@ LOCATION:London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_47dc9e0d17e44f63b36a45deb18ff1cf-occ_639bca93636d4c2d87047e96906
- 5cc65@thingstodoinyourcity
-DTSTAMP:20260901T160117Z
-DTSTART:20260906T110000Z
-DTEND:20260906T190000Z
-SUMMARY:We Are Family Festival 2026
-DESCRIPTION:Price: Check site\nhttps://www.skiddle.com/whats-on/London/wh
- ats-on-in-london-this-weekend/
-LOCATION:Croydon Road Recreation Ground\, Beckenham\, London
-URL:https://www.skiddle.com/whats-on/London/whats-on-in-london-this-weeke
- nd/
+UID:cand_c4aad717f87b42aeaf2ef470f5344168-occ_9629c783d530499b9966ad02238
+ a53e5@thingstodoinyourcity
+DTSTAMP:20260901T214728Z
+DTSTART:20260906T090000Z
+DTEND:20260906T150000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:Arts\, crafts and homeware feature alongside much more. The m
+ arket is held monthly.\nPrice: Check site\nhttps://chiswickhouseandgarde
+ ns.org.uk/whats-on/
+LOCATION:London
+URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_df3e65a1e298429a8f181dd69669811f-occ_7e31838f74f544dcb2295d24b9a
