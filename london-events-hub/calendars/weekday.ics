@@ -7,4 +7,14 @@ X-WR-CALNAME:London Events — Weekday
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_238ed2f4e6c743bc91db4bdee6f5e2af-occ_c1b17260b8d34aad8b6d49e58c7
+ 0c125@thingstodoinyourcity
+DTSTAMP:20260902T141607Z
+DTSTART;VALUE=DATE:20260902
+SUMMARY:XG World Tour: The Core
+DESCRIPTION:Price: Check site\nhttps://www.ovoarena.co.uk/events
+LOCATION:London
+URL:https://www.ovoarena.co.uk/events
+END:VEVENT
 END:VCALENDAR
