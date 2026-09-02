@@ -7,4 +7,25 @@ X-WR-CALNAME:London Events — All
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:cand_238ed2f4e6c743bc91db4bdee6f5e2af-occ_c1b17260b8d34aad8b6d49e58c7
+ 0c125@thingstodoinyourcity
+DTSTAMP:20260902T141607Z
+DTSTART;VALUE=DATE:20260902
+SUMMARY:XG World Tour: The Core
+DESCRIPTION:Price: Check site\nhttps://www.ovoarena.co.uk/events
+LOCATION:London
+URL:https://www.ovoarena.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7fa91d68e9b647e3bf0f87732383fefc-occ_ee89d1fb186a45feb8c930711e9
+ 6fb7c@thingstodoinyourcity
+DTSTAMP:20260902T141258Z
+DTSTART:20260905T220000Z
+DTEND:20260906T040000Z
+SUMMARY:Weird Baile
+DESCRIPTION:Price: Check site\nhttps://earthackney.co.uk/events/
+LOCATION:London
+URL:https://earthackney.co.uk/events/
+END:VEVENT
 END:VCALENDAR
