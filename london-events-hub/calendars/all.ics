@@ -8,12 +8,52 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_a492b1ae17c24b1c8df1bb4a6c17e3eb-occ_5414aa77abe1466a9ff386fdf61
+ 0fe00@thingstodoinyourcity
+DTSTAMP:20260902T193329Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260906
+SUMMARY:Marilyn Monroe: A Portrait
+DESCRIPTION:A National Portrait Gallery exhibition exploring how Marilyn 
+ Monroe shaped her public image through photography\, art and personal be
+ longings. It marks her centenary in 2026.\nPrice: Adults £25 off-peak M
+ onday–Thursday / £27 peak Friday–Sunday\nhttps://coventgarden.com/w
+ hats-on.php
+LOCATION:National Portrait Gallery\, St Martin’s Place\, London\, WC2H 
+ 0HE\, London
+URL:https://coventgarden.com/whats-on.php
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_238ed2f4e6c743bc91db4bdee6f5e2af-occ_c1b17260b8d34aad8b6d49e58c7
  0c125@thingstodoinyourcity
 DTSTAMP:20260902T141607Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:XG World Tour: The Core
 DESCRIPTION:Price: Check site\nhttps://www.ovoarena.co.uk/events
+LOCATION:London
+URL:https://www.ovoarena.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d583f3bd09a940f08651ceb5d0cacddf-occ_fa8f68a2658f4c49a896a6d6430
+ cda0c@thingstodoinyourcity
+DTSTAMP:20260902T200018Z
+DTSTART:20260901T230000Z
+DTEND;VALUE=DATE:20260930
+SUMMARY:Turning the Tide Exhibition
+DESCRIPTION:A riverside exhibition featuring Becky Bailey’s photographs
+ . It documents creative education workshops led by Catherine Yass.\nPric
+ e: Free\nhttps://thamesfestivaltrust.org/whats-on
+LOCATION:Peter's Hill\, Peter's Hill\, EC4V 4AU\, City of London\, London
+URL:https://thamesfestivaltrust.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_244c2625af614b6b85580e71644f1e31-occ_402ce3d7a84246c7a6fd659a49b
+ e0dde@thingstodoinyourcity
+DTSTAMP:20260902T192626Z
+DTSTART;VALUE=DATE:20260904
+SUMMARY:The Neighbourhood
+DESCRIPTION:The Neighbourhood presents The Wourld Tour with Nessa Barrett
+  and Noise Dept.\nPrice: Check site\nhttps://www.ovoarena.co.uk/events
 LOCATION:London
 URL:https://www.ovoarena.co.uk/events
 END:VEVENT
