@@ -17,4 +17,15 @@ DESCRIPTION:Price: Check site\nhttps://www.ovoarena.co.uk/events
 LOCATION:London
 URL:https://www.ovoarena.co.uk/events
 END:VEVENT
+BEGIN:VEVENT
+UID:cand_244c2625af614b6b85580e71644f1e31-occ_402ce3d7a84246c7a6fd659a49b
+ e0dde@thingstodoinyourcity
+DTSTAMP:20260902T192626Z
+DTSTART;VALUE=DATE:20260904
+SUMMARY:The Neighbourhood
+DESCRIPTION:The Neighbourhood presents The Wourld Tour with Nessa Barrett
+  and Noise Dept.\nPrice: Check site\nhttps://www.ovoarena.co.uk/events
+LOCATION:London
+URL:https://www.ovoarena.co.uk/events
+END:VEVENT
 END:VCALENDAR
