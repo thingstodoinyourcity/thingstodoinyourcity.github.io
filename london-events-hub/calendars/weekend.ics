@@ -8,6 +8,47 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_b46a53b7769e4f74bea039d0a68dc3a8-occ_0ba314399dac463c9956ad68695
+ 122c2@thingstodoinyourcity
+DTSTAMP:20260904T154259Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20271030
+SUMMARY:Lost Music Venues
+DESCRIPTION:A free V&A exhibition explores London’s lost music venues a
+ nd their legacy from the 1980s to the 2010s.\nPrice: FREE\nhttps://londo
+ ntheinside.com/whats-on-this-week/
+LOCATION:V&A\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9198730420a04d859f03ae03b51ae737-occ_9213fb559e0242dca294b7df7ac
+ a7102@thingstodoinyourcity
+DTSTAMP:20260904T154830Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260906
+SUMMARY:Greenwich+Docklands International Festival
+DESCRIPTION:A free outdoor theatre and performing arts festival across Gr
+ eenwich\, Thamesmead and East London\, featuring work from over 25 compa
+ nies on the theme ‘WE MOVE’.\nPrice: Free\nhttps://londontheinside.c
+ om/whats-on-this-week/
+LOCATION:Various spaces across Greenwich\, Thamesmead and East London\, G
+ reenwich\, Thamesmead and East London\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a768c529866c4a73a7e276d90720af6e-occ_b8405d2ec6f84223979f9443856
+ 2a1cb@thingstodoinyourcity
+DTSTAMP:20260904T152037Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260905
+SUMMARY:Em Humble: Lady Of The Lakes
+DESCRIPTION:BAFTA-longlisted comedian Em Humble presents a debut characte
+ r comedy show featuring wizards\, goblins and urchins.\nPrice: Limited 
+ £15 tickets\nhttps://parktheatre.co.uk/whats-on/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2a5c55189bd54314bb0ac6e780d3a6de-occ_adc4cc3e13404cfe96219522c75
  3a7ce@thingstodoinyourcity
 DTSTAMP:20260904T131849Z
@@ -22,6 +63,59 @@ LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
 URL:https://www.oslohackney.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7013a401a7904bdeb8468f62b7fc642e-occ_ea94ecd0f2324688ac4a8fcf8e2
+ 74b4d@thingstodoinyourcity
+DTSTAMP:20260904T152518Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260926
+SUMMARY:Lara Ricote: Inkling
+DESCRIPTION:Lara Ricote’s award-nominated comedy show explores self-kno
+ wledge\, heartbreak and the mystery of being alive. Directed by Abby Wam
+ baugh.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/events/la
+ ra-ricote-inkling/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/events/lara-ricote-inkling/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7013a401a7904bdeb8468f62b7fc642e-occ_b531d6051d1344dfba9f1f670a3
+ 1d136@thingstodoinyourcity
+DTSTAMP:20260904T152518Z
+DTSTART:20260904T180000Z
+SUMMARY:Lara Ricote: Inkling
+DESCRIPTION:Lara Ricote’s award-nominated comedy show explores self-kno
+ wledge\, heartbreak and the mystery of being alive. Directed by Abby Wam
+ baugh.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/events/la
+ ra-ricote-inkling/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/events/lara-ricote-inkling/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7013a401a7904bdeb8468f62b7fc642e-occ_d2ef45bf4ff5486a83e9c1ea0a6
+ d3adf@thingstodoinyourcity
+DTSTAMP:20260904T152518Z
+DTSTART:20260905T133000Z
+SUMMARY:Lara Ricote: Inkling
+DESCRIPTION:Lara Ricote’s award-nominated comedy show explores self-kno
+ wledge\, heartbreak and the mystery of being alive. Directed by Abby Wam
+ baugh.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/events/la
+ ra-ricote-inkling/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/events/lara-ricote-inkling/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7013a401a7904bdeb8468f62b7fc642e-occ_f492f5e902f647608802be0c4c3
+ ec7d1@thingstodoinyourcity
+DTSTAMP:20260904T152518Z
+DTSTART:20260905T180000Z
+SUMMARY:Lara Ricote: Inkling
+DESCRIPTION:Lara Ricote’s award-nominated comedy show explores self-kno
+ wledge\, heartbreak and the mystery of being alive. Directed by Abby Wam
+ baugh.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/events/la
+ ra-ricote-inkling/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/events/lara-ricote-inkling/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_178ac024d3c9471d9d65df36334b804a-occ_ec9c7c41644143ce8acc85f2d78
  0be19@thingstodoinyourcity
 DTSTAMP:20260904T130137Z
@@ -34,6 +128,125 @@ DESCRIPTION:Bayonne performs live at Oslo\, Hackney. The event is present
 LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
  don
 URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54e2ec029f6446778d40cf40c5770a7a-occ_d7859152c89d4452bb5fa1786b2
+ 08d69@thingstodoinyourcity
+DTSTAMP:20260904T152548Z
+DTSTART:20260904T183000Z
+SUMMARY:THE CHILDREN
+DESCRIPTION:Lucy Kirkwood’s darkly funny drama follows three survivors 
+ confronting old secrets and their debt to the next generation. Directed 
+ by Rachel O’Riordan.\nPrice: £10 - £32 + £2 restoration levy\nhttps
+ ://lyric.co.uk/whats-on/shows/
+LOCATION:Venue:\nMain House\, Lyric Square\, King St\, London W6 0QL\, Lo
+ ndon
+URL:https://lyric.co.uk/whats-on/shows/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54e2ec029f6446778d40cf40c5770a7a-occ_697a1c825187442abebaf47904c
+ b03f3@thingstodoinyourcity
+DTSTAMP:20260904T152548Z
+DTSTART:20260905T183000Z
+SUMMARY:THE CHILDREN
+DESCRIPTION:Lucy Kirkwood’s darkly funny drama follows three survivors 
+ confronting old secrets and their debt to the next generation. Directed 
+ by Rachel O’Riordan.\nPrice: £10 - £32 + £2 restoration levy\nhttps
+ ://lyric.co.uk/whats-on/shows/
+LOCATION:Venue:\nMain House\, Lyric Square\, King St\, London W6 0QL\, Lo
+ ndon
+URL:https://lyric.co.uk/whats-on/shows/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_7338ace8786342ba84c14108b86
+ f4ec1@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20260905
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_89db2aab3b75426eb24384f891f
+ dcc13@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20260905
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_f2ef5cb5f9ee460580c81c22881
+ 88717@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20260905
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_51c968d3c7324a7e85255ce7fd4
+ f77a9@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20260926
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_99816de049c84f6aa9995710a3f
+ 066df@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20260926
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_046576887fb445dab1558e76ca2
+ 50602@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20261003
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_28d1ea66627e47619f05ff58e6d
+ 52213@thingstodoinyourcity
+DTSTAMP:20260904T143204Z
+DTSTART;VALUE=DATE:20261003
+SUMMARY:The Five Points Brewery Tour and Tasting
+DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
+ les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
+ : £20 plus booking fee\nhttps://londoncheapo.com/events/
+LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
+ ted Kingdom\, Hackney\, London
+URL:https://londoncheapo.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6d64a3121fa7454bb23d41d3c227f3b3-occ_fb4f37ccbecd49e7a7b0b21b98e
@@ -96,6 +309,20 @@ LOCATION:Central Criminal Court (Old Bailey)\, Old Bailey\, London\, EC4M
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e7f97784ddf842b4b4934469d132706b-occ_1a051af1c1fe4c79bc073b16b8f
+ 8744a@thingstodoinyourcity
+DTSTAMP:20260904T154321Z
+DTSTART:20260905T090000Z
+DTEND:20260905T153000Z
+SUMMARY:Kensington Big Flea & Botanical Market
+DESCRIPTION:A curated street market combining vintage homewares\, fashion
+  and furniture with plants\, flowers\, garden design and outdoor living.
+ \nPrice: FREE ENTRY\nhttps://judysvintagefair.com/events
+LOCATION:Phillimore Walk\, Phillimore Walk\, Phillimore Walk\, London\, W
+ 8\, Kensington\, London
+URL:https://judysvintagefair.com/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ddd1513db31c4580aa3fcfd51c8e3961-occ_7ea18d4b2912419b9dc11bc78dc
  d8cfa@thingstodoinyourcity
 DTSTAMP:20260904T120313Z
@@ -122,6 +349,19 @@ DESCRIPTION:See private Roman artefact collections recovered from the Riv
 LOCATION:Guildhall Art Gallery and Roman Amphitheatre\, Guildhall Yard\, 
  London\, EC2V 5AE\, City of London\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_40d27df139a8424d8ec0755aa09d4534-occ_deb311aa478d48c3a7d091fa35a
+ c6fcc@thingstodoinyourcity
+DTSTAMP:20260904T145727Z
+DTSTART:20260905T090000Z
+DTEND:20260905T153000Z
+SUMMARY:The Kensington Botanical Market
+DESCRIPTION:A curated market where gardening\, design\, art and vintage i
+ ntersect. Find plants\, botanical prints\, ceramics\, tools and vintage 
+ garden furniture.\nPrice: Free\nhttps://londoncheapo.com/events/
+LOCATION:Phillimore Walk\, London\, W8 7RG\, Kensington\, London
+URL:https://londoncheapo.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ad9d395f2c345dd8962ff564977db0f-occ_dbc9946b0b004891bc3a28ef1e7
@@ -211,18 +451,32 @@ LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
 URL:https://www.oslohackney.com/events/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_30393b30eefd4ca2a07677932ac5fef8-occ_b24be0d3e4c8442bad7d1b75cc1
- 3b3d4@thingstodoinyourcity
-DTSTAMP:20260904T121527Z
-DTSTART;VALUE=DATE:20260906
-SUMMARY:BINI: Signals World Tour 2026
-DESCRIPTION:BINI are an eight-member Filipino girl group with more than 1
-  billion global streams. Their European tour leg has been postponed and 
- ticket buyers will be refunded.\nPrice: Check site\nhttps://www.ovoarena
- .co.uk/events
-LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
- , Wembley\, HA9 0AA.\, Wembley Park\, Wembley\, London
-URL:https://www.ovoarena.co.uk/events
+UID:cand_28b209150d5248f098ff79d2e77a934e-occ_4f1894ed1ebc472697b51171c6e
+ 7b1de@thingstodoinyourcity
+DTSTAMP:20260904T135423Z
+DTSTART:20260905T183000Z
+DTEND:20260905T213000Z
+SUMMARY:Saturdays at Backyard
+DESCRIPTION:A weekly comedy night featuring UK and international comedian
+ s\, with bar\, kitchen\, games and food available around the show.\nPric
+ e: £16 - £24\nhttps://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_28b209150d5248f098ff79d2e77a934e-occ_56284f3f81b84ce2a6043ed222e
+ e4742@thingstodoinyourcity
+DTSTAMP:20260904T135423Z
+DTSTART:20260905T190000Z
+DTEND:20260905T213000Z
+SUMMARY:Saturdays at Backyard
+DESCRIPTION:A weekly comedy night featuring UK and international comedian
+ s\, with bar\, kitchen\, games and food available around the show.\nPric
+ e: £16 - £24\nhttps://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_383523bc16714bdca9eb02769d717525-occ_3151cf19dc30455c873f8afe5af
@@ -300,6 +554,34 @@ LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_e6c53b5c6051441c8dd8e1e33b0
+ 55d39@thingstodoinyourcity
+DTSTAMP:20260904T154832Z
+DTSTART:20260906T090000Z
+SUMMARY:Pastel de Nata Making Masterclass
+DESCRIPTION:Learn to mix\, knead and layer dough\, then make custard and 
+ form pastry cases. Each session includes a tart\, tea or coffee and eigh
+ t tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-on
+ -this-week/
+LOCATION:Santa Nata\, 92 Turbine Hall\, London SW11 8BU\, Battersea\, Lon
+ don
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_4105c6a257164b6698caa473d59
+ 5aa0d@thingstodoinyourcity
+DTSTAMP:20260904T154832Z
+DTSTART:20260906T103000Z
+SUMMARY:Pastel de Nata Making Masterclass
+DESCRIPTION:Learn to mix\, knead and layer dough\, then make custard and 
+ form pastry cases. Each session includes a tart\, tea or coffee and eigh
+ t tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-on
+ -this-week/
+LOCATION:Santa Nata\, 92 Turbine Hall\, London SW11 8BU\, Battersea\, Lon
+ don
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_11364a9f0d5c47c48b1a66e255d6d9f5-occ_5c993d9262e446e49be25509447
  a2b51@thingstodoinyourcity
 DTSTAMP:20260904T114319Z
@@ -313,6 +595,63 @@ DESCRIPTION:View the newly restored chapel and hear Abney Park Trust's mi
 LOCATION:Abney Park\, Stoke Newington High Street\, London\, N16 0LH\, St
  oke Newington\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bd6ebb101ee342628a5555d228016795-occ_6a4e09f2a9e245ec89501cf9468
+ d39a2@thingstodoinyourcity
+DTSTAMP:20260904T150555Z
+DTSTART:20260906T100000Z
+DTEND:20260906T150000Z
+SUMMARY:East London Vintage Furniture & Flea
+DESCRIPTION:Shop original furniture\, homewares\, vintage fashion and jew
+ ellery from specialist traders. The event welcomes dogs and children.\nP
+ rice: Check site\nhttps://judysvintagefair.com/events
+LOCATION:Art Pavilion\, Art Pavilion\, Mile End Park\, Grove Road\, East 
+ London\, London\, E3 5RP\, East London\, London
+URL:https://judysvintagefair.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_daa6bda5d51247598ceab5cf2cb06ae4-occ_721995ddbece4daa944391f66a9
+ 1dbf4@thingstodoinyourcity
+DTSTAMP:20260904T162201Z
+DTSTART:20260906T130000Z
+DTEND:20260906T140000Z
+SUMMARY:Rio Archive Martial Arts Cinema Panel
+DESCRIPTION:Special guests discuss the Rio Cinema’s history of showing 
+ martial arts films. Includes a reel\, slides and clips of classic films.
+ \nPrice: Standard (£0.00)\; Wheelchair Standard (£0.00)\nhttps://rioci
+ nema.org.uk/Rio.dll/WhatsOn
+LOCATION:Screen 1\, 107 Kingsland High Street\, London\, E8 2PB\, Dalston
+ \, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_00c30f11408b4201b526a97ee7fd4211-occ_2ebdb7dfbb0741798277207dd84
+ 73bda@thingstodoinyourcity
+DTSTAMP:20260904T135836Z
+DTSTART:20260906T173000Z
+DTEND:20260906T220000Z
+SUMMARY:Laugh Factory
+DESCRIPTION:An evening of comedy presented by BLACK COMEDY UK\, featuring
+  Christopher Savage as host and comedians from the UK comedy scene.\nPri
+ ce: £20 - £30\nhttps://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_00c30f11408b4201b526a97ee7fd4211-occ_ee5f759236874435b01e888c4f5
+ 1cd87@thingstodoinyourcity
+DTSTAMP:20260904T135836Z
+DTSTART:20260906T183000Z
+DTEND:20260906T220000Z
+SUMMARY:Laugh Factory
+DESCRIPTION:An evening of comedy presented by BLACK COMEDY UK\, featuring
+  Christopher Savage as host and comedians from the UK comedy scene.\nPri
+ ce: £20 - £30\nhttps://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_885a08d45a3f4f338becd7f5170311e5-occ_96e26461269142d28fe5d09deed
