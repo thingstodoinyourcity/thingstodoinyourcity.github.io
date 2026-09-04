@@ -89,8 +89,7 @@ DTEND;VALUE=DATE:20260912
 SUMMARY:Arcadia
 DESCRIPTION:Tom Stoppard’s play follows genius\, passion and discipline
   across a country house two centuries apart. The production features acc
- ess performances.\nPrice: Check site\nhttps://www.atgtickets.com/whats-o
- n/
+ ess performances.\nhttps://www.atgtickets.com/whats-on/
 LOCATION:Duke of York's Theatre\, 104 St Martin's Ln\, London WC2N 4BG\, 
  UK\, Leicester Square\, London
 URL:https://www.atgtickets.com/whats-on/
@@ -150,6 +149,34 @@ DESCRIPTION:BAFTA-longlisted comedian Em Humble presents a debut characte
  £15 tickets\nhttps://parktheatre.co.uk/whats-on/
 LOCATION:Park90\, London
 URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_31842e4525fb4d08b7a629dd92344edf-occ_3163514d1fbf4de8bff6528a18b
+ 02e61@thingstodoinyourcity
+DTSTAMP:20260904T203527Z
+DTSTART:20260903T190000Z
+DTEND:20261229T030000Z
+SUMMARY:London Pub Crawl
+DESCRIPTION:Enjoy entry to five bars and clubs\, a shot at each venue\, d
+ rink deals\, and a photographer-led night out.\nPrice: From £19.00\nhtt
+ ps://feverup.com/en/london/nightlife-clubs
+LOCATION:Zoo Bar & Club\, 13-17 Bear St\, London WC2H 7AQ\, Leicester Squ
+ are\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_31842e4525fb4d08b7a629dd92344edf-occ_a3092da5b7b54978a44f7cbfe03
+ 08a21@thingstodoinyourcity
+DTSTAMP:20260904T203527Z
+DTSTART:20260903T194500Z
+DTEND:20261229T030000Z
+SUMMARY:London Pub Crawl
+DESCRIPTION:Enjoy entry to five bars and clubs\, a shot at each venue\, d
+ rink deals\, and a photographer-led night out.\nPrice: From £19.00\nhtt
+ ps://feverup.com/en/london/nightlife-clubs
+LOCATION:Zoo Bar & Club\, 13-17 Bear St\, London WC2H 7AQ\, Leicester Squ
+ are\, London
+URL:https://feverup.com/en/london/nightlife-clubs
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7013a401a7904bdeb8468f62b7fc642e-occ_ea94ecd0f2324688ac4a8fcf8e2
@@ -212,8 +239,7 @@ DTSTART:20260904T192000Z
 SUMMARY:The Odyssey
 DESCRIPTION:Odysseus\, King of Ithaca\, undertakes a perilous journey hom
  e after the Trojan War. His voyage brings him face to face with gods\, m
- onsters and severe trials.\nPrice: Check site\nhttps://www.genesiscinema
- .co.uk/whatson
+ onsters and severe trials.\nhttps://www.genesiscinema.co.uk/whatson
 LOCATION:Studio 4\, 93-95 Mile End Road\, Whitechapel\, London E1 4UJ\, W
  hitechapel\, London
 URL:https://www.genesiscinema.co.uk/whatson
@@ -256,6 +282,66 @@ DESCRIPTION:Bon Jovi performs at Wembley Stadium. Tickets are from verifi
  london/concerts
 LOCATION:Wembley Stadium\, London\, Greater London\, London
 URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5677c3574ad342aeb40a915e84191e56-occ_6264ea27c0df43389f4b67a0343
+ c59b8@thingstodoinyourcity
+DTSTAMP:20260904T222719Z
+DTSTART:20260904T180000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:A live illusion spectacular inspired by the Lionsgate film fr
+ anchise\, featuring high-tech illusions\, solo stunts and theatrical spe
+ ctacle.\nhttps://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, London
+URL:https://londoncoliseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5677c3574ad342aeb40a915e84191e56-occ_a2c3c3671ebf4a4fa6e2bc1a2c8
+ 569e5@thingstodoinyourcity
+DTSTAMP:20260904T222719Z
+DTSTART:20260905T133000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:A live illusion spectacular inspired by the Lionsgate film fr
+ anchise\, featuring high-tech illusions\, solo stunts and theatrical spe
+ ctacle.\nhttps://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, London
+URL:https://londoncoliseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5677c3574ad342aeb40a915e84191e56-occ_ddb642df7f004cba97860572e3c
+ 1acc4@thingstodoinyourcity
+DTSTAMP:20260904T222719Z
+DTSTART:20260905T180000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:A live illusion spectacular inspired by the Lionsgate film fr
+ anchise\, featuring high-tech illusions\, solo stunts and theatrical spe
+ ctacle.\nhttps://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, London
+URL:https://londoncoliseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5677c3574ad342aeb40a915e84191e56-occ_1625360a32bc4736941becd9cd7
+ 42bee@thingstodoinyourcity
+DTSTAMP:20260904T222719Z
+DTSTART:20260906T120000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:A live illusion spectacular inspired by the Lionsgate film fr
+ anchise\, featuring high-tech illusions\, solo stunts and theatrical spe
+ ctacle.\nhttps://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, London
+URL:https://londoncoliseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5677c3574ad342aeb40a915e84191e56-occ_10778ce3ad2148f3b4ae1ec989e
+ a1245@thingstodoinyourcity
+DTSTAMP:20260904T222719Z
+DTSTART:20260906T163000Z
+SUMMARY:Now You See Me Live
+DESCRIPTION:A live illusion spectacular inspired by the Lionsgate film fr
+ anchise\, featuring high-tech illusions\, solo stunts and theatrical spe
+ ctacle.\nhttps://londoncoliseum.org/whats-on
+LOCATION:London Coliseum\, London
+URL:https://londoncoliseum.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_178ac024d3c9471d9d65df36334b804a-occ_ec9c7c41644143ce8acc85f2d78
@@ -510,6 +596,45 @@ LOCATION:Venue:\nMain House\, Lyric Square\, King St\, London W6 0QL\, Lo
 URL:https://lyric.co.uk/whats-on/shows/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cdcc148659504444bbb01b3244e297b8-occ_768c957f59154d3eb147e831bb4
+ ac887@thingstodoinyourcity
+DTSTAMP:20260904T222353Z
+DTSTART:20260904T190000Z
+SUMMARY:1 Big Night Out - Weekend Club Crawl
+DESCRIPTION:Explore West End\, Soho and Leicester Square nightlife with e
+ ntry to four clubs\, complimentary shots\, party hosts and souvenir phot
+ os.\nPrice: From £27.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:Zoo Bar & Club\, 13-17 Bear St\, London WC2H 7AQ\, Leicester Squ
+ are\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcc148659504444bbb01b3244e297b8-occ_47e0588bafbe4ca48dec5973a6a
+ 471b1@thingstodoinyourcity
+DTSTAMP:20260904T222353Z
+DTSTART:20260904T200000Z
+SUMMARY:1 Big Night Out - Weekend Club Crawl
+DESCRIPTION:Explore West End\, Soho and Leicester Square nightlife with e
+ ntry to four clubs\, complimentary shots\, party hosts and souvenir phot
+ os.\nPrice: From £27.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:Zoo Bar & Club\, 13-17 Bear St\, London WC2H 7AQ\, Leicester Squ
+ are\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcc148659504444bbb01b3244e297b8-occ_c961a452b6514c0a8d404390440
+ 7859c@thingstodoinyourcity
+DTSTAMP:20260904T222353Z
+DTSTART:20260904T204500Z
+SUMMARY:1 Big Night Out - Weekend Club Crawl
+DESCRIPTION:Explore West End\, Soho and Leicester Square nightlife with e
+ ntry to four clubs\, complimentary shots\, party hosts and souvenir phot
+ os.\nPrice: From £27.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:Zoo Bar & Club\, 13-17 Bear St\, London WC2H 7AQ\, Leicester Squ
+ are\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_68fad971685d46f2ac9f622e235e090e-occ_76c043634030461caae786c8433
  d11df@thingstodoinyourcity
 DTSTAMP:20260904T181629Z
@@ -553,6 +678,20 @@ LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\,
 URL:https://backyardcomedyclub.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_af489607a1c94976b391a40c96abb83b-occ_200d033cfd654591985e697eef8
+ 2543e@thingstodoinyourcity
+DTSTAMP:20260904T195058Z
+DTSTART:20260904T190000Z
+DTEND:20260904T213000Z
+SUMMARY:Fridays at Backyard
+DESCRIPTION:A comedy night at Backyard Comedy Club in Bethnal Green. The 
+ event runs from 8:00 pm to 10:30 pm.\nhttps://backyardcomedyclub.co.uk/e
+ vents/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9f7dc7f6ec174ed8b2df6629cc6da6f0-occ_1f54716e1f3a4b44ab2bc543e41
  bbb5e@thingstodoinyourcity
 DTSTAMP:20260904T185327Z
@@ -560,8 +699,7 @@ DTSTART:20260904T193000Z
 SUMMARY:The Murdér Express: Part Deux
 DESCRIPTION:An immersive murder mystery set in 1937\, featuring a three-c
  ourse meal\, comedy theatre and a missing diamond aboard the Murdér Exp
- ress.\nPrice: Check site\nhttps://londontheinside.com/whats-on-this-week
- /
+ ress.\nhttps://londontheinside.com/whats-on-this-week/
 LOCATION:Funicular Productions - Pedley Street Station\, Arch 63 Pedley S
  treet\, E1 5BW\, Bethnal Green\, London
 URL:https://londontheinside.com/whats-on-this-week/
@@ -595,6 +733,18 @@ LOCATION:Nightjar\, 129 City Road London United Kingdom\, Shoreditch\, Lo
 URL:https://www.barnightjar.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a67da2b612f04df48980929d28aeecf6-occ_162774ca4fad4d8189b96f3ec57
+ dbd6f@thingstodoinyourcity
+DTSTAMP:20260904T213750Z
+DTSTART:20260904T210000Z
+DTEND:20260905T050000Z
+SUMMARY:Hostile Take Over
+DESCRIPTION:A hard techno event titled Hostile Take Over. The listing sta
+ tes it is tomorrow\, Friday 4 September.\nhttps://e1ldn.co/events
+LOCATION:E1 London\, East London\, London
+URL:https://e1ldn.co/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2a5c55189bd54314bb0ac6e780d3a6de-occ_adc4cc3e13404cfe96219522c75
  3a7ce@thingstodoinyourcity
 DTSTAMP:20260904T131849Z
@@ -607,6 +757,19 @@ DESCRIPTION:A 2010–2015 club night featuring EDM\, dubstep and pop\, wi
 LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
  don
 URL:https://www.oslohackney.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4186590d721348689cec69863c96573c-occ_87230349dae7488a95f6106a0c7
+ de577@thingstodoinyourcity
+DTSTAMP:20260904T215100Z
+DTSTART:20260904T220000Z
+DTEND:20260905T050000Z
+SUMMARY:Artist Spotlight: JayZ30 After Party
+DESCRIPTION:An Egg London after party presented by JayZ30. Entry requires
+  valid physical photo ID for Club Scan.\nPrice: LIMITED FREE TICKETS\nht
+ tps://egglondon.co.uk/events/
+LOCATION:Egg London\, 5-13 Vale Royal\, London N7 9AP\, London
+URL:https://egglondon.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2ecd8fcd71a74fcca0f26adee25b6d66-occ_9908b9ebf31a4a07976d4962490
@@ -624,25 +787,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_7338ace8786342ba84c14108b86
  f4ec1@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
+DTSTAMP:20260904T220753Z
 DTSTART;VALUE=DATE:20260905
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
-LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
- ted Kingdom\, Hackney\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_89db2aab3b75426eb24384f891f
- dcc13@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
-DTSTART;VALUE=DATE:20260905
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
+SUMMARY:Five Points Brewery Tour and Tasting
+DESCRIPTION:A guided brewhouse tour includes four 1/3-pint samples of Fiv
+ e Points beer. Tours last approximately 90 minutes.\nPrice: £20.00\nhtt
+ ps://londoncheapo.com/events/
 LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
  ted Kingdom\, Hackney\, London
 URL:https://londoncheapo.com/events/
@@ -650,25 +800,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_f2ef5cb5f9ee460580c81c22881
  88717@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
+DTSTAMP:20260904T220753Z
 DTSTART;VALUE=DATE:20260905
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
-LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
- ted Kingdom\, Hackney\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_51c968d3c7324a7e85255ce7fd4
- f77a9@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
-DTSTART;VALUE=DATE:20260926
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
+SUMMARY:Five Points Brewery Tour and Tasting
+DESCRIPTION:A guided brewhouse tour includes four 1/3-pint samples of Fiv
+ e Points beer. Tours last approximately 90 minutes.\nPrice: £20.00\nhtt
+ ps://londoncheapo.com/events/
 LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
  ted Kingdom\, Hackney\, London
 URL:https://londoncheapo.com/events/
@@ -676,25 +813,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_99816de049c84f6aa9995710a3f
  066df@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
+DTSTAMP:20260904T220753Z
 DTSTART;VALUE=DATE:20260926
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
-LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
- ted Kingdom\, Hackney\, London
-URL:https://londoncheapo.com/events/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_046576887fb445dab1558e76ca2
- 50602@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
-DTSTART;VALUE=DATE:20261003
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
+SUMMARY:Five Points Brewery Tour and Tasting
+DESCRIPTION:A guided brewhouse tour includes four 1/3-pint samples of Fiv
+ e Points beer. Tours last approximately 90 minutes.\nPrice: £20.00\nhtt
+ ps://londoncheapo.com/events/
 LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
  ted Kingdom\, Hackney\, London
 URL:https://londoncheapo.com/events/
@@ -702,15 +826,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_26bd2473f0cd4e929a204b30bb0c7f84-occ_28d1ea66627e47619f05ff58e6d
  52213@thingstodoinyourcity
-DTSTAMP:20260904T143204Z
+DTSTAMP:20260904T220753Z
 DTSTART;VALUE=DATE:20261003
-SUMMARY:The Five Points Brewery Tour and Tasting
-DESCRIPTION:A 90-minute guided brewhouse tour includes four 1/3-pint samp
- les of Five Points beer. Public tours cost £20 plus booking fee.\nPrice
- : £20 plus booking fee\nhttps://londoncheapo.com/events/
+SUMMARY:Five Points Brewery Tour and Tasting
+DESCRIPTION:A guided brewhouse tour includes four 1/3-pint samples of Fiv
+ e Points beer. Tours last approximately 90 minutes.\nPrice: £20.00\nhtt
+ ps://londoncheapo.com/events/
 LOCATION:The Five Points Brewery\, 61 Mare Street\, London\, E8 4RG\, Uni
  ted Kingdom\, Hackney\, London
 URL:https://londoncheapo.com/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_02c797302cec4503a01a09c7282e5357-occ_09e0721e4d8d4fb491793bde952
+ ee217@thingstodoinyourcity
+DTSTAMP:20260904T215728Z
+DTSTART;VALUE=DATE:20260905
+DTEND:20260905T210000Z
+SUMMARY:Los De Casa Rooftop Day Party
+DESCRIPTION:Casa Colectiva presents a rooftop day party at EGG London\, f
+ eaturing house music and a curated lineup including Josh Torlot\, KEMADA
+  and EREN.\nhttps://egglondon.co.uk/events/
+LOCATION:EGG London\, 5-13 Vale Royal\, London N7 9AP\, London
+URL:https://egglondon.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4825ec9b4cd84c3884d2f4d0c883f261-occ_1bc79819951844e988c28ffca58
@@ -809,7 +946,7 @@ DTEND:20260905T153000Z
 SUMMARY:Lambeth Local History Fair
 DESCRIPTION:Talks\, walks and architecture tours run alongside society st
  ands and bookstalls throughout the day. Free entry at Brixton Tate Libra
- ry.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ ry.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brixton Tate Library\, Brixton Oval London SW2 1JQ United Kingdo
  m\, Brixton\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -837,8 +974,7 @@ DTEND:20260905T113000Z
 SUMMARY:Spring Park to West Wickham Common Walk
 DESCRIPTION:A 2.5–3-hour\, 8km circular walk through two historic green
   spaces and open countryside. Uneven terrain\; well-behaved dogs on lead
- s welcome.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/week
- end/
+ s welcome.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Spring Park car park\, 141 Addington Road\, West Wickham\, BR49B
  F\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -909,8 +1045,8 @@ DTEND:20260905T160000Z
 SUMMARY:Gabriel's Wharf Arts Festival
 DESCRIPTION:Free live entertainment inspired by the Festival of Britain\,
   with jazz\, swing dance\, workshops and classic 1950s and 60s music. Fa
- mily craft activities are included.\nPrice: Check site\nhttps://www.ianv
- isits.co.uk/calendar/weekend/
+ mily craft activities are included.\nhttps://www.ianvisits.co.uk/calenda
+ r/weekend/
 LOCATION:Gabriel's Wharf\, 56 Upper Ground\, London\, SE19PP\, Southwark\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -924,8 +1060,8 @@ DTEND:20260919T160000Z
 SUMMARY:Gabriel's Wharf Arts Festival
 DESCRIPTION:Free live entertainment inspired by the Festival of Britain\,
   with jazz\, swing dance\, workshops and classic 1950s and 60s music. Fa
- mily craft activities are included.\nPrice: Check site\nhttps://www.ianv
- isits.co.uk/calendar/weekend/
+ mily craft activities are included.\nhttps://www.ianvisits.co.uk/calenda
+ r/weekend/
 LOCATION:Gabriel's Wharf\, 56 Upper Ground\, London\, SE19PP\, Southwark\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -996,8 +1132,7 @@ DTEND:20260905T160000Z
 SUMMARY:London’s Bridges Walk
 DESCRIPTION:An evening stroll exploring the architectural heritage of Lon
  don’s bridges\, from Westminster Bridge toward Tower Bridge. Led by Dr
-  Steven Brindle.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calenda
- r/weekend/
+  Steven Brindle.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:London’s Bridges: From Westminster Bridge to Tower Bridge\, Lo
  ndon
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1027,6 +1162,21 @@ DESCRIPTION:Robin Trower performs at O2 Shepherds Bush Empire. Tickets ar
 LOCATION:O2 Shepherds Bush Empire\, Shepherds Bush Green\, London\, Great
  er London\, W12 8TT\, United Kingdom\, London\, Greater London\, London
 URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47db9aa0cad1416cb34beccf1d0f57ad-occ_21c6b6e0308a4f63a5fe60989ea
+ 1a84f@thingstodoinyourcity
+DTSTAMP:20260904T221848Z
+DTSTART:20260905T143000Z
+DTEND:20260905T163000Z
+SUMMARY:Throwback Bottomless Bingo Brunch
+DESCRIPTION:A 90-minute bottomless brunch with Pornstar Martinis\, pizzas
+  and bingo set to 90s and 2000s hits. Hosted at Tequila Mockingbird Char
+ ing Cross.\nPrice: £39.00\nhttps://feverup.com/en/london/nightlife-club
+ s
+LOCATION:Tequila Mockingbird Charing Cross\, 42 William IV Street\, Londo
+ n\, WC2N 4DD\, London
+URL:https://feverup.com/en/london/nightlife-clubs
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_724a29bbcca7441485c43aa3eda2517f-occ_00cc0011a43c452f8c83716d9ae
@@ -1087,6 +1237,21 @@ LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\,
 URL:https://backyardcomedyclub.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_984ddcbaba1544cab73926f34f54ab47-occ_26a72d75c9df422cbd822e09bd0
+ 3fc20@thingstodoinyourcity
+DTSTAMP:20260904T221654Z
+DTSTART:20260905T183000Z
+DTEND:20260905T213000Z
+SUMMARY:Silent Disco at The British Museum
+DESCRIPTION:A silent disco with UK DJs and three music channels takes pla
+ ce among the illuminated sculptures of the British Museum. The experienc
+ e lasts three hours.\nPrice: VIP Admission £41.95 + £3.80 booking fee\
+ ; £45.75\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:The British Museum\, Great Russell St\, London WC1B 3DG\, UK\, W
+ C1B 3DG\, London
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_91aaf3fa9132481ea055e2112a6713cb-occ_7957cf06d37c4e9381a0948f775
  80a06@thingstodoinyourcity
 DTSTAMP:20260904T180046Z
@@ -1108,7 +1273,7 @@ DTEND:20260906T020000Z
 SUMMARY:Locomotive Disco
 DESCRIPTION:A Saturday club night at Oslo featuring House\, Disco\, Funk 
  and Boogie. The event offers free entry before midnight and runs until 3
- am.\nPrice: Check site\nhttps://www.oslohackney.com/events/
+ am.\nhttps://www.oslohackney.com/events/
 LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
  don
 URL:https://www.oslohackney.com/events/
@@ -1130,6 +1295,45 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3c41d51775b645dab252934c14fe2a06-occ_c24aa14c6186478bb259bf3e20d
+ 3260b@thingstodoinyourcity
+DTSTAMP:20260904T213915Z
+DTSTART:20260905T220000Z
+DTEND:20260906T050000Z
+SUMMARY:Fat Tony\, The Menendez Brothers & Friends
+DESCRIPTION:A live event featuring Fat Tony\, The Menendez Brothers and f
+ riends. The event is identified as HOUSE.\nhttps://e1ldn.co/events
+LOCATION:E1 London\, 110 Pennington St\, Wapping\, London E1W 2BB\, East 
+ London\, London
+URL:https://e1ldn.co/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_523b789b8f20409bbbc106f3cfaa0371-occ_e8ec38c76b44499ba2cb3df3486
+ 4c826@thingstodoinyourcity
+DTSTAMP:20260904T213325Z
+DTSTART:20260905T220000Z
+DTEND:20260906T040000Z
+SUMMARY:Latin Candy: Reggaeton Party
+DESCRIPTION:A Reggaeton and R&B party featuring DJs\, Latin club edits\, 
+ immersive production and candy-themed décor.\nhttps://e1ldn.co/events
+LOCATION:E1 London\, 110 Pennington St\, Wapping\, London E1W 2BB\, East 
+ London\, London
+URL:https://e1ldn.co/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c1c5d0b7854f432bbcea6f39b1a4ef46-occ_e43d7a011bf34869b89fc955aff
+ 8c4eb@thingstodoinyourcity
+DTSTAMP:20260904T215928Z
+DTSTART:20260905T220000Z
+DTEND:20260906T060000Z
+SUMMARY:Nyash Tribal\, Afro\, Ama & Deep House
+DESCRIPTION:Nyash LDN returns to Egg for a night series with special gues
+ ts. The music spans all genres of house music.\nhttps://egglondon.co.uk/
+ events/
+LOCATION:Egg London\, 5-13 Vale Royal\, London N7 9AP\, London
+URL:https://egglondon.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_383523bc16714bdca9eb02769d717525-occ_3151cf19dc30455c873f8afe5af
  280c7@thingstodoinyourcity
 DTSTAMP:20260904T115812Z
@@ -1138,8 +1342,8 @@ DTEND:20260906T150000Z
 SUMMARY:Barts Great Hall and Hogarth Stair Open Day
 DESCRIPTION:Explore the recently restored\, nearly 300-year-old Hogarth S
  tair and Great Hall inside St Barts Hospital. See two huge Hogarth mural
- s and the benefactors’ names.\nPrice: Check site\nhttps://www.ianvisit
- s.co.uk/calendar/weekend/
+ s and the benefactors’ names.\nhttps://www.ianvisits.co.uk/calendar/we
+ ekend/
 LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
  \, West Smithfield\, London\, EC1A 7BE\, Barbican\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1153,8 +1357,8 @@ DTEND:20261004T150000Z
 SUMMARY:Barts Great Hall and Hogarth Stair Open Day
 DESCRIPTION:Explore the recently restored\, nearly 300-year-old Hogarth S
  tair and Great Hall inside St Barts Hospital. See two huge Hogarth mural
- s and the benefactors’ names.\nPrice: Check site\nhttps://www.ianvisit
- s.co.uk/calendar/weekend/
+ s and the benefactors’ names.\nhttps://www.ianvisits.co.uk/calendar/we
+ ekend/
 LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
  \, West Smithfield\, London\, EC1A 7BE\, Barbican\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1168,8 +1372,8 @@ DTEND:20261101T160000Z
 SUMMARY:Barts Great Hall and Hogarth Stair Open Day
 DESCRIPTION:Explore the recently restored\, nearly 300-year-old Hogarth S
  tair and Great Hall inside St Barts Hospital. See two huge Hogarth mural
- s and the benefactors’ names.\nPrice: Check site\nhttps://www.ianvisit
- s.co.uk/calendar/weekend/
+ s and the benefactors’ names.\nhttps://www.ianvisits.co.uk/calendar/we
+ ekend/
 LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
  \, West Smithfield\, London\, EC1A 7BE\, Barbican\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1183,8 +1387,8 @@ DTEND:20261206T160000Z
 SUMMARY:Barts Great Hall and Hogarth Stair Open Day
 DESCRIPTION:Explore the recently restored\, nearly 300-year-old Hogarth S
  tair and Great Hall inside St Barts Hospital. See two huge Hogarth mural
- s and the benefactors’ names.\nPrice: Check site\nhttps://www.ianvisit
- s.co.uk/calendar/weekend/
+ s and the benefactors’ names.\nhttps://www.ianvisits.co.uk/calendar/we
+ ekend/
 LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
  \, West Smithfield\, London\, EC1A 7BE\, Barbican\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1198,8 +1402,8 @@ DTEND:20270103T160000Z
 SUMMARY:Barts Great Hall and Hogarth Stair Open Day
 DESCRIPTION:Explore the recently restored\, nearly 300-year-old Hogarth S
  tair and Great Hall inside St Barts Hospital. See two huge Hogarth mural
- s and the benefactors’ names.\nPrice: Check site\nhttps://www.ianvisit
- s.co.uk/calendar/weekend/
+ s and the benefactors’ names.\nhttps://www.ianvisits.co.uk/calendar/we
+ ekend/
 LOCATION:Barts Great Hall and Hogarth Stair\, St Bartholomew’s Hospital
  \, West Smithfield\, London\, EC1A 7BE\, Barbican\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1213,8 +1417,7 @@ DTEND:20260906T160000Z
 SUMMARY:Cheap entry to the Painted Hall
 DESCRIPTION:Visit the Painted Hall on the first Sunday of each month\, wi
  th standard admission reduced to £5 and children aged 16 and under admi
- tted free with an adult.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+ tted free with an adult.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Old Royal Naval College\, 2 Cutty Sark Gardens\, London\, SE10 9
  LW\, Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1228,8 +1431,7 @@ DTEND:20261004T160000Z
 SUMMARY:Cheap entry to the Painted Hall
 DESCRIPTION:Visit the Painted Hall on the first Sunday of each month\, wi
  th standard admission reduced to £5 and children aged 16 and under admi
- tted free with an adult.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+ tted free with an adult.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Old Royal Naval College\, 2 Cutty Sark Gardens\, London\, SE10 9
  LW\, Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1243,8 +1445,7 @@ DTEND:20261101T170000Z
 SUMMARY:Cheap entry to the Painted Hall
 DESCRIPTION:Visit the Painted Hall on the first Sunday of each month\, wi
  th standard admission reduced to £5 and children aged 16 and under admi
- tted free with an adult.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+ tted free with an adult.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Old Royal Naval College\, 2 Cutty Sark Gardens\, London\, SE10 9
  LW\, Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1258,11 +1459,24 @@ DTEND:20261206T170000Z
 SUMMARY:Cheap entry to the Painted Hall
 DESCRIPTION:Visit the Painted Hall on the first Sunday of each month\, wi
  th standard admission reduced to £5 and children aged 16 and under admi
- tted free with an adult.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+ tted free with an adult.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Old Royal Naval College\, 2 Cutty Sark Gardens\, London\, SE10 9
  LW\, Greenwich\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c4d677495494831956855f0136ed3e5-occ_6ecbff763a87483386d378b5807
+ 111e1@thingstodoinyourcity
+DTSTAMP:20260904T205426Z
+DTSTART:20260906T090000Z
+DTEND:20260906T150000Z
+SUMMARY:Duck Pond Market
+DESCRIPTION:A monthly market with arts\, crafts and homeware. Stalls feat
+ ure locally\, ethically and sustainably made or sourced products.\nhttps
+ ://chiswickhouseandgardens.org.uk/whats-on/
+LOCATION:Chiswick House Forecourt\, Burlington Lane\, Chiswick\, London W
+ 4 2RP\, Chiswick\, London
+URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_e6c53b5c6051441c8dd8e1e33b0
@@ -1301,8 +1515,7 @@ DTEND:20260906T120000Z
 SUMMARY:Abney Park Chapel Open Day
 DESCRIPTION:View the newly restored chapel and hear Abney Park Trust's mi
  dday history talk. Drop in between 11:00 and 13:00\; dogs on leads are w
- elcome.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend
- /
+ elcome.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Abney Park\, Stoke Newington High Street\, London\, N16 0LH\, St
  oke Newington\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1316,8 +1529,7 @@ DTEND:20260906T150000Z
 SUMMARY:Angel Canal Festival
 DESCRIPTION:A festival with activities\, performances and attractions for
   all ages\, including free taster sessions\, a boat club open day and pa
- id boat rides.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/
- weekend/
+ id boat rides.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Islington Boat Club\, 16-34 Graham Street\, London\, N1 8JX\, Is
  lington\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1346,7 +1558,7 @@ DTEND:20260906T110000Z
 SUMMARY:Golden Hinde Shipyard Tour
 DESCRIPTION:Explore the active restoration space and tour the reconstruct
  ed ship\, learning about its design\, construction and ongoing conservat
- ion.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ ion.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:The Golden Hinde\, St Mary Overie Dock Cathedral Street London S
  E1 9DE\, Southwark\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1366,6 +1578,20 @@ LOCATION:The Golden Hinde\, Golden Hinde Ltd\, St Mary Overie Dock\, Cath
 URL:https://www.goldenhinde.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_68229cfa3b454be6a79eca951e1d06ad-occ_1081f6b4666b4fe38330b03bf91
+ 8483e@thingstodoinyourcity
+DTSTAMP:20260904T195716Z
+DTSTART:20260906T100000Z
+DTEND:20260906T120000Z
+SUMMARY:Sunday Assembly
+DESCRIPTION:A secular\, inclusive community gathering with guest speakers
+ \, spoken word performances and singalongs. Sunday Assembly London meets
+  at Backyard Comedy Club.\nhttps://backyardcomedyclub.co.uk/events/
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b74440f70b55495fa29bb7fb2e8ab2fb-occ_bfa2fcd3e9754436b4caed32fc9
  1f7f8@thingstodoinyourcity
 DTSTAMP:20260904T183040Z
@@ -1373,8 +1599,8 @@ DTSTART:20260906T113000Z
 DTEND:20260906T130000Z
 SUMMARY:Merchant Navy Day Commemorative Service
 DESCRIPTION:A commemorative service organised by the Merchant Navy Associ
- ation. All are welcome to attend.\nPrice: Check site\nhttps://www.ianvis
- its.co.uk/calendar/weekend/
+ ation. All are welcome to attend.\nhttps://www.ianvisits.co.uk/calendar/
+ weekend/
 LOCATION:Trinity Square Gardens\, Trinity Square Gardens Tower Hill Londo
  n EC3N 4AJ\, Tower Hill\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1388,8 +1614,7 @@ DTEND:20260906T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1403,8 +1628,7 @@ DTEND:20260913T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1418,8 +1642,7 @@ DTEND:20260920T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1433,8 +1656,7 @@ DTEND:20260927T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1448,8 +1670,7 @@ DTEND:20261004T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1463,8 +1684,7 @@ DTEND:20261011T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1478,8 +1698,7 @@ DTEND:20261018T140000Z
 SUMMARY:Rock 'n' Roll Walking Tour of Soho
 DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
  the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: Check site\nhttps://www.ianvisits.co.uk
- /calendar/weekend/
+  to major music artists.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1493,7 +1712,7 @@ DTEND:20260906T173000Z
 SUMMARY:Beginner Sea Kayaking Sessions
 DESCRIPTION:Try kayaking on the River Thames in beginner taster sessions 
  run with TideFest 2026. Sessions last about 1hr 30 mins and are for over
- -18s.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ -18s.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Chelsea Kayak Club\, Kew Bridge Arches\, Strand-On-The-Green\, L
  ondon\, W4 3NG\, Chiswick\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1507,8 +1726,8 @@ DTEND:20260906T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1522,8 +1741,8 @@ DTEND:20260913T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1537,8 +1756,8 @@ DTEND:20260927T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1552,8 +1771,8 @@ DTEND:20261004T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1567,8 +1786,8 @@ DTEND:20261011T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1582,8 +1801,8 @@ DTEND:20261018T150000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1597,8 +1816,8 @@ DTEND:20261025T160000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1612,8 +1831,8 @@ DTEND:20261101T160000Z
 SUMMARY:Death\, Debauchery & Doctors in Soho
 DESCRIPTION:A two-hour Soho walk explores bawdy houses\, body snatchers a
  nd benevolent doctors. The route covers historical sites including workh
- ouses\, anatomy schools and specialist hospitals.\nPrice: Check site\nht
- tps://www.ianvisits.co.uk/calendar/weekend/
+ ouses\, anatomy schools and specialist hospitals.\nhttps://www.ianvisits
+ .co.uk/calendar/weekend/
 LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
  A 1DG\, Bloomsbury\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1627,7 +1846,7 @@ DTEND:20260906T150000Z
 SUMMARY:Little Venice – the pursuit of pleasure
 DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
  ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ h.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
   Maida Vale\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1641,7 +1860,7 @@ DTEND:20260913T150000Z
 SUMMARY:Little Venice – the pursuit of pleasure
 DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
  ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ h.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
   Maida Vale\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1655,7 +1874,7 @@ DTEND:20260920T150000Z
 SUMMARY:Little Venice – the pursuit of pleasure
 DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
  ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ h.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
   Maida Vale\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1669,7 +1888,7 @@ DTEND:20260927T150000Z
 SUMMARY:Little Venice – the pursuit of pleasure
 DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
  ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ h.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
   Maida Vale\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1683,7 +1902,7 @@ DTEND:20260906T150000Z
 SUMMARY:Pattern 10: Magic of the City
 DESCRIPTION:Explore Christopher Alexander’s ideas on a walk around Cove
  nt Garden\, with tangents\, diversions and a tribute to Conrad Taylor.\n
- Price: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ https://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:The Courtauld Gallery\, Somerset House\, Strand\, London\, WC2R 
  0RN\, Strand\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1712,7 +1931,7 @@ DTEND:20260906T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1726,7 +1945,7 @@ DTEND:20260913T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1740,7 +1959,7 @@ DTEND:20260920T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1754,7 +1973,7 @@ DTEND:20260927T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1768,7 +1987,7 @@ DTEND:20261004T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1782,7 +2001,7 @@ DTEND:20261011T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
@@ -1796,7 +2015,7 @@ DTEND:20261018T150000Z
 SUMMARY:Sunday Tours of Brompton Cemetery
 DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
  ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: Check site\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ Park.\nhttps://www.ianvisits.co.uk/calendar/weekend/
 LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
  London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
