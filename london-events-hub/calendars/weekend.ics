@@ -1555,12 +1555,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d0895f7bcea94a76b024e271e8c2f871-occ_467ce135bc434ddba554a227ccb
  97c37@thingstodoinyourcity
-DTSTAMP:20260905T055256Z
+DTSTAMP:20260905T181113Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261225
 SUMMARY:Friday Night Comedy
 DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
- ians at affordable prices.\nhttps://www.londontheatres.com/events/comedy
+ ians. The event is advertised at affordable prices.\nhttps://www.londont
+ heatres.com/events/comedy
+LOCATION:Jk Comedy Club Leicester Square\, Leicester Square\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d0895f7bcea94a76b024e271e8c2f871-occ_f82fc8a5cf324e2d986af7f0188
+ 0f39f@thingstodoinyourcity
+DTSTAMP:20260905T181113Z
+DTSTART:20260911T200000Z
+SUMMARY:Friday Night Comedy
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. The event is advertised at affordable prices.\nhttps://www.londont
+ heatres.com/events/comedy
 LOCATION:Jk Comedy Club Leicester Square\, Leicester Square\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
