@@ -125,6 +125,20 @@ LOCATION:V&A\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7b657ac20aaf4b68a0bbc598ed559509-occ_0febf63059c8469ca261d0ce143
+ 7e05f@thingstodoinyourcity
+DTSTAMP:20260905T041743Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260920
+SUMMARY:Benton End: A Paradise of Pollen and Paint
+DESCRIPTION:Explore Benton End\, the radical 1950s Suffolk art school led
+  by Cedric Morris and Arthur Lett-Haines. See paintings\, drawings\, pho
+ tographs and personal objects from its heyday.\nhttps://www.gardenmuseum
+ .org.uk/whats-on
+LOCATION:Garden Museum\, 5 Lambeth Palace Road\, London SE1 7LB\, London
+URL:https://www.gardenmuseum.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e479dea28f00401fa855dc3ae4172fa9-occ_f9f43c9111e4448e87993f84d4f
  eb4ba@thingstodoinyourcity
 DTSTAMP:20260905T003222Z
@@ -569,20 +583,6 @@ LOCATION:E1 London\, East London\, London
 URL:https://e1ldn.co/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2a5c55189bd54314bb0ac6e780d3a6de-occ_adc4cc3e13404cfe96219522c75
- 3a7ce@thingstodoinyourcity
-DTSTAMP:20260904T131849Z
-DTSTART:20260904T210000Z
-DTEND:20260905T023000Z
-SUMMARY:Internet Friends: Clubbing Like the 2010s Again
-DESCRIPTION:A 2010–2015 club night featuring EDM\, dubstep and pop\, wi
- th music from Skrillex\, N-Dubz\, Avicii and more. On-brand outfits are 
- encouraged.\nPrice: FROM £5\nhttps://www.oslohackney.com/events/
-LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
- don
-URL:https://www.oslohackney.com/events/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4186590d721348689cec69863c96573c-occ_87230349dae7488a95f6106a0c7
  de577@thingstodoinyourcity
 DTSTAMP:20260904T215100Z
@@ -918,13 +918,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_40d27df139a8424d8ec0755aa09d4534-occ_deb311aa478d48c3a7d091fa35a
  c6fcc@thingstodoinyourcity
-DTSTAMP:20260904T145727Z
+DTSTAMP:20260905T035405Z
 DTSTART:20260905T090000Z
 DTEND:20260905T153000Z
 SUMMARY:The Kensington Botanical Market
-DESCRIPTION:A curated market where gardening\, design\, art and vintage i
- ntersect. Find plants\, botanical prints\, ceramics\, tools and vintage 
- garden furniture.\nPrice: Free\nhttps://londoncheapo.com/events/
+DESCRIPTION:A curated market bringing together plants\, botanical art\, c
+ eramics\, tools and vintage garden furniture. It connects gardening\, de
+ sign and outdoor living.\nPrice: Free\nhttps://londoncheapo.com/events/
 LOCATION:Phillimore Walk\, London\, W8 7RG\, Kensington\, London
 URL:https://londoncheapo.com/events/
 END:VEVENT
@@ -1227,6 +1227,18 @@ LOCATION:Tequila Mockingbird Charing Cross\, 42 William IV Street\, Londo
 URL:https://feverup.com/en/london/nightlife-clubs
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_72a0fb11815a4c8191a67d06aad636fd-occ_3d71937a41cc4117950e8891c70
+ 575d5@thingstodoinyourcity
+DTSTAMP:20260905T031853Z
+DTSTART:20260905T150000Z
+SUMMARY:Fighting Spirit: E.J.'s Warriors
+DESCRIPTION:E.J.'s Warrior Karate Academy face personal challenges in com
+ petitions. The film is directed by Ellis Jennings Jr. and runs for 103 m
+ inutes.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, Dalston\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_724a29bbcca7441485c43aa3eda2517f-occ_00cc0011a43c452f8c83716d9ae
  6db58@thingstodoinyourcity
 DTSTAMP:20260904T191205Z
@@ -1314,6 +1326,48 @@ LOCATION:Venue:\nMain House\, Lyric Square\, King St\, London W6 0QL\, Lo
 URL:https://lyric.co.uk/whats-on/shows/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f0896a435fd04589b2690dcbab4b43bf-occ_3d789303e34a4119b6100b616e7
+ b28fc@thingstodoinyourcity
+DTSTAMP:20260905T023901Z
+DTSTART:20260905T183000Z
+DTEND:20260906T020000Z
+SUMMARY:The Original Shoreditch Pub Crawl
+DESCRIPTION:Visit five Shoreditch bar and club venues\, with a compliment
+ ary shot and drink discounts at each. Hosts capture photos during the ni
+ ght.\nPrice: From £19.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:The Star In Shoreditch\, 243 Old St\, EC1V 9EY\, Shoreditch\, Lo
+ ndon
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0896a435fd04589b2690dcbab4b43bf-occ_3867aa49f1d4447889ed9fc0e98
+ e16ee@thingstodoinyourcity
+DTSTAMP:20260905T023901Z
+DTSTART:20260912T183000Z
+DTEND:20260913T020000Z
+SUMMARY:The Original Shoreditch Pub Crawl
+DESCRIPTION:Visit five Shoreditch bar and club venues\, with a compliment
+ ary shot and drink discounts at each. Hosts capture photos during the ni
+ ght.\nPrice: From £19.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:The Star In Shoreditch\, 243 Old St\, EC1V 9EY\, Shoreditch\, Lo
+ ndon
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0896a435fd04589b2690dcbab4b43bf-occ_7a1d01d168aa49cd97c602fb018
+ 0dbbc@thingstodoinyourcity
+DTSTAMP:20260905T023901Z
+DTSTART:20260919T183000Z
+DTEND:20260920T020000Z
+SUMMARY:The Original Shoreditch Pub Crawl
+DESCRIPTION:Visit five Shoreditch bar and club venues\, with a compliment
+ ary shot and drink discounts at each. Hosts capture photos during the ni
+ ght.\nPrice: From £19.00\nhttps://feverup.com/en/london/nightlife-clubs
+LOCATION:The Star In Shoreditch\, 243 Old St\, EC1V 9EY\, Shoreditch\, Lo
+ ndon
+URL:https://feverup.com/en/london/nightlife-clubs
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_91aaf3fa9132481ea055e2112a6713cb-occ_7957cf06d37c4e9381a0948f775
  80a06@thingstodoinyourcity
 DTSTAMP:20260904T180046Z
@@ -1325,6 +1379,18 @@ DESCRIPTION:Live vocals and feel-good anthems\, with a chilled first set
 LOCATION:The Bar\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\, Lo
  ndon
 URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_86005d8cd8c04c6285661fe749b5c993-occ_72240cb0969a44aa81ebc267331
+ 69976@thingstodoinyourcity
+DTSTAMP:20260905T024916Z
+DTSTART:20260905T191500Z
+SUMMARY:Valkyries + Q&A
+DESCRIPTION:A film follows two young MMA fighters in Spain pursuing profe
+ ssional careers. Their journey explores transformation\, bond\, training
+  and personal sacrifice.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:107 Kingsland High Street\, London\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a151422f92424ed08f5d9f6a97873762-occ_dc31751c90fc4487863b11a2c8e
@@ -1355,6 +1421,19 @@ DESCRIPTION:A hopeless romantic uses a mysterious wish to win his crush's
  0.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fe6a547464e148f3971cf002abf2575b-occ_2d4d31aa931e4295b0bddda0522
+ 501ae@thingstodoinyourcity
+DTSTAMP:20260905T024854Z
+DTSTART:20260905T210000Z
+DTEND:20260906T010000Z
+SUMMARY:Heads Will Roll Feat. DJ Dan Grey
+DESCRIPTION:DJ Dan Grey delivers indie hits and electro kicks for a late-
+ night dance floor set.\nPrice: Free Entry... No Ticket Required!\nhttps:
+ //www.vennstreetrecords.com/whats-on
+LOCATION:Venn Street Records\, 78 Venn Street London SW4 0BD\, London
+URL:https://www.vennstreetrecords.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3c41d51775b645dab252934c14fe2a06-occ_c24aa14c6186478bb259bf3e20d
@@ -1567,6 +1646,19 @@ LOCATION:Chiswick House Forecourt\, Burlington Lane\, Chiswick\, London W
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3d7369191cfb415294805981be4bcbae-occ_cf1a29dbfc7b42bba2395c79aac
+ 9257d@thingstodoinyourcity
+DTSTAMP:20260905T031050Z
+DTSTART:20260906T090000Z
+SUMMARY:Fighting Spirit: Sunday Short Films
+DESCRIPTION:Short films from multiple countries with English subtitles\, 
+ plus a martial arts demonstration during the interval.\nhttps://riocinem
+ a.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, London\, E8 2PB\, Dalst
+ on\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_e6c53b5c6051441c8dd8e1e33b0
  55d39@thingstodoinyourcity
 DTSTAMP:20260904T154832Z
@@ -1593,6 +1685,19 @@ DESCRIPTION:Learn to mix\, knead and layer dough\, then make custard and
 LOCATION:Santa Nata\, 92 Turbine Hall\, London SW11 8BU\, Battersea\, Lon
  don
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_98247e7b5cdb455290352d19be77d934-occ_367154aac7914700ac8fc0a69c9
+ a59e3@thingstodoinyourcity
+DTSTAMP:20260905T022100Z
+DTSTART:20260906T100000Z
+DTEND:20260906T162000Z
+SUMMARY:ADHD\, Autism & Burnout Summit
+DESCRIPTION:A one-day online summit with talks and workshops on ADHD\, au
+ tism and neurodivergent burnout. Learn practical\, evidence-based tools 
+ from experts.\nPrice: £29 - £36\nhttps://www.seedtalks.co.uk/
+LOCATION:Online Event\, London
+URL:https://www.seedtalks.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_11364a9f0d5c47c48b1a66e255d6d9f5-occ_5c993d9262e446e49be25509447
@@ -2197,6 +2302,57 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e4c27f20662f4186bf44c9a835ec13f2-occ_7b18a4f787834b09958c3114eaf
+ fbcf2@thingstodoinyourcity
+DTSTAMP:20260905T023600Z
+DTSTART:20260906T160000Z
+DTEND:20260906T190000Z
+SUMMARY:How to Read Tarot Cards
+DESCRIPTION:Learn tarot fundamentals through three Rider Waite Smith read
+ ings with Prof Diane Purkiss\, exploring cards\, spreads\, symbolism and
+  common myths.\nPrice: £17 - £26.50\nhttps://www.seedtalks.co.uk/
+LOCATION:Online event\, London
+URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e4c27f20662f4186bf44c9a835ec13f2-occ_130fcb428bfa430fbcb49859aff
+ ad3ce@thingstodoinyourcity
+DTSTAMP:20260905T023600Z
+DTSTART:20260906T170000Z
+DTEND:20260906T190000Z
+SUMMARY:How to Read Tarot Cards
+DESCRIPTION:Learn tarot fundamentals through three Rider Waite Smith read
+ ings with Prof Diane Purkiss\, exploring cards\, spreads\, symbolism and
+  common myths.\nPrice: £17 - £26.50\nhttps://www.seedtalks.co.uk/
+LOCATION:Online event\, London
+URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3b8c128747434a95ae5c2eb68df9bdf1-occ_a4585563ef51457781bea8d8b94
+ 25015@thingstodoinyourcity
+DTSTAMP:20260905T022813Z
+DTSTART:20260906T160000Z
+SUMMARY:Perfectionism & The Fear of Failure
+DESCRIPTION:Psychotherapist Hannah Paskin explores perfectionism\, fear o
+ f failure and practical CBT strategies\, followed by Q&A. The workshop i
+ s for ages 16+.\nhttps://www.seedtalks.co.uk/
+LOCATION:Online Event\, London
+URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3b8c128747434a95ae5c2eb68df9bdf1-occ_af86e61ef03d42ef9120d1af40b
+ 29950@thingstodoinyourcity
+DTSTAMP:20260905T022813Z
+DTSTART:20260906T170000Z
+DTEND:20260906T190000Z
+SUMMARY:Perfectionism & The Fear of Failure
+DESCRIPTION:Psychotherapist Hannah Paskin explores perfectionism\, fear o
+ f failure and practical CBT strategies\, followed by Q&A. The workshop i
+ s for ages 16+.\nhttps://www.seedtalks.co.uk/
+LOCATION:Online Event\, London
+URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_00c30f11408b4201b526a97ee7fd4211-occ_2ebdb7dfbb0741798277207dd84
  73bda@thingstodoinyourcity
 DTSTAMP:20260904T135836Z
@@ -2238,6 +2394,33 @@ DESCRIPTION:A 1980 film about three female employees who turn the tables
  enixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_049d654c4b4a49e19febfddf1efad438-occ_acb7e00fc72f47e2927e61657e4
+ 3bf50@thingstodoinyourcity
+DTSTAMP:20260905T025443Z
+DTSTART:20260906T195000Z
+DTEND:20260906T221600Z
+SUMMARY:Twilight of the Warriors + Through the Vast World
+DESCRIPTION:A special-event double bill pairing two Hong Kong films: Thro
+ ugh the Vast World and Twilight of the Warriors: Walled In.\nhttps://rio
+ cinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Screen 2\, 107 Kingsland High Street\, London\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bbe641ed942d4e4996ff65ea03b6784b-occ_e5ac53e3da964956a7b5b710172
+ 427f5@thingstodoinyourcity
+DTSTAMP:20260905T025206Z
+DTSTART:20260906T200000Z
+DTEND:20260906T223000Z
+SUMMARY:Raise The Roof ft. Keshaah Duo
+DESCRIPTION:A live band performs singalong hits spanning rock anthems and
+  guilty-classics. Bring your mates and warm up your vocal cords.\nPrice:
+  Free Entry... No Ticket Required!\nhttps://www.vennstreetrecords.com/wh
+ ats-on
+LOCATION:Venn Street Records\, 78 Venn Street London SW4 0BD\, London
+URL:https://www.vennstreetrecords.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_68fad971685d46f2ac9f622e235e090e-occ_1a19b30d72ca480d92f67fd4d4e
@@ -2392,5 +2575,33 @@ DESCRIPTION:Explore a Roman house and baths beneath the City of London on
 LOCATION:Billingsgate Roman House and Baths\, 101 Lower Thames Street\, L
  ondon\, EC3R 6DL\, City of London\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_939ab402485f49af928be631702cd2fd-occ_b67ed3446f7742c5a11be3b01c6
+ 17284@thingstodoinyourcity
+DTSTAMP:20260905T022541Z
+DTSTART;VALUE=DATE:20270109
+SUMMARY:Queen by Candlelight
+DESCRIPTION:A candlelit celebration of Queen’s greatest anthems\, featu
+ ring West End vocalists and a live rock band. Sing along to classics inc
+ luding Bohemian Rhapsody and We Are The Champions.\nhttps://www.atgticke
+ ts.com/whats-on/
+LOCATION:Woking Theatre\, 93 The Broadway\, Wimbledon\, London SW19 1QG\,
+  UK\, Woking\, London
+URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_892c8f8c1d0c4e368671d24db29aa55b-occ_ab9bd5ce21cf434a9e0fb13b02a
+ a0fb8@thingstodoinyourcity
+DTSTAMP:20260905T021337Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261114
+SUMMARY:Operation Mincemeat: A New Musical
+DESCRIPTION:An Olivier Award-winning musical about a secret 1943 mission 
+ involving a stolen corpse\, fake love letter and Ian Fleming.\nhttps://w
+ ww.atgtickets.com/whats-on/
+LOCATION:Fortune Theatre\, 29 Russell St\, London\, WC2B 5HH\, UK\, Coven
+ t Garden\, London
+URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 END:VCALENDAR
