@@ -650,6 +650,19 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4806e598a19b4462b8c2f0a70a44701d-occ_23b1fe68e1684a2da91de8c3cc3
+ 30ff0@thingstodoinyourcity
+DTSTAMP:20260905T213254Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20261101
+SUMMARY:Voices in the Room
+DESCRIPTION:See three contemporary artworks by Rachel Kneebone\, Tamsin v
+ an Essen and Grayson Perry. The works were recently acquired by the Foun
+ dling Museum.\nhttps://cockpitstudios.org/whats-on
+LOCATION:Foundling Museum\, London
+URL:https://cockpitstudios.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6a00aea55d494a189cee68ea6271a9b8-occ_573c7bcf124e4bdd8a0521d0c9b
  fc26e@thingstodoinyourcity
 DTSTAMP:20260904T174114Z
@@ -2125,19 +2138,6 @@ LOCATION:London’s Bridges: From Westminster Bridge to Tower Bridge\, Lo
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_02c797302cec4503a01a09c7282e5357-occ_09e0721e4d8d4fb491793bde952
- ee217@thingstodoinyourcity
-DTSTAMP:20260904T215728Z
-DTSTART;VALUE=DATE:20260905
-DTEND:20260905T210000Z
-SUMMARY:Los De Casa Rooftop Day Party
-DESCRIPTION:Casa Colectiva presents a rooftop day party at EGG London\, f
- eaturing house music and a curated lineup including Josh Torlot\, KEMADA
-  and EREN.\nhttps://egglondon.co.uk/events/
-LOCATION:EGG London\, 5-13 Vale Royal\, London N7 9AP\, London
-URL:https://egglondon.co.uk/events/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ab6a8a432fe6488a8a0cbaa8dbd7db68-occ_db0f38c563a145f1b19d33bb933
  9da37@thingstodoinyourcity
 DTSTAMP:20260904T230536Z
@@ -2987,52 +2987,6 @@ LOCATION:Screen 2\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
  ormance_699707.TcsSection_720
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_04692c410d984a8e800a2b0a61cfae4a-occ_81e14845c63648dba96d5dd980c
- ec20e@thingstodoinyourcity
-DTSTAMP:20260905T053919Z
-DTSTART:20260905T180000Z
-DTEND:20260905T210000Z
-SUMMARY:Estelares
-DESCRIPTION:A live performance at Oslo\, Hackney. Entry is for ages 16+\,
-  with under-18s accompanied by an adult.\nPrice: £22.50\nhttps://www.os
- lohackney.com/events/estelares
-LOCATION:OSLO\, 1A AMHURST ROAD\, HACKNEY\, LONDON E8 1LL\, Hackney\, Lon
- don
-URL:https://www.oslohackney.com/events/estelares
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_28b209150d5248f098ff79d2e77a934e-occ_4f1894ed1ebc472697b51171c6e
- 7b1de@thingstodoinyourcity
-DTSTAMP:20260905T062638Z
-DTSTART:20260905T183000Z
-DTEND:20260905T213000Z
-SUMMARY:Saturdays at Backyard
-DESCRIPTION:A weekly comedy night featuring UK and international comedian
- s. The venue offers food\, drinks\, games and post-show socialising.\nPr
- ice: £16 - £24\; Standard £16\, £17.60 including £1.60 fee\nhttps:/
- /backyardcomedyclub.co.uk/event/link?ceId=f926764d-d2a5-4071-b700-18aebc
- c4c9df
-LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
- E2 0EL\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/event/link?ceId=f926764d-d2a5-4071-b
- 700-18aebcc4c9df
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7faf639753e84e7cbcb04b08a230f2a2-occ_197b99a6655046f4a77190ac184
- d55a0@thingstodoinyourcity
-DTSTAMP:20260905T072532Z
-DTSTART:20260905T183000Z
-DTEND:20260905T213000Z
-SUMMARY:Silent Disco at The British Museum
-DESCRIPTION:A silent disco with UK DJs\, LED headphones and three music c
- hannels in the British Museum’s illuminated Great Court.\nPrice: £35.
- 95 + £2.92 booking fee\; £41.95 + £3.80 booking fee\; £45.75\nhttps:
- //feverup.com/en/london/nightlife-clubs
-LOCATION:The British Museum\, Great Russell St\, London WC1B 3DG\, UK\, W
- C1B 3DG\, London
-URL:https://feverup.com/en/london/nightlife-clubs
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_91aaf3fa9132481ea055e2112a6713cb-occ_7957cf06d37c4e9381a0948f775
