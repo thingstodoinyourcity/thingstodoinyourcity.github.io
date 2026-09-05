@@ -304,18 +304,33 @@ LOCATION:Ambassadors Theatre\, West St\, London WC2H 9ND\, Leicester Squa
 URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9198730420a04d859f03ae03b51ae737-occ_9213fb559e0242dca294b7df7ac
- a7102@thingstodoinyourcity
-DTSTAMP:20260904T154830Z
+UID:cand_9198730420a04d859f03ae03b51ae737-occ_118c2c59e8e841deb8873e624e4
+ 488b2@thingstodoinyourcity
+DTSTAMP:20260905T080706Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260906
 SUMMARY:Greenwich+Docklands International Festival
 DESCRIPTION:A free outdoor theatre and performing arts festival across Gr
- eenwich\, Thamesmead and East London\, featuring work from over 25 compa
- nies on the theme ‘WE MOVE’.\nPrice: Free\nhttps://londontheinside.c
- om/whats-on-this-week/
+ eenwich\, Thamesmead and East London. The 2026 programme features over 2
+ 5 companies and the theme ‘WE MOVE’.\nPrice: FREE\nhttps://londonthe
+ inside.com/whats-on-this-week/
 LOCATION:Various spaces across Greenwich\, Thamesmead and East London\, G
- reenwich\, Thamesmead and East London\, London
+ REENWICH\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9198730420a04d859f03ae03b51ae737-occ_9213fb559e0242dca294b7df7ac
+ a7102@thingstodoinyourcity
+DTSTAMP:20260905T080706Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260906
+SUMMARY:Greenwich+Docklands International Festival
+DESCRIPTION:A free outdoor theatre and performing arts festival across Gr
+ eenwich\, Thamesmead and East London. The 2026 programme features over 2
+ 5 companies and the theme ‘WE MOVE’.\nPrice: FREE\nhttps://londonthe
+ inside.com/whats-on-this-week/
+LOCATION:Various spaces across Greenwich\, Thamesmead and East London\, G
+ REENWICH\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,13 +1091,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e7f97784ddf842b4b4934469d132706b-occ_1a051af1c1fe4c79bc073b16b8f
  8744a@thingstodoinyourcity
-DTSTAMP:20260904T154321Z
+DTSTAMP:20260905T081959Z
 DTSTART:20260905T090000Z
 DTEND:20260905T153000Z
 SUMMARY:Kensington Big Flea & Botanical Market
-DESCRIPTION:A curated street market combining vintage homewares\, fashion
-  and furniture with plants\, flowers\, garden design and outdoor living.
- \nPrice: FREE ENTRY\nhttps://judysvintagefair.com/events
+DESCRIPTION:A curated street market pairing vintage homewares\, fashion a
+ nd furniture with plants\, flowers\, garden design and outdoor living. E
+ ntry is free for all.\nPrice: FREE ENTRY\nhttps://judysvintagefair.com/e
+ vents
+LOCATION:Phillimore Walk\, Phillimore Walk\, Phillimore Walk\, London\, W
+ 8\, Kensington\, London
+URL:https://judysvintagefair.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e7f97784ddf842b4b4934469d132706b-occ_d8a30c154dd04ead8f5072c12ef
+ af7ad@thingstodoinyourcity
+DTSTAMP:20260905T081959Z
+DTSTART:20260926T090000Z
+DTEND:20260926T153000Z
+SUMMARY:Kensington Big Flea & Botanical Market
+DESCRIPTION:A curated street market pairing vintage homewares\, fashion a
+ nd furniture with plants\, flowers\, garden design and outdoor living. E
+ ntry is free for all.\nPrice: FREE ENTRY\nhttps://judysvintagefair.com/e
+ vents
 LOCATION:Phillimore Walk\, Phillimore Walk\, Phillimore Walk\, London\, W
  8\, Kensington\, London
 URL:https://judysvintagefair.com/events
@@ -1432,6 +1463,37 @@ LOCATION:Rise Climbing\, Unit 6 Caxton Works\, Hoy Street\, London\, E16
 URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_33ed5734c63c487da819be32507eafac-occ_d0440dcd53d142899b6efc41415
+ c0ede@thingstodoinyourcity
+DTSTAMP:20260905T083754Z
+DTSTART:20260905T103000Z
+DTEND:20260905T123300Z
+SUMMARY:Coyote vs. Acme
+DESCRIPTION:Wile E. Coyote hires a billboard lawyer to sue Acme after its
+  products repeatedly foil his pursuit of the Roadrunner. Runtime: 103 mi
+ nutes.\nPrice: Standard £4.00\; Child £4.00\; Concession £4.00\; Stud
+ ent £4.00\; Carer (CEA Card) £0.00\; Premium Standard £4.00\; Wheelch
+ air Standard £4.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon
+ .dll/WhatsOn
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_33ed5734c63c487da819be32507eafac-occ_c1050c4d4238470a99b36cd628e
+ 92e1f@thingstodoinyourcity
+DTSTAMP:20260905T083754Z
+DTSTART:20260906T103000Z
+SUMMARY:Coyote vs. Acme
+DESCRIPTION:Wile E. Coyote hires a billboard lawyer to sue Acme after its
+  products repeatedly foil his pursuit of the Roadrunner. Runtime: 103 mi
+ nutes.\nPrice: Standard £4.00\; Child £4.00\; Concession £4.00\; Stud
+ ent £4.00\; Carer (CEA Card) £0.00\; Premium Standard £4.00\; Wheelch
+ air Standard £4.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon
+ .dll/WhatsOn
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a85c51fa916a40fab5c4d28c1040ffa6-occ_f690f01f0a0c41958110c35c60b
  c4484@thingstodoinyourcity
 DTSTAMP:20260905T052218Z
@@ -1489,6 +1551,20 @@ DESCRIPTION:Learn hand sewing\, repair and visible mending techniques in
 LOCATION:Rise Climbing\, Unit 6 Caxton Works\, Hoy Street\, London\, E16 
  1ZA\, London
 URL:https://royaldocks.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e80d33a42df7484c88680ac1cf5037b6-occ_3e8339cb2b8a468da4744f46d72
+ 49c64@thingstodoinyourcity
+DTSTAMP:20260905T084214Z
+DTSTART:20260905T124500Z
+DTEND:20260905T143600Z
+SUMMARY:Blue Heron
+DESCRIPTION:A family’s hopeful fresh start on Vancouver Island is shatt
+ ered as their eldest child begins acting dangerously. The film is set in
+  the late 1990s.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dl
+ l/WhatsOn
+LOCATION:Screen 2\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0e208d57cd584188a4b2f462f5d8c23a-occ_18f90bc87cce484db11146534bc
@@ -1613,6 +1689,39 @@ DESCRIPTION:Robin Trower performs at O2 Shepherds Bush Empire. Tickets ar
 LOCATION:O2 Shepherds Bush Empire\, Shepherds Bush Green\, London\, Great
  er London\, W12 8TT\, United Kingdom\, London\, Greater London\, London
 URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_88a3fa9922064e87bea4e84783f0dfba-occ_536e771853e9441993e45b5b0a7
+ de465@thingstodoinyourcity
+DTSTAMP:20260905T085048Z
+DTSTART:20260905T130000Z
+DTEND:20260905T144200Z
+SUMMARY:Super Nature + Director Q&A
+DESCRIPTION:A Super 8 nature documentary exploring global connections to 
+ the natural world. Includes a live conversation with director Ed Sayers 
+ after the screening.\nPrice: Standard £4.00\; Child £4.00\; Concession
+  £4.00\; Student £4.00\; Carer (CEA Card) £0.00\; Premium Standard £
+ 4.00\; Premium Carer (CEA Card) £0.00\; Wheelchair Standard £4.00\; Wh
+ eelchair Carer (CEA Card) £0.00\nhttps://www.phoenixcinema.co.uk/Phoeni
+ xCinemaLondon.dll/WhatsOn
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_88a3fa9922064e87bea4e84783f0dfba-occ_6d7166ad6a494141a440a9be4c1
+ 2ced8@thingstodoinyourcity
+DTSTAMP:20260905T085048Z
+DTSTART:20260906T133000Z
+SUMMARY:Super Nature + Director Q&A
+DESCRIPTION:A Super 8 nature documentary exploring global connections to 
+ the natural world. Includes a live conversation with director Ed Sayers 
+ after the screening.\nPrice: Standard £4.00\; Child £4.00\; Concession
+  £4.00\; Student £4.00\; Carer (CEA Card) £0.00\; Premium Standard £
+ 4.00\; Premium Carer (CEA Card) £0.00\; Wheelchair Standard £4.00\; Wh
+ eelchair Carer (CEA Card) £0.00\nhttps://www.phoenixcinema.co.uk/Phoeni
+ xCinemaLondon.dll/WhatsOn
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dcf7e85ec367446ab7da404d1ed3db0a-occ_421185a871394646bc211b49d0b
@@ -1933,15 +2042,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_54e2ec029f6446778d40cf40c5770a7a-occ_697a1c825187442abebaf47904c
  b03f3@thingstodoinyourcity
-DTSTAMP:20260904T152548Z
+DTSTAMP:20260905T080125Z
 DTSTART:20260905T183000Z
-SUMMARY:THE CHILDREN
+SUMMARY:The Children
 DESCRIPTION:Lucy Kirkwood’s darkly funny drama follows three survivors 
  confronting old secrets and their debt to the next generation. Directed 
  by Rachel O’Riordan.\nPrice: £10 - £32 + £2 restoration levy\nhttps
  ://lyric.co.uk/whats-on/shows/
-LOCATION:Venue:\nMain House\, Lyric Square\, King St\, London W6 0QL\, Lo
- ndon
+LOCATION:Main House\, Lyric Square\, King St\, London W6 0QL\, London
 URL:https://lyric.co.uk/whats-on/shows/
 END:VEVENT
 BEGIN:VEVENT
@@ -2364,29 +2472,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_e6c53b5c6051441c8dd8e1e33b0
  55d39@thingstodoinyourcity
-DTSTAMP:20260904T154832Z
+DTSTAMP:20260905T081333Z
 DTSTART:20260906T090000Z
 SUMMARY:Pastel de Nata Making Masterclass
-DESCRIPTION:Learn to mix\, knead and layer dough\, then make custard and 
- form pastry cases. Each session includes a tart\, tea or coffee and eigh
- t tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-on
- -this-week/
-LOCATION:Santa Nata\, 92 Turbine Hall\, London SW11 8BU\, Battersea\, Lon
- don
+DESCRIPTION:Learn to mix\, knead and layer dough\, then form pastry cases
+  and make creamy custard. Sessions include a tart\, tea or coffee and ei
+ ght tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-
+ on-this-week/
+LOCATION:Santa Nata\, Santa Nata\, Battersea Power Station\, 92 Turbine H
+ all\, London SW11 8BU\, Battersea\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b4cf33b35977422a9a161b445bff62c0-occ_4105c6a257164b6698caa473d59
  5aa0d@thingstodoinyourcity
-DTSTAMP:20260904T154832Z
+DTSTAMP:20260905T081333Z
 DTSTART:20260906T103000Z
 SUMMARY:Pastel de Nata Making Masterclass
-DESCRIPTION:Learn to mix\, knead and layer dough\, then make custard and 
- form pastry cases. Each session includes a tart\, tea or coffee and eigh
- t tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-on
- -this-week/
-LOCATION:Santa Nata\, 92 Turbine Hall\, London SW11 8BU\, Battersea\, Lon
- don
+DESCRIPTION:Learn to mix\, knead and layer dough\, then form pastry cases
+  and make creamy custard. Sessions include a tart\, tea or coffee and ei
+ ght tarts to take home.\nPrice: £49\nhttps://londontheinside.com/whats-
+ on-this-week/
+LOCATION:Santa Nata\, Santa Nata\, Battersea Power Station\, 92 Turbine H
+ all\, London SW11 8BU\, Battersea\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
