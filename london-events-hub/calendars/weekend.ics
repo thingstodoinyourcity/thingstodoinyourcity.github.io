@@ -2944,22 +2944,6 @@ LOCATION:London Comedy Store\, London’s West End\, London
 URL:https://london.thecomedystore.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_049d654c4b4a49e19febfddf1efad438-occ_acb7e00fc72f47e2927e61657e4
- 3bf50@thingstodoinyourcity
-DTSTAMP:20260905T025443Z
-DTSTART:20260906T195000Z
-DTEND:20260906T221600Z
-SUMMARY:Twilight of the Warriors + Through the Vast World
-DESCRIPTION:A special-event double bill pairing two Hong Kong films: Thro
- ugh the Vast World and Twilight of the Warriors: Walled In.\nhttps://rio
- cinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.T
- csWebMenuItem_0.TcsWebTab_0.TcsPerformance_2803038.TcsSection_1299
-LOCATION:Screen 2\, 107 Kingsland High Street\, London\, E8 2PB\, London
-URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
- tItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2803038.TcsSect
- ion_1299
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b34857290ca04f7ba642513f909d5151-occ_23b588d489074896a64fbd83427
  8b031@thingstodoinyourcity
 DTSTAMP:20260905T051126Z
@@ -2971,20 +2955,6 @@ DESCRIPTION:A horror film about two teenage boys escaping a violent entit
 LOCATION:93-95 Mile End Road \, Whitechapel\, London E1 4UJ\, 93-95 Mile 
  End Road\, Whitechapel\, London E1 4UJ\, Whitechapel\, London
 URL:https://www.genesiscinema.co.uk/whatson
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_472ccb6321914805b234f8baff3a3d75-occ_77b9caaf35f34633b965fe3ce2a
- f1f9d@thingstodoinyourcity
-DTSTAMP:20260905T070416Z
-DTSTART:20260906T200000Z
-DTEND:20260906T220000Z
-SUMMARY:Laurence Corns Duo
-DESCRIPTION:Singer-guitarist Laurence Corns performs swing jazz influence
- d by Fats Waller\, Billie Holiday\, Nat King Cole and Bessie Smith. His 
- music blends blues\, swing and African music.\nPrice: COVER CHARGE: £6\
- nhttps://www.barnightjar.com/whats-on
-LOCATION:Nightjar\, 129 City Road London United Kingdom\, London
-URL:https://www.barnightjar.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5a112db875194272917c4bed688e9fdf-occ_ad8847c9cf4e4c9b9327d02d45f
@@ -3043,6 +3013,20 @@ LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
  , London
 URL:https://underbellyboulevard.com/book-tickets/woody-sez-the-life-music
  -of-woody-guthrie/61:191698/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_00efd35b3e744480b3603eca77a5c162-occ_aa87a88dfb9a46a8a044d2e8d72
+ 3c555@thingstodoinyourcity
+DTSTAMP:20260904T204609Z
+DTSTART:20260911T204500Z
+SUMMARY:Jill’s Tupperware Party
+DESCRIPTION:An interactive comedy horror blending retro suburban camp wit
+ h B-movie terror. The standing show features a large amount of interacti
+ on.\nPrice: Prices from £18.50 (includes booking fee)\nhttps://underbel
+ lyboulevard.com/tickets
+LOCATION:The Theatre\, 6 Walker's Court\, London\, W1F 0BT\, Soho\, Londo
+ n
+URL:https://underbellyboulevard.com/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6d64a3121fa7454bb23d41d3c227f3b3-occ_6954f7fc4a2e4f9983172a03076
