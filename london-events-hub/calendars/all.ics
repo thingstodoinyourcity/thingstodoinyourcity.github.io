@@ -839,19 +839,6 @@ LOCATION:Ames Yavuz\, 31 Grosvenor Hill\, W1K 3QU\, London\, London West
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f7e91a891843418eb18f7d41d8052d0a-occ_015e0fb6cc4546ae89b4b90b1cf
- cc61e@thingstodoinyourcity
-DTSTAMP:20260815T094105Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260906
-SUMMARY:Elisa Giardina Papa: She Flickered In-and-Out of History
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Institute of Contemporary Arts (ICA)\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_982193a0922241ddb14d75033c07a224-occ_e13dd37266d4497e8583428a2fc
  46bd0@thingstodoinyourcity
 DTSTAMP:20260823T131117Z
@@ -992,17 +979,6 @@ SUMMARY:Untitled event
 DESCRIPTION:https://www.criterion-theatre.co.uk
 LOCATION:Criterion Theatre\, Piccadilly Circus\, London
 URL:https://www.criterion-theatre.co.uk
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e612f17c1e4a461bbadc6ad9ec283e0c-occ_16cd2d79a64f4263bdba66e413d
- 3ece3@thingstodoinyourcity
-DTSTAMP:20260815T100538Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20261101
-SUMMARY:DanFong Wang: The Sparkle\, The Blossom and The Milky Land
-DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
-LOCATION:Southwark Park Galleries - Lake Gallery\, London
-URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_017f45f340a944a4977da9ecf4b8872d-occ_4a68c1388a5f4525b530515fa51
@@ -4006,5 +3982,19 @@ LOCATION:Theatre Royal Glasgow\, 29 Russell St\, London\, WC2B 5HH\, UK\,
   Glasgow\, London
 URL:https://www.atgtickets.com/shows/operation-mincemeat-a-new-musical/fo
  rtune-theatre/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a40ab0fd34474c63ba990d2a25f60695-occ_03b05b51fef04e078d3130d8481
+ 28695@thingstodoinyourcity
+DTSTAMP:20260906T081848Z
+DTSTART:20261111T200000Z
+SUMMARY:Malcolm Middleton Live at The Golden Hinde
+DESCRIPTION:An intimate live performance by Scottish singer-songwriter Ma
+ lcolm Middleton\, a founding member of Arab Strap. The concert takes pla
+ ce aboard Sir Francis Drake’s famous ship.\nPrice: £25\nhttps://www.g
+ oldenhinde.co.uk/whats-on
+LOCATION:The Golden Hinde\, Golden Hinde Ltd St Mary Overie Dock Cathedra
+ l Street London\, SE1 9DE\, London
+URL:https://www.goldenhinde.co.uk/whats-on
 END:VEVENT
 END:VCALENDAR
