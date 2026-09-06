@@ -202,6 +202,20 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_63f1945044a94a7b80e9dcad2dbbc058-occ_faa4bbfde67e421d84c8e149fef
+ 1e0db@thingstodoinyourcity
+DTSTAMP:20260906T154409Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20270418
+SUMMARY:Queen Elizabeth II: Her Life in Style
+DESCRIPTION:An exhibition marking the centenary of Queen Elizabeth II’s
+  birth. It presents the late Queen’s fashion in the largest exhibition
+  of its kind ever mounted.\nhttps://culturecity.london/
+LOCATION:King's Gallery\, Buckingham Palace\, Buckingham Palace\, London 
+ SW1A 1AA\, UK\, London
+URL:https://culturecity.london/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5118bc1996d54b88a175c6fa2122e2f2-occ_3718d9b4276d4aa3b3d86306d1c
  4aa8c@thingstodoinyourcity
 DTSTAMP:20260815T055315Z
@@ -251,6 +265,17 @@ DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
 LOCATION:Autograph Gallery\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4045b3b89b5a42d2b9aee5f6e9520f43-occ_ea96a10397cf40bfb447b1f4e1d
+ 922d4@thingstodoinyourcity
+DTSTAMP:20260906T160225Z
+DTSTART:20260416T090000Z
+DTEND:20260920T160000Z
+SUMMARY:Early Netherlandish Drawings
+DESCRIPTION:Price: FREE\nhttps://culturecity.london/
+LOCATION:British Museum\, London
+URL:https://culturecity.london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9105c0acda6143cfaafa517d2e3857db-occ_18ea646da1794e8b85bdf6415cc
@@ -390,6 +415,20 @@ DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
 LOCATION:Victoria and Albert Museum (V&A)\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8c84d5627d504bad805106b957116155-occ_a2c7d9f0a8664ce0a42bfaa5417
+ c4d97@thingstodoinyourcity
+DTSTAMP:20260906T160702Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260906
+SUMMARY:In Other Worlds
+DESCRIPTION:Liam Young’s immersive exhibition imagines hopeful futures 
+ through films\, audio stories\, soundscapes\, set design and costumes.\n
+ https://www.barbican.org.uk/whats-on/2026/event/in-other-worlds
+LOCATION:Barbican Centre (Various)\, Barbican Centre\, Silk Street\, Lond
+ on\, EC2Y 8DS\, Barbican\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/in-other-worlds
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_da28cb7c1b6344778ca97b1cef655dc6-occ_f8b2cdf903cc4e6c98c0d30d6f3
@@ -622,6 +661,34 @@ DESCRIPTION:A major exhibition explores Barbara Hepworth’s lifelong fas
  sday.co.uk/best-london-exhibitions-2/
 LOCATION:Courtauld Gallery\, Somerset House\, WC2R 0RN\, London
 URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a17f693011284a838e789b21116a651f-occ_508edfc527cf4a7d8f2ba698409
+ 19653@thingstodoinyourcity
+DTSTAMP:20260906T154117Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260906
+SUMMARY:Hepworth in Colour
+DESCRIPTION:A major exhibition exploring Barbara Hepworth’s lifelong fa
+ scination with colour through sculptures\, drawings and paintings from t
+ he 1940s to the 1960s.\nPrice: Courtauld Members go free\nhttps://courta
+ uld.ac.uk/whats-on/exh-hepworth-in-colour/
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG\, UK\, London
+URL:https://courtauld.ac.uk/whats-on/exh-hepworth-in-colour/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a17f693011284a838e789b21116a651f-occ_fe5837658c01498fa74eae6d52b
+ 77cf9@thingstodoinyourcity
+DTSTAMP:20260906T154117Z
+DTSTART:20260612T090000Z
+DTEND:20260906T170000Z
+SUMMARY:Hepworth in Colour
+DESCRIPTION:A major exhibition exploring Barbara Hepworth’s lifelong fa
+ scination with colour through sculptures\, drawings and paintings from t
+ he 1940s to the 1960s.\nPrice: Courtauld Members go free\nhttps://courta
+ uld.ac.uk/whats-on/exh-hepworth-in-colour/
+LOCATION:Tate Britain\, Millbank\, London SW1P 4RG\, UK\, London
+URL:https://courtauld.ac.uk/whats-on/exh-hepworth-in-colour/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2396420e8661482ebb577be204c08c17-occ_7b03543284674825bb3b9094e47
@@ -2158,40 +2225,6 @@ LOCATION:Tottenham Court Road tube station\, Oxford Street\, London\, WC1
 URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bd6ebb101ee342628a5555d228016795-occ_b05b8fb28ce74efe9bf9bb6991b
- a538c@thingstodoinyourcity
-DTSTAMP:20260905T053342Z
-DTSTART;VALUE=DATE:20260906
-DTEND:20260906T150000Z
-SUMMARY:East London Vintage Furniture & Flea
-DESCRIPTION:Shop original furniture\, homewares\, vintage fashion and jew
- ellery from specialist traders. Dogs and children are welcome.\nPrice: O
- nline: £5 Early / £3 General\; On The Door: £6 Early / £4 General / 
- £2 Afternoon\nhttps://judysvintagefair.com/events/the-east-london-vinta
- ge-furniture-flea-market-sept
-LOCATION:The Art Pavilion\, Art Pavilion\, Mile End Park\, Grove Road\, E
- ast London\, London\, E3 5RP\, East London\, London
-URL:https://judysvintagefair.com/events/the-east-london-vintage-furniture
- -flea-market-sept
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bd6ebb101ee342628a5555d228016795-occ_6a4e09f2a9e245ec89501cf9468
- d39a2@thingstodoinyourcity
-DTSTAMP:20260905T053342Z
-DTSTART:20260906T100000Z
-DTEND:20260906T150000Z
-SUMMARY:East London Vintage Furniture & Flea
-DESCRIPTION:Shop original furniture\, homewares\, vintage fashion and jew
- ellery from specialist traders. Dogs and children are welcome.\nPrice: O
- nline: £5 Early / £3 General\; On The Door: £6 Early / £4 General / 
- £2 Afternoon\nhttps://judysvintagefair.com/events/the-east-london-vinta
- ge-furniture-flea-market-sept
-LOCATION:The Art Pavilion\, Art Pavilion\, Mile End Park\, Grove Road\, E
- ast London\, London\, E3 5RP\, East London\, London
-URL:https://judysvintagefair.com/events/the-east-london-vintage-furniture
- -flea-market-sept
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_efef285b02a040ba988693b80ae83a62-occ_36d57dad9628456daa88ab74430
  8e77f@thingstodoinyourcity
 DTSTAMP:20260904T174954Z
@@ -2706,20 +2739,6 @@ LOCATION:London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9c4d677495494831956855f0136ed3e5-occ_6ecbff763a87483386d378b5807
- 111e1@thingstodoinyourcity
-DTSTAMP:20260904T205426Z
-DTSTART:20260906T090000Z
-DTEND:20260906T150000Z
-SUMMARY:Duck Pond Market
-DESCRIPTION:A monthly market with arts\, crafts and homeware. Stalls feat
- ure locally\, ethically and sustainably made or sourced products.\nhttps
- ://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
-LOCATION:Chiswick House Forecourt\, Burlington Lane\, Chiswick\, London W
- 4 2RP\, Chiswick\, London
-URL:https://chiswickhouseandgardens.org.uk/event/duck-pond-market-4
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3d7369191cfb415294805981be4bcbae-occ_cf1a29dbfc7b42bba2395c79aac
  9257d@thingstodoinyourcity
 DTSTAMP:20260905T031050Z
@@ -2731,19 +2750,6 @@ DESCRIPTION:Short films from multiple countries with English subtitles\,
 LOCATION:Rio Cinema\, 107 Kingsland High Street\, London\, E8 2PB\, Dalst
  on\, London
 URL:https://riocinema.org.uk/Rio.dll/WhatsOn
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a3352d015bb341edbcc8bc6656d1460d-occ_c005b73adf6f4a019713f885e0d
- bb9c2@thingstodoinyourcity
-DTSTAMP:20260905T043233Z
-DTSTART:20260906T100000Z
-DTEND:20260906T160000Z
-SUMMARY:FoBC Open Day 2026
-DESCRIPTION:Enjoy free activities\, entertainment and stalls for children
-  and adults. Optional cemetery tours are available throughout the day.\n
- Price: Admission Free\nhttps://brompton-cemetery.org.uk/openday.html
-LOCATION:Brompton Cemetery\, London
-URL:https://brompton-cemetery.org.uk/openday.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3a91e4c81c594eb9924903402ed47494-occ_c9d7003ce9084f638733dbadf73
@@ -2876,24 +2882,6 @@ LOCATION:Wembley Stadium\, London\, Greater London\, London
 URL:https://catchmovement.com/london/concerts
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_daa6bda5d51247598ceab5cf2cb06ae4-occ_721995ddbece4daa944391f66a9
- 1dbf4@thingstodoinyourcity
-DTSTAMP:20260904T162201Z
-DTSTART:20260906T130000Z
-DTEND:20260906T140000Z
-SUMMARY:Rio Archive Martial Arts Cinema Panel
-DESCRIPTION:Special guests discuss the Rio Cinema’s history of showing 
- martial arts films. Includes a reel\, slides and clips of classic films.
- \nPrice: Standard (£0.00)\; Wheelchair Standard (£0.00)\nhttps://rioci
- nema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tcs
- WebMenuItem_0.TcsWebTab_0.TcsPerformance_2803021.TcsSection_936
-LOCATION:Screen 1\, 107 Kingsland High Street\, London\, E8 2PB\, Dalston
- \, London
-URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
- tItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2803021.TcsSect
- ion_936
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_88a3fa9922064e87bea4e84783f0dfba-occ_6d7166ad6a494141a440a9be4c1
  2ced8@thingstodoinyourcity
 DTSTAMP:20260905T085048Z
@@ -2911,34 +2899,6 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
  ormance_634454.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce6aeb401e9b4a3792d56d21ea0d4e02-occ_201d4554c2664868b541c9d5158
- 32d2b@thingstodoinyourcity
-DTSTAMP:20260904T175719Z
-DTSTART:20260906T144500Z
-DTEND:20260906T154500Z
-SUMMARY:The Waterfront Journals
-DESCRIPTION:A site-specific outdoor promenade performance of David Wojnar
- owicz’s monologues. It explores queer narratives\, love\, loss and res
- ilience at the water’s edge.\nPrice: £14\nhttps://royaldocks.london/w
- hats-on
-LOCATION:Thames Barrier Park\, London
-URL:https://royaldocks.london/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce6aeb401e9b4a3792d56d21ea0d4e02-occ_c3be659c11154c68898c578809b
- a4b85@thingstodoinyourcity
-DTSTAMP:20260904T175719Z
-DTSTART:20260906T173000Z
-DTEND:20260906T183000Z
-SUMMARY:The Waterfront Journals
-DESCRIPTION:A site-specific outdoor promenade performance of David Wojnar
- owicz’s monologues. It explores queer narratives\, love\, loss and res
- ilience at the water’s edge.\nPrice: £14\nhttps://royaldocks.london/w
- hats-on
-LOCATION:Thames Barrier Park\, London
-URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_170afd5ae24b481b9b71cafc77ca22a5-occ_ff49e14ae3534de59a0a1196427
@@ -3227,6 +3187,20 @@ DESCRIPTION:BLACK COMEDY UK presents a comedy night hosted by Christopher
 LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
  E2 0EL\, Bethnal Green\, London
 URL:https://www.blackcomedyuk.com/event-details/lfsept26
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce6aeb401e9b4a3792d56d21ea0d4e02-occ_c3be659c11154c68898c578809b
+ a4b85@thingstodoinyourcity
+DTSTAMP:20260904T175719Z
+DTSTART:20260906T173000Z
+DTEND:20260906T183000Z
+SUMMARY:The Waterfront Journals
+DESCRIPTION:A site-specific outdoor promenade performance of David Wojnar
+ owicz’s monologues. It explores queer narratives\, love\, loss and res
+ ilience at the water’s edge.\nPrice: £14\nhttps://royaldocks.london/w
+ hats-on
+LOCATION:Thames Barrier Park\, London
+URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5444c21f92c8413b9a5cf963cd9b1655-occ_3f7f02a1d7b34babae1a049f662
