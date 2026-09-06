@@ -8,6 +8,21 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_ca1a723c1b15490a9488a5a39ace200a-occ_72b0007b91954897b04a17b0a69
+ bb283@thingstodoinyourcity
+DTSTAMP:20260904T174212Z
+DTSTART:20260907T183000Z
+SUMMARY:Abigail's Party
+DESCRIPTION:Mike Leigh’s ferocious black comedy returns to London’s W
+ est End. Nadia Fall directs a production starring Tamzin Outhwaite and K
+ evin Bishop.\nPrice: from £20.50\nhttps://www.atgtickets.com/shows/abig
+ ails-party/harold-pinter-theatre/calendar/2026-09-04
+LOCATION:Harold Pinter Theatre\, Panton St\, London SW1Y 4DN\, UK\, Picca
+ dilly Circus\, London
+URL:https://www.atgtickets.com/shows/abigails-party/harold-pinter-theatre
+ /calendar/2026-09-04
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_857f3ed799194ffd9ed4eac25e3a2935-occ_a3cdcb766d3b4c5a8f9f8f217b0
  d6464@thingstodoinyourcity
 DTSTAMP:20260905T015418Z
@@ -31,6 +46,22 @@ DESCRIPTION:Explore coercive control through a compassionate\, trauma-inf
  onnie Stockton.\nhttps://www.seedtalks.co.uk/
 LOCATION:Online Event\, London
 URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dc11b3b1e8bd4af3b7af4617932ab8f3-occ_e43be78d4b944f62920fcd2ad0e
+ 9b160@thingstodoinyourcity
+DTSTAMP:20260905T062315Z
+DTSTART:20260908T190000Z
+SUMMARY:The Invite
+DESCRIPTION:Joe and Angela invite enigmatic upstairs neighbours to dinner
+  as their marriage reaches breaking point. Olivia Wilde directs this 202
+ 6 film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking
+ ?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.T
+ csPerformance_699707.TcsSection_720
+LOCATION:Screen 2\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_699707.TcsSection_720
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9983ceba5b30467bb1a2cdf8f211d31e-occ_fc5085c972604fcf844dec6dc45
