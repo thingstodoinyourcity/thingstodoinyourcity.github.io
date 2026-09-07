@@ -74,22 +74,6 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_734ed4f46d6f4ddb8605792428679924-occ_fbcfd0ce225a44ca90938927a8c
- 94258@thingstodoinyourcity
-DTSTAMP:20260904T190846Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20261108
-SUMMARY:Schiaparelli: Fashion Becomes Art
-DESCRIPTION:The UK’s first Schiaparelli exhibition spans the 1920s to t
- oday. It explores the fashion house’s origins and Daniel Roseberry’s
-  contemporary evolution.\nPrice: Weekday £28.00 / Weekend £30.00\; con
- cessions apply\; members visit free\nhttps://www.vam.ac.uk/exhibitions/s
- chiaparelli
-LOCATION:The Sainsbury Gallery\, Cromwell Road\, London\, SW7 2RL\, South
-  Kensington\, London
-URL:https://www.vam.ac.uk/exhibitions/schiaparelli
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7e663b70996c4f6fac186751baf63618-occ_3234898b688341a792a979ee5be
  856ac@thingstodoinyourcity
 DTSTAMP:20260906T175026Z
@@ -1377,19 +1361,6 @@ LOCATION:Main House\, Lyric Square\, King St\, London W6 0QL\, London
 URL:https://lyric.co.uk/shows/the-children
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_02a7382e0c8e441ea5add10b2306f123-occ_13e1b46771c64414b4515c604e8
- 3d941@thingstodoinyourcity
-DTSTAMP:20260905T053311Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20270103
-SUMMARY:Avenue Q
-DESCRIPTION:Three-time Tony Award-winning musical Avenue Q returns to the
-  West End after two decades. It is presented at Shaftesbury Theatre.\nht
- tps://www.londontheatres.com/events/comedy
-LOCATION:Shaftesbury Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f06bf0862c2842dd8cd96f655d834c01-occ_1245424c4217440dbb52ebd72b2
  9a842@thingstodoinyourcity
 DTSTAMP:20260905T053215Z
@@ -1521,31 +1492,6 @@ LOCATION:Tour (3 Venues)\, 93 The Broadway\, Wimbledon\, London SW19 1QG\
  , UK\, Folkestone\, London
 URL:https://www.atgtickets.com/shows/queen-by-candlelight/new-wimbledon-t
  heatre/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_33b1e4ef2f834ce4a77ddfad691a85e5-occ_e6dd30cce4a3455cb2bfbaf8400
- 0f0b3@thingstodoinyourcity
-DTSTAMP:20260905T053554Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20271003
-SUMMARY:The Play That Goes Wrong
-DESCRIPTION:The longest running comedy in the West End. Performances run 
- from September 2026 through October 2027.\nhttps://www.londontheatres.co
- m/events/comedy
-LOCATION:Duchess Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df8f7332d3804a238e0f2cfb315a15cb-occ_3da4e23416d64fccbaf87795b21
- 1d059@thingstodoinyourcity
-DTSTAMP:20260905T053740Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20270103
-SUMMARY:Titanique
-DESCRIPTION:A musical comedy asks what really happened to Jack and Rose o
- n that fateful night.\nhttps://www.londontheatres.com/events/comedy
-LOCATION:Criterion Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_06100a696c034da89b6a77a0afda7588-occ_dd86b175bab14384a5a9d75d8fd
@@ -1950,6 +1896,216 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
  ormance_681079.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8979afe8a24f4b06b6b7d781211
+ 625f1@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260911T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_a80f17d8e012418798eee78e317
+ b7910@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260912T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_73c5ce20e2b44fa58b3e45f6702
+ f54be@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260912T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_7a8139ff926a44d1b08782f2259
+ adf4a@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260913T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_ab422a6bb7004d9ea79fec25a16
+ 9bca9@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260913T173000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_45aad7caa2334ef3b17f4f78743
+ 38669@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260918T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_78ea2a6bf3374925a953263ad26
+ 0a8f2@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260919T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_2dfb7481e3c64e2e95d6bdeba61
+ fea87@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260919T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_b3f6eb0114f4418c94c6207cb9b
+ a3f6d@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260920T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5c2c7a57d3654eab860e0d91dcf
+ 9fab2@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260920T173000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_f4d2f84717e94147ba59d4424f6
+ 8c63a@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260925T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5ac0a3e506b542f2bfd44564ea6
+ b2d27@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260926T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_04264fcf6287430a85b05923881
+ f328c@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260926T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8212ae495a37485b89f361857e1
+ 650fa@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260927T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_3fc0763433044b0fa99e72ee748
+ b8f10@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260927T173000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7865b489bf464f9ca89eeebbddacb11b-occ_8558f0f297f14c41b916e3ca6e6
