@@ -8,6 +8,43 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_9bc655589fb94a8e99182f646140a1ab-occ_77cbad594e85477f988dd57bb05
+ 30d6c@thingstodoinyourcity
+DTSTAMP:20260906T192532Z
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Classically Black Presents
+DESCRIPTION:A piano-focused concert presents three artists from the Class
+ ically Black Showcase. It celebrates virtuosity\, individuality and crea
+ tive expression across the classical tradition.\nhttps://www.ronniescott
+ s.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eca35905877a46d7ac7fe2106ce44d6b-occ_1dffb240d0b3444e933e917c12a
+ 5c5b2@thingstodoinyourcity
+DTSTAMP:20260906T132415Z
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Meera Syal: Vigilauntie!
+DESCRIPTION:Dame Meera Syal shares hilarious and heartwarming true storie
+ s from her life and work as a comedy legend.\nPrice: £34.00\nhttps://ww
+ w.rgs.org/events/upcoming-events
+LOCATION:London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bf61607e8f1d49e0b1be8ef3bb7b6455-occ_2b7e09ccb6464f1fa571becc5e5
+ c1cdd@thingstodoinyourcity
+DTSTAMP:20260906T193909Z
+DTSTART;VALUE=DATE:20260907
+SUMMARY:Meraki Duo
+DESCRIPTION:Meraki Duo launches its debut album Notes from the Living Roo
+ m. The programme features lyrical chamber music and reimagined repertoir
+ e for flute and guitar.\nhttps://www.ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ca1a723c1b15490a9488a5a39ace200a-occ_72b0007b91954897b04a17b0a69
  bb283@thingstodoinyourcity
 DTSTAMP:20260904T174212Z
@@ -21,6 +58,93 @@ LOCATION:Harold Pinter Theatre\, Panton St\, London SW1Y 4DN\, UK\, Picca
  dilly Circus\, London
 URL:https://www.atgtickets.com/shows/abigails-party/harold-pinter-theatre
  /calendar/2026-09-04
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_17e262c3054a4787a748dde44b23cae8-occ_c8f1307ca3244eb3bb6edf30396
+ caa40@thingstodoinyourcity
+DTSTAMP:20260904T164812Z
+DTSTART:20260907T195000Z
+DTEND:20260907T220100Z
+SUMMARY:Teenage Sex and Death at Camp Miasma
+DESCRIPTION:A one-off 35mm screening of Jane Schoenbrun’s acclaimed que
+ er horror\, starring Hannah Einbinder and Gillian Anderson. Runtime: 111
+  minutes.\nPrice: Standard £8.00\; Concession £8.00\; Member £5.00\; 
+ Member Concession £5.00\; CEA Carer £8.00\; Wheelchair Standard £8.00
+ \; Wheelchair Concession £8.00\; Wheelchair Member £5.00\; Wheelchair 
+ Member Concession £5.00\; Wheelchair CEA Carer £8.00\nhttps://riocinem
+ a.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWeb
+ MenuItem_0.TcsWebTab_0.TcsPerformance_2844228.TcsSection_936
+LOCATION:Screen 1\, 107 Kingsland High Street\, London\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
+ tItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2844228.TcsSect
+ ion_936
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1269450066e541aa8a9bafd7e1bbec2d-occ_a6d86a47dcba41c3b275c30181e
+ fe6f1@thingstodoinyourcity
+DTSTAMP:20260906T200543Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Anmol Mohara
+DESCRIPTION:Award-winning Nepali percussionist and composer Anmol Mohara 
+ brings his debut album Across The Sea live with his full band.\nhttps://
+ www.ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f69c09102ccd4376acda615ea64d6b23-occ_562ceab8e04e48668ee0cd15e49
+ e219e@thingstodoinyourcity
+DTSTAMP:20260906T195518Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Harry Brunt
+DESCRIPTION:Saxophonist and composer Harry Brunt makes his Ronnie Scott's
+  debut after the success of his recording Carolina Peaches.\nhttps://www
+ .ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_034ef44cb0634893bfc381428a5d05a7-occ_8522a8852b81405d8a9ebce6a34
+ 25f46@thingstodoinyourcity
+DTSTAMP:20260906T210203Z
+DTSTART:20260908T080000Z
+DTEND:20260908T180000Z
+SUMMARY:Law School of the Future Symposium
+DESCRIPTION:A hybrid symposium explores the future of legal education and
+  the legal profession. Topics include generative AI\, legal technology\,
+  ethics and student employability.\nPrice: Free\nhttps://www.westminster
+ .ac.uk/events
+LOCATION:Westminster Law School\, University of Westminster\, London
+URL:https://www.westminster.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dc06bad134ad4e52bb96f6f679749782-occ_cd51ab7f78294738bada09ba1f6
+ dd1e3@thingstodoinyourcity
+DTSTAMP:20260905T032654Z
+DTSTART:20260908T172000Z
+SUMMARY:Super Nature + Q&A with Ed Sayers
+DESCRIPTION:A Super 8 meditation on the natural world\, filmed across 25 
+ countries. The screening is followed by a live Q&A with director Ed Saye
+ rs.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, London\, E8 2PB\, Dalst
+ on\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_befd4c53d9c94763acbb8598b14e82bc-occ_192b0a24faba497a9589122cb23
+ 2708e@thingstodoinyourcity
+DTSTAMP:20260905T035155Z
+DTSTART:20260908T173000Z
+DTEND:20260908T183000Z
+SUMMARY:Beth Chatto Ecological Planting Talk
+DESCRIPTION:Speakers examine how ecological planting can transform urban 
+ spaces. The discussion covers biodiversity\, resilient plants and sustai
+ nable public landscapes.\nPrice: £25 Standard\; £20 Friends\; £20 You
+ ng Fronds\; £10 Livestream\nhttps://www.gardenmuseum.org.uk/whats-on/th
+ e-beth-chatto-approach-to-ecological-planting-in-public-spaces/
+LOCATION:Garden Museum\, London
+URL:https://www.gardenmuseum.org.uk/whats-on/the-beth-chatto-approach-to-
+ ecological-planting-in-public-spaces/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_857f3ed799194ffd9ed4eac25e3a2935-occ_a3cdcb766d3b4c5a8f9f8f217b0
@@ -63,20 +187,83 @@ URL:https://underbellyboulevard.com/book-tickets/cocktail-masterclass-202
  6/61:191685/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_dc11b3b1e8bd4af3b7af4617932ab8f3-occ_e43be78d4b944f62920fcd2ad0e
- 9b160@thingstodoinyourcity
-DTSTAMP:20260905T062315Z
-DTSTART:20260908T190000Z
-SUMMARY:The Invite
-DESCRIPTION:Joe and Angela invite enigmatic upstairs neighbours to dinner
-  as their marriage reaches breaking point. Olivia Wilde directs this 202
- 6 film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking
- ?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.T
- csPerformance_699707.TcsSection_720
-LOCATION:Screen 2\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_699707.TcsSection_720
+UID:cand_71aed9cab85541baae292e6a0ea1ac8a-occ_59a34fc41cef48ba8241e7b8f25
+ c940e@thingstodoinyourcity
+DTSTAMP:20260904T181214Z
+DTSTART:20260908T200000Z
+DTEND:20260908T220000Z
+SUMMARY:Dom Pipkin Live New Orleans Piano
+DESCRIPTION:Dom Pipkin brings New Orleans jazz\, blues and funk piano to 
+ Nightjar. His performance draws on Professor Longhair\, Huey “Piano”
+  Smith and James Booker.\nPrice: £6\nhttps://www.barnightjar.com/whats-
+ on
+LOCATION:Nightjar\, 129 City Road\, London\, EC1V 1JB\, East London\, Lon
+ don
+URL:https://www.barnightjar.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dacc90cc2f6041c6a83c7b648b18b5bd-occ_f6ef7153328648fe940a21ac0a1
+ c3f7e@thingstodoinyourcity
+DTSTAMP:20260906T134056Z
+DTSTART;VALUE=DATE:20260909
+SUMMARY:Alexei Sayle: How I’ve tried to change the world
+DESCRIPTION:Alexei Sayle reflects on a lifetime of trying to solve the wo
+ rld’s problems. The event is in London.\nPrice: £34.95\nhttps://www.r
+ gs.org/events/upcoming-events
+LOCATION:London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_836115cf0bb84aa7bda44d18deb8be2b-occ_f256c6006b094b4ba19b7654fcd
+ 0ce85@thingstodoinyourcity
+DTSTAMP:20260906T133523Z
+DTSTART;VALUE=DATE:20260909
+SUMMARY:Understanding and Communicating Risk
+DESCRIPTION:Hear from the RNLI geospatial team about tools supporting ris
+ k assessment and decision-making across the organisation.\nPrice: Free\n
+ https://www.rgs.org/events/upcoming-events
+LOCATION:Online\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeb6718c3e6b4d2b96324b300bde6711-occ_3b5070ce806646df8f67b900c92
+ a3ca3@thingstodoinyourcity
+DTSTAMP:20260904T174458Z
+DTSTART:20260909T091500Z
+DTEND:20260909T100000Z
+SUMMARY:Curator Tour of Paint! Pattern! Print!
+DESCRIPTION:Private tour of Paint! Pattern! Print! with Teresa Collenette
+  and Sarah Campbell. Includes the opportunity to ask questions and explo
+ re the exhibition.\nPrice: £45.00 (Includes exhibition entry)\nhttps://
+ fashiontextilemuseum.org/whats-on
+LOCATION:Museum\, 83 Bermondsey Street\, London SE1 3XF\, London
+URL:https://fashiontextilemuseum.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5516aa9f54647048dd2524e975b72e8-occ_244a995939774278852e870020f
+ 88b76@thingstodoinyourcity
+DTSTAMP:20260904T175446Z
+DTSTART:20260909T130000Z
+SUMMARY:Vybz Kartel
+DESCRIPTION:Vybz Kartel performs at O2 Arena - London. Tickets are sold t
+ hrough verified resale sellers with live pricing.\nPrice: €701+ EUR\nh
+ ttps://catchmovement.com/london/concerts
+LOCATION:O2 Arena - London\, Peninsula Square\, London\, Greater London\,
+  SE10 0DX\, United Kingdom\, London\, Greater London\, London
+URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5516aa9f54647048dd2524e975b72e8-occ_cc8db832d6ad45d7b2674bf065e
+ 046fd@thingstodoinyourcity
+DTSTAMP:20260904T175446Z
+DTSTART:20260909T173000Z
+SUMMARY:Vybz Kartel
+DESCRIPTION:Vybz Kartel performs at O2 Arena - London. Tickets are sold t
+ hrough verified resale sellers with live pricing.\nPrice: €701+ EUR\nh
+ ttps://catchmovement.com/london/concerts
+LOCATION:O2 Arena - London\, Peninsula Square\, London\, Greater London\,
+  SE10 0DX\, United Kingdom\, London\, Greater London\, London
+URL:https://catchmovement.com/london/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9983ceba5b30467bb1a2cdf8f211d31e-occ_fc5085c972604fcf844dec6dc45
@@ -105,6 +292,226 @@ LOCATION:The Cockpit\, Gateforth Street\, London NW8 8EH\, London
 URL:https://www.tete-a-tete.org.uk/event/eight-days/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_44f74a12f733456a8ad53ed397e75b40-occ_c04175a0dd95440f8285721acea
+ 8d99c@thingstodoinyourcity
+DTSTAMP:20260904T175722Z
+DTSTART:20260909T180000Z
+DTEND:20260909T190000Z
+SUMMARY:Emerging Artist\, Talk!
+DESCRIPTION:A performance by writer and performer Sam Kan. The event expl
+ ores language\, identity\, and imagination.\nPrice: Free\nhttps://autoit
+ aliasoutheast.org/
+LOCATION:Auto Italia\, 44 Bonner Road\, London E2 9JS\, London
+URL:https://autoitaliasoutheast.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ede2b7c3b1a4703814c6a29ebe402d6-occ_676b361f227e45f3b2318345ee4
+ 79ef7@thingstodoinyourcity
+DTSTAMP:20260904T181546Z
+DTSTART:20260909T184500Z
+SUMMARY:Belly Laugh
+DESCRIPTION:A fast-paced comedy evening with a professional MC\, headline
+  act and rising London talent. The 9 September show is part of Fringe Fi
+ x.\nPrice: Prices from £6.50 (includes booking fee)\nhttps://underbelly
+ boulevard.com/tickets
+LOCATION:The Studio\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\,
+  London
+URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ede2b7c3b1a4703814c6a29ebe402d6-occ_0dd228505e104e0f8297c4fc662
+ 6fcd5@thingstodoinyourcity
+DTSTAMP:20260904T181546Z
+DTSTART:20261014T184500Z
+SUMMARY:Belly Laugh
+DESCRIPTION:A fast-paced comedy evening with a professional MC\, headline
+  act and rising London talent. The 9 September show is part of Fringe Fi
+ x.\nPrice: Prices from £6.50 (includes booking fee)\nhttps://underbelly
+ boulevard.com/tickets
+LOCATION:The Studio\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\,
+  London
+URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ede2b7c3b1a4703814c6a29ebe402d6-occ_066da72fab2e432a8277b144fab
+ 7fe31@thingstodoinyourcity
+DTSTAMP:20260904T181546Z
+DTSTART:20261111T194500Z
+SUMMARY:Belly Laugh
+DESCRIPTION:A fast-paced comedy evening with a professional MC\, headline
+  act and rising London talent. The 9 September show is part of Fringe Fi
+ x.\nPrice: Prices from £6.50 (includes booking fee)\nhttps://underbelly
+ boulevard.com/tickets
+LOCATION:The Studio\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\,
+  London
+URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ede2b7c3b1a4703814c6a29ebe402d6-occ_dd1491e7bfa444978b900837c78
+ a3551@thingstodoinyourcity
+DTSTAMP:20260904T181546Z
+DTSTART:20261209T194500Z
+SUMMARY:Belly Laugh
+DESCRIPTION:A fast-paced comedy evening with a professional MC\, headline
+  act and rising London talent. The 9 September show is part of Fringe Fi
+ x.\nPrice: Prices from £6.50 (includes booking fee)\nhttps://underbelly
+ boulevard.com/tickets
+LOCATION:The Studio\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\,
+  London
+URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0b558fc00e3349c4a7e251498709d7e9-occ_5d3578beffa74007b651ae86ee4
+ afbde@thingstodoinyourcity
+DTSTAMP:20260905T025724Z
+DTSTART:20260909T193000Z
+DTEND:20260909T212000Z
+SUMMARY:Margeaux Labat Presents The Watermelon Woman
+DESCRIPTION:A screening of Cheryl Dunye’s 1996 film exploring the erasu
+ re of Black women in early Hollywood cinema\, with an in-person introduc
+ tion by Margeaux Labat.\nPrice: Standard £13.00\; Concession £11.00\; 
+ Member £10.00\; Member Concession £8.00\; CEA Carer £13.00\; Wheelcha
+ ir Standard £13.00\; Wheelchair Concession £11.00\; Wheelchair Member 
+ £10.00\; Wheelchair Member Concession £8.00\; Wheelchair CEA Carer £1
+ 3.00\nhttps://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSe
+ lectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793430.TcsS
+ ection_936
+LOCATION:Screen 1\, 107 Kingsland High Street\, London\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
+ tItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793430.TcsSect
+ ion_936
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3b43da32050a4a6e8caea015c4c76f43-occ_d410a9d88175497f9c1ab7c5741
+ f19c4@thingstodoinyourcity
+DTSTAMP:20260904T181125Z
+DTSTART:20260909T200000Z
+DTEND:20260909T220000Z
+SUMMARY:Ben Martyn - New Orleans Jazz
+DESCRIPTION:Live music from Louisiana and the southern states of America.
+  Ben 'Blue' Martyn blends jazz with rhythm & blues\, country and early r
+ ock n roll.\nPrice: £6 per person\nhttps://www.barnightjar.com/whats-on
+LOCATION:Nightjar\, 129 City Road London United Kingdom\, Shoreditch\, Lo
+ ndon
+URL:https://www.barnightjar.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3e070c21b944485892b786f9dce19aca-occ_9bac94cf492e4d7bbf3113ffb19
+ 28559@thingstodoinyourcity
+DTSTAMP:20260906T135324Z
+DTSTART;VALUE=DATE:20260910
+SUMMARY:Gordon Brown in conversation
+DESCRIPTION:Gordon Brown explores a practical and hopeful roadmap for an 
+ equitable\, sustainable course amid increasing global instability.\nPric
+ e: £35.00\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:London and online\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eaaa68b9198e46d0b882321aa9e1b041-occ_8d10c32198eb44efba616d9e728
+ 553d7@thingstodoinyourcity
+DTSTAMP:20260905T032902Z
+DTSTART;VALUE=DATE:20260910
+SUMMARY:Lady in Blue by Tschabalala Self
+DESCRIPTION:Lady in Blue by Tschabalala Self will be unveiled on the Four
+ th Plinth in Trafalgar Square.\nhttps://www.culturalwednesday.co.uk/best
+ -london-exhibitions-2/
+LOCATION:Fourth Plinth\, Trafalgar Square\, London
+URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f3a3d70459dc4be29816581e667fc183-occ_ee804a7ca2644eaa86bd576b88c
+ b9b22@thingstodoinyourcity
+DTSTAMP:20260906T211640Z
+DTSTART:20260910T083000Z
+DTEND:20260910T160000Z
+SUMMARY:Peripatetic Pedagogical Practices
+DESCRIPTION:An interdisciplinary event explores walking and mobile method
+ s in higher-education teaching. It includes six parallel walks or outing
+ s around Central London.\nPrice: Free\nhttps://www.westminster.ac.uk/eve
+ nts
+LOCATION:CAVENDISH CAMPUS\, Central London\, London
+URL:https://www.westminster.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fffa27e9f2254c9e83cf28b49822e230-occ_fef936c62c584cae8cd3caf2d90
+ ba3e2@thingstodoinyourcity
+DTSTAMP:20260904T173054Z
+DTSTART:20260910T100000Z
+DTEND:20260910T123000Z
+SUMMARY:Off to Uni Cookery Workshop
+DESCRIPTION:A hands-on two-day workshop teaches budget\, nutritionally ba
+ lanced meals and practical kitchen skills. Book one or both days\; lunch
+  and food to take home are included.\nPrice: £20 per person per day\nht
+ tps://www.gardenmuseum.org.uk/whats-on/off-to-uni-cookery-workshop/
+LOCATION:The Garden Museum's learning kitchen\, Lambeth Palace Road\, Lon
+ don\, SE1 7LB\, London
+URL:https://www.gardenmuseum.org.uk/whats-on/off-to-uni-cookery-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1fcbfe0d8457471a8dbc58c602b267da-occ_93ca7fdb31474187a05b1217684
+ 60086@thingstodoinyourcity
+DTSTAMP:20260904T185412Z
+DTSTART:20260910T130000Z
+DTEND:20260910T150000Z
+SUMMARY:Exploring Natural Dye Plants
+DESCRIPTION:Explore botanical dyes through drawing\, demonstrations and h
+ ands-on fabric dyeing. Learn sustainable techniques using plants harvest
+ ed in England.\nPrice: Free\, pre-booking required\nhttps://www.gardenmu
+ seum.org.uk/whats-on/branch-out-exploring-natural-dye-plants-with-the-ga
+ rdening-drawing-club/
+LOCATION:Garden Museum\, Lambeth Palace Road\, London\, SE1 7LB\, London
+URL:https://www.gardenmuseum.org.uk/whats-on/branch-out-exploring-natural
+ -dye-plants-with-the-gardening-drawing-club/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdbdd7ce22db420f9cd14492fe10e5e0-occ_ec7ef015950b49e9865167a039a
+ e1830@thingstodoinyourcity
+DTSTAMP:20260905T061657Z
+DTSTART:20260910T130000Z
+SUMMARY:Hilary Duff
+DESCRIPTION:Price: €90 – €151\,376 EUR\nhttps://catchmovement.com/l
+ ondon/concerts
+LOCATION:O2 Arena - London\, London
+URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5e4e03c7528b457496d0bbadd1f381fa-occ_23b5daac32ed4ba5a8cdbfcb5f3
+ 496d3@thingstodoinyourcity
+DTSTAMP:20260905T061527Z
+DTSTART:20260910T130000Z
+SUMMARY:Maya Lane
+DESCRIPTION:Price: €43+ EUR\nhttps://catchmovement.com/london/concerts
+LOCATION:Barfly Camden\, London
+URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cd9cb35113aa4983aa5df213ea057951-occ_c666928a4cad4fc299292a074ee
+ d1a70@thingstodoinyourcity
+DTSTAMP:20260906T212430Z
+DTSTART:20260910T160000Z
+SUMMARY:Food and Taste Studies Launch
+DESCRIPTION:Launch of Westminster’s first Food and Taste Studies Specia
+ l Interest group\, with member talks and a wine\, cheese\, canapé and c
+ ake reception.\nhttps://www.westminster.ac.uk/events
+LOCATION:CAVENDISH CAMPUS\, Room C.103\, 115 New Cavendish Street\, Londo
+ n W1W 6UW\, London
+URL:https://www.westminster.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b3032c4c6e30418dbc5567ffbc9f5686-occ_90e0fd3aa9c74d5a8f237a246d5
+ 06cf3@thingstodoinyourcity
+DTSTAMP:20260905T005738Z
+DTSTART:20260910T174500Z
+DTEND:20260910T200000Z
+SUMMARY:Yugantar Film Collective Screening
+DESCRIPTION:Two Yugantar Film Collective films are screened in full\, fol
+ lowed by readings and conversation with Jemma Desai and Alia Syed.\nPric
+ e: Free\nhttps://www.somersethouse.org.uk/whats-on
+LOCATION:Screening Room\, South Wing\, London
+URL:https://www.somersethouse.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6399898f709d4df5828972492efd3f74-occ_cd75a3edd2a4485e870dc682fd0
  38fb4@thingstodoinyourcity
 DTSTAMP:20260905T024510Z
@@ -117,6 +524,119 @@ LOCATION:Online Event\, London
 URL:https://www.seedtalks.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5890a7a24c82454694e428f8ac5351ca-occ_e75f2acaca7a431395e7986e638
+ d0ed2@thingstodoinyourcity
+DTSTAMP:20260904T175812Z
+DTSTART:20260910T183000Z
+DTEND:20260910T201500Z
+SUMMARY:Flying Scotsman in America
+DESCRIPTION:Richard Hinchcliffe presents his experiences surrounding Flyi
+ ng Scotsman’s 1970 American tour. The hybrid lecture is available in p
+ erson or on Zoom.\nPrice: A suggested donation of £3 either in person o
+ r on our virtual coffee page\nhttps://themodelrailwayclub.org/events
+LOCATION:Keen House\, Keen House\, 4 Calshot Street\, London\, N1 9DA\, L
+ ondon
+URL:https://themodelrailwayclub.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fb5f868a173a43668d58675be300dee4-occ_e40f248acd8445dcaa6fdf73af3
+ 7fcc2@thingstodoinyourcity
+DTSTAMP:20260904T163909Z
+DTSTART:20260910T183000Z
+SUMMARY:IN THE BRAIN
+DESCRIPTION:Hofesh Shechter’s new full-length work for Shechter II. A d
+ reamlike\, club-like state where movement takes over and euphoria unfold
+ s.\nPrice: From £19\nhttps://www.artsdepot.co.uk/whats-on
+LOCATION:Pentland Theatre\, London
+URL:https://www.artsdepot.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_05e2b8c315754a328394ac70552f05dd-occ_f16e006040be46c69b8cc1904f4
+ ed007@thingstodoinyourcity
+DTSTAMP:20260904T163848Z
+DTSTART:20260910T193000Z
+DTEND:20260910T212700Z
+SUMMARY:Pink Palace 4th Birthday: The Birdcage
+DESCRIPTION:A screening of The Birdcage follows a discussion about Pink P
+ alace’s queer film club\, with a lobby party afterwards.\nPrice: Stand
+ ard £13.00\; Concession £11.00\; Member £10.00\; Member Concession £
+ 8.00\; CEA Carer £13.00\; Wheelchair Standard £13.00\; Wheelchair Conc
+ ession £11.00\; Wheelchair Member £10.00\; Wheelchair Member Concessio
+ n £8.00\; Wheelchair CEA Carer £13.00\nhttps://riocinema.org.uk/Rio.dl
+ l/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsW
+ ebTab_0.TcsPerformance_2704849.TcsSection_936
+LOCATION:Screen 1\, 107 Kingsland High Street\, London\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
+ tItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2704849.TcsSect
+ ion_936
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ea6f977c253646b5a7767a5794f545b8-occ_743c5bba378a475383307e145ac
+ bc94c@thingstodoinyourcity
+DTSTAMP:20260905T071137Z
+DTSTART:20260910T200000Z
+DTEND:20260910T220000Z
+SUMMARY:The Sugar Kings Duo + Free Late Set
+DESCRIPTION:The Sugar Kings Cuban Trio perform son Cubano\, vintage mambo
+  and cha cha cha. A free late blues set follows with Loredana Fantini an
+ d Alberto Manuzzi.\nPrice: COVER CHARGE: £6\nhttps://www.barnightjar.co
+ m/whats-on
+LOCATION:Nightjar\, 129 City Road London United Kingdom\, Shoreditch\, Lo
+ ndon
+URL:https://www.barnightjar.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1342342b30764be583aa12a05ca3e3b7-occ_cdedd97eeb25421b971dba069c3
+ a48f8@thingstodoinyourcity
+DTSTAMP:20260904T175948Z
+DTSTART:20260910T203000Z
+SUMMARY:Mothman: A Romance Musical
+DESCRIPTION:A romantic comedy musical set in 1943\, where a super-soldier
+  experiment mutates into Mothman. Part of Underbelly’s Fringe Fix sele
+ ction.\nPrice: Prices from £19.50 (includes booking fee)\nhttps://under
+ bellyboulevard.com/tickets
+LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
+ , London
+URL:https://underbellyboulevard.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_205a54718659472c9a80d915c7cf9546-occ_afdd885c37e04ba0ae46c13d470
+ 20a78@thingstodoinyourcity
+DTSTAMP:20260904T210545Z
+DTSTART;VALUE=DATE:20260911
+SUMMARY:ITZY 3rd World Tour: Tunnel Vision
+DESCRIPTION:ITZY brings the European and UK leg of its 3rd World Tour to 
+ London. The show supports the group's mini-album TUNNEL VISION.\nhttps:/
+ /www.ovoarena.co.uk/events
+LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
+ , Wembley\, HA9 0AA.\, Wembley Park\, Wembley\, London
+URL:https://www.ovoarena.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7a03b264e7f94517927c1c24b7260079-occ_f499874e6cc0411ca6bce6df7c3
+ e8b38@thingstodoinyourcity
+DTSTAMP:20260905T042840Z
+DTSTART;VALUE=DATE:20260911
+SUMMARY:ITZY 3rd World Tour: Tunnel Vision
+DESCRIPTION:ITZY brings the European and UK leg of its 3rd World Tour to 
+ London. The tour supports the mini-album TUNNEL VISION and EP Motto.\nht
+ tps://www.ovoarena.co.uk/events/detail/itzy-1
+LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
+ , Wembley\, HA9 0AA.\, Wembley Park\, London
+URL:https://www.ovoarena.co.uk/events/detail/itzy-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3f8d7c1b5978431d99064d0759770154-occ_677b6a9afe57407cb761caea11a
+ 30f8f@thingstodoinyourcity
+DTSTAMP:20260905T071504Z
+DTSTART:20260911T130000Z
+SUMMARY:Mo Gilligan
+DESCRIPTION:Price: €201 – €433 EUR\nhttps://catchmovement.com/londo
+ n/concerts
+LOCATION:Eventim Apollo\, London
+URL:https://catchmovement.com/london/concerts
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b0409350998544de8ccb1362aac714dc-occ_fea0beba1ddd498c9e439b0b659
  937fa@thingstodoinyourcity
 DTSTAMP:20260905T041226Z
@@ -127,6 +647,36 @@ DESCRIPTION:Evidence-based workshop on menopause\, resistance training\,
  Liz Brown.\nhttps://www.seedtalks.co.uk/
 LOCATION:Online Event\, London
 URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e0ee940656f14722a46c6443dfc995da-occ_f5f8cbe888e74d2abbe25631d22
+ ae832@thingstodoinyourcity
+DTSTAMP:20260904T164812Z
+DTSTART:20260922T173000Z
+SUMMARY:The Tempest Aboard The Golden Hinde
+DESCRIPTION:A site-specific 60-minute Shakespeare performance aboard The 
+ Golden Hinde\, immersing audiences in shipwreck\, magic and reconciliati
+ on.\nPrice: £15\nhttps://www.goldenhinde.co.uk/whats-on/35-theatre/761-
+ shakespeares-the-tempest-aboard-the-golden-hinde
+LOCATION:The Golden Hinde\, St Mary Overie Dock\, Cathedral Street\, Lond
+ on\, SE1 9DE\, London\, Greater London\, London
+URL:https://www.goldenhinde.co.uk/whats-on/35-theatre/761-shakespeares-th
+ e-tempest-aboard-the-golden-hinde
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e0ee940656f14722a46c6443dfc995da-occ_d21c549b00f345e6a817fbbf27f
+ 657b6@thingstodoinyourcity
+DTSTAMP:20260904T164812Z
+DTSTART:20260922T190000Z
+SUMMARY:The Tempest Aboard The Golden Hinde
+DESCRIPTION:A site-specific 60-minute Shakespeare performance aboard The 
+ Golden Hinde\, immersing audiences in shipwreck\, magic and reconciliati
+ on.\nPrice: £15\nhttps://www.goldenhinde.co.uk/whats-on/35-theatre/761-
+ shakespeares-the-tempest-aboard-the-golden-hinde
+LOCATION:The Golden Hinde\, St Mary Overie Dock\, Cathedral Street\, Lond
+ on\, SE1 9DE\, London\, Greater London\, London
+URL:https://www.goldenhinde.co.uk/whats-on/35-theatre/761-shakespeares-th
+ e-tempest-aboard-the-golden-hinde
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b49081b978374258a84422d221869aa8-occ_fbe0eecd6a294772b7284b726e6
