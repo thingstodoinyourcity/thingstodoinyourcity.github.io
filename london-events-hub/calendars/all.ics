@@ -13,7 +13,7 @@ UID:cand_0900dc890ad04f4780c9d70d1a1a7321-occ_14faa9a81c0342029588d013068
 DTSTAMP:20260815T104235Z
 DTSTART;VALUE=DATE:20211228
 DTEND;VALUE=DATE:20270627
-SUMMARY:Untitled event
+SUMMARY:Magic Mike Live
 DESCRIPTION:https://www.britishtheatreguide.info/listings
 LOCATION:The Hippodrome Casino London\, London
 URL:https://www.britishtheatreguide.info/listings
@@ -39,7 +39,7 @@ UID:cand_170b4a2c94d048d490a178785f51b231-occ_b2b9f60da0ba43488b2fc7c1f18
 DTSTAMP:20260814T134604Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20261231
-SUMMARY:Untitled event
+SUMMARY:Royal Arsenal Farmers Market
 DESCRIPTION:https://www.visitgreenwich.org.uk/shopping/royal-arsenal-farm
  ers-market-p1393221
 LOCATION:Artillery Square\, Artillery Square\, Royal Arsenal\, Woolwich\,
@@ -68,7 +68,7 @@ UID:cand_3e3e1171b4324ba0ba7eed9324909995-occ_311f52b6ea814f6c90b58e5877c
 DTSTAMP:20260815T055457Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20261115
-SUMMARY:Untitled event
+SUMMARY:Inside Aardman: Wallace & Gromit
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Young V&A\, London
@@ -81,10 +81,23 @@ UID:cand_86e856e0c1644d81bc7d54ce45252b84-occ_3efdd4ade35d490599261d97b0b
 DTSTAMP:20260815T070431Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20261108
-SUMMARY:Untitled event
+SUMMARY:The Last Princesses of Punjab
 DESCRIPTION:Price: Included in palace ticket\nhttps://whatsdownthatstreet
  .com/london-museum-guide/exhibitions-london/
 LOCATION:Kensington Palace\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_351bab55cf3e42f2b2663363cf73cce2-occ_48d7c539d9bd48a8badf7996d37
+ c9f59@thingstodoinyourcity
+DTSTAMP:20260815T090947Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20261109
+SUMMARY:Schiaparelli: Fashion Becomes Art
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Victoria and Albert Museum (V&A)\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
@@ -104,19 +117,6 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_351bab55cf3e42f2b2663363cf73cce2-occ_48d7c539d9bd48a8badf7996d37
- c9f59@thingstodoinyourcity
-DTSTAMP:20260815T090947Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20261109
-SUMMARY:Untitled event
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Victoria and Albert Museum (V&A)\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e8667b81cb5947b2814741cf27c990ad-occ_d6cfe28045514f39b61ecec0783
  9b6fa@thingstodoinyourcity
 DTSTAMP:20260906T164227Z
@@ -126,6 +126,19 @@ SUMMARY:Schiaparelli: Fashion Becomes Art
 DESCRIPTION:https://culturecity.london/
 LOCATION:Victoria & Albert Museum (V&A)\, London
 URL:https://culturecity.london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5118bc1996d54b88a175c6fa2122e2f2-occ_3718d9b4276d4aa3b3d86306d1c
+ 4aa8c@thingstodoinyourcity
+DTSTAMP:20260815T055315Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20261018
+SUMMARY:Queen Elizabeth II: Her Life in Style
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:The King’s Gallery\, Buckingham Palace\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_63f1945044a94a7b80e9dcad2dbbc058-occ_faa4bbfde67e421d84c8e149fef
@@ -142,25 +155,12 @@ LOCATION:King's Gallery\, Buckingham Palace\, Buckingham Palace\, London
 URL:https://culturecity.london/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5118bc1996d54b88a175c6fa2122e2f2-occ_3718d9b4276d4aa3b3d86306d1c
- 4aa8c@thingstodoinyourcity
-DTSTAMP:20260815T055315Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20261018
-SUMMARY:Untitled event
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:The King’s Gallery\, Buckingham Palace\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_179e88f029f74bd9b6c1e55e136c141b-occ_17f3a723dcb143d597ae60a1abb
  09f21@thingstodoinyourcity
 DTSTAMP:20260823T132554Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20261025
-SUMMARY:Untitled event
+SUMMARY:The Wallace Collection at War
 DESCRIPTION:Price: This free display\nhttps://makeitmarylebone.co.uk/even
  t/the-wallace-collection-at-war/
 LOCATION:The Wallace Collection\, London
@@ -172,7 +172,7 @@ UID:cand_350a267db066469790739eeef913e8ec-occ_d222a692ccef4776b80ae491423
 DTSTAMP:20260815T072310Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20261025
-SUMMARY:Untitled event
+SUMMARY:The Wallace Collection at War
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Wallace Collection\, London
@@ -185,7 +185,7 @@ UID:cand_b3c7125cc0984db68c427230afbb43d8-occ_88e7a419a9104ee99de0ac6635b
 DTSTAMP:20260815T050920Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260919
-SUMMARY:Untitled event
+SUMMARY:Nhu Xuan Hua: Of Walking on Fire
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Autograph Gallery\, London
@@ -280,7 +280,7 @@ UID:cand_ae98c04af99d44e5b7aad27c89d07cf2-occ_71bdae89161f4156af49ca51c9e
 DTSTAMP:20260815T070524Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20261004
-SUMMARY:Untitled event
+SUMMARY:NIGO: From Japan with Love
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Design Museum\, London
@@ -307,7 +307,7 @@ UID:cand_035e8c48220f415b88964dc18ce59e30-occ_e728ef9758284ec295f93692684
 DTSTAMP:20260815T065853Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20270117
-SUMMARY:Untitled event
+SUMMARY:Zineb Sedira: Tate Britain Commission
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Tate Britain\, London
@@ -331,6 +331,19 @@ URL:https://www.flolondon.co.uk/all-posts/things-to-do-in-london-in-may-2
  026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_073f220568c64b5bbeccfb0927cf0e95-occ_4d3eaef9eac2412c87a6f47509b
+ e50e0@thingstodoinyourcity
+DTSTAMP:20260815T051244Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20270110
+SUMMARY:Rising Voices: Art from Asia\, Australia and Pacific
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Victoria and Albert Museum (V&A)\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec176283c14b4ed18916ca6889b703f6-occ_82adb66995a444209959fd1f512
  3f512@thingstodoinyourcity
 DTSTAMP:20260904T190636Z
@@ -344,19 +357,6 @@ DESCRIPTION:Contemporary art from Asia\, Australia and the Pacific\, pres
 LOCATION:The Porter Gallery\, V&A South Kensington\, Cromwell Road\, Lond
  on SW7 2RL\, South Kensington\, London
 URL:https://www.londonmuseumtours.com/temporary-exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_073f220568c64b5bbeccfb0927cf0e95-occ_4d3eaef9eac2412c87a6f47509b
- e50e0@thingstodoinyourcity
-DTSTAMP:20260815T051244Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20270110
-SUMMARY:Untitled event
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Victoria and Albert Museum (V&A)\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e16d06637d04c388d83958d141937d0-occ_0cd2b88dca684970b809f58e6b6
@@ -374,6 +374,19 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_521c58a01ec3448f9e450aecb9823456-occ_3929b979c20046b997adfcadc04
+ 516b2@thingstodoinyourcity
+DTSTAMP:20260815T072130Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260927
+SUMMARY:James McNeill Whistler
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Tate Britain\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_da28cb7c1b6344778ca97b1cef655dc6-occ_f8b2cdf903cc4e6c98c0d30d6f3
  1254f@thingstodoinyourcity
 DTSTAMP:20260905T150856Z
@@ -389,25 +402,12 @@ LOCATION:Tate Britain\, London SW1P 4RG\, Millbank\, London
 URL:https://www.tate.org.uk/whats-on/tate-britain/whistler
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_521c58a01ec3448f9e450aecb9823456-occ_3929b979c20046b997adfcadc04
- 516b2@thingstodoinyourcity
-DTSTAMP:20260815T072130Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260927
-SUMMARY:Untitled event
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Tate Britain\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8ce2d3fe010c495e9de25592ffc397ac-occ_e1ad9436d6814877be759fbe69f
  a3900@thingstodoinyourcity
 DTSTAMP:20260815T051556Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
+SUMMARY:Jurassic Oceans: Monsters of the Deep
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Natural History Museum\, London
@@ -420,7 +420,7 @@ UID:cand_6fb639029cd04c58b723c556075b7451-occ_9dfb965332cf455c9e7e001ccbc
 DTSTAMP:20260823T135526Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20261129
-SUMMARY:Untitled event
+SUMMARY:Winston Churchill: The Painter
 DESCRIPTION:A major retrospective brings together more than 50 of Churchi
  ll’s paintings\, including works from private collections. Explore war
  time scenes\, Mediterranean views\, portraits and Chartwell paintings.\n
@@ -436,7 +436,7 @@ UID:cand_8b278648f544424da5a77f404651a4e2-occ_20a37cc792704bbc8d3fe19596c
 DTSTAMP:20260815T063458Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20261129
-SUMMARY:Untitled event
+SUMMARY:Winston Churchill: The Painter
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Wallace Collection\, London
@@ -449,7 +449,7 @@ UID:cand_691fd212158b4ba08f01db12588b0652-occ_0ce0ca03b1474de58c405d4edef
 DTSTAMP:20260815T065656Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20270530
-SUMMARY:Untitled event
+SUMMARY:Tenderness and Rage: Stories of HIV and AIDS
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Wellcome Collection\, London
@@ -524,6 +524,19 @@ LOCATION:Quentin Blake Centre for Illustration\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_130af08c2aea480d92e2a37aab47d3a2-occ_dbb6a0d5910a418a9b732d802f6
+ e6e18@thingstodoinyourcity
+DTSTAMP:20260815T051242Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20261004
+SUMMARY:Hepworth and Nicholson Studio Photographs
+DESCRIPTION:Price: Free with gallery entry\nhttps://whatsdownthatstreet.c
+ om/london-museum-guide/exhibitions-london/
+LOCATION:Courtauld Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_add51c56cc3f426b84d4fa1bc060c7f5-occ_2a71a83f88db4e73b2b5f3c82d0
  22579@thingstodoinyourcity
 DTSTAMP:20260907T031038Z
@@ -537,25 +550,12 @@ LOCATION:Kensington Gardens (Serpentine South)\, London
 URL:https://www.londoninfoguide.com/events-in-london-in-june.html
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_130af08c2aea480d92e2a37aab47d3a2-occ_dbb6a0d5910a418a9b732d802f6
- e6e18@thingstodoinyourcity
-DTSTAMP:20260815T051242Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20261004
-SUMMARY:Untitled event
-DESCRIPTION:Price: Free with gallery entry\nhttps://whatsdownthatstreet.c
- om/london-museum-guide/exhibitions-london/
-LOCATION:Courtauld Gallery\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_feb799c084ab4d709bfd19868d5ab812-occ_08abfcd78d8541f392362998c7d
  2cd61@thingstodoinyourcity
 DTSTAMP:20260815T050746Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260913
-SUMMARY:Untitled event
+SUMMARY:Studio Prints: An Artists’ Workshop
 DESCRIPTION:Price: Free with gallery entry\nhttps://whatsdownthatstreet.c
  om/london-museum-guide/exhibitions-london/
 LOCATION:Courtauld Gallery\, London
@@ -583,7 +583,7 @@ UID:cand_692df6e3df64493db2779fc6f6c36afd-occ_b1cfe32148774383a2bfacad6e5
 DTSTAMP:20260815T070016Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20261018
-SUMMARY:Untitled event
+SUMMARY:Anish Kapoor
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Hayward Gallery\, London
@@ -649,6 +649,19 @@ URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-o
  f-an-icon
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5603650c50aa46d9a6488ebf0523d628-occ_0bcd4d00691f4c81a7164dd1f58
+ 46533@thingstodoinyourcity
+DTSTAMP:20260815T064718Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20270103
+SUMMARY:Frida: The Making of an Icon
+DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
+ ide/exhibitions-london/
+LOCATION:Tate Modern\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_713a5f7bca224f3c8c2bc48b8b461bd3-occ_bb47ef81208f432887c9b5e4723
  9388b@thingstodoinyourcity
 DTSTAMP:20260904T191126Z
@@ -684,23 +697,10 @@ UID:cand_18ad7e7bb99d481fabdcea25d453c54e-occ_8936782d3660475e9103e61c34b
 DTSTAMP:20260815T065657Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20261007
-SUMMARY:Untitled event
+SUMMARY:Kramer Portrait Award 2026
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:National Portrait Gallery\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5603650c50aa46d9a6488ebf0523d628-occ_0bcd4d00691f4c81a7164dd1f58
- 46533@thingstodoinyourcity
-DTSTAMP:20260815T064718Z
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Tate Modern\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
@@ -710,7 +710,7 @@ UID:cand_40659255d0134119b9897a5ae1ea8a4c-occ_042ad8431b3f409798dc937ce46
 DTSTAMP:20260815T085704Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20261114
-SUMMARY:Untitled event
+SUMMARY:Manasa Chitra: Art of Mental Health
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Bethlem Museum of the Mind\, London
@@ -723,7 +723,7 @@ UID:cand_5c34db7d58324d42a888cb6e98ba93e7-occ_3922ec84879944819b71fd392af
 DTSTAMP:20260815T071512Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20270117
-SUMMARY:Untitled event
+SUMMARY:American Revolution: 250 Years
 DESCRIPTION:Price: Free\, no booking required\nhttps://events.bl.uk/exhib
  itions/american-revolution-250-years-from-the-declaration-of-independenc
  e
@@ -738,7 +738,7 @@ UID:cand_d0304eccf5fe4d94afb94680bf93fc91-occ_59f3a75c28d545c5851eb3c4fe1
 DTSTAMP:20260815T055626Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20261109
-SUMMARY:Untitled event
+SUMMARY:RPS International Photography Exhibition 167
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Saatchi Gallery\, London
@@ -776,12 +776,12 @@ LOCATION:Gasworks\, 155 Vauxhall St\, London SE11 5RH\, UK\, London
 URL:https://culturecity.london/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_56d827e19210421daa33f03a3e1c2dbc-occ_99ccd47fa4bb432ab5a1079f582
- 8ca8d@thingstodoinyourcity
-DTSTAMP:20260815T031025Z
+UID:cand_91dd5d514c9942b1b503768a25ccd959-occ_cf75b69f980d4e938bd43753f5f
+ 9496f@thingstodoinyourcity
+DTSTAMP:20260815T065851Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20270207
-SUMMARY:Untitled event
+SUMMARY:Audrey Amiss: The Surviving Exhibitions
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Wellcome Collection\, London
@@ -789,12 +789,12 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_91dd5d514c9942b1b503768a25ccd959-occ_cf75b69f980d4e938bd43753f5f
- 9496f@thingstodoinyourcity
-DTSTAMP:20260815T065851Z
+UID:cand_56d827e19210421daa33f03a3e1c2dbc-occ_99ccd47fa4bb432ab5a1079f582
+ 8ca8d@thingstodoinyourcity
+DTSTAMP:20260815T031025Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20270207
-SUMMARY:Untitled event
+SUMMARY:Rudy Loewe: Intimacies of Care
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Wellcome Collection\, London
@@ -807,7 +807,7 @@ UID:cand_08449b3a13714a9abecaa13246a28ee2-occ_989f9b5b8b7e46058e2dce57a37
 DTSTAMP:20260815T063616Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20270117
-SUMMARY:Untitled event
+SUMMARY:Ana Mendieta
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Tate Modern\, London
@@ -820,7 +820,7 @@ UID:cand_9d3fe9b964db44c19c4070d39e292a76-occ_ae96a4a9f15e4421b814c326e30
 DTSTAMP:20260823T173916Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260912
-SUMMARY:Untitled event
+SUMMARY:Found Memories
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Ames Yavuz\, 31 Grosvenor Hill\, W1K 3QU\, London\, London West 
  End\, London
@@ -832,7 +832,7 @@ UID:cand_982193a0922241ddb14d75033c07a224-occ_e13dd37266d4497e8583428a2fc
 DTSTAMP:20260823T131117Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20261007
-SUMMARY:Untitled event
+SUMMARY:Bruiseless
 DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
  hibitions
 LOCATION:Belmacz\, London
@@ -875,7 +875,7 @@ UID:cand_1804d1d5a64a40b78acb2fb37598d3a5-occ_b40c14c776a74bc2b0d9c6ddff1
 DTSTAMP:20260815T094801Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20261004
-SUMMARY:Untitled event
+SUMMARY:Portrait of a City: American Photography
 DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Dulwich Picture Gallery\, London
@@ -888,7 +888,7 @@ UID:cand_05dbe3a7014648b5aa53ee05635cd46b-occ_d3289ed155064ee9b9291249ab8
 DTSTAMP:20260815T055209Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20261108
-SUMMARY:Untitled event
+SUMMARY:Clare Woods: Garden Without Seasons
 DESCRIPTION:Price: Free with entrance ticket\nhttps://whatsdownthatstreet
  .com/london-museum-guide/exhibitions-london/
 LOCATION:Pitzhanger Manor & Gallery\, London
@@ -927,7 +927,7 @@ UID:cand_85e2b6e76ec3445ebd1eeb4e96f9f8ff-occ_355892cb05cc453a8443ee5db9d
 DTSTAMP:20260815T050925Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20270228
-SUMMARY:Untitled event
+SUMMARY:Childhood in War
 DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
  ide/exhibitions-london/
 LOCATION:Imperial War Museum London\, London
@@ -967,31 +967,20 @@ UID:cand_7a4d9f32463645e68ab3b596b37334c5-occ_f046e858c4394ffc806231976b9
 DTSTAMP:20260814T094224Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
+SUMMARY:Titaníque
 DESCRIPTION:https://www.criterion-theatre.co.uk
 LOCATION:Criterion Theatre\, Piccadilly Circus\, London
 URL:https://www.criterion-theatre.co.uk
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_017f45f340a944a4977da9ecf4b8872d-occ_4a68c1388a5f4525b530515fa51
- de735@thingstodoinyourcity
-DTSTAMP:20260815T104413Z
+UID:cand_992242e1ac784087868cb65b4d96da2d-occ_0d5d9a80af934cec9574070b70e
+ 8e1c9@thingstodoinyourcity
+DTSTAMP:20260815T010920Z
 DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20261101
-SUMMARY:Untitled event
-DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
-LOCATION:Southwark Park Galleries - Lake Gallery\, London
-URL:https://www.artrabbit.com/all-shows/united-kingdom/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0dd5d7dad1c24717a4afc5b83d104a74-occ_c0bcb6190dc1410dae8efa19ea3
- ced2f@thingstodoinyourcity
-DTSTAMP:20260815T013016Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20261003
-SUMMARY:Untitled event
+DTEND;VALUE=DATE:20270103
+SUMMARY:Avenue Q
 DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Prince Of Wales Theatre\, London
+LOCATION:Shaftesbury Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1000,31 +989,20 @@ UID:cand_2be8bcc8aacf45158a5b9db4b33adb31-occ_5aabb80f70bf466a92ccbb9623c
 DTSTAMP:20260815T010141Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270417
-SUMMARY:Untitled event
+SUMMARY:Beetlejuice the Musical
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Prince Edward Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_33007b3050ea45c488d3ddaaf0cbf8fb-occ_ce12bc4d908a40e4b274a751967
- 03e78@thingstodoinyourcity
-DTSTAMP:20260815T010436Z
+UID:cand_7c84700851244dd78906c47b3bfd2382-occ_6be8e782f0e14c8eb65341c98b2
+ e9631@thingstodoinyourcity
+DTSTAMP:20260815T010555Z
 DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20270220
-SUMMARY:Untitled event
+DTEND;VALUE=DATE:20261219
+SUMMARY:Buff Bingo Drag Brunch
 DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Fortune Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_344c31c2d9b44c80b202a1ff0c8c7e76-occ_ad36d2196d2549cb8baf490ea99
- 52bc0@thingstodoinyourcity
-DTSTAMP:20260815T010327Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20271003
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Duchess Theatre\, London
+LOCATION:Vauxhall Street Food Garden & Fire Club\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1033,42 +1011,53 @@ UID:cand_37842768d49a49eab1b3841c383b892a-occ_12c6ec457dfe42d683108e48816
 DTSTAMP:20260815T010438Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20261220
-SUMMARY:Untitled event
+SUMMARY:Faulty Towers Dining Experience
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:President Hotel\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_433d33b4edbe48828a92b4707ea6896c-occ_170530b711c2498a9c4e0a7fb00
- 9437d@thingstodoinyourcity
-DTSTAMP:20260815T004713Z
+UID:cand_017f45f340a944a4977da9ecf4b8872d-occ_4a68c1388a5f4525b530515fa51
+ de735@thingstodoinyourcity
+DTSTAMP:20260815T104413Z
 DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20271211
-SUMMARY:Untitled event
-DESCRIPTION:https://www.atgtickets.com/whats-on/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.atgtickets.com/whats-on/
+DTEND;VALUE=DATE:20261101
+SUMMARY:Isabel Nolan: some fundamental forces
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Southwark Park Galleries - Lake Gallery\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7c84700851244dd78906c47b3bfd2382-occ_6be8e782f0e14c8eb65341c98b2
- e9631@thingstodoinyourcity
-DTSTAMP:20260815T010555Z
+UID:cand_b808e7c580db4cbca3dcd2dbc174806d-occ_db4bc40213c149678fd099624f2
+ 5cf8b@thingstodoinyourcity
+DTSTAMP:20260815T071416Z
 DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20261219
-SUMMARY:Untitled event
+DTEND;VALUE=DATE:20261114
+SUMMARY:Late Late Show Upstairs with N22
+DESCRIPTION:https://www.ronniescotts.co.uk/find-a-show
+LOCATION:Late Late Show Upstairs\, Soho\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b21507340b1840989bc8fe7f7f812da9-occ_d7cd235b6ade46ecadd9d77c2e3
+ cf526@thingstodoinyourcity
+DTSTAMP:20260815T010138Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20270102
+SUMMARY:Oh\, Mary!
 DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Vauxhall Street Food Garden & Fire Club\, London
+LOCATION:Trafalgar Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_992242e1ac784087868cb65b4d96da2d-occ_0d5d9a80af934cec9574070b70e
- 8e1c9@thingstodoinyourcity
-DTSTAMP:20260815T010920Z
+UID:cand_33007b3050ea45c488d3ddaaf0cbf8fb-occ_ce12bc4d908a40e4b274a751967
+ 03e78@thingstodoinyourcity
+DTSTAMP:20260815T010436Z
 DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
+DTEND;VALUE=DATE:20270220
+SUMMARY:Operation Mincemeat
 DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Shaftesbury Theatre\, London
+LOCATION:Fortune Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1077,43 +1066,10 @@ UID:cand_b1622a794b1a482d970f5c07bfb1f094-occ_8cf9c09a82ca40eb813fe1d656b
 DTSTAMP:20260815T093653Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260919
-SUMMARY:Untitled event
+SUMMARY:Sh!t-Faced Shakespeare: Romeo and Juliet
 DESCRIPTION:https://www.leicestersquaretheatre.com/whats-on/
 LOCATION:6 Leicester Place London WC2H 7BX\, London
 URL:https://www.leicestersquaretheatre.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b21507340b1840989bc8fe7f7f812da9-occ_d7cd235b6ade46ecadd9d77c2e3
- cf526@thingstodoinyourcity
-DTSTAMP:20260815T010138Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20270102
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Trafalgar Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b808e7c580db4cbca3dcd2dbc174806d-occ_db4bc40213c149678fd099624f2
- 5cf8b@thingstodoinyourcity
-DTSTAMP:20260815T071416Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20261114
-SUMMARY:Untitled event
-DESCRIPTION:https://www.ronniescotts.co.uk/find-a-show
-LOCATION:Late Late Show Upstairs\, Soho\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dbd73cdae0d245f698caf18aa4a81b20-occ_aa5a784ca90e4a2d87d7bb6b423
- df5d1@thingstodoinyourcity
-DTSTAMP:20260815T010554Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260919
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Garrick Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e8e51d9d35a847c2b41dd066f546217b-occ_d4517d138b6040dda6d0cacff1b
@@ -1121,10 +1077,54 @@ UID:cand_e8e51d9d35a847c2b41dd066f546217b-occ_d4517d138b6040dda6d0cacff1b
 DTSTAMP:20260815T012659Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
+SUMMARY:TITANIQUE
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Criterion Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0dd5d7dad1c24717a4afc5b83d104a74-occ_c0bcb6190dc1410dae8efa19ea3
+ ced2f@thingstodoinyourcity
+DTSTAMP:20260815T013016Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20261003
+SUMMARY:The Book of Mormon
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Prince Of Wales Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_344c31c2d9b44c80b202a1ff0c8c7e76-occ_ad36d2196d2549cb8baf490ea99
+ 52bc0@thingstodoinyourcity
+DTSTAMP:20260815T010327Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20271003
+SUMMARY:The Play That Goes Wrong
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Duchess Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dbd73cdae0d245f698caf18aa4a81b20-occ_aa5a784ca90e4a2d87d7bb6b423
+ df5d1@thingstodoinyourcity
+DTSTAMP:20260815T010554Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260919
+SUMMARY:The Producers
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Garrick Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_433d33b4edbe48828a92b4707ea6896c-occ_170530b711c2498a9c4e0a7fb00
+ 9437d@thingstodoinyourcity
+DTSTAMP:20260815T004713Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20271211
+SUMMARY:Venue Tour
+DESCRIPTION:https://www.atgtickets.com/whats-on/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.atgtickets.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_99e49f3294cc4ac7993bff3f742683e5-occ_a50f7b1e6108402dbdc686691c2
@@ -1132,7 +1132,7 @@ UID:cand_99e49f3294cc4ac7993bff3f742683e5-occ_a50f7b1e6108402dbdc686691c2
 DTSTAMP:20260815T071119Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20261018
-SUMMARY:Untitled event
+SUMMARY:Natalie Williams' Soul Family
 DESCRIPTION:https://www.ronniescotts.co.uk/find-a-show
 LOCATION:Ronnie Scott's\, 47 Frith Street\, London\, W1D 4HT\, Soho\, Lon
  don
@@ -1157,11 +1157,22 @@ UID:cand_03003e3208d444ffb699a4426c2de16a-occ_1b3d15e82c074d69b0debd94ee4
 DTSTAMP:20260821T142622Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260912
-SUMMARY:Untitled event
+SUMMARY:Death Note: The Musical
 DESCRIPTION:https://www.liverpooltheatres.com/whats-on/barbican-centre_lo
  ndon
 LOCATION:Barbican Centre\, London
 URL:https://www.liverpooltheatres.com/whats-on/barbican-centre_london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e926e4e4333f4f55b861a1e7b063250a-occ_7359f6ef452d4459ae133854457
+ c93f5@thingstodoinyourcity
+DTSTAMP:20260823T135525Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20270103
+SUMMARY:Avenue Q
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Shaftesbury Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6846657e6e0d452487181ebdb0f26134-occ_d322701cf92142728cf80949005
@@ -1169,7 +1180,7 @@ UID:cand_6846657e6e0d452487181ebdb0f26134-occ_d322701cf92142728cf80949005
 DTSTAMP:20260821T234708Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20270417
-SUMMARY:Untitled event
+SUMMARY:Beetlejuice The Musical
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Prince Edward Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
@@ -1180,7 +1191,7 @@ UID:cand_9e472bd614824f39b5e4e4592c6d1aad-occ_a4a6bd9ec02940ed9fe73550574
 DTSTAMP:20260823T154155Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20261026
-SUMMARY:Untitled event
+SUMMARY:Shades of Atonement
 DESCRIPTION:More than 30 London-based artists aged 18 to 35 present diver
  se work. The exhibition considers atonement an ongoing process of acknow
  ledgement\, accountability and repair.\nPrice: Free\nhttps://makeitmaryl
@@ -1196,20 +1207,9 @@ UID:cand_b6b74e40bf3743ab89eca3dabcf3da72-occ_198402f2b2b749558f148017d82
 DTSTAMP:20260821T203124Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20261003
-SUMMARY:Untitled event
+SUMMARY:The Book of Mormon
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Prince Of Wales Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e926e4e4333f4f55b861a1e7b063250a-occ_7359f6ef452d4459ae133854457
- c93f5@thingstodoinyourcity
-DTSTAMP:20260823T135525Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Shaftesbury Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,7 +1218,7 @@ UID:cand_73e8bce91ff141d6b9a88318e6ec84f0-occ_e88d715839fa47ebae600d7e4a0
 DTSTAMP:20260821T155116Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20271211
-SUMMARY:Untitled event
+SUMMARY:Venue Tour
 DESCRIPTION:https://www.atgtickets.com/whats-on/
 LOCATION:Lyceum Theatre\, 21 Wellington St\, Covent Garden\, London WC2E 
  7RQ\, UK\, Covent Garden\, London
@@ -1230,31 +1230,9 @@ UID:cand_0e147ea296c24d0b8a147cebbfc879e6-occ_84d7119a52f346308b0a373ca4a
 DTSTAMP:20260823T193855Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20261220
-SUMMARY:Untitled event
+SUMMARY:Faulty Towers Dining Experience
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:President Hotel\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5b016c9e06ca481486d8c3ec840b2f7f-occ_6a034f2c5fb44aeb877aa2b06bf
- 406ef@thingstodoinyourcity
-DTSTAMP:20260823T174711Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260926
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Adelphi Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_64ccaa0f86fd4999a696787973ced794-occ_d262cdea0bca4370a8e7bb8f02d
- 27768@thingstodoinyourcity
-DTSTAMP:20260823T194746Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20261227
-SUMMARY:Untitled event
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Jk Comedy Club Piccadilly Circus\, Piccadilly Circus\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1263,9 +1241,31 @@ UID:cand_d3f20314599944b4a03e2815e5377322-occ_506e7a098cd147659a570d23496
 DTSTAMP:20260823T195232Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20261220
-SUMMARY:Untitled event
+SUMMARY:Faulty Towers Dining Experience
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:President Hotel\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_64ccaa0f86fd4999a696787973ced794-occ_d262cdea0bca4370a8e7bb8f02d
+ 27768@thingstodoinyourcity
+DTSTAMP:20260823T194746Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20261227
+SUMMARY:Sunday Night Comedy
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Jk Comedy Club Piccadilly Circus\, Piccadilly Circus\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b016c9e06ca481486d8c3ec840b2f7f-occ_6a034f2c5fb44aeb877aa2b06bf
+ 406ef@thingstodoinyourcity
+DTSTAMP:20260823T174711Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260926
+SUMMARY:The Comedy About Spies
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Adelphi Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1274,7 +1274,7 @@ UID:cand_e045e21c5e5d44ae9f09b96c0186495e-occ_fd4077733ebd4d24af3cd4e3785
 DTSTAMP:20260823T174453Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260927
-SUMMARY:Untitled event
+SUMMARY:The Sunday Service In-House Special
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Up The Creek\, London
 URL:https://www.londontheatres.com/events/comedy
@@ -1285,7 +1285,7 @@ UID:cand_e8ec9cb20420486690ce41e0d654f85d-occ_ce49ff2a182044b8893b3ed70c0
 DTSTAMP:20260823T194914Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20270103
-SUMMARY:Untitled event
+SUMMARY:Titanique
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Criterion Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
@@ -1296,7 +1296,7 @@ UID:cand_348a8f245b0a4862a4586357cc7a7044-occ_9d347129164d471f9f50d23b482
 DTSTAMP:20260828T081905Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20270417
-SUMMARY:Untitled event
+SUMMARY:Beetlejuice the Musical
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Prince Edward Theatre\, London\, London
 URL:https://www.londontheatres.com/events/comedy
@@ -1307,7 +1307,7 @@ UID:cand_fce0178040634bfcb4b1e42fe922b325-occ_2719706ab2e144118c8739d45b4
 DTSTAMP:20260828T082318Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260926
-SUMMARY:Untitled event
+SUMMARY:The Comedy About Spies
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Adelphi Theatre\, London\, London
 URL:https://www.londontheatres.com/events/comedy
@@ -1318,11 +1318,22 @@ UID:cand_66b29ab5e6e444f5a068a0bdd3409cec-occ_28c546ceb2ea443c8f40323e5f2
 DTSTAMP:20260824T021741Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20261107
-SUMMARY:Untitled event
+SUMMARY:Kimberly Akimbo
 DESCRIPTION:An adventure is wanted while there is still time. It’s goin
  g to be scary\, fun\, and really stupid.\nhttps://www.hampsteadtheatre.c
  om/whats-on/main-stage/
 LOCATION:Hampstead Theatre\, Swiss Cottage\, London
+URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8c52ba48455c4093b0fee5f56957e24c-occ_20f9c94f248a428084af7dbe085
+ 6344d@thingstodoinyourcity
+DTSTAMP:20260826T184028Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20261107
+SUMMARY:Kimberly Akimbo
+DESCRIPTION:https://www.hampsteadtheatre.com/whats-on/main-stage/
+LOCATION:Hampstead Theatre\, SWISS COTTAGE\, London
 URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
 END:VEVENT
 BEGIN:VEVENT
@@ -1331,21 +1342,10 @@ UID:cand_8949fff4f145433db98ae27a05cc10bd-occ_ff876d851fb44d70905fbbcb899
 DTSTAMP:20260828T130857Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20261003
-SUMMARY:Untitled event
+SUMMARY:The Book of Mormon
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Prince Of Wales Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8c52ba48455c4093b0fee5f56957e24c-occ_20f9c94f248a428084af7dbe085
- 6344d@thingstodoinyourcity
-DTSTAMP:20260826T184028Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20261107
-SUMMARY:Untitled event
-DESCRIPTION:https://www.hampsteadtheatre.com/whats-on/main-stage/
-LOCATION:Hampstead Theatre\, SWISS COTTAGE\, London
-URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_13834736653f40f594e45dd34fe1d1e2-occ_ba10cd3917aa47ffabf2403762d
@@ -1659,19 +1659,6 @@ LOCATION:Soho Zebrano\, Soho\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9bc655589fb94a8e99182f646140a1ab-occ_77cbad594e85477f988dd57bb05
- 30d6c@thingstodoinyourcity
-DTSTAMP:20260906T192532Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Classically Black Presents
-DESCRIPTION:A piano-focused concert presents three artists from the Class
- ically Black Showcase. It celebrates virtuosity\, individuality and crea
- tive expression across the classical tradition.\nhttps://www.ronniescott
- s.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3d165640870e4340b02467964cfbf8d3-occ_b834c0b8c4f54ddca699f8ee0e9
  3f2bb@thingstodoinyourcity
 DTSTAMP:20260906T195153Z
@@ -1690,21 +1677,6 @@ UID:cand_85d8c7b116924695806f92343bc374a2-occ_beeba2f0574a46d3ba9a3879d99
 DTSTAMP:20260904T161231Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260918
-SUMMARY:Lou Wall: Where Are All The Tall Grandmas?
-DESCRIPTION:Lou Wall investigates the disappearance of tall old women in 
- a new comedy hour. The show includes a captioned performance on 14 Septe
- mber.\nPrice: £15\nhttps://parktheatre.co.uk/events/lou-wall-where-are-
- all-the-tall-grandmas/
-LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
- \, Finsbury Park\, London
-URL:https://parktheatre.co.uk/events/lou-wall-where-are-all-the-tall-gran
- dmas/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_85d8c7b116924695806f92343bc374a2-occ_373d42328e9346aaa32a72d2320
- c1eff@thingstodoinyourcity
-DTSTAMP:20260904T161231Z
-DTSTART:20260907T193000Z
 SUMMARY:Lou Wall: Where Are All The Tall Grandmas?
 DESCRIPTION:Lou Wall investigates the disappearance of tall old women in 
  a new comedy hour. The show includes a captioned performance on 14 Septe
@@ -1821,30 +1793,6 @@ URL:https://parktheatre.co.uk/events/lou-wall-where-are-all-the-tall-gran
  dmas/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_eca35905877a46d7ac7fe2106ce44d6b-occ_1dffb240d0b3444e933e917c12a
- 5c5b2@thingstodoinyourcity
-DTSTAMP:20260906T132415Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Meera Syal: Vigilauntie!
-DESCRIPTION:Dame Meera Syal shares hilarious and heartwarming true storie
- s from her life and work as a comedy legend.\nPrice: £34.00\nhttps://ww
- w.rgs.org/events/upcoming-events
-LOCATION:London
-URL:https://www.rgs.org/events/upcoming-events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bf61607e8f1d49e0b1be8ef3bb7b6455-occ_2b7e09ccb6464f1fa571becc5e5
- c1cdd@thingstodoinyourcity
-DTSTAMP:20260906T193909Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Meraki Duo
-DESCRIPTION:Meraki Duo launches its debut album Notes from the Living Roo
- m. The programme features lyrical chamber music and reimagined repertoir
- e for flute and guitar.\nhttps://www.ronniescotts.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_594fdb8a13f5431dae2a3dc45a67b3b4-occ_cbf0c1de90994ab3845fa4f0fb1
  b0d6a@thingstodoinyourcity
 DTSTAMP:20260906T194207Z
@@ -1871,126 +1819,42 @@ LOCATION:Main Show\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ca1a723c1b15490a9488a5a39ace200a-occ_72b0007b91954897b04a17b0a69
- bb283@thingstodoinyourcity
-DTSTAMP:20260904T174212Z
-DTSTART:20260907T183000Z
-SUMMARY:Abigail's Party
-DESCRIPTION:Mike Leigh’s ferocious black comedy returns to London’s W
- est End. Nadia Fall directs a production starring Tamzin Outhwaite and K
- evin Bishop.\nPrice: from £20.50\nhttps://www.atgtickets.com/shows/abig
- ails-party/harold-pinter-theatre/calendar/2026-09-04
-LOCATION:Harold Pinter Theatre\, Panton St\, London SW1Y 4DN\, UK\, Picca
- dilly Circus\, London
-URL:https://www.atgtickets.com/shows/abigails-party/harold-pinter-theatre
- /calendar/2026-09-04
+UID:cand_1269450066e541aa8a9bafd7e1bbec2d-occ_a6d86a47dcba41c3b275c30181e
+ fe6f1@thingstodoinyourcity
+DTSTAMP:20260906T200543Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Anmol Mohara
+DESCRIPTION:Award-winning Nepali percussionist and composer Anmol Mohara 
+ brings his debut album Across The Sea live with his full band.\nhttps://
+ www.ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_fa7aa1cebe054461b9255592ba4
- 395cd@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260907T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
+UID:cand_f69c09102ccd4376acda615ea64d6b23-occ_562ceab8e04e48668ee0cd15e49
+ e219e@thingstodoinyourcity
+DTSTAMP:20260906T195518Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Harry Brunt
+DESCRIPTION:Saxophonist and composer Harry Brunt makes his Ronnie Scott's
+  debut after the success of his recording Carolina Peaches.\nhttps://www
+ .ronniescotts.co.uk/find-a-show
+LOCATION:Upstairs at Ronnie's\, London
+URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_ce1a75b92d74494ba6e22cde0f7
- a4a3d@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260908T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_449f479a30fb48a58dd33798398
- 89a53@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260909T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_fb554743538a49a6b6fd5487097
- d9d5c@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260910T140000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_367bb7888ba94d459b59d65f734
- 39a64@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260910T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_ad8847c9cf4e4c9b9327d02d45f
- 86986@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260912T140000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_2e2c8fae6f57454daf3f92d3af5
- c0483@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260918T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eb05a25010c24d9dbffb4f0127d36213-occ_6351728f5ff547d8b8dd1d5f414
- 4d9d4@thingstodoinyourcity
-DTSTAMP:20260905T062218Z
-DTSTART:20260907T190000Z
-SUMMARY:Bitter Christmas
-DESCRIPTION:Pedro Almodóvar’s film follows two filmmakers whose lives 
- and creative work begin to mirror each other. The autofiction explores h
- ow far a story can go.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLon
- don.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_
- 0.TcsWebTab_0.TcsPerformance_699704.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_699704.TcsSection_543
+UID:cand_034ef44cb0634893bfc381428a5d05a7-occ_8522a8852b81405d8a9ebce6a34
+ 25f46@thingstodoinyourcity
+DTSTAMP:20260906T210203Z
+DTSTART:20260908T080000Z
+DTEND:20260908T180000Z
+SUMMARY:Law School of the Future Symposium
+DESCRIPTION:A hybrid symposium explores the future of legal education and
+  the legal profession. Topics include generative AI\, legal technology\,
+  ethics and student employability.\nPrice: Free\nhttps://www.westminster
+ .ac.uk/events
+LOCATION:Westminster Law School\, University of Westminster\, London
+URL:https://www.westminster.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eb05a25010c24d9dbffb4f0127d36213-occ_c232ce50adf949d38820440e85e
@@ -2055,44 +1919,6 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
  ormance_699704.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1269450066e541aa8a9bafd7e1bbec2d-occ_a6d86a47dcba41c3b275c30181e
- fe6f1@thingstodoinyourcity
-DTSTAMP:20260906T200543Z
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Anmol Mohara
-DESCRIPTION:Award-winning Nepali percussionist and composer Anmol Mohara 
- brings his debut album Across The Sea live with his full band.\nhttps://
- www.ronniescotts.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f69c09102ccd4376acda615ea64d6b23-occ_562ceab8e04e48668ee0cd15e49
- e219e@thingstodoinyourcity
-DTSTAMP:20260906T195518Z
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Harry Brunt
-DESCRIPTION:Saxophonist and composer Harry Brunt makes his Ronnie Scott's
-  debut after the success of his recording Carolina Peaches.\nhttps://www
- .ronniescotts.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_034ef44cb0634893bfc381428a5d05a7-occ_8522a8852b81405d8a9ebce6a34
- 25f46@thingstodoinyourcity
-DTSTAMP:20260906T210203Z
-DTSTART:20260908T080000Z
-DTEND:20260908T180000Z
-SUMMARY:Law School of the Future Symposium
-DESCRIPTION:A hybrid symposium explores the future of legal education and
-  the legal profession. Topics include generative AI\, legal technology\,
-  ethics and student employability.\nPrice: Free\nhttps://www.westminster
- .ac.uk/events
-LOCATION:Westminster Law School\, University of Westminster\, London
-URL:https://www.westminster.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc06bad134ad4e52bb96f6f679749782-occ_cd51ab7f78294738bada09ba1f6
@@ -2210,6 +2036,84 @@ LOCATION:The Bar\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\, Lo
  ndon
 URL:https://underbellyboulevard.com/book-tickets/cocktail-masterclass-202
  6/61:191685/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_ce1a75b92d74494ba6e22cde0f7
+ a4a3d@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260908T183000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_449f479a30fb48a58dd33798398
+ 89a53@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260909T183000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_fb554743538a49a6b6fd5487097
+ d9d5c@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260910T140000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_367bb7888ba94d459b59d65f734
+ 39a64@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260910T183000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_ad8847c9cf4e4c9b9327d02d45f
+ 86986@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260912T140000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_2e2c8fae6f57454daf3f92d3af5
+ c0483@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260918T183000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc11b3b1e8bd4af3b7af4617932ab8f3-occ_e43be78d4b944f62920fcd2ad0e
