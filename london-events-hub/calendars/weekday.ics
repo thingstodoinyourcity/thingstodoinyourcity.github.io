@@ -8,72 +8,42 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:cand_9bc655589fb94a8e99182f646140a1ab-occ_77cbad594e85477f988dd57bb05
- 30d6c@thingstodoinyourcity
-DTSTAMP:20260906T192532Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Classically Black Presents
-DESCRIPTION:A piano-focused concert presents three artists from the Class
- ically Black Showcase. It celebrates virtuosity\, individuality and crea
- tive expression across the classical tradition.\nhttps://www.ronniescott
- s.co.uk/find-a-show
+UID:cand_1269450066e541aa8a9bafd7e1bbec2d-occ_a6d86a47dcba41c3b275c30181e
+ fe6f1@thingstodoinyourcity
+DTSTAMP:20260906T200543Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Anmol Mohara
+DESCRIPTION:Award-winning Nepali percussionist and composer Anmol Mohara 
+ brings his debut album Across The Sea live with his full band.\nhttps://
+ www.ronniescotts.co.uk/find-a-show
 LOCATION:Upstairs at Ronnie's\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_eca35905877a46d7ac7fe2106ce44d6b-occ_1dffb240d0b3444e933e917c12a
- 5c5b2@thingstodoinyourcity
-DTSTAMP:20260906T132415Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Meera Syal: Vigilauntie!
-DESCRIPTION:Dame Meera Syal shares hilarious and heartwarming true storie
- s from her life and work as a comedy legend.\nPrice: £34.00\nhttps://ww
- w.rgs.org/events/upcoming-events
-LOCATION:London
-URL:https://www.rgs.org/events/upcoming-events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bf61607e8f1d49e0b1be8ef3bb7b6455-occ_2b7e09ccb6464f1fa571becc5e5
- c1cdd@thingstodoinyourcity
-DTSTAMP:20260906T193909Z
-DTSTART;VALUE=DATE:20260907
-SUMMARY:Meraki Duo
-DESCRIPTION:Meraki Duo launches its debut album Notes from the Living Roo
- m. The programme features lyrical chamber music and reimagined repertoir
- e for flute and guitar.\nhttps://www.ronniescotts.co.uk/find-a-show
+UID:cand_f69c09102ccd4376acda615ea64d6b23-occ_562ceab8e04e48668ee0cd15e49
+ e219e@thingstodoinyourcity
+DTSTAMP:20260906T195518Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Harry Brunt
+DESCRIPTION:Saxophonist and composer Harry Brunt makes his Ronnie Scott's
+  debut after the success of his recording Carolina Peaches.\nhttps://www
+ .ronniescotts.co.uk/find-a-show
 LOCATION:Upstairs at Ronnie's\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ca1a723c1b15490a9488a5a39ace200a-occ_72b0007b91954897b04a17b0a69
- bb283@thingstodoinyourcity
-DTSTAMP:20260904T174212Z
-DTSTART:20260907T183000Z
-SUMMARY:Abigail's Party
-DESCRIPTION:Mike Leigh’s ferocious black comedy returns to London’s W
- est End. Nadia Fall directs a production starring Tamzin Outhwaite and K
- evin Bishop.\nPrice: from £20.50\nhttps://www.atgtickets.com/shows/abig
- ails-party/harold-pinter-theatre/calendar/2026-09-04
-LOCATION:Harold Pinter Theatre\, Panton St\, London SW1Y 4DN\, UK\, Picca
- dilly Circus\, London
-URL:https://www.atgtickets.com/shows/abigails-party/harold-pinter-theatre
- /calendar/2026-09-04
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eb05a25010c24d9dbffb4f0127d36213-occ_6351728f5ff547d8b8dd1d5f414
- 4d9d4@thingstodoinyourcity
-DTSTAMP:20260905T062218Z
-DTSTART:20260907T190000Z
-SUMMARY:Bitter Christmas
-DESCRIPTION:Pedro Almodóvar’s film follows two filmmakers whose lives 
- and creative work begin to mirror each other. The autofiction explores h
- ow far a story can go.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLon
- don.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_
- 0.TcsWebTab_0.TcsPerformance_699704.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_699704.TcsSection_543
+UID:cand_034ef44cb0634893bfc381428a5d05a7-occ_8522a8852b81405d8a9ebce6a34
+ 25f46@thingstodoinyourcity
+DTSTAMP:20260906T210203Z
+DTSTART:20260908T080000Z
+DTEND:20260908T180000Z
+SUMMARY:Law School of the Future Symposium
+DESCRIPTION:A hybrid symposium explores the future of legal education and
+  the legal profession. Topics include generative AI\, legal technology\,
+  ethics and student employability.\nPrice: Free\nhttps://www.westminster
+ .ac.uk/events
+LOCATION:Westminster Law School\, University of Westminster\, London
+URL:https://www.westminster.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eb05a25010c24d9dbffb4f0127d36213-occ_c232ce50adf949d38820440e85e
@@ -138,44 +108,6 @@ LOCATION:Screen 1\, London
 URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
  ormance_699704.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1269450066e541aa8a9bafd7e1bbec2d-occ_a6d86a47dcba41c3b275c30181e
- fe6f1@thingstodoinyourcity
-DTSTAMP:20260906T200543Z
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Anmol Mohara
-DESCRIPTION:Award-winning Nepali percussionist and composer Anmol Mohara 
- brings his debut album Across The Sea live with his full band.\nhttps://
- www.ronniescotts.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f69c09102ccd4376acda615ea64d6b23-occ_562ceab8e04e48668ee0cd15e49
- e219e@thingstodoinyourcity
-DTSTAMP:20260906T195518Z
-DTSTART;VALUE=DATE:20260908
-SUMMARY:Harry Brunt
-DESCRIPTION:Saxophonist and composer Harry Brunt makes his Ronnie Scott's
-  debut after the success of his recording Carolina Peaches.\nhttps://www
- .ronniescotts.co.uk/find-a-show
-LOCATION:Upstairs at Ronnie's\, London
-URL:https://www.ronniescotts.co.uk/find-a-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_034ef44cb0634893bfc381428a5d05a7-occ_8522a8852b81405d8a9ebce6a34
- 25f46@thingstodoinyourcity
-DTSTAMP:20260906T210203Z
-DTSTART:20260908T080000Z
-DTEND:20260908T180000Z
-SUMMARY:Law School of the Future Symposium
-DESCRIPTION:A hybrid symposium explores the future of legal education and
-  the legal profession. Topics include generative AI\, legal technology\,
-  ethics and student employability.\nPrice: Free\nhttps://www.westminster
- .ac.uk/events
-LOCATION:Westminster Law School\, University of Westminster\, London
-URL:https://www.westminster.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc06bad134ad4e52bb96f6f679749782-occ_cd51ab7f78294738bada09ba1f6
