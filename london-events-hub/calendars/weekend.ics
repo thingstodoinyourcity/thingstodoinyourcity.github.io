@@ -1671,45 +1671,6 @@ LOCATION:Late Late Show\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d6144c3688645d2a5507227900
- 4ca35@thingstodoinyourcity
-DTSTAMP:20260904T180229Z
-DTSTART;VALUE=DATE:20260913
-SUMMARY:Little Venice – the pursuit of pleasure
-DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
- ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
-  Maida Vale\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5803fd8072c847019c80b4d7d123302c-occ_56bd24cb032b435382804a78232
- 8fbab@thingstodoinyourcity
-DTSTAMP:20260904T180229Z
-DTSTART;VALUE=DATE:20260920
-SUMMARY:Little Venice – the pursuit of pleasure
-DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
- ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
-  Maida Vale\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d198eb6b0de4afa9fc9f36c787
- a6add@thingstodoinyourcity
-DTSTAMP:20260904T180229Z
-DTSTART;VALUE=DATE:20260927
-SUMMARY:Little Venice – the pursuit of pleasure
-DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
- ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
-  Maida Vale\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_48dbd2cfbbbf425d8daf1f817583b10a-occ_db9b062f008b47d9a0870198536
  d43b3@thingstodoinyourcity
 DTSTAMP:20260906T201451Z
@@ -1734,6 +1695,64 @@ DESCRIPTION:A first-ever vocal jazz jam held every Wednesday night. It ta
  how
 LOCATION:Late Late Show Upstairs\, London
 URL:https://www.ronniescotts.co.uk/find-a-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7865b489bf464f9ca89eeebbddacb11b-occ_8558f0f297f14c41b916e3ca6e6
+ 45598@thingstodoinyourcity
+DTSTAMP:20260905T030430Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20270711
+SUMMARY:Bayeux Tapestry
+DESCRIPTION:The Bayeux Tapestry opens at the British Museum in September 
+ 2026. Tickets are £33\, with further ticket releases announced through 
+ the museum mailing list or membership.\nPrice: £33\nhttps://www.cultura
+ lwednesday.co.uk/best-london-exhibitions-2/
+LOCATION:British Museum\, Great Russell Street\, WC1B 3DG\, London
+URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3042397b6149474587b19d186c404946-occ_d320b543f28b469dab2762a98ad
+ 0d8b3@thingstodoinyourcity
+DTSTAMP:20260905T063052Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260929
+SUMMARY:In & around Smithfield Market
+DESCRIPTION:A guided tour through an area packed with medieval and Tudor 
+ history.\nhttps://www.londonmuseum.org.uk/whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f911986b8a94ef4bcce3ff13003cd17-occ_03df6a2d869e4d94934297cb5ea
+ b641b@thingstodoinyourcity
+DTSTAMP:20260904T190242Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20270711
+SUMMARY:The Bayeux Tapestry Exhibition
+DESCRIPTION:See the original 11th-century embroidery displayed flat in on
+ e continuous run. Manuscripts\, charters and coins illuminate the Norman
+  Conquest.\nPrice: Adults £25–£33 depending on day and time\; under-
+ 16s free when accompanied by an adult.\nhttps://www.londonmuseumtours.co
+ m/temporary-exhibitions
+LOCATION:Room 30\, The Sainsbury Exhibitions Gallery\, British Museum\, G
+ reat Russell Street\, London WC1B 3DG\, London
+URL:https://www.londonmuseumtours.com/temporary-exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f911986b8a94ef4bcce3ff13003cd17-occ_8da252bde0f54d75b62bab2a1b8
+ d7c8d@thingstodoinyourcity
+DTSTAMP:20260904T190242Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20270711
+SUMMARY:The Bayeux Tapestry Exhibition
+DESCRIPTION:See the original 11th-century embroidery displayed flat in on
+ e continuous run. Manuscripts\, charters and coins illuminate the Norman
+  Conquest.\nPrice: Adults £25–£33 depending on day and time\; under-
+ 16s free when accompanied by an adult.\nhttps://www.londonmuseumtours.co
+ m/temporary-exhibitions
+LOCATION:Room 30\, The Sainsbury Exhibitions Gallery\, British Museum\, G
+ reat Russell Street\, London WC1B 3DG\, London
+URL:https://www.londonmuseumtours.com/temporary-exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_15b892c5644745c887bb03b03ff17039-occ_0c35f7f8ea4d43b3863d1d34958
@@ -1781,43 +1800,110 @@ URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
  is-week
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_d042f2097e1a42fea74086ae828
- 231ba@thingstodoinyourcity
-DTSTAMP:20260907T055121Z
-DTSTART:20260911T190000Z
-SUMMARY:The Truth
-DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
- eller\, directed by Lindsay Posner. It is described as a witty farce of 
- adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
- and.co.uk/dates/2026/05/category/comedy
-LOCATION:Apollo Theatre\, London
-URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_2449489fddbe490889221592fe6
- 0f8ef@thingstodoinyourcity
-DTSTAMP:20260907T055121Z
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_ad8847c9cf4e4c9b9327d02d45f
+ 86986@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
 DTSTART:20260912T140000Z
-SUMMARY:The Truth
-DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
- eller\, directed by Lindsay Posner. It is described as a witty farce of 
- adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
- and.co.uk/dates/2026/05/category/comedy
-LOCATION:Apollo Theatre\, London
-URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_f8fc13197e6a4330a6c1a6f2117
- 8a211@thingstodoinyourcity
-DTSTAMP:20260907T055121Z
+UID:cand_5a112db875194272917c4bed688e9fdf-occ_2e2c8fae6f57454daf3f92d3af5
+ c0483@thingstodoinyourcity
+DTSTAMP:20260905T004250Z
+DTSTART:20260918T183000Z
+SUMMARY:Holy Fool
+DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
+ ile expressing resistance through coded music. A tense\, darkly witty dr
+ ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
+ /parktheatre.co.uk/whats-on/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_b9c2bcf7479746c99997ebaa003
+ 51764@thingstodoinyourcity
+DTSTAMP:20260904T191832Z
+DTSTART:20260911T163000Z
+SUMMARY:Pressure
+DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
+ ssible choice before D-Day. The film runs for 101 minutes and is rated 1
+ 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
+ er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
+ 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
+ elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
+ udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
+ ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
+ ab_0.TcsPerformance_681079.TcsSection_543
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_681079.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_9cd861bf2b9c476ebaef78809fa
+ c492e@thingstodoinyourcity
+DTSTAMP:20260904T191832Z
 DTSTART:20260912T190000Z
-SUMMARY:The Truth
-DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
- eller\, directed by Lindsay Posner. It is described as a witty farce of 
- adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
- and.co.uk/dates/2026/05/category/comedy
-LOCATION:Apollo Theatre\, London
-URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
+SUMMARY:Pressure
+DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
+ ssible choice before D-Day. The film runs for 101 minutes and is rated 1
+ 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
+ er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
+ 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
+ elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
+ udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
+ ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
+ ab_0.TcsPerformance_681079.TcsSection_543
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_681079.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_6bb24bddd3ce4658bf319455ba5
+ 8a4f1@thingstodoinyourcity
+DTSTAMP:20260904T191832Z
+DTSTART:20260913T161500Z
+SUMMARY:Pressure
+DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
+ ssible choice before D-Day. The film runs for 101 minutes and is rated 1
+ 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
+ er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
+ 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
+ elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
+ udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
+ ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
+ ab_0.TcsPerformance_681079.TcsSection_543
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_681079.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_d663e4388b5a4fbca9178ef2bd3
+ 1fd0a@thingstodoinyourcity
+DTSTAMP:20260904T191832Z
+DTSTART:20260913T184500Z
+SUMMARY:Pressure
+DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
+ ssible choice before D-Day. The film runs for 101 minutes and is rated 1
+ 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
+ er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
+ 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
+ elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
+ udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
+ ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
+ ab_0.TcsPerformance_681079.TcsSection_543
+LOCATION:Screen 1\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_681079.TcsSection_543
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8979afe8a24f4b06b6b7d781211
@@ -2030,168 +2116,43 @@ URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
  ers-dining-experience/tickets/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_ad8847c9cf4e4c9b9327d02d45f
- 86986@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
+UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_d042f2097e1a42fea74086ae828
+ 231ba@thingstodoinyourcity
+DTSTAMP:20260907T055121Z
+DTSTART:20260911T190000Z
+SUMMARY:The Truth
+DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
+ eller\, directed by Lindsay Posner. It is described as a witty farce of 
+ adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
+ and.co.uk/dates/2026/05/category/comedy
+LOCATION:Apollo Theatre\, London
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_2449489fddbe490889221592fe6
+ 0f8ef@thingstodoinyourcity
+DTSTAMP:20260907T055121Z
 DTSTART:20260912T140000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
+SUMMARY:The Truth
+DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
+ eller\, directed by Lindsay Posner. It is described as a witty farce of 
+ adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
+ and.co.uk/dates/2026/05/category/comedy
+LOCATION:Apollo Theatre\, London
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5a112db875194272917c4bed688e9fdf-occ_2e2c8fae6f57454daf3f92d3af5
- c0483@thingstodoinyourcity
-DTSTAMP:20260905T004250Z
-DTSTART:20260918T183000Z
-SUMMARY:Holy Fool
-DESCRIPTION:Dmitri Shostakovich struggles to survive Stalin’s regime wh
- ile expressing resistance through coded music. A tense\, darkly witty dr
- ama about tyranny and courage.\nPrice: £37.50\; £43\; £47.50\nhttps:/
- /parktheatre.co.uk/whats-on/
-LOCATION:Park200\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_b9c2bcf7479746c99997ebaa003
- 51764@thingstodoinyourcity
-DTSTAMP:20260904T191832Z
-DTSTART:20260911T163000Z
-SUMMARY:Pressure
-DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
- ssible choice before D-Day. The film runs for 101 minutes and is rated 1
- 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
- er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
- 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
- elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
- udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
- ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
- ab_0.TcsPerformance_681079.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_681079.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_9cd861bf2b9c476ebaef78809fa
- c492e@thingstodoinyourcity
-DTSTAMP:20260904T191832Z
+UID:cand_7140e7583cd44eb5b1dd81f0f86b9767-occ_f8fc13197e6a4330a6c1a6f2117
+ 8a211@thingstodoinyourcity
+DTSTAMP:20260907T055121Z
 DTSTART:20260912T190000Z
-SUMMARY:Pressure
-DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
- ssible choice before D-Day. The film runs for 101 minutes and is rated 1
- 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
- er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
- 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
- elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
- udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
- ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
- ab_0.TcsPerformance_681079.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_681079.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_6bb24bddd3ce4658bf319455ba5
- 8a4f1@thingstodoinyourcity
-DTSTAMP:20260904T191832Z
-DTSTART:20260913T161500Z
-SUMMARY:Pressure
-DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
- ssible choice before D-Day. The film runs for 101 minutes and is rated 1
- 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
- er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
- 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
- elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
- udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
- ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
- ab_0.TcsPerformance_681079.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_681079.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d94aa867b6ae4d47a7fbd669a06a1787-occ_d663e4388b5a4fbca9178ef2bd3
- 1fd0a@thingstodoinyourcity
-DTSTAMP:20260904T191832Z
-DTSTART:20260913T184500Z
-SUMMARY:Pressure
-DESCRIPTION:A 2026 film about Eisenhower and Captain Stagg facing an impo
- ssible choice before D-Day. The film runs for 101 minutes and is rated 1
- 5.\nPrice: Standard £13.00\; Concession £12.00\; Student £12.00\; Car
- er (CEA Card) £13.00\; Premium Standard £15.00\; Premium Concession £
- 13.00\; Premium Student £13.00\; Premium Carer (CEA Card) £15.00\; Whe
- elchair Standard £13.00\; Wheelchair Concession £12.00\; Wheelchair St
- udent £12.00\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/B
- ooking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebT
- ab_0.TcsPerformance_681079.TcsSection_543
-LOCATION:Screen 1\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_681079.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7865b489bf464f9ca89eeebbddacb11b-occ_8558f0f297f14c41b916e3ca6e6
- 45598@thingstodoinyourcity
-DTSTAMP:20260905T030430Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20270711
-SUMMARY:Bayeux Tapestry
-DESCRIPTION:The Bayeux Tapestry opens at the British Museum in September 
- 2026. Tickets are £33\, with further ticket releases announced through 
- the museum mailing list or membership.\nPrice: £33\nhttps://www.cultura
- lwednesday.co.uk/best-london-exhibitions-2/
-LOCATION:British Museum\, Great Russell Street\, WC1B 3DG\, London
-URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3042397b6149474587b19d186c404946-occ_d320b543f28b469dab2762a98ad
- 0d8b3@thingstodoinyourcity
-DTSTAMP:20260905T063052Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260929
-SUMMARY:In & around Smithfield Market
-DESCRIPTION:A guided tour through an area packed with medieval and Tudor 
- history.\nhttps://www.londonmuseum.org.uk/whats-on/
-LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0f911986b8a94ef4bcce3ff13003cd17-occ_03df6a2d869e4d94934297cb5ea
- b641b@thingstodoinyourcity
-DTSTAMP:20260904T190242Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20270711
-SUMMARY:The Bayeux Tapestry Exhibition
-DESCRIPTION:See the original 11th-century embroidery displayed flat in on
- e continuous run. Manuscripts\, charters and coins illuminate the Norman
-  Conquest.\nPrice: Adults £25–£33 depending on day and time\; under-
- 16s free when accompanied by an adult.\nhttps://www.londonmuseumtours.co
- m/temporary-exhibitions
-LOCATION:Room 30\, The Sainsbury Exhibitions Gallery\, British Museum\, G
- reat Russell Street\, London WC1B 3DG\, London
-URL:https://www.londonmuseumtours.com/temporary-exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0f911986b8a94ef4bcce3ff13003cd17-occ_8da252bde0f54d75b62bab2a1b8
- d7c8d@thingstodoinyourcity
-DTSTAMP:20260904T190242Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20270711
-SUMMARY:The Bayeux Tapestry Exhibition
-DESCRIPTION:See the original 11th-century embroidery displayed flat in on
- e continuous run. Manuscripts\, charters and coins illuminate the Norman
-  Conquest.\nPrice: Adults £25–£33 depending on day and time\; under-
- 16s free when accompanied by an adult.\nhttps://www.londonmuseumtours.co
- m/temporary-exhibitions
-LOCATION:Room 30\, The Sainsbury Exhibitions Gallery\, British Museum\, G
- reat Russell Street\, London WC1B 3DG\, London
-URL:https://www.londonmuseumtours.com/temporary-exhibitions
+SUMMARY:The Truth
+DESCRIPTION:An Olivier-nominated comedy by Oscar-winning writer Florian Z
+ eller\, directed by Lindsay Posner. It is described as a witty farce of 
+ adultery and friendship.\nPrice: From £138\nhttps://www.london-theatrel
+ and.co.uk/dates/2026/05/category/comedy
+LOCATION:Apollo Theatre\, London
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_894dd222e3364c02bb8e562cb0c1f238-occ_bf20f27e5e8544f0ac44023611c
@@ -3007,6 +2968,45 @@ DESCRIPTION:A free riverside family day on the Thames with food\, music a
  -on
 LOCATION:the Thames\, London
 URL:https://thamesfestivaltrust.org/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d6144c3688645d2a5507227900
+ 4ca35@thingstodoinyourcity
+DTSTAMP:20260904T180229Z
+DTSTART;VALUE=DATE:20260913
+SUMMARY:Little Venice – the pursuit of pleasure
+DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
+ ous residents and canals\, including part of the Regent’s Canal towpat
+ h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
+  Maida Vale\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5803fd8072c847019c80b4d7d123302c-occ_56bd24cb032b435382804a78232
+ 8fbab@thingstodoinyourcity
+DTSTAMP:20260904T180229Z
+DTSTART;VALUE=DATE:20260920
+SUMMARY:Little Venice – the pursuit of pleasure
+DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
+ ous residents and canals\, including part of the Regent’s Canal towpat
+ h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
+  Maida Vale\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d198eb6b0de4afa9fc9f36c787
+ a6add@thingstodoinyourcity
+DTSTAMP:20260904T180229Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Little Venice – the pursuit of pleasure
+DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
+ ous residents and canals\, including part of the Regent’s Canal towpat
+ h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
+  Maida Vale\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3b7c773741b845748a3ad6ae8a08dbff-occ_5c7bf66b72f14a2ab5c583f2137
