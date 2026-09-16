@@ -1655,64 +1655,6 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5306e62416fa40efaffc827eac3a4612-occ_a5ee6cfb8b8145f2836fc429ac7
- bb92d@thingstodoinyourcity
-DTSTAMP:20260904T174253Z
-DTSTART:20260918T170000Z
-SUMMARY:Elizabeth David Dinner Menus
-DESCRIPTION:Three special dinner menus celebrate Elizabeth David’s reci
- pes. Garden Café Head Chef Alex Jackson created the menu inspired by he
- r legacy.\nPrice: £42\nhttps://www.gardenmuseum.org.uk/whats-on/celebra
- ting-the-cooking-of-elizabeth-david/
-LOCATION:Garden Café\, London
-URL:https://www.gardenmuseum.org.uk/whats-on/celebrating-the-cooking-of-e
- lizabeth-david/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c631121910594889bb3e7016103005bc-occ_5238a79cdc554f6d9b6dfd5e744
- 9bf14@thingstodoinyourcity
-DTSTAMP:20260906T164236Z
-DTSTART:20260916T170000Z
-DTEND;VALUE=DATE:20261108
-SUMMARY:Gabriel Orozco: Chronotopic
-DESCRIPTION:An exhibition of over 100 new and existing works\, including 
- sculpture\, painting\, photography\, assemblage and works on paper. Cura
- ted by Briony Fer.\nhttps://www.whitecube.com/exhibitions/london
-LOCATION:White Cube Bermondsey\, 144–152 Bermondsey Street\, London SE1
-  3TQ\, London
-URL:https://www.whitecube.com/exhibitions/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_15b892c5644745c887bb03b03ff17039-occ_8e49c9ca272b41c8a0b600abc10
- 4796f@thingstodoinyourcity
-DTSTAMP:20260907T205117Z
-DTSTART:20260920T120000Z
-SUMMARY:As You Like It
-DESCRIPTION:Sean Holmes and Charlie Josephine direct a lively Shakespeare
-  comedy with vivid characters. The production runs 2 hours 45 minutes.\n
- Price: £5-£85\nhttps://www.timeout.com/london/things-to-do/things-to-d
- o-in-london-this-week
-LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\, 
- Bankside\, London\, SE1 9DT\, South Bank\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_15b892c5644745c887bb03b03ff17039-occ_00097c12ede1486ea830a69115b
- f266f@thingstodoinyourcity
-DTSTAMP:20260907T205117Z
-DTSTART:20260920T173000Z
-SUMMARY:As You Like It
-DESCRIPTION:Sean Holmes and Charlie Josephine direct a lively Shakespeare
-  comedy with vivid characters. The production runs 2 hours 45 minutes.\n
- Price: £5-£85\nhttps://www.timeout.com/london/things-to-do/things-to-d
- o-in-london-this-week
-LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\, 
- Bankside\, London\, SE1 9DT\, South Bank\, London
-URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
- is-week
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2e3af7dbb5784e399b202c76e2729014-occ_83549740515c483a9948555e167
  4fe25@thingstodoinyourcity
 DTSTAMP:20260905T035952Z
@@ -1765,6 +1707,50 @@ DESCRIPTION:An exhibition featuring more than 60 artists and tracing Chin
  -on
 LOCATION:Embankment Galleries South Wing\, London
 URL:https://www.somersethouse.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_15b892c5644745c887bb03b03ff17039-occ_8e49c9ca272b41c8a0b600abc10
+ 4796f@thingstodoinyourcity
+DTSTAMP:20260907T205117Z
+DTSTART:20260920T120000Z
+SUMMARY:As You Like It
+DESCRIPTION:Sean Holmes and Charlie Josephine direct a lively Shakespeare
+  comedy with vivid characters. The production runs 2 hours 45 minutes.\n
+ Price: £5-£85\nhttps://www.timeout.com/london/things-to-do/things-to-d
+ o-in-london-this-week
+LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\, 
+ Bankside\, London\, SE1 9DT\, South Bank\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_15b892c5644745c887bb03b03ff17039-occ_00097c12ede1486ea830a69115b
+ f266f@thingstodoinyourcity
+DTSTAMP:20260907T205117Z
+DTSTART:20260920T173000Z
+SUMMARY:As You Like It
+DESCRIPTION:Sean Holmes and Charlie Josephine direct a lively Shakespeare
+  comedy with vivid characters. The production runs 2 hours 45 minutes.\n
+ Price: £5-£85\nhttps://www.timeout.com/london/things-to-do/things-to-d
+ o-in-london-this-week
+LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\, 
+ Bankside\, London\, SE1 9DT\, South Bank\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c631121910594889bb3e7016103005bc-occ_5238a79cdc554f6d9b6dfd5e744
+ 9bf14@thingstodoinyourcity
+DTSTAMP:20260906T164236Z
+DTSTART:20260916T170000Z
+DTEND;VALUE=DATE:20261108
+SUMMARY:Gabriel Orozco: Chronotopic
+DESCRIPTION:An exhibition of over 100 new and existing works\, including 
+ sculpture\, painting\, photography\, assemblage and works on paper. Cura
+ ted by Briony Fer.\nhttps://www.whitecube.com/exhibitions/london
+LOCATION:White Cube Bermondsey\, 144–152 Bermondsey Street\, London SE1
+  3TQ\, London
+URL:https://www.whitecube.com/exhibitions/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_45aad7caa2334ef3b17f4f78743
@@ -1955,6 +1941,20 @@ DESCRIPTION:A theatre production presented by Hampstead Downstairs and Ce
 LOCATION:Hampstead Theatre\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTT
  AGE\, LONDON\, NW3 3EU\, SWISS COTTAGE\, London
 URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5306e62416fa40efaffc827eac3a4612-occ_a5ee6cfb8b8145f2836fc429ac7
+ bb92d@thingstodoinyourcity
+DTSTAMP:20260904T174253Z
+DTSTART:20260918T170000Z
+SUMMARY:Elizabeth David Dinner Menus
+DESCRIPTION:Three special dinner menus celebrate Elizabeth David’s reci
+ pes. Garden Café Head Chef Alex Jackson created the menu inspired by he
+ r legacy.\nPrice: £42\nhttps://www.gardenmuseum.org.uk/whats-on/celebra
+ ting-the-cooking-of-elizabeth-david/
+LOCATION:Garden Café\, London
+URL:https://www.gardenmuseum.org.uk/whats-on/celebrating-the-cooking-of-e
+ lizabeth-david/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0b96be94430341339657a4e40762bcbb-occ_148ce333178844dda721749548b
