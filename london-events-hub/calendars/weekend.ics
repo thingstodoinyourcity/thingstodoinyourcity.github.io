@@ -1697,40 +1697,18 @@ LOCATION:White Cube Bermondsey\, 144–152 Bermondsey Street\, London SE1
 URL:https://www.whitecube.com/exhibitions/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4e60d18bf2be4709bf7f0338a94c082f-occ_af1600b9e9094f9db6152602dd1
- bf4fd@thingstodoinyourcity
-DTSTAMP:20260907T083245Z
-DTSTART:20260920T140000Z
-SUMMARY:The Transformers: The Movie 40th Anniversary
-DESCRIPTION:The 1986 animated classic returns in 4K for a 40th-anniversar
- y celebration. It features an iconic voice cast and a memorable soundtra
- ck.\nhttps://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6952357bcc30462fb3b121b92155ccf9-occ_2b9952b5854f42928029bceda16
- 88d95@thingstodoinyourcity
-DTSTAMP:20260907T090028Z
-DTSTART:20260918T170000Z
-SUMMARY:April X
-DESCRIPTION:Bax searches for his missing twin sister April across a futur
- istic\, post-Soviet cityscape. The film stars Lilly Krug and Connor Stor
- rie.\nhttps://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6952357bcc30462fb3b121b92155ccf9-occ_6f992de2372c42edab3b748a441
- 9574a@thingstodoinyourcity
-DTSTAMP:20260907T090028Z
-DTSTART:20260919T160000Z
-SUMMARY:April X
-DESCRIPTION:Bax searches for his missing twin sister April across a futur
- istic\, post-Soviet cityscape. The film stars Lilly Krug and Connor Stor
- rie.\nhttps://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
+UID:cand_55c0eb035cf444a7b7257346ffebac93-occ_5a0bed2a01a140348bf307e1fd9
+ 38e5f@thingstodoinyourcity
+DTSTAMP:20260905T024613Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20261024
+SUMMARY:The Urmetazoan
+DESCRIPTION:A theatre production presented by Hampstead Downstairs and Ce
+ lia Atkin. It explores how seeing the universe’s scale can make us fee
+ l small.\nhttps://www.hampsteadtheatre.com/whats-on/main-stage/
+LOCATION:Hampstead Theatre\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTT
+ AGE\, LONDON\, NW3 3EU\, SWISS COTTAGE\, London
+URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_15b892c5644745c887bb03b03ff17039-occ_8e49c9ca272b41c8a0b600abc10
@@ -1761,6 +1739,57 @@ LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\,
  Bankside\, London\, SE1 9DT\, South Bank\, London
 URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
  is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6952357bcc30462fb3b121b92155ccf9-occ_2b9952b5854f42928029bceda16
+ 88d95@thingstodoinyourcity
+DTSTAMP:20260907T090028Z
+DTSTART:20260918T170000Z
+SUMMARY:April X
+DESCRIPTION:Bax searches for his missing twin sister April across a futur
+ istic\, post-Soviet cityscape. The film stars Lilly Krug and Connor Stor
+ rie.\nhttps://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6952357bcc30462fb3b121b92155ccf9-occ_6f992de2372c42edab3b748a441
+ 9574a@thingstodoinyourcity
+DTSTAMP:20260907T090028Z
+DTSTART:20260919T160000Z
+SUMMARY:April X
+DESCRIPTION:Bax searches for his missing twin sister April across a futur
+ istic\, post-Soviet cityscape. The film stars Lilly Krug and Connor Stor
+ rie.\nhttps://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5306e62416fa40efaffc827eac3a4612-occ_a5ee6cfb8b8145f2836fc429ac7
+ bb92d@thingstodoinyourcity
+DTSTAMP:20260904T174253Z
+DTSTART:20260918T170000Z
+SUMMARY:Elizabeth David Dinner Menus
+DESCRIPTION:Three special dinner menus celebrate Elizabeth David’s reci
+ pes. Garden Café Head Chef Alex Jackson created the menu inspired by he
+ r legacy.\nPrice: £42\nhttps://www.gardenmuseum.org.uk/whats-on/celebra
+ ting-the-cooking-of-elizabeth-david/
+LOCATION:Garden Café\, London
+URL:https://www.gardenmuseum.org.uk/whats-on/celebrating-the-cooking-of-e
+ lizabeth-david/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0b96be94430341339657a4e40762bcbb-occ_148ce333178844dda721749548b
+ f059b@thingstodoinyourcity
+DTSTAMP:20260907T091743Z
+DTSTART:20260918T180000Z
+SUMMARY:PULP: What Do You Do For An Encore? + Q&A
+DESCRIPTION:A celebration of Pulp captured during their 2025 tour\, with 
+ archival material and twenty songs. Includes a live\, in-person Q&A with
+  Garth Jennings and Jarvis Cocker.\nhttps://www.picturehouses.com/cinema
+ /picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_45aad7caa2334ef3b17f4f78743
@@ -1901,47 +1930,6 @@ DESCRIPTION:An immersive three-course dinner served by characters from th
 LOCATION:President Hotel\, London
 URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
  ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_55c0eb035cf444a7b7257346ffebac93-occ_5a0bed2a01a140348bf307e1fd9
- 38e5f@thingstodoinyourcity
-DTSTAMP:20260905T024613Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20261024
-SUMMARY:The Urmetazoan
-DESCRIPTION:A theatre production presented by Hampstead Downstairs and Ce
- lia Atkin. It explores how seeing the universe’s scale can make us fee
- l small.\nhttps://www.hampsteadtheatre.com/whats-on/main-stage/
-LOCATION:Hampstead Theatre\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTT
- AGE\, LONDON\, NW3 3EU\, SWISS COTTAGE\, London
-URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5306e62416fa40efaffc827eac3a4612-occ_a5ee6cfb8b8145f2836fc429ac7
- bb92d@thingstodoinyourcity
-DTSTAMP:20260904T174253Z
-DTSTART:20260918T170000Z
-SUMMARY:Elizabeth David Dinner Menus
-DESCRIPTION:Three special dinner menus celebrate Elizabeth David’s reci
- pes. Garden Café Head Chef Alex Jackson created the menu inspired by he
- r legacy.\nPrice: £42\nhttps://www.gardenmuseum.org.uk/whats-on/celebra
- ting-the-cooking-of-elizabeth-david/
-LOCATION:Garden Café\, London
-URL:https://www.gardenmuseum.org.uk/whats-on/celebrating-the-cooking-of-e
- lizabeth-david/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0b96be94430341339657a4e40762bcbb-occ_148ce333178844dda721749548b
- f059b@thingstodoinyourcity
-DTSTAMP:20260907T091743Z
-DTSTART:20260918T180000Z
-SUMMARY:PULP: What Do You Do For An Encore? + Q&A
-DESCRIPTION:A celebration of Pulp captured during their 2025 tour\, with 
- archival material and twenty songs. Includes a live\, in-person Q&A with
-  Garth Jennings and Jarvis Cocker.\nhttps://www.picturehouses.com/cinema
- /picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5a112db875194272917c4bed688e9fdf-occ_2e2c8fae6f57454daf3f92d3af5
@@ -2541,6 +2529,18 @@ DESCRIPTION:Family comedy for audiences aged 6+\, featuring stand-ups\, s
  ts/comedy-club-4-kids/
 LOCATION:Park Theatre\, London
 URL:https://parktheatre.co.uk/events/comedy-club-4-kids/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4e60d18bf2be4709bf7f0338a94c082f-occ_af1600b9e9094f9db6152602dd1
+ bf4fd@thingstodoinyourcity
+DTSTAMP:20260907T083245Z
+DTSTART:20260920T140000Z
+SUMMARY:The Transformers: The Movie 40th Anniversary
+DESCRIPTION:The 1986 animated classic returns in 4K for a 40th-anniversar
+ y celebration. It features an iconic voice cast and a memorable soundtra
+ ck.\nhttps://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_13ec39e3e9084b9da44b77d55b6dfb47-occ_8906676274584c0591e88060191
