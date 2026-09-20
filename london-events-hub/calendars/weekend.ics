@@ -180,19 +180,6 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b3c7125cc0984db68c427230afbb43d8-occ_88e7a419a9104ee99de0ac6635b
- b5b54@thingstodoinyourcity
-DTSTAMP:20260815T050920Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260919
-SUMMARY:Nhu Xuan Hua: Of Walking on Fire
-DESCRIPTION:Price: Free\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Autograph Gallery\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4045b3b89b5a42d2b9aee5f6e9520f43-occ_ea96a10397cf40bfb447b1f4e1d
  922d4@thingstodoinyourcity
 DTSTAMP:20260906T160225Z
@@ -979,17 +966,6 @@ LOCATION:Fortune Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b1622a794b1a482d970f5c07bfb1f094-occ_8cf9c09a82ca40eb813fe1d656b
- 1e9d7@thingstodoinyourcity
-DTSTAMP:20260815T093653Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260919
-SUMMARY:Sh!t-Faced Shakespeare: Romeo and Juliet
-DESCRIPTION:https://www.leicestersquaretheatre.com/whats-on/
-LOCATION:6 Leicester Place London WC2H 7BX\, London
-URL:https://www.leicestersquaretheatre.com/whats-on/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e8e51d9d35a847c2b41dd066f546217b-occ_d4517d138b6040dda6d0cacff1b
  4e343@thingstodoinyourcity
 DTSTAMP:20260815T012659Z
@@ -1020,17 +996,6 @@ DTEND;VALUE=DATE:20271003
 SUMMARY:The Play That Goes Wrong
 DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:Duchess Theatre\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dbd73cdae0d245f698caf18aa4a81b20-occ_aa5a784ca90e4a2d87d7bb6b423
- df5d1@thingstodoinyourcity
-DTSTAMP:20260815T010554Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260919
-SUMMARY:The Producers
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Garrick Theatre\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,51 +1663,11 @@ LOCATION:Hampstead Theatre\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTT
 URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6e2f979c467f483d91cd9a34eadf1db0-occ_ae3b407e6fa24933b24aeb7d233
- 81812@thingstodoinyourcity
-DTSTAMP:20260906T185826Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:How The Other Half Loves
-DESCRIPTION:A witty Alan Ayckbourn comedy about three couples caught in i
- nfidelity\, deception and misunderstanding. The revival is directed by P
- hillip Breen.\nhttps://www.londonboxoffice.co.uk/all-london-shows
-LOCATION:Old Vic Theatre\, 103 The Cut\, London\, SE1 8NB\, London
-URL:https://www.londonboxoffice.co.uk/all-london-shows
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_386172e1eab44e3a8845e1e6cdc4a985-occ_d01dfe89db7e4340b3422f80152
- 48f52@thingstodoinyourcity
-DTSTAMP:20260905T004747Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Night Tales: FREE Day Party
-DESCRIPTION:Open-air disco and house party with pizza and summer cocktail
- s. Free tickets are available\, with terrace entry before 4:30pm.\nPrice
- : Free Entry Before 4:30pm [Terrace Only] £0.00\; Anytime Entry [Terrac
- e ONLY] £6.00\nhttps://feverup.com/m/690735
-LOCATION:Night Tales\, 14 Bohemia Pl\, Mare St\, London E8 1DU\, UK\, Hac
- kney Central\, London
-URL:https://feverup.com/m/690735
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_17fef8eb291d405c9fdf92f7aed0e892-occ_d9d0c860a7d34cb298099df0baf
  cdfb2@thingstodoinyourcity
 DTSTAMP:20260905T121954Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260926
-SUMMARY:Olga Koch: Fat Tom Cruise
-DESCRIPTION:Olga Koch explores recent history in an immersive\, genre-def
- ying comedy show. The show was nominated for Melbourne and Edinburgh Com
- edy Awards.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/what
- s-on/
-LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
- \, Finsbury Park\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_17fef8eb291d405c9fdf92f7aed0e892-occ_e3bf7a085a504145a9cea3cf61d
- 46a7a@thingstodoinyourcity
-DTSTAMP:20260905T121954Z
-DTSTART:20260919T193000Z
 SUMMARY:Olga Koch: Fat Tom Cruise
 DESCRIPTION:Olga Koch explores recent history in an immersive\, genre-def
  ying comedy show. The show was nominated for Melbourne and Edinburgh Com
@@ -1765,278 +1690,6 @@ DESCRIPTION:Olga Koch explores recent history in an immersive\, genre-def
 LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
  \, Finsbury Park\, London
 URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4eb0634ad81f41ddbe74e406434484f4-occ_65204b39ff5e48e5995929e2277
- 0c8d6@thingstodoinyourcity
-DTSTAMP:20260905T032224Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Robert Hood (Extended Set)
-DESCRIPTION:Robert Hood leads an extended techno set with NEUX\, Unhuman 
- and Livid\, presented as OPEN//FORM’s second chapter in collaboration 
- with KHIDI.\nhttps://e1ldn.co/events
-LOCATION:E1 London\, 110 Pennington St\, Wapping\, London E1W 2BB\, East 
- London\, London
-URL:https://e1ldn.co/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fa1f2aaeae0b4c238c556bce2dd3bab3-occ_c008c0b23aea4fa5ba1b8dc88e7
- 14c61@thingstodoinyourcity
-DTSTAMP:20260905T030817Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Second World War family walk
-DESCRIPTION:Explore the marks the war left on London and the stories they
-  tell. A family walk takes place on 19 September 2026.\nhttps://www.lond
- onmuseum.org.uk/whats-on/
-LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b59f2e78b31242138b4ae582e6b51d2a-occ_cf896a166ee2499d898975eae03
- 3f8d0@thingstodoinyourcity
-DTSTAMP:20260905T021623Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Silent Sounds Boat Party
-DESCRIPTION:Drink and dance the night away while cruising past historic l
- andmarks. The event is described as a May calendar highlight.\nPrice: Ti
- ckets from £27.50 - £50.76\nhttps://www.designmynight.com/london/whats
- -on/best-events-in-may
-LOCATION:The Silent Disco Boat\, London
-URL:https://www.designmynight.com/london/whats-on/best-events-in-may
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_51c2454b982b47bfad623ff8d6d6e590-occ_042b0eec118246b9b1300e15dec
- 4560f@thingstodoinyourcity
-DTSTAMP:20260905T033254Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Spiritbox
-DESCRIPTION:Spiritbox bring their Tsunami Sea UK Tour to the arena for th
- eir first UK arena headline tour\, following a sold-out Alexandra Palace
-  show in 2025.\nhttps://www.ovoarena.co.uk/events
-LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
- , Wembley\, HA9 0AA.\, Wembley Park\, London
-URL:https://www.ovoarena.co.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7034879d214e4f28bf02496e1aad5b19-occ_4891114fe174423ea7b4c887316
- 65c9f@thingstodoinyourcity
-DTSTAMP:20260905T013712Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Spiritbox
-DESCRIPTION:Spiritbox bring their Tsunami Sea UK Tour to their biggest UK
-  shows to date. The band’s sound combines big riffs\, explosive dynami
- cs and pulsating rhythms.\nhttps://www.ovoarena.co.uk/events
-LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
- , Wembley\, HA9 0AA.\, Wembley Park\, London
-URL:https://www.ovoarena.co.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d3492cd343364a12a5a8f29dc34cf23d-occ_fd7e5373b80146f493e6de11300
- 4000a@thingstodoinyourcity
-DTSTAMP:20260905T024744Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:Spiritbox: Tsunami Sea UK Tour 2026
-DESCRIPTION:Spiritbox bring their first UK arena headline tour to Wembley
- . The Tsunami Sea tour marks their biggest UK shows to date.\nhttps://ww
- w.ovoarena.co.uk/events
-LOCATION:OVO Arena Wembley\, Arena Square\, Engineers Way\, Wembley Park\
- , Wembley\, HA9 0AA.\, Wembley Park\, London
-URL:https://www.ovoarena.co.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abafaaf1f0a84823a20dcb32beacdf93-occ_7bcf78816fb545c988df0fc6a40
- 64a68@thingstodoinyourcity
-DTSTAMP:20260905T032336Z
-DTSTART;VALUE=DATE:20260919
-SUMMARY:The Asylum: Coldsteps Birthday
-DESCRIPTION:Two leading forces collaborate to celebrate Coldsteps’ Birt
- hday at E1 LDN. The event features Afro House and Afro Tech.\nhttps://e1
- ldn.co/events
-LOCATION:E1 London\, 110 Pennington St\, Wapping\, London E1W 2BB\, East 
- London\, London
-URL:https://e1ldn.co/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c89c7056797d4f109b2346b3317972ee-occ_8697177ba66b4ce88315c26d828
- 10e1d@thingstodoinyourcity
-DTSTAMP:20260905T021150Z
-DTSTART:20260919T091500Z
-SUMMARY:WALL•E (+ Craft Activities)
-DESCRIPTION:Family screening of Pixar’s WALL•E\, with lobby arts and 
- crafts before the film. Crafts are primarily aimed at children aged 4 to
-  10.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
-LOCATION:107 Kingsland High Street\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_78ea2a6bf3374925a953263ad26
- 0a8f2@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260919T123000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_2dfb7481e3c64e2e95d6bdeba61
- fea87@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260919T183000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_b3f6eb0114f4418c94c6207cb9b
- a3f6d@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260920T123000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5c2c7a57d3654eab860e0d91dcf
- 9fab2@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260920T173000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_f4d2f84717e94147ba59d4424f6
- 8c63a@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260925T183000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5ac0a3e506b542f2bfd44564ea6
- b2d27@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260926T123000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_04264fcf6287430a85b05923881
- f328c@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260926T183000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8212ae495a37485b89f361857e1
- 650fa@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260927T123000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_3fc0763433044b0fa99e72ee748
- b8f10@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260927T173000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f698932fcd0d4660a01dae9a60433567-occ_68667b7032084c049c525babd28
- 009b1@thingstodoinyourcity
-DTSTAMP:20260904T181445Z
-DTSTART:20260919T140000Z
-SUMMARY:Woody Sez: The Life & Music of Woody Guthrie
-DESCRIPTION:A musical journey through Woody Guthrie’s life and music\, 
- told in his own words with over two dozen songs and four actor-musicians
- .\nPrice: £15.00–£28.00 (+ £1.50 Booking Fee)\nhttps://underbellybo
- ulevard.com/book-tickets/woody-sez-the-life-music-of-woody-guthrie/61:19
- 1698/
-LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
- , London
-URL:https://underbellyboulevard.com/book-tickets/woody-sez-the-life-music
- -of-woody-guthrie/61:191698/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f698932fcd0d4660a01dae9a60433567-occ_1cfa5db57afb41238f75522b508
- ab306@thingstodoinyourcity
-DTSTAMP:20260904T181445Z
-DTSTART:20260919T180000Z
-SUMMARY:Woody Sez: The Life & Music of Woody Guthrie
-DESCRIPTION:A musical journey through Woody Guthrie’s life and music\, 
- told in his own words with over two dozen songs and four actor-musicians
- .\nPrice: £15.00–£28.00 (+ £1.50 Booking Fee)\nhttps://underbellybo
- ulevard.com/book-tickets/woody-sez-the-life-music-of-woody-guthrie/61:19
- 1698/
-LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
- , London
-URL:https://underbellyboulevard.com/book-tickets/woody-sez-the-life-music
- -of-woody-guthrie/61:191698/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6952357bcc30462fb3b121b92155ccf9-occ_6f992de2372c42edab3b748a441
- 9574a@thingstodoinyourcity
-DTSTAMP:20260907T090028Z
-DTSTART:20260919T160000Z
-SUMMARY:April X
-DESCRIPTION:Bax searches for his missing twin sister April across a futur
- istic\, post-Soviet cityscape. The film stars Lilly Krug and Connor Stor
- rie.\nhttps://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_84137527960a41298de7a3622044d08e-occ_efa6a59fab174f348d9c79b26ae
@@ -2341,6 +1994,104 @@ LOCATION:Shakespeare's Globe\, Shakespeare's Globe\, 21 New Globe Walk\,
  Bankside\, London\, SE1 9DT\, South Bank\, London
 URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
  is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_b3f6eb0114f4418c94c6207cb9b
+ a3f6d@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260920T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5c2c7a57d3654eab860e0d91dcf
+ 9fab2@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260920T173000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_f4d2f84717e94147ba59d4424f6
+ 8c63a@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260925T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_5ac0a3e506b542f2bfd44564ea6
+ b2d27@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260926T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_04264fcf6287430a85b05923881
+ f328c@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260926T183000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8212ae495a37485b89f361857e1
+ 650fa@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260927T123000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_3fc0763433044b0fa99e72ee748
+ b8f10@thingstodoinyourcity
+DTSTAMP:20260907T074612Z
+DTSTART:20260927T173000Z
+SUMMARY:Faulty Towers Dining Experience
+DESCRIPTION:An immersive three-course dinner served by characters from th
+ e beloved British sitcom. Each night is improvised in response to the gu
+ ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
+ ident-hotel/fawtly-towers-dining-experience/tickets/calendar
+LOCATION:President Hotel\, London
+URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
+ ers-dining-experience/tickets/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6583b1e626664fefbf73a776edd9658b-occ_589adc5411c149f3b815cdb8e32
