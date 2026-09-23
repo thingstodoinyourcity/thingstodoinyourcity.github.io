@@ -1206,20 +1206,6 @@ LOCATION:Main House\, Lyric Square\, King St\, London W6 0QL\, London
 URL:https://lyric.co.uk/shows/the-children
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_54e2ec029f6446778d40cf40c5770a7a-occ_c6f909c9c7834054a5409799361
- 8c627@thingstodoinyourcity
-DTSTAMP:20260905T080125Z
-DTSTART:20260922T183000Z
-SUMMARY:The Children
-DESCRIPTION:Lucy Kirkwood’s darkly funny drama follows three survivors 
- confronting old secrets and their debt to the next generation. Directed 
- by Rachel O’Riordan.\nPrice: From £10 - £55\; £2 restoration levy a
- pplies to standard ticket purchases.\nhttps://lyric.co.uk/shows/the-chil
- dren
-LOCATION:Main House\, Lyric Square\, King St\, London W6 0QL\, London
-URL:https://lyric.co.uk/shows/the-children
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_54e2ec029f6446778d40cf40c5770a7a-occ_f9d4ecc22f784046a4d442c2992
  7cd7b@thingstodoinyourcity
 DTSTAMP:20260905T080125Z
@@ -1710,20 +1696,6 @@ LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
 URL:https://parktheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_17fef8eb291d405c9fdf92f7aed0e892-occ_f481e3d9c999414684981589ec9
- 3ad97@thingstodoinyourcity
-DTSTAMP:20260905T121954Z
-DTSTART:20260922T193000Z
-SUMMARY:Olga Koch: Fat Tom Cruise
-DESCRIPTION:Olga Koch explores recent history in an immersive\, genre-def
- ying comedy show. The show was nominated for Melbourne and Edinburgh Com
- edy Awards.\nPrice: Limited £15 tickets\nhttps://parktheatre.co.uk/what
- s-on/
-LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
- \, Finsbury Park\, London
-URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_17fef8eb291d405c9fdf92f7aed0e892-occ_f367f04be7b949518426b59d9fb
  17b78@thingstodoinyourcity
 DTSTAMP:20260905T121954Z
@@ -1750,34 +1722,6 @@ DESCRIPTION:Olga Koch explores recent history in an immersive\, genre-def
 LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
  \, Finsbury Park\, London
 URL:https://parktheatre.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5cd5493f64d84253b14f389a79123930-occ_b18cd1dfd6da4831a2e998e3050
- 3827f@thingstodoinyourcity
-DTSTAMP:20260905T013339Z
-DTSTART:20260922T190000Z
-SUMMARY:Operotica: Lovers in Every Lifetime
-DESCRIPTION:A kinky opera duo returns as restless spirits\, guided throug
- h past lives by psychic Séayoncé. The theatrical journey spans star-cr
- ossed nuns to 18th-century ladies-in-waiting.\nPrice: Prices from £19.5
- 0 (includes booking fee)\nhttps://underbellyboulevard.com/tickets
-LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
- , London
-URL:https://underbellyboulevard.com/tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5cd5493f64d84253b14f389a79123930-occ_5e8c53eb49a44df0852763cfb19
- 6ef05@thingstodoinyourcity
-DTSTAMP:20260905T013339Z
-DTSTART:20260923T190000Z
-SUMMARY:Operotica: Lovers in Every Lifetime
-DESCRIPTION:A kinky opera duo returns as restless spirits\, guided throug
- h past lives by psychic Séayoncé. The theatrical journey spans star-cr
- ossed nuns to 18th-century ladies-in-waiting.\nPrice: Prices from £19.5
- 0 (includes booking fee)\nhttps://underbellyboulevard.com/tickets
-LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
- , London
-URL:https://underbellyboulevard.com/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5803fd8072c847019c80b4d7d123302c-occ_51ceec1981344154a46f930aa48
@@ -1902,6 +1846,20 @@ DESCRIPTION:An immersive three-course dinner served by characters from th
 LOCATION:President Hotel\, London
 URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
  ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5cd5493f64d84253b14f389a79123930-occ_5e8c53eb49a44df0852763cfb19
+ 6ef05@thingstodoinyourcity
+DTSTAMP:20260905T013339Z
+DTSTART:20260923T190000Z
+SUMMARY:Operotica: Lovers in Every Lifetime
+DESCRIPTION:A kinky opera duo returns as restless spirits\, guided throug
+ h past lives by psychic Séayoncé. The theatrical journey spans star-cr
+ ossed nuns to 18th-century ladies-in-waiting.\nPrice: Prices from £19.5
+ 0 (includes booking fee)\nhttps://underbellyboulevard.com/tickets
+LOCATION:The Theatre\, 6 Walker's Court\, Soho\, London\, W1F 0BT\, Soho\
+ , London
+URL:https://underbellyboulevard.com/tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a258525c8bd249e19dae0ab7c90cc659-occ_caf4d6dcdf7246429c99652ce49
