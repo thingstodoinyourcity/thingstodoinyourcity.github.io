@@ -1638,19 +1638,6 @@ LOCATION:Park90\, Park Theatre\, Clifton Terrace\, Finsbury Park\, N4 3JP
 URL:https://parktheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d198eb6b0de4afa9fc9f36c787
- a6add@thingstodoinyourcity
-DTSTAMP:20260904T180229Z
-DTSTART;VALUE=DATE:20260927
-SUMMARY:Little Venice – the pursuit of pleasure
-DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
- ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
-  Maida Vale\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_f4d2f84717e94147ba59d4424f6
  8c63a@thingstodoinyourcity
 DTSTAMP:20260907T074612Z
@@ -1719,6 +1706,19 @@ DESCRIPTION:An immersive three-course dinner served by characters from th
 LOCATION:President Hotel\, London
 URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
  ers-dining-experience/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d198eb6b0de4afa9fc9f36c787
+ a6add@thingstodoinyourcity
+DTSTAMP:20260904T180229Z
+DTSTART;VALUE=DATE:20260927
+SUMMARY:Little Venice – the pursuit of pleasure
+DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
+ ous residents and canals\, including part of the Regent’s Canal towpat
+ h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
+LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
+  Maida Vale\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5db1993bd428415a8eb83e9500e8b37c-occ_f3e8ddb186a746b7ab8bba5371e
