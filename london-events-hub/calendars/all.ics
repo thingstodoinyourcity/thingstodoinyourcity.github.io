@@ -304,49 +304,6 @@ LOCATION:The Porter Gallery\, V&A South Kensington\, Cromwell Road\, Lond
 URL:https://www.londonmuseumtours.com/temporary-exhibitions
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1e16d06637d04c388d83958d141937d0-occ_0cd2b88dca684970b809f58e6b6
- 1388b@thingstodoinyourcity
-DTSTAMP:20260906T173734Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260927
-SUMMARY:James McNeill Whistler
-DESCRIPTION:Major retrospective of James McNeill Whistler\, featuring ove
- r 150 works at Tate Britain.\nPrice: 50% off exhibitions\nhttps://www.ar
- tfund.org/explore/get-inspired/features/best-exhibitions-in-london-open-
- now
-LOCATION:Tate Britain\, London
-URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
- s-in-london-open-now
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_521c58a01ec3448f9e450aecb9823456-occ_3929b979c20046b997adfcadc04
- 516b2@thingstodoinyourcity
-DTSTAMP:20260815T072130Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260927
-SUMMARY:James McNeill Whistler
-DESCRIPTION:Price: Paid\nhttps://whatsdownthatstreet.com/london-museum-gu
- ide/exhibitions-london/
-LOCATION:Tate Britain\, London
-URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
- n/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_da28cb7c1b6344778ca97b1cef655dc6-occ_f8b2cdf903cc4e6c98c0d30d6f3
- 1254f@thingstodoinyourcity
-DTSTAMP:20260905T150856Z
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260927
-SUMMARY:James McNeill Whistler
-DESCRIPTION:A major retrospective brings together Whistler’s paintings\
- , portraits\, drawings\, prints and designs\, including rarely seen work
- s.\nPrice: £24 / Free for Members\; £22 Concessions\; £5 for Tate Col
- lective. 16–25? Sign up and log in to book\nhttps://www.tate.org.uk/wh
- ats-on/tate-britain/whistler
-LOCATION:Tate Britain\, London SW1P 4RG\, Millbank\, London
-URL:https://www.tate.org.uk/whats-on/tate-britain/whistler
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8ce2d3fe010c495e9de25592ffc397ac-occ_e1ad9436d6814877be759fbe69f
  a3900@thingstodoinyourcity
 DTSTAMP:20260815T051556Z
@@ -1088,17 +1045,6 @@ LOCATION:Jk Comedy Club Piccadilly Circus\, Piccadilly Circus\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e045e21c5e5d44ae9f09b96c0186495e-occ_fd4077733ebd4d24af3cd4e3785
- 7a49e@thingstodoinyourcity
-DTSTAMP:20260823T174453Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260927
-SUMMARY:The Sunday Service In-House Special
-DESCRIPTION:https://www.londontheatres.com/events/comedy
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e8ec9cb20420486690ce41e0d654f85d-occ_ce49ff2a182044b8893b3ed70c0
  74005@thingstodoinyourcity
 DTSTAMP:20260823T194914Z
@@ -1617,31 +1563,19 @@ LOCATION:Hampstead Theatre\, HAMPSTEAD THEATRE\, ETON AVENUE\, SWISS COTT
 URL:https://www.hampsteadtheatre.com/whats-on/main-stage/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5803fd8072c847019c80b4d7d123302c-occ_0d198eb6b0de4afa9fc9f36c787
- a6add@thingstodoinyourcity
-DTSTAMP:20260904T180229Z
-DTSTART;VALUE=DATE:20260927
-SUMMARY:Little Venice – the pursuit of pleasure
-DESCRIPTION:A walk through Little Venice’s Victorian architecture\, fam
- ous residents and canals\, including part of the Regent’s Canal towpat
- h.\nPrice: £20.00\nhttps://www.ianvisits.co.uk/calendar/weekend/
-LOCATION:Warwick Avenue tube station\, Warwick Avenue\, London\, W9 2PT\,
-  Maida Vale\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5db1993bd428415a8eb83e9500e8b37c-occ_f3e8ddb186a746b7ab8bba5371e
- 53457@thingstodoinyourcity
-DTSTAMP:20260904T180335Z
-DTSTART;VALUE=DATE:20260927
-SUMMARY:Rock 'n' Roll Walking Tour of Soho
-DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at 
- the centre of the global music industry. The route includes sites linked
-  to major music artists.\nPrice: £16.75\nhttps://www.ianvisits.co.uk/ca
- lendar/weekend/
-LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
- , London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+UID:cand_07fe54a5375f4c3babfaaed6ad18cce0-occ_db09212962d941e38a7a5f96666
+ f17b2@thingstodoinyourcity
+DTSTAMP:20260904T174210Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261205
+SUMMARY:Oh\, Mary!
+DESCRIPTION:Tony- and Olivier-recognised comedy play starring Jinkx Monso
+ on and Lolly Adefope in different runs.\nPrice: from £65.00\nhttps://ww
+ w.atgtickets.com/shows/oh-mary/trafalgar-theatre/calendar/2026-09-04
+LOCATION:Trafalgar Theatre\, 14 Whitehall\, Westminster\, London\, SW1A 2
+ DY\, UK\, Charing Cross\, London
+URL:https://www.atgtickets.com/shows/oh-mary/trafalgar-theatre/calendar/2
+ 026-09-04
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5db1993bd428415a8eb83e9500e8b37c-occ_061990cef01840e88b21707bcf6
@@ -1684,22 +1618,6 @@ DESCRIPTION:Visit the pubs\, clubs\, venues and studios that put Soho at
 LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street\, W1S 3HF\, Mayfair\
  , London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b20e880a264b4a4d8cf504bfa3790f19-occ_0a1d61cd202741f2a719372a24e
- 69566@thingstodoinyourcity
-DTSTAMP:20260904T174921Z
-DTSTART;VALUE=DATE:20260927
-SUMMARY:Sunday Tours of Brompton Cemetery
-DESCRIPTION:A guided tour explores Brompton Cemetery's history and the st
- ories of some residents. Volunteer guides offer insight into this Royal 
- Park.\nPrice: A suggested donation of £10 is appreciated\; free for Fri
- ends of Brompton Cemetery volunteers.\nhttps://www.eventbrite.co.uk/e/su
- nday-tours-of-brompton-cemetery-tickets-1977779480667?aff=ianvisits
-LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\, 
- London
-URL:https://www.eventbrite.co.uk/e/sunday-tours-of-brompton-cemetery-tick
- ets-1977779480667?aff=ianvisits
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b20e880a264b4a4d8cf504bfa3790f19-occ_4e21cfea020344b280cab04aa4b
@@ -1748,49 +1666,6 @@ LOCATION:Brompton Cemetery\, Old Brompton Road London SW6 9JE\, Fulham\,
  London
 URL:https://www.eventbrite.co.uk/e/sunday-tours-of-brompton-cemetery-tick
  ets-1977779480667?aff=ianvisits
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_8212ae495a37485b89f361857e1
- 650fa@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260927T123000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_055abb8c66f4439c91f8ab1eeb624598-occ_3fc0763433044b0fa99e72ee748
- b8f10@thingstodoinyourcity
-DTSTAMP:20260907T074612Z
-DTSTART:20260927T173000Z
-SUMMARY:Faulty Towers Dining Experience
-DESCRIPTION:An immersive three-course dinner served by characters from th
- e beloved British sitcom. Each night is improvised in response to the gu
- ests.\nPrice: From £69\nhttps://www.london-theatreland.co.uk/shows/pres
- ident-hotel/fawtly-towers-dining-experience/tickets/calendar
-LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/fawtly-tow
- ers-dining-experience/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_07fe54a5375f4c3babfaaed6ad18cce0-occ_db09212962d941e38a7a5f96666
- f17b2@thingstodoinyourcity
-DTSTAMP:20260904T174210Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261205
-SUMMARY:Oh\, Mary!
-DESCRIPTION:Tony- and Olivier-recognised comedy play starring Jinkx Monso
- on and Lolly Adefope in different runs.\nPrice: from £65.00\nhttps://ww
- w.atgtickets.com/shows/oh-mary/trafalgar-theatre/calendar/2026-09-04
-LOCATION:Trafalgar Theatre\, 14 Whitehall\, Westminster\, London\, SW1A 2
- DY\, UK\, Charing Cross\, London
-URL:https://www.atgtickets.com/shows/oh-mary/trafalgar-theatre/calendar/2
- 026-09-04
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a95f58319a7041f5b52f912f69eb49a3-occ_18709e2e5a484accb6e5face112
