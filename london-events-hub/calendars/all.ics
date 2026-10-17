@@ -573,6 +573,21 @@ URL:https://onecitylondon.com/article/things-to-do-this-june-in-the-city-
  of-london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_27962fb4c86644ab8579017cd0e865cf-occ_03b8874a527f4726990f36ddb27
+ d7dc2@thingstodoinyourcity
+DTSTAMP:20261017T053932Z
+DTSTART:20260418T090000Z
+DTEND:20261029T173000Z
+SUMMARY:Guanyin II: The Caretaker\, Lawrence Lek
+DESCRIPTION:Players search a reconstruction of a conservation studio for 
+ model fragments of the ArcelorMittal Orbit. Playing as carebot Guanyin\,
+  they explore staff-only areas.\nPrice: Free event\nhttps://www.vam.ac.u
+ k/whatson
+LOCATION:V&A East Storehouse\, Parkes Street\, Queen Elizabeth Olympic Pa
+ rk\, Hackney Wick\, London\, E20 3AX\, Hackney Wick\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_590e4082d2a54038a641ac19d28e1e60-occ_82ff2a6b348f4d93a6920b75e78
  249c0@thingstodoinyourcity
 DTSTAMP:20261016T232723Z
@@ -650,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_158367fa688c4cfc9aeeb2bafe1d04bb-occ_813f0e0ee77c422f8f71ec038e3
  6c421@thingstodoinyourcity
-DTSTAMP:20261016T140804Z
+DTSTAMP:20261017T050033Z
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20261031
 SUMMARY:Kew’s Carbon Garden
@@ -726,17 +741,17 @@ URL:https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from
  -asia-australia-and-the-pacific
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_caef4e522f5e477ca28270280102c647-occ_cbf71323ca6a444294358c73914
- 2bd8a@thingstodoinyourcity
-DTSTAMP:20261016T152341Z
+UID:cand_caef4e522f5e477ca28270280102c647-occ_e0c14c805401451eb9f5b9fa73c
+ a7f7c@thingstodoinyourcity
+DTSTAMP:20261017T071704Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20270110
 SUMMARY:Rising Voices: Contemporary Art from Asia\, Australia
 DESCRIPTION:Over 70 works by more than 40 artists from 25 countries\, mad
- e in collaboration with QAGOMA Brisbane. It foregrounds First Nations pe
- rspectives across sculpture\, photography and painting.\nPrice: £17.00 
- Concessions apply.\nhttps://www.flolondon.co.uk/all-posts/things-to-do-i
- n-london-in-may-2026
+ e with QAGOMA Brisbane. It foregrounds First Nations perspectives across
+  sculpture\, photography and painting.\nPrice: £17.00 Concessions apply
+ .\nhttps://www.flolondon.co.uk/all-posts/things-to-do-in-london-in-may-2
+ 026
 LOCATION:V&A South Kensington\, V&A South Kensington\, Cromwell Road\, Lo
  ndon\, SW7 2RL\, London
 URL:https://www.flolondon.co.uk/all-posts/things-to-do-in-london-in-may-2
@@ -1011,17 +1026,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1fa6ed7ba1364917bd910d96c2b1ce04-occ_6f132bc2fb6a46998f8afe31d93
  ab4c9@thingstodoinyourcity
-DTSTAMP:20261016T151038Z
+DTSTAMP:20261017T060835Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20261130
 SUMMARY:House of Dreamers London
-DESCRIPTION:House of Dreamers makes its London debut with 16 immersive in
- stallations designed by Elena & Giulia Sella. A DreamBand wearable perso
- nalises each visit in real time.\nPrice: From £15.90\nhttps://www.excel
- .london/visitor/whats-on
+DESCRIPTION:House of Dreamers brings 16 installations by Elena & Giulia S
+ ella to London for the first time. A DreamBand wearable personalises eac
+ h visit in real time.\nPrice: From £15.90\nhttps://www.excel.london/vis
+ itor/whats-on
 LOCATION:Immerse LDN\, Excel Waterfront\, Royal Victoria Dock\, 1 Western
-  Gateway\, London E16 1XL\, Royal Victoria Dock\, 1 Western Gateway\, Lo
- ndon E16 1XL\, Excel Waterfront\, London
+  Gateway\, London E16 1XL\, 1 Western Gateway\, London E16 1XL\, Excel W
+ aterfront\, London
 URL:https://www.excel.london/visitor/whats-on
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,14 +1059,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdea805776a74fe083365bb73f86f026-occ_1fb85af092824936bed3ea6840c
  3330e@thingstodoinyourcity
-DTSTAMP:20261016T152109Z
+DTSTAMP:20261017T071253Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20270207
 SUMMARY:Audrey Amiss: The Surviving Exhibitions
-DESCRIPTION:The first museum exhibition for artist Audrey Amiss (1933–2
- 013). It shows drawings and paintings in which she spoke out against har
- mful mental health treatment.\nPrice: Free\nhttps://wellcomecollection.o
- rg/whats-on
+DESCRIPTION:The first museum exhibition dedicated to artist Audrey Amiss 
+ (1933–2013). It shows how she used her art to speak out against harmfu
+ l mental health treatment.\nPrice: Free\nhttps://wellcomecollection.org/
+ whats-on
 LOCATION:Wellcome Collection\, 183 Euston Road London NW1 2BE\, London
 URL:https://wellcomecollection.org/whats-on
 END:VEVENT
@@ -1200,7 +1215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0b28dc4e0bb9481ea8077615de512efb-occ_12eb4456cc8d43d6a6437e3e887
  cd061@thingstodoinyourcity
-DTSTAMP:20261016T145245Z
+DTSTAMP:20261017T062205Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20261024
 SUMMARY:See Letitia Wright at The National Theatre
@@ -1215,7 +1230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6a2f602b53654b62ae88cceaf575e910-occ_5ef99622a59e4caeaaa5643544f
  e327e@thingstodoinyourcity
-DTSTAMP:20261016T145022Z
+DTSTAMP:20261017T061942Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20261024
 SUMMARY:See Letitia Wright at The National Theatre
@@ -1285,12 +1300,27 @@ LOCATION:artsdepot\, London
 URL:https://www.artsdepot.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4019492fd88f4f9f9467c801acb02037-occ_908f51cce39348869b8ed57fe88
- 8930d@thingstodoinyourcity
-DTSTAMP:20261016T144519Z
+UID:cand_edf809a153ef4b1390533ca4f1aaeb1a-occ_3cfcd363430a4a249f73d5f278c
+ e50f3@thingstodoinyourcity
+DTSTAMP:20261017T060238Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20261017
 SUMMARY:Watch For Colored Girls
+DESCRIPTION:Ntozake Shange’s 1975 choreopoem receives its first London 
+ revival. Listed as a theatre production\, with contact details on the th
+ eatre's website.\nhttps://www.factlondon.com/united-kingdom/london/thing
+ s-to-do/fabulous-things-to-do-in-london-this-month?redirection=cms-fact
+LOCATION:The Yard Theatre\, 2 Queen’s Yard\, London\, E9 5EN\, London
+URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
+ s-things-to-do-in-london-this-month?redirection=cms-fact
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4019492fd88f4f9f9467c801acb02037-occ_31b609fe4d4f4be2929895869b7
+ 798b0@thingstodoinyourcity
+DTSTAMP:20261017T054858Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20261017
+SUMMARY:Watch For Colored Girls at The Yard Theatre
 DESCRIPTION:Ntozake Shange’s groundbreaking 1975 choreopoem receives it
  s first London revival. The listing gives a run from early September to 
  mid-October.\nhttps://www.factmagazines.com/london/united-kingdom/london
@@ -1300,22 +1330,6 @@ LOCATION:The Yard Theatre\, 2 Queen’s Yard\, London\, E9 5EN\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
  this-month
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_edf809a153ef4b1390533ca4f1aaeb1a-occ_3cfcd363430a4a249f73d5f278c
- e50f3@thingstodoinyourcity
-DTSTAMP:20261016T144014Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20261017
-SUMMARY:Watch For Colored Girls at The Yard Theatre
-DESCRIPTION:Ntozake Shange’s groundbreaking 1975 choreopoem receives it
- s first London revival. Listed as a theatre production\, with contact de
- tails on the theatre's website.\nhttps://www.factlondon.com/united-kingd
- om/london/things-to-do/fabulous-things-to-do-in-london-this-month?redire
- ction=cms-fact
-LOCATION:The Yard Theatre\, 2 Queen’s Yard\, London\, E9 5EN\, London
-URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
- s-things-to-do-in-london-this-month?redirection=cms-fact
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_572883b2bec044689d282b84c51766be-occ_d2f39808f60446669ef52593d67
@@ -1464,7 +1478,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e94a48b4846f47869a8e95c743a2fac4-occ_20ed85d5e56d4137927d35b8674
  31f9b@thingstodoinyourcity
-DTSTAMP:20261016T142740Z
+DTSTAMP:20261017T053911Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270711
 SUMMARY:Be wowed by history at The Bayeux Tapestry
@@ -1520,17 +1534,33 @@ LOCATION:The British Museum\, London
 URL:https://coventgarden.com/whats-on.php
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_555a51192ebd48d99386dd10050eac75-occ_3c6c40808e02404ca8752136d29
- c71dc@thingstodoinyourcity
-DTSTAMP:20261016T142510Z
+UID:cand_555a51192ebd48d99386dd10050eac75-occ_3841960e9e7a43e782ce2c661d6
+ cc8ed@thingstodoinyourcity
+DTSTAMP:20261017T051223Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270711
 SUMMARY:The Bayeux Tapestry at the British Museum
-DESCRIPTION:The famous medieval embroidery arrives in London for the very
-  first time. It offers a rare chance to see the tapestry in the capital.
- \nhttps://www.factmagazines.com/london/united-kingdom/london-united-king
- dom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-t
- his-month
+DESCRIPTION:The famous medieval embroidery makes its very first London ap
+ pearance. It is a rare chance to see it in the capital.\nhttps://www.fac
+ tmagazines.com/london/united-kingdom/london-united-kingdom/things-to-do-
+ london-united-kingdom/fabulous-things-to-do-in-london-this-month
+LOCATION:The British Museum\, Great Russell Street\, London\, WC1B 3DG\, 
+ London
+URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
+ gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
+ this-month
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_555a51192ebd48d99386dd10050eac75-occ_3c6c40808e02404ca8752136d29
+ c71dc@thingstodoinyourcity
+DTSTAMP:20261017T051223Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20270711
+SUMMARY:The Bayeux Tapestry at the British Museum
+DESCRIPTION:The famous medieval embroidery makes its very first London ap
+ pearance. It is a rare chance to see it in the capital.\nhttps://www.fac
+ tmagazines.com/london/united-kingdom/london-united-kingdom/things-to-do-
+ london-united-kingdom/fabulous-things-to-do-in-london-this-month
 LOCATION:The British Museum\, Great Russell Street\, London\, WC1B 3DG\, 
  London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -1672,15 +1702,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8413682be517475abc31b6c41854c070-occ_2bb949bdfd0f4a59a54ebde70f3
  a2dc4@thingstodoinyourcity
-DTSTAMP:20261016T143507Z
+DTSTAMP:20261017T054646Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261101
 SUMMARY:Frieze Sculpture
 DESCRIPTION:Works by 11 international artists transform Regent’s Park. 
- A free element adds to the proceedings\, according to the listing.\nPric
- e: free\nhttps://www.factmagazines.com/london/united-kingdom/london-unit
- ed-kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-l
- ondon-this-month
+ The listing describes a free element added to the proceedings.\nPrice: f
+ ree\nhttps://www.factmagazines.com/london/united-kingdom/london-united-k
+ ingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-londo
+ n-this-month
 LOCATION:Regent’s Park\, London\, Regent’s Park\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
@@ -1884,14 +1914,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_542dc0388cdd431a91dfb51bc6419eea-occ_7267f3d669d94a0c8bccd8c596e
  d4b10@thingstodoinyourcity
-DTSTAMP:20261016T152131Z
+DTSTAMP:20261017T071345Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20261107
 SUMMARY:Colin Self: Unseen
-DESCRIPTION:The artist's first London retrospective since 1986\, with rar
- ely seen works. Includes the first showing of 365: A Journey in that dir
- ection\, 365 wall-based works.\nhttps://www.frithstreetgallery.com/exhib
- itions/
+DESCRIPTION:First London retrospective of Colin Self since 1986\, with ra
+ rely seen works. Includes the first showing of 365: A Journey in that di
+ rection\, a wall-based installation.\nhttps://www.frithstreetgallery.com
+ /exhibitions/
 LOCATION:GOLDEN SQUARE\, 17–18 Golden Square London W1F 9JJ\, London
 URL:https://www.frithstreetgallery.com/exhibitions/
 END:VEVENT
@@ -1952,6 +1982,21 @@ DESCRIPTION:The show centres on Artemis and Diana Spencer\, using peat fr
  ical traces ground its myths.\nhttps://spruethmagers.com/exhibitions/
 LOCATION:Sprüth Magers\, 7A Grafton Street London\, W1S 4EJ\, London
 URL:https://spruethmagers.com/exhibitions/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e94d9b8ccf014ffda2345f425d1bd4d4-occ_e2846862cf934e7f8cc2632a985
+ c25b0@thingstodoinyourcity
+DTSTAMP:20261017T051009Z
+DTSTART:20260918T110000Z
+DTEND:20270118T130000Z
+SUMMARY:Taster Recording: Aphrodite and the Greek Art of Love
+DESCRIPTION:Dr Steve Kershaw explores how Aphrodite shaped ideas of love 
+ and beauty. Access follows V&A Academy newsletter sign-up\, with the vie
+ wing link sent by email.\nPrice: Free Online course\nhttps://www.vam.ac.
+ uk/event/eRYAkEgmdb/o26036-taster-lecture-september-2026-steve-kershaw
+LOCATION:Online\, London
+URL:https://www.vam.ac.uk/event/eRYAkEgmdb/o26036-taster-lecture-septembe
+ r-2026-steve-kershaw
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6271c99753584df29f336efcb856eaa8-occ_ae9538c553a244acbf31d28a43a
@@ -2029,7 +2074,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_469e968bac0348aebe8f636b02fd9ed7-occ_50bfe375781c44e09846ffe16f3
  3ef53@thingstodoinyourcity
-DTSTAMP:20261016T141448Z
+DTSTAMP:20261017T050411Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261219
 SUMMARY:Watch Who’s Afraid Of Virginia Woolf?
@@ -2191,7 +2236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c2e03645823413e92ccc629fc5192ed-occ_44fc2498a9fc48308e64ceb2b16
  91ada@thingstodoinyourcity
-DTSTAMP:20261016T145521Z
+DTSTAMP:20261017T062617Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261129
 SUMMARY:Step inside Jenkin Van Zyl’s Enclosure
@@ -2207,15 +2252,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_472046bbbe674c558d8191dad3d80f50-occ_96378dd4b6194b879d2072a4f5a
  c32e1@thingstodoinyourcity
-DTSTAMP:20261016T145518Z
+DTSTAMP:20261017T062202Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261129
 SUMMARY:Step inside Jenkin Van Zyl’s Enclosure
-DESCRIPTION:Somerset House welcomes visitors into the surreal world of ar
- tist Jenkin Van Zyl. Enclosure is a large-scale immersive installation s
- hown at the venue.\nPrice: free\nhttps://www.factmagazines.com/london/un
- ited-kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fa
- bulous-things-to-do-in-london-this-month
+DESCRIPTION:Artist Jenkin Van Zyl brings a surreal world to visitors thro
+ ugh Enclosure\, a large-scale immersive installation. Entry is listed as
+  free.\nPrice: free\nhttps://www.factmagazines.com/london/united-kingdom
+ /london-united-kingdom/things-to-do-london-united-kingdom/fabulous-thing
+ s-to-do-in-london-this-month
 LOCATION:Somerset House\, Strand\, London\, WC2R 1LA\, Strand\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
@@ -2269,29 +2314,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f8eca18f748f459faecaa1bba4c26ee2-occ_b486cd7285a44292a9dae4d7caf
  dbe9f@thingstodoinyourcity
-DTSTAMP:20261016T163124Z
+DTSTAMP:20261017T072740Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261022
 SUMMARY:Her Private Hell
-DESCRIPTION:Nicolas Winding Refn returns with a hypnotic\, neon-drenched 
- moodscape in pink mist. Sophie Thatcher and Charles Melton star as their
-  lives converge across memory and fate.\nhttps://www.ica.art/films/her-p
- rivate-hell
+DESCRIPTION:Nicolas Winding Refn returns with a neon-drenched moodscape. 
+ Sophie Thatcher and Charles Melton star as their lives collide across me
+ mory and reality.\nhttps://www.ica.art/films
 LOCATION:CINEMA 1\, London
-URL:https://www.ica.art/films/her-private-hell
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f8eca18f748f459faecaa1bba4c26ee2-occ_54e1961c6b5742d7900b330e470
  3ae93@thingstodoinyourcity
-DTSTAMP:20261016T163124Z
+DTSTAMP:20261017T072740Z
 DTSTART:20261022T131000Z
 SUMMARY:Her Private Hell
-DESCRIPTION:Nicolas Winding Refn returns with a hypnotic\, neon-drenched 
- moodscape in pink mist. Sophie Thatcher and Charles Melton star as their
-  lives converge across memory and fate.\nhttps://www.ica.art/films/her-p
- rivate-hell
+DESCRIPTION:Nicolas Winding Refn returns with a neon-drenched moodscape. 
+ Sophie Thatcher and Charles Melton star as their lives collide across me
+ mory and reality.\nhttps://www.ica.art/films
 LOCATION:CINEMA 1\, London
-URL:https://www.ica.art/films/her-private-hell
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9f22e0f3a1ef43f18482b7fefa896c0a-occ_6a062dd1232c4dae8d30f2f5f9d
@@ -2444,15 +2487,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4dafdc71fa384a90ac76b13e3c2f9783-occ_b6e18ba081f343aa99bd92a126b
  5c83d@thingstodoinyourcity
-DTSTAMP:20261016T143003Z
+DTSTAMP:20261017T050622Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261031
 SUMMARY:Discover London’s darker side
 DESCRIPTION:Halloween season gets underway with the return of London Mont
- h of the Dead. Listed as a multi-location series of events across the ci
- ty.\nhttps://www.factmagazines.com/london/united-kingdom/london-united-k
- ingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-londo
- n-this-month
+ h of the Dead. The listing runs for the whole of October.\nhttps://www.f
+ actmagazines.com/london/united-kingdom/london-united-kingdom/things-to-d
+ o-london-united-kingdom/fabulous-things-to-do-in-london-this-month
 LOCATION:Various locations across London\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
@@ -2556,15 +2598,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c563ea623cc1429fac3429f6d87294b0-occ_8564587964634f4eb8136938e9d
  57ed0@thingstodoinyourcity
-DTSTAMP:20261016T143000Z
+DTSTAMP:20261017T053331Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261031
 SUMMARY:London Month of the Dead
-DESCRIPTION:Running throughout October\, the annual programme runs more t
- han 60 unusual events. It explores the capital’s long and often macabr
- e relationship with death.\nhttps://www.factlondon.com/united-kingdom/lo
- ndon/things-to-do/fabulous-things-to-do-in-london-this-month?redirection
- =cms-fact
+DESCRIPTION:The annual programme features more than 60 unusual events acr
+ oss the capital. It explores London's long and often macabre relationshi
+ p with death.\nhttps://www.factlondon.com/united-kingdom/london/things-t
+ o-do/fabulous-things-to-do-in-london-this-month?redirection=cms-fact
 LOCATION:Various locations across London\, London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
  s-things-to-do-in-london-this-month?redirection=cms-fact
@@ -2600,14 +2641,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4a4ee69e1aaa4f3a981dee9059dfceb9-occ_a8f7ff914b6842a3adf449692ba
  393a3@thingstodoinyourcity
-DTSTAMP:20261016T144750Z
+DTSTAMP:20261017T060813Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261031
 SUMMARY:Watch Horror Classics at Prince Charles Cinema
-DESCRIPTION:HorrOctober marks spooky season with a month-long celebration
- . It features more than 80 horror films through October.\nhttps://www.fa
- ctlondon.com/united-kingdom/london/things-to-do/fabulous-things-to-do-in
- -london-this-month?redirection=cms-fact
+DESCRIPTION:HorrOctober is a month-long spooky season celebration. It fea
+ tures more than 80 horror films across the month.\nhttps://www.factlondo
+ n.com/united-kingdom/london/things-to-do/fabulous-things-to-do-in-london
+ -this-month?redirection=cms-fact
 LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London\, WC2H 7BY\, 
  London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
@@ -2616,15 +2657,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_61345c8d015d4ef28aa7489ec29b2615-occ_0acd3d4f1cac48808a83a3cff62
  20995@thingstodoinyourcity
-DTSTAMP:20261016T144249Z
+DTSTAMP:20261017T060239Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261031
 SUMMARY:Watch Horror Classics at Prince Charles Cinema
-DESCRIPTION:HorrOctober is a month-long celebration featuring more than 8
- 0 horror films. The Leicester Square cinema is marking spooky season wit
- h classic horror screenings.\nhttps://www.factmagazines.com/london/unite
- d-kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fabul
- ous-things-to-do-in-london-this-month
+DESCRIPTION:HorrOctober marks spooky season with a month-long celebration
+  of more than 80 horror films. The Leicester Square cinema hosts the pro
+ gramme throughout October.\nhttps://www.factmagazines.com/london/united-
+ kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fabulou
+ s-things-to-do-in-london-this-month
 LOCATION:Prince Charles Cinema\, 7 Leicester Place\, London\, WC2H 7BY\, 
  Leicester Square\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -2805,9 +2846,9 @@ URL:https://fashiontextilemuseum.digitickets.co.uk/event-tickets/76301?ca
  tID=71515
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b47408ec1b4f428ebd8429f68c8e87a5-occ_9e3fdcb07058423b9bde7c38576
- 68cbc@thingstodoinyourcity
-DTSTAMP:20261016T143231Z
+UID:cand_b47408ec1b4f428ebd8429f68c8e87a5-occ_c93b8265cdc64299b047c30c2b7
+ 3d30c@thingstodoinyourcity
+DTSTAMP:20261017T052822Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270131
 SUMMARY:Fall in Love with Renoir
@@ -2819,6 +2860,23 @@ LOCATION:The National Portrait Gallery\, St. Martin’s Place\, London\,
  WC2H 0HE\, St. Martin’s Place\, London\, WC2H 0HE\, London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
  s-things-to-do-in-london-this-month?redirection=cms-fact
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_628afb6172ab42f2bf9fb70be9584c43-occ_07a065155bb14e4692e5604f2a9
+ 9b52d@thingstodoinyourcity
+DTSTAMP:20261017T050625Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20270131
+SUMMARY:Fall in Love with Renoir at National Gallery
+DESCRIPTION:Romance takes centre stage this autumn with Renoir and Love. 
+ The listing does not state times\, prices or booking details.\nhttps://w
+ ww.factmagazines.com/london/united-kingdom/london-united-kingdom/things-
+ to-do-london-united-kingdom/fabulous-things-to-do-in-london-this-month
+LOCATION:The National Portrait Gallery\, St. Martin’s Place\, London\, 
+ WC2H 0HE\, London
+URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
+ gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
+ this-month
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_48ddc7b639ea43daa89f764bf8113565-occ_f0f50d83d88143f5bf3d7df8ef9
@@ -2885,14 +2943,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0008722aa2424fbba4b5e4722c4aabb3-occ_aeab3c6ab82e47ce9f30109131d
  c365e@thingstodoinyourcity
-DTSTAMP:20261016T145748Z
+DTSTAMP:20261017T061716Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270109
 SUMMARY:See Kristin Scott Thomas in The Cherry Orchard
-DESCRIPTION:This new production is directed by Olivier and Tony Award-nom
- inated Ian Rickson. It returns Anton Chekhov's play to the West End.\nht
- tps://www.factlondon.com/united-kingdom/london/things-to-do/fabulous-thi
- ngs-to-do-in-london-this-month?redirection=cms-fact
+DESCRIPTION:Anton Chekhov's The Cherry Orchard returns to the West End in
+  a new production. It is directed by Olivier and Tony Award-nominated Ia
+ n Rickson.\nhttps://www.factlondon.com/united-kingdom/london/things-to-d
+ o/fabulous-things-to-do-in-london-this-month?redirection=cms-fact
 LOCATION:Harold Pinter Theatre\, Panton Street\, London\, SW1Y 4DN\, Lond
  on
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
@@ -2901,15 +2959,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6659cec096a54a34b965015ba5dc31a5-occ_39580bb5cf144074a58e423c0c1
  83dfd@thingstodoinyourcity
-DTSTAMP:20261016T144751Z
+DTSTAMP:20261017T061030Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270109
 SUMMARY:See Kristin Scott Thomas in The Cherry Orchard
-DESCRIPTION:Anton Chekhov’s classic returns to the West End in a new pr
- oduction. It is directed by Olivier and Tony Award-nominated Ian Rickson
- .\nhttps://www.factmagazines.com/london/united-kingdom/london-united-kin
- gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
- this-month
+DESCRIPTION:Anton Chekhov's classic returns to the West End in a new prod
+ uction. It is directed by Olivier and Tony Award-nominated Ian Rickson.\
+ nhttps://www.factmagazines.com/london/united-kingdom/london-united-kingd
+ om/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-th
+ is-month
 LOCATION:Harold Pinter Theatre\, Panton Street\, London\, SW1Y 4DN\, Lond
  on
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -2919,14 +2977,100 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_47c8420527f841449c1032aed7811f41-occ_b67fcb4a48e84b8f9a263420228
  62506@thingstodoinyourcity
-DTSTAMP:20261016T152437Z
+DTSTAMP:20261017T072658Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270109
 SUMMARY:The Cherry Orchard
-DESCRIPTION:Kristin Scott Thomas leads a new Conor McPherson adaptation o
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
  f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
- khin in this West End production.\nhttps://www.londontheatredirect.com/
-LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, London
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_9e7634d6fed748ae8aaef3683c6
+ 0dfd4@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261017T133000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_9c060d3ef69642d5b3a94a9fe6a
+ 5926b@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261017T183000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_61f6a49f99e94e9e8d5a45fb5f5
+ ab015@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261020T183000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_c6aec101ddb045128538242177c
+ 489f7@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261021T133000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_bd1bf18ad9bd46cbb598e8e9ed8
+ 06a50@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261021T183000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
+URL:https://www.londontheatredirect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47c8420527f841449c1032aed7811f41-occ_ed08978d835d48febf3cba2d71a
+ 2682e@thingstodoinyourcity
+DTSTAMP:20261017T072658Z
+DTSTART:20261022T183000Z
+SUMMARY:The Cherry Orchard
+DESCRIPTION:Kristin Scott Thomas leads Conor McPherson's new adaptation o
+ f Chekhov's classic\, directed by Ian Rickson. Stephen Mangan plays Lopa
+ khin in this West End production.\nPrice: From £30\nhttps://www.londont
+ heatredirect.com/
+LOCATION:Harold Pinter Theatre\, Panton Street (London SW1Y 4DN)\, West E
+ nd\, London
 URL:https://www.londontheatredirect.com/
 END:VEVENT
 BEGIN:VEVENT
@@ -2947,35 +3091,16 @@ URL:https://www.atgtickets.com/shows/the-cherry-orchard/harold-pinter-the
  atre/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_86df834cca1345cdba5c8ccd116976a5-occ_483b516e544348f7bb748cf244d
- a8236@thingstodoinyourcity
-DTSTAMP:20261016T144023Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261212
-SUMMARY:Travel through music at The Silk Road Festival
-DESCRIPTION:The inaugural Silk Road Music Festival launches this autumn i
- n South London. World Heart Beat Music Academy is behind this new music 
- festival.\nhttps://www.factmagazines.com/london/united-kingdom/london-un
- ited-kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in
- -london-this-month
-LOCATION:Embassy Gardens\, Wandsworth\, London\, SW18 4PP\, Wandsworth\, 
- London
-URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
- gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
- this-month
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_d29c3ffeec1b41a8a339243ce858e55f-occ_7dc11ca3436340e584104aec26a
  23451@thingstodoinyourcity
-DTSTAMP:20261016T144246Z
+DTSTAMP:20261017T060017Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261212
-SUMMARY:Travel through music at The Silk Road Festival
-DESCRIPTION:World Heart Beat Music Academy is launching its inaugural Sil
- k Road Music Festival in South London. The listing gives a contact link 
- for further information.\nhttps://www.factlondon.com/united-kingdom/lond
- on/things-to-do/fabulous-things-to-do-in-london-this-month?redirection=c
- ms-fact
+SUMMARY:The Silk Road Festival
+DESCRIPTION:Inaugural Silk Road Music Festival launched by World Heart Be
+ at Music Academy\, running this autumn. A contact link is given for more
+  information.\nhttps://www.factlondon.com/united-kingdom/london/things-t
+ o-do/fabulous-things-to-do-in-london-this-month?redirection=cms-fact
 LOCATION:Embassy Gardens\, Wandsworth\, London\, SW18 4PP\, Wandsworth\, 
  London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
@@ -3138,17 +3263,16 @@ LOCATION:V&A Academy Online\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_12173ec68e574c8ca18146d90a4b1c35-occ_48ae5b4d5652411a87591b88d9a
- 454a4@thingstodoinyourcity
-DTSTAMP:20261016T143230Z
+UID:cand_12173ec68e574c8ca18146d90a4b1c35-occ_ea85b781ce8447d9bf72f30b21f
+ 56aed@thingstodoinyourcity
+DTSTAMP:20261017T053037Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261018
 SUMMARY:BFI London Film Festival
-DESCRIPTION:The 70th edition of the festival offers 11 days and nights of
-  screenings\, premieres and special events. It takes place across the ca
- pital.\nhttps://www.factmagazines.com/london/united-kingdom/london-unite
- d-kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-lo
- ndon-this-month
+DESCRIPTION:The 70th edition offers 11 days and nights of screenings\, pr
+ emieres and special events. It takes place across the capital.\nhttps://
+ www.factmagazines.com/london/united-kingdom/london-united-kingdom/things
+ -to-do-london-united-kingdom/fabulous-things-to-do-in-london-this-month
 LOCATION:BFI Southbank\, Belvedere Road\, South Bank\, London\, SE1 8XT\,
   South Bank\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -3271,15 +3395,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b5803322b8a845c4894b11f896a46202-occ_8a11fa978260443ca67fa75358d
  b25d6@thingstodoinyourcity
-DTSTAMP:20261016T143500Z
+DTSTAMP:20261017T053654Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270214
 SUMMARY:Revisit The Nineties with Edward Enninful
-DESCRIPTION:Fashion\, art and pop culture of the 1990s fill a major exhib
- ition. It is curated by former British Vogue editor Edward Enninful OBE.
- \nhttps://www.factmagazines.com/london/united-kingdom/london-united-king
- dom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-t
- his-month
+DESCRIPTION:The fashion\, art and pop culture of the 1990s take over Tate
+  Britain. Curated by former British Vogue editor Edward Enninful OBE.\nh
+ ttps://www.factmagazines.com/london/united-kingdom/london-united-kingdom
+ /things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-this
+ -month
 LOCATION:Tate Britain\, Millbank\, London\, SW1P 4RG\, Millbank\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  gdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-london-
@@ -3358,17 +3482,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_50212ee4494b4ffc9cd809b3d01d6200-occ_a955801c57544ccc97b57c56e17
  7941f@thingstodoinyourcity
-DTSTAMP:20261016T140904Z
+DTSTAMP:20261017T044843Z
 DTSTART:20261008T074500Z
 DTEND:20261208T094500Z
 SUMMARY:Parkinson’s & Neurological Movement Class
-DESCRIPTION:Led by former dancer Donna Schoenherr\, this music-led class 
- aims to enhance mobility\, balance and strength. Designed for people wit
- h Parkinson’s and neurological conditions.\nPrice: Single class: £7 |
-  Concession: £5 | Members & Patrons: £4\nhttps://chiswickhouseandgarde
- ns.org.uk/whats-on/
+DESCRIPTION:Music-led dance and movement class led by former dancer Donna
+  Schoenherr. Designed to enhance mobility\, balance and strength for peo
+ ple with neurological conditions.\nPrice: Single class: £7 | Concession
+ : £5 | Members & Patrons: £4\nhttps://chiswickhouseandgardens.org.uk/w
+ hats-on/
 LOCATION:Clore Learning Studio\, Learning Hub & Yard\, London
 URL:https://chiswickhouseandgardens.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_baa123fd47fb461f9c71f3b24da9dd8e-occ_1cef4ef85b5246e3a09235489aa
+ 6df6d@thingstodoinyourcity
+DTSTAMP:20261017T052417Z
+DTSTART:20261008T090000Z
+DTEND:20261107T180000Z
+SUMMARY:Peter Zimmermann: still flowing
+DESCRIPTION:Zimmermann's first solo show at the gallery's London space br
+ ings together his latest epoxy-on-canvas works. It is the first time thi
+ s body of work is shown together.\nhttps://www.galleriesnow.net/exhibiti
+ ons/london/
+LOCATION:Dirimart London\, 23 Princes Street\, W1B 2LY\, London\, London 
+ West End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6cd4d634c89d4f43b0bdc9adccbd66b9-occ_352adffc38174fe39337a2170ce
@@ -3519,15 +3658,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0f8686aa81f94948bf3d5a5bd837423d-occ_08f3b33fa5b348a7a40b462cb89
  27731@thingstodoinyourcity
-DTSTAMP:20261016T150052Z
+DTSTAMP:20261017T063516Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270207
 SUMMARY:Step Into Tim Walker’s Fairyland
 DESCRIPTION:British fashion photographer Tim Walker returns with his firs
- t London exhibition since 2019. The listing appears in Fact Magazines' L
- ondon things-to-do roundup.\nhttps://www.factmagazines.com/london/united
- -kingdom/london-united-kingdom/things-to-do-london-united-kingdom/fabulo
- us-things-to-do-in-london-this-month
+ t London exhibition since 2019. The source gives the exhibition dates an
+ d venue but no ticket price or booking details.\nhttps://www.factmagazin
+ es.com/london/united-kingdom/london-united-kingdom/things-to-do-london-u
+ nited-kingdom/fabulous-things-to-do-in-london-this-month
 LOCATION:National Portrait Gallery\, St. Martin’s Place\, London\, WC2H
   0HE\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -3537,15 +3676,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b23412d99205477c964168c7ae349552-occ_0728a4f36b2c4ca0b37c64d68c4
  54167@thingstodoinyourcity
-DTSTAMP:20261016T151501Z
+DTSTAMP:20261017T063738Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270207
 SUMMARY:Step Into Tim Walker’s Fairyland
 DESCRIPTION:British fashion photographer Tim Walker returns with his firs
- t London exhibition since 2019. The show is listed as a single exhibitio
- n run spanning autumn 2026 into early 2027.\nhttps://www.factlondon.com/
- united-kingdom/london/things-to-do/fabulous-things-to-do-in-london-this-
- month?redirection=cms-fact
+ t London exhibition since 2019. It is listed as a single exhibition run 
+ with one start and end date.\nhttps://www.factlondon.com/united-kingdom/
+ london/things-to-do/fabulous-things-to-do-in-london-this-month?redirecti
+ on=cms-fact
 LOCATION:National Portrait Gallery\, St. Martin’s Place\, London\, WC2H
   0HE\, London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
@@ -3591,6 +3730,20 @@ DESCRIPTION:Karin Sander's new video work 696 Encounters shows ants movin
  ndon since her 2016 Whitechapel Gallery show.\nhttps://www.galleriesnow.
  net/exhibitions/london/
 LOCATION:Annka Kultys Gallery\, City Road\, EC1V\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a3c82a3f7e5044fcb49a679581d2fd1d-occ_51b5c65ea32240ba956e631b1e6
+ eaf8a@thingstodoinyourcity
+DTSTAMP:20261017T052202Z
+DTSTART:20261009T110000Z
+DTEND;VALUE=DATE:20261122
+SUMMARY:Pia Camil: Bestia
+DESCRIPTION:Camil's debut solo show in London\, with new works on the uns
+ table boundaries between looking and being looked at. Open Wednesday to 
+ Sunday\, 12-6pm.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, 20-22 Exmouth Market\, EC1
+ R 4QE\, London\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -3682,16 +3835,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a71d7f4c6a754d62bd2d867ba667c75e-occ_8e67a494a3a34b149fcdf3aff19
  36587@thingstodoinyourcity
-DTSTAMP:20261016T145813Z
+DTSTAMP:20261017T062634Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:UK Black Business Week & Show 2026
 DESCRIPTION:Six-day programme for Black entrepreneurs\, professionals and
-  allies across tech\, finance and law. Culminates in the UK Black Busine
- ss Show\, Europe's largest Black business expo.\nPrice: Premium Week Pas
- s onsite £300\; Standard Week Pass onsite £240 (pre-registration has e
- nded)\nhttps://www.blackbusinessexperience.com/uk-black-business-week/bo
- ok-tickets
+  allies. Culminates in the UK Black Business Show\, Europe's largest Bla
+ ck business expo.\nPrice: Premium Week Pass onsite £300\; Standard Week
+  Pass onsite £240\nhttps://www.blackbusinessexperience.com/uk-black-bus
+ iness-week/book-tickets
 LOCATION:Excel London\, London
 URL:https://www.blackbusinessexperience.com/uk-black-business-week/book-t
  ickets
@@ -3699,16 +3851,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a71d7f4c6a754d62bd2d867ba667c75e-occ_1f0514e13a45431dae48d3dcfb0
  8f86f@thingstodoinyourcity
-DTSTAMP:20261016T145813Z
+DTSTAMP:20261017T062634Z
 DTSTART:20261013T080000Z
 DTEND:20261017T170000Z
 SUMMARY:UK Black Business Week & Show 2026
 DESCRIPTION:Six-day programme for Black entrepreneurs\, professionals and
-  allies across tech\, finance and law. Culminates in the UK Black Busine
- ss Show\, Europe's largest Black business expo.\nPrice: Premium Week Pas
- s onsite £300\; Standard Week Pass onsite £240 (pre-registration has e
- nded)\nhttps://www.blackbusinessexperience.com/uk-black-business-week/bo
- ok-tickets
+  allies. Culminates in the UK Black Business Show\, Europe's largest Bla
+ ck business expo.\nPrice: Premium Week Pass onsite £300\; Standard Week
+  Pass onsite £240\nhttps://www.blackbusinessexperience.com/uk-black-bus
+ iness-week/book-tickets
 LOCATION:Excel London\, London
 URL:https://www.blackbusinessexperience.com/uk-black-business-week/book-t
  ickets
@@ -3967,7 +4118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d67216a0cee1426899e5ed1d3efbfa3c-occ_1963f8bca7514668b8c4a874ea8
  9a171@thingstodoinyourcity
-DTSTAMP:20261016T143747Z
+DTSTAMP:20261017T054858Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 SUMMARY:Experience Frieze London 2026
@@ -3983,14 +4134,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d7ad8fe3cfc244589e45c62c504ef16d-occ_cb78950458054745845ea0f97b5
  16cd7@thingstodoinyourcity
-DTSTAMP:20261016T143741Z
+DTSTAMP:20261017T054241Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 SUMMARY:Experience Frieze London 2026
-DESCRIPTION:The international art world gathers for Frieze London and Fri
- eze Masters. Both fairs are included in this 2026 listing.\nhttps://www.
- factmagazines.com/london/united-kingdom/london-united-kingdom/things-to-
- do-london-united-kingdom/fabulous-things-to-do-in-london-this-month
+DESCRIPTION:Both Frieze London and Frieze Masters are included in this 20
+ 26 listing. The fairs bring the international art world together at Rege
+ nt’s Park for contemporary art.\nhttps://www.factmagazines.com/london/
+ united-kingdom/london-united-kingdom/things-to-do-london-united-kingdom/
+ fabulous-things-to-do-in-london-this-month
 LOCATION:Frieze London\, Regent’s Park\, London\, Regent’s Park\, Lon
  don
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -4276,14 +4428,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_52a2d3bf42fa46488e59ada3ffe9436a-occ_28f983b57b894ff7a6b7629cf48
  51335@thingstodoinyourcity
-DTSTAMP:20261016T152030Z
+DTSTAMP:20261017T064424Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Brave Halloween at Kew
-DESCRIPTION:Kew Gardens is getting a spooky seasonal makeover. The season
- al trail is described as family-friendly.\nhttps://www.factlondon.com/un
- ited-kingdom/london/things-to-do/fabulous-things-to-do-in-london-this-mo
- nth?redirection=cms-fact
+DESCRIPTION:Kew Gardens is getting a spooky seasonal makeover. It feature
+ s a family-friendly Halloween trail.\nhttps://www.factlondon.com/united-
+ kingdom/london/things-to-do/fabulous-things-to-do-in-london-this-month?r
+ edirection=cms-fact
 LOCATION:Kew Gardens\, Richmond\, London\, TW9 3JR\, Richmond\, London\, 
  TW9 3JR\, London
 URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
@@ -4292,15 +4444,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7a08da9de2a4e80b84a07e7d8bdf995-occ_41a425d1d8e24bff981e916febf
  18020@thingstodoinyourcity
-DTSTAMP:20261016T151758Z
+DTSTAMP:20261017T064415Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Brave Halloween at Kew
-DESCRIPTION:Kew Gardens is getting a spooky seasonal makeover with a fami
- ly-friendly Halloween trail. The seasonal Halloween trail is described a
- s family-friendly.\nhttps://www.factmagazines.com/london/united-kingdom/
- london-united-kingdom/things-to-do-london-united-kingdom/fabulous-things
- -to-do-in-london-this-month
+DESCRIPTION:Kew Gardens gets a spooky seasonal makeover with a family-fri
+ endly Halloween trail. The source gives no times\, prices or booking det
+ ails.\nhttps://www.factmagazines.com/london/united-kingdom/london-united
+ -kingdom/things-to-do-london-united-kingdom/fabulous-things-to-do-in-lon
+ don-this-month
 LOCATION:Kew Gardens\, Kew Gardens\, Richmond\, London\, TW9 3JR\, Richmo
  nd\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -4465,15 +4617,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a14a72197924476f96ccb6519ec8352e-occ_e6ad54a1eb4944bbb0a6ec7b119
  1fe75@thingstodoinyourcity
-DTSTAMP:20261016T151508Z
+DTSTAMP:20261017T062829Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Enter Room 13 at Battersea Arts Centre
-DESCRIPTION:An immersive horror experience from award-winning Secret Cine
- ma director Tom Maller. Battersea Arts Centre is leaning into Halloween 
- with this show.\nhttps://www.factmagazines.com/london/united-kingdom/lon
- don-united-kingdom/things-to-do-london-united-kingdom/fabulous-things-to
- -do-in-london-this-month
+DESCRIPTION:Room 13 is an immersive horror experience for Halloween. It c
+ omes from award-winning Secret Cinema director Tom Maller.\nhttps://www.
+ factmagazines.com/london/united-kingdom/london-united-kingdom/things-to-
+ do-london-united-kingdom/fabulous-things-to-do-in-london-this-month
 LOCATION:Battersea Arts Centre\, Lavender Hill\, London\, SW11 5TN\, Lave
  nder Hill\, London
 URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
@@ -4483,7 +4634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a3c40b8d213443b3aff7bde97d9a3616-occ_0ee6de25ee814f0cb8faf0449fa
  f29b5@thingstodoinyourcity
-DTSTAMP:20261016T151757Z
+DTSTAMP:20261017T063156Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
 SUMMARY:Enter Room 13 at Battersea Arts Centre
@@ -4702,20 +4853,6 @@ DESCRIPTION:Say hello to a horrid bloke. Award-winning late-night villain
  /all-shows/
 LOCATION:Soho Theatre – Soho\, Soho\, London
 URL:https://sohotheatre.com/all-shows/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f02d6dbc277042c69efc649e20d65cab-occ_b2b56b92a6274ba7a25f6292a94
- 06773@thingstodoinyourcity
-DTSTAMP:20261016T142112Z
-DTSTART:20261016T220000Z
-DTEND:20261017T050000Z
-SUMMARY:Egg LDN Pres: Ibiza Closing Party pt.1
-DESCRIPTION:Celebrates decades of Balearic sounds that shaped Ibiza into 
- a global powerhouse. Egg London is strictly 18+\, with photo ID scanned 
- at the door.\nhttps://egglondon.co.uk/events/
-LOCATION:Egg London\, 5-13 Vale Royal\, London N7 9AP\, King's Cross\, Lo
- ndon
-URL:https://egglondon.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_60427562c3af4fbdb6fbfa36152db4b4-occ_6a949857efd14dfc9156f7165bc
@@ -4998,7 +5135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3ab330cd9af947868ae803f1973b85bb-occ_1f00fe50e0064aa2b150c36634f
  374d0@thingstodoinyourcity
-DTSTAMP:20261016T150121Z
+DTSTAMP:20261017T064740Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Musical Con 2026 Anniversary Edition
@@ -5159,7 +5296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_46319596fde744d393b806955fe95f5b-occ_ba976ab180ad49359bbef4f3b90
  a131d@thingstodoinyourcity
-DTSTAMP:20261016T150152Z
+DTSTAMP:20261017T063757Z
 DTSTART:20261017T080000Z
 DTEND;VALUE=DATE:20261018
 SUMMARY:Home\, Life & You LIVE
@@ -5321,7 +5458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6b2bbb8de965444daf70c7ac6fe7db12-occ_f200dda8196b463fa34fcde111d
  a61e9@thingstodoinyourcity
-DTSTAMP:20261016T152153Z
+DTSTAMP:20261017T071858Z
 DTSTART:20261017T100000Z
 DTEND:20261017T141500Z
 SUMMARY:Birmingham Circuit Skills Day - QS
@@ -6277,65 +6414,52 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e4bb8e6bfcd4fdfa2850de16aa7118c-occ_0e78b264cd4c423485a9d7e5e1b
  bdce5@thingstodoinyourcity
-DTSTAMP:20261016T142223Z
+DTSTAMP:20261017T052610Z
 DTSTART:20261017T170000Z
-SUMMARY:Angel's Bone
+SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this Pulitzer Prize-winning opera
   by Du Yun and Royce Vavrek. It explores modern slavery and human traffi
- cking through immersive staging\, with surtitles and no interval.\nPrice
- : Tickets from £15\nhttps://www.eno.org/whats-on
+ cking through immersive staging.\nPrice: Tickets from £15\nhttps://www.
+ eno.org/whats-on
 LOCATION:London Coliseum\, London
 URL:https://www.eno.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e4bb8e6bfcd4fdfa2850de16aa7118c-occ_2037c0d8dd564b479353d091ece
  b4f7f@thingstodoinyourcity
-DTSTAMP:20261016T142223Z
+DTSTAMP:20261017T052610Z
 DTSTART:20261022T183000Z
-SUMMARY:Angel's Bone
+SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this Pulitzer Prize-winning opera
   by Du Yun and Royce Vavrek. It explores modern slavery and human traffi
- cking through immersive staging\, with surtitles and no interval.\nPrice
- : Tickets from £15\nhttps://www.eno.org/whats-on
+ cking through immersive staging.\nPrice: Tickets from £15\nhttps://www.
+ eno.org/whats-on
 LOCATION:London Coliseum\, London
 URL:https://www.eno.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e4bb8e6bfcd4fdfa2850de16aa7118c-occ_5eba0a6cf7e243a4a15d950a4f8
  6e3ec@thingstodoinyourcity
-DTSTAMP:20261016T142223Z
+DTSTAMP:20261017T052610Z
 DTSTART:20261023T183000Z
-SUMMARY:Angel's Bone
+SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this Pulitzer Prize-winning opera
   by Du Yun and Royce Vavrek. It explores modern slavery and human traffi
- cking through immersive staging\, with surtitles and no interval.\nPrice
- : Tickets from £15\nhttps://www.eno.org/whats-on
+ cking through immersive staging.\nPrice: Tickets from £15\nhttps://www.
+ eno.org/whats-on
 LOCATION:London Coliseum\, London
 URL:https://www.eno.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e4bb8e6bfcd4fdfa2850de16aa7118c-occ_3b365411b75742b88291a857f17
  f3620@thingstodoinyourcity
-DTSTAMP:20261016T142223Z
+DTSTAMP:20261017T052610Z
 DTSTART:20261029T193000Z
-SUMMARY:Angel's Bone
+SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this Pulitzer Prize-winning opera
   by Du Yun and Royce Vavrek. It explores modern slavery and human traffi
- cking through immersive staging\, with surtitles and no interval.\nPrice
- : Tickets from £15\nhttps://www.eno.org/whats-on
-LOCATION:London Coliseum\, London
-URL:https://www.eno.org/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1e4bb8e6bfcd4fdfa2850de16aa7118c-occ_cdfe127f43474f0f8d3356e9910
- 2f56c@thingstodoinyourcity
-DTSTAMP:20261016T142223Z
-DTSTART:20261031T140000Z
-SUMMARY:Angel's Bone
-DESCRIPTION:Two angels fall to earth in this Pulitzer Prize-winning opera
-  by Du Yun and Royce Vavrek. It explores modern slavery and human traffi
- cking through immersive staging\, with surtitles and no interval.\nPrice
- : Tickets from £15\nhttps://www.eno.org/whats-on
+ cking through immersive staging.\nPrice: Tickets from £15\nhttps://www.
+ eno.org/whats-on
 LOCATION:London Coliseum\, London
 URL:https://www.eno.org/whats-on
 END:VEVENT
@@ -6615,6 +6739,23 @@ LOCATION:The Comedy Store\, 1a Oxendon Street\, London\, SW1Y4EE\, Great
 URL:https://www.stand-up.co.uk/comedy-london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b663d31f640e4df7891ab3f2d434f553-occ_8b70170eba2642d49917dc394d9
+ cc1f6@thingstodoinyourcity
+DTSTAMP:20261017T053054Z
+DTSTART:20261017T180000Z
+DTEND:20261017T193000Z
+SUMMARY:Angel Comedy Saturdays @ 7pm
+DESCRIPTION:A Saturday stand-up show at Angel Comedy Club\, with a lineup
+  of comedians subject to change. The club says it was voted London's bes
+ t comedy club for four years.\nPrice: General admission £13.05 + £1.51
+  booking fee + £2.00 waiting list surcharge\; Reduced price (for anyone
+ ) £11.25 + £1.31 booking fee + £2.00 waiting list surcharge\; Support
+  the club! £13.95 + £1.61 booking fee + £2.00 waiting list surcharge\
+ nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_10ff6f70226549f9a9dc41699685e7c4-occ_2a21ab478022432ba48fc1563d4
  0c3f6@thingstodoinyourcity
 DTSTAMP:20261016T170500Z
@@ -6775,14 +6916,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_686187f59a79468c8d8f325093382e69-occ_83e404856bf4498c946d23f1c70
  aa960@thingstodoinyourcity
-DTSTAMP:20261016T145915Z
+DTSTAMP:20261017T065707Z
 DTSTART:20261017T183000Z
 DTEND:20261017T203000Z
-SUMMARY:Saturday Comedy Show
+SUMMARY:Saturday Comedy Show - Kings Cross
 DESCRIPTION:Comedy Freaks' Saturday night stand-up show in Kings Cross st
  ays open until 4am\, with drink deal tickets. Lineups change every Satur
- day\, with TV comedians and rising stars.\nPrice: From £15.00\nhttps://
- www.comedyfreaks.co.uk/comedy-show/saturday-comedy-london-23-may-2026
+ day\, with TV comedians and rising stars.\nPrice: From £ 15.00\nhttps:/
+ /www.comedyfreaks.co.uk/comedy-show/saturday-comedy-london-23-may-2026
 LOCATION:1 Belgrove Street\, London WC1H 8AB\, Kings Cross\, London
 URL:https://www.comedyfreaks.co.uk/comedy-show/saturday-comedy-london-23-
  may-2026
@@ -7054,6 +7195,22 @@ LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9651923e8a834566ba7d423baaedea44-occ_9f03a3709e764234a2db83bc5b1
+ b819d@thingstodoinyourcity
+DTSTAMP:20261017T053053Z
+DTSTART:20261017T200000Z
+DTEND:20261017T213000Z
+SUMMARY:Angel Comedy Saturdays @ 9PM
+DESCRIPTION:Saturday late-night stand-up at Angel Comedy Club with five l
+ isted comedians\; doors 8:30pm. Lineup is subject to change\; the club c
+ alls its shows affordable and world-class.\nPrice: General admission - 
+ £13.05 + £1.45 booking fee\; Reduced price (for anyone) - £11.25 + £
+ 1.25 booking fee\; Support the club! - £13.95 + £1.55 booking fee\nhtt
+ ps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, Islington\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_269e616f5e24432d9e318156a36f89ad-occ_f27a2086bab3437f9246706cf58
  99c61@thingstodoinyourcity
 DTSTAMP:20261016T162120Z
@@ -7276,25 +7433,40 @@ LOCATION:The Comedy Store\, London\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_71cfab451b61452f9c161fd5fee6304b-occ_14f86a085dbf490a83e9c2ae07a
+ f4486@thingstodoinyourcity
+DTSTAMP:20261017T052840Z
+DTSTART:20261017T220000Z
+DTEND:20261017T231500Z
+SUMMARY:Angel Comedy Saturdays @ 11PM
+DESCRIPTION:Late Saturday comedy night from Angel Comedy featuring Matthe
+ w Mcaloone\, Oliver Moore\, Raajiee Chelliah and Jake Patrick. Lineup is
+  subject to change\; the event is 18+.\nPrice: General admission - £8.0
+ 9 + 91p booking fee\; Support the club! - £10.34 + £1.16 booking fee\n
+ https://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b3566e682af046e1b7baee6bc58e6fa4-occ_83ef80998734431686fb6e65cc4
  a4ef8@thingstodoinyourcity
-DTSTAMP:20261016T150129Z
+DTSTAMP:20261017T065109Z
 DTSTART:20261017T220000Z
 DTEND:20261018T060000Z
 SUMMARY:Egg LDN Pres: Ibiza Closing Party pt. 2
-DESCRIPTION:Celebrates decades of Balearic and Ibiza club music at Egg Lo
- ndon's closing-season night. Strictly 18+ venue\, with photo ID scanned 
- at the door.\nhttps://egglondon.co.uk/events/
+DESCRIPTION:Balearic Islands sounds celebrating decades of music that sha
+ ped Ibiza into a global powerhouse. Egg London is strictly 18+\, with ph
+ oto ID scanned at the front door.\nhttps://egglondon.co.uk/events/
 LOCATION:Egg London\, 5-13 Vale Royal\, London N7 9AP\, London
 URL:https://egglondon.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad333f87fbb54f55b0db1707831682f9-occ_2a1c8419d97249c2855644ea5e1
  26fa9@thingstodoinyourcity
-DTSTAMP:20261016T150223Z
+DTSTAMP:20261017T063843Z
 DTSTART:20261017T220000Z
 DTEND:20261018T060000Z
-SUMMARY:Egg x Bass Face – 360 Boiler Room Special
+SUMMARY:Egg x Bass Face 360 Boiler Room Special
 DESCRIPTION:Bass Face takes over the Middle Floor for a full 360° Boiler
   Room session. Expect DNB\, Bassline\, UKG and House all night with spec
  ial guests and residents.\nhttps://egglondon.co.uk/events/
@@ -7304,7 +7476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5cbbce6aa4c546159940c161cacc4dc4-occ_b42b688fe2bd4c03abee90985f8
  a12bd@thingstodoinyourcity
-DTSTAMP:20261016T145824Z
+DTSTAMP:20261017T062857Z
 DTSTART:20261017T220000Z
 DTEND:20261018T060000Z
 SUMMARY:INTHE DARK Payback Party – Deep/Tech/Tribal House
@@ -7363,6 +7535,30 @@ DESCRIPTION:40+ sellers offer archive fashion\, vintage sportswear and ho
  ts-on-this-week/
 LOCATION:The Hoxton\, SHOREDITCH\, London
 URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1aac851845354d63852a96d46faaf29e-occ_4c5de2e413f946b0b08109913b7
+ 72b15@thingstodoinyourcity
+DTSTAMP:20261017T063758Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Opera and music
+DESCRIPTION:Italian-inspired dining is paired with live opera on the terr
+ ace. Tables can be booked.\nhttps://www.rbo.org.uk/tickets-and-events?pa
+ ge=1
+LOCATION:Royal Opera House\, London
+URL:https://www.rbo.org.uk/tickets-and-events?page=1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1aac851845354d63852a96d46faaf29e-occ_caa72224a7cb454d9fcbdbe3f64
+ 18673@thingstodoinyourcity
+DTSTAMP:20261017T063758Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:Opera and music
+DESCRIPTION:Italian-inspired dining is paired with live opera on the terr
+ ace. Tables can be booked.\nhttps://www.rbo.org.uk/tickets-and-events?pa
+ ge=1
+LOCATION:Royal Opera House\, London
+URL:https://www.rbo.org.uk/tickets-and-events?page=1
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_915725861d1e48dfa7aec07897427fd4-occ_9d3614d4fa4f4993920b232e4ba
@@ -7816,6 +8012,20 @@ LOCATION:PICTUREHOUSE CENTRAL\, London
 URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c508b5f5944b4059a69ef0b04d553940-occ_3abdd0429e334a9596ad27ce54b
+ f8de6@thingstodoinyourcity
+DTSTAMP:20261017T053108Z
+DTSTART:20261018T150000Z
+DTEND:20261018T160000Z
+SUMMARY:Will Owen: Work in Progress
+DESCRIPTION:Comedian Will Owen works out a new show at this work-in-progr
+ ess night. Previously a Best Reviewed Fringe act\, seen on Loose Women.\
+ nPrice: General Admission - £7.65 + 85p booking fee\nhttps://www.angelc
+ omedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0c7d67d5fbcf4b5e92f43638f1a7a1c1-occ_4dbae5023a584bb883e38623c7b
  c7bdc@thingstodoinyourcity
 DTSTAMP:20261016T190352Z
@@ -7919,6 +8129,21 @@ LOCATION:Online Event\, London
 URL:https://www.seedtalks.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3bc3d0a45bcf4356a19b0358e52273a2-occ_bb2727088d804bc48ead0d04061
+ 0fa87@thingstodoinyourcity
+DTSTAMP:20261017T053412Z
+DTSTART:20261018T163000Z
+DTEND:20261018T173000Z
+SUMMARY:James Gardner: Phone Box
+DESCRIPTION:James Gardner launches his maiden UK tour show\, drawing on G
+ lasgow roots\, 90s tech and a varied TV career. A regular at UK comedy c
+ lubs\, he has over 70 million online views.\nPrice: Unreserved seating -
+  £13.50 + £1.50 booking fee\nhttps://www.angelcomedy.co.uk/bill-murray
+ /
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_02e8f3afd20f4e0dbfd5415d7834833f-occ_ab3b3a134c904cf28f0259d3231
  0fd90@thingstodoinyourcity
 DTSTAMP:20261016T192409Z
@@ -8000,6 +8225,33 @@ LOCATION:Leicester Square Theatre\, 6 Leicester Place London WC2H 7BX\, L
  ondon
 URL:https://www.leicestersquaretheatre.com/show/andy-hamiltons-night-to-r
  emember
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_774a8191f6664b10ac6d41f3d43c6f30-occ_028754b7fcc74d699de6941fcc8
+ 0afe1@thingstodoinyourcity
+DTSTAMP:20261017T053714Z
+DTSTART:20261018T180000Z
+DTEND:20261018T190000Z
+SUMMARY:Sofie Hagen: Going To Be On Stage Talking
+DESCRIPTION:Sofie Hagen tries new bits\, old bits and things she has neve
+ r done before. Expect an hour of fun\, with the show promising to see wh
+ at happens.\nPrice: General Admission - £8.99 + £1.01 booking fee\nhtt
+ ps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_774a8191f6664b10ac6d41f3d43c6f30-occ_c8a47e1012e64f37b0545fc3b7e
+ 6779c@thingstodoinyourcity
+DTSTAMP:20261017T053714Z
+DTSTART:20261019T173000Z
+SUMMARY:Sofie Hagen: Going To Be On Stage Talking
+DESCRIPTION:Sofie Hagen tries new bits\, old bits and things she has neve
+ r done before. Expect an hour of fun\, with the show promising to see wh
+ at happens.\nPrice: General Admission - £8.99 + £1.01 booking fee\nhtt
+ ps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b5e740d14ef4feca17541d16d696b44-occ_6cd54524d63f464b9476b19ba38
@@ -8450,6 +8702,62 @@ URL:https://onecitylondon.com/article/things-to-do-this-june-in-the-city-
  of-london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8b70be33a9a2444cad024f1258d059e9-occ_2609cb90763247dab85f2bb33b6
+ e82d8@thingstodoinyourcity
+DTSTAMP:20261017T060304Z
+DTSTART:20261024T090000Z
+DTEND:20261025T020000Z
+SUMMARY:The Homowave
+DESCRIPTION:Resident DJs spin house\, garage\, tech house and funk across
+  all 3 floors. Happy hour offers up to 50% off drinks every Saturday.\nh
+ ttps://www.villagesoho.co.uk/london-bar/events
+LOCATION:Village Soho\, 81 Wardour Street\, Westminster\, Greater London\
+ , W1D 6QD\, England\, Westminster\, London
+URL:https://www.villagesoho.co.uk/london-bar/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b70be33a9a2444cad024f1258d059e9-occ_d75f579a568549c688579c04fea
+ 90b9a@thingstodoinyourcity
+DTSTAMP:20261017T060304Z
+DTSTART:20261031T100000Z
+DTEND:20261101T020000Z
+SUMMARY:The Homowave
+DESCRIPTION:Resident DJs spin house\, garage\, tech house and funk across
+  all 3 floors. Happy hour offers up to 50% off drinks every Saturday.\nh
+ ttps://www.villagesoho.co.uk/london-bar/events
+LOCATION:Village Soho\, 81 Wardour Street\, Westminster\, Greater London\
+ , W1D 6QD\, England\, Westminster\, London
+URL:https://www.villagesoho.co.uk/london-bar/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b70be33a9a2444cad024f1258d059e9-occ_2eef84331fb84896989e9488cc5
+ 7397c@thingstodoinyourcity
+DTSTAMP:20261017T060304Z
+DTSTART:20261107T100000Z
+DTEND:20261108T020000Z
+SUMMARY:The Homowave
+DESCRIPTION:Resident DJs spin house\, garage\, tech house and funk across
+  all 3 floors. Happy hour offers up to 50% off drinks every Saturday.\nh
+ ttps://www.villagesoho.co.uk/london-bar/events
+LOCATION:Village Soho\, 81 Wardour Street\, Westminster\, Greater London\
+ , W1D 6QD\, England\, Westminster\, London
+URL:https://www.villagesoho.co.uk/london-bar/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b70be33a9a2444cad024f1258d059e9-occ_9b40d848255c40078365a22df55
+ 1b166@thingstodoinyourcity
+DTSTAMP:20261017T060304Z
+DTSTART:20261114T100000Z
+DTEND:20261115T020000Z
+SUMMARY:The Homowave
+DESCRIPTION:Resident DJs spin house\, garage\, tech house and funk across
+  all 3 floors. Happy hour offers up to 50% off drinks every Saturday.\nh
+ ttps://www.villagesoho.co.uk/london-bar/events
+LOCATION:Village Soho\, 81 Wardour Street\, Westminster\, Greater London\
+ , W1D 6QD\, England\, Westminster\, London
+URL:https://www.villagesoho.co.uk/london-bar/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_af58efeea7c64b3794af2f66589d37ea-occ_acbb4299f31e453ab019fd926ce
  d89aa@thingstodoinyourcity
 DTSTAMP:20261016T103052Z
@@ -8693,6 +9001,81 @@ DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread.
  nhttps://www.ica.art/films/an-unfinished-film
 LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/an-unfinished-film
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_857aa6e0918c40c09714f4891b1
+ 83d49@thingstodoinyourcity
+DTSTAMP:20261017T064726Z
+DTSTART:20270103T193000Z
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Legendary improv troupe. Audience suggestions shape hilarious
+  scenes and sketches each Sunday\, and no two performances are the same.
+ \nhttps://london.thecomedystore.co.uk/event/the-comedy-store-players/202
+ 6-10-18_19-30
+LOCATION:The Comedy Store\, 1a Oxendon St\, London SW1Y 4EE\, London's We
+ st End\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players/20
+ 26-10-18_19-30
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_da4936aa4eef43a1bd8b8ca5003
+ ee93a@thingstodoinyourcity
+DTSTAMP:20261017T064726Z
+DTSTART:20270110T193000Z
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Legendary improv troupe. Audience suggestions shape hilarious
+  scenes and sketches each Sunday\, and no two performances are the same.
+ \nhttps://london.thecomedystore.co.uk/event/the-comedy-store-players/202
+ 6-10-18_19-30
+LOCATION:The Comedy Store\, 1a Oxendon St\, London SW1Y 4EE\, London's We
+ st End\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players/20
+ 26-10-18_19-30
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_84eea227a9d7477bb9c27898580
+ 168e6@thingstodoinyourcity
+DTSTAMP:20261017T064726Z
+DTSTART:20270117T193000Z
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Legendary improv troupe. Audience suggestions shape hilarious
+  scenes and sketches each Sunday\, and no two performances are the same.
+ \nhttps://london.thecomedystore.co.uk/event/the-comedy-store-players/202
+ 6-10-18_19-30
+LOCATION:The Comedy Store\, 1a Oxendon St\, London SW1Y 4EE\, London's We
+ st End\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players/20
+ 26-10-18_19-30
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_5be8981083544462b0d820df8e1
+ 5654d@thingstodoinyourcity
+DTSTAMP:20261017T064726Z
+DTSTART:20270124T193000Z
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Legendary improv troupe. Audience suggestions shape hilarious
+  scenes and sketches each Sunday\, and no two performances are the same.
+ \nhttps://london.thecomedystore.co.uk/event/the-comedy-store-players/202
+ 6-10-18_19-30
+LOCATION:The Comedy Store\, 1a Oxendon St\, London SW1Y 4EE\, London's We
+ st End\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players/20
+ 26-10-18_19-30
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_ec680d8c1cdc49bd85fd4c08c88
+ 471a6@thingstodoinyourcity
+DTSTAMP:20261017T064726Z
+DTSTART:20270131T193000Z
+SUMMARY:The Comedy Store Players
+DESCRIPTION:Legendary improv troupe. Audience suggestions shape hilarious
+  scenes and sketches each Sunday\, and no two performances are the same.
+ \nhttps://london.thecomedystore.co.uk/event/the-comedy-store-players/202
+ 6-10-18_19-30
+LOCATION:The Comedy Store\, 1a Oxendon St\, London SW1Y 4EE\, London's We
+ st End\, London
+URL:https://london.thecomedystore.co.uk/event/the-comedy-store-players/20
+ 26-10-18_19-30
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aee58cab02a74cc393fc14cc9b3dc4e4-occ_5215b317ab7b4b40ae80684184d
