@@ -3154,13 +3154,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c4f9e6f239d649599c373a3a95142f25-occ_a388e67dcd2349bf97c3860a430
  70faa@thingstodoinyourcity
-DTSTAMP:20261016T152459Z
+DTSTAMP:20261017T074112Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261018
 SUMMARY:BFI London Film Festival 2026
-DESCRIPTION:The BFI London Film Festival returns to the ICA for its 70th 
- edition. The programme lists screenings including Dao\, Josephine and Mi
- notaur across the festival run.\nhttps://www.ica.art/films
+DESCRIPTION:The 70th edition of the BFI London Film Festival returns to t
+ he ICA. The festival runs across the period shown on the listing\, with 
+ a programme of film screenings.\nhttps://www.ica.art/films
 LOCATION:ICA\, London
 URL:https://www.ica.art/films
 END:VEVENT
@@ -3780,27 +3780,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f18d0842dfa348bd8b42dbb3ecce67e0-occ_1fdd19dddef0490a8349b8e5354
  d95e9@thingstodoinyourcity
-DTSTAMP:20261016T161311Z
+DTSTAMP:20261017T102829Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261114
 SUMMARY:Kylie Manning: The Mudlarkers
-DESCRIPTION:New paintings by New York-based Kylie Manning\, pigmented wit
- h Hampshire and London clay. Her first solo London show draws on the his
- toric tradition of mudlarking.\nhttps://www.pacegallery.com/exhibitions/
-LOCATION:5 Hanover Square\, London\, London
+DESCRIPTION:Kylie Manning's new paintings incorporate Hampshire and Londo
+ n clay plus Thames silt. Her first solo London show draws on the histori
+ c tradition of mudlarking.\nhttps://www.pacegallery.com/exhibitions/
+LOCATION:5 Hanover Square\, 5 Hanover Square\, London\, London
 URL:https://www.pacegallery.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f18d0842dfa348bd8b42dbb3ecce67e0-occ_6d454a5076944e82a3dcfa2405d
  57a76@thingstodoinyourcity
-DTSTAMP:20261016T161311Z
+DTSTAMP:20261017T102829Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261114
 SUMMARY:Kylie Manning: The Mudlarkers
-DESCRIPTION:New paintings by New York-based Kylie Manning\, pigmented wit
- h Hampshire and London clay. Her first solo London show draws on the his
- toric tradition of mudlarking.\nhttps://www.pacegallery.com/exhibitions/
-LOCATION:5 Hanover Square\, London\, London
+DESCRIPTION:Kylie Manning's new paintings incorporate Hampshire and Londo
+ n clay plus Thames silt. Her first solo London show draws on the histori
+ c tradition of mudlarking.\nhttps://www.pacegallery.com/exhibitions/
+LOCATION:5 Hanover Square\, 5 Hanover Square\, London\, London
 URL:https://www.pacegallery.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
@@ -4846,6 +4846,35 @@ URL:https://www.designmynight.com/london/whats-on/activity/escape-the-pow
  er-cut?t=tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7d58a86483c64229905434a2e64ac99f-occ_848786dd7d6a46deb03fe97d81b
+ c4c07@thingstodoinyourcity
+DTSTAMP:20261017T075540Z
+DTSTART;VALUE=DATE:20261017
+SUMMARY:Family Festival: Stories\, Sign and Shine
+DESCRIPTION:An afternoon of stories inspired by real and imaginary tales\
+ , welcoming all ages. Free to attend as a drop-in\, with no tickets requ
+ ired.\nPrice: FREE\nhttps://www.londonforkidz.com/post/things-to-do-in-l
+ ondon-this-weekend-with-kids
+LOCATION:British Library\, King's Cross\, London
+URL:https://www.londonforkidz.com/post/things-to-do-in-london-this-weeken
+ d-with-kids
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7d58a86483c64229905434a2e64ac99f-occ_a0404d1b62b24ff9846f7928e05
+ 728e6@thingstodoinyourcity
+DTSTAMP:20261017T075540Z
+DTSTART:20261017T110000Z
+DTEND:20261017T150000Z
+SUMMARY:Family Festival: Stories\, Sign and Shine
+DESCRIPTION:An afternoon of stories inspired by real and imaginary tales\
+ , welcoming all ages. Free to attend as a drop-in\, with no tickets requ
+ ired.\nPrice: FREE\nhttps://www.londonforkidz.com/post/things-to-do-in-l
+ ondon-this-weekend-with-kids
+LOCATION:British Library\, King's Cross\, London
+URL:https://www.londonforkidz.com/post/things-to-do-in-london-this-weeken
+ d-with-kids
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f4a1292546774f479b034aa0c892ece7-occ_817ec276e6c64fa7ae9095c37ae
  5ced4@thingstodoinyourcity
 DTSTAMP:20261017T003841Z
@@ -5112,7 +5141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ae7ad2cbf604462490810052301360a8-occ_07a9ac3b2cee42cd8ca57c84b56
  12b60@thingstodoinyourcity
-DTSTAMP:20261016T154437Z
+DTSTAMP:20261017T090543Z
 DTSTART:20261017T090000Z
 DTEND:20261018T150000Z
 SUMMARY:CANPEX 2026
@@ -5120,9 +5149,37 @@ DESCRIPTION:Sanctioned by the Royal Philatelic Society of Canada\, it fea
  tures competitive and Court of Honour exhibits. This year's theme is Lon
  don's Heritage Buildings.\nPrice: Free\nhttps://www.londontourism.ca/eve
  nts
-LOCATION:Hellenic Community Centre\, 133 Southdale Rd West\, London\, ON 
- N6P 1P9\, London\, ON\, London
+LOCATION:Hellenic Community Centre\, 133 Southdale Rd West London\, ON N6
+ P 1P9\, London\, ON\, London
 URL:https://www.londontourism.ca/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6d4d3c929c9a47df946d28b4fde7a063-occ_81314c2439394ac98da841fd853
+ f6d58@thingstodoinyourcity
+DTSTAMP:20261017T075514Z
+DTSTART:20261017T090000Z
+DTEND:20261017T120000Z
+SUMMARY:Halloween Junk Journal Workshop with Kat Kenyan
+DESCRIPTION:Make something spooky in a Halloween junk journal workshop ov
+ erlooking the market below. Come solo or with friends and rummage throug
+ h lots of journaling supplies.\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:Market Mezzanine\, Old Spitalfields Market\, Horner Square\, E1 
+ 6EW\, London
+URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6d4d3c929c9a47df946d28b4fde7a063-occ_70df37a521424290a0243a95c29
+ 7e4a8@thingstodoinyourcity
+DTSTAMP:20261017T075514Z
+DTSTART:20261017T130000Z
+DTEND:20261017T160000Z
+SUMMARY:Halloween Junk Journal Workshop with Kat Kenyan
+DESCRIPTION:Make something spooky in a Halloween junk journal workshop ov
+ erlooking the market below. Come solo or with friends and rummage throug
+ h lots of journaling supplies.\nhttps://oldspitalfieldsmarket.com/events
+LOCATION:Market Mezzanine\, Old Spitalfields Market\, Horner Square\, E1 
+ 6EW\, London
+URL:https://oldspitalfieldsmarket.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b5c4f15b57049189893f188cf51759b-occ_51493b5a46e445c78a397d60cd3
@@ -5272,6 +5329,22 @@ LOCATION:Birmingham\, London
 URL:https://www.innertemple.org.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a8aa525ea7164c63b32afed6a242eb5c-occ_71dde2e3fd7e4624a03177d20ae
+ 666c9@thingstodoinyourcity
+DTSTAMP:20261017T073145Z
+DTSTART:20261017T100000Z
+DTEND:20261017T141500Z
+SUMMARY:Birmingham Circuit Skills Day - QS
+DESCRIPTION:Three skills sessions with local practitioners include a Cour
+ t Room session with a judge. It is invitation only\, with booking and ca
+ ncellation by 11/10/2026.\nPrice: Not listed — worth a quick ask\nhttp
+ s://www.innertemple.org.uk/events/02156-birmingham-circuit-skills-day-qs
+ /
+LOCATION:Birmingham\, 45 Pont Street\, London\, SW1X 0BD\, London
+URL:https://www.innertemple.org.uk/events/02156-birmingham-circuit-skills
+ -day-qs/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c0bfc3ae127b443fa194707b131ef31c-occ_c18f3e31acd145c89bae5603c20
  db7ea@thingstodoinyourcity
 DTSTAMP:20261016T152644Z
@@ -5343,21 +5416,6 @@ DESCRIPTION:Calligraphers will demonstrate a variety of scripts in the hi
 LOCATION:St George's Church Bloomsbury\, Bloomsbury Way \, WC1A 2SA\, Lon
  don
 URL:https://bloomsburyfestival.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7d58a86483c64229905434a2e64ac99f-occ_a0404d1b62b24ff9846f7928e05
- 728e6@thingstodoinyourcity
-DTSTAMP:20261016T152543Z
-DTSTART:20261017T110000Z
-DTEND:20261017T150000Z
-SUMMARY:Family Festival: Stories\, Sign and Shine
-DESCRIPTION:An afternoon of stories inspired by real and imaginary tales\
- , welcoming all ages. Free to attend as a drop-in\, with no tickets requ
- ired.\nPrice: FREE\nhttps://www.londonforkidz.com/post/things-to-do-in-l
- ondon-this-weekend-with-kids
-LOCATION:British Library\, King's Cross\, London
-URL:https://www.londonforkidz.com/post/things-to-do-in-london-this-weeken
- d-with-kids
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_97bf10d1934c41058558f626f115d3b7-occ_be1841c12685454089a24a4c7ee
@@ -5544,6 +5602,20 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
 URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8a50e38ad7c14006a270b51c4d0834f3-occ_b1a102df4c4545789c958d27c64
+ 70fd0@thingstodoinyourcity
+DTSTAMP:20261017T095749Z
+DTSTART:20261017T140000Z
+DTEND:20261017T160000Z
+SUMMARY:The Odyssey Live!
+DESCRIPTION:Readings of key Odyssey passages in English and Greek\, with 
+ context and discussion. An audience Q&A follows on why the story remains
+  relevant today.\nPrice: Tickets: £15/£10 concessions\nhttps://www.off
+ westend.com/
+LOCATION:Century Club\, 61-63 Shaftesbury Avenue\, London
+URL:https://www.offwestend.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ecc120ede10740f18e108cbc1b4336ed-occ_250017ccac6d45c481e8d74d651
  bc536@thingstodoinyourcity
 DTSTAMP:20261016T225710Z
@@ -5632,46 +5704,43 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c0f61e54901640e5b60c12d5ab826d9c-occ_5652e1e2b525475381959fb1033
  28093@thingstodoinyourcity
-DTSTAMP:20261016T152728Z
+DTSTAMP:20261017T081404Z
 DTSTART:20261017T143000Z
 SUMMARY:West End Magic
-DESCRIPTION:Featuring British Champion of Magic Oliver Tabor and compere 
- Wayne Trice\, this family-friendly show mixes magic\, comedy and variety
- . It runs throughout the year and suits ages 5 to 105.\nPrice: From £18
- . Ticket prices include a £2 venue restoration levy\nhttps://www.leices
- tersquaretheatre.com/whats-on/
-LOCATION:Leicester Square Theatre\, 6 Leicester Place London WC2H 7BX\, L
- ondon
+DESCRIPTION:London’s longest-running theatre magic show\, mixing magic\
+ , comedy and variety. Features Oliver Tabor and compere Wayne Trice\; su
+ its ages 5 to 105.\nPrice: From £18. Ticket prices include a £2 venue 
+ restoration levy\nhttps://www.leicestersquaretheatre.com/whats-on/
+LOCATION:Leicester Square Theatre\, 6 Leicester Place\, London\, WC2H 7BX
+ \, London
 URL:https://www.leicestersquaretheatre.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c0f61e54901640e5b60c12d5ab826d9c-occ_1b5cf2ff7c3e4c89acb3d1a5960
  67929@thingstodoinyourcity
-DTSTAMP:20261016T152728Z
+DTSTAMP:20261017T081404Z
 DTSTART:20270313T150000Z
 SUMMARY:West End Magic
-DESCRIPTION:Featuring British Champion of Magic Oliver Tabor and compere 
- Wayne Trice\, this family-friendly show mixes magic\, comedy and variety
- . It runs throughout the year and suits ages 5 to 105.\nPrice: From £18
- . Ticket prices include a £2 venue restoration levy\nhttps://www.leices
- tersquaretheatre.com/whats-on/
-LOCATION:Leicester Square Theatre\, 6 Leicester Place London WC2H 7BX\, L
- ondon
+DESCRIPTION:London’s longest-running theatre magic show\, mixing magic\
+ , comedy and variety. Features Oliver Tabor and compere Wayne Trice\; su
+ its ages 5 to 105.\nPrice: From £18. Ticket prices include a £2 venue 
+ restoration levy\nhttps://www.leicestersquaretheatre.com/whats-on/
+LOCATION:Leicester Square Theatre\, 6 Leicester Place\, London\, WC2H 7BX
+ \, London
 URL:https://www.leicestersquaretheatre.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c0f61e54901640e5b60c12d5ab826d9c-occ_3e9b3517c80741ed915dc460965
  dbda7@thingstodoinyourcity
-DTSTAMP:20261016T152728Z
+DTSTAMP:20261017T081404Z
 DTSTART:20271016T140000Z
 SUMMARY:West End Magic
-DESCRIPTION:Featuring British Champion of Magic Oliver Tabor and compere 
- Wayne Trice\, this family-friendly show mixes magic\, comedy and variety
- . It runs throughout the year and suits ages 5 to 105.\nPrice: From £18
- . Ticket prices include a £2 venue restoration levy\nhttps://www.leices
- tersquaretheatre.com/whats-on/
-LOCATION:Leicester Square Theatre\, 6 Leicester Place London WC2H 7BX\, L
- ondon
+DESCRIPTION:London’s longest-running theatre magic show\, mixing magic\
+ , comedy and variety. Features Oliver Tabor and compere Wayne Trice\; su
+ its ages 5 to 105.\nPrice: From £18. Ticket prices include a £2 venue 
+ restoration levy\nhttps://www.leicestersquaretheatre.com/whats-on/
+LOCATION:Leicester Square Theatre\, 6 Leicester Place\, London\, WC2H 7BX
+ \, London
 URL:https://www.leicestersquaretheatre.com/whats-on/
 END:VEVENT
 BEGIN:VEVENT
@@ -5690,7 +5759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c5503cedae24652b62938f170930fdd-occ_71346a9d59984a5f898f953b4b7
  a4094@thingstodoinyourcity
-DTSTAMP:20261016T155022Z
+DTSTAMP:20261017T092849Z
 DTSTART:20261017T150000Z
 SUMMARY:Emer Maguire: Perfectly Chaotic
 DESCRIPTION:Emer's new stand-up tour show adds extra dates after selling 
@@ -5703,7 +5772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c5503cedae24652b62938f170930fdd-occ_a416a2935c1446b28bfa751f34d
  70a54@thingstodoinyourcity
-DTSTAMP:20261016T155022Z
+DTSTAMP:20261017T092849Z
 DTSTART:20261017T180000Z
 SUMMARY:Emer Maguire: Perfectly Chaotic
 DESCRIPTION:Emer's new stand-up tour show adds extra dates after selling 
@@ -5976,14 +6045,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_96aa21b3f68a44d6a753187c3597cbe0-occ_3e518f20c17d496991e3beda09d
  52775@thingstodoinyourcity
-DTSTAMP:20261016T154927Z
+DTSTAMP:20261017T092823Z
 DTSTART:20261017T170000Z
 DTEND:20261017T220000Z
 SUMMARY:AVSKUM
-DESCRIPTION:South London Scum presents a bill of d-beat\, hardcore and da
- rk ambient acts\, including Swedish d-beat veterans AVSKUM. Doors open a
- t 6pm and bands play until 11pm.\nPrice: £12 advance tickets // £14 on
-  the door\nhttps://www.newcrossinn.com/gigs/
+DESCRIPTION:Swedish anarcho-pacifist d-beat veterans AVSKUM headline a bi
+ ll with Earth to Dust\, Retsu\, Regimes and Mortar. Doors open at 6pm an
+ d bands play until 11pm.\nPrice: £12 advance tickets // £14 on the doo
+ r\nhttps://www.newcrossinn.com/gigs/
 LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
 URL:https://www.newcrossinn.com/gigs/
 END:VEVENT
@@ -6152,6 +6221,20 @@ DESCRIPTION:An internal affairs investigator probes a teen shot by police
  ictim is from her hometown.\nhttps://www.ica.art/films
 LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a752bb29f2241eea00411217eacd539-occ_b13c5c0a885d4e0e91e9cc39643
+ c6417@thingstodoinyourcity
+DTSTAMP:20261017T083905Z
+DTSTART:20261017T173000Z
+DTEND:20261017T203000Z
+SUMMARY:Make Brentwood Laugh Harder
+DESCRIPTION:Following a first event\, another line-up of professional sta
+ nd-up comedians takes the stage. Expect a fully seated venue with a bar 
+ available throughout the evening.\nhttps://opencomedy.com/uk/gigs/london
+LOCATION:Wessex Auditorium\, Ingrave Road\, Brentwood\, CM15 8AS\, Brentw
+ ood\, London
+URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f771553186964ff6a90f1cffd5d39d76-occ_88be85b4ad0b4e05b6d4da4a386
@@ -6394,6 +6477,36 @@ LOCATION:Main House\, Greenwich Theatre\, SE10 8ES\, London
 URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_47c39e692ef043c0b611d59151dc7bc6-occ_77675698f4b84e699b72a36e828
+ 3a16c@thingstodoinyourcity
+DTSTAMP:20261017T091241Z
+DTSTART:20261017T184500Z
+DTEND:20261018T000000Z
+SUMMARY:Shoreditch London Pub Crawl
+DESCRIPTION:Starts at Shoreditch Balls and visits pubs and bars across Ce
+ ntral London. Physical photo ID is required and must match the ticket na
+ me.\nPrice: £20.25 - £25.88\nhttps://shoobs.com/categories/clubbing?pa
+ ge=3
+LOCATION:Shoreditch Balls\, 333 Old Street\, London\, \, EC1V 9LE\, Unite
+ d Kingdom\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ca9837e9e45a43bcabef9cb288fb1c2e-occ_db6ab495bc8a40f4a6041372d66
+ 19d90@thingstodoinyourcity
+DTSTAMP:20261017T091540Z
+DTSTART:20261017T190000Z
+DTEND:20261018T040000Z
+SUMMARY:October Reloaded Saturday at LA Lounge
+DESCRIPTION:Afrobeats\, hip-hop\, R&B and dancehall with live performance
+ s and birthday celebrations. Ladies 18+ and gents 21+\, with table booki
+ ngs available by phone.\nPrice: Free - £16.88\nhttps://shoobs.com/categ
+ ories/clubbing?page=3
+LOCATION:LA Lounge\, Bell Lane\, Dock Road\, London\, E16 2AB\, United Ki
+ ngdom\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3ead2f2dab204f1e8fd76fa3c93195c9-occ_375fd0ca8c824047ac31f073e18
  f1a9c@thingstodoinyourcity
 DTSTAMP:20261017T011232Z
@@ -6406,6 +6519,24 @@ DESCRIPTION:Sidney Prescott returns home to promote a new book\, but a ne
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0d9ab6efe7a6419bb835b576cf4ade54-occ_69f1263c703d42339946c423e45
+ d83c3@thingstodoinyourcity
+DTSTAMP:20261017T084626Z
+DTSTART:20261017T193000Z
+DTEND:20261017T213000Z
+SUMMARY:Saturday Comedy Club London | Covent Garden
+DESCRIPTION:Features award-winning international comedians\, TV favourite
+ s and Edinburgh Comedy Award nominees. Happy hour and a late bar are off
+ ered.\nPrice: TICKETS £70. Prices: Seated Ticket: GBP 20.00\, Student T
+ icket: GBP 15.00\, Côte Brasserie Show and Dinner: GBP 62.00\, Monmouth
+  Kitchen Show and Dinner: GBP 56.00\, Flesh and Buns Show and Dinner: GB
+ P 70.00\, Pizza Express Show and Dinner: GBP 42.00\nhttps://opencomedy.c
+ om/uk/gigs/london
+LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
+ H 9LA\, London
+URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_975d801dc52e4c60b6df7f86e083d8bc-occ_e30541b4ad664a01b788c8042dd
@@ -6564,6 +6695,20 @@ LOCATION:Peckhamplex\, 95a Rye Lane\, London\, SE15 4ST\, Peckham\, Londo
 URL:https://www.peckhamplex.london/films/listings
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_615aa7bd4d574f899be2a1c05e00c36f-occ_d5d0497b541c41bca853b13f80f
+ 6d6da@thingstodoinyourcity
+DTSTAMP:20261017T092113Z
+DTSTART:20261017T203000Z
+DTEND:20261018T040000Z
+SUMMARY:RELOADED SATURDAYS | LA HACIENDA
+DESCRIPTION:London's finest DJs spin Afrobeats\, Amapiano\, Hip-Hop and B
+ ashment. VIP tables and group bookings are available.\nPrice: Free - £2
+ 2.50\nhttps://shoobs.com/categories/clubbing?page=3
+LOCATION:LA Lounge\, Bell Lane\, Dock Road\, London\, E16 2AB\, United Ki
+ ngdom\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec649bddd5ed4135a6e8d65df9c051b7-occ_c60b83c6886845e28b7ce3125e2
  9dfff@thingstodoinyourcity
 DTSTAMP:20261017T032310Z
@@ -6616,6 +6761,66 @@ DESCRIPTION:World-class stand up comedy from five of the funniest people
  9PM.\nhttps://www.londontheatres.com/events/comedy
 LOCATION:The Comedy Store\, London\, London
 URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_00e2ba77b07842e599a647c00dfa4dd2-occ_d4477a5b0a134d2ca50c3c59fc9
+ 84cec@thingstodoinyourcity
+DTSTAMP:20261017T092137Z
+DTSTART:20261017T210000Z
+DTEND:20261018T040000Z
+SUMMARY:Back To The 90's & 00's: Throwback Session
+DESCRIPTION:Retro party with late 90s and 00s chart hits across two rooms
+ \, plus free sweets\, inflatables and candy floss. Strictly 18+\, with p
+ hysical photo ID required on entry.\nPrice: £6.50 - £44.00 Ticket sale
+  closes 17th Oct 10:00 pm\nhttps://shoobs.com/categories/clubbing?page=3
+LOCATION:Scala\, Scala London\, 275 Pentonville Rd\, London N1 9NL\, King
+ s Cross\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ecf115244a64c738c8b950f19b7981f-occ_ac659527cb7b480894ef86f86b8
+ 27325@thingstodoinyourcity
+DTSTAMP:20261017T093014Z
+DTSTART:20261017T210000Z
+DTEND:20261018T040000Z
+SUMMARY:Bashment Clapham - Everyone Free Before 12AM
+DESCRIPTION:Music policy spans bashment\, afrobeats\, dancehall\, soca\, 
+ hip hop and RnB. Smart casual dress code applies\, with no hats\, hoods\
+ , sportswear or shorts.\nPrice: Free - £16.88\nhttps://shoobs.com/categ
+ ories/clubbing?page=3
+LOCATION:Soul Lounge\, 76 Clapham High St\, London\, Greater London\, SW4
+  7UL\, London\, Greater London\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ffc49248498c4511986cfddddbcf249b-occ_18d6f1ddb712460eabf757df9e5
+ d725b@thingstodoinyourcity
+DTSTAMP:20261017T102808Z
+DTSTART:20261017T210000Z
+DTEND:20261018T040000Z
+SUMMARY:Hip Hop x R&B Shoreditch\, Free Before Midnight
+DESCRIPTION:Hip Hop and R&B all night with allstar DJs\, a fully stocked 
+ bar and a smart casual dress code. Free entry before midnight requires a
+ n RSVP ticket secured in advance.\nPrice: Free - £16.88\nhttps://shoobs
+ .com/categories/clubbing?page=3
+LOCATION:The Cornershop\, 123 Shoreditch High St\, Hackney\, Greater Lond
+ on\, E1 6JE\, Hackney\, London
+URL:https://shoobs.com/categories/clubbing?page=3
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_49cbed7d0beb4cc59196c69b82136ee2-occ_5a3a6bd4e4b34ea3a54a59076a6
+ 40115@thingstodoinyourcity
+DTSTAMP:20261017T102808Z
+DTSTART:20261017T210000Z
+DTEND:20261018T040000Z
+SUMMARY:Soca Vs Dancehall Shoreditch
+DESCRIPTION:Caribbean night pairing Trinidad soca carnival anthems with J
+ amaican bashment bangers. Expect back-to-back sets\, surprise special gu
+ ests and VIP tables.\nPrice: Free - £16.88\nhttps://shoobs.com/categori
+ es/clubbing?page=3
+LOCATION:The Cornershop\, 123 Shoreditch High St\, Hackney\, Greater Lond
+ on\, E1 6JE\, Hackney\, London
+URL:https://shoobs.com/categories/clubbing?page=3
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_71cfab451b61452f9c161fd5fee6304b-occ_14f86a085dbf490a83e9c2ae07a
@@ -6757,6 +6962,45 @@ DESCRIPTION:The listing promises an incredible night out. It is a single
 LOCATION:Tape London\, Dear Darling\, Mistress of Mayfair\, Selene\, Lond
  on
 URL:https://londonnightguide.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a67ae143f734befa2a4e7a3ba5cb476-occ_05d6ef11d0b0415fa15865589c2
+ 046d9@thingstodoinyourcity
+DTSTAMP:20261017T073802Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:The Passage: Walk to End Homelessness
+DESCRIPTION:Walkers can choose 2.5km\, 5km or 10km routes with friends\, 
+ family or even their dog. Participants raise funds for The Passage to he
+ lp prevent and end homelessness.\nPrice: Not listed — worth a quick as
+ k\nhttps://www.stcolumbas.org.uk/all-events/?event=3722
+LOCATION:Battersea Park\, Pont St\, London\, SW1X 0BD\, Hans\, London
+URL:https://www.stcolumbas.org.uk/all-events/?event=3722
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a67ae143f734befa2a4e7a3ba5cb476-occ_2c03c7114e524a1ba8a5007a81a
+ 64e96@thingstodoinyourcity
+DTSTAMP:20261017T073802Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:The Passage: Walk to End Homelessness
+DESCRIPTION:Walkers can choose 2.5km\, 5km or 10km routes with friends\, 
+ family or even their dog. Participants raise funds for The Passage to he
+ lp prevent and end homelessness.\nPrice: Not listed — worth a quick as
+ k\nhttps://www.stcolumbas.org.uk/all-events/?event=3722
+LOCATION:Battersea Park\, Pont St\, London\, SW1X 0BD\, Hans\, London
+URL:https://www.stcolumbas.org.uk/all-events/?event=3722
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a67ae143f734befa2a4e7a3ba5cb476-occ_5ce4afa9a7f54ae788124ebd6e9
+ 9db6f@thingstodoinyourcity
+DTSTAMP:20261017T073802Z
+DTSTART;VALUE=DATE:20261018
+SUMMARY:The Passage: Walk to End Homelessness
+DESCRIPTION:Walkers can choose 2.5km\, 5km or 10km routes with friends\, 
+ family or even their dog. Participants raise funds for The Passage to he
+ lp prevent and end homelessness.\nPrice: Not listed — worth a quick as
+ k\nhttps://www.stcolumbas.org.uk/all-events/?event=3722
+LOCATION:Battersea Park\, Pont St\, London\, SW1X 0BD\, Hans\, London
+URL:https://www.stcolumbas.org.uk/all-events/?event=3722
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1d7aa750fc98401cac63ab32b3396ca2-occ_7d810ea19042414fbd1d16e5390
@@ -6964,6 +7208,21 @@ LOCATION:Garden Museum\, London
 URL:https://www.gardenmuseum.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_31ae900f616f4a4384ca236e2386cc8e-occ_6e7bae250eb14555970146e2d28
+ c86ab@thingstodoinyourcity
+DTSTAMP:20261017T073221Z
+DTSTART:20261018T124500Z
+DTEND:20261018T150000Z
+SUMMARY:Baltic Bishop
+DESCRIPTION:Listed under Community at London Friday Night Skate in Hyde P
+ ark Corner. The listing gives no price and suggests asking the organiser
+  before attending.\nPrice: Not listed — worth a quick ask\nhttps://nea
+ rhere.events/uk/greater-london/belgravia
+LOCATION:London Friday Night Skate\, Hyde Park Corner\, London\, W2 2UH\,
+  Hyde Park Corner\, Greater London\, London
+URL:https://nearhere.events/uk/greater-london/belgravia
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_db463dc8e9f64f0bb11cc3d7e634d5d9-occ_edaae0aad8684fab9d1b0c58a8a
  6e88d@thingstodoinyourcity
 DTSTAMP:20261017T024631Z
@@ -7073,6 +7332,20 @@ LOCATION:FOLD London\, Gillian House\, Stephenson Street\, London\, UK E1
 URL:https://www.fold.london/tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_78dd5427ff904028b02ab3d33ee01b82-occ_3ba7bd91736e4f3d9c8fe8311ea
+ f450c@thingstodoinyourcity
+DTSTAMP:20261017T074718Z
+DTSTART:20261018T130000Z
+SUMMARY:Wild Wolves of Yellowstone
+DESCRIPTION:Listed under Community with no published price\, so the sourc
+ e suggests asking first. Event details are aggregated from third-party s
+ ources and may change.\nPrice: Not listed — worth a quick ask\nhttps:/
+ /nearhere.events/uk/greater-london/belgravia
+LOCATION:National Geographic\, 102 Brompton Road\, London\, SW3 1\, Knigh
+ tsbridge\, London
+URL:https://nearhere.events/uk/greater-london/belgravia
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_07761fa10af44ca093b043c134aecf29-occ_3f1938dae24d4e8a8cfe597aba1
  16f05@thingstodoinyourcity
 DTSTAMP:20261016T225725Z
@@ -7085,6 +7358,20 @@ DESCRIPTION:Part of the UK's longest running concert series dedicated to
  iaries £8\nhttps://www.vortexjazz.co.uk/events/
 LOCATION:Vortex Jazz Club\, 11 Gillett Square London\, N16 8AZ\, London
 URL:https://www.vortexjazz.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e56e0396331347c78ba1a4fce858bece-occ_82a056790f0348b984342c41021
+ 40266@thingstodoinyourcity
+DTSTAMP:20261017T084730Z
+DTSTART:20261018T133000Z
+SUMMARY:The Biggest Problem in the World: Victor Patrascan
+DESCRIPTION:Fresh jokes\, shaped by the audience and driven by the news\,
+  make this stand-up show alive. It is performed entirely in English.\nPr
+ ice: online tickets from £12.5\; tickets on the door £25\nhttps://open
+ comedy.com/uk/gigs/london
+LOCATION:The Comedy Store\, 1a Oxendon Street\, London\, SW1Y 4EE\, Londo
+ n
+URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fc1d8dabae574846816a748ca020b2ff-occ_ff5656e18ec04354b56f8ca943f
@@ -7357,12 +7644,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_71133eb1834e4c54884542af09493a53-occ_1b307f8ed78a4bf999f0bcc0b48
  d1c4f@thingstodoinyourcity
-DTSTAMP:20261016T155433Z
+DTSTAMP:20261017T095525Z
 DTSTART:20261018T170000Z
 SUMMARY:Unfunfair
 DESCRIPTION:Goblin horde launches debut album GOBZ OF WAR with Eat the Ev
- idence and Tow Rag. Plate armour or pirate garb encouraged\; leave weapo
- ns at home.\nPrice: £12.00\nhttps://www.newcrossinn.com/gigs/
+ idence and Tow Rag. Plate armour or pirate garb is encouraged\; leave we
+ apons at home.\nPrice: £12.00\nhttps://www.newcrossinn.com/gigs/
 LOCATION:New Cross Inn\, 323 New Cross Road\, London\, SE14 6AS\, London
 URL:https://www.newcrossinn.com/gigs/
 END:VEVENT
@@ -7467,6 +7754,33 @@ LOCATION:Roundhouse Main Space\, Camden\, London
 URL:https://www.roundhouse.org.uk/whats-on/warren-zeiders/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8e122731dc0547739dbe45889bacf428-occ_67dea74267a94c048e25d3f9e20
+ 21026@thingstodoinyourcity
+DTSTAMP:20261017T095208Z
+DTSTART:20261018T180000Z
+DTEND:20261018T190000Z
+SUMMARY:Women in the Storm
+DESCRIPTION:A feminist solo performance by Arina Yang on the hidden barri
+ ers to escaping abuse. Blends monologue\, physical theatre and documenta
+ ry material.\nPrice: £8.00 ( £1 booking fee needed)\nhttps://www.offwe
+ stend.com/
+LOCATION:Etcetera Theatre Camden\, London
+URL:https://www.offwestend.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8e122731dc0547739dbe45889bacf428-occ_844f01866c284ee99c256bd9afc
+ a7032@thingstodoinyourcity
+DTSTAMP:20261017T095208Z
+DTSTART:20261025T210000Z
+SUMMARY:Women in the Storm
+DESCRIPTION:A feminist solo performance by Arina Yang on the hidden barri
+ ers to escaping abuse. Blends monologue\, physical theatre and documenta
+ ry material.\nPrice: £8.00 ( £1 booking fee needed)\nhttps://www.offwe
+ stend.com/
+LOCATION:Etcetera Theatre Camden\, London
+URL:https://www.offwestend.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_736f7f6029974c03bc9abec6572e03b5-occ_b0c57416fc524bf7b3f610bf9ab
  e1590@thingstodoinyourcity
 DTSTAMP:20261017T005108Z
@@ -7542,7 +7856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_59e230a09fe54f18ad98b02efae9fc39-occ_4b537bc8a6fb4fe5b476a0c5de5
  cfe9e@thingstodoinyourcity
-DTSTAMP:20261016T155045Z
+DTSTAMP:20261017T092517Z
 DTSTART:20261018T193000Z
 SUMMARY:TONGUEOUT!: Non-English Language Cabaret by POC
 DESCRIPTION:Performed without spoken English\, this cabaret of short acts
@@ -7699,40 +8013,56 @@ URL:https://seatplan.com/london/iphigenie-en-tauride-tickets/tickets/6-no
  v-2026/7-30pm/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8ceaab6ac9964ab9909b0202aa8aa7d9-occ_2c4b5ec283c647f6a9f8825334e
+ 7817b@thingstodoinyourcity
+DTSTAMP:20261017T091302Z
+DTSTART:20261107T100000Z
+DTEND:20261107T160000Z
+SUMMARY:Constantinople to Istanbul: One City\, Two Empires
+DESCRIPTION:A UK-first exhibition exploring 1\,600 years of extraordinary
+  art and design. It offers a new perspective on a city shaped by artisti
+ c exchange.\nhttps://www.vam.ac.uk/exhibitions/constantinople-to-istanbu
+ l-one-city-two-empires
+LOCATION:Victoria & Albert Museum (V&A)\, Cromwell Rd\, London SW7 2RL\, 
+ UK\, London
+URL:https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city
+ -two-empires
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_eeb087b810d9456698fbec3731a2d0e2-occ_08147e2cc61744518a9e8760098
  131c3@thingstodoinyourcity
-DTSTAMP:20261016T163109Z
+DTSTAMP:20261017T073543Z
 DTSTART:20261113T183000Z
 SUMMARY:An Unfinished Film
-DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread.
-  Lou Ye's Covid-era drama follows lockdowns seen through phone screens.\
- nhttps://www.ica.art/films/an-unfinished-film
+DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread 
+ in Wuhan. Lou Ye's drama follows lockdowns seen through phone screens an
+ d video calls.\nhttps://www.ica.art/films
 LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/an-unfinished-film
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeb087b810d9456698fbec3731a2d0e2-occ_4afea7dae3cb46fabf553033a1e
  d66fe@thingstodoinyourcity
-DTSTAMP:20261016T163109Z
+DTSTAMP:20261017T073543Z
 DTSTART:20261114T180000Z
 SUMMARY:An Unfinished Film
-DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread.
-  Lou Ye's Covid-era drama follows lockdowns seen through phone screens.\
- nhttps://www.ica.art/films/an-unfinished-film
+DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread 
+ in Wuhan. Lou Ye's drama follows lockdowns seen through phone screens an
+ d video calls.\nhttps://www.ica.art/films
 LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/an-unfinished-film
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeb087b810d9456698fbec3731a2d0e2-occ_5154f6e6a1f04373b67ddbe6703
  20546@thingstodoinyourcity
-DTSTAMP:20261016T163109Z
+DTSTAMP:20261017T073543Z
 DTSTART:20261115T133000Z
 SUMMARY:An Unfinished Film
-DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread.
-  Lou Ye's Covid-era drama follows lockdowns seen through phone screens.\
- nhttps://www.ica.art/films/an-unfinished-film
+DESCRIPTION:A film crew resumes a halted shoot as illness rumours spread 
+ in Wuhan. Lou Ye's drama follows lockdowns seen through phone screens an
+ d video calls.\nhttps://www.ica.art/films
 LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/an-unfinished-film
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d94b50946e614b8aba2c1abc514ac3a1-occ_857aa6e0918c40c09714f4891b1
@@ -7812,13 +8142,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_aee58cab02a74cc393fc14cc9b3dc4e4-occ_5215b317ab7b4b40ae80684184d
  96a0b@thingstodoinyourcity
-DTSTAMP:20261016T152648Z
+DTSTAMP:20261017T080344Z
 DTSTART:20270305T190000Z
 SUMMARY:Connor Burns: Flow
 DESCRIPTION:Scottish stand-up Connor Burns brings his fifth solo show\, a
- n hour of new material. The show follows a premiere at the 2026 Edinburg
- h Fringe where he sold over 12\,000 tickets.\nPrice: From £24.50\nhttps
- ://www.leicestersquaretheatre.com/whats-on/
+ n hour of new material. It follows a 2026 Edinburgh Fringe premiere wher
+ e he sold over 12\,000 tickets.\nPrice: From £24.50\nhttps://www.leices
+ tersquaretheatre.com/whats-on/
 LOCATION:Leicester Square Theatre\, 6 Leicester Place London WC2H 7BX\, L
  ondon
 URL:https://www.leicestersquaretheatre.com/whats-on/
