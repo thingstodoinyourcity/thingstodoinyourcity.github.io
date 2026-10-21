@@ -8,341 +8,483 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_71a1a16fff2b468487af01dca42
- 6f21d@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
+UID:cand_c5ed626fc95c4e1eb0d879cf3546a877-occ_2315ee6687ba4dc2a3dae8f272f
+ fe031@thingstodoinyourcity
+DTSTAMP:20261021T133224Z
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Amy Winehouse’s Back To Black 20th Anniversary Concert
+DESCRIPTION:https://londontheinside.com/whats-on-this-week/
+LOCATION:Roundhouse\, CAMDEN\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b97c4dc8e425456f91300f861cd905b0-occ_037bb152b20d41788f7a8db61e4
+ d3360@thingstodoinyourcity
+DTSTAMP:20261021T123556Z
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Cooling Without Air Conditioning: Passive Design
+DESCRIPTION:Drawing on Rofayda Salem's PhD and archival work\, this talk 
+ explores passive cooling in Islamic architecture. Topics include the Mas
+ hrabiya\, shading and evaporative cooling.\nPrice: Free\, booking requir
+ ed\nhttps://events.bl.uk/events/cooling-without-air-conditioning-passive
+ -design-lessons-from-traditional-islamic-architecture
+LOCATION:Foyle Suite\, British Library Conservation Centre\, British Libr
+ ary\, London\, London
+URL:https://events.bl.uk/events/cooling-without-air-conditioning-passive-
+ design-lessons-from-traditional-islamic-architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c8a14a409d2542fc90baf77c9062d380-occ_70dd568bb4ad4bc8b5356d03a7d
+ 464e2@thingstodoinyourcity
+DTSTAMP:20261021T115430Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+SUMMARY:Green Libraries Week: Schools
+DESCRIPTION:Focuses on climate mis- and disinformation\, with a new secon
+ dary workshop and author-led masterclass. Activity runs daily\, 10.30–
+ 15.00.\nPrice: Free\, booking essential\nhttps://events.bl.uk/events/gre
+ en-libraries-week-schools
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/green-libraries-week-schools
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c865b723fe743868da1371a6645e783-occ_5dbafcbd4e99470da284d37cbf7
+ cdf5d-2026-10-21@thingstodoinyourcity
+DTSTAMP:20261021T120855Z
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Our Village Art Trail
+DESCRIPTION:Makers from Cockpit Studios lead guided walks past Holborn's 
+ murals\, castings and community artworks. A trail map is online for self
+ -guided visits.\nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-on
+ /our-village-art-trail
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/our-village-art-trail
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c865b723fe743868da1371a6645e783-occ_5dbafcbd4e99470da284d37cbf7
+ cdf5d-2026-10-28@thingstodoinyourcity
+DTSTAMP:20261021T120855Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Our Village Art Trail
+DESCRIPTION:Makers from Cockpit Studios lead guided walks past Holborn's 
+ murals\, castings and community artworks. A trail map is online for self
+ -guided visits.\nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-on
+ /our-village-art-trail
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/our-village-art-trail
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c865b723fe743868da1371a6645e783-occ_29032875b5164bdd9feb0a2dfba
+ 2a8f3@thingstodoinyourcity
+DTSTAMP:20261021T120855Z
+DTSTART:20261028T110000Z
+DTEND:20261028T120000Z
+SUMMARY:Our Village Art Trail
+DESCRIPTION:Makers from Cockpit Studios lead guided walks past Holborn's 
+ murals\, castings and community artworks. A trail map is online for self
+ -guided visits.\nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-on
+ /our-village-art-trail
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/our-village-art-trail
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f6fb79c811454a8083d5f4664b630133-occ_be9d059d35b341fdbcf666bd347
+ 4a1fc@thingstodoinyourcity
+DTSTAMP:20261021T124228Z
+DTSTART;VALUE=DATE:20261021
+SUMMARY:Securing Your Payments: Strategies to Get Paid
+DESCRIPTION:Explore payment strategies for service-based businesses. Cove
+ rs negotiation\, payment methods and contracts that protect your interes
+ ts.\nPrice: Free\, booking required\nhttps://www.eventbrite.com/e/securi
+ ng-your-payments-strategies-to-get-paid-tickets-1994668817127?aff=oddtdt
+ creator
+LOCATION:Online\, London
+URL:https://www.eventbrite.com/e/securing-your-payments-strategies-to-get
+ -paid-tickets-1994668817127?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f6fb79c811454a8083d5f4664b630133-occ_436d6bd1528e4538a0468c59da7
+ 14753@thingstodoinyourcity
+DTSTAMP:20261021T124228Z
+DTSTART:20261021T150000Z
+DTEND:20261021T160000Z
+SUMMARY:Securing Your Payments: Strategies to Get Paid
+DESCRIPTION:Explore payment strategies for service-based businesses. Cove
+ rs negotiation\, payment methods and contracts that protect your interes
+ ts.\nPrice: Free\, booking required\nhttps://www.eventbrite.com/e/securi
+ ng-your-payments-strategies-to-get-paid-tickets-1994668817127?aff=oddtdt
+ creator
+LOCATION:Online\, London
+URL:https://www.eventbrite.com/e/securing-your-payments-strategies-to-get
+ -paid-tickets-1994668817127?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_04b079d76f80426f8be37e941ac83607-occ_d50dd4c03f7246a0b7d6711c941
+ 99b7b@thingstodoinyourcity
+DTSTAMP:20261021T124959Z
+DTSTART;VALUE=DATE:20261021
+DTEND:20261021T213000Z
+SUMMARY:Tallulah Rendall: Only Human UK Tour (London)
+DESCRIPTION:Tallulah Rendall's seventh album\, HUMAN\, blends alt-pop\, e
+ lectronics and organic sounds. Atton=Raon support with experimental pop 
+ and spoken word.\nPrice: From £16.96\nhttps://www.eventbrite.co.uk/e/on
+ ly-human-uk-tour-london-tickets-1989777376697?aff=oddtdtcreator&keep_tld
+ =true
+LOCATION:St Pancras Old Church\, Pancras Road\, London NW1 1UL\, King's C
+ ross\, London
+URL:https://www.eventbrite.co.uk/e/only-human-uk-tour-london-tickets-1989
+ 777376697?aff=oddtdtcreator&keep_tld=true
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_04b079d76f80426f8be37e941ac83607-occ_2beef7f3cf5c4c629a3d9f3c566
+ 90045@thingstodoinyourcity
+DTSTAMP:20261021T124959Z
+DTSTART:20261021T183000Z
+DTEND:20261021T213000Z
+SUMMARY:Tallulah Rendall: Only Human UK Tour (London)
+DESCRIPTION:Tallulah Rendall's seventh album\, HUMAN\, blends alt-pop\, e
+ lectronics and organic sounds. Atton=Raon support with experimental pop 
+ and spoken word.\nPrice: From £16.96\nhttps://www.eventbrite.co.uk/e/on
+ ly-human-uk-tour-london-tickets-1989777376697?aff=oddtdtcreator&keep_tld
+ =true
+LOCATION:St Pancras Old Church\, Pancras Road\, London NW1 1UL\, King's C
+ ross\, London
+URL:https://www.eventbrite.co.uk/e/only-human-uk-tour-london-tickets-1989
+ 777376697?aff=oddtdtcreator&keep_tld=true
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b64ced654314daca595b34b78c59767-occ_19d7e86dd9a84fc3b8885b9a2b1
+ b6c6a@thingstodoinyourcity
+DTSTAMP:20261021T123923Z
+DTSTART:20261021T170500Z
+SUMMARY:Pressure
+DESCRIPTION:A British-born younger son of an immigrant family from Trinid
+ ad finds himself adrift between two cultures. Includes an intro by Xavie
+ r Alexandre Pillai\, BFI TV Programmer.\nhttps://clusterflick.com/movies
+ /114072/pressure/
+LOCATION:BFI Southbank\, London
+URL:https://clusterflick.com/movies/114072/pressure/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_91471b3e763547ccb785b760eb6fe710-occ_6ddf680e68b047fa822ac5108b3
+ 0f8e7@thingstodoinyourcity
+DTSTAMP:20261021T125534Z
+DTSTART:20261021T172000Z
+SUMMARY:What We Were and What We Are
+DESCRIPTION:First-time Sahrawi directors premiere documentaries on their 
+ elders and changing culture. Q&A with the filmmakers and IRSAAN members 
+ follows.\nPrice: Adult: £12.5 Senior: £10 Student: £10\nhttps://docho
+ use.org/event/what-we-were-and-what-we-are/
+LOCATION:Bertha DocHouse\, Curzon Bloomsbury The Brunswick London\, WC1N 
+ 1AW\, London
+URL:https://dochouse.org/event/what-we-were-and-what-we-are/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_615a599208f24f07910d8e7765949405-occ_48a3d495f1e54ffcb7cfae1c48c
+ 57203@thingstodoinyourcity
+DTSTAMP:20261021T125317Z
+DTSTART:20261021T180000Z
+DTEND:20261021T210000Z
+SUMMARY:Stand Up Comedy Show at Big Belly Comedy Club
+DESCRIPTION:Every Wednesday the UK's best comics bring new ideas and joke
+ s\, plus new acts. A free shot comes with every ticket at this London co
+ medy night.\nPrice: £5.93 - £14.50\nhttps://www.universe.com/events/we
+ d-21st-oct-stand-up-comedy-show-big-belly-comedy-club-tickets-NB8ZTC?but
+ tonColor=%23fbad19&buttonText=Get+Tickets
+LOCATION:Big Belly Comedy - Southbank\, Unit 6 & 7\, 30 Stamford St\,\, L
+ ondon \, SE1 9LQ\, Great Britain\, Southbank\, London
+URL:https://www.universe.com/events/wed-21st-oct-stand-up-comedy-show-big
+ -belly-comedy-club-tickets-NB8ZTC?buttonColor=%23fbad19&buttonText=Get+T
+ ickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_615a599208f24f07910d8e7765949405-occ_2a88c4e979fa448a80b25b5e2c5
+ 192ee@thingstodoinyourcity
+DTSTAMP:20261021T125317Z
+DTSTART:20261021T183000Z
+DTEND:20261021T210000Z
+SUMMARY:Stand Up Comedy Show at Big Belly Comedy Club
+DESCRIPTION:Every Wednesday the UK's best comics bring new ideas and joke
+ s\, plus new acts. A free shot comes with every ticket at this London co
+ medy night.\nPrice: £5.93 - £14.50\nhttps://www.universe.com/events/we
+ d-21st-oct-stand-up-comedy-show-big-belly-comedy-club-tickets-NB8ZTC?but
+ tonColor=%23fbad19&buttonText=Get+Tickets
+LOCATION:Big Belly Comedy - Southbank\, Unit 6 & 7\, 30 Stamford St\,\, L
+ ondon \, SE1 9LQ\, Great Britain\, Southbank\, London
+URL:https://www.universe.com/events/wed-21st-oct-stand-up-comedy-show-big
+ -belly-comedy-club-tickets-NB8ZTC?buttonColor=%23fbad19&buttonText=Get+T
+ ickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_615a599208f24f07910d8e7765949405-occ_afaf28c429f645e0993f1d4887e
+ b693e@thingstodoinyourcity
+DTSTAMP:20261021T125317Z
+DTSTART:20261021T191500Z
+DTEND:20261021T210000Z
+SUMMARY:Stand Up Comedy Show at Big Belly Comedy Club
+DESCRIPTION:Every Wednesday the UK's best comics bring new ideas and joke
+ s\, plus new acts. A free shot comes with every ticket at this London co
+ medy night.\nPrice: £5.93 - £14.50\nhttps://www.universe.com/events/we
+ d-21st-oct-stand-up-comedy-show-big-belly-comedy-club-tickets-NB8ZTC?but
+ tonColor=%23fbad19&buttonText=Get+Tickets
+LOCATION:Big Belly Comedy - Southbank\, Unit 6 & 7\, 30 Stamford St\,\, L
+ ondon \, SE1 9LQ\, Great Britain\, Southbank\, London
+URL:https://www.universe.com/events/wed-21st-oct-stand-up-comedy-show-big
+ -belly-comedy-club-tickets-NB8ZTC?buttonColor=%23fbad19&buttonText=Get+T
+ ickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8cd4317de5e49cb85ea4198b957c521-occ_cd6b1f45475947f3a1c5ebc4fe8
+ 5685b@thingstodoinyourcity
+DTSTAMP:20261021T120544Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:The Imperial Night Sky
+DESCRIPTION:Guided by UCL astronomers\, guests stargaze with specialist t
+ elescopes at Arcus Rooftop Bar. Low visibility moves the evening indoors
+  to talks and displays\; a drink is included.\nPrice: £20.00\nhttps://b
+ loomsburyfestival.org.uk/whats-on/the-imperial-night-sky
+LOCATION:The Imperial\, 61-66 Russell Square \, WC1B 5BB\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/the-imperial-night-sky
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9945c62080da4cbe8ec38a8783971a82-occ_4570b4a04acb41bbaffaff35e89
+ ee124@thingstodoinyourcity
+DTSTAMP:20261021T122650Z
+DTSTART:20261021T190000Z
+SUMMARY:Wednesday Night Comedy\, 8PM\, Covent Garden
+DESCRIPTION:Hand-picked London circuit stand-ups make up the line-up\, wh
+ ich may change at short notice. Past shows featured comedians seen on Ta
+ skmaster\, Live at the Apollo and Netflix.\nPrice: From £10.00\nhttps:/
+ /jkcomedyclub.co.uk/comedy-show/wednesday-night-comedy-8pm-covent-garden
+ -21oct26/
+LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
+ \, London WC2H 0HF\, London
+URL:https://jkcomedyclub.co.uk/comedy-show/wednesday-night-comedy-8pm-cov
+ ent-garden-21oct26/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a1a1a7add9d14d70ae9d745588a06ed4-occ_7a9b3c06bebe4cd08d3460d0834
+ f29fc@thingstodoinyourcity
+DTSTAMP:20261021T124127Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Colette and Justin Q&A
+DESCRIPTION:Alain Kassanda's debut film begins as self-examination\, prob
+ ing his grandparents and DR Congo roots. It travels through time to brin
+ g postcolonial Congo to evocative life.\nPrice: Adult £14.00 (incl £2.
+ 00 booking fee)\; Senior (Over 60) £13.50\; Student £13.50\nhttps://ge
+ nesis.admit-one.co.uk/tickets/?perfCode=13522
+LOCATION:Genesis Cinema\, Screen 3\, 93-95 Mile End Road \, Whitechapel\,
+  London E1 4UJ\, Whitechapel\, London
+URL:https://genesis.admit-one.co.uk/tickets/?perfCode=13522
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a1a1a7add9d14d70ae9d745588a06ed4-occ_f4e9f59272d448408d3da14c7c2
+ 11deb@thingstodoinyourcity
+DTSTAMP:20261021T124127Z
+DTSTART:20261022T170500Z
+SUMMARY:Colette and Justin Q&A
+DESCRIPTION:Alain Kassanda's debut film begins as self-examination\, prob
+ ing his grandparents and DR Congo roots. It travels through time to brin
+ g postcolonial Congo to evocative life.\nPrice: Adult £14.00 (incl £2.
+ 00 booking fee)\; Senior (Over 60) £13.50\; Student £13.50\nhttps://ge
+ nesis.admit-one.co.uk/tickets/?perfCode=13522
+LOCATION:Genesis Cinema\, Screen 3\, 93-95 Mile End Road \, Whitechapel\,
+  London E1 4UJ\, Whitechapel\, London
+URL:https://genesis.admit-one.co.uk/tickets/?perfCode=13522
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b692f23b63c24a429d32cf21a23e34f0-occ_c7197e94fc6d4c0faab54e048a9
+ 7fe0a@thingstodoinyourcity
+DTSTAMP:20261021T124206Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Culture Quiz: Bloomsbury Festival edition
+DESCRIPTION:Test your Bloomsbury knowledge on local radicals\, tangled ro
+ mances and square statues. Answers hide on historical boards\, statues\,
+  blue plaques and tree plaques.\nPrice: £15\nhttps://www.culturequesthu
+ nt.com/event-list
+LOCATION:The Lady Ottoline\, 11A Northington St \, WC1N 2JF\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b692f23b63c24a429d32cf21a23e34f0-occ_7f4113b297cd4c5ca8b13dda05d
+ b4247@thingstodoinyourcity
+DTSTAMP:20261021T124206Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Culture Quiz: Bloomsbury Festival edition
+DESCRIPTION:Test your Bloomsbury knowledge on local radicals\, tangled ro
+ mances and square statues. Answers hide on historical boards\, statues\,
+  blue plaques and tree plaques.\nPrice: £15\nhttps://www.culturequesthu
+ nt.com/event-list
+LOCATION:The Lady Ottoline\, 11A Northington St \, WC1N 2JF\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e9d8c25e873e434c86fd37060a065c97-occ_6b9151e2d8e94c32b663844e783
+ 9a1a4@thingstodoinyourcity
+DTSTAMP:20261021T132402Z
+DTSTART:20261022T090000Z
+DTEND:20261022T150000Z
+SUMMARY:Discovery Hub 2026 - Day 1
+DESCRIPTION:Interactive science and creative activities and workshops on 
+ the theme Create and Celebrate. Schools activities target KS2 and KS3 st
+ udents\, with a general public drop-in.\nPrice: Free\nhttps://bloomsbury
+ festival.org.uk/whats-on/discovery-hub-2026-school-day
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/discovery-hub-2026-school-
+ day
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed2e0c8685d34fb5936897568bcafb12-occ_8049cb26af344a02bb9bb334dd7
+ 9b2ac@thingstodoinyourcity
+DTSTAMP:20261021T120020Z
+DTSTART:20261022T090000Z
+DTEND:20261022T180000Z
+SUMMARY:EM Forster's Legacy of Connection: Unseen Memorabilia
+DESCRIPTION:Never-seen Forster memorabilia\, letters and photographs sit 
+ alongside Jim Buckingham's paintings. It also explores Bloomsbury workin
+ g-class history.\nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-o
+ n/em-forsters-legacy-of-connection-unseen-memorabilia-2
+LOCATION:Camden Archives and Local Studies Centre at Holborn Library\, Ho
+ lborn Library\, Theobalds Rd \, WC1X 8NW\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/em-forsters-legacy-of-conn
+ ection-unseen-memorabilia-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0bd450c9781d401db50a798b7fa86b18-occ_d1d96db3444544edbc2434618d6
+ 989f0@thingstodoinyourcity
+DTSTAMP:20261021T125146Z
+DTSTART:20261022T110000Z
+DTEND:20261022T123000Z
+SUMMARY:Introduction to copyright for business
+DESCRIPTION:Presented by Jeremy O'Hare\, this webinar explains copyright 
+ basics\, eligible works and protection duration. It also covers managing
+  your copyright and using others' work.\nPrice: Free\, booking required\
+ nhttps://www.eventbrite.com/e/introduction-to-copyright-for-business-tic
+ kets-2001041816941?aff=oddtdtcreator
+LOCATION:Online\, London
+URL:https://www.eventbrite.com/e/introduction-to-copyright-for-business-t
+ ickets-2001041816941?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_00e101fe712b43a1ac378cc4b926ddfa-occ_f3f505cfeb684fee90f11c70a82
+ ad534@thingstodoinyourcity
+DTSTAMP:20261021T130434Z
+DTSTART:20261022T160000Z
+DTEND:20261022T180000Z
+SUMMARY:Textile Marathon Performance 2
+DESCRIPTION:Price: Free\nhttps://bloomsburyfestival.org.uk/whats-on/texti
+ le-marathon-performance-2
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/textile-marathon-performan
+ ce-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_70af77d2fd2a4845b0499a3fb9c203c5-occ_510b6cec7390426a84eb393eeb6
+ ce2b5@thingstodoinyourcity
+DTSTAMP:20261021T125432Z
+DTSTART:20261022T170000Z
+DTEND:20261022T190100Z
+SUMMARY:Haxan with Live Score
+DESCRIPTION:Benjamin Christensen's 1922 film mixes dramatic vignettes on 
+ witchcraft\, hysteria and grave robbing with dark humour. This screening
+  adds a live score.\nhttps://princecharlescinema.com/prince-charles-cine
+ ma/booknow/31626005/
+LOCATION:Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\, Lon
+ don
+URL:https://princecharlescinema.com/prince-charles-cinema/booknow/3162600
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2056b68cd4d24f0b8e6e757cc5248b51-occ_d72d73a002474e07b69e8f725d3
+ 21957@thingstodoinyourcity
+DTSTAMP:20261021T130343Z
+DTSTART:20261022T173000Z
+DTEND:20261022T184500Z
+SUMMARY:Huguenot music and David Garrick
+DESCRIPTION:Bloomsbury Baroque performs music by Huguenot composers from 
+ the 17th and 18th centuries on period instruments. Extracts from David G
+ arrick's letters are read during the performance.\nPrice: £27/£20\nhtt
+ ps://bloomsburyfestival.org.uk/whats-on/huguenot-music-and-david-garrick
+LOCATION:French Protestant Church of London\, 8-9 Soho Square\, London W1
+ D 3QD \, W1D 3QD\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/huguenot-music-and-david-g
+ arrick
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a796ddeed29a4097989762cca07b9d01-occ_6dda1dc61a01425abe6c696b93e
+ 6a375@thingstodoinyourcity
+DTSTAMP:20261021T124545Z
+DTSTART:20261022T183000Z
+DTEND:20261022T200000Z
+SUMMARY:Blackout
+DESCRIPTION:An audio documentary-drama on love and duty during WW2\, foll
+ owed by a Q&A. Writer Clare Best draws on wartime letters from a RAF bom
+ ber pilot.\nPrice: £7.00 - £25.00\nhttps://bloomsburyfestival.org.uk/w
+ hats-on/blackout-1
+LOCATION:Holy Cross Church\, 98 Cromer Street \, WC1H 8JU\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/blackout-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a56bfc4f4d3b4804bd5629ce7cbac6c2-occ_c6d00bedbe0544749f97b4499db
+ 5a25e@thingstodoinyourcity
+DTSTAMP:20261021T122309Z
+DTSTART:20261022T190000Z
+SUMMARY:Thursday Night Comedy\, 8PM\, Covent Garden
+DESCRIPTION:Hand-picked professional stand-ups with comedians seen on Tas
+ kmaster and Netflix. Seating is unreserved and lineups can change at sho
+ rt notice.\nPrice: From £12.00\nhttps://jkcomedyclub.co.uk/comedy-show/
+ thursday-night-comedy-8pm-covent-garden-22oct26/
+LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
+ \, London WC2H 0HF\, Covent Garden\, London
+URL:https://jkcomedyclub.co.uk/comedy-show/thursday-night-comedy-8pm-cove
+ nt-garden-22oct26/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b83712a79b31442cad589c980d9a9a53-occ_c2b4c7d9aa4f4615bfa343ae775
+ 7aee0@thingstodoinyourcity
+DTSTAMP:20261021T121826Z
+DTSTART:20261022T190000Z
+DTEND:20261022T213000Z
+SUMMARY:Thursdays at Backyard
+DESCRIPTION:Expect sneak peeks of brand-new material from established act
+ s and rising stars. Resident hosts David Whitney and David Ward keep the
+  laughs rolling.\nPrice: £7.5 - £10\nhttps://backyardcomedyclub.co.uk/
+ event/link/?ceId=a3190b0a-5bcb-4561-a1ca-5f698660ddf1
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/event/link/?ceId=a3190b0a-5bcb-4561-
+ a1ca-5f698660ddf1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad1db8dc98464292b6924fe6203f0068-occ_15b3c9e8f88e491dbd48f9fdb60
+ f8e03@thingstodoinyourcity
+DTSTAMP:20261021T123010Z
 DTSTART:20261023T090000Z
-DTEND:20261023T100000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
+DTEND:20261023T150000Z
+SUMMARY:Discovery Hub 2026 - Day 2
+DESCRIPTION:An exciting mix of science and creative activities for school
+ s\, families and the public. Interactive exhibitions and workshops explo
+ re the theme Create and Celebrate.\nPrice: Free\nhttps://bloomsburyfesti
+ val.org.uk/whats-on/discovery-hub-2026-day-2
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/discovery-hub-2026-day-2
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_80fc7ba740ef496490137cceb90
- 4dd5e@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261030T100000Z
-DTEND:20261030T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_06945e1c2326479b91bcaf21f34
- 2503e@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261106T100000Z
-DTEND:20261106T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_2e11d6e42da2476b9646c6e603d
- cebc5@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261113T100000Z
-DTEND:20261113T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_96ca1f95a55a444db327436acd1
- 5585e@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261120T100000Z
-DTEND:20261120T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_258b428d5e444752846f2a52b9b
- 28cba@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261127T100000Z
-DTEND:20261127T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_e3f6bf7301564b7fbe261320c25
- aab5c@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261204T100000Z
-DTEND:20261204T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_b16302cf752b4308a34c216570d
- b1399@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261211T100000Z
-DTEND:20261211T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_7cebc2531e8946d891aa1f81b3a
- 9716d@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261218T100000Z
-DTEND:20261218T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_51114c321fa642b5ba7e7811371
- d5e79@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20261225T100000Z
-DTEND:20261225T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_475be4bbfa1040cf865ad4e0037
- 5fb03@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20270101T100000Z
-DTEND:20270101T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_e63ae537fad0421b966c1ecd225
- 9f020@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20270108T100000Z
-DTEND:20270108T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_20daf853cd3040c4b063e50f00b
- 896db@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20270115T100000Z
-DTEND:20270115T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_af320edaa6ef4ea8b8ffce2b200
- 499d7@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20270122T100000Z
-DTEND:20270122T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_46bef47d823a4719ab0dbb16e2b67798-occ_663ef84a279d470b97125d98e8f
- ae2f2@thingstodoinyourcity
-DTSTAMP:20261016T162617Z
-DTSTART:20270129T100000Z
-DTEND:20270129T110000Z
-SUMMARY:Zumba - online only
-DESCRIPTION:Latin-inspired dance fitness mixing salsa\, samba\, merengue\
- , reggaeton and hip-hop with cardio. Fast-paced online sessions\; book b
- y email to get your Zoom link.\nPrice: Price: Free\nhttps://www.rbkc.gov
- .uk/events
-LOCATION:Town Hall\, Town Hall\, Hornton Street\, W8 7NX\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_913b500234004c088e90c490538002a0-occ_21f986165d524c21876c7405989
- 03bd9@thingstodoinyourcity
-DTSTAMP:20261016T162447Z
-DTSTART:20261023T101500Z
-DTEND:20261023T111500Z
-SUMMARY:Spanish Conversation Class at Kensal Library
-DESCRIPTION:Join a friendly Spanish conversation class designed for all l
- evels\, from complete beginners to advanced speakers. No need to book\, 
- just turn up.\nPrice: Free\nhttps://www.rbkc.gov.uk/events
-LOCATION:Kensal Library\, London
-URL:https://www.rbkc.gov.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_f4a17226cba4412091a21e87f03
- 72eb4@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20261027T143000Z
-DTEND:20261027T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_d74099af1f1043f18e16b73f2f9
- 186ee@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20261110T143000Z
-DTEND:20261110T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_98b1f06c49d441c08b1d60b5f1b
- 9bfb9@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20261124T143000Z
-DTEND:20261124T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_047bb2da2d53492091ee742541a
- 4e26a@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20261208T143000Z
-DTEND:20261208T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_97a92f5aed274eeaa462be9c8a6
- 1f055@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20270105T143000Z
-DTEND:20270105T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_bac9e347634c460eac30d85fa6b
- 90759@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20270119T143000Z
-DTEND:20270119T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0fe4b0152a0d4baebf5e9877d3e736d8-occ_94a8ed87788d437092df5a162a2
- bea4b@thingstodoinyourcity
-DTSTAMP:20261016T105857Z
-DTSTART:20270202T143000Z
-DTEND:20270202T151500Z
-SUMMARY:Seated Movement to Music
-DESCRIPTION:Former English National Ballet dancer Alice Crawford leads fo
- rtnightly movement classes for older people and people with dementia. Se
- ssions aim to aid joint mobility and memory.\nhttps://chelsea-pensioners
- .co.uk/whats-on
-LOCATION:Soane Stable Yard Activity Room\, London
-URL:https://chelsea-pensioners.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_03a61759e61d4480af4289d24d72a6fa-occ_f28138ee6ee24168abf3f375075
- 4e105@thingstodoinyourcity
-DTSTAMP:20261016T121959Z
-DTSTART:20261027T190000Z
-DTEND;VALUE=DATE:20261028
-SUMMARY:The Phantom of the Opera – Silent Film Night
-DESCRIPTION:A 1925 silent Phantom of the Opera screening with a real-time
-  live organ score. Doors open early for guests to enjoy the church's arc
- hitecture beforehand.\nPrice: Tickets are priced from £12.50 for conces
- sions and £15 for general admission\, and must be reserved in advance.\
- nhttps://onecitylondon.com/article/things-to-do-this-june-in-the-city-of
- -london/
-LOCATION:St Lawrence Jewry\, Guildhall Yard\, London\, EC2V 5AA\, London
-URL:https://onecitylondon.com/article/things-to-do-this-june-in-the-city-
- of-london/
+UID:cand_b966021e696a485f82c3af6e59202264-occ_91af0269472c41058bdc7c0bb5e
+ 5e5c0@thingstodoinyourcity
+DTSTAMP:20261021T120020Z
+DTSTART:20261023T120000Z
+DTEND:20261023T131500Z
+SUMMARY:Thinkers\, Makers and Scribblers\, Walk Two
+DESCRIPTION:Second walk in a three-part series\, exploring characters and
+  events in East Bloomsbury. Led by expert Camden guides\, it uncovers vi
+ sionaries inspired by the area.\nPrice: £10.00\nhttps://bloomsburyfesti
+ val.org.uk/whats-on/thinkers-makers-and-scribblers-walk-two-from-dreamin
+ g-poets-to-art-beneath-our-feet
+LOCATION:Holy Cross Church\, 98 Cromer Street\, WC1H 8JU\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/thinkers-makers-and-scribb
+ lers-walk-two-from-dreaming-poets-to-art-beneath-our-feet
 END:VEVENT
 END:VCALENDAR
