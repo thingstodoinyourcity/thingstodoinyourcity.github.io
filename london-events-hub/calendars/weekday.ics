@@ -35,14 +35,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cfe3e0257eff466e9bf2a7b0b044f3e8-occ_8a3560b744fd4cfe84b0cc14d0e
  ac306@thingstodoinyourcity
-DTSTAMP:20261021T205812Z
+DTSTAMP:20261022T135236Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261023
 SUMMARY:Maria Nila x Sephora Pop Up
 DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
  n
-LOCATION:Sephora CARNABY\, 5-7 Carnaby St\, London\, 5-7 Carnaby St\, Lon
- don\, London
+LOCATION:Sephora CARNABY\, 5-7 Carnaby St\, London\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
@@ -139,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e5a807a00fb54641bf27b3c4765c84a9-occ_6c1bf793ec7a420e952f97c6186
  1e037@thingstodoinyourcity
-DTSTAMP:20261021T220915Z
+DTSTAMP:20261022T152123Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Ceilidh
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
@@ -217,13 +216,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ef468de899f84d7e8fd1c41733fbed26-occ_8bc0bd8f26fb4a57a910cc20129
  54bd2@thingstodoinyourcity
-DTSTAMP:20261021T202426Z
+DTSTAMP:20261022T134234Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Concrete and Clay: Archiving the Barbican
 DESCRIPTION:A free installation invites visitors to orient themselves in 
- the Barbican's buildings and their complex\, fascinating histories. It i
- s an exciting new display at the heart of the Foyers.\nhttps://www.barbi
- can.org.uk/whats-on
+ the Barbican's buildings and their complex histories. It is a new displa
+ y at the heart of the Foyers.\nhttps://www.barbican.org.uk/whats-on
 LOCATION:the Barbican's Foyers\, London
 URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
@@ -304,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5d725faeaa4649fdbc7af2f9e0db1dec-occ_022a0a53b4ca4911a77a7e5b9c0
  cf9d5@thingstodoinyourcity
-DTSTAMP:20261021T224237Z
+DTSTAMP:20261022T152245Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Garry Starr Classic Penguins
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
@@ -314,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5e000c8e621d4abba1c87d7518317f70-occ_a64c4929eb99423d967ff85cae4
  6a593@thingstodoinyourcity
-DTSTAMP:20261021T224806Z
+DTSTAMP:20261022T152432Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Girls
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
@@ -334,19 +332,6 @@ DESCRIPTION:Teenagers Tisana\, Haleema and Ruha are kidnapped by militant
 LOCATION:The Maria Theatre\, 66 The Cut\, London\, United Kingdom\, SE1 8
  LZ\, West End\, London
 URL:https://bookings.whatsonstage.com/london/shows/46827-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_044eb96f15624766adccb01e6adfdf7a-occ_c62919c674964ffc8309403606e
- 59b29@thingstodoinyourcity
-DTSTAMP:20261021T204559Z
-DTSTART;VALUE=DATE:20261022
-SUMMARY:Guildhall School: Chaos
-DESCRIPTION:In a new production directed by Amelia Sears\, Laura Lomas's 
- hypnotic play follows young characters through dislocated\, interconnect
- ed scenes. It examines modern life through their eyes.\nhttps://www.barb
- ican.org.uk/whats-on
-LOCATION:London
-URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_967474630eb34f0894acb38a9c31ecd7-occ_a359698569e3477795514a2006e
@@ -423,7 +408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8438a87af1ec403a98dd5212a024d6cd-occ_7affa19dba754807802e300f763
  8c0d6@thingstodoinyourcity
-DTSTAMP:20261021T225141Z
+DTSTAMP:20261022T152518Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:London City Ballet: Firebird – A Double Bill
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
@@ -433,7 +418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0012c8bade054c6d954271130ca5fd5d-occ_c3064e8365204ed6b8f39f617d2
  34bdf@thingstodoinyourcity
-DTSTAMP:20261021T224155Z
+DTSTAMP:20261022T135442Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:London Symphony Orchestra/Sir Antonio Pappano
 DESCRIPTION:https://www.barbican.org.uk/whats-on
@@ -509,18 +494,6 @@ DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
  may
 LOCATION:Pedley Street Station\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_96435a8378fb45828c789056ebdad2a5-occ_1bbe4d9560ba4344989648a37fc
- 05675@thingstodoinyourcity
-DTSTAMP:20261021T204517Z
-DTSTART;VALUE=DATE:20261022
-SUMMARY:NAZA
-DESCRIPTION:Yuval Abraham conducts shattering one-on-one interviews with 
- Israeli soldiers and intelligence personnel. Cloaked in darkness on Tel 
- Aviv rooftops.\nhttps://www.barbican.org.uk/whats-on
-LOCATION:London
-URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5f48c349b0a2456ea5e0366941edb411-occ_f1a3b5a0fc38445fb95e047d8ae
@@ -614,6 +587,34 @@ SUMMARY:Rhyme time at Victoria Library (Thursday)
 DESCRIPTION:https://www.westminster.gov.uk/event
 LOCATION:London
 URL:https://www.westminster.gov.uk/event
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9892c5c39e314224a624c7ac342b5fff-occ_e239f8f2636b46fa8a7ece03095
+ 88a81@thingstodoinyourcity
+DTSTAMP:20261022T145427Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:SALSA\, RUM & SUGAR with Damarys' CubanSchool
+DESCRIPTION:Progressive classes with Cuban professional teachers\, ending
+  in Cuban club music and social dancing until late. A free beginner tast
+ er starts the night\; no partner needed.\nhttps://www.wherecanwego.com/i
+ tem/e1602605
+LOCATION:Doña Arepa\, 86C Stoke Newington High Street London N16 7PA\, S
+ toke Newington\, London
+URL:https://www.wherecanwego.com/item/e1602605
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9892c5c39e314224a624c7ac342b5fff-occ_18ec0102830b41e5818381ada3d
+ d6ece@thingstodoinyourcity
+DTSTAMP:20261022T145427Z
+DTSTART;VALUE=DATE:20261029
+SUMMARY:SALSA\, RUM & SUGAR with Damarys' CubanSchool
+DESCRIPTION:Progressive classes with Cuban professional teachers\, ending
+  in Cuban club music and social dancing until late. A free beginner tast
+ er starts the night\; no partner needed.\nhttps://www.wherecanwego.com/i
+ tem/e1602605
+LOCATION:Doña Arepa\, 86C Stoke Newington High Street London N16 7PA\, S
+ toke Newington\, London
+URL:https://www.wherecanwego.com/item/e1602605
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_deb5be570d72460e81d190048daab3c5-occ_90c5256a77bc49ccb031320cb32
@@ -961,18 +962,6 @@ LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8d4ddc1646964c6e86d05707a5690243-occ_9e9b84ba1eac44719c3ff920c79
- 26da2@thingstodoinyourcity
-DTSTAMP:20261021T203923Z
-DTSTART;VALUE=DATE:20261022
-SUMMARY:The Social Reckoning
-DESCRIPTION:Aaron Sorkin returns to the Metaverse with a companion piece 
- to The Social Network. It follows the whistleblower who started today's 
- social media reckoning.\nhttps://www.barbican.org.uk/whats-on
-LOCATION:London
-URL:https://www.barbican.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8f2a9276bd4249bcbdf8e4a2ca1c721a-occ_3d7ffb8c66224f03a0e8953f509
  c17bd@thingstodoinyourcity
 DTSTAMP:20261022T035329Z
@@ -1062,13 +1051,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e4298daa38544b380aaeea1e7936556-occ_ca62314218dc40e78131e350eb3
  d3999@thingstodoinyourcity
-DTSTAMP:20261021T202725Z
+DTSTAMP:20261022T132315Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Yuko Mohri: In Concert
-DESCRIPTION:Yuko Mohri transforms The Curve with a site-responsive commis
- sion on states of flux and acts of repair. It uses light\, sound and kin
- etic sculpture featuring Barbican objects.\nPrice: FREE\nhttps://www.bar
- bican.org.uk/whats-on
+DESCRIPTION:Japanese artist Yuko Mohri's new site-responsive commission e
+ xplores flux and acts of repair. It uses light\, sound and kinetic sculp
+ ture featuring Barbican objects.\nhttps://www.barbican.org.uk/whats-on
 LOCATION:The Curve\, London
 URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
@@ -1187,48 +1175,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c6dba2af752b4c298d6035d2afd7a976-occ_5ef65c7f3fde493e81fa2f59093
  a9660@thingstodoinyourcity
-DTSTAMP:20261021T210116Z
+DTSTAMP:20261022T134948Z
 DTSTART:20261022T073000Z
 SUMMARY:Morning Prayer
-DESCRIPTION:A said service of morning prayer following the Book of Common
-  Prayer. The service runs for half an hour\, from 8:30 to 9:00.\nhttps:/
- /www.templechurch.com/events
+DESCRIPTION:A said morning prayer service following the Book of Common Pr
+ ayer. It runs for half an hour.\nhttps://www.templechurch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c6dba2af752b4c298d6035d2afd7a976-occ_f72f1f2584534875ac659ded867
  09a57@thingstodoinyourcity
-DTSTAMP:20261021T210116Z
+DTSTAMP:20261022T134948Z
 DTSTART:20261027T083000Z
 SUMMARY:Morning Prayer
-DESCRIPTION:A said service of morning prayer following the Book of Common
-  Prayer. The service runs for half an hour\, from 8:30 to 9:00.\nhttps:/
- /www.templechurch.com/events
+DESCRIPTION:A said morning prayer service following the Book of Common Pr
+ ayer. It runs for half an hour.\nhttps://www.templechurch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c6dba2af752b4c298d6035d2afd7a976-occ_856c444b28b3490993843811dd5
  c70df@thingstodoinyourcity
-DTSTAMP:20261021T210116Z
+DTSTAMP:20261022T134948Z
 DTSTART:20261028T083000Z
 SUMMARY:Morning Prayer
-DESCRIPTION:A said service of morning prayer following the Book of Common
-  Prayer. The service runs for half an hour\, from 8:30 to 9:00.\nhttps:/
- /www.templechurch.com/events
+DESCRIPTION:A said morning prayer service following the Book of Common Pr
+ ayer. It runs for half an hour.\nhttps://www.templechurch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c6dba2af752b4c298d6035d2afd7a976-occ_53df4bf80a1e4eeb9750013628e
  a61ad@thingstodoinyourcity
-DTSTAMP:20261021T210116Z
+DTSTAMP:20261022T134948Z
 DTSTART:20261029T083000Z
 SUMMARY:Morning Prayer
-DESCRIPTION:A said service of morning prayer following the Book of Common
-  Prayer. The service runs for half an hour\, from 8:30 to 9:00.\nhttps:/
- /www.templechurch.com/events
+DESCRIPTION:A said morning prayer service following the Book of Common Pr
+ ayer. It runs for half an hour.\nhttps://www.templechurch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
@@ -1270,21 +1254,6 @@ DESCRIPTION:Visitors can learn how Co-op members have supported causes ac
 LOCATION:Brent Cross Shopping Centre\, Prince Charles Drive\, London NW4 
  3FP\, London
 URL:https://londonpopupcalendar.com/events/co-op-pop-up-event/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e9d8c25e873e434c86fd37060a065c97-occ_6b9151e2d8e94c32b663844e783
- 9a1a4@thingstodoinyourcity
-DTSTAMP:20261021T132402Z
-DTSTART:20261022T090000Z
-DTEND:20261022T150000Z
-SUMMARY:Discovery Hub 2026 - Day 1
-DESCRIPTION:Interactive science and creative activities and workshops on 
- the theme Create and Celebrate. Schools activities target KS2 and KS3 st
- udents\, with a general public drop-in.\nPrice: Free\nhttps://bloomsbury
- festival.org.uk/whats-on/discovery-hub-2026-school-day
-LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/discovery-hub-2026-school-
- day
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ed2e0c8685d34fb5936897568bcafb12-occ_8049cb26af344a02bb9bb334dd7
@@ -1623,7 +1592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc82cdd93af641f8834ab1bc8b33055b-occ_e16db434bf8a4c05a54390de9a1
  70a3f@thingstodoinyourcity
-DTSTAMP:20261021T231237Z
+DTSTAMP:20261022T152804Z
 DTSTART:20261022T110000Z
 DTEND:20261022T170000Z
 SUMMARY:Kitchen Joy Pop Up Restaurant
@@ -1725,59 +1694,6 @@ LOCATION:HUXLEY BUILDING\, SOUTH KENSINGTON CAMPUS\, London
 URL:https://londontalks.uk/events/8773
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_669116c8ed8c4a05b952a622741ffb47-occ_f08599ddb52f4c34b4174deeec8
- f477c@thingstodoinyourcity
-DTSTAMP:20261021T234908Z
-DTSTART:20261022T130000Z
-DTEND:20261022T141500Z
-SUMMARY:Move Fast and Innovate Things: Ukrainian Procurement
-DESCRIPTION:Presents Ukraine's shift from a Soviet-derived centralised pr
- ocurement system to a digitalised\, delegated model. It is the first tal
- k in the Lessons from Ukraine series.\nhttps://www.kcl.ac.uk/events/move
- -fast-and-innovate-things-agile-procurement-in-the-ukrainian-defence-tec
- hnology-space-with-dr-elena-davlikanova-and-chris-pool
-LOCATION:King's Building Room: Dockril Room (KIN 628)\, Strand\, London\,
-  WC2R 2LS\, Strand Campus\, London
-URL:https://www.kcl.ac.uk/events/move-fast-and-innovate-things-agile-proc
- urement-in-the-ukrainian-defence-technology-space-with-dr-elena-davlikan
- ova-and-chris-pool
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_669116c8ed8c4a05b952a622741ffb47-occ_9c213b846b4f4f49b6ef3ba8840
- 7ad03@thingstodoinyourcity
-DTSTAMP:20261021T234908Z
-DTSTART:20261022T140000Z
-DTEND:20261022T151500Z
-SUMMARY:Move Fast and Innovate Things: Ukrainian Procurement
-DESCRIPTION:Presents Ukraine's shift from a Soviet-derived centralised pr
- ocurement system to a digitalised\, delegated model. It is the first tal
- k in the Lessons from Ukraine series.\nhttps://www.kcl.ac.uk/events/move
- -fast-and-innovate-things-agile-procurement-in-the-ukrainian-defence-tec
- hnology-space-with-dr-elena-davlikanova-and-chris-pool
-LOCATION:King's Building Room: Dockril Room (KIN 628)\, Strand\, London\,
-  WC2R 2LS\, Strand Campus\, London
-URL:https://www.kcl.ac.uk/events/move-fast-and-innovate-things-agile-proc
- urement-in-the-ukrainian-defence-technology-space-with-dr-elena-davlikan
- ova-and-chris-pool
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_669116c8ed8c4a05b952a622741ffb47-occ_b96dd6b4272b44d0915100fffda
- ee911@thingstodoinyourcity
-DTSTAMP:20261021T234908Z
-DTSTART:20261022T150000Z
-SUMMARY:Move Fast and Innovate Things: Ukrainian Procurement
-DESCRIPTION:Presents Ukraine's shift from a Soviet-derived centralised pr
- ocurement system to a digitalised\, delegated model. It is the first tal
- k in the Lessons from Ukraine series.\nhttps://www.kcl.ac.uk/events/move
- -fast-and-innovate-things-agile-procurement-in-the-ukrainian-defence-tec
- hnology-space-with-dr-elena-davlikanova-and-chris-pool
-LOCATION:King's Building Room: Dockril Room (KIN 628)\, Strand\, London\,
-  WC2R 2LS\, Strand Campus\, London
-URL:https://www.kcl.ac.uk/events/move-fast-and-innovate-things-agile-proc
- urement-in-the-ukrainian-defence-technology-space-with-dr-elena-davlikan
- ova-and-chris-pool
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_631477d83eb540ecbf8a093dba4876b9-occ_b27c9f07a0ee434088bd409489d
  8374e@thingstodoinyourcity
 DTSTAMP:20261021T212150Z
@@ -1786,38 +1702,6 @@ SUMMARY:PDEs Seminar – Warren Li (Imperial College London)
 DESCRIPTION:Price: FREE\nhttps://londontalks.uk/events/8772
 LOCATION:HUXLEY BUILDING\, SOUTH KENSINGTON CAMPUS\, London
 URL:https://londontalks.uk/events/8772
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cff17e137fb4a7b9f7177f7daa2ed74-occ_77485652b02c4918ac8adbc823d
- 487a8@thingstodoinyourcity
-DTSTAMP:20261022T104730Z
-DTSTART:20261022T131500Z
-DTEND:20261022T141500Z
-SUMMARY:Workshop: Video on iPhone
-DESCRIPTION:Get to know iPhone's built-in video features\, then explore r
- ecording modes and techniques through fun activities. Bring your iPhone 
- or we’ll provide the latest.\nhttps://www.apple.com/uk/today/event/wor
- kshop-video-on-iphone/7508113407405817856/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/workshop-video-on-iphone/7508113
- 407405817856/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_33d0fd0b3a7e444a95a00ff222a2919b-occ_10702903acf74c139faf5a0090c
- c9fd1@thingstodoinyourcity
-DTSTAMP:20261021T221425Z
-DTSTART:20261022T133000Z
-DTEND:20261022T150000Z
-SUMMARY:Members' Tour: Decorative Arts that Dazzle
-DESCRIPTION:Guide Miriam Lemer leads this members-only tour of the re-ope
- ned Gilbert Collection. Highlights include mosaics\, gold boxes\, enamel
-  miniatures and masterly silver.\nPrice: Tickets cost £15.00\nhttps://w
- ww.vam.ac.uk/event/3a49DkZMK6/members-tour-decorative-arts-that-dazzle-2
-LOCATION:Blavatnik Hall\, V&A South Kensington\, Cromwell Road\, London\,
-  SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/3a49DkZMK6/members-tour-decorative-arts-t
- hat-dazzle-2
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8f6d7523dcc246e68616f9af7e933fbb-occ_27f11a26e38048798a38b79ee56
@@ -1852,67 +1736,6 @@ DESCRIPTION:A Communist official and his wife suspect Party surveillance
  l Communism fell.\nhttps://www.thegardencinema.co.uk/film/the-ear/
 LOCATION:39-41 Parker Street London WC2B 5PQ\, London
 URL:https://www.thegardencinema.co.uk/film/the-ear/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_010fc01c63e34c32948c068c91b07515-occ_3136cf8af3874c30aef2c1c7c6f
- 7cdd5@thingstodoinyourcity
-DTSTAMP:20261021T212520Z
-DTSTART:20261022T140000Z
-DTEND:20261022T150000Z
-SUMMARY:Algebra Colloquium – Stacey Law (Birmingham)
-DESCRIPTION:Price: Free\nhttps://www.imperial.ac.uk//events/description/i
- ndex.php?route=214485/algebra-colloquium-stacey-law-birmingham/
-LOCATION:642\, Huxley Building\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=214485
- /algebra-colloquium-stacey-law-birmingham/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_391daba837114ff5ae4f8bc819ed7244-occ_e8bd8f78a6fa492ebd30815d107
- e7ebe@thingstodoinyourcity
-DTSTAMP:20261021T213055Z
-DTSTART:20261022T140000Z
-DTEND:20261022T150000Z
-SUMMARY:Analysis and Probability Seminar – Barbara Nelli
-DESCRIPTION:Talk on the Jenkins-Serrin theorem reloaded: minimal graphs i
- n Killing submersions. Open to all\, with drop-in tickets.\nPrice: Free\
- nhttps://www.imperial.ac.uk//events/description/index.php?route=214477/a
- nalysis-and-probability-seminar-barbara-nelli-laquila-and-qing-han-unive
- rsity-of-notre-dame/
-LOCATION:UCL\, 34 TAVISTOCK SQUARE\, LONDON\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=214477
- /analysis-and-probability-seminar-barbara-nelli-laquila-and-qing-han-uni
- versity-of-notre-dame/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ced62c446c794784b9c6e7ea70c429b2-occ_a853f2d2fa0942fe88603f39482
- 89830@thingstodoinyourcity
-DTSTAMP:20261021T234829Z
-DTSTART:20261022T140000Z
-DTEND:20261022T150000Z
-SUMMARY:Crick Lecture | Nate Goehring
-DESCRIPTION:Senior Group Leader Nate Goehring studies how the PAR cell po
- larity network shapes embryo development. Talks are aimed at scientists 
- with graduate-level biology knowledge.\nhttps://lectures.london/the-fran
- cis-crick-institute/crick-lecture-nate-goehring/
-LOCATION:The Francis Crick Institute\, 1 Midland Road London NW1 1AT\, Lo
- ndon
-URL:https://lectures.london/the-francis-crick-institute/crick-lecture-nat
- e-goehring/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ced62c446c794784b9c6e7ea70c429b2-occ_b78c811a0494452996d25e04a0d
- d0361@thingstodoinyourcity
-DTSTAMP:20261021T234829Z
-DTSTART:20261022T160000Z
-SUMMARY:Crick Lecture | Nate Goehring
-DESCRIPTION:Senior Group Leader Nate Goehring studies how the PAR cell po
- larity network shapes embryo development. Talks are aimed at scientists 
- with graduate-level biology knowledge.\nhttps://lectures.london/the-fran
- cis-crick-institute/crick-lecture-nate-goehring/
-LOCATION:The Francis Crick Institute\, 1 Midland Road London NW1 1AT\, Lo
- ndon
-URL:https://lectures.london/the-francis-crick-institute/crick-lecture-nat
- e-goehring/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_83e4e2c7e8f94b8e8514d8cdc0f0f995-occ_a9aef61addf04d688b3719e0f19
@@ -1980,20 +1803,6 @@ LOCATION:London
 URL:https://www.genesiscinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_11d38ae1909647a98c0013eeca7bc67c-occ_f4ddc1fb2d5a481ea241989c17d
- 9f195@thingstodoinyourcity
-DTSTAMP:20261022T040819Z
-DTSTART:20261022T143000Z
-DTEND:20261022T160600Z
-SUMMARY:Perfect Blue
-DESCRIPTION:https://princecharlescinema.com/prince-charles-cinema/booknow
- /31627618/
-LOCATION:Screen 2 Upstairs\, The Prince Charles Cinema\, 7 Leicester Pl\,
-  London\, WC2H 7BY\, London
-URL:https://princecharlescinema.com/prince-charles-cinema/booknow/3162761
- 8/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_200dafaafd954ce2bce27d3c4c92cd67-occ_246a3f6a98404155b77daf1f8a3
  07cc2@thingstodoinyourcity
 DTSTAMP:20261022T035512Z
@@ -2019,19 +1828,21 @@ URL:https://www.soas.ac.uk/about/event/birth-indian-liberalism-mama-parma
  nands-letters-indian-raja
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8150b86c7d164af8a6712a157ad5ed33-occ_70274e8680394178b06940d93bd
- 5c4a1@thingstodoinyourcity
-DTSTAMP:20261021T215519Z
+UID:cand_669116c8ed8c4a05b952a622741ffb47-occ_b96dd6b4272b44d0915100fffda
+ ee911@thingstodoinyourcity
+DTSTAMP:20261021T234908Z
 DTSTART:20261022T150000Z
-DTEND:20261022T160000Z
-SUMMARY:Fixing broken labour markets
-DESCRIPTION:Arin Dube and Stephen Machin discuss what the UK and US can l
- earn from each other. Open to attend in person or watch via YouTube.\nPr
- ice: Free\nhttps://www.resolutionfoundation.org/events/fixing-broken-lab
- our-markets/
-LOCATION:2 Queen Anne's Gate\, London SW1H 9AA\, London
-URL:https://www.resolutionfoundation.org/events/fixing-broken-labour-mark
- ets/
+SUMMARY:Move Fast and Innovate Things: Ukrainian Procurement
+DESCRIPTION:Presents Ukraine's shift from a Soviet-derived centralised pr
+ ocurement system to a digitalised\, delegated model. It is the first tal
+ k in the Lessons from Ukraine series.\nhttps://www.kcl.ac.uk/events/move
+ -fast-and-innovate-things-agile-procurement-in-the-ukrainian-defence-tec
+ hnology-space-with-dr-elena-davlikanova-and-chris-pool
+LOCATION:King's Building Room: Dockril Room (KIN 628)\, Strand\, London\,
+  WC2R 2LS\, Strand Campus\, London
+URL:https://www.kcl.ac.uk/events/move-fast-and-innovate-things-agile-proc
+ urement-in-the-ukrainian-defence-technology-space-with-dr-elena-davlikan
+ ova-and-chris-pool
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_50241ce2926649b09be222b416b392f9-occ_8c94583dc61e4d6396088528f78
@@ -2058,21 +1869,6 @@ LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
  don
 URL:https://www.apple.com/uk/today/event/photo-tour-portraits-on-location
  /7508113515803410432/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8f376a1295d5402e871ec7b1f79ab3f7-occ_d0f93558207d4a039b729734145
- f058b@thingstodoinyourcity
-DTSTAMP:20261021T234432Z
-DTSTART:20261022T150000Z
-DTEND:20261022T160000Z
-SUMMARY:Plato on Truth\, Lies and Power
-DESCRIPTION:The lecture engages with Plato's Gorgias and its critique of 
- professional rhetoric. It asks how lies can foment power\, and whether s
- peaking truth to power is possible.\nhttps://lectures.london/gresham-col
- lege/plato-on-truth-lies-and-power/
-LOCATION:London
-URL:https://lectures.london/gresham-college/plato-on-truth-lies-and-power
- /
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ffc948bff660478d9a6791c1390c0746-occ_24076864e8a342a1aa35a703e61
@@ -2127,6 +1923,21 @@ DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/s
  g_18653880
 LOCATION:Ronnie Scott's\, 47 Frith Street London\, UK\, London
 URL:https://yournearevents.com/event/sg_18653880
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ced62c446c794784b9c6e7ea70c429b2-occ_b78c811a0494452996d25e04a0d
+ d0361@thingstodoinyourcity
+DTSTAMP:20261021T234829Z
+DTSTART:20261022T160000Z
+SUMMARY:Crick Lecture | Nate Goehring
+DESCRIPTION:Senior Group Leader Nate Goehring studies how the PAR cell po
+ larity network shapes embryo development. Talks are aimed at scientists 
+ with graduate-level biology knowledge.\nhttps://lectures.london/the-fran
+ cis-crick-institute/crick-lecture-nate-goehring/
+LOCATION:The Francis Crick Institute\, 1 Midland Road London NW1 1AT\, Lo
+ ndon
+URL:https://lectures.london/the-francis-crick-institute/crick-lecture-nat
+ e-goehring/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c4430d550a884b56bbefda15b03fefad-occ_6f2f84ea874e46c29ffd130344e
@@ -2313,7 +2124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b68d9b9b169946f3a25e8a25d375f5b9-occ_6bc220c54f904af598a9b16b422
  3a333@thingstodoinyourcity
-DTSTAMP:20261021T232113Z
+DTSTAMP:20261022T153049Z
 DTSTART:20261022T164500Z
 SUMMARY:Philosophy and the Law: Homicide Consultation Paper
 DESCRIPTION:https://www.middletemple.org.uk/civicrm/event/list?reset=1
@@ -2346,10 +2157,10 @@ SUMMARY:EDI: Support and Allyship at the Bar - QS
 DESCRIPTION:Practitioners experienced in EDI concerns discuss support and
   allyship across the Bar. Invitation only\, focusing on committees and o
  rganisations.\nPrice: Not listed — worth a quick ask\nhttps://www.inne
- rtemple.org.uk/events/02145-edi-support-and-allyship-at-the-bar-qs/
+ rtemple.org.uk/events/02145-edi-support-and-allyship-at-the-bar-qs
 LOCATION:Online Event\, 45 Pont Street\, London\, SW1X 0BD\, London
 URL:https://www.innertemple.org.uk/events/02145-edi-support-and-allyship-
- at-the-bar-qs/
+ at-the-bar-qs
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7d5f85144024f16b5389e8c16fa7905-occ_9747b6c81f0d469db5d72cf9a64
@@ -3331,15 +3142,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8ec781ae248445238f2f549e47f4e28b-occ_0cd8cacff94c421bbfb675f9d56
  89bef@thingstodoinyourcity
-DTSTAMP:20261021T215917Z
+DTSTAMP:20261022T134626Z
 DTSTART:20261022T180000Z
 DTEND:20261022T193000Z
 SUMMARY:How We Made It with Sahra Hersi
 DESCRIPTION:Sahra Hersi reflects on her practice and her X Selects displa
- y in V&A East's Why We Make galleries. In conversation with curator Chlo
- e Kellow\, she discusses making it.\nPrice: Free\nhttps://www.vam.ac.uk/
- event/P0wWJAWO6w1/how-we-made-it-with-sahra-hersi-oct-2026
-LOCATION:V&A East Museum\, 107 Carpenters Rd\, London\, E20 2AR\, London
+ y at V&A East. In conversation with curator Chloe Kellow\, she discusses
+  her journey into making.\nPrice: Free event\nhttps://www.vam.ac.uk/even
+ t/P0wWJAWO6w1/how-we-made-it-with-sahra-hersi-oct-2026
+LOCATION:V&A East Museum\, 107 Carpenters Rd London\, E20 2AR\, London
 URL:https://www.vam.ac.uk/event/P0wWJAWO6w1/how-we-made-it-with-sahra-her
  si-oct-2026
 END:VEVENT
@@ -3419,6 +3230,20 @@ URL:https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-o
  f-an-icon/frida-kahlo
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_19967a3d0f2a4ee7a6668e9d10b02ffc-occ_dc73ad3664e54396bfd930a7129
+ f2e2f@thingstodoinyourcity
+DTSTAMP:20261022T143504Z
+DTSTART:20261022T180000Z
+SUMMARY:Space Hippo by Mochinosha
+DESCRIPTION:Earth is doomed\, so a hippo is sent into space in this shado
+ w-puppet sci-fi epic. Hundreds of handmade puppets and live music create
+  a Japanese intergalactic adventure.\nPrice: £10.00 - £25.00\nhttps://
+ www.jacksonslane.org.uk/events/space-hippo-mochinosha/
+LOCATION:Jacksons Lane\, Jacksons Lane\, 269a Archway Road\, London N6 5A
+ A\, London
+URL:https://www.jacksonslane.org.uk/events/space-hippo-mochinosha/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_86325a7db8cb44a29521070811616202-occ_b1798fb1b26849b08ec4374c09d
  cb133@thingstodoinyourcity
 DTSTAMP:20261021T215917Z
@@ -3436,14 +3261,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9ed600d9e2f54f83aeaf66ed197a05e4-occ_81c0c647ba1c4145b4ff2d24607
  f5a7d@thingstodoinyourcity
-DTSTAMP:20261021T220207Z
+DTSTAMP:20261022T135036Z
 DTSTART:20261022T180000Z
 DTEND:20261022T190000Z
 SUMMARY:The Romance of Classicism (Livestream)
-DESCRIPTION:Architect George Saumarez Smith discusses his new book with J
- eremy Musson. Illustrated with the book's images\, the talk is also reco
- rded for three months after it streams.\nPrice: £8.00\nhttps://www.vam.
- ac.uk/event/LzRnGo8d3xx/the-romance-of-classicism-livestream
+DESCRIPTION:George Saumarez Smith discusses his new book on modern classi
+ cism with Jeremy Musson. The talk is streamed on Zoom and recorded for t
+ hree months afterwards.\nPrice: £8.00\nhttps://www.vam.ac.uk/event/LzRn
+ Go8d3xx/the-romance-of-classicism-livestream
 LOCATION:Online\, London
 URL:https://www.vam.ac.uk/event/LzRnGo8d3xx/the-romance-of-classicism-liv
  estream
@@ -4248,7 +4073,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4e524fd5529c4ca1b0f21c2b122e2a7d-occ_ddbed24166ed44a9880c44b56ae
  89018@thingstodoinyourcity
-DTSTAMP:20261021T214821Z
+DTSTAMP:20261022T135352Z
 DTSTART:20261022T194000Z
 SUMMARY:The Uprising
 DESCRIPTION:https://www.peckhamplex.london/films/listings
@@ -4331,7 +4156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7a0ed38d00942d5a9cfeea14a2b5096-occ_891066cb3eec4687933c203cf3f
  1e1c6@thingstodoinyourcity
-DTSTAMP:20261021T220104Z
+DTSTAMP:20261022T135853Z
 DTSTART:20261022T200000Z
 SUMMARY:The Social Reckoning
 DESCRIPTION:https://www.peckhamplex.london/films/listings
@@ -4341,7 +4166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_11677c68521e4701b31abc7138b405ee-occ_29b9e7e84b3847d3a50c3254ae7
  a170f@thingstodoinyourcity
-DTSTAMP:20261021T220103Z
+DTSTAMP:20261022T135853Z
 DTSTART:20261022T201000Z
 SUMMARY:Resident Evil
 DESCRIPTION:https://www.peckhamplex.london/films/listings
@@ -5028,27 +4853,6 @@ URL:https://www.rbkc.gov.uk/events/spanish-conversation-class-kensal-libr
  ary
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2130043b7cfd4542a81b2faacef30570-occ_5a74f00abab443f9baf7d4fe598
- 8473b@thingstodoinyourcity
-DTSTAMP:20261022T055617Z
-DTSTART:20261023T101500Z
-DTEND:20261023T111500Z
-SUMMARY:Talk: The story of the Temple Church
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2130043b7cfd4542a81b2faacef30570-occ_2fcc95b1a8ae4c0cae86dfd7bc0
- 4016c@thingstodoinyourcity
-DTSTAMP:20261022T055617Z
-DTSTART:20261029T111500Z
-SUMMARY:Talk: The story of the Temple Church
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5ab0afea883d4a0590389ec100336cc3-occ_0be2f21f8b8c4fbd855689d9204
  04bcb@thingstodoinyourcity
 DTSTAMP:20261022T060329Z
@@ -5390,6 +5194,19 @@ URL:https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectIte
  76.TcsSection_3060731
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8a41fbcec8684f4f88e53388a1afd927-occ_eacab178d974426f94479434467
+ 07abe@thingstodoinyourcity
+DTSTAMP:20261022T145100Z
+DTSTART:20261023T133000Z
+SUMMARY:Space Hamlet
+DESCRIPTION:A madcap cosmic glam rock musical reimagining Hamlet with pup
+ pets\, Norse gods and a cast of eight. Contains adult language and puppe
+ t violence\; suitable for ages 12 and up.\nPrice: Previews: £12\nhttps:
+ //www.thecockpit.org.uk/show/space_hamlet
+LOCATION:The Cockpit\, Gateforth Street\, London NW8 8EH\, London
+URL:https://www.thecockpit.org.uk/show/space_hamlet
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6cba0ab738ab4b6b89b14e5abcc2b7c3-occ_bdb6ef2f07f442a3896dc3036db
  8844c@thingstodoinyourcity
 DTSTAMP:20261022T064601Z
@@ -5434,6 +5251,16 @@ DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/s
  g_18653881
 LOCATION:Ronnie Scott's\, 47 Frith Street London\, UK\, London
 URL:https://yournearevents.com/event/sg_18653881
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d5df8929dd53441daad7e3929ecc9ab8-occ_40ce6ec239f64c6ca5e5662e93a
+ 25be7@thingstodoinyourcity
+DTSTAMP:20261021T172600Z
+DTSTART:20261026T113000Z
+SUMMARY:National Art Library and Archive talks
+DESCRIPTION:https://londontalks.uk/
+LOCATION:V&A SOUTH KENSINGTON\, London
+URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f515d9d481fd49d88135376670ab0082-occ_17e47ec9138947ce86880dacc3d
@@ -6379,10 +6206,11 @@ DTSTART:20261028T210000Z
 SUMMARY:Mystery Horror Movie
 DESCRIPTION:HorrOctober's Mystery Movie strand screens four mystery horro
  r films over four weeks. No hints\, clues or refunds: the title stays se
- cret until you watch.\nhttps://princecharlescinema.com
+ cret until you watch.\nhttps://princecharlescinema.com/film/31617164/mys
+ tery-horror-movie
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com
+URL:https://princecharlescinema.com/film/31617164/mystery-horror-movie
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_9d2614438d91483b8daf5243b34
