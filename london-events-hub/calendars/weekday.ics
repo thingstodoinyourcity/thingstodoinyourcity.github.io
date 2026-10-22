@@ -68,18 +68,6 @@ LOCATION:Alcotraz Penitentiary: London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d0571ac719ed49e0a2286439f969e815-occ_1f209b634e824a288233aa27f05
- f7119@thingstodoinyourcity
-DTSTAMP:20261021T202722Z
-DTSTART;VALUE=DATE:20261022
-SUMMARY:Architecture Tours
-DESCRIPTION:Step into the heart of London’s Brutalist legacy. The tour 
- is listed under Tours & Public Spaces.\nhttps://www.barbican.org.uk/what
- s-on
-LOCATION:London
-URL:https://www.barbican.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_84b3dfe1d06f49cfa55d083f4b7e075a-occ_8ba58766f30042c7873e7af754e
  0395e@thingstodoinyourcity
 DTSTAMP:20261021T152711Z
@@ -121,6 +109,21 @@ LOCATION:Milton Court Concert Hall\, Milton Court\, Silk St\, London EC2Y
   9BH\, London
 URL:https://www.barbican.org.uk/whats-on/2026/event/britten-sinfonia-anci
  ent-greek-meze
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_47f74e452fef42ffa7632275c0fdf634-occ_a54e8c7e29bb4f72a441b9fbbc8
+ 20684@thingstodoinyourcity
+DTSTAMP:20261022T120814Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Cabaret @ Kit Kat Club at the Playhouse
+DESCRIPTION:A record-breaking seven Olivier Awards winner\, including Bes
+ t Musical Revival. An intimate\, electrifying new production welcoming a
+ udiences to the Kit Kat Club.\nPrice: from £30.00\nhttps://theatresonli
+ ne.com/shows/kit-kat-club-at-the-playhouse/cabaret
+LOCATION:Kit Kat Club at the Playhouse\, Northumberland Ave\,\, London\, 
+ WC2N 5DE\, London
+URL:https://theatresonline.com/shows/kit-kat-club-at-the-playhouse/cabare
+ t
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_765d6eeac5134b8fbf3bc0519f3d5ae3-occ_794b25e5ea854f30bb441c2e0c0
@@ -264,6 +267,20 @@ LOCATION:The Lady Ottoline\, 11A Northington St \, WC1N 2JF\, London
 URL:https://www.culturequesthunt.com/event-list
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8e3b7e9bc07c4d2eb68a577369df3ed9-occ_a668a5b83e934f2e9e28cbdf679
+ 0d53f@thingstodoinyourcity
+DTSTAMP:20261022T110904Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Disney’s The Lion King
+DESCRIPTION:Now in its 22nd year at London’s Lyceum Theatre\, it has be
+ en seen by over 110 million people worldwide. Listed performances start 
+ at 14:30 or 19:30\, from £38.00.\nPrice: from £38.00\nhttps://theatres
+ online.com/shows/lyceum-theatre/disneys-the-lion-king
+LOCATION:Lyceum Theatre\, 21 Wellington Street\, London\, WC2E 7RQ\, Lond
+ on
+URL:https://theatresonline.com/shows/lyceum-theatre/disneys-the-lion-king
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ab4ecdc2326a4352984c669b8be36610-occ_1bb20f0acc6f4b05b628b34c4d5
  1d9e3@thingstodoinyourcity
 DTSTAMP:20261022T082021Z
@@ -332,6 +349,20 @@ LOCATION:London
 URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_967474630eb34f0894acb38a9c31ecd7-occ_a359698569e3477795514a2006e
+ cd6ee@thingstodoinyourcity
+DTSTAMP:20261022T110933Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Hamilton
+DESCRIPTION:Lin-Manuel Miranda's award-winning musical follows Alexander 
+ Hamilton\, Washington's right-hand man. Its score blends hip-hop\, jazz\
+ , blues\, rap\, R&B and Broadway.\nhttps://theatresonline.com/shows/vict
+ oria-palace-theatre/hamilton
+LOCATION:Victoria Palace Theatre\, Victoria St\, London\, SW1E 5EA\, Lond
+ on
+URL:https://theatresonline.com/shows/victoria-palace-theatre/hamilton
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b23cca1300c54a5cb777951701be4d3f-occ_0106d3424d7f4bee9d4a10f9d91
  e408e@thingstodoinyourcity
 DTSTAMP:20261022T081830Z
@@ -345,7 +376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a7246c9456743c0a96c67ae53f7ff35-occ_9a6c25911e4941649519e1e01bc
  d1314@thingstodoinyourcity
-DTSTAMP:20261021T151950Z
+DTSTAMP:20261022T130327Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Hop Skotshne Klezmer Band
 DESCRIPTION:https://www.artsdepot.co.uk/whats-on
@@ -373,6 +404,21 @@ SUMMARY:Katherine Jenkins
 DESCRIPTION:https://www.atgtickets.com/whats-on/
 LOCATION:Aylesbury Waterside Theatre\, London
 URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b48c79bc26341b38ead51d26b4fbd41-occ_db0b225958424bf686101d852f4
+ 193be@thingstodoinyourcity
+DTSTAMP:20261022T111003Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Les Misérables: Staged Concert
+DESCRIPTION:Cameron Mackintosh’s fully-staged new production of Les Mis
+ érables is now open in the West End. The score includes “I Dreamed a 
+ Dream” and “One Day More.”\nhttps://theatresonline.com/shows/sondh
+ eim-theatre/les-miserables-staged-concert
+LOCATION:Sondheim Theatre\, 51 Shaftesbury Ave\, London\, W1D 6BA\, Londo
+ n
+URL:https://theatresonline.com/shows/sondheim-theatre/les-miserables-stag
+ ed-concert
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8438a87af1ec403a98dd5212a024d6cd-occ_7affa19dba754807802e300f763
@@ -430,6 +476,20 @@ LOCATION:Moonshine Saloon\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d19e43cc3431429585caeb9024ee3a92-occ_15e76155d60649e8a94a46041ea
+ 9e8ea@thingstodoinyourcity
+DTSTAMP:20261022T120934Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Moulin Rouge! The Musical
+DESCRIPTION:Splendour\, romance and eye-popping excess\, where Bohemians 
+ and aristocrats rub elbows. Performances are listed at 14:30 and 19:30 a
+ cross October 2026.\nPrice: from £21.17\nhttps://theatresonline.com/sho
+ ws/piccadilly-theatre/moulin-rouge-the-musical
+LOCATION:Piccadilly Theatre\, Denman Street\, London\, W1D 7DY\, London
+URL:https://theatresonline.com/shows/piccadilly-theatre/moulin-rouge-the-
+ musical
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3979c4dfe7df4ecbb434226ebc613cb9-occ_944eedf09af5446e9a756a494aa
  1220d@thingstodoinyourcity
 DTSTAMP:20261022T042134Z
@@ -476,6 +536,47 @@ DESCRIPTION:Four ordinary lads form Joy Division in this play\, drawing o
 LOCATION:Bloomsbury Theatre\, Bloomsbury Theatre & Studio 15 Gordon Stree
  t\, London\, WC1H 0AH\, London
 URL:https://www.bloomsburytheatre.com/event/2026/10/new-dawn-fades
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9203fafa6d3441c59fa404612ebdf3b3-occ_5ab8d4b8a8ec47beb696bccf6fc
+ c537c@thingstodoinyourcity
+DTSTAMP:20261022T111415Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Operation Mincemeat: A New Musical
+DESCRIPTION:A hilarious\, sharp-witted musical about a real-life\, extrem
+ ely bizarre WWII operation. It has garnered 64 five-star reviews and una
+ nimous critical acclaim.\nPrice: from £49.50 to £59.50\nhttps://theatr
+ esonline.com/shows/fortune-theatre/operation-mincemeat-a-new-musical
+LOCATION:Fortune Theatre\, Russell Street\, West End\, London\, WC2B 5HH\
+ , West End\, London
+URL:https://theatresonline.com/shows/fortune-theatre/operation-mincemeat-
+ a-new-musical
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f33fd73e62f43bca961e6978e1df2f5-occ_b82fff09100c45e197666e6403b
+ 1bf97@thingstodoinyourcity
+DTSTAMP:20261022T111233Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Paddington The Musical
+DESCRIPTION:A rather wonderful adventure is about to begin. The world pre
+ miere of PADDINGTON The Musical lands in London’s West End this autumn
+ .\nhttps://theatresonline.com/shows/savoy-theatre/paddington-the-musical
+LOCATION:Savoy Theatre\, Savoy Court\, The Strand\, London\, WC2R 0ET\, L
+ ondon
+URL:https://theatresonline.com/shows/savoy-theatre/paddington-the-musical
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f33fd73e62f43bca961e6978e1df2f5-occ_11094b57b1da41f0b641e3d779e
+ 726e5@thingstodoinyourcity
+DTSTAMP:20261022T111233Z
+DTSTART;VALUE=DATE:20270330
+SUMMARY:Paddington The Musical
+DESCRIPTION:A rather wonderful adventure is about to begin. The world pre
+ miere of PADDINGTON The Musical lands in London’s West End this autumn
+ .\nhttps://theatresonline.com/shows/savoy-theatre/paddington-the-musical
+LOCATION:Savoy Theatre\, Savoy Court\, The Strand\, London\, WC2R 0ET\, L
+ ondon
+URL:https://theatresonline.com/shows/savoy-theatre/paddington-the-musical
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_45a4a86f8464423999f306c27074c089-occ_edb4ab58a1f04d35af1781f4109
@@ -527,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a9b9ec4d37e403eb45ac495f13c0fe4-occ_97ad952937034a06b1ce26d4a11
  f64f7@thingstodoinyourcity
-DTSTAMP:20261021T151949Z
+DTSTAMP:20261022T130411Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Scummy Mummies: Hot Mess
 DESCRIPTION:https://www.artsdepot.co.uk/whats-on
@@ -559,6 +660,21 @@ DESCRIPTION:Imamura's debut follows a down-and-out kabuki troupe and thei
  imamura-stolen-desire
 LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/imamura-stolen-desire
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b786428160ae45fd8422524d38cc60a0-occ_877d6c213ffd4291a1c5d621902
+ 61c31@thingstodoinyourcity
+DTSTAMP:20261022T110759Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Stranger Things: The First Shadow
+DESCRIPTION:Get ready to journey into the supernatural world of this stag
+ e production. The listing shows performance times across October 2026.\n
+ https://theatresonline.com/shows/the-phoenix/stranger-things-the-first-s
+ hadow
+LOCATION:Phoenix Theatre\, Charing Cross Road\, London\, WC2h 0JP\, Londo
+ n
+URL:https://theatresonline.com/shows/the-phoenix/stranger-things-the-firs
+ t-shadow
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8ccaab0168c8438f953b513d2ffd5b3e-occ_297573e7a5154b8eb3678f4bd15
@@ -601,6 +717,21 @@ LOCATION:INSTITUTE OF CONTEMPORARY ARTS\, LONDON\, London
 URL:https://londontalks.uk/events/8008
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4bd0482af2ea4f2cb4218da913038d7a-occ_960c926da99847ae92d336bcede
+ a2ba0@thingstodoinyourcity
+DTSTAMP:20261022T110736Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:The Devil Wears Prada @ Dominion Theatre
+DESCRIPTION:A new musical based on the blockbuster film and bestselling n
+ ovel\, with an original score by Elton John and lyrics by Shaina Taub. J
+ erry Mitchell directs and choreographs.\nhttps://theatresonline.com/show
+ s/dominion-theatre/the-devil-wears-prada
+LOCATION:Dominion Theatre\, 268-269 Tottenham Court Road\, London\, W1T 7
+ AQ\, London
+URL:https://theatresonline.com/shows/dominion-theatre/the-devil-wears-pra
+ da
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5ca4cb8cac23427d9bb427c587836f6c-occ_e5785c2906114984889ef082352
  102de@thingstodoinyourcity
 DTSTAMP:20261022T043607Z
@@ -609,6 +740,215 @@ SUMMARY:The End of the World According to Jonathan Pie
 DESCRIPTION:https://www.atgtickets.com/whats-on/
 LOCATION:Victoria Hall\, Stoke-on-Trent\, London
 URL:https://www.atgtickets.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_cad809e9db0e47c094dc12c8647
+ 3be67@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_de24ff485cd74e52bc94804d372
+ bc133@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20261026
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_ba37eeb5486f4c508c36817fcc5
+ fbaa3@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_d5ba87461ece4cbd9e4e78947fb
+ 555c4@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270125
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_a3192ee7c794427cad720fe7505
+ 1da55@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270301
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_38a595dacc8e443f9e8ca6471fc
+ f49a9@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270322
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_99cb359d82624669ac04805dbf3
+ 37015@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270405
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_c14ebef099104c968f26c6fdb9a
+ d5799@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270412
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_39507b036b714094aac1d6fd7f1
+ 9e48f@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270426
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_3eb7e96d0d2443eb8da00432ac6
+ 4bffa@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270621
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_b72f0076e8de478f9d554eb3844
+ 74019@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20270907
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9c51347ff4a744d482ce6b32b8e08afa-occ_0781fe741ec14ed3b36f43b10ff
+ 51532@thingstodoinyourcity
+DTSTAMP:20261022T111159Z
+DTSTART;VALUE=DATE:20271018
+SUMMARY:The Mousetrap
+DESCRIPTION:Seven strangers snowed in at a countryside guesthouse learn a
+  killer is among them. Agatha Christie's genre-defining murder mystery h
+ as run for almost 70 years.\nhttps://theatresonline.com/show/the-mousetr
+ ap
+LOCATION:St Martin's Theatre\, London
+URL:https://theatresonline.com/show/the-mousetrap
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dc94809230b340658936d17923930add-occ_debabd90bde742e895f32a0ed47
+ 79b22@thingstodoinyourcity
+DTSTAMP:20261022T114203Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:The Phantom of the Opera
+DESCRIPTION:Andrew Lloyd Webber's musical is celebrating its 35th anniver
+ sary in the West End. Killian Donnelly stars as the Phantom\, with Lucy 
+ St. Louis and Rhys Whitfield.\nPrice: from £100.25\nhttps://theatre.tic
+ ketmaster.co.uk/book/1FU7R-the-phantom-of-the-opera/?utm_medium=affiliat
+ e&clickId=S75zSzQ8QxyZUOpVAf2uwVWbUkr302UHq1BrS00&utm_campaign=1299588&u
+ tm_source=1299588-Theatres%20Online&camefrom=CFC_BUYAT_1299588&ircid=240
+ 23&irgwc=1&afsrc=1
+LOCATION:Her Majesty's Theatre\, Haymarket\, London\, SW1Y 4QL\, London
+URL:https://theatre.ticketmaster.co.uk/book/1FU7R-the-phantom-of-the-oper
+ a/?utm_medium=affiliate&clickId=S75zSzQ8QxyZUOpVAf2uwVWbUkr302UHq1BrS00&
+ utm_campaign=1299588&utm_source=1299588-Theatres%20Online&camefrom=CFC_B
+ UYAT_1299588&ircid=24023&irgwc=1&afsrc=1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dc94809230b340658936d17923930add-occ_8917a09e489146809569b8330c1
+ 360f9@thingstodoinyourcity
+DTSTAMP:20261022T114203Z
+DTSTART:20261022T183000Z
+SUMMARY:The Phantom of the Opera
+DESCRIPTION:Andrew Lloyd Webber's musical is celebrating its 35th anniver
+ sary in the West End. Killian Donnelly stars as the Phantom\, with Lucy 
+ St. Louis and Rhys Whitfield.\nPrice: from £100.25\nhttps://theatre.tic
+ ketmaster.co.uk/book/1FU7R-the-phantom-of-the-opera/?utm_medium=affiliat
+ e&clickId=S75zSzQ8QxyZUOpVAf2uwVWbUkr302UHq1BrS00&utm_campaign=1299588&u
+ tm_source=1299588-Theatres%20Online&camefrom=CFC_BUYAT_1299588&ircid=240
+ 23&irgwc=1&afsrc=1
+LOCATION:Her Majesty's Theatre\, Haymarket\, London\, SW1Y 4QL\, London
+URL:https://theatre.ticketmaster.co.uk/book/1FU7R-the-phantom-of-the-oper
+ a/?utm_medium=affiliate&clickId=S75zSzQ8QxyZUOpVAf2uwVWbUkr302UHq1BrS00&
+ utm_campaign=1299588&utm_source=1299588-Theatres%20Online&camefrom=CFC_B
+ UYAT_1299588&ircid=24023&irgwc=1&afsrc=1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_018503d9d1a54daca37c7c8cd445469c-occ_6feb003ab588478c8eb51123ff6
+ ac67d@thingstodoinyourcity
+DTSTAMP:20261022T110829Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:The Play That Goes Wrong
+DESCRIPTION:The Cornley Drama Society stages a 1920s murder mystery where
+  everything that can go wrong does. Ant & Dec called it the funniest sho
+ w they've seen.\nhttps://theatresonline.com/shows/duchess-theatre/the-pl
+ ay-that-goes-wrong
+LOCATION:Duchess Theatre\, Catherine Street\, West End\, London\, WC2B 5L
+ A\, West End\, London
+URL:https://theatresonline.com/shows/duchess-theatre/the-play-that-goes-w
+ rong
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_876ed870261f403c9dd8907db059af5b-occ_7673f5f36b174434b68d257c217
@@ -673,6 +1013,21 @@ LOCATION:Cinema 1\, Barbican Centre Silk Street\, London EC2Y 8DS\, Londo
  n
 URL:https://www.barbican.org.uk/whats-on/2026/event/docn-roll-film-festiv
  al-wolf-screentalk
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bc961e1c6e454ace9eb16b44ee808563-occ_01edc53dca4f49209dcaa721392
+ e873c@thingstodoinyourcity
+DTSTAMP:20261022T110904Z
+DTSTART;VALUE=DATE:20261022
+SUMMARY:Wicked The Musical
+DESCRIPTION:Currently starring Alexia Khadime as Elphaba with Lucy St. Lo
+ uis as Glinda. The West End and Broadway musical has won more than 100 g
+ lobal awards.\nPrice: from £25.00\nhttps://theatresonline.com/shows/apo
+ llo-victoria-theatre/wicked-the-musical
+LOCATION:Apollo Victoria Theatre\, 17 Wilton Road\, London\, London\, SW1
+ V 1LG\, London
+URL:https://theatresonline.com/shows/apollo-victoria-theatre/wicked-the-m
+ usical
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e38390bb89fd4c3786640288cc22e569-occ_035bed69a9c9456dba528ee61dd
@@ -876,246 +1231,6 @@ DESCRIPTION:A said service of morning prayer following the Book of Common
  /www.templechurch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_9977b83982784beead643c3b19e
- 5d056@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261022T083000Z
-DTEND:20261022T113000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_9d2614438d91483b8daf5243b34
- 5f692@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261029T093000Z
-DTEND:20261029T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5aa3f9b3056244cf8b5ce923167
- 164f9@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261105T093000Z
-DTEND:20261105T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_32ff97540ace4006ae7771c4262
- f0b0a@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261112T093000Z
-DTEND:20261112T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_271bf10b35da4bdc8e26bcbce9d
- c612c@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261119T093000Z
-DTEND:20261119T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_e81f9b056c59485da18052fcbde
- 49a38@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261126T093000Z
-DTEND:20261126T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_6991f485c6564ffeafebbffaae5
- 8e61e@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261203T093000Z
-DTEND:20261203T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_ed714b1debda4957b249414b3e1
- 6fb2c@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261210T093000Z
-DTEND:20261210T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_2cfeb0c03142458eac1d17b0120
- 6b5f4@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261217T093000Z
-DTEND:20261217T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_aaa69642f2304d439124d21082b
- 7d76a@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261224T093000Z
-DTEND:20261224T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_8146270319fe413786e5198572f
- 4c780@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20261231T093000Z
-DTEND:20261231T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_f2d039eb183448939ba2c82c6da
- 5e106@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20270107T093000Z
-DTEND:20270107T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5a4f7cec1bc04657856a47079a0
- bce64@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20270114T093000Z
-DTEND:20270114T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_91ae095070f444fc8ee41b35786
- c9a69@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20270121T093000Z
-DTEND:20270121T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5392532f43ec44fc972e2e3eb9f
- 0a20e@thingstodoinyourcity
-DTSTAMP:20261021T222029Z
-DTSTART:20270128T093000Z
-DTEND:20270128T123000Z
-SUMMARY:Stop Smoking Cessations at Church Street Library
-DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
- weight\, exercise more and drink less. Bookings are self-referrals or vi
- a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
- t/stop-smoking-cessations-church-street-library
-LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
- ingdom\, London
-URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
- treet-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_42e33d3bfb2949c793ac8a3b529442d9-occ_f8b5374b069440399a01e16bbb3
@@ -1412,246 +1527,6 @@ URL:https://www.sadlerswells.com/whats-on/family-freestyle-sadlers-wells-
  east-2027/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_1017a11c76b242388ad940bde71
- fa610@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261022T090000Z
-DTEND:20261022T130000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_16cb63d052df4bb2b957a2eef8e
- 9e742@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261029T100000Z
-DTEND:20261029T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_c7f7dfc546d1415da2c80a2b7d0
- aa674@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261105T100000Z
-DTEND:20261105T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_69f9fae0bb294b488b154e4cbde
- 2271f@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261112T100000Z
-DTEND:20261112T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_aec37b7b50024e40af7989f6fd2
- cbd87@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261119T100000Z
-DTEND:20261119T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_6f022a40c32e4411a791d75622f
- 54825@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261126T100000Z
-DTEND:20261126T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_66d235a366fe41b8bea561037f8
- 92669@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261203T100000Z
-DTEND:20261203T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_647cf05cbc974bc58dc408fb4b3
- 2e5a8@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261210T100000Z
-DTEND:20261210T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_b65c82d8e3f346c795e569765b8
- 09127@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261217T100000Z
-DTEND:20261217T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_752a4cf123eb411aab69f24edc8
- 7f6fc@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261224T100000Z
-DTEND:20261224T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_9e6ba710fa99412f826b5edd610
- e3604@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20261231T100000Z
-DTEND:20261231T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_18542ef3fca5488ba135f18d4de
- af0c2@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20270107T100000Z
-DTEND:20270107T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_ad7be6ebfc4c4f0093585ebeb3f
- 32c68@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20270114T100000Z
-DTEND:20270114T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_f244ac7fde304666b4e46623086
- 8a445@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20270121T100000Z
-DTEND:20270121T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cdcd746487db46a893890f87df5e0f01-occ_d510d06864b9424295293043fff
- 72670@thingstodoinyourcity
-DTSTAMP:20261021T225928Z
-DTSTART:20270128T100000Z
-DTEND:20270128T140000Z
-SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:A free service helping Westminster residents lead healthier l
- ifestyles and reduce cancer and heart disease risks. Sessions are also h
- osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
- lthy-lifestyle-clinic-maida-vale-library-thursday-session
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
- ale-library-thursday-session
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_251829c183f4436ea455decd030a68a4-occ_816912861d3b44ae97bad8213d0
  c3c1d@thingstodoinyourcity
 DTSTAMP:20261021T172625Z
@@ -1676,246 +1551,6 @@ URL:https://clusterflick.com/movies/8d36335a/the-gruffalo-the-gruffalos-c
  hild/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_a1526b75549a43fc8f4863a400c
- 41b34@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261022T093000Z
-DTEND:20261022T110000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_7517a12369924d13928b6d49d71
- e5dfa@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261029T103000Z
-DTEND:20261029T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_d288d9072323485b8803080ba3e
- 0a93b@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261105T103000Z
-DTEND:20261105T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_9b024e80637a42aab75910646d0
- 9d6c6@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261112T103000Z
-DTEND:20261112T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_0c03aed9d3754bc9bd95c9a6563
- 4dc0f@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261119T103000Z
-DTEND:20261119T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_92a80538ddb64070b2b933f8b44
- de7a8@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261126T103000Z
-DTEND:20261126T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_732378c2551d4877901e3609d76
- dd706@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261203T103000Z
-DTEND:20261203T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_10e97e6c9d9c4eab880eb2e995a
- bc492@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261210T103000Z
-DTEND:20261210T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_2a1ddb07b0c640b6b56ca3669b3
- 0fffb@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261217T103000Z
-DTEND:20261217T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_39a07b64f73c4eadb748b967d6b
- 7b1ba@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261224T103000Z
-DTEND:20261224T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_b87895e733b549b0bd1e86a5e84
- 95ddf@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20261231T103000Z
-DTEND:20261231T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_896489c14980436b9f81c8a56b3
- 9b7a7@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20270107T103000Z
-DTEND:20270107T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_02e5147ab99a44bfab9a260b069
- 51b8d@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20270114T103000Z
-DTEND:20270114T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_b209a39dd80145d7bf33df9bf93
- ffea3@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20270121T103000Z
-DTEND:20270121T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_6c4acbfe47074ab49137c5d41cd
- d3b40@thingstodoinyourcity
-DTSTAMP:20261021T232656Z
-DTSTART:20270128T103000Z
-DTEND:20270128T120000Z
-SUMMARY:English conversation classes at Charing Cross Library
-DESCRIPTION:Practise conversational English with other students in a free
-  weekly session. Basic English skills are required to take part.\nPrice:
-  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
- -charing-cross-library-0
-LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
- nited Kingdom\, London
-URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
- ring-cross-library-0
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0e7f482ac8934ccfb2bb10d3f1497bba-occ_5bd6dafe43b947cea2f4f776c33
  683b5@thingstodoinyourcity
 DTSTAMP:20261021T172316Z
@@ -1926,231 +1561,6 @@ DESCRIPTION:https://clusterflick.com/movies/8eca7d83/guest-event-london-b
 LOCATION:Theatreship\, London
 URL:https://clusterflick.com/movies/8eca7d83/guest-event-london-breeze-fi
  lm-festival-shorts-animation/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_6c8572195fff4688948333da6f7
- 9ff8d@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261022T093000Z
-DTEND:20261022T103000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_ae142b55ee8e44a4a194ba09849
- 25c85@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261029T103000Z
-DTEND:20261029T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9e0b26b0aacd4c3f961289582a1
- 164c3@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261105T103000Z
-DTEND:20261105T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_54926f50bf2e47b6921c66f5b27
- cfd8c@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261112T103000Z
-DTEND:20261112T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1223732d5dc4cd1b905c41b4ea
- 4c8a6@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261119T103000Z
-DTEND:20261119T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1626f1ed7c34b47bf5267b40c8
- ee156@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261126T103000Z
-DTEND:20261126T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_95f70669d85f4a4d87c5ff2a8c7
- a061e@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261203T103000Z
-DTEND:20261203T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_890ee980ccb645dfbc65aaff755
- 646e0@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261210T103000Z
-DTEND:20261210T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9bf9d43ce39a42eab69e60dd1ea
- 9290a@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261217T103000Z
-DTEND:20261217T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_90a64011248d49b884206e0baf1
- 050a0@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261224T103000Z
-DTEND:20261224T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_5b05d5b08bff454abf27f9eeeef
- d2a67@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20261231T103000Z
-DTEND:20261231T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_00809b6ee3bc411aad0668a9ddc
- dc6d3@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20270107T103000Z
-DTEND:20270107T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_dba46dcfe45a41708ae14af754c
- 1808b@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20270114T103000Z
-DTEND:20270114T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9e2b4fe7af67472a832d085ea5c
- bf219@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20270121T103000Z
-DTEND:20270121T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_b96001560297402d8b573ea0013
- 87a23@thingstodoinyourcity
-DTSTAMP:20261021T231310Z
-DTSTART:20270128T103000Z
-DTEND:20270128T113000Z
-SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
-  to lively songs and rhymes. Toys follow the singing\; sessions run in t
- erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
- -and-move-pimlico-library
-LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_07c70a0f77724cd5947f977886704635-occ_2c608c656bd94407a850ef77437
@@ -2181,22 +1591,6 @@ DESCRIPTION:Families can take part in a Halloween sensory play session at
 LOCATION:Chelsea Physic Garden\, 66 ROYAL HOSPITAL RD\, CHELSEA\, SW3 4HS
   London\, GB\, CHELSEA\, London
 URL:https://yournearevents.com/event/feed:9985
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0bd450c9781d401db50a798b7fa86b18-occ_d1d96db3444544edbc2434618d6
- 989f0@thingstodoinyourcity
-DTSTAMP:20261021T125146Z
-DTSTART:20261022T110000Z
-DTEND:20261022T123000Z
-SUMMARY:Introduction to copyright for business
-DESCRIPTION:Presented by Jeremy O'Hare\, this webinar explains copyright 
- basics\, eligible works and protection duration. It also covers managing
-  your copyright and using others' work.\nPrice: Free\, booking required\
- nhttps://www.eventbrite.com/e/introduction-to-copyright-for-business-tic
- kets-2001041816941?aff=oddtdtcreator
-LOCATION:Online\, London
-URL:https://www.eventbrite.com/e/introduction-to-copyright-for-business-t
- ickets-2001041816941?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b0baf446a1e4688ab567104832afbfc-occ_5299aecfe162411dbc1008a98b9
@@ -2240,35 +1634,6 @@ LOCATION:Kachette Annex\, 1 Kingsland Rd\, Shoreditch\, London\, Shoredit
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_96d10d734ab2406f83f72a97292df736-occ_b42247fe6c2348a186a871fd9d6
- f4064@thingstodoinyourcity
-DTSTAMP:20261021T234740Z
-DTSTART:20261022T110000Z
-DTEND:20261022T120000Z
-SUMMARY:Law and the Political Economy of Climate Adaptation
-DESCRIPTION:This lecture is delivered by Dr Birsha Ohdedar. It forms part
-  of the Current Legal Problems Lecture Series 2026-27.\nhttps://lectures
- .london/university-college-london/law-and-the-political-economy-of-clima
- te-adaptation/
-LOCATION:London
-URL:https://lectures.london/university-college-london/law-and-the-politic
- al-economy-of-climate-adaptation/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_96d10d734ab2406f83f72a97292df736-occ_576272d9e3624ca1b11cfb40d4e
- 000a5@thingstodoinyourcity
-DTSTAMP:20261021T234740Z
-DTSTART:20261022T130000Z
-SUMMARY:Law and the Political Economy of Climate Adaptation
-DESCRIPTION:This lecture is delivered by Dr Birsha Ohdedar. It forms part
-  of the Current Legal Problems Lecture Series 2026-27.\nhttps://lectures
- .london/university-college-london/law-and-the-political-economy-of-clima
- te-adaptation/
-LOCATION:London
-URL:https://lectures.london/university-college-london/law-and-the-politic
- al-economy-of-climate-adaptation/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c55baa5115744719920f5fe4d745ba77-occ_abe35e971e8848de86b05a44e5f
  67306@thingstodoinyourcity
 DTSTAMP:20261022T035929Z
@@ -2295,50 +1660,6 @@ DESCRIPTION:Suzy arrives at a German ballet school on a stormy night and
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/8242298/suspiria-1977/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_49d2fe02e7124c94b36fb44cea26e642-occ_f6c4e6f1b42249639d00a802a0c
- 7d8bd@thingstodoinyourcity
-DTSTAMP:20261021T212327Z
-DTSTART:20261022T120000Z
-DTEND:20261022T130000Z
-SUMMARY:Analysis and Dynamics seminar: Fernando Argentieri
-DESCRIPTION:Price: Free\nhttps://www.imperial.ac.uk//events/description/i
- ndex.php?route=213867/analysis-and-dynamics-seminar-9/
-LOCATION:410\, Huxley Building\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=213867
- /analysis-and-dynamics-seminar-9/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_45b548f324da40c7ab8a255b3040f7f3-occ_59da5724a44d44e39c7f0b8d9c7
- 5ddf3@thingstodoinyourcity
-DTSTAMP:20261021T174849Z
-DTSTART:20261022T120000Z
-DTEND:20261022T130000Z
-SUMMARY:NEW WAVE MUSIC: A Classical Guitar Voyage
-DESCRIPTION:Eva Victoria Schockmel plays solo classical guitar spanning t
- hree centuries. It includes her own piece Le château de ma grand-mère.
- \nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-on/new-wave-music
- -a-classical-guitar-voyage-eva-victoria-schockmel
-LOCATION:The Music Room\, 49 Great Ormond Street.\, 49 Great Ormond Stree
- t\, WC1N 3HZ\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/new-wave-music-a-classical
- -guitar-voyage-eva-victoria-schockmel
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_be8b75b05121408f89274a0dad8ec248-occ_b4e9ce38c50e47e681d00180139
- 92beb@thingstodoinyourcity
-DTSTAMP:20261021T215858Z
-DTSTART:20261022T120000Z
-DTEND:20261022T130000Z
-SUMMARY:Shakespeare's Objects: Off-Stage Lives of Stage Props
-DESCRIPTION:Introduces Shakespeare's Objects\, an 'Insights' guide to sit
-  alongside Arden Shakespeare editions. Snapshots of expected and unexpec
- ted objects from its chapters are shared.\nPrice: Free\nhttps://www.vam.
- ac.uk/event/NMnxLXqrzm/lunchtime-lecture-22-october-2026
-LOCATION:V&A South Kensington\, Cromwell Road London\, SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/NMnxLXqrzm/lunchtime-lecture-22-october-2
- 026
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_273ba7515af14c828ff774f7ada0eec5-occ_215c67884acf41ea98db43c0db9
@@ -2376,6 +1697,20 @@ DESCRIPTION:Listed under Science & Technology and General Interest topics
  ce: FREE\nhttps://londontalks.uk/events/8771
 LOCATION:SHERFIELD BUILDING\, SOUTH KENSINGTON CAMPUS\, London
 URL:https://londontalks.uk/events/8771
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_96d10d734ab2406f83f72a97292df736-occ_576272d9e3624ca1b11cfb40d4e
+ 000a5@thingstodoinyourcity
+DTSTAMP:20261021T234740Z
+DTSTART:20261022T130000Z
+SUMMARY:Law and the Political Economy of Climate Adaptation
+DESCRIPTION:This lecture is delivered by Dr Birsha Ohdedar. It forms part
+  of the Current Legal Problems Lecture Series 2026-27.\nhttps://lectures
+ .london/university-college-london/law-and-the-political-economy-of-clima
+ te-adaptation/
+LOCATION:London
+URL:https://lectures.london/university-college-london/law-and-the-politic
+ al-economy-of-climate-adaptation/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_95399e2acdb541da8a06fd941d685b73-occ_61d30f665df04c8591fc0162168
@@ -2451,6 +1786,22 @@ SUMMARY:PDEs Seminar – Warren Li (Imperial College London)
 DESCRIPTION:Price: FREE\nhttps://londontalks.uk/events/8772
 LOCATION:HUXLEY BUILDING\, SOUTH KENSINGTON CAMPUS\, London
 URL:https://londontalks.uk/events/8772
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cff17e137fb4a7b9f7177f7daa2ed74-occ_77485652b02c4918ac8adbc823d
+ 487a8@thingstodoinyourcity
+DTSTAMP:20261022T104730Z
+DTSTART:20261022T131500Z
+DTEND:20261022T141500Z
+SUMMARY:Workshop: Video on iPhone
+DESCRIPTION:Get to know iPhone's built-in video features\, then explore r
+ ecording modes and techniques through fun activities. Bring your iPhone 
+ or we’ll provide the latest.\nhttps://www.apple.com/uk/today/event/wor
+ kshop-video-on-iphone/7508113407405817856/?sn=R245
+LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
+ don
+URL:https://www.apple.com/uk/today/event/workshop-video-on-iphone/7508113
+ 407405817856/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_33d0fd0b3a7e444a95a00ff222a2919b-occ_10702903acf74c139faf5a0090c
@@ -2691,6 +2042,22 @@ SUMMARY:NAZA
 DESCRIPTION:https://www.genesiscinema.co.uk/whatson
 LOCATION:London
 URL:https://www.genesiscinema.co.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7afe882019dd480c8c110bc6867f4ce1-occ_3afa36f0f6f94e2e9a41e98bb0a
+ 8f79b@thingstodoinyourcity
+DTSTAMP:20261022T104847Z
+DTSTART:20261022T150000Z
+DTEND:20261022T163000Z
+SUMMARY:Photo Tour: Taking Portraits on Location
+DESCRIPTION:Photograph people in their environment with iPhone\, using Po
+ rtrait mode and Portrait Lighting. Use the latest iPhone or bring your o
+ wn\; recommended for all skill levels.\nhttps://www.apple.com/uk/today/e
+ vent/photo-tour-portraits-on-location/7508113515803410432/?sn=R245
+LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
+ don
+URL:https://www.apple.com/uk/today/event/photo-tour-portraits-on-location
+ /7508113515803410432/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8f376a1295d5402e871ec7b1f79ab3f7-occ_d0f93558207d4a039b729734145
@@ -2972,18 +2339,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7cfc001f18374d5b980d3edd00416bf6-occ_6cf71e333b2d4386b86716832c8
  71406@thingstodoinyourcity
-DTSTAMP:20261021T170615Z
+DTSTAMP:20261022T105747Z
 DTSTART:20261022T170000Z
 DTEND:20261022T190000Z
 SUMMARY:EDI: Support and Allyship at the Bar - QS
 DESCRIPTION:Practitioners experienced in EDI concerns discuss support and
-  allyship across the Bar. Invitation only\; open to current students and
-  TLPs\, smart casual dress.\nPrice: Not listed — worth a quick ask\nht
- tps://www.innertemple.org.uk/events/02145-edi-support-and-allyship-at-th
- e-bar-qs
+  allyship across the Bar. Invitation only\, focusing on committees and o
+ rganisations.\nPrice: Not listed — worth a quick ask\nhttps://www.inne
+ rtemple.org.uk/events/02145-edi-support-and-allyship-at-the-bar-qs/
 LOCATION:Online Event\, 45 Pont Street\, London\, SW1X 0BD\, London
 URL:https://www.innertemple.org.uk/events/02145-edi-support-and-allyship-
- at-the-bar-qs
+ at-the-bar-qs/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7d5f85144024f16b5389e8c16fa7905-occ_9747b6c81f0d469db5d72cf9a64
@@ -3220,6 +2586,22 @@ DESCRIPTION:Strangers trapped in a maze-like prison each have the peculia
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31617461/cube/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f5355a766bd4f1cb2f53f8c27071d88-occ_ca602ff5281e4f6a9271d0add5b
+ c4575@thingstodoinyourcity
+DTSTAMP:20261022T104817Z
+DTSTART:20261022T171500Z
+DTEND:20261022T181500Z
+SUMMARY:Workshop: Drawing with Apple Pencil on iPad
+DESCRIPTION:Explore drawing tools in Freeform\, then try brush effects an
+ d colours. Create a self-portrait in Procreate\; devices are provided or
+  bring your own.\nhttps://www.apple.com/uk/today/event/workshop-drawing-
+ with-apple-pencil-on-ipad-new/7508113580878036992/?sn=R245
+LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
+ don
+URL:https://www.apple.com/uk/today/event/workshop-drawing-with-apple-penc
+ il-on-ipad-new/7508113580878036992/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c7552a0f681e4a199c10c61da2791bcd-occ_11d88cd9fa464a3da0766fdb786
@@ -3960,6 +3342,32 @@ DESCRIPTION:Sahra Hersi reflects on her practice and her X Selects displa
 LOCATION:V&A East Museum\, 107 Carpenters Rd\, London\, E20 2AR\, London
 URL:https://www.vam.ac.uk/event/P0wWJAWO6w1/how-we-made-it-with-sahra-her
  si-oct-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94b06d3aa1824e25b5d19f7810c53edc-occ_3563a74c557c4ca09be153ae799
+ 40987@thingstodoinyourcity
+DTSTAMP:20261022T125830Z
+DTSTART:20261022T180000Z
+SUMMARY:I Was Always Here
+DESCRIPTION:Verbatim play blending music\, digital storytelling and cabar
+ et through trans+ histories. Runs 75 minutes\; 14+ guideline and flashin
+ g lights.\nPrice: £15.00\nhttps://www.pleasance.co.uk/event/i-was-alway
+ s-here
+LOCATION:Pleasance London Studio\, LONDON\, London
+URL:https://www.pleasance.co.uk/event/i-was-always-here
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94b06d3aa1824e25b5d19f7810c53edc-occ_280cf048369d4038a1d0cabe9e4
+ 21bde@thingstodoinyourcity
+DTSTAMP:20261022T125830Z
+DTSTART:20261022T200000Z
+SUMMARY:I Was Always Here
+DESCRIPTION:Verbatim play blending music\, digital storytelling and cabar
+ et through trans+ histories. Runs 75 minutes\; 14+ guideline and flashin
+ g lights.\nPrice: £15.00\nhttps://www.pleasance.co.uk/event/i-was-alway
+ s-here
+LOCATION:Pleasance London Studio\, LONDON\, London
+URL:https://www.pleasance.co.uk/event/i-was-always-here
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_518284f063cb46cbb4bc489925c139a6-occ_531ec0e11af64a8c84535773f7f
@@ -5227,6 +4635,85 @@ LOCATION:ONLINE\, London
 URL:https://www.vam.ac.uk/event/3pZ1VZeVEz/staging-freddie-livestream
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e773a6aa18de44b9b19abe25a2d5abbe-occ_515d6db74545470f952d9b6a602
+ b99fc@thingstodoinyourcity
+DTSTAMP:20261022T131428Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:TEDxAdeleke University
+DESCRIPTION:This independently organized TEDx event brings the community 
+ together to share ideas worth spreading. It is open to the public.\nhttp
+ s://www.ted.com/tedx/events/69446
+LOCATION:Ede-Osogbo Road Osogbo\, Osun\, Nigeria 232104\, Osogbo\, Osun\,
+  Nigeria\, London
+URL:https://www.ted.com/tedx/events/69446
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0be3d60ee48444b7ad94275f5ae09d5e-occ_562d34ee1d03458c9c96f8ad51a
+ 07d05@thingstodoinyourcity
+DTSTAMP:20261022T131605Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:TEDxAkdeniz Üniversitesi
+DESCRIPTION:This independently organized TEDx event brings the community 
+ together to share ideas worth spreading. It is open to the public.\nhttp
+ s://www.ted.com/tedx/events/68952
+LOCATION:Akdeniz Üniversitesi\, Akdeniz Üniversitesi Konyaaltı\, Antal
+ ya\, Türkiye 07058\, Konyaaltı\, Antalya\, Türkiye\, London
+URL:https://www.ted.com/tedx/events/68952
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b21f4a8419944178a7b316596ba0b5e2-occ_3e4b2f312b9949a48740b115bfc
+ b22d4@thingstodoinyourcity
+DTSTAMP:20261022T131640Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:TEDxAthens Salon
+DESCRIPTION:Independently organized TEDx event bringing the community tog
+ ether to share ideas worth spreading. Open to the public in salon format
+ .\nhttps://www.ted.com/tedx/events/69947
+LOCATION:8 Marathonomachon\, Athina\, Greece 104 41\, Athina\, Greece\, L
+ ondon
+URL:https://www.ted.com/tedx/events/69947
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_58e8e7df089d41f4a361e83bbb3ce41f-occ_d416b82869df465897c06c9d4b6
+ 502cd@thingstodoinyourcity
+DTSTAMP:20261022T131317Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:TEDxBeaconhouse Gujrat Youth
+DESCRIPTION:This independently organized TEDx event brings the community 
+ together to share ideas worth spreading. It is open to the public.\nhttp
+ s://www.ted.com/tedx/events/67742
+LOCATION:Beaconhouse Gujrat Campus\, .T. Road\, Near Kathala\, Gujrat\, P
+ unjab\, Pakistan\, Gujrat\, Punjab\, Pakistan\, London
+URL:https://www.ted.com/tedx/events/67742
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8cbe2148510d4c569d22f8f5f08a5aec-occ_2a2c3cdb97d846f79f3b6b4bee6
+ 418d7@thingstodoinyourcity
+DTSTAMP:20261022T131807Z
+DTSTART;VALUE=DATE:20261023
+SUMMARY:TEDxWarsaw Youth
+DESCRIPTION:The 2026 edition explores when a thought becomes a step and a
+  step becomes movement. It asks how young people can become a force for 
+ change.\nhttps://www.ted.com/tedx/events/69021
+LOCATION:Teatr 6.piętro PKiN\, PKiN\, Pl. Defilad 1 6 Warszawa\, Mazowie
+ ckie\, Poland\, Warszawa\, Poland\, London
+URL:https://www.ted.com/tedx/events/69021
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8cbe2148510d4c569d22f8f5f08a5aec-occ_f5706d4e56a143a690d08f03b3a
+ 09914@thingstodoinyourcity
+DTSTAMP:20261022T131807Z
+DTSTART:20261023T080000Z
+DTEND:20261023T150000Z
+SUMMARY:TEDxWarsaw Youth
+DESCRIPTION:The 2026 edition explores when a thought becomes a step and a
+  step becomes movement. It asks how young people can become a force for 
+ change.\nhttps://www.ted.com/tedx/events/69021
+LOCATION:Teatr 6.piętro PKiN\, PKiN\, Pl. Defilad 1 6 Warszawa\, Mazowie
+ ckie\, Poland\, Warszawa\, Poland\, London
+URL:https://www.ted.com/tedx/events/69021
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bc8205e2bcce4fe59f87c68ed0787eb0-occ_5784f41d2de840e6879ca80ed61
  1d743@thingstodoinyourcity
 DTSTAMP:20261022T050952Z
@@ -5916,6 +5403,26 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31617474/rob-zombies-halloween-i
  i-2009-directors-cut/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fc2b773fe6f04a89a2b2e44df72edc2b-occ_22df3c2d0e2943cd950411328d2
+ 54d25@thingstodoinyourcity
+DTSTAMP:20261022T125512Z
+DTSTART:20261023T145000Z
+SUMMARY:The Social Reckoning
+DESCRIPTION:https://www.regentstreetcinema.com/now-playing/
+LOCATION:London
+URL:https://www.regentstreetcinema.com/now-playing/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fc2b773fe6f04a89a2b2e44df72edc2b-occ_06dd4ce310694cdaadbf12b83d0
+ 8d4fb@thingstodoinyourcity
+DTSTAMP:20261022T125512Z
+DTSTART:20261026T155000Z
+SUMMARY:The Social Reckoning
+DESCRIPTION:https://www.regentstreetcinema.com/now-playing/
+LOCATION:London
+URL:https://www.regentstreetcinema.com/now-playing/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ac05c9b0772b4e20b86d2ddf03cee1e5-occ_a42cb973485043fa943fe25ae48
@@ -6867,16 +6374,897 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3330c218a0684084ad59ea3625b759eb-occ_9d61363b6f3a450e8e8dfe80174
  cf007@thingstodoinyourcity
-DTSTAMP:20261021T170430Z
+DTSTAMP:20261022T105624Z
 DTSTART:20261028T210000Z
 SUMMARY:Mystery Horror Movie
 DESCRIPTION:HorrOctober's Mystery Movie strand screens four mystery horro
- r films over four weeks. The title stays secret: no hints\, no clues\, a
- nd no refunds.\nhttps://princecharlescinema.com/film/31617164/mystery-ho
- rror-movie
+ r films over four weeks. No hints\, clues or refunds: the title stays se
+ cret until you watch.\nhttps://princecharlescinema.com
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/film/31617164/mystery-horror-movie
+URL:https://princecharlescinema.com
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_9d2614438d91483b8daf5243b34
+ 5f692@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261029T093000Z
+DTEND:20261029T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5aa3f9b3056244cf8b5ce923167
+ 164f9@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261105T093000Z
+DTEND:20261105T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_32ff97540ace4006ae7771c4262
+ f0b0a@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261112T093000Z
+DTEND:20261112T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_271bf10b35da4bdc8e26bcbce9d
+ c612c@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261119T093000Z
+DTEND:20261119T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_e81f9b056c59485da18052fcbde
+ 49a38@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261126T093000Z
+DTEND:20261126T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_6991f485c6564ffeafebbffaae5
+ 8e61e@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261203T093000Z
+DTEND:20261203T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_ed714b1debda4957b249414b3e1
+ 6fb2c@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261210T093000Z
+DTEND:20261210T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_2cfeb0c03142458eac1d17b0120
+ 6b5f4@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261217T093000Z
+DTEND:20261217T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_aaa69642f2304d439124d21082b
+ 7d76a@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261224T093000Z
+DTEND:20261224T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_8146270319fe413786e5198572f
+ 4c780@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20261231T093000Z
+DTEND:20261231T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_f2d039eb183448939ba2c82c6da
+ 5e106@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20270107T093000Z
+DTEND:20270107T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5a4f7cec1bc04657856a47079a0
+ bce64@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20270114T093000Z
+DTEND:20270114T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_91ae095070f444fc8ee41b35786
+ c9a69@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20270121T093000Z
+DTEND:20270121T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abbe31fad7444ed798e6b30e0b2f3a88-occ_5392532f43ec44fc972e2e3eb9f
+ 0a20e@thingstodoinyourcity
+DTSTAMP:20261021T222029Z
+DTSTART:20270128T093000Z
+DTEND:20270128T123000Z
+SUMMARY:Stop Smoking Cessations at Church Street Library
+DESCRIPTION:Free sessions help Westminster residents stop smoking\, lose 
+ weight\, exercise more and drink less. Bookings are self-referrals or vi
+ a a local GP practice.\nPrice: Free\nhttps://www.westminster.gov.uk/even
+ t/stop-smoking-cessations-church-street-library
+LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
+ ingdom\, London
+URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
+ treet-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_16cb63d052df4bb2b957a2eef8e
+ 9e742@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261029T100000Z
+DTEND:20261029T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_c7f7dfc546d1415da2c80a2b7d0
+ aa674@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261105T100000Z
+DTEND:20261105T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_69f9fae0bb294b488b154e4cbde
+ 2271f@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261112T100000Z
+DTEND:20261112T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_aec37b7b50024e40af7989f6fd2
+ cbd87@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261119T100000Z
+DTEND:20261119T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_6f022a40c32e4411a791d75622f
+ 54825@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261126T100000Z
+DTEND:20261126T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_66d235a366fe41b8bea561037f8
+ 92669@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261203T100000Z
+DTEND:20261203T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_647cf05cbc974bc58dc408fb4b3
+ 2e5a8@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261210T100000Z
+DTEND:20261210T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_b65c82d8e3f346c795e569765b8
+ 09127@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261217T100000Z
+DTEND:20261217T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_752a4cf123eb411aab69f24edc8
+ 7f6fc@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261224T100000Z
+DTEND:20261224T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_9e6ba710fa99412f826b5edd610
+ e3604@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20261231T100000Z
+DTEND:20261231T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_18542ef3fca5488ba135f18d4de
+ af0c2@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20270107T100000Z
+DTEND:20270107T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_ad7be6ebfc4c4f0093585ebeb3f
+ 32c68@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20270114T100000Z
+DTEND:20270114T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_f244ac7fde304666b4e46623086
+ 8a445@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20270121T100000Z
+DTEND:20270121T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdcd746487db46a893890f87df5e0f01-occ_d510d06864b9424295293043fff
+ 72670@thingstodoinyourcity
+DTSTAMP:20261021T225928Z
+DTSTART:20270128T100000Z
+DTEND:20270128T140000Z
+SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
+DESCRIPTION:A free service helping Westminster residents lead healthier l
+ ifestyles and reduce cancer and heart disease risks. Sessions are also h
+ osted on Mondays.\nPrice: Free\nhttps://www.westminster.gov.uk/event/hea
+ lthy-lifestyle-clinic-maida-vale-library-thursday-session
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_7517a12369924d13928b6d49d71
+ e5dfa@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261029T103000Z
+DTEND:20261029T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_d288d9072323485b8803080ba3e
+ 0a93b@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261105T103000Z
+DTEND:20261105T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_9b024e80637a42aab75910646d0
+ 9d6c6@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261112T103000Z
+DTEND:20261112T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_0c03aed9d3754bc9bd95c9a6563
+ 4dc0f@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261119T103000Z
+DTEND:20261119T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_92a80538ddb64070b2b933f8b44
+ de7a8@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261126T103000Z
+DTEND:20261126T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_732378c2551d4877901e3609d76
+ dd706@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261203T103000Z
+DTEND:20261203T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_10e97e6c9d9c4eab880eb2e995a
+ bc492@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261210T103000Z
+DTEND:20261210T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_2a1ddb07b0c640b6b56ca3669b3
+ 0fffb@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261217T103000Z
+DTEND:20261217T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_39a07b64f73c4eadb748b967d6b
+ 7b1ba@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261224T103000Z
+DTEND:20261224T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_b87895e733b549b0bd1e86a5e84
+ 95ddf@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20261231T103000Z
+DTEND:20261231T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_896489c14980436b9f81c8a56b3
+ 9b7a7@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20270107T103000Z
+DTEND:20270107T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_02e5147ab99a44bfab9a260b069
+ 51b8d@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20270114T103000Z
+DTEND:20270114T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_b209a39dd80145d7bf33df9bf93
+ ffea3@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20270121T103000Z
+DTEND:20270121T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1253c849ebb9476bb418c89a4dab33c6-occ_6c4acbfe47074ab49137c5d41cd
+ d3b40@thingstodoinyourcity
+DTSTAMP:20261021T232656Z
+DTSTART:20270128T103000Z
+DTEND:20270128T120000Z
+SUMMARY:English conversation classes at Charing Cross Library
+DESCRIPTION:Practise conversational English with other students in a free
+  weekly session. Basic English skills are required to take part.\nPrice:
+  Free\nhttps://www.westminster.gov.uk/event/english-conversation-classes
+ -charing-cross-library-0
+LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
+ nited Kingdom\, London
+URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
+ ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_ae142b55ee8e44a4a194ba09849
+ 25c85@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261029T103000Z
+DTEND:20261029T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9e0b26b0aacd4c3f961289582a1
+ 164c3@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261105T103000Z
+DTEND:20261105T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_54926f50bf2e47b6921c66f5b27
+ cfd8c@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261112T103000Z
+DTEND:20261112T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1223732d5dc4cd1b905c41b4ea
+ 4c8a6@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261119T103000Z
+DTEND:20261119T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1626f1ed7c34b47bf5267b40c8
+ ee156@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261126T103000Z
+DTEND:20261126T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_95f70669d85f4a4d87c5ff2a8c7
+ a061e@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261203T103000Z
+DTEND:20261203T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_890ee980ccb645dfbc65aaff755
+ 646e0@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261210T103000Z
+DTEND:20261210T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9bf9d43ce39a42eab69e60dd1ea
+ 9290a@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261217T103000Z
+DTEND:20261217T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_90a64011248d49b884206e0baf1
+ 050a0@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261224T103000Z
+DTEND:20261224T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_5b05d5b08bff454abf27f9eeeef
+ d2a67@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20261231T103000Z
+DTEND:20261231T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_00809b6ee3bc411aad0668a9ddc
+ dc6d3@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20270107T103000Z
+DTEND:20270107T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_dba46dcfe45a41708ae14af754c
+ 1808b@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20270114T103000Z
+DTEND:20270114T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9e2b4fe7af67472a832d085ea5c
+ bf219@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20270121T103000Z
+DTEND:20270121T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_b96001560297402d8b573ea0013
+ 87a23@thingstodoinyourcity
+DTSTAMP:20261021T231310Z
+DTSTART:20270128T103000Z
+DTEND:20270128T113000Z
+SUMMARY:Rhyme and Move at Pimlico Library
+DESCRIPTION:Weekly singing session for babies and toddlers\, with dancing
+  to lively songs and rhymes. Toys follow the singing\; sessions run in t
+ erm times only.\nPrice: Free\nhttps://www.westminster.gov.uk/event/rhyme
+ -and-move-pimlico-library
+LOCATION:Pimlico Library\, Lupus Street\, London\, SW1V 3AT\, United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_385906695eed4a9286a3e94957eddea4-occ_ab924cc15b98442799d98246813
