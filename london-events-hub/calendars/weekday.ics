@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b2882104520413a81439e73b6f19c84-occ_67805dd0f99f4a62b38afd40cdb
  97aca@thingstodoinyourcity
-DTSTAMP:20261022T031304Z
+DTSTAMP:20261023T044018Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Akaash Singh
@@ -1269,17 +1269,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7b8ea6a2885045648c79339f668d2a0e-occ_45e3ff5ef6ad4ce6992f6fc0c15
  6e4e1@thingstodoinyourcity
-DTSTAMP:20261022T220354Z
+DTSTAMP:20261023T054949Z
 DTSTART:20261026T125000Z
 SUMMARY:Halloween III: Season of the Witch
-DESCRIPTION:A terrified toy salesman is attacked after clutching the year
- 's most popular Halloween mask. Dr. Daniel Challis investigates and unco
- vers a nightmarish conspiracy.\nhttps://princecharlescinema.com/film/316
- 17460/halloween-iii-season-of-the-witch
+DESCRIPTION:A terrified toy salesman clutching the year's most popular Ha
+ lloween mask is attacked and taken to hospital. Dr. Daniel Challis inves
+ tigates and is drawn into a nightmarish conspiracy.\nhttps://princecharl
+ escinema.com/next-7-days/
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/film/31617460/halloween-iii-season-of
- -the-witch
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b07cabcadf1c43319e230c585b283b6d-occ_a173e18897374894867e5a47813
+ 40f0c@thingstodoinyourcity
+DTSTAMP:20261023T064511Z
+DTSTART:20261026T184500Z
+SUMMARY:Workshop: Take Better Photos on iPhone
+DESCRIPTION:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
+LOCATION:Apple Covent Garden\, London
+URL:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c6dba2af752b4c298d6035d2afd7a976-occ_f72f1f2584534875ac659ded867
@@ -1523,6 +1532,16 @@ DESCRIPTION:Weekly session for babies and toddlers with nursery rhymes\,
 LOCATION:Victoria Library\, Buckingham Palace Road London SW1W 9UD United
   Kingdom\, London
 URL:https://www.westminster.gov.uk/event/rhyme-time-victoria-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_200323c5d6e9494486aa888c411a0679-occ_c90d267a76374412b80dff5accc
+ fbb68@thingstodoinyourcity
+DTSTAMP:20261023T064511Z
+DTSTART:20261027T130000Z
+SUMMARY:Get Started: Mac
+DESCRIPTION:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
+LOCATION:Apple Covent Garden\, London
+URL:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d50218d5b94a4249abe2fe2b2144edba-occ_27143804083745508e9e1df2759
@@ -1851,6 +1870,30 @@ DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
 LOCATION:Comedy In Your Eye\, London
 URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
  medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a541618c1b77412cb413cd4327abcf63-occ_68f212070a54405a882941421b0
+ 06ebb@thingstodoinyourcity
+DTSTAMP:20261023T051904Z
+DTSTART:20261027T193000Z
+SUMMARY:Paranormal Activity
+DESCRIPTION:Price: From £92\nhttps://www.todaytix.com/london/shows/45604
+ -paranormal-activity
+LOCATION:Ambassadors Theatre\, West Street\, London\, United Kingdom\, WC
+ 2H 9ND\, West End\, London
+URL:https://www.todaytix.com/london/shows/45604-paranormal-activity
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a541618c1b77412cb413cd4327abcf63-occ_0f41bd8590cd485ba12ea1c3c01
+ b896f@thingstodoinyourcity
+DTSTAMP:20261023T051904Z
+DTSTART:20261028T193000Z
+SUMMARY:Paranormal Activity
+DESCRIPTION:Price: From £92\nhttps://www.todaytix.com/london/shows/45604
+ -paranormal-activity
+LOCATION:Ambassadors Theatre\, West Street\, London\, United Kingdom\, WC
+ 2H 9ND\, West End\, London
+URL:https://www.todaytix.com/london/shows/45604-paranormal-activity
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5c865b723fe743868da1371a6645e783-occ_5dbafcbd4e99470da284d37cbf7
@@ -2382,6 +2425,186 @@ DESCRIPTION:Dance your way to fitness with this belly-dancing inspired cl
 LOCATION:Kensington Leisure Centre\, Silchester Road W10 6EX United Kingd
  om\, London
 URL:https://www.rbkc.gov.uk/events/belrobics-kensington-leisure-centre
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_4a9743f09cf8408a831cd462e2e
+ 85b69@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261028T183000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_d731ab78264d47da99633115217
+ dc010@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261028T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_bbf04f309f184f8482e7a403ead
+ a4d14@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261104T183000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_a2d2562dab264163ae633726454
+ a5963@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261104T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_77d87b4ae46744a5ad8701c39e7
+ 0205c@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261111T183000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_28999d79a64f41baa1b66fc5619
+ 12a47@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261111T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_8949ef998a684d03b675725e49f
+ b204a@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261118T183000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_2ace583911e8443bbffe18a98a6
+ 77d76@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261118T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_d05f7a6ae27e4995adb786a8173
+ cd703@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261125T183000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_debdbc47ae1a4a3ca56b10cee38
+ f0bf4@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261125T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_946d22893d724c178c8c4236335
+ 55e20@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261202T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_1c9d88cc1ff544a09154bf2d541
+ 6eb15@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261209T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_b824801b6939429082732c757bb
+ 37822@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261216T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_734fd6d96b8c4b51ba6dc57779b
+ f4272@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261223T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f9621e56440242629933da773e921671-occ_99282d751dfc4b73a17d29e15ed
+ 8b096@thingstodoinyourcity
+DTSTAMP:20261023T045033Z
+DTSTART:20261230T190000Z
+SUMMARY:Wednesday Night Comedy 7PM Soho
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Priced affordably\, with shows on Wednesday nights.\nhttps://www.l
+ ondontheatres.com/events/comedy
+LOCATION:The Spice Of Life\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e4254389da84c518e8c5cbe0c14a5b1-occ_6dd881388ccc43e3b104b776755
