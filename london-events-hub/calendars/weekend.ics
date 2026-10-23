@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7d0909e8a96242fab8d95d24b9223308-occ_053cc26d960947d782ecaefa8da
  28064@thingstodoinyourcity
-DTSTAMP:20261021T170243Z
+DTSTAMP:20261023T075336Z
 DTSTART;VALUE=DATE:20120906
 DTEND;VALUE=DATE:20271002
 SUMMARY:Mamma Mia
@@ -153,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d92295b867ad48d2a6d98bdf7fc08251-occ_6903cb472f4d4650a7003bd8ab8
  11ec9@thingstodoinyourcity
-DTSTAMP:20261021T164247Z
+DTSTAMP:20261023T075851Z
 DTSTART;VALUE=DATE:20210915
 DTEND;VALUE=DATE:20270103
 SUMMARY:Wicked
@@ -2195,7 +2195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_56afa728ac9a4fa4bc41e282509f678a-occ_f9a84b262a93498eb0fa4bafca3
  9a898@thingstodoinyourcity
-DTSTAMP:20261021T124958Z
+DTSTAMP:20261023T075257Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20270314
 SUMMARY:Oliver
@@ -2225,7 +2225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e2199a8cf05f446e817a102f5f7d7bc5-occ_1ce9c501859243e7bc04fcdfc85
  0a5f9@thingstodoinyourcity
-DTSTAMP:20261021T125103Z
+DTSTAMP:20261023T075316Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20270123
 SUMMARY:The Book of Mormon
@@ -2365,6 +2365,21 @@ SUMMARY:Declaring independence
 DESCRIPTION:Price: Free\nhttps://www.britishmuseum.org/exhibitions-events
 LOCATION:London
 URL:https://www.britishmuseum.org/exhibitions-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_774db4209f6a48b881f9be2f86fe5e0e-occ_6f5b1213a2bd47649b43959eec6
+ a272d@thingstodoinyourcity
+DTSTAMP:20261023T102149Z
+DTSTART:20260630T090000Z
+DTEND:20261030T170000Z
+SUMMARY:Exhibition: The beauty of the Earth
+DESCRIPTION:Free showcase of Royal Society collections marking Sir David 
+ Attenborough's centenary. Archives explore living things\, from pond lif
+ e to large mammals.\nPrice: Free\nhttps://royalsociety.org/science-event
+ s-and-lectures/2026/06/exhibition-the-beauty-of-the-earth/
+LOCATION:The Royal Society\, London
+URL:https://royalsociety.org/science-events-and-lectures/2026/06/exhibiti
+ on-the-beauty-of-the-earth/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a9264dd0fcb449318663ae0cfd9993c6-occ_791a7d829b6b43f0ad5e4da0692
@@ -4566,7 +4581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dab0df0f33664a1f81bdac15cb0d88cc-occ_bd3011e460364a389a21a770c08
  9ad27@thingstodoinyourcity
-DTSTAMP:20261021T124200Z
+DTSTAMP:20261023T075235Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20261212
 SUMMARY:Hay Fever
@@ -11195,7 +11210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_916e4831491d400893595cd138aa91e4-occ_4628ce2fabb54d8f8149cbaa8c7
  32f7f@thingstodoinyourcity
-DTSTAMP:20261022T192451Z
+DTSTAMP:20261023T075829Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20270905
 SUMMARY:Harry Potter and the Cursed Child
@@ -11347,7 +11362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc8ba9bd350241d6a65ac2ac039c4631-occ_37ae199e84394e44a79fd3dbbc9
  09cdf@thingstodoinyourcity
-DTSTAMP:20261022T191425Z
+DTSTAMP:20261023T075742Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20270314
 SUMMARY:Oliver!
@@ -11507,7 +11522,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_56c19babe1474110aa4d7836d5e6b91c-occ_7e0912f4fd1b41e090f5996ce67
  052d3@thingstodoinyourcity
-DTSTAMP:20261022T192402Z
+DTSTAMP:20261023T075802Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Standard of Living
@@ -11601,10 +11616,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_9cbf7385633d452f8dac73b0e30
@@ -11615,10 +11630,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_7a613cf3beea4f0fab2df11c3ca
@@ -11629,10 +11644,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_701f2e71a2694a5fa4f40221642
@@ -11643,10 +11658,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_ac5656098a5b40ee8d7747cad30
@@ -11657,10 +11672,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_c476427de68b4a34b58af020900
@@ -11671,10 +11686,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_2ebcfc1488f94e99a05c5c0980b
@@ -11685,10 +11700,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_dd6bb2ac73ed469da2925ffd5b1
@@ -11699,10 +11714,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_574819b9976940d68f0f92b12a6
@@ -11713,10 +11728,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_276f772ab4d94efc83cd8a646bd
@@ -11727,10 +11742,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_c84d411be0854405ab2d61b0027
@@ -11741,10 +11756,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_515d27f2637847a396558573600
@@ -11755,10 +11770,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_e3367c1874a24dd7a1bfd57cc83
@@ -11769,10 +11784,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_62cd036273cd4c7cae5199e66c2
@@ -11783,10 +11798,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_f01be4cc7ac64c9aae451f4ac85
@@ -11797,10 +11812,10 @@ SUMMARY:ROLEPLAY
 DESCRIPTION:A struggling feminist podcaster reinvents herself for fame\, 
  only to lose herself. Darkly hilarious and surreal\, it interrogates mod
  ern sex and the personal brand.\nPrice: Standing Full price £23.00\nhtt
- ps://sohotheatre.com/all-shows/
+ ps://sohotheatre.com/events/roleplay
 LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
  1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/all-shows/
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9b3774e3780d4be1ac9a50363933c835-occ_3757a568cf01450183644256343
@@ -15342,12 +15357,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7825841d42664213aca1e0cf0f08ca18-occ_56063bf076ea4dabb3afee78d76
  71237@thingstodoinyourcity
-DTSTAMP:20261022T213908Z
+DTSTAMP:20261023T075956Z
 DTSTART:20261024T184500Z
 SUMMARY:The Shining [UK Version]
-DESCRIPTION:Jack Torrance becomes winter caretaker at the isolated Overlo
- ok Hotel\, hoping to cure his writer's block. Shown on 35mm\, rated 15.\
- nhttps://princecharlescinema.com/film/1865481/the-shining-uk-version
+DESCRIPTION:Jack Torrance takes a winter caretaker post at the isolated O
+ verlook Hotel to cure his writer's block. Screened on 35mm\, rated 15.\n
+ https://princecharlescinema.com/film/1865481/the-shining-uk-version
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/1865481/the-shining-uk-version
@@ -15355,12 +15370,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7825841d42664213aca1e0cf0f08ca18-occ_223c0ad659b949f9b78d7bba175
  024dc@thingstodoinyourcity
-DTSTAMP:20261022T213908Z
+DTSTAMP:20261023T075956Z
 DTSTART:20261031T120500Z
 SUMMARY:The Shining [UK Version]
-DESCRIPTION:Jack Torrance becomes winter caretaker at the isolated Overlo
- ok Hotel\, hoping to cure his writer's block. Shown on 35mm\, rated 15.\
- nhttps://princecharlescinema.com/film/1865481/the-shining-uk-version
+DESCRIPTION:Jack Torrance takes a winter caretaker post at the isolated O
+ verlook Hotel to cure his writer's block. Screened on 35mm\, rated 15.\n
+ https://princecharlescinema.com/film/1865481/the-shining-uk-version
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/1865481/the-shining-uk-version
@@ -16104,15 +16119,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_386be6acd3fe460388d1d187659db14b-occ_d5ff9fe1039f481fa73e7515dfa
  b0e76@thingstodoinyourcity
-DTSTAMP:20261023T001914Z
+DTSTAMP:20261023T080606Z
 DTSTART:20261023T170000Z
 DTEND:20261023T200000Z
 SUMMARY:Connecting Generations: Black History Month Celebration
 DESCRIPTION:Meet fellow student and practising Bar members to celebrate B
- lack History Month. Food and drink are provided\, and the address is sha
- red with guests a week ahead.\nPrice: Not listed — worth a quick ask\n
- https://www.innertemple.org.uk/events/02166-connecting-generations-black
- -history-month-celebration-inner-temple-racial-equality-society
+ lack History Month. Food and drink are provided\; the address is shared 
+ a week ahead.\nPrice: Not listed — worth a quick ask\nhttps://www.inne
+ rtemple.org.uk/events/02166-connecting-generations-black-history-month-c
+ elebration-inner-temple-racial-equality-society
 LOCATION:an external event space in Central London\, 45 Pont Street\, Lon
  don\, SW1X 0BD\, Central London\, London
 URL:https://www.innertemple.org.uk/events/02166-connecting-generations-bl
@@ -16297,9 +16312,9 @@ URL:https://clusterflick.com/movies/a1e6404e/queerhub-film-festival-frida
  y/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_50e0e4b8fe9f4ece8c78a07c28df261e-occ_af8fe3189134447ca1ebc91be88
- 4d08f@thingstodoinyourcity
-DTSTAMP:20261022T201450Z
+UID:cand_50e0e4b8fe9f4ece8c78a07c28df261e-occ_40d4c28aaff24c85854c1fcfce0
+ 4a3d4@thingstodoinyourcity
+DTSTAMP:20261023T075852Z
 DTSTART:20261023T170000Z
 SUMMARY:The Cabinet of Dr. Caligari with Live Score
 DESCRIPTION:Robert Wiene's 1920 expressionist horror screens in a definit
@@ -16380,10 +16395,10 @@ DTSTART:20261023T171500Z
 SUMMARY:Halloween (1978)
 DESCRIPTION:Michael Myers escapes and returns to Haddonfield to kill agai
  n in John Carpenter's 1978 horror. Part of the Horroctober season.\nhttp
- s://princecharlescinema.com/next-7-days/
+ s://princecharlescinema.com/film/28409362/halloween-1978
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/28409362/halloween-1978
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ecc53d83d4344cafa23f06c05c28a9de-occ_f5d9766883624dceb748001c81d
@@ -16393,10 +16408,10 @@ DTSTART:20261025T153000Z
 SUMMARY:Halloween (1978)
 DESCRIPTION:Michael Myers escapes and returns to Haddonfield to kill agai
  n in John Carpenter's 1978 horror. Part of the Horroctober season.\nhttp
- s://princecharlescinema.com/next-7-days/
+ s://princecharlescinema.com/film/28409362/halloween-1978
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/28409362/halloween-1978
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ecc53d83d4344cafa23f06c05c28a9de-occ_76e1f0e2767d4139afac088be54
@@ -16406,10 +16421,10 @@ DTSTART:20261031T151000Z
 SUMMARY:Halloween (1978)
 DESCRIPTION:Michael Myers escapes and returns to Haddonfield to kill agai
  n in John Carpenter's 1978 horror. Part of the Horroctober season.\nhttp
- s://princecharlescinema.com/next-7-days/
+ s://princecharlescinema.com/film/28409362/halloween-1978
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/28409362/halloween-1978
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_20a956f36a894a85a383997be5540a10-occ_7a433931da5a4efc95f1af7c201
@@ -18532,12 +18547,10 @@ DTSTART:20261023T183000Z
 SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this dark\, unsettling parable of
   exploitation. It fuses genres\, spoken word and immersive staging.\nPri
- ce: Tickets from £15\nhttps://www.cntraveller.com/gallery/things-to-do-
- in-london-this-weekend
+ ce: Tickets from £15\nhttps://www.eno.org/events/angels-bone
 LOCATION:London Coliseum\, London Coliseum\, St Martin's Lane\, London WC
  2N 4ES\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
- nd
+URL:https://www.eno.org/events/angels-bone
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ef0aac13aae4003864e95b8fe438976-occ_ae5d62206b54458883c12eef065
@@ -18547,12 +18560,10 @@ DTSTART:20261031T140000Z
 SUMMARY:Angel’s Bone
 DESCRIPTION:Two angels fall to earth in this dark\, unsettling parable of
   exploitation. It fuses genres\, spoken word and immersive staging.\nPri
- ce: Tickets from £15\nhttps://www.cntraveller.com/gallery/things-to-do-
- in-london-this-weekend
+ ce: Tickets from £15\nhttps://www.eno.org/events/angels-bone
 LOCATION:London Coliseum\, London Coliseum\, St Martin's Lane\, London WC
  2N 4ES\, London
-URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
- nd
+URL:https://www.eno.org/events/angels-bone
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_29379f25e7054d33895d4224ba5431fc-occ_781158bca45c4cdbb282c46eaa1
@@ -25496,59 +25507,6 @@ URL:https://www.shakespearesglobe.com/whats-on/sword-fighting-demonstrati
  on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_edc41e1497e343619eff3a38caeffc0b-occ_5830a467644742b886cafe2563b
- 91ea5@thingstodoinyourcity
-DTSTAMP:20261022T132119Z
-DTSTART;VALUE=DATE:20261024
-SUMMARY:TEDxDSU
-DESCRIPTION:This independently organized TEDx event brings the community 
- together to share ideas worth spreading. The event is open to the public
- .\nhttps://www.ted.com/tedx/events/70756
-LOCATION:44 Kanakapura Main Road Jakkasandra Jakkasandsra\, Karnataka\, I
- ndia 562112\, Jakkasandra Jakkasandsra\, Karnataka\, India\, London
-URL:https://www.ted.com/tedx/events/70756
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1d31653e538e41008af7f8dddd956349-occ_687404385636493d8f4de883172
- 58349@thingstodoinyourcity
-DTSTAMP:20261022T131830Z
-DTSTART;VALUE=DATE:20261024
-SUMMARY:TEDxJianye Women
-DESCRIPTION:An independently organized TEDx event bringing the community 
- together to share ideas worth spreading. It is open to the public.\nhttp
- s://www.ted.com/tedx/events/69162
-LOCATION:8 Yong Chu Lu\, Nan Jing Shi\, China 220019\, Nan Jing Shi\, Chi
- na\, London
-URL:https://www.ted.com/tedx/events/69162
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4d6f906424504a1ba416133582f3008d-occ_661f0705de4b418a8bca2466e9d
- dd8aa@thingstodoinyourcity
-DTSTAMP:20261022T131706Z
-DTSTART;VALUE=DATE:20261024
-SUMMARY:TEDxNEU
-DESCRIPTION:This independently organized TEDx event brings the community 
- together to share ideas worth spreading. It is open to the public.\nhttp
- s://www.ted.com/tedx/events/69531
-LOCATION:207 Đường Giải Phóng\, Ha Noi\, Ha Noi\, Vietnam\, Ha Noi
- \, Vietnam\, London
-URL:https://www.ted.com/tedx/events/69531
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f444df2d707b4dc9b4b40ff688ea98bb-occ_f0f5953eca3f4260a60975f9e53
- 2cf04@thingstodoinyourcity
-DTSTAMP:20261022T132154Z
-DTSTART;VALUE=DATE:20261024
-SUMMARY:TEDxPondicherry University
-DESCRIPTION:This independently organized TEDx event brings the community 
- together to share ideas worth spreading. The event is open to the public
- .\nhttps://www.ted.com/tedx/events/70308
-LOCATION:SOM Auditorium\, School of Management Building\, Pondicherry Uni
- versity\, Puducherry (Pondicherry)\, India\, Pondicherry University\, Pu
- ducherry (Pondicherry)\, India\, London
-URL:https://www.ted.com/tedx/events/70308
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ad18be9bb8524af9909852863f59a092-occ_d55bd7006fb64fec98927be7915
  d8496@thingstodoinyourcity
 DTSTAMP:20261022T100844Z
@@ -26668,10 +26626,11 @@ DTSTART:20261024T110000Z
 SUMMARY:The Thing (4K)
 DESCRIPTION:A research team at an Antarctic base is hunted by a shapeshif
  ting creature. Kurt Russell and Wilford Brimley star in John Carpenter's
-  1982 sci-fi horror.\nhttps://princecharlescinema.com/next-7-days/
+  1982 sci-fi horror.\nhttps://princecharlescinema.com/film/2631783/the-t
+ hing
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2631783/the-thing
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad603e99acec4cfb9f72ce026a3e9bad-occ_ad9ed4d0bee34157a1ca82fef7e
@@ -26681,10 +26640,11 @@ DTSTART:20261031T101500Z
 SUMMARY:The Thing (4K)
 DESCRIPTION:A research team at an Antarctic base is hunted by a shapeshif
  ting creature. Kurt Russell and Wilford Brimley star in John Carpenter's
-  1982 sci-fi horror.\nhttps://princecharlescinema.com/next-7-days/
+  1982 sci-fi horror.\nhttps://princecharlescinema.com/film/2631783/the-t
+ hing
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2631783/the-thing
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad603e99acec4cfb9f72ce026a3e9bad-occ_bb68e9334c634794b8330ac04d9
@@ -26694,10 +26654,11 @@ DTSTART:20261101T201000Z
 SUMMARY:The Thing (4K)
 DESCRIPTION:A research team at an Antarctic base is hunted by a shapeshif
  ting creature. Kurt Russell and Wilford Brimley star in John Carpenter's
-  1982 sci-fi horror.\nhttps://princecharlescinema.com/next-7-days/
+  1982 sci-fi horror.\nhttps://princecharlescinema.com/film/2631783/the-t
+ hing
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2631783/the-thing
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7ba0d1828264e09aacfd5d1da126666-occ_9193ddac174041de9653f2aa828
@@ -28428,10 +28389,10 @@ DTSTART:20261024T163000Z
 SUMMARY:Perfect Blue
 DESCRIPTION:A young singer is urged by her agent to quit music for acting
  \, starting with a TV murder mystery role. Satoshi Kon's 1997 anime thri
- ller.\nhttps://princecharlescinema.com/next-7-days/
+ ller.\nhttps://princecharlescinema.com/film/2168243/perfect-blue
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2168243/perfect-blue
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_55839bd153e641d4b98a34c3d0e1d7ff-occ_861524ffcd9e4b4cadb44dff256
@@ -28441,10 +28402,10 @@ DTSTART:20261031T100000Z
 SUMMARY:Perfect Blue
 DESCRIPTION:A young singer is urged by her agent to quit music for acting
  \, starting with a TV murder mystery role. Satoshi Kon's 1997 anime thri
- ller.\nhttps://princecharlescinema.com/next-7-days/
+ ller.\nhttps://princecharlescinema.com/film/2168243/perfect-blue
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2168243/perfect-blue
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_55839bd153e641d4b98a34c3d0e1d7ff-occ_3735930f32574486bbb2fd2ef7b
@@ -28454,10 +28415,10 @@ DTSTART:20261101T180500Z
 SUMMARY:Perfect Blue
 DESCRIPTION:A young singer is urged by her agent to quit music for acting
  \, starting with a TV murder mystery role. Satoshi Kon's 1997 anime thri
- ller.\nhttps://princecharlescinema.com/next-7-days/
+ ller.\nhttps://princecharlescinema.com/film/2168243/perfect-blue
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/2168243/perfect-blue
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d2ead634883a4e059ee2ddf1e98e89ea-occ_fa65e867861c457793cc449403c
@@ -30269,6 +30230,18 @@ URL:https://www.eventbrite.co.uk/e/the-history-of-witchcraft-women-magic-
  rituals-the-patriarchy-tickets-1996088131334
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_64140e1561914e168717d16f5641eafd-occ_5931f237dcfb4e03a81833a37fb
+ 5de87@thingstodoinyourcity
+DTSTAMP:20261023T074947Z
+DTSTART:20261025T085000Z
+SUMMARY:London Marathon 2026
+DESCRIPTION:https://www.london-now.co.uk/news/26046569.london-weekend-ful
+ l-list-events/
+LOCATION:London
+URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-e
+ vents/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4c1473464187400697e6228884dacdea-occ_bafdf33f091147b59a4ea3acb3a
  c7706@thingstodoinyourcity
 DTSTAMP:20261022T154116Z
@@ -30595,6 +30568,57 @@ URL:https://clusterflick.com/movies/5c3979e4/guest-event-london-breeze-fi
  lm-festival-shorts-through-the-lens/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8101d050c7ee4610924334c909f5d7ca-occ_1e849659a0f945c68ed8d2d8713
+ 23d96@thingstodoinyourcity
+DTSTAMP:20261023T074815Z
+DTSTART:20261025T103000Z
+DTEND:20261025T160000Z
+SUMMARY:Monthly open day at The 1940s Experience
+DESCRIPTION:Open once a month\, this WW2-era site was once the US Air For
+ ce 8th Fighter Command headquarters. Expect 1940s rooms\, military hardw
+ are and often reenactors.\nPrice: Standard Ticket: £6.00\nhttps://www.i
+ anvisits.co.uk/calendar/monthly-open-day-at-the-1940s-experience-2-32279
+ 9/
+LOCATION:Bushey Hall Drive\, Bushey Hall Drive Watford London WD23 2ES\, 
+ Watford\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-open-day-at-the-1940s-ex
+ perience-2-322799/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8101d050c7ee4610924334c909f5d7ca-occ_e6c009140c0e48769fd42270e1d
+ 9ccb7@thingstodoinyourcity
+DTSTAMP:20261023T074815Z
+DTSTART:20261129T103000Z
+DTEND:20261129T160000Z
+SUMMARY:Monthly open day at The 1940s Experience
+DESCRIPTION:Open once a month\, this WW2-era site was once the US Air For
+ ce 8th Fighter Command headquarters. Expect 1940s rooms\, military hardw
+ are and often reenactors.\nPrice: Standard Ticket: £6.00\nhttps://www.i
+ anvisits.co.uk/calendar/monthly-open-day-at-the-1940s-experience-2-32279
+ 9/
+LOCATION:Bushey Hall Drive\, Bushey Hall Drive Watford London WD23 2ES\, 
+ Watford\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-open-day-at-the-1940s-ex
+ perience-2-322799/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8101d050c7ee4610924334c909f5d7ca-occ_59f5cc881b1e4e61ab8120b738b
+ afe48@thingstodoinyourcity
+DTSTAMP:20261023T074815Z
+DTSTART:20270425T093000Z
+DTEND:20270425T150000Z
+SUMMARY:Monthly open day at The 1940s Experience
+DESCRIPTION:Open once a month\, this WW2-era site was once the US Air For
+ ce 8th Fighter Command headquarters. Expect 1940s rooms\, military hardw
+ are and often reenactors.\nPrice: Standard Ticket: £6.00\nhttps://www.i
+ anvisits.co.uk/calendar/monthly-open-day-at-the-1940s-experience-2-32279
+ 9/
+LOCATION:Bushey Hall Drive\, Bushey Hall Drive Watford London WD23 2ES\, 
+ Watford\, London
+URL:https://www.ianvisits.co.uk/calendar/monthly-open-day-at-the-1940s-ex
+ perience-2-322799/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_55e094b1655d46ad88cbe714060ed900-occ_2e4530c9df1644ca91c5ae9aa89
  72efe@thingstodoinyourcity
 DTSTAMP:20261022T005952Z
@@ -30630,6 +30654,38 @@ SUMMARY:Deep London: Blake and Mysteries of Kings Cross
 DESCRIPTION:https://bloomsburyfestival.org.uk/whats-on
 LOCATION:Outside St Pancras Church\, London
 URL:https://bloomsburyfestival.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2508bf902500446c9d413e96cd52eaf6-occ_4952c81ebc8745a9bae15098bfa
+ 1c4f4@thingstodoinyourcity
+DTSTAMP:20261023T074813Z
+DTSTART:20261025T110000Z
+DTEND:20261025T160000Z
+SUMMARY:Fortnightly open day at the Harmondsworth Barn
+DESCRIPTION:Built in 1426 for Winchester College\, this is England's larg
+ est surviving timber-framed barn. Its oak interior has twelve pairs of p
+ osts and beams.\nPrice: Free\nhttps://www.ianvisits.co.uk/calendar/fortn
+ ightly-open-day-at-the-harmondsworth-barn-429697/
+LOCATION:Harmondsworth Barn\, The Great Barn\, Manor Court\, High Street\
+ , Harmondsworth\, UB7 0AQ\, West Drayton\, London
+URL:https://www.ianvisits.co.uk/calendar/fortnightly-open-day-at-the-harm
+ ondsworth-barn-429697/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_85c4cb1cfc0e4f749f91b89a7435dbe8-occ_7a8b916d144a48f5a88ae35fbc8
+ 647e2@thingstodoinyourcity
+DTSTAMP:20261023T074859Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Hidden Gardens of London Walking Tour
+DESCRIPTION:Explore churchyards and livery company gardens shaped by the 
+ Fire of London and the Blitz. The walk lasts about 90 minutes\, involves
+  walking and steps\, and meets near St Paul's.\nPrice: Standard £25\; R
+ educed Price £20\nhttps://foundlingmuseum.org.uk/event/hidden-gardens-o
+ f-london-25-oct/
+LOCATION:Foundling Museum\, 40 Brunswick Square London WC1N 1AZ\, Clerken
+ well\, London
+URL:https://foundlingmuseum.org.uk/event/hidden-gardens-of-london-25-oct/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_93e2aeaccc8e430b8bfaeee05a9dc240-occ_3b2e54a4b40240a7b8eac7729f7
@@ -30702,10 +30758,11 @@ DTSTART:20261025T124000Z
 SUMMARY:Possession
 DESCRIPTION:Anna leaves her husband Mark\, who hires a private investigat
  or to follow her. As Anna descends into madness\, a much bigger\, inexpl
- icable secret emerges.\nhttps://princecharlescinema.com/next-7-days/
+ icable secret emerges.\nhttps://princecharlescinema.com/film/18916683/po
+ ssession
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/18916683/possession
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_26b46cd1295248a98e975a3f5a5d91aa-occ_4597c6e919f04c56a1278c963d2
@@ -30723,6 +30780,176 @@ URL:https://princecharlescinema.com/film/23839276/night-of-the-living-dea
  d-1968/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_cd49dcc3fe074210be5e0ae286b
+ a08a8@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_667718c94956485ea9e74e655f2
+ 78cc0@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261101T130000Z
+DTEND:20261101T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_7b1cb9329eab420d8705432e881
+ 1b2ec@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_d33504a6c19347408bcb6e60568
+ 5a64e@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261115T130000Z
+DTEND:20261115T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_72b384459d19471d9bc5f73aea0
+ 1e437@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261122T130000Z
+DTEND:20261122T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_7b6a488c88a14daaae6f336e41b
+ 8760a@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261129T130000Z
+DTEND:20261129T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_7281e98cd54c4475b12ed204836
+ 242f9@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_c0ef2eecf93341d496e298fc2b6
+ 80174@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261213T130000Z
+DTEND:20261213T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_f05a8693aff646959488524306f
+ f9639@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261220T130000Z
+DTEND:20261220T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9ff5b1a0cb04a2794089d871d8fbce9-occ_404762d0ac93465088faf586dca
+ b1c8b@thingstodoinyourcity
+DTSTAMP:20261023T074926Z
+DTSTART:20261227T130000Z
+DTEND:20261227T150000Z
+SUMMARY:Rock ‘n’ Roll Walking Tour of Soho
+DESCRIPTION:Explore Soho’s riff-filled music history\, from where famou
+ s artists lived and played. The exact route stays secret until the tour\
+ , with promised stops at a club and an alley.\nPrice: Standard Ticket: 
+ £16.75\nhttps://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-o
+ f-soho-with-a-funny-music-nerd-430108
+LOCATION:Starbucks Coffee (outside)\, 6A Vigo Street W1S 3HF\, Mayfair\, 
+ London
+URL:https://www.ianvisits.co.uk/calendar/rock-n-roll-walking-tour-of-soho
+ -with-a-funny-music-nerd-430108
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_260fc2fce57946b0b9eac840c56cc9d3-occ_7ec2b02d74364acf89c9db906a0
  c9b18@thingstodoinyourcity
 DTSTAMP:20261021T174029Z
@@ -30733,6 +30960,36 @@ DESCRIPTION:https://clusterflick.com/movies/49c3ed7c/freewheeling-film-aw
 LOCATION:The Castle Cinema\, London
 URL:https://clusterflick.com/movies/49c3ed7c/freewheeling-film-awards-202
  6-annual/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_96433e014701479b8f2cb8e16b91c13a-occ_5fe45add9a964facaecb1abb4ba
+ f46ba@thingstodoinyourcity
+DTSTAMP:20261023T074700Z
+DTSTART:20261025T140000Z
+DTEND:20261025T180000Z
+SUMMARY:Buffy Bottomless Brunch
+DESCRIPTION:Fans gather for four hours of Buffy trivia\, drag performance
+ s\, a sing-along and a costume competition. Ticket options range from en
+ try-only to full bottomless drinks with food.\nPrice: Tickets from £21.
+ 94 - £59.34\nhttps://bougie-drag-events.designmynight.com/605b5758abcae
+ 1326465fb15/buffy-bottomless-brunch
+LOCATION:45 London\, Shoreditch\, London
+URL:https://bougie-drag-events.designmynight.com/605b5758abcae1326465fb15
+ /buffy-bottomless-brunch
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cea6b804400541bfb74822f921133317-occ_d6740c10c3c640398d61c4ea85d
+ 8ac75@thingstodoinyourcity
+DTSTAMP:20261023T075103Z
+DTSTART:20261025T140000Z
+SUMMARY:Fallen Angels by Noël Coward
+DESCRIPTION:A champagne-fresh 1925 Noël Coward comedy of bad manners\, f
+ ilmed live on Broadway. Rose Byrne and Kelli O'Hara star in this Roundab
+ out production.\nhttps://www.picturehouses.com/movie-details/022/HO00018
+ 410/fallen-angels-by-no-l-coward?filter=
+LOCATION:Screen Arts\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018410/fallen-ang
+ els-by-no-l-coward?filter=
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aa77cf25fe0944669799bd36cebe1a4b-occ_ddf7afa8d9d0463a938e47de873
@@ -30928,6 +31185,22 @@ DESCRIPTION:Historian Alec Forshaw traces Bloomsbury's architecture from
 LOCATION:City Lit\, Keeley Street Covent Garden \, WC2B 4BA\, London
 URL:https://bloomsburyfestival.org.uk/whats-on/the-architecture-of-blooms
  bury
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7ef4b9b0e6ff4d48968524ca2d6d3077-occ_f563581009aa44ab9053f95dd07
+ d0d22@thingstodoinyourcity
+DTSTAMP:20261023T074925Z
+DTSTART:20261025T143000Z
+DTEND:20261025T153000Z
+SUMMARY:The Architecture of Bloomsbury
+DESCRIPTION:Historian Alec Forshaw traces Bloomsbury's architecture from 
+ the 17th to 21st centuries. Topics include the Foundling Hospital\, Brit
+ ish Museum and 19th-century railways.\nPrice: Free\nhttps://www.ianvisit
+ s.co.uk/calendar/the-architecture-of-bloomsbury-434891/
+LOCATION:City Lit\, 1-10 Keeley Street\, Covent Garden\, London WC2B 4BA\
+ , Covent Garden\, London
+URL:https://www.ianvisits.co.uk/calendar/the-architecture-of-bloomsbury-4
+ 34891/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_49f42cc11ef64e1fb3a80c6ad64cacde-occ_7234f571f05e42a69aa6210a7b0
@@ -31214,6 +31487,20 @@ URL:https://www.eventbrite.co.uk/e/sunderland-vs-leeds-live-screening-tic
  kets-1999787946581
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a3c301a028f84519afd8db05e33e6698-occ_f94d7673b5804767b46cdc260a1
+ 96b66@thingstodoinyourcity
+DTSTAMP:20261023T073308Z
+DTSTART:20261025T163000Z
+SUMMARY:Tenzing
+DESCRIPTION:A determined man sets out on a high-stakes quest to become th
+ e first to reach the summit of Mount Everest. Directed by Jennifer Peedo
+ m\; runs 126 minutes and rated PG.\nhttps://www.phoenixcinema.co.uk/Phoe
+ nixCinemaLondon.dll/WhatsOn?f=759805
+LOCATION:London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=759
+ 805
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_91468acbc7314667aed2574c391958f1-occ_fb81d73977184e40a9b54126d86
  ef394@thingstodoinyourcity
 DTSTAMP:20261022T031354Z
@@ -31374,10 +31661,12 @@ DTSTART:20261025T174500Z
 SUMMARY:Nosferatu with Live Score
 DESCRIPTION:Hugo Max performs a live score for F. W. Murnau's 1922 silent
   horror. Max Schreck stars as Count Orlok in the first screen adaptation
-  of Bram Stoker's Dracula.\nhttps://princecharlescinema.com/next-7-days/
+  of Bram Stoker's Dracula.\nhttps://princecharlescinema.com/film/1719808
+ 9/nosferatu-with-live-score
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/17198089/nosferatu-with-live-sco
+ re
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b267bf41cb042e6b9d1624ef2ca4ad6-occ_aa28ada6680745c19796224d6e1
@@ -31429,6 +31718,22 @@ SUMMARY:Dvořák Piano Quartet
 DESCRIPTION:https://londontalks.uk/
 LOCATION:CONWAY HALL\, 25 RED LION SQUARE\, LONDON\, London
 URL:https://londontalks.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e79f31959df640aa8a83503bddbd676e-occ_a9cd92666457482fa1f09ac0e5f
+ d8ec0@thingstodoinyourcity
+DTSTAMP:20261023T074843Z
+DTSTART:20261025T183000Z
+DTEND:20261025T204500Z
+SUMMARY:Jail Birds of Old London walking tour
+DESCRIPTION:Join a Victorian lady guide to discover four lesser-known fem
+ ale felons of London's past. Stories and dramatic re-enactments cover cr
+ imes and executions from the 1800s and early 1900s.\nPrice: £25\nhttps:
+ //www.ianvisits.co.uk/calendar/jail-birds-of-old-london-walking-tour-2-4
+ 33880/
+LOCATION:The Old Bailey\, London EC4M 7EH\, City of London\, London
+URL:https://www.ianvisits.co.uk/calendar/jail-birds-of-old-london-walking
+ -tour-2-433880/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_82d8e0095e4945b2a555e2922a35318f-occ_9010050f0ddd443cbf39d832feb
@@ -31654,10 +31959,12 @@ DTSTART:20261025T203000Z
 SUMMARY:Backrooms: Everything Must Go Edition\, Bonus Footage
 DESCRIPTION:A strange doorway appears in the basement of a furniture show
  room. Horror directed by Kane Parsons\, 126 minutes.\nhttps://princechar
- lescinema.com/next-7-days/
+ lescinema.com/film/31617405/backrooms-everything-must-go-edition-with-bo
+ nus-footage
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/31617405/backrooms-everything-mu
+ st-go-edition-with-bonus-footage
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e9cae3f54cdf4c23aa664a7334c2fdcc-occ_65846dabbf5d43888277c9ebd98
@@ -31685,10 +31992,11 @@ DTSTART:20261128T172500Z
 SUMMARY:The Mummy [1999]
 DESCRIPTION:A 1925 Sahara expedition stumbles on an ancient tomb and unle
  ashes a 3\,000-year-old legacy of terror. Presented on 35mm\; rated 12A 
- and runs 125 minutes.\nhttps://princecharlescinema.com/next-7-days/
+ and runs 125 minutes.\nhttps://princecharlescinema.com/film/9899335/the-
+ mummy-1999
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
-URL:https://princecharlescinema.com/next-7-days/
+URL:https://princecharlescinema.com/film/9899335/the-mummy-1999
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0cf1e70d15814829a39c071f9892a102-occ_d0fa6526de4f486ebd5e4b699fa
