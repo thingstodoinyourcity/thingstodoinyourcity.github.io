@@ -969,22 +969,6 @@ URL:https://onecitylondon.com/event/exhibition-londoners-on-trial-1244-19
  24/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9548625c068c46098c083879357ea95a-occ_4d2fb16e847546868ae08a1410b
- 9e21e@thingstodoinyourcity
-DTSTAMP:20261021T165315Z
-DTSTART:20260312T080000Z
-DTEND:20261025T204500Z
-SUMMARY:Padel at Tower Hill Terrace
-DESCRIPTION:An outdoor padel court returns to Tower Hill Terrace\, by the
-  Tower of London. It welcomes all abilities and is wheelchair accessible
- \, with evening sessions lit after dark.\nPrice: £55 for 45min / £110 
- for 90min\nhttps://onecitylondon.com/event/padel-by-london-sport-festiva
- l/
-LOCATION:Tower Hill Terrace\, Tower Hill Terrace\, London\, EC3N 4EE\, Lo
- ndon
-URL:https://onecitylondon.com/event/padel-by-london-sport-festival/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_adfcf63f668a41caa15729a5c1f8fe8b-occ_ab393f8f6abd478393e620c10c4
  9ff09@thingstodoinyourcity
 DTSTAMP:20261021T122548Z
@@ -3322,6 +3306,21 @@ LOCATION:London
 URL:https://frameless.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6426ce21333548c78c775a156597148b-occ_3372c88bc1ec4110b8a574851bc
+ 424af@thingstodoinyourcity
+DTSTAMP:20261025T224328Z
+DTSTART:20260911T210000Z
+DTEND;VALUE=DATE:20270109
+SUMMARY:The Nikon Comedy Wildlife Awards at Frameless Lates
+DESCRIPTION:Explore four immersive galleries with a drink after hours. Se
+ ven immersive habitats reframe a decade of the Awards' funniest photogra
+ phs.\nPrice: Tickets from £18\nhttps://frameless.com/frameless-lates/co
+ medy-wildlife-awards/
+LOCATION:Blank Canvas Gallery\, FRAMELESS\, 6 Marble Arch\, London W1H 7A
+ P\, London
+URL:https://frameless.com/frameless-lates/comedy-wildlife-awards/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f55a3fd89178473383cebf6fef4e9274-occ_01b36fb74fa946d089e5d6085f5
  78343@thingstodoinyourcity
 DTSTAMP:20261022T021129Z
@@ -4925,6 +4924,22 @@ DESCRIPTION:https://www.newexhibitions.com/e/68996
 LOCATION:Vivienne Roberts Projects\, The Bindery\, 53 Hatton Garden Londo
  n EC1N 8HN\, London
 URL:https://www.newexhibitions.com/e/68996
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cb36e67537604a6f869e0ce859b9ee8b-occ_1424b78327504411af26fc8e653
+ eaaf9@thingstodoinyourcity
+DTSTAMP:20261025T215244Z
+DTSTART:20260929T073000Z
+DTEND:20270110T150000Z
+SUMMARY:Nunnery Cafe exhibition | Julie Vermeille
+DESCRIPTION:Ink and collage works reflect on memory\, abstraction and the
+  white space left in the artist's practice. Prints and framed originals 
+ are available to buy from the Cafe.\nPrice: Free – Drop in – all are
+  welcome!\nhttps://bowarts.org/event/nunnery-cafe-exhibition-julie-verme
+ ille/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, London\, London 
+ E3 2SJ\, United Kingdom\, London
+URL:https://bowarts.org/event/nunnery-cafe-exhibition-julie-vermeille/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d15b5b5a389f4b788cf1004744b6c50a-occ_647f1bf26ac0498eb38a2a4af54
@@ -7441,23 +7456,6 @@ URL:https://www.eventbrite.co.uk/e/camden-markets-black-history-season-ho
  nouring-our-community-tickets-2001044142898
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6d83219562714d9ea9c11fec253e4dcf-occ_85309b16408641bbb7100d60494
- 29f28@thingstodoinyourcity
-DTSTAMP:20261023T011047Z
-DTSTART:20261009T090000Z
-DTEND:20261025T220000Z
-SUMMARY:Black History Season: Honouring Our Community
-DESCRIPTION:Curated with Orphée Kashala\, this indoor and outdoor show h
- onours those who shaped Camden's community. Archival imagery\, artworks 
- and photos of creatives and pioneers feature.\nPrice: FREE\nhttps://www.
- eventbrite.co.uk/e/camden-markets-black-history-season-honouring-our-com
- munity-tickets-2001044142898
-LOCATION:Camden Market Stables\, Lock and Hawley Wharf\, 1 Dockray Place 
- London NW1 8QH\, London\, England\, London
-URL:https://www.eventbrite.co.uk/e/camden-markets-black-history-season-ho
- nouring-our-community-tickets-2001044142898
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_9af069602ce04efeb8c29d4dc360e2eb-occ_aaa604688eaf449ca3e8a8dc7a5
  5b55a@thingstodoinyourcity
 DTSTAMP:20261022T010948Z
@@ -7681,6 +7679,35 @@ LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, London
 URL:https://bowarts.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7c466b679f0649d2bae8853c3173f3c5-occ_518327e12d4d4b74b43ad00e63b
+ 840cb@thingstodoinyourcity
+DTSTAMP:20261025T225609Z
+DTSTART:20261009T090000Z
+DTEND:20261220T160000Z
+SUMMARY:Bhajan Hunjan: speaking through materials
+DESCRIPTION:A solo show of print\, painting\, sculpture and collage spann
+ ing over 40 years. It also explores her public art materials\, from silk
+ -screen glass to stonework.\nPrice: Free\nhttps://bowarts.org/event/bhaj
+ an-hunjan-speaking-through-materials/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road London\, London E3
+  2SJ United Kingdom\, London
+URL:https://bowarts.org/event/bhajan-hunjan-speaking-through-materials/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7c466b679f0649d2bae8853c3173f3c5-occ_0369e743b2e642c0849c0b88724
+ 3209f@thingstodoinyourcity
+DTSTAMP:20261025T225609Z
+DTSTART:20261025T100000Z
+SUMMARY:Bhajan Hunjan: speaking through materials
+DESCRIPTION:A solo show of print\, painting\, sculpture and collage spann
+ ing over 40 years. It also explores her public art materials\, from silk
+ -screen glass to stonework.\nPrice: Free\nhttps://bowarts.org/event/bhaj
+ an-hunjan-speaking-through-materials/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road London\, London E3
+  2SJ United Kingdom\, London
+URL:https://bowarts.org/event/bhajan-hunjan-speaking-through-materials/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_023bc5e014004ce1bbaa0ac013536082-occ_0e51e8125ad74d669c739652309
  b624c@thingstodoinyourcity
 DTSTAMP:20261022T011500Z
@@ -7876,6 +7903,20 @@ DESCRIPTION:Brajkovic reinterprets classical furniture with sinuous\, pat
 LOCATION:David Gill\, 2-4 King Street\, St. James's\, SW1Y 6QP\, London\,
   London West End\, London
 URL:https://www.galleriesnow.net/shows/sebastian-brajkovic-lanima-enigma/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1c31bf3c929d46848d3242fde26aae9c-occ_0a80325f56574a34a8679d85b99
+ 1e0bc@thingstodoinyourcity
+DTSTAMP:20261025T215710Z
+DTSTART:20261009T230000Z
+DTEND:20270130T235900Z
+SUMMARY:Open to Ideas Programme
+DESCRIPTION:Mindful workshops focused on wellbeing and connection\, offer
+ ing a safe\, inclusive space to discuss ideas and embrace creative activ
+ ity. Booking is essential.\nPrice: Free\nhttps://bowarts.org/event/open-
+ to-ideas-programme/
+LOCATION:London
+URL:https://bowarts.org/event/open-to-ideas-programme/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3a08d63ccb0847c3bc7a9f18b7c47a36-occ_113754f27e3b4eb69c947e9c8c5
@@ -9129,6 +9170,114 @@ LOCATION:Yamamoto Keiko Rochaix\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_619a8f65fe434bbfb4c626357e1
+ 02935@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261101
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_700e21f7c9724d1a912b141566a
+ a6b4e@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART:20261026T100000Z
+DTEND:20261026T140000Z
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_31309625bd874a169a83a6f4f1d
+ 02611@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART:20261026T110000Z
+DTEND:20261101T150000Z
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_d0ef353e8b1f4e28b030af95c1a
+ 73a9a@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART:20261027T100000Z
+DTEND:20261027T140000Z
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_f4f064310ab745b1ab3c6e6592b
+ 845b1@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART:20261028T100000Z
+DTEND:20261028T140000Z
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_545c2e847d39432da34c2dbe520756c1-occ_221137c8282e4403bbb2372693f
+ 6711a@thingstodoinyourcity
+DTSTAMP:20261025T231521Z
+DTSTART:20261029T100000Z
+DTEND:20261029T140000Z
+SUMMARY:Curse of the Mummy
+DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
+  Halloween show. Included with London Dungeon ticket\; pre-book online t
+ o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
+ ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
+ =affiliate&utm_campaign=1100l133
+LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
+ ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
+ SE1\, London
+URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
+ _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_11c40bd551ad48d792f5611b7f772308-occ_07186f0bd8bb4352bb457ca80fa
  cacc5@thingstodoinyourcity
 DTSTAMP:20261021T202328Z
@@ -9614,6 +9763,22 @@ DESCRIPTION:Le Creuset takes over Harrods' Linley Kitchen with a world-fi
 LOCATION:Harrods\, 87-135 Brompton Road\, London SW1X 7XL\, London
 URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
  nd
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_43bfb62b0b674291bac61ea1b8184998-occ_d3a8e8641d0a46f89d7ced19f82
+ ad581@thingstodoinyourcity
+DTSTAMP:20261025T215539Z
+DTSTART:20261020T080000Z
+DTEND:20261026T170000Z
+SUMMARY:Barking & Dagenham Schools Celebration Exhibition 2026
+DESCRIPTION:Student work from Southwood and James Cambell Primary Schools
+ \, curated by Liane Harris. Three student films screen continuously all 
+ week.\nhttps://bowarts.org/event/barking-dagenham-consortium-celebration
+ -exhibition-2026/
+LOCATION:Make It Barking\, Roycraft House\, 15 Linton Road\, Barking IG11
+  8HE\, Barking\, London
+URL:https://bowarts.org/event/barking-dagenham-consortium-celebration-exh
+ ibition-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eb2c23ee979f41a5bf040a5b671c0a7e-occ_fe70ff5fc0424128bbf721eb3ed
@@ -11930,6 +12095,34 @@ LOCATION:London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_42bfbd53eda549c392ef7bdf9840e3b4-occ_db8db2d8e6f543c890d58e4867e
+ 88981@thingstodoinyourcity
+DTSTAMP:20261025T220230Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261101
+SUMMARY:October Half Term at FRAMELESS
+DESCRIPTION:Four immersive art galleries bring over 40 masterpieces to li
+ fe with projections and an original score. The Nikon Comedy Wildlife Awa
+ rds residency is included with your ticket.\nhttps://frameless.com/whats
+ -on/october-half-term/
+LOCATION:FRAMELESS\, London
+URL:https://frameless.com/whats-on/october-half-term/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42bfbd53eda549c392ef7bdf9840e3b4-occ_239d3def9b214fdd92173b3c919
+ 350d5@thingstodoinyourcity
+DTSTAMP:20261025T220230Z
+DTSTART:20261025T100000Z
+DTEND:20261101T190000Z
+SUMMARY:October Half Term at FRAMELESS
+DESCRIPTION:Four immersive art galleries bring over 40 masterpieces to li
+ fe with projections and an original score. The Nikon Comedy Wildlife Awa
+ rds residency is included with your ticket.\nhttps://frameless.com/whats
+ -on/october-half-term/
+LOCATION:FRAMELESS\, London
+URL:https://frameless.com/whats-on/october-half-term/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a978a815c9024020ab418cd9eaf3406b-occ_ee2a778dbc7545c580964f163b4
  3b1b7@thingstodoinyourcity
 DTSTAMP:20261023T001213Z
@@ -12465,20 +12658,6 @@ UID:cand_b74c610e7bc941beaccaa65600934f47-occ_044bbb885cbc4fbf9f97ecb320b
  5eb98@thingstodoinyourcity
 DTSTAMP:20261021T235932Z
 DTSTART;VALUE=DATE:20261025
-SUMMARY:F1® Arcade - United States Grand Prix Watch Party
-DESCRIPTION:Every lap of the United States Grand Prix is shown live on hu
- ge screens with commentary. Complimentary mini-games like React and Ligh
- ts Out\, plus quizzes\, add to the fun.\nhttps://www.wherecanwego.com/it
- em/e1608850
-LOCATION:1 New Change EC4M 9AF\, 1 New Change London EC4M 9AF\, London
-URL:https://www.wherecanwego.com/item/e1608850
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b74c610e7bc941beaccaa65600934f47-occ_2447a42ca78c415c83c13991f64
- fcb9e@thingstodoinyourcity
-DTSTAMP:20261021T235932Z
-DTSTART:20261025T100000Z
-DTEND:20261025T230000Z
 SUMMARY:F1® Arcade - United States Grand Prix Watch Party
 DESCRIPTION:Every lap of the United States Grand Prix is shown live on hu
  ge screens with commentary. Complimentary mini-games like React and Ligh
@@ -13402,6 +13581,19 @@ DESCRIPTION:James Gillespie is 12 years old and the world he knew is chan
  atcatcher/
 LOCATION:The Lexi Cinema\, London
 URL:https://clusterflick.com/movies/29698/ratcatcher/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f829eefdc02f4d78bd500ba164af8a75-occ_4163b700f4624dd49bb2e016063
+ 046fe@thingstodoinyourcity
+DTSTAMP:20261025T214039Z
+DTSTART;VALUE=DATE:20261025
+SUMMARY:Sunday Night in London
+DESCRIPTION:A Sunday night out in London\, billed as an incredible night 
+ out at Tape London and partner venues. Start time and ticket details are
+  not stated in the listing.\nhttps://londonnightguide.com/
+LOCATION:Tape London\, Dear Darling\, Mistress of Mayfair\, Selene\, Lond
+ on
+URL:https://londonnightguide.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_65d57587573a4ec0b60136472ea3ff32-occ_fc8c3165faef44faae83f64d44d
@@ -18997,6 +19189,20 @@ LOCATION:Vaudeville Theatre\, The Strand\, London\, WC2R 0NH\, London
 URL:https://seatplan.com/london/six-tickets/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1453e00c376f4b0894d16e599f2b2cab-occ_10e6923ec060427ba41dff9839e
+ 44103@thingstodoinyourcity
+DTSTAMP:20261022T200428Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261219
+SUMMARY:Six the Musical
+DESCRIPTION:Henry VIII’s ex-wives reign over the West End in a fist-pum
+ ping histo-remix pop concert. The show runs 1 hour and 20 minutes with n
+ o interval.\nPrice: from £40.71\nhttps://seatplan.com/london/six-ticket
+ s/
+LOCATION:Vaudeville Theatre\, The Strand\, London\, WC2R 0NH\, London
+URL:https://seatplan.com/london/six-tickets/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bc314f22d4c649159c9978deba0b0e6d-occ_968771e248c043ffb1753724d30
  9d20e@thingstodoinyourcity
 DTSTAMP:20261023T012327Z
@@ -19918,19 +20124,6 @@ LOCATION:London
 URL:https://www.peckhamplex.london/films/listings
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_62dac54692ff4efdab88463bc108c0cb-occ_aa654a6ae02c4933842fa7f0433
- 4283e@thingstodoinyourcity
-DTSTAMP:20261023T025915Z
-DTSTART:20261025T160000Z
-DTEND:20261025T220000Z
-SUMMARY:Halloween at Kew Gardens
-DESCRIPTION:https://www.londonforkidz.com/post/things-to-do-in-london-thi
- s-weekend-with-kids
-LOCATION:Royal Botanic Gardens\, Kew\, Richmond\, Richmond\, London
-URL:https://www.londonforkidz.com/post/things-to-do-in-london-this-weeken
- d-with-kids
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0f980a9a6ef54c868ae154c61b7170bd-occ_417e301c1f40465bb46130f5b3e
  a1a3c@thingstodoinyourcity
 DTSTAMP:20261023T030411Z
@@ -20733,22 +20926,6 @@ LOCATION:ROYAL FESTIVAL HALL\, London
 URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0ab12741dee5454695751e0eba7e82d3-occ_6b83431e5e4e45e292ed277c4e8
- 4de35@thingstodoinyourcity
-DTSTAMP:20261022T104328Z
-DTSTART:20261025T180000Z
-DTEND:20261025T223000Z
-SUMMARY:SGLJ Presents: SEXY GIRLS LUV HALLOWEEN
-DESCRIPTION:Sexy Girls Luv Jungle returns for a freaky Halloween night of
-  underground sounds. Dress in your scariest\, sexiest costume for the co
- stume competition.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/sglj-pre
- sents-sexy-girls-luv-halloween-tickets-2001781727032
-LOCATION:Boxpark Shoreditch\, 2-10 Bethnal Green Road London E1 6GY\, Lon
- don\, England\, London
-URL:https://www.eventbrite.co.uk/e/sglj-presents-sexy-girls-luv-halloween
- -tickets-2001781727032
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7ab9bce1bac1488b8a5881db8b95d104-occ_288a2fdfed4c4e1e83cb2877398
  20bfb@thingstodoinyourcity
 DTSTAMP:20261022T044110Z
@@ -20772,38 +20949,6 @@ SUMMARY:Dvořák Piano Quartet
 DESCRIPTION:https://londontalks.uk/
 LOCATION:CONWAY HALL\, 25 RED LION SQUARE\, LONDON\, London
 URL:https://londontalks.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e79f31959df640aa8a83503bddbd676e-occ_a9cd92666457482fa1f09ac0e5f
- d8ec0@thingstodoinyourcity
-DTSTAMP:20261023T074843Z
-DTSTART:20261025T183000Z
-DTEND:20261025T204500Z
-SUMMARY:Jail Birds of Old London walking tour
-DESCRIPTION:Join a Victorian lady guide to discover four lesser-known fem
- ale felons of London's past. Stories and dramatic re-enactments cover cr
- imes and executions from the 1800s and early 1900s.\nPrice: £25\nhttps:
- //www.ianvisits.co.uk/calendar/jail-birds-of-old-london-walking-tour-2-4
- 33880/
-LOCATION:The Old Bailey\, London EC4M 7EH\, City of London\, London
-URL:https://www.ianvisits.co.uk/calendar/jail-birds-of-old-london-walking
- -tour-2-433880/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_82d8e0095e4945b2a555e2922a35318f-occ_9010050f0ddd443cbf39d832feb
- 93f10@thingstodoinyourcity
-DTSTAMP:20261021T173245Z
-DTSTART:20261025T183000Z
-DTEND:20261025T203000Z
-SUMMARY:Standing Up by Kumal Kamra
-DESCRIPTION:Kunal Kamra brings new material to the underground\, performe
- d in Hindi. Bar and kitchen open at 6pm\, and the show starts at 7:30pm.
- \nPrice: £35 - £49\nhttps://backyardcomedyclub.co.uk/event/link/?ceId=
- 51af7afb-1fa5-4272-bc90-9478759cdb53
-LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
- E2 0EL\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/event/link/?ceId=51af7afb-1fa5-4272-
- bc90-9478759cdb53
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_40e20c268efb4022ae5f1f5d71a9107c-occ_d5e161bdc70147adac75bce9aa0
@@ -20896,21 +21041,6 @@ DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
  ble-love
 LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cda11f96371941038d487ee1512bc8d4-occ_bed3067cfb9447bd81143aa4167
- cd0e3@thingstodoinyourcity
-DTSTAMP:20261021T193956Z
-DTSTART:20261025T193000Z
-DTEND:20261025T221500Z
-SUMMARY:Collywobblers Comedy at The Railway Streatham Common
-DESCRIPTION:Price: £8\nhttps://opencomedy.com/uk/gigs/london/the-railway
- /collywobblers-comedy-at-the-railway-streatham-common-shazia-mirza-chris
- -ford-suzie-preece-ramsey-smi/19077
-LOCATION:The Railway\, 100 West End Lane\, London\, NW6 2LU\, London
-URL:https://opencomedy.com/uk/gigs/london/the-railway/collywobblers-comed
- y-at-the-railway-streatham-common-shazia-mirza-chris-ford-suzie-preece-r
- amsey-smi/19077
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_59862857f6ae47a791bc6820fbdb9a91-occ_71fa6fc4464046f5bdd8033d2ea
@@ -21070,36 +21200,6 @@ DESCRIPTION:Lilia returns to Tunisia for her uncle's funeral\, uncovering
  10253219
 LOCATION:Screen 2\, London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10253219
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eef910e401f740038f3202e01f292703-occ_224a73b475004d60a091bceea9e
- b9453@thingstodoinyourcity
-DTSTAMP:20261021T180940Z
-DTSTART:20261025T200000Z
-DTEND:20261025T210000Z
-SUMMARY:In Beauty I Walk
-DESCRIPTION:Walk round the Third Orchestra as musicians from many world c
- ultures play in the round. Sounds are projected through 12 spatial audio
-  speakers.\nPrice: £12-£17.50\nhttps://www.fundeey.com/event/6a43a3c62
- 3316e55a8c611e8
-LOCATION:Goodenough College (London House)\, Goodenough College\, Mecklen
- burgh Square\,\, London\, United Kingdom\, WC1N 2AB\, London
-URL:https://www.fundeey.com/event/6a43a3c623316e55a8c611e8
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_eef910e401f740038f3202e01f292703-occ_20c3d01928a345709a60a2feda5
- 291b1@thingstodoinyourcity
-DTSTAMP:20261021T180940Z
-DTSTART:20261025T210000Z
-DTEND:20261025T220000Z
-SUMMARY:In Beauty I Walk
-DESCRIPTION:Walk round the Third Orchestra as musicians from many world c
- ultures play in the round. Sounds are projected through 12 spatial audio
-  speakers.\nPrice: £12-£17.50\nhttps://www.fundeey.com/event/6a43a3c62
- 3316e55a8c611e8
-LOCATION:Goodenough College (London House)\, Goodenough College\, Mecklen
- burgh Square\,\, London\, United Kingdom\, WC1N 2AB\, London
-URL:https://www.fundeey.com/event/6a43a3c623316e55a8c611e8
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_557049b0ba5f45f29c89d98343ad0d4c-occ_f9ac8687babe463d994165adc8e
@@ -21269,22 +21369,47 @@ URL:https://princecharlescinema.com/film/31617405/backrooms-everything-mu
  st-go-edition-with-bonus-footage
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e9cae3f54cdf4c23aa664a7334c2fdcc-occ_65846dabbf5d43888277c9ebd98
- 27076@thingstodoinyourcity
-DTSTAMP:20261022T034043Z
-DTSTART:20261025T203000Z
-DTEND:20261025T213000Z
-SUMMARY:Mark Watson: Work In Progress (But Quite Good)
-DESCRIPTION:Watson brings newish work back after a good Edinburgh run\, w
- ith the show largely about a visit from a debt collection agency. Expect
-  plenty of digressions along the way.\nPrice: Unreserved seating - £8.9
- 9 + £1.01 booking fee\nhttps://www.angelcomedy.co.uk/event-detail/mark-
- watson-work-in-progress-but-quite-good-sun-25th-oct-the-bill-murray-lond
- on-tickets-202610252030/
-LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/mark-watson-work-in-progre
- ss-but-quite-good-sun-25th-oct-the-bill-murray-london-tickets-2026102520
- 30/
+UID:cand_2b8cceac209945f38cf464ed50e32202-occ_0d3cbb9124d946e78d9a08e6e29
+ a5bf2@thingstodoinyourcity
+DTSTAMP:20261022T235057Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20270102
+SUMMARY:Beetlejuice
+DESCRIPTION:Olivier nominee David Fynn leads the Broadway spectacular bas
+ ed on Tim Burton's film. Hannah Nordberg stars as Lydia in a limited Wes
+ t End season.\nPrice: From £30.00\nhttps://www.lovetheatre.com/shows/be
+ etlejuice-tickets
+LOCATION:Prince Edward Theatre\, 30 Old Compton Street\, London\, W1D 4HS
+ \, London
+URL:https://www.lovetheatre.com/shows/beetlejuice-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8cceac209945f38cf464ed50e32202-occ_cb7f9a5f2fcc40a49e408cc6425
+ d7f8b@thingstodoinyourcity
+DTSTAMP:20261022T235057Z
+DTSTART:20261026T193000Z
+SUMMARY:Beetlejuice
+DESCRIPTION:Olivier nominee David Fynn leads the Broadway spectacular bas
+ ed on Tim Burton's film. Hannah Nordberg stars as Lydia in a limited Wes
+ t End season.\nPrice: From £30.00\nhttps://www.lovetheatre.com/shows/be
+ etlejuice-tickets
+LOCATION:Prince Edward Theatre\, 30 Old Compton Street\, London\, W1D 4HS
+ \, London
+URL:https://www.lovetheatre.com/shows/beetlejuice-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8cceac209945f38cf464ed50e32202-occ_0bae2f269ab141a388e5d8f1842
+ 9222c@thingstodoinyourcity
+DTSTAMP:20261022T235057Z
+DTSTART:20261027T193000Z
+SUMMARY:Beetlejuice
+DESCRIPTION:Olivier nominee David Fynn leads the Broadway spectacular bas
+ ed on Tim Burton's film. Hannah Nordberg stars as Lydia in a limited Wes
+ t End season.\nPrice: From £30.00\nhttps://www.lovetheatre.com/shows/be
+ etlejuice-tickets
+LOCATION:Prince Edward Theatre\, 30 Old Compton Street\, London\, W1D 4HS
+ \, London
+URL:https://www.lovetheatre.com/shows/beetlejuice-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2008c86830924375a4a47d8e137c075f-occ_40b4ec7e5add4aa080b62a7d500
@@ -23422,34 +23547,6 @@ DESCRIPTION:Jason Moore and original puppet designer Rick Lyon return for
 LOCATION:Shaftesbury Theatre\, 210 Shaftesbury Avenue\, London\, WC2H 8DP
  \, London
 URL:https://www.lovetheatre.com/shows/avenue-q-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2b8cceac209945f38cf464ed50e32202-occ_cb7f9a5f2fcc40a49e408cc6425
- d7f8b@thingstodoinyourcity
-DTSTAMP:20261022T235057Z
-DTSTART:20261026T193000Z
-SUMMARY:Beetlejuice
-DESCRIPTION:Olivier nominee David Fynn leads the Broadway spectacular bas
- ed on Tim Burton's film. Hannah Nordberg stars as Lydia in a limited Wes
- t End season.\nPrice: From £30.00\nhttps://www.lovetheatre.com/shows/be
- etlejuice-tickets
-LOCATION:Prince Edward Theatre\, 30 Old Compton Street\, London\, W1D 4HS
- \, London
-URL:https://www.lovetheatre.com/shows/beetlejuice-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2b8cceac209945f38cf464ed50e32202-occ_0bae2f269ab141a388e5d8f1842
- 9222c@thingstodoinyourcity
-DTSTAMP:20261022T235057Z
-DTSTART:20261027T193000Z
-SUMMARY:Beetlejuice
-DESCRIPTION:Olivier nominee David Fynn leads the Broadway spectacular bas
- ed on Tim Burton's film. Hannah Nordberg stars as Lydia in a limited Wes
- t End season.\nPrice: From £30.00\nhttps://www.lovetheatre.com/shows/be
- etlejuice-tickets
-LOCATION:Prince Edward Theatre\, 30 Old Compton Street\, London\, W1D 4HS
- \, London
-URL:https://www.lovetheatre.com/shows/beetlejuice-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c24977b7a98b442ebef9dd8aa6ecfb4e-occ_859e3da14e1b4449aa3596358b1
