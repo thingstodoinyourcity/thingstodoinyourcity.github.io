@@ -8,6 +8,20 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_841cca174b074f3b94f0fe90f0530352-occ_1be6005c5e4a49ba821e3553198
+ e2d28@thingstodoinyourcity
+DTSTAMP:20261027T073701Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Dark Stand up in Soho
+DESCRIPTION:Think of the most devilish laughs with friends\, now with twi
+ sted comics risking it all. Unapologetically raunchy and undeniably hila
+ rious dark comedy.\nhttps://www.whatsonstage.com/shows/london-theatre/of
+ f-west-end-theatre/dark-stand-up-in-soho_1706576/
+LOCATION:Soho Central Comedy\, London
+URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
+ e/dark-stand-up-in-soho_1706576/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_774db4209f6a48b881f9be2f86fe5e0e-occ_cb3981f589c049f891bda0b2bf8
  bb87a@thingstodoinyourcity
 DTSTAMP:20261023T102149Z
@@ -88,6 +102,19 @@ LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/by-design
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8a760883f8fb4011ba8a185894645dbc-occ_b0cac3d0856743cc8cb47039c9f
+ 20e07@thingstodoinyourcity
+DTSTAMP:20261027T073848Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Lola’s Cupcakes — Test Kitchen
+DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
+ n
+LOCATION:King’s Cross\; Tottenham Court Road\; Brent Cross\; Stratford\
+ , London
+URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_58e193ad750044ea88c33ffe30874407-occ_8f7b2b35950c49e986945b907e7
  35b86@thingstodoinyourcity
 DTSTAMP:20261022T025238Z
@@ -100,11 +127,42 @@ LOCATION:The Courtyard Theatre\, London
 URL:https://www.londontheatres.com/event/succubus
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7b5fb3797388495ba5ea46aa480ee2f9-occ_67915db2f7814d8cb94a2551e45
+ 19f8d@thingstodoinyourcity
+DTSTAMP:20261022T132449Z
+DTSTART;VALUE=DATE:20261027
+SUMMARY:Children's Alice in Wonderland Adventure Tour
+DESCRIPTION:https://www.rbo.org.uk/tickets-and-events?page=1
+LOCATION:Royal Opera House\, London
+URL:https://www.rbo.org.uk/tickets-and-events?page=1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d8a61bc0914f4f9ea8b618d00ffe7de9-occ_f71dc9572f814d48b5b28385960
+ e07f7@thingstodoinyourcity
+DTSTAMP:20261022T221604Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Wonders of the warehouse
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_24442db65e384253b6fde20cb7319e30-occ_9290459eeb6a497b9be50123698
  f1347@thingstodoinyourcity
 DTSTAMP:20261022T195906Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261030
+SUMMARY:Clay charms
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_24442db65e384253b6fde20cb7319e30-occ_6257ad069898415e993c22411a7
+ b1321@thingstodoinyourcity
+DTSTAMP:20261022T195906Z
+DTSTART;VALUE=DATE:20261030
 SUMMARY:Clay charms
 DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
 LOCATION:London Museum Docklands\, London
@@ -170,6 +228,158 @@ LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_0223eef557cf49698195c904cec
+ 996cb@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_86d9639c9a294c59a77a9fd1a04
+ 18b00@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261027T103000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_baf1b8fd605748c0b059a4fb45e
+ d14d0@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261027T130000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_122419fedaf442f88e79996bf7c
+ d20bd@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261028T103000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_6acab7bd33964fc09b9ffbc7825
+ 49c01@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261028T130000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_a5cd2877e5e144d49f80bfb581b
+ af74e@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261029T103000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_7bd2eeef68e447cb9e63ffae568
+ f668f@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261029T130000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_391ce293fd024be090b9ddf363c
+ 0163f@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261030T103000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aee906648cc947198c21bd12e0ce9801-occ_bf0ea9ad45de4df09f3d6902c15
+ 2cf8a@thingstodoinyourcity
+DTSTAMP:20261022T001058Z
+DTSTART:20261030T130000Z
+SUMMARY:Family tour: Souls\, saints and stories
+DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
+ steries of burial. Hear tales of surprising ends\, unusual burials\, kin
+ gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
+ stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
+ aints-and-stories
+LOCATION:The Abbey\, London
+URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
+ mily-tour-souls-saints-and-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f50fc084293f44a38304bc286d336f78-occ_bc81d0b7d5fc47f397cb5e37875
+ 38e7c@thingstodoinyourcity
+DTSTAMP:20261027T075948Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Hackney Thinking Spaces October Half-Term Activities
+DESCRIPTION:Young people can join a week of creativity\, digital activiti
+ es\, games and making friends. Free entry and a complimentary breakfast 
+ are provided daily.\nPrice: Free entry\nhttps://londonpopupcalendar.com/
+ events/i-found-me-counselling-x-rising-tide-studios-hackney-thinking-spa
+ ces-october-half-term-activities/
+LOCATION:Rising Tide Studios\, 270 Mare Street\, E8 1HE\, London
+URL:https://londonpopupcalendar.com/events/i-found-me-counselling-x-risin
+ g-tide-studios-hackney-thinking-spaces-october-half-term-activities/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d28e5fd8990640e49a6336c24bc433b4-occ_5335ede69fda4b4983f8696768d
  277c3@thingstodoinyourcity
 DTSTAMP:20261022T001500Z
@@ -222,6 +432,17 @@ LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d82b1f4346714fb182e130c388dd9592-occ_72db09bc114749e3879d317a11b
+ e1601@thingstodoinyourcity
+DTSTAMP:20261022T003558Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+SUMMARY:Superstitious sailors
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_cf612026f16b4635823571a11b4df9bf-occ_38914df21b9748558ae0c768b5d
  00336@thingstodoinyourcity
 DTSTAMP:20261026T061716Z
@@ -262,6 +483,21 @@ LOCATION:London
 URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_aff86b669c424f13a3c32f51e2f8bfa8-occ_55cc027f8ddd43e9a762fecbd88
+ 4a7d0@thingstodoinyourcity
+DTSTAMP:20261027T080757Z
+DTSTART:20261026T093000Z
+DTEND:20261030T153000Z
+SUMMARY:Ballet Club
+DESCRIPTION:Aspiring dancers aged 9-12 from Newham or Tower Hamlets train
+  with professional artists in daily ballet classes. Choreographic worksh
+ ops explore the story of Romeo & Juliet.\nPrice: £30 for the full week\
+ nhttps://royaldocks.london/whats-on/ballet-club-2
+LOCATION:English National Ballet Mulryan Centre for Dance\, 41 Hopewell S
+ quare\, E14 0SY\, Canning Town\, London
+URL:https://royaldocks.london/whats-on/ballet-club-2
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b96661a9b9cc44a0934f2d2e969902be-occ_404182444ce84a0bb6ff830726a
  4b513@thingstodoinyourcity
 DTSTAMP:20261026T161330Z
@@ -277,6 +513,18 @@ LOCATION:RIBA Architecture Study Rooms\, Cromwell Road\, London\, SW7 2RL
  \, Brompton\, London
 URL:https://www.riba.org/whats-on/drop-in-design-your-future-city-oct-202
  6
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a5602c4d5f894d198f7afbdef0fb58dc-occ_f43020e69b744a29922ff52fc64
+ 587f8@thingstodoinyourcity
+DTSTAMP:20261027T080458Z
+DTSTART:20261026T120000Z
+DTEND;VALUE=DATE:20261029
+SUMMARY:Heytea Pop Up
+DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
+ n
+LOCATION:heytea lab\, 118-120 Shaftesbury Avenue\, London\, London
+URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c06538315488461db3c9ff58e65bf112-occ_1e7824d69ca24c88b47f68bd58e
@@ -566,6 +814,19 @@ SUMMARY:Holiday workshops: Extract your own DNA (Year 7-9)
 DESCRIPTION:https://londontalks.uk/
 LOCATION:The Royal Institution\, London
 URL:https://londontalks.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a93ad79cbd84422b994aa37c2a735e8-occ_4dca2c4cca6f4978adc382d8702
+ afa8c@thingstodoinyourcity
+DTSTAMP:20261027T080726Z
+DTSTART;VALUE=DATE:20261027
+DTEND:20261027T170000Z
+SUMMARY:Hotel SACHEU Pop-Up London: Free Makeovers & Discounts
+DESCRIPTION:The pop-up offers free makeovers\, product samples and make-u
+ p discounts. Visitors can expect beauty products and makeovers during th
+ e visit.\nhttps://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+LOCATION:NOHO Studios W1W 7QA\, London
+URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fa4db5bfb9e64c379e63c4556321f583-occ_525a664121784ad28fde3bb0f57
@@ -1170,6 +1431,19 @@ LOCATION:London
 URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_41a869aff3e7485c86a550a2b4dfc1bb-occ_ea526626193d48e3956c4f4ce94
+ 9eafb@thingstodoinyourcity
+DTSTAMP:20261027T075615Z
+DTSTART;VALUE=DATE:20261027
+SUMMARY:Trinidad & Tobago Film Festival: Big Stories for Little Ones
+DESCRIPTION:Seven Caribbean short films chosen for young audiences\, mixi
+ ng playful animation with feel-good storytelling. Carnival crafts with T
+ ropical Isles run before the screening.\nPrice: Tickets £5 or £3 with 
+ a Hackney Library Card\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, Dalston\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c675bd956c69443580cb1e715bcc1b58-occ_d55526ced4d94cb3a8b7b895753
  871fa@thingstodoinyourcity
 DTSTAMP:20261022T055315Z
@@ -1223,6 +1497,34 @@ LOCATION:Wani Tzuki\, 13-15 West St\, Greater\, London WC2H 9NE\, UK\, Ce
  ntral London\, London
 URL:https://www.universe.com/events/experiences-londons-latest-wani-tzuki
  -tickets-MBK6WT?buttonColor=%233A66E5&buttonText=Get+Tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4d97dcefe8464c52a7e95a39201d5193-occ_b4e5e7ea87254c2ab5444b9b9b3
+ f3010-2026-10-27@thingstodoinyourcity
+DTSTAMP:20261027T080759Z
+DTSTART;VALUE=DATE:20261027
+SUMMARY:Young Designers Workshops
+DESCRIPTION:Open to 16-25 year olds living or studying in Royal Victoria 
+ and surrounding areas. Participants receive a £30 voucher per session a
+ cross this two-day programme.\nPrice: Free\nhttps://royaldocks.london/wh
+ ats-on/young-designers-workshops
+LOCATION:The Britannia Village Hall\, 65 Evelyn Rd\, London E16 1TU\, Lon
+ don
+URL:https://royaldocks.london/whats-on/young-designers-workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4d97dcefe8464c52a7e95a39201d5193-occ_b4e5e7ea87254c2ab5444b9b9b3
+ f3010-2026-10-28@thingstodoinyourcity
+DTSTAMP:20261027T080759Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Young Designers Workshops
+DESCRIPTION:Open to 16-25 year olds living or studying in Royal Victoria 
+ and surrounding areas. Participants receive a £30 voucher per session a
+ cross this two-day programme.\nPrice: Free\nhttps://royaldocks.london/wh
+ ats-on/young-designers-workshops
+LOCATION:The Britannia Village Hall\, 65 Evelyn Rd\, London E16 1TU\, Lon
+ don
+URL:https://royaldocks.london/whats-on/young-designers-workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e4298daa38544b380aaeea1e7936556-occ_06c9204c7d1c4f0188f77018658
@@ -1492,126 +1794,6 @@ DESCRIPTION:Bring your tablet or phone to a roving drop-in for quickfire
 LOCATION:Kew Library\, 106 North Road\, Kew\, London\, TW9 4HJ\, Kew\, Lo
  ndon
 URL:https://www.visitrichmond.co.uk/events/digital-drop-in-tour-p2682971
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_86d9639c9a294c59a77a9fd1a04
- 18b00@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261027T103000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_baf1b8fd605748c0b059a4fb45e
- d14d0@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261027T130000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_122419fedaf442f88e79996bf7c
- d20bd@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261028T103000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_6acab7bd33964fc09b9ffbc7825
- 49c01@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261028T130000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_a5cd2877e5e144d49f80bfb581b
- af74e@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261029T103000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_7bd2eeef68e447cb9e63ffae568
- f668f@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261029T130000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_391ce293fd024be090b9ddf363c
- 0163f@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261030T103000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aee906648cc947198c21bd12e0ce9801-occ_bf0ea9ad45de4df09f3d6902c15
- 2cf8a@thingstodoinyourcity
-DTSTAMP:20261022T001058Z
-DTSTART:20261030T130000Z
-SUMMARY:Family tour: Souls\, saints and stories
-DESCRIPTION:Uncover strange stories beneath the Abbey's stones and the my
- steries of burial. Hear tales of surprising ends\, unusual burials\, kin
- gs\, queens and a saint.\nPrice: Free (booking required)\nhttps://www.we
- stminster-abbey.org/abbey-events/family/2026/october/family-tour-souls-s
- aints-and-stories
-LOCATION:The Abbey\, London
-URL:https://www.westminster-abbey.org/abbey-events/family/2026/october/fa
- mily-tour-souls-saints-and-stories
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_20d89e4208c542999b762ba4fd8df0ee-occ_eb2cc3d09bff40cabf2ff3e0a65
@@ -2243,36 +2425,6 @@ LOCATION:Teddington Library\, Waldegrave Road\, Teddington\, London\, TW1
  1 8NY\, Teddington\, London
 URL:https://www.visitrichmond.co.uk/events/the-secret-world-beneath-our-f
  eet-p2682871
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1b369277afb54d86934e8aa9cf668dfd-occ_faaf848c96cc4a59878119dd2ba
- f83a3@thingstodoinyourcity
-DTSTAMP:20261022T130436Z
-DTSTART:20261027T114500Z
-SUMMARY:Paw Patrol 3: The Dino Movie
-DESCRIPTION:https://www.peckhamplex.london/films/listings
-LOCATION:London
-URL:https://www.peckhamplex.london/films/listings
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1b369277afb54d86934e8aa9cf668dfd-occ_207e9c6124004cc3a2580c30cc3
- 6fe5a@thingstodoinyourcity
-DTSTAMP:20261022T130436Z
-DTSTART:20261028T114500Z
-SUMMARY:Paw Patrol 3: The Dino Movie
-DESCRIPTION:https://www.peckhamplex.london/films/listings
-LOCATION:London
-URL:https://www.peckhamplex.london/films/listings
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1b369277afb54d86934e8aa9cf668dfd-occ_ff387a6f874345e2b2253cf7432
- 4682a@thingstodoinyourcity
-DTSTAMP:20261022T130436Z
-DTSTART:20261029T114500Z
-SUMMARY:Paw Patrol 3: The Dino Movie
-DESCRIPTION:https://www.peckhamplex.london/films/listings
-LOCATION:London
-URL:https://www.peckhamplex.london/films/listings
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_749ddbc38c514878b22372475b24452c-occ_efb9578a2a1a468a91cc58a9998
@@ -2988,7 +3140,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3000,7 +3152,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3012,7 +3164,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3024,7 +3176,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3036,7 +3188,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3048,7 +3200,7 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
   across a divided Germany in a black Buick. The 82-minute film is in Ger
  man with English subtitles.\nhttps://www.ica.art/films/fatherland
-LOCATION:CINEMA 2\, London
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films/fatherland
 END:VEVENT
 BEGIN:VEVENT
@@ -3149,6 +3301,21 @@ DESCRIPTION:Families with children aged 8 to 14 design a household\, set
  on-focused manifestos about community and household resilience.\nPrice: 
  Free - must book\nhttps://bloomsburyfestival.org.uk/whats-on/build-your-
  own-sustainable-household-system
+LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/build-your-own-sustainable
+ -household-system
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_614498a5d98e473c97d6db3e0f149365-occ_6680b390161441139ac3722aa9b
+ 66cb1@thingstodoinyourcity
+DTSTAMP:20261027T065542Z
+DTSTART:20261027T133000Z
+DTEND:20261027T143000Z
+SUMMARY:Build Your Own Sustainable Household System
+DESCRIPTION:Families aged 8 to 14 design a household\, set its rules and 
+ weigh money and effort costs. They vote on solution-focused manifestos f
+ or more resilient communities.\nPrice: Free - must book\nhttps://bloomsb
+ uryfestival.org.uk/whats-on/build-your-own-sustainable-household-system
 LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
 URL:https://bloomsburyfestival.org.uk/whats-on/build-your-own-sustainable
  -household-system
@@ -3478,58 +3645,6 @@ URL:https://www.imperial.ac.uk//events/description/index.php?route=214742
  /nelder-fellow-lecture-series-prof-ed-bueler-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_670c100205154621b85e1599f7ddb5d2-occ_4e517883abce4b10a985cc6e1f4
- 79b78@thingstodoinyourcity
-DTSTAMP:20261022T060900Z
-DTSTART:20261027T150000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose worlds collide during a documentary shoot. Jeon Do-yeon and S
- ul Kyung-gu lead this 165-minute drama.\nhttps://www.ica.art/films/possi
- ble-love
-LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_670c100205154621b85e1599f7ddb5d2-occ_20abd41c3ff24bea911723862ed
- fc7c3@thingstodoinyourcity
-DTSTAMP:20261022T060900Z
-DTSTART:20261028T150000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose worlds collide during a documentary shoot. Jeon Do-yeon and S
- ul Kyung-gu lead this 165-minute drama.\nhttps://www.ica.art/films/possi
- ble-love
-LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_670c100205154621b85e1599f7ddb5d2-occ_24bc39025b954d40af5493ec5cd
- 91f97@thingstodoinyourcity
-DTSTAMP:20261022T060900Z
-DTSTART:20261029T143000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose worlds collide during a documentary shoot. Jeon Do-yeon and S
- ul Kyung-gu lead this 165-minute drama.\nhttps://www.ica.art/films/possi
- ble-love
-LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_670c100205154621b85e1599f7ddb5d2-occ_761a5dd643b64dee9aeee65f884
- 38802@thingstodoinyourcity
-DTSTAMP:20261022T060900Z
-DTSTART:20261029T200000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose worlds collide during a documentary shoot. Jeon Do-yeon and S
- ul Kyung-gu lead this 165-minute drama.\nhttps://www.ica.art/films/possi
- ble-love
-LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ee3f2f08e0b14068a461909b1fb7457f-occ_844697986bd349d3914f7377e37
  675f2@thingstodoinyourcity
 DTSTAMP:20261026T175858Z
@@ -3603,21 +3718,6 @@ DESCRIPTION:Estranged fighters Ryu and Ken are thrown back into a brutal
 LOCATION:93-95 Mile End Road \, Whitechapel\, London E1 4UJ\, Whitechapel
  \, London
 URL:https://genesis.admit-one.co.uk/details?eventCode=113529
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_41a869aff3e7485c86a550a2b4dfc1bb-occ_ea526626193d48e3956c4f4ce94
- 9eafb@thingstodoinyourcity
-DTSTAMP:20261021T175322Z
-DTSTART:20261027T150000Z
-SUMMARY:Trinidad & Tobago Film Festival: Big Stories
-DESCRIPTION:Seven Caribbean short films chosen for young audiences\, mixi
- ng playful animation with feel-good storytelling. Carnival crafts with T
- ropical Isles run before the screening.\nPrice: Tickets £5 or £3 with 
- a Hackney Library Card\nhttps://riocinema.org.uk/Rio.dll/WhatsOn?f=28891
- 20
-LOCATION:HACKNEY CHILDREN'S FILM FEST\, 107 Kingsland High Street\, Londo
- n\, E8 2PB\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2889120
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e3f3e2fd65b64ad8bcf8a70c9f579701-occ_8bc36ea155c24da68a5855f1c9d
@@ -3976,7 +4076,7 @@ DESCRIPTION:Directed by Yuval Abraham and Rachel Szor\, co-directors of t
  he Oscar-winning No Other Land. Reveals the systems behind Israel's bomb
  ing of Gaza\; Special Jury Prize winner at Venice 2026.\nhttps://www.ica
  .art/films/naza
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/naza
 END:VEVENT
 BEGIN:VEVENT
@@ -3989,7 +4089,7 @@ DESCRIPTION:Directed by Yuval Abraham and Rachel Szor\, co-directors of t
  he Oscar-winning No Other Land. Reveals the systems behind Israel's bomb
  ing of Gaza\; Special Jury Prize winner at Venice 2026.\nhttps://www.ica
  .art/films/naza
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/naza
 END:VEVENT
 BEGIN:VEVENT
@@ -4002,7 +4102,7 @@ DESCRIPTION:Directed by Yuval Abraham and Rachel Szor\, co-directors of t
  he Oscar-winning No Other Land. Reveals the systems behind Israel's bomb
  ing of Gaza\; Special Jury Prize winner at Venice 2026.\nhttps://www.ica
  .art/films/naza
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/naza
 END:VEVENT
 BEGIN:VEVENT
@@ -4586,10 +4686,11 @@ DTEND:20261027T200000Z
 SUMMARY:Geography and the wealth of nations
 DESCRIPTION:Jeffrey D Sachs revisits Adam Smith's view of history's great
  est events. Drawing on new geospatial datasets\, he examines long-term g
- lobal economic change.\nhttps://www.lse.ac.uk/events/geography-wealth-na
- tions
+ lobal economic change.\nhttps://lectures.london/london-school-of-economi
+ cs/geography-and-the-wealth-of-nations
 LOCATION:LSE campus (venue tbc to ticketholders)\, London
-URL:https://www.lse.ac.uk/events/geography-wealth-nations
+URL:https://lectures.london/london-school-of-economics/geography-and-the-
+ wealth-of-nations
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ed03551ba6f45c18efd6d52a96d7bdc-occ_12332140fca44f7ba98a968dd06
@@ -5339,6 +5440,81 @@ URL:https://onecitylondon.com/event/the-phantom-of-the-opera-silent-film-
  night/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_41ce4e576bfd4b4b92927c61587
+ 8685f@thingstodoinyourcity
+DTSTAMP:20261027T083013Z
+DTSTART:20261027T190000Z
+SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
+ e-shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
+ ith-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_522a609e2fec4a148c4001e05ba
+ 67c47@thingstodoinyourcity
+DTSTAMP:20261027T083013Z
+DTSTART:20261103T190000Z
+SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
+ e-shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
+ ith-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_207ec614ba6e4b268bc722eddf7
+ d0d73@thingstodoinyourcity
+DTSTAMP:20261027T083013Z
+DTSTART:20261110T190000Z
+SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
+ e-shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
+ ith-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_7e928523e12f4e3495b84220836
+ ef81f@thingstodoinyourcity
+DTSTAMP:20261027T083013Z
+DTSTART:20261117T190000Z
+SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
+ e-shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
+ ith-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_4ce42af90e5b40a897c4dd6a600
+ 0da7e@thingstodoinyourcity
+DTSTAMP:20261027T083013Z
+DTSTART:20261124T190000Z
+SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
+ e-shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
+ ith-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_93acec392b534443a99620fa1eecbb2d-occ_e2e0bae6e9eb4e71a65994a4f98
+ 4c59d@thingstodoinyourcity
+DTSTAMP:20261027T082737Z
+DTSTART:20261027T191500Z
+SUMMARY:Jake Lambert at Outside the Box Comedy Club Kingston
+DESCRIPTION:Jake Lambert\, seen on Live at the Apollo with over one milli
+ on followers\, headlines this comedy night. Maff Brown\, seen on Mock th
+ e Week\, also performs.\nhttps://www.londontheatres.com/event/jake-lambe
+ rt-at-outside-the-box-comedy-club-kingston
+LOCATION:The Fighting Cocks\, The Fighting Cocks Pub\, 56 Old London Road
+ \, Kingston\, KT2 6QA\, Kingston Upon Thames\, London
+URL:https://www.londontheatres.com/event/jake-lambert-at-outside-the-box-
+ comedy-club-kingston
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f9edfb95c085493e845cf17380f34593-occ_0c0aa6804fcc4ae380208c3bd24
  dccfc@thingstodoinyourcity
 DTSTAMP:20261026T145037Z
@@ -5445,6 +5621,20 @@ LOCATION:The Comedy Store\, 1a Oxendon Street\, London\, SW1Y4EE\, Great
  Britain\, London
 URL:https://www.universe.com/events/cray-cray-cabaret-tuesday-27th-octobe
  r-tickets-0VSR1F
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a28ad6369dd8461ca441afcaa44ecdbf-occ_d7c17cf3c0434fec895e8c06ca6
+ cd17b@thingstodoinyourcity
+DTSTAMP:20261027T082607Z
+DTSTART:20261027T193000Z
+SUMMARY:Cray Cray Cabaret
+DESCRIPTION:Hosted by Edinburgh Comedy Award winner Phil Nichol\, with to
+ p headliners\, a world-class house band and musical guests. Strictly 18s
+  and over\; bar and diner open from 6.30pm.\nhttps://www.londontheatres.
+ com/event/cray-cray-cabaret-_-tuesday-27th-october
+LOCATION:The Comedy Store\, London
+URL:https://www.londontheatres.com/event/cray-cray-cabaret-_-tuesday-27th
+ -october
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c34943f65e944296a0dc6a79189d178c-occ_d016279247834064a6fbf82c827
@@ -6473,7 +6663,7 @@ DESCRIPTION:Pelu\, a projectionist\, secretly lives in a cinema and forms
   an after-hours community there. Followed by an in-person Q&A with the d
  irectors on Friday 23 October.\nhttps://www.ica.art/films/off-circuit-th
  e-night-is-fading-away
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/off-circuit-the-night-is-fading-away
 END:VEVENT
 BEGIN:VEVENT
@@ -6486,7 +6676,7 @@ DESCRIPTION:Pelu\, a projectionist\, secretly lives in a cinema and forms
   an after-hours community there. Followed by an in-person Q&A with the d
  irectors on Friday 23 October.\nhttps://www.ica.art/films/off-circuit-th
  e-night-is-fading-away
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/off-circuit-the-night-is-fading-away
 END:VEVENT
 BEGIN:VEVENT
@@ -6499,7 +6689,7 @@ DESCRIPTION:Pelu\, a projectionist\, secretly lives in a cinema and forms
   an after-hours community there. Followed by an in-person Q&A with the d
  irectors on Friday 23 October.\nhttps://www.ica.art/films/off-circuit-th
  e-night-is-fading-away
-LOCATION:CINEMA 1\, London
+LOCATION:CINEMA 2\, London
 URL:https://www.ica.art/films/off-circuit-the-night-is-fading-away
 END:VEVENT
 BEGIN:VEVENT
@@ -7124,6 +7314,19 @@ DESCRIPTION:Keynote speaker Lillian Ogbogoh leads practical identity work
  recanwego.com/item/e1608489
 LOCATION:Urban MBA\, 3 Wenlock Street London N1 7NT\, Hoxton\, London
 URL:https://www.wherecanwego.com/item/e1608489
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bbd3dc34deb142d0839717636e3e2181-occ_0c720d37292e4d28ae822ba987b
+ 5c08d@thingstodoinyourcity
+DTSTAMP:20261027T075732Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:The Lure of Ponies: A Spellbound Attic Mystery
+DESCRIPTION:A stop-motion mystery set in a vintage emporium's attic\, whe
+ re dolls face secrets and danger. Animator Beck Underwood introduces her
+  first feature and leads crafts at the Rio.\nPrice: Tickets £5 or £3 w
+ ith a Hackney Library Card\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, Dalston\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c1e16b8047c433e89c8ef591558cbb4-occ_57bca25d34a1413488b598bfb71
@@ -8598,21 +8801,6 @@ LOCATION:Huxley 130\, Huxley Building\, South Kensington Campus\, London
 URL:https://www.imperial.ac.uk//events/description/index.php?route=215640
  /mathematical-physics-seminar-october-28th-ginestra-bianconi-qmul-gravit
  y-from-entropy/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bbd3dc34deb142d0839717636e3e2181-occ_0c720d37292e4d28ae822ba987b
- 5c08d@thingstodoinyourcity
-DTSTAMP:20261021T175718Z
-DTSTART:20261028T150000Z
-SUMMARY:The Lure of Ponies: A Spellbound Attic Mystery
-DESCRIPTION:A stop-motion mystery set in a vintage emporium's attic\, whe
- re dolls face secrets and danger. Animator Beck Underwood introduces her
-  first feature and leads crafts at the Rio.\nPrice: Tickets £5 or £3 w
- ith a Hackney Library Card\nhttps://riocinema.org.uk/Rio.dll/WhatsOn?f=2
- 889150
-LOCATION:HACKNEY CHILDREN'S FILM FEST\, 107 Kingsland High Street\, Londo
- n\, E8 2PB\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2889150
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2c5c724abbdc464a99fc43d4f0255eb3-occ_664716ffd58c4eb1b3c26dae4f1
@@ -13645,16 +13833,6 @@ LOCATION:ONLINE\, London
 URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_dd63c20e440845b183e7fd74ee7273cf-occ_d73f9052d51e431c9c2f86a5330
- 1216f@thingstodoinyourcity
-DTSTAMP:20261023T074522Z
-DTSTART;VALUE=DATE:20261030
-SUMMARY:Dogstar
-DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
-LOCATION:Hampstead Theatre\, London
-URL:https://www.theatreticketsdirect.co.uk/category/all
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_6feea100d388422eb1f0408d77753514-occ_4a4bc764f1484023912b582a81f
  3bbc1@thingstodoinyourcity
 DTSTAMP:20261026T093932Z
@@ -13744,6 +13922,19 @@ DESCRIPTION:Celebrates 20 years since debut album Esquemas Juveniles on a
  e sound.\nhttps://www.culturecalling.com/london/events/javiera-mena
 LOCATION:Jazz Café\, 5 Parkway London\, London\, NW1 7PG\, London
 URL:https://www.culturecalling.com/london/events/javiera-mena
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2a3ab084ca864a3fab7e0f1f4c68e37a-occ_9d07e0e7401a4099893696d5433
+ fea71@thingstodoinyourcity
+DTSTAMP:20261027T081612Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:MESTIZA present SACRO
+DESCRIPTION:Spanish duo MESTIZA bring their SACRO series to Roundhouse fo
+ r a Halloween edition. SACRO fuses flamenco and electronic music\, with 
+ stages from the Eiffel Tower to Coachella.\nPrice: £49 - £204.25\nhttp
+ s://www.roundhouse.org.uk/whats-on/mestiza-present-sacro/
+LOCATION:ROUNDHOUSE MAIN SPACE\, London
+URL:https://www.roundhouse.org.uk/whats-on/mestiza-present-sacro/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3174384609b7478bb7d27eda891b8cc2-occ_024122e88c054a3093cd7c96f03
@@ -14646,21 +14837,6 @@ DESCRIPTION:A film season curated by Tom Saer\, in collaboration with NFT
  https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?pg=0&sp=9836176
 LOCATION:CC S2\, 194b Chamberlayne Rd\, London NW10 3JU\, London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?pg=0&sp=9836176
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d3560e98739b425f952d4008572b5c96-occ_88e2e27a79834482ace8c2654b8
- 1772e@thingstodoinyourcity
-DTSTAMP:20261021T180344Z
-DTSTART:20261102T190000Z
-SUMMARY:Austentatious: An Improvised Jane Austen Novel
-DESCRIPTION:Award-winning smash-hit comedy heard on BBC Radio 4 continues
-  in London's West End. The all-star cast improvise a new Jane Austen nov
- el every night from an audience title.\nhttps://opencomedy.com/uk/gigs/l
- ondon/vaudeville-theatre/austentatious-an-improvised-jane-austen-novel-2
- 026-10-26/15824
-LOCATION:Vaudeville Theatre\, 404 Strand\, London\, WC2R 0NH\, London
-URL:https://opencomedy.com/uk/gigs/london/vaudeville-theatre/austentatiou
- s-an-improvised-jane-austen-novel-2026-10-26/15824
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6edd676f5bee4fd8b9f41c1451f46a92-occ_cee34642c0284ab7a66e25513bd
