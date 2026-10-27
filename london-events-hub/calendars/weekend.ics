@@ -1395,6 +1395,19 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_53d60a7a3524488ab7da3afd6db30de8-occ_b7d52e597b1f4100bc00af4f973
+ 957ff@thingstodoinyourcity
+DTSTAMP:20261027T190519Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20261115
+SUMMARY:Inside Aardman: Wallace & Gromit and Friends at Young V&A
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Young V&A\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_63ecd18db895421eb78eafb38512f18d-occ_caac4a1e355f442784407a203ef
  99411@thingstodoinyourcity
 DTSTAMP:20261026T090708Z
@@ -1703,6 +1716,22 @@ DESCRIPTION:Brighton-based artist Claudia Fontes turns the reception of 1
 LOCATION:100 Bishopsgate\, London
 URL:https://onecitylondon.com/event/glasshouse-stories-an-installation-by
  -artist-claudia-fontes
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1882297c099c4929aa376528ca472c79-occ_1766192bffb144af80441d20caf
+ 99247@thingstodoinyourcity
+DTSTAMP:20261027T185836Z
+DTSTART:20260316T090000Z
+DTEND:20270115T170000Z
+SUMMARY:Glasshouse Stories – an installation by artist Claudia Fontes
+DESCRIPTION:Sculptures made from 3D scans of plant roots\, cast in plant-
+ based resin\, fill the glass-fronted reception. The installation is insp
+ ired by plants relocated from Kew Gardens' Palm House.\nPrice: Admission
+ : free\, no ticket required\nhttps://onecitylondon.com/event/glasshouse-
+ stories-an-installation-by-artist-claudia-fontes/
+LOCATION:100 Bishopsgate\, 100 Bishopsgate\, London\, EC2M 1GT\, London
+URL:https://onecitylondon.com/event/glasshouse-stories-an-installation-by
+ -artist-claudia-fontes/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad44a231d7c14ea78be779cdcaa5ae4c-occ_fbe467d0685e49bcaaac6fd6f26
@@ -2471,6 +2500,19 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e82645784bc54a4685460b391861fc54-occ_dad1674d36474bcb832c98c4f85
+ 5f806@thingstodoinyourcity
+DTSTAMP:20261027T181807Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20270117
+SUMMARY:Tate Britain Commission: Zineb Sedira (Duveen Galleries)
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Tate Britain\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fe4a9bfce311467f84c31d7878137316-occ_37aed13021b2416aa8f369644e4
  e5a41@thingstodoinyourcity
 DTSTAMP:20261027T153752Z
@@ -2839,21 +2881,34 @@ LOCATION:Aldwych Theatre\, 49 Aldwych\, London WC2B 4DF\, West End\, Lond
 URL:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_de50e71198d44e22b2df89500d17a13e-occ_41f929cd52504dbb8499797789e
+ 5df53@thingstodoinyourcity
+DTSTAMP:20261021T190505Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20270410
+SUMMARY:Sinatra The Musical
+DESCRIPTION:Joel Harper-Jackson stars as Sinatra alongside Ana Villafañe
+  as Ava Gardner. Written by Joe DiPietro and directed by Kathleen Marsha
+ ll\, it features over 20 classic hits.\nPrice: From £35 (typically £35
+ –£234)\nhttps://londontheatrehub.co.uk/shows/sinatra-the-musical/
+LOCATION:Aldwych Theatre\, 49 Aldwych\, London WC2B 4DF\, West End\, Lond
+ on
+URL:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0da1ef9fd6ba4fd5a4e28bb4bba5238b-occ_40f1890c588647378bfd4fb9232
  a1a11@thingstodoinyourcity
-DTSTAMP:20261021T124521Z
-DTSTART:20260605T090000Z
-DTEND:20270401T160000Z
+DTSTAMP:20261027T202652Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20270401
 SUMMARY:Quentin Blake: Performance
-DESCRIPTION:Over 100 original works survey theatre's influence on Quentin
-  Blake\, from acrobatics to Shakespeare. Macbeth bird illustrations are 
- shown publicly for the first time.\nPrice: Adults £15\, concessions ava
- ilable. Members go free.\nhttps://londontheinside.com/location/explore-q
- uentin-blakes-theatrical-influences-at-this-exhibition
-LOCATION:Quentin Blake Centre for Illustration\, 1 Myddelton Passage Lond
- on EC1R 1AG\, EC1R\, London
-URL:https://londontheinside.com/location/explore-quentin-blakes-theatrica
- l-influences-at-this-exhibition
+DESCRIPTION:See over 100 original works in this UK-first survey of theatr
+ e's influence on Quentin Blake. Macbeth bird illustrations are shown pub
+ licly for the first time.\nPrice: Adults £15\, concessions available. M
+ embers go free.\nhttps://qbcentre.org.uk/exhibitions/quentin-blake-perfo
+ rmance
+LOCATION:Quentin Blake Centre for Illustration\, EC1R\, London
+URL:https://qbcentre.org.uk/exhibitions/quentin-blake-performance
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e03bf042648486bb0152d52d069e943-occ_a58236978a144165bf044350022
@@ -3202,29 +3257,25 @@ URL:https://londontheinside.com/location/tate-modern-is-hosting-a-major-e
  xhibition-on-frida-kahlo/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7450a476ccce41e593fc6e8c4919ff99-occ_1eafa8102687403b9f0a60d2381
- ba8f3@thingstodoinyourcity
-DTSTAMP:20261026T151038Z
-DTSTART:20260625T090000Z
-DTEND;VALUE=DATE:20270103
-SUMMARY:Frida: The Making of an Icon
-DESCRIPTION:Over 30 of Kahlo’s iconic works appear alongside garments\,
-  jewellery and memorabilia. More than 200 works by her contemporaries an
- d artists she inspired are also shown.\nPrice: £25 / Free for Members\n
- https://londontheinside.com/location/tate-modern-is-hosting-a-major-exhi
- bition-on-frida-kahlo
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://londontheinside.com/location/tate-modern-is-hosting-a-major-e
- xhibition-on-frida-kahlo
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_62d42276efbd444f97f9e09a4015dee0-occ_f4a363f00cbf406486712eff3ac
  4526a@thingstodoinyourcity
 DTSTAMP:20261023T013215Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20261114
 SUMMARY:Manasa Chitra: The art of mental health
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Bethlem Museum of the Mind\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_56329fabdba44476a04709740bd1e695-occ_b92a90a195f349058010e53277d
+ 01212@thingstodoinyourcity
+DTSTAMP:20261027T190139Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20261114
+SUMMARY:Manasa Chitra: The art of mental health from Bengaluru to Bethlem
 DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
  ns-london/
 LOCATION:Bethlem Museum of the Mind\, London
@@ -4038,6 +4089,20 @@ LOCATION:Saatchi Yates\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_35287bd21ba34a26a3dd84e0aed7931c-occ_07645504af844d95a3ed0b224b8
+ 4a630@thingstodoinyourcity
+DTSTAMP:20261027T185019Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20261107
+SUMMARY:Tess Tomassini: The Air Becoming No Air Again
+DESCRIPTION:Tomassini’s first solo show pairs monoprints with bronze sc
+ ulpture. Titled after a Frank O’Hara poem\, it explores transformation
+ \, metamorphosis and becoming.\nhttps://www.galleriesnow.net/exhibitions
+ /london/
+LOCATION:Ashley Saville\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0438ec154af4429581ea31c8be756469-occ_588d018070e14def81a1a31dd16
  9627c@thingstodoinyourcity
 DTSTAMP:20261021T183424Z
@@ -4098,6 +4163,22 @@ LOCATION:The British Museum\, London
 URL:https://coventgarden.com/whats-on.php
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a098d2db3ac249f08d8529be78391420-occ_cf58613c447e42f5aa04a1fea24
+ 7d623@thingstodoinyourcity
+DTSTAMP:20261027T203113Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20270711
+SUMMARY:The Bayeux Tapestry at The British Museum
+DESCRIPTION:Stretching 70 metres\, it depicts the Norman invasion and the
+  1066 Battle of Hastings. Shown in the Sainsbury Exhibitions Gallery\, i
+ t returns to the UK after almost 1\,000 years.\nhttps://www.factmagazine
+ s.com/london/heres-how-to-see-the-bayeux-tapestry-in-london-this-year
+LOCATION:The British Museum\, Great Russell Street\, London\, WC1B 3DG\, 
+ London
+URL:https://www.factmagazines.com/london/heres-how-to-see-the-bayeux-tape
+ stry-in-london-this-year
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_eb6be67582464eb39f46402763c324f1-occ_ed97af30eaf7475ab7204ebbb80
  eb69e@thingstodoinyourcity
 DTSTAMP:20261023T023625Z
@@ -4127,21 +4208,6 @@ DESCRIPTION:Mary Ramsden's seventh solo exhibition treats painting as a f
 LOCATION:CONDUIT STREET\, London
 URL:https://www.pilarcorrias.com/exhibitions/533-mary-ramsden-the-feeling
  -of-what-happens
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_35287bd21ba34a26a3dd84e0aed7931c-occ_07645504af844d95a3ed0b224b8
- 4a630@thingstodoinyourcity
-DTSTAMP:20261022T000628Z
-DTSTART:20260910T090000Z
-DTEND:20261107T180000Z
-SUMMARY:Tess Tomassini: The Air Becoming No Air Again
-DESCRIPTION:Tess Tomassini's first solo exhibition pairs monoprints with 
- bronze sculpture. Inspired by a Frank O'Hara poem\, it reflects on trans
- formation\, metamorphosis and becoming.\nhttps://www.galleriesnow.net/sh
- ows/tess-tomassini-the-air-becoming-no-air-again
-LOCATION:Ashley Saville\, 193 Fleet Street\, EC4A 2AH\, London\, London
-URL:https://www.galleriesnow.net/shows/tess-tomassini-the-air-becoming-no
- -air-again
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e9fb46e1777041e09c31b299225bed85-occ_04d1c3cfc7804cf5ae942c70499
@@ -4868,6 +4934,21 @@ LOCATION:domobaal\, 3 John Street\, WC1N 2ES\, London\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f9f36a118a704fcc97f5ea0a5a7cdc53-occ_2356dd4cb6874188993106b3b10
+ 2cad0@thingstodoinyourcity
+DTSTAMP:20261027T191520Z
+DTSTART:20260919T173000Z
+DTEND;VALUE=DATE:20261127
+SUMMARY:Musicals By Candlelight
+DESCRIPTION:Beloved musical theatre songs are reimagined for string quart
+ et by Icon Strings. The concert is lit by hundreds of candles inside The
+  Actors' Church in Covent Garden.\nPrice: £26\nhttps://www.londontheatr
+ e.co.uk/show/47549-musicals-by-candlelight
+LOCATION:The Actors' Church\, Bedford Street\, London\, United Kingdom\, 
+ WC2E 9ED\, West End\, London
+URL:https://www.londontheatre.co.uk/show/47549-musicals-by-candlelight
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b29f15b256654d6284774b40121b263d-occ_deda7e58745647ceb45e82ecc60
  ad7e7@thingstodoinyourcity
 DTSTAMP:20261021T190558Z
@@ -4983,6 +5064,34 @@ URL:https://secure.lovetheatre.com/book/1J4YA-the-standard-of-living/?cli
  gn=londontheatrehub&referralurl=
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_389de720d4ae4ec6b97db6725b2a2329-occ_956291d3aca047cea27b752bdd8
+ 94868@thingstodoinyourcity
+DTSTAMP:20261027T202939Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261219
+SUMMARY:Who’s Afraid of Virginia Woolf?
+DESCRIPTION:Gillian Anderson takes on the role of Martha in this new West
+  End production. Billy Crudup co-stars\, with direction by Marianne Elli
+ ott.\nPrice: Tickets from £40.00\nhttps://sohoplace.org/whats-on/
+LOCATION:@sohoplace\, 4 Soho Place\, Charing Cross Road\, London\, W1D 3B
+ G\, London
+URL:https://sohoplace.org/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_389de720d4ae4ec6b97db6725b2a2329-occ_d167b8cbce85469dae2fc03e481
+ 0fc88@thingstodoinyourcity
+DTSTAMP:20261027T202939Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261219
+SUMMARY:Who’s Afraid of Virginia Woolf?
+DESCRIPTION:Gillian Anderson takes on the role of Martha in this new West
+  End production. Billy Crudup co-stars\, with direction by Marianne Elli
+ ott.\nPrice: Tickets from £40.00\nhttps://sohoplace.org/whats-on/
+LOCATION:@sohoplace\, 4 Soho Place\, Charing Cross Road\, London\, W1D 3B
+ G\, London
+URL:https://sohoplace.org/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e948339603bf4fb08302cd8cfb7d4b64-occ_2cbd6b597b5f407896928d56396
  f654d@thingstodoinyourcity
 DTSTAMP:20261021T233027Z
@@ -5081,6 +5190,19 @@ DESCRIPTION:Jordan Fein's production won Best Musical Revival at the 2026
 LOCATION:Noël Coward Theatre\, 85-88 St Martin's Lane\, London WC2N 4AU\
  , West End\, London
 URL:https://londontheatrehub.co.uk/shows/into-the-woods/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6b67f35d59844c95808afce6d4bd29d5-occ_8bc54b409cdc406ba7ad9c44493
+ 67893@thingstodoinyourcity
+DTSTAMP:20261027T185759Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20270131
+SUMMARY:Amar Kanwar
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Serpentine Galleries\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e2925a7bf4cc48638926a61a4c613021-occ_13c02827631b4781879b3cc7d58
@@ -6947,6 +7069,24 @@ LOCATION:Annely Juda Fine Art\, 16 Hanover Square\, W1S 1HT\, London\, Lo
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c3c7e57ef49847c489fbd66b995a7251-occ_81641ab67d184b57b566146cac9
+ bccd6@thingstodoinyourcity
+DTSTAMP:20261027T190356Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261231
+SUMMARY:Wine Discovery Experience at Humble Grape
+DESCRIPTION:Tell the team what you enjoy and they hand-pick five wines fo
+ r a relaxed\, personalised tasting. Pre-booking is available online for 
+ 1 to 7 guests per table.\nPrice: The experience costs £45 per person an
+ d is designed for groups of one to seven guests.\nhttps://www.humblegrap
+ e.co.uk/wine-discovery-experience
+LOCATION:Humble Grape - Fleet Street\, Humble Grape - Liverpool Street\, 
+ Humble Grape - Bow Lane\, 1 St Bride’s Passage\, London\, EC4Y 8EJ\; 8
+  Devonshire Row\, London EC2M 4RH\; St Mary Le Bow Church\, Cheapside\, 
+ London EC2V 6AU\, London
+URL:https://www.humblegrape.co.uk/wine-discovery-experience
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d368e22f32f048e7bf12736610fd40d1-occ_bc94082da5c54011acd8e557247
  9856c@thingstodoinyourcity
 DTSTAMP:20261021T152523Z
@@ -7490,9 +7630,9 @@ SUMMARY:London\, From the Margins: Streetside Radio
 DESCRIPTION:Local artists\, presenters and DJs share sounds and stories o
  f London's underground music scenes. Each scene has an exclusive radio b
  roadcast in the 20th anniversary programme.\nPrice: Free\nhttps://richmi
- x.org.uk/live-events/streetside-radio/
+ x.org.uk/live-events/streetside-radio
 LOCATION:Streetside\, London
-URL:https://richmix.org.uk/live-events/streetside-radio/
+URL:https://richmix.org.uk/live-events/streetside-radio
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_498d6aa8092943bd9890e77e29b4cdae-occ_20f24b63e87f4f24ae540e6527b
@@ -7503,9 +7643,9 @@ SUMMARY:London\, From the Margins: Streetside Radio
 DESCRIPTION:Local artists\, presenters and DJs share sounds and stories o
  f London's underground music scenes. Each scene has an exclusive radio b
  roadcast in the 20th anniversary programme.\nPrice: Free\nhttps://richmi
- x.org.uk/live-events/streetside-radio/
+ x.org.uk/live-events/streetside-radio
 LOCATION:Streetside\, London
-URL:https://richmix.org.uk/live-events/streetside-radio/
+URL:https://richmix.org.uk/live-events/streetside-radio
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_498d6aa8092943bd9890e77e29b4cdae-occ_c4404126b16c4097b58ddc13b3c
@@ -7516,9 +7656,9 @@ SUMMARY:London\, From the Margins: Streetside Radio
 DESCRIPTION:Local artists\, presenters and DJs share sounds and stories o
  f London's underground music scenes. Each scene has an exclusive radio b
  roadcast in the 20th anniversary programme.\nPrice: Free\nhttps://richmi
- x.org.uk/live-events/streetside-radio/
+ x.org.uk/live-events/streetside-radio
 LOCATION:Streetside\, London
-URL:https://richmix.org.uk/live-events/streetside-radio/
+URL:https://richmix.org.uk/live-events/streetside-radio
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_64fc053a92444f02ab878b6303dac251-occ_7a7b926807e941b29d8aa84c9b5
@@ -10286,6 +10426,19 @@ URL:https://www.galleriesnow.net/shows/the-studio-anna-freeman-bentley-in
  -dialogue-with-20th-century-masters/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6293cd44a6f34cbea0951d0340598ac9-occ_63b96b92e4ba4a808ae598bfcf4
+ d4804@thingstodoinyourcity
+DTSTAMP:20261027T202438Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20270221
+SUMMARY:Trace the Birth of Art Photography at Tate Modern
+DESCRIPTION:https://www.factlondon.com/united-kingdom/london/things-to-do
+ /fabulous-things-to-do-in-london-this-month?redirection=cms-fact
+LOCATION:Tate Modern\, London
+URL:https://www.factlondon.com/united-kingdom/london/things-to-do/fabulou
+ s-things-to-do-in-london-this-month?redirection=cms-fact
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_34f3bbe5a2124b95bd2c884aa3e7900c-occ_e313327b5c85462886efdd8ff44
  dfe46@thingstodoinyourcity
 DTSTAMP:20261023T013411Z
@@ -10587,6 +10740,20 @@ LOCATION:Park200\, London
 URL:https://parktheatre.co.uk/events/the-pianist/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_307a59e51c76479db965c21f5bd8d82b-occ_c427efdacf4f4147a890665e43e
+ 338a1@thingstodoinyourcity
+DTSTAMP:20261021T163912Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261128
+SUMMARY:The Pianist
+DESCRIPTION:A world stage premiere adapted and directed by Thom Southerla
+ nd\, featuring Szpilman's own music. A cast of virtuoso actor-musicians 
+ conjures the golden age of Jewish Warsaw.\nPrice: £75\nhttps://parkthea
+ tre.co.uk/events/the-pianist/
+LOCATION:Park200\, London
+URL:https://parktheatre.co.uk/events/the-pianist/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3bd3a7d5b5f24e3ba1311a7c4fb47208-occ_2fa4fae9b9ae4ea3b8ac7649879
  5f305@thingstodoinyourcity
 DTSTAMP:20261022T211306Z
@@ -10596,6 +10763,19 @@ SUMMARY:Thomas Mead: Damp
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Twilight Contemporary\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8cf1947865f04693ad0389835ba16a46-occ_863d019d99d440f69fcf0e3b3f1
+ 4d24d@thingstodoinyourcity
+DTSTAMP:20261027T190001Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20270207
+SUMMARY:Yinka Shonibare and Thomas Gainsborough: A Conversation
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:National Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad2659b8af2b43d0a7728e5852678068-occ_db252c8b00ca438b9e79fba0ab3
@@ -10836,6 +11016,19 @@ LOCATION:Arcola\, 24 Ashwin Street\, Dalston\, Inner London\, E8 3DL\, In
  ner London\, London
 URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
  e/the-master-builder_1728770/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b19af68b919c450ab3c5a7d96323274a-occ_0605f94a52e94a16972e74f36c6
+ 25b4e@thingstodoinyourcity
+DTSTAMP:20261027T190446Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270711
+SUMMARY:Wildlife Photographer of the Year
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Natural History Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b91164f4dac1418caea2bb1b26c64558-occ_78ab564cae674f718c83d7a35b9
@@ -11227,6 +11420,19 @@ LOCATION:Dulwich Picture Gallery\, London
 URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7576f11cabdb4d8b87303b7652258268-occ_66676e954400401aa934ac3c162
+ 75eff@thingstodoinyourcity
+DTSTAMP:20261027T190112Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20270117
+SUMMARY:Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Dulwich Picture Gallery\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b5172bfb18a44c1282ad01c8457a3b2b-occ_bf0afdd3a88f438d84f614c7741
  52e64@thingstodoinyourcity
 DTSTAMP:20261027T155422Z
@@ -11519,6 +11725,19 @@ DESCRIPTION:A new show with over thirty acrobats\, aerialists and daredev
 LOCATION:Garrick Theatre\, 2 Charing Cross Rd\, London\, WC2H 0HH\, Londo
  n
 URL:https://thegarricktheatre.co.uk/tickets/cirque-berserk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ac93c28845494031920bc3740398adf5-occ_0a2004ebf07e4e1eb9cbe831bd5
+ 89cc9@thingstodoinyourcity
+DTSTAMP:20261027T190326Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20270418
+SUMMARY:Dickensian London: The Magic Lantern City
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Charles Dickens Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c40ab7ea1464df2a8446e72f319c885-occ_f4ad591e02984e028c217232cbd
@@ -12102,6 +12321,20 @@ LOCATION:The Other Palace\, 12 Palace Street\, London\, SW1E 5JA\, London
 URL:https://seatplan.com/london/garry-starr-classic-penguins-tickets/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b7489e07ebf340de8018609b510f50dd-occ_a80bc3d9918147ba8d99f8071a4
+ 5a847@thingstodoinyourcity
+DTSTAMP:20261021T224750Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20270103
+SUMMARY:Garry Starr: Classic Penguins
+DESCRIPTION:Garry Starr performs every Penguin Classic novel in under an 
+ hour\, in a physical comedy show. Strictly 18+\, with full nudity\, stro
+ be lighting and haze.\nPrice: from £24.00\nhttps://seatplan.com/london/
+ garry-starr-classic-penguins-tickets/
+LOCATION:The Other Palace\, 12 Palace Street\, London\, SW1E 5JA\, London
+URL:https://seatplan.com/london/garry-starr-classic-penguins-tickets/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b7489e07ebf340de8018609b510f50dd-occ_fafc7adbe96c4cacbb46b6189e6
  f4f18@thingstodoinyourcity
 DTSTAMP:20261021T224750Z
@@ -12326,6 +12559,21 @@ DESCRIPTION:Shop any Kylie Cosmetics product for a free pouch\; spending
 LOCATION:Selfridges\, 400 Oxford Street\, Marylebone\, London\, Marylebon
  e\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1c88bbd108734fb7885eeaa739877e9e-occ_3f395e601e244c7d9ab607f2827
+ 96896@thingstodoinyourcity
+DTSTAMP:20261027T173643Z
+DTSTART:20261022T090000Z
+DTEND:20270222T173000Z
+SUMMARY:Taster Lecture Recording: Paintings of Women and the Garden
+DESCRIPTION:Christine Lalumia explores paintings of women\, flowers and g
+ ardens painted from 1850 to 1980. Access is by emailed viewing link\, fo
+ r a limited time.\nPrice: Free\nhttps://www.vam.ac.uk/event/VvQoRjmVLr5/
+ o26038-taster-lecture-recording-october-2026-christine-lalumia
+LOCATION:V&A Academy Online\, London
+URL:https://www.vam.ac.uk/event/VvQoRjmVLr5/o26038-taster-lecture-recordi
+ ng-october-2026-christine-lalumia
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_2955ea48cedd4c508f83ab97468
@@ -12895,6 +13143,17 @@ LOCATION:London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d8240061f8974aeea84c7643eef189f5-occ_401ace3dacdf40d384c8d120e90
+ 7e593@thingstodoinyourcity
+DTSTAMP:20261027T202937Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261101
+SUMMARY:With Each Look
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_8dc22e0982994c3cb74db902a5a
  13ed8@thingstodoinyourcity
 DTSTAMP:20261023T032917Z
@@ -13253,6 +13512,22 @@ LOCATION:Multiple locations\, Guildhall School of Music & Drama\, Silk St
 URL:https://onecitylondon.com/event/darbar-festival-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e38b8521fc2f49548a25765a7f04d5a7-occ_de22ff4751a14958a16350a4e1a
+ 0f1f9@thingstodoinyourcity
+DTSTAMP:20261027T185750Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261101
+SUMMARY:Darbar Festival 2026
+DESCRIPTION:Returning for its 21st edition\, the festival brings Hindusta
+ ni and Carnatic artists\, a midnight concert and yoga. An Indian bazaar 
+ offers crafts and independent vendors.\nhttps://onecitylondon.com/event/
+ darbar-festival-2026/
+LOCATION:Guildhall School of Music & Drama\; Barbican Centre\, Guildhall 
+ School of Music & Drama\, Silk Street\, Barbican\, London\, EC2Y 8DT\; B
+ arbican Centre\, Silk Street\, London\, EC2Y 8DS\, London
+URL:https://onecitylondon.com/event/darbar-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ef6311c6c84947eebeea9c8a7a26228f-occ_5b46b86f72694c9198a8801c41c
  2d39c@thingstodoinyourcity
 DTSTAMP:20261026T182128Z
@@ -13532,6 +13807,18 @@ LOCATION:The Art Workers' Guild\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1c9d905d54404fdbb4541633ff801a1e-occ_de7e0891ffa044d48171a0c417f
+ d70e4@thingstodoinyourcity
+DTSTAMP:20261027T202810Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261124
+SUMMARY:Pieces of Our Journey: English Paper Piecing Quilt made by People
+  with Breast Cancer
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:The Art Workers' Guild\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8be1afc609a448f6a261dabd0c15d069-occ_f96b76b363314097be53415de4e
  dfc59@thingstodoinyourcity
 DTSTAMP:20261026T150101Z
@@ -13722,64 +14009,6 @@ DESCRIPTION:https://www.culturalwednesday.co.uk/best-london-exhibitions-2
  /
 LOCATION:British Museum\, London
 URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_179e2688e36b47b7919c6322f7c7500b-occ_557769a862d3413caf4ed743282
- 6eadb@thingstodoinyourcity
-DTSTAMP:20261023T023509Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261107
-SUMMARY:Blood of My Blood
-DESCRIPTION:Joy Nesbitt's debut ancestry drama moves between a slave cabi
- n turned Airbnb and 1862. Time Out calls it funny\, intelligent and disa
- rmingly gentle.\nPrice: £15-£30\nhttps://www.timeout.com/london/theatr
- e/blood-of-my-blood-review
-LOCATION:Royal Court Theatre\, 50-51 Sloane Square London SW1W 8AS\, Sloa
- ne Square\, London
-URL:https://www.timeout.com/london/theatre/blood-of-my-blood-review
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_179e2688e36b47b7919c6322f7c7500b-occ_ee5772b5b80a496aa85f8ae8053
- cf965@thingstodoinyourcity
-DTSTAMP:20261023T023509Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261107
-SUMMARY:Blood of My Blood
-DESCRIPTION:Joy Nesbitt's debut ancestry drama moves between a slave cabi
- n turned Airbnb and 1862. Time Out calls it funny\, intelligent and disa
- rmingly gentle.\nPrice: £15-£30\nhttps://www.timeout.com/london/theatr
- e/blood-of-my-blood-review
-LOCATION:Royal Court Theatre\, 50-51 Sloane Square London SW1W 8AS\, Sloa
- ne Square\, London
-URL:https://www.timeout.com/london/theatre/blood-of-my-blood-review
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_179e2688e36b47b7919c6322f7c7500b-occ_7b0a185e842c4c18a89245a40e2
- fe9cd@thingstodoinyourcity
-DTSTAMP:20261023T023509Z
-DTSTART:20261030T194500Z
-SUMMARY:Blood of My Blood
-DESCRIPTION:Joy Nesbitt's debut ancestry drama moves between a slave cabi
- n turned Airbnb and 1862. Time Out calls it funny\, intelligent and disa
- rmingly gentle.\nPrice: £15-£30\nhttps://www.timeout.com/london/theatr
- e/blood-of-my-blood-review
-LOCATION:Royal Court Theatre\, 50-51 Sloane Square London SW1W 8AS\, Sloa
- ne Square\, London
-URL:https://www.timeout.com/london/theatre/blood-of-my-blood-review
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_179e2688e36b47b7919c6322f7c7500b-occ_5d7350ae21064e61853f9954bd8
- d0e81@thingstodoinyourcity
-DTSTAMP:20261023T023509Z
-DTSTART:20261031T184500Z
-SUMMARY:Blood of My Blood
-DESCRIPTION:Joy Nesbitt's debut ancestry drama moves between a slave cabi
- n turned Airbnb and 1862. Time Out calls it funny\, intelligent and disa
- rmingly gentle.\nPrice: £15-£30\nhttps://www.timeout.com/london/theatr
- e/blood-of-my-blood-review
-LOCATION:Royal Court Theatre\, 50-51 Sloane Square London SW1W 8AS\, Sloa
- ne Square\, London
-URL:https://www.timeout.com/london/theatre/blood-of-my-blood-review
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c42e749900d40fa8ea3da43d8fcc234-occ_f019de2df1b544ed92663d2ede5
@@ -14192,6 +14421,20 @@ LOCATION:Park90\, London
 URL:https://parktheatre.co.uk/events/the-revlon-girl/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5a50806e798f41348af6dac08f3a2fbd-occ_fe7cc2c8bcec4515a5d201593d4
+ 17e30@thingstodoinyourcity
+DTSTAMP:20261021T203519Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261114
+SUMMARY:The Revlon Girl
+DESCRIPTION:Ten years on\, Neil Anthony Docking's Olivier-nominated drama
+  returns. Based on events following the Aberfan Disaster\, it is funny\,
+  moving and deeply compassionate.\nPrice: £20\nhttps://parktheatre.co.u
+ k/events/the-revlon-girl/
+LOCATION:Park90\, London
+URL:https://parktheatre.co.uk/events/the-revlon-girl/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5a50806e798f41348af6dac08f3a2fbd-occ_f54138ac2e8148e0aedfb2f82fb
  045b4@thingstodoinyourcity
 DTSTAMP:20261021T203519Z
@@ -14487,6 +14730,21 @@ URL:https://seatplan.com/london/austentatious-the-improvised-jane-austen-
  novel-tickets/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4bc02f8bd39b4a85b62f9101af26bc33-occ_32574363fbd24578a987f11d54b
+ 62813@thingstodoinyourcity
+DTSTAMP:20261023T073241Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261214
+SUMMARY:Austentatious
+DESCRIPTION:Improv troupe Austentatious builds a brand-new Jane Austen st
+ ory nightly from audience suggestions. Expect full period dress\, laught
+ er and surprises on Monday evenings.\nPrice: from £25.80\nhttps://seatp
+ lan.com/london/austentatious-the-improvised-jane-austen-novel-tickets/
+LOCATION:Vaudeville Theatre\, The Strand\, London\, WC2R 0NH\, London
+URL:https://seatplan.com/london/austentatious-the-improvised-jane-austen-
+ novel-tickets/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_01b4c6579ebb4f81b36fb293340b05b2-occ_59cb294ecd6647bb926b917d719
  36220@thingstodoinyourcity
 DTSTAMP:20261026T134951Z
@@ -14738,6 +14996,20 @@ DESCRIPTION:Recently crowned Best London Comedy Club at the Chortle Award
 LOCATION:Big Belly Comedy - Southbank\, London
 URL:https://www.londontheatres.com/event/big-belly-comedy-club-_-voted-lo
  ndon's-best-comedy-club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_179e2688e36b47b7919c6322f7c7500b-occ_5d7350ae21064e61853f9954bd8
+ d0e81@thingstodoinyourcity
+DTSTAMP:20261027T181605Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Blood of My Blood
+DESCRIPTION:Joy Nesbitt's debut play moves between a slave cabin turned A
+ irbnb and 1862. Time Out calls it funny\, intelligent and disarmingly ge
+ ntle.\nPrice: £15-£30\nhttps://www.timeout.com/london/things-to-do/thi
+ ngs-to-do-in-london-this-week
+LOCATION:Royal Court Theatre\, Sloane Square\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e4f73da0774b4294a4fdc9a04b8156b9-occ_471ba29eae3844d4983def63265
@@ -16309,10 +16581,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61a5ce49494841eaae1479f360d1d30c-occ_47b09d17b76f489b8166b79d77a
@@ -16323,10 +16595,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61a5ce49494841eaae1479f360d1d30c-occ_41157d0310bf4b5096110f4b670
@@ -16337,10 +16609,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61a5ce49494841eaae1479f360d1d30c-occ_5254ddb3b36a47a3a2876331b27
@@ -16351,10 +16623,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61a5ce49494841eaae1479f360d1d30c-occ_c3314c566e7347a89bbb45cb026
@@ -16365,10 +16637,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61a5ce49494841eaae1479f360d1d30c-occ_9b70ea3857e14216887e14228d1
@@ -16379,10 +16651,10 @@ SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and daughter Erika take a tense 1949 road trip ac
  ross post-war Germany. Pawlikowski\, director of Ida and Cold War\, retu
  rns with an elliptic\, distilled drama.\nhttps://www.arthousecrouchend.c
- o.uk/programme/?programme_id=10467498
+ o.uk/programme?programme_id=10467498
 LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
  on
-URL:https://www.arthousecrouchend.co.uk/programme/?programme_id=10467498
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10467498
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_118f74570ebe4ba7903f288d1d7f337e-occ_e1629801eeb844149459276d749
@@ -16624,6 +16896,17 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018761/nightborn?
  filter=
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_94ed2e3b052d4bf4acbb234d8f10d54b-occ_1f8b45c46c3d41d1a2791fec765
+ 0a9a1@thingstodoinyourcity
+DTSTAMP:20261027T200307Z
+DTSTART:20261027T180000Z
+DTEND;VALUE=DATE:20261101
+SUMMARY:How to be in the Future: A Future Senorium
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Chisenhale Studios\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_55839bd153e641d4b98a34c3d0e1d7ff-occ_861524ffcd9e4b4cadb44dff256
  093e3@thingstodoinyourcity
 DTSTAMP:20261023T140942Z
@@ -16771,13 +17054,11 @@ DTSTART:20261031T144500Z
 SUMMARY:Possible Love
 DESCRIPTION:Two married couples' lives collide after a funeral in Lee Cha
  ng-dong's first release in eight years. Korean-language film with Englis
- h subtitles\, following up his acclaimed Burning.\nhttps://arthousecrouc
- hend.savoysystems.co.uk/ArtHouseCrouchEnd.dll/TSelectItems.waSelectItems
- Prompt.TcsWebMenuItem_12458.TcsWebTab_12459.TcsPerformance_10508737
-LOCATION:SCREEN 1\, 159A Tottenham Lane London\, N8 9BT\, London
-URL:https://arthousecrouchend.savoysystems.co.uk/ArtHouseCrouchEnd.dll/TS
- electItems.waSelectItemsPrompt.TcsWebMenuItem_12458.TcsWebTab_12459.TcsP
- erformance_10508737
+ h subtitles\, following up his acclaimed Burning.\nhttps://www.arthousec
+ rouchend.co.uk/programme?programme_id=10475900
+LOCATION:ArtHouse Crouch End\, 159A Tottenham Lane London\, N8 9BT\, Lond
+ on
+URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10475900
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6ec456df2680436cabd18e0194aafdd1-occ_63671b7350e94744858663649a4
@@ -17216,6 +17497,118 @@ URL:https://www.lovetheatre.com/shows/faulty-towers-the-dining-experience
  -tickets
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_b9b180f561ce4840a90cacc56fd
+ fce50@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_4508f33cdaf24aa68087dab4a37
+ 2025b@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_7c9a7e62962b40928f488fc6a43
+ 3b366@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_100115d7fb864b29a55c7f73e85
+ 592db@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_d7f2d8c54e7847fabecf7cc4234
+ 4b83e@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20261219
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_a947b00594b8472aa83ed87af22
+ 74d7f@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20270102
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_df697e275944441e98100d2a325
+ 06082@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20270116
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8db72be15d524ee5a808d6a268c44362-occ_715f3988440340d7a21d639374f
+ f80d2@thingstodoinyourcity
+DTSTAMP:20261027T180353Z
+DTSTART;VALUE=DATE:20270130
+SUMMARY:Ghosts & Ghouls Family Tour
+DESCRIPTION:Family-friendly spooky guided tour of the Globe Theatre\, cov
+ ering ghosts and scary tales from Shakespeare's plays. Tickets include e
+ xhibition entry\; about one hour.\nPrice: PRICE: £23.00*\nhttps://www.s
+ hakespearesglobe.com/whats-on/ghosts-and-ghouls-family-tour/
+LOCATION:Shakespeare’s Globe\, London
+URL:https://www.shakespearesglobe.com/whats-on/ghosts-and-ghouls-family-t
+ our/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3eeba27f1c3342569a3953b68e0f190d-occ_f7bfdcd8f26f49cc98169c9ba71
  444ab@thingstodoinyourcity
 DTSTAMP:20261027T162153Z
@@ -17455,6 +17848,26 @@ LOCATION:The View from The Shard\, 32 London Bridge Street\, SE1 9SG\, Lo
  ndon\, London
 URL:https://www.tiqets.com/en/checkout/tickets-for-the-view-from-the-shar
  d-p973995/booking_details/?partner=weekend.london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_845906fbe3b44a5c80a5690c82cb6679-occ_312ed79624d84b7bbdd3b2c9dc2
+ ffe2b@thingstodoinyourcity
+DTSTAMP:20261027T174721Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261231
+SUMMARY:Timewalk Immersive Experience Museum: Journey Through 12\,000 Yea
+ rs of History
+DESCRIPTION:Explore the Maya\, Babylon\, Ancient Egypt\, Rapa Nui and Gö
+ beklitepe in 360° environments. Narrated by David Schofield and Olivia 
+ Williams\, with an original orchestral score.\nPrice: From £20.50\nhttp
+ s://feverup.com/m/645712?utm_source=affiliate&utm_medium=impact&utm_camp
+ aign=&utm_content=7210954_The%20Young%20Londoner&irclickid=xp5V4RVUIxyZT
+ bKWaE2RKwnlUkr3DIT3q1BrS00&irgwc=1&afsrc=1
+LOCATION:Immerse LDN\, Excel Waterfront\, Royal Victoria Dock 1 Western G
+ ateway\, E16 1XL\, London
+URL:https://feverup.com/m/645712?utm_source=affiliate&utm_medium=impact&u
+ tm_campaign=&utm_content=7210954_The%20Young%20Londoner&irclickid=xp5V4R
+ VUIxyZTbKWaE2RKwnlUkr3DIT3q1BrS00&irgwc=1&afsrc=1
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ee113c91c2d0407aaaba1e21d6a9e76d-occ_1029f68036fd438a817d4ea33df
@@ -18083,6 +18496,18 @@ LOCATION:Young V&A\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_613b6acb585b4e82a9f08f3ddebfc6b3-occ_f715b42fb35a42108a2aeac3c78
+ 291d6@thingstodoinyourcity
+DTSTAMP:20261027T185343Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Terror At The Haunted Starbucks: Weirdos Comedy Halloween Special
+DESCRIPTION:An annual Weirdos Comedy Hallowe'en show mixing arthouse come
+ dy farce with horror pantomime. Highly interactive and newbie-friendly\,
+  with fancy dress welcome.\nhttps://www.museumofcomedy.com/whats-on/
+LOCATION:Museum of Comedy\, London
+URL:https://www.museumofcomedy.com/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_60d9f78ffe294b95adcf161d9051d3fa-occ_b20181d39b70489da6752395242
  06ba6@thingstodoinyourcity
 DTSTAMP:20261027T131721Z
@@ -18171,6 +18596,36 @@ LOCATION:Top Secret Comedy Club\, London
 URL:https://www.londontheatres.com/event/cobo-comedy-shutdown
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bc58a34ec5444e60a18df31103294702-occ_ed7fca78c23b4ee39b44ec28233
+ b950d@thingstodoinyourcity
+DTSTAMP:20261023T054412Z
+DTSTART:20261031T174500Z
+SUMMARY:Nosferatu with Live Score
+DESCRIPTION:Hugo Max performs a live score for F. W. Murnau's 1922 silent
+  horror. Max Schreck stars as Count Orlok in the first screen adaptation
+  of Bram Stoker's Dracula.\nhttps://princecharlescinema.com/film/1719808
+ 9/nosferatu-with-live-score
+LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
+  London
+URL:https://princecharlescinema.com/film/17198089/nosferatu-with-live-sco
+ re
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e9c0cded47fb483c89fc43d3c5084359-occ_c9609d11381e4fccaaabc1b952a
+ 4be59@thingstodoinyourcity
+DTSTAMP:20261027T175441Z
+DTSTART:20261029T183000Z
+DTEND;VALUE=DATE:20261210
+SUMMARY:The Charterhouse Candlelight Evening Tour
+DESCRIPTION:Tour the Charterhouse by candlelight through nearly 700 years
+  of history. Visit the medieval Norfolk Cloister and Tudor Great Chamber
+ 's Restoration portraits.\nPrice: £30 each\nhttps://onecitylondon.com/e
+ vent/the-charterhouse-candlelight-evening-tour/
+LOCATION:The Charterhouse\, Charterhouse Square London EC1M 6AN\, London
+URL:https://onecitylondon.com/event/the-charterhouse-candlelight-evening-
+ tour/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4f835cede4c44a35ae6c4893f94b933b-occ_8b1f663c34194aa4bfab28a87c3
  4476f@thingstodoinyourcity
 DTSTAMP:20261026T052629Z
@@ -18179,6 +18634,19 @@ SUMMARY:Sankofa
 DESCRIPTION:https://bloomsburyfestival.org.uk/whats-on
 LOCATION:Holy Cross Church\, London
 URL:https://bloomsburyfestival.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7063a90c9d5e43c0b5384da89f492beb-occ_b3bd1dc88f82449f9087eafdb15
+ 5ee0b@thingstodoinyourcity
+DTSTAMP:20261027T194102Z
+DTSTART:20261029T193000Z
+DTEND;VALUE=DATE:20270213
+SUMMARY:Andrew Ryan
+DESCRIPTION:Andrew Ryan returns with a brand-new show after a sell-out 20
+ 24 tour. Expect tales of pet ownership and his unrelenting frustration w
+ ith the world.\nhttps://www.londontheatres.com/event/andrew-ryan
+LOCATION:Leicester Square Theatre\, London
+URL:https://www.londontheatres.com/event/andrew-ryan
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1a465a7493d84d8f961f9aa4d2bb3955-occ_92388d87c31648bfb24e35f304c
@@ -18218,36 +18686,6 @@ DESCRIPTION:INALA has relaunched with a new cast of South African singer-
 LOCATION:House of Sisters Grimm\, 23-25 Eastcastle Street\, London\, W1W 
  8DF\, London
 URL:https://www.lovetheatre.com/shows/inala-tickets
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_613b6acb585b4e82a9f08f3ddebfc6b3-occ_dd56ae59533c4fcdbdce4a1986a
- 393c8@thingstodoinyourcity
-DTSTAMP:20261022T185122Z
-DTSTART:20261030T193000Z
-SUMMARY:Terror At The Haunted Starbucks: Halloween Special
-DESCRIPTION:An annual Weirdos Comedy Hallowe'en show mixing arthouse come
- dy farce with horror pantomime. Highly interactive and newbie-friendly\;
-  fancy dress welcome.\nhttps://www.museumofcomedy.com/terror-at-the-haun
- ted-starbucks-a-weirdos-comedy-halloween-special
-LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
- ry Way\, London\, WC1A 2SR\, London
-URL:https://www.museumofcomedy.com/terror-at-the-haunted-starbucks-a-weir
- dos-comedy-halloween-special
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_613b6acb585b4e82a9f08f3ddebfc6b3-occ_f715b42fb35a42108a2aeac3c78
- 291d6@thingstodoinyourcity
-DTSTAMP:20261022T185122Z
-DTSTART:20261031T193000Z
-SUMMARY:Terror At The Haunted Starbucks: Halloween Special
-DESCRIPTION:An annual Weirdos Comedy Hallowe'en show mixing arthouse come
- dy farce with horror pantomime. Highly interactive and newbie-friendly\;
-  fancy dress welcome.\nhttps://www.museumofcomedy.com/terror-at-the-haun
- ted-starbucks-a-weirdos-comedy-halloween-special
-LOCATION:Museum of Comedy\, The Undercroft\, St Georges Church\, Bloomsbu
- ry Way\, London\, WC1A 2SR\, London
-URL:https://www.museumofcomedy.com/terror-at-the-haunted-starbucks-a-weir
- dos-comedy-halloween-special
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b731659de03a4b88894541ee95387c99-occ_b39da3a2b11f413dbcd56ed2b0b
@@ -18308,6 +18746,18 @@ LOCATION:Comedy Carnival Covent Garden\, 42 Earlham St\, London WC2H 9LA\
  , Covent Garden\, London
 URL:https://www.lovetheatre.com/shows/international-stand-up-comedy-ticke
  ts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_48978f2a44174a27bbb21a5ff3ed4877-occ_dcce2c3cc0ef4865941c648893f
+ ec3be@thingstodoinyourcity
+DTSTAMP:20261027T200716Z
+DTSTART:20261029T200000Z
+DTEND:20261102T233000Z
+SUMMARY:London Salsa weekend - Autumn
+DESCRIPTION:https://stayhappening.com/e/london-salsa-weekend-autumn-E2ISY
+ WQ73OI
+LOCATION:Camden Town\, Camden Town\, London\, United Kingdom\, London
+URL:https://stayhappening.com/e/london-salsa-weekend-autumn-E2ISYWQ73OI
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_67363d6d9c1d455bac3d1473cc86da78-occ_4f1bd5e0a31d42378943d8c31aa
@@ -19903,19 +20353,6 @@ LOCATION:Korean Cultural Centre UK\, Grand Buildings\, 1-3 Strand\, Londo
 URL:https://uk.korean-culture.org/en/2123/board/1737/read/149183
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ceba39484dc34bd5b3ae45698725aa25-occ_c46492c6cfa144b7a0864f8a84a
- 9a2db@thingstodoinyourcity
-DTSTAMP:20261023T172410Z
-DTSTART:20261030T181500Z
-SUMMARY:Film Africa: Dear Ajayi
-DESCRIPTION:In 1990s Nigeria\, sisters Ade and Titi clash over duty\, fai
- th and freedom. Ade is a devout breadwinner\; Titi an aspiring singer.\n
- https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949792
-LOCATION:SPECIAL EVENTS\, 107 Kingsland High Street\, London\, E8 2PB\, L
- ondon
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949792
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f259c820f4974d42bf9c57d09dd7b9d2-occ_e6565272672f40eb8bbf5b0d3b1
  a36a7@thingstodoinyourcity
 DTSTAMP:20261023T172229Z
@@ -20006,21 +20443,6 @@ DESCRIPTION:A 1983 film exploring ghosts\, memory and history\, followed
 LOCATION:Birkbeck\, 43 Gordon Square\, London
 URL:https://www.bbk.ac.uk/events/event/66013/ghost-dance-screening-and-pa
  nel-discussion-with-director
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_45f873709363470a907ace5ad1c948cd-occ_1596c992d8bf410b87c7c4a3bc8
- cdd41@thingstodoinyourcity
-DTSTAMP:20261023T174037Z
-DTSTART:20261030T183000Z
-SUMMARY:Hocus Pocus Halloween Sing-A-Long Film Screening
-DESCRIPTION:Following last year's Rocky Horror sing-along\, this Hallowee
- n screening invites costumes. The Sanderson Sisters are resurrected in S
- alem on Halloween night.\nPrice: £6.50\nhttps://www.bloomsburytheatre.c
- om/event/2026/10/hocus-pocus-film-screening
-LOCATION:Bloomsbury Studio\, 15 Gordon Street\, London\, WC1H 0AH\, Londo
- n
-URL:https://www.bloomsburytheatre.com/event/2026/10/hocus-pocus-film-scre
- ening
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fe23b627ee584c2987fa73b0cff22a38-occ_e4b44e18bbc7407592d045cd0a0
@@ -20999,6 +21421,19 @@ DESCRIPTION:Families are invited to carve their own pumpkins for the seas
 LOCATION:Stanley Arts\, London
 URL:https://www.primarytimes.co.uk/south_london/listings/family-craft-pum
  pkin-carving-at-stanley-arts-604412
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_affe806364d849439dc165909a819977-occ_3a4828a76fbb425c926adaa9c01
+ 1e151@thingstodoinyourcity
+DTSTAMP:20261027T183035Z
+DTSTART;VALUE=DATE:20261031
+SUMMARY:Film Africa: Strawberries
+DESCRIPTION:Two young women leave Morocco to pick strawberries in Spain\,
+  hoping for fair pay. Backed by a Spanish lawyer\, they must decide whet
+ her to speak out against abuse.\nhttps://riocinema.org.uk/Rio.dll/WhatsO
+ n
+LOCATION:Rio Cinema\, Dalston\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8c8b7a4367be473192207c27a01f7270-occ_621bf810774c4969b08bbcbb72a
@@ -22383,20 +22818,6 @@ DESCRIPTION:https://clusterflick.com/movies/a2e314e9/oska-bright-presents
  -horror/
 LOCATION:Kiln Theatre\, London
 URL:https://clusterflick.com/movies/a2e314e9/oska-bright-presents-horror/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_affe806364d849439dc165909a819977-occ_3a4828a76fbb425c926adaa9c01
- 1e151@thingstodoinyourcity
-DTSTAMP:20261024T161205Z
-DTSTART:20261031T170000Z
-SUMMARY:Film Africa: Strawberries
-DESCRIPTION:Two young women leave Morocco to pick strawberries in Spain\,
-  hoping for fair pay. Backed by a Spanish lawyer\, they must decide whet
- her to speak out against abuse.\nhttps://riocinema.org.uk/Rio.dll/WhatsO
- n?f=2949849
-LOCATION:SPECIAL EVENTS\, 107 Kingsland High Street\, London\, E8 2PB\, L
- ondon
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949849
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_614b8fa048b5463b9017ecb646caea84-occ_64ed65785bf349b78d60f2ad158
