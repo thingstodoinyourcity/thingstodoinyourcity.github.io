@@ -140,6 +140,20 @@ LOCATION:London
 URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d04ffdfe7e9747ec86c232b1e7f39bf7-occ_e697a44b4de0411aa858f53e7a3
+ ff01f@thingstodoinyourcity
+DTSTAMP:20261021T235849Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:White Gold
+DESCRIPTION:UK premiere of Larisa Faber's latest show\, fresh from Avigno
+ n and Luxembourg. Surreal theatre\, clowning and ballet about seasonal l
+ abour and leaving your roots behind.\nhttps://www.wherecanwego.com/item/
+ e1608571
+LOCATION:Camden People’s Theatre\, 58-50 Hampstead Road\, London NW1 2P
+ Y\, London
+URL:https://www.wherecanwego.com/item/e1608571
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d8a61bc0914f4f9ea8b618d00ffe7de9-occ_f71dc9572f814d48b5b28385960
  e07f7@thingstodoinyourcity
 DTSTAMP:20261022T221604Z
@@ -449,6 +463,16 @@ LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d82b1f4346714fb182e130c388dd9592-occ_da5bd6a31b3b453dab51645cdb0
+ 7f34e@thingstodoinyourcity
+DTSTAMP:20261022T003558Z
+DTSTART;VALUE=DATE:20261029
+SUMMARY:Superstitious sailors
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_cf612026f16b4635823571a11b4df9bf-occ_38914df21b9748558ae0c768b5d
  00336@thingstodoinyourcity
 DTSTAMP:20261026T061716Z
@@ -605,6 +629,16 @@ LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6f84f846a9c7493d98067e0955b7d64b-occ_96af38a5a57d4b5f85606478e7d
+ 48a22@thingstodoinyourcity
+DTSTAMP:20261022T222922Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Eerie animals of London
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_871ed47366524ec888c563c10fd6de37-occ_9d0274d1f38e4c59a6230b04679
  3c84b@thingstodoinyourcity
 DTSTAMP:20261026T132510Z
@@ -649,6 +683,17 @@ UID:cand_8358930b7ccd48d4b8d934a6e8987c84-occ_669f18fbf5b24a919a05b5f7554
  654b2@thingstodoinyourcity
 DTSTAMP:20261022T222449Z
 DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+SUMMARY:Make a mythical creature
+DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
+LOCATION:London Museum Docklands\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8358930b7ccd48d4b8d934a6e8987c84-occ_7312cb000a964399bb983779d6b
+ c8d79@thingstodoinyourcity
+DTSTAMP:20261022T222449Z
+DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Make a mythical creature
 DESCRIPTION:https://www.londonmuseum.org.uk/whats-on/
@@ -893,6 +938,32 @@ URL:https://events.bl.uk/events/art-workshops-for-people-who-are-blind-an
  d-partially-sighted
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1d42b28098b14341ac1dd824b55d8dca-occ_faeced86ed8b4df4a67b848217d
+ 82771@thingstodoinyourcity
+DTSTAMP:20261028T062833Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Bad Apples
+DESCRIPTION:A struggling primary school teacher takes drastic action agai
+ nst a foul-mouthed\, violent student. Saoirse Ronan stars in this comedy
+  thriller directed by Jonatan Etzler.\nhttps://www.thecinemainthepowerst
+ ation.com/whats-on
+LOCATION:The Arches\, London
+URL:https://www.thecinemainthepowerstation.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1d42b28098b14341ac1dd824b55d8dca-occ_dc03517dec6344c79222c7fd13b
+ 51e07@thingstodoinyourcity
+DTSTAMP:20261028T062833Z
+DTSTART;VALUE=DATE:20261029
+SUMMARY:Bad Apples
+DESCRIPTION:A struggling primary school teacher takes drastic action agai
+ nst a foul-mouthed\, violent student. Saoirse Ronan stars in this comedy
+  thriller directed by Jonatan Etzler.\nhttps://www.thecinemainthepowerst
+ ation.com/whats-on
+LOCATION:The Arches\, London
+URL:https://www.thecinemainthepowerstation.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bad9e17c2c3649b897543bb9f85c0ef6-occ_33353a1cc2804a3586886c5875b
  75451@thingstodoinyourcity
 DTSTAMP:20261026T174936Z
@@ -952,38 +1023,6 @@ LOCATION:Camden Town Brewery\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e79cee6c7db54a6c87d4aae8642a9b98-occ_fe5ae76f06ae4650bf87df6bf98
- f9164@thingstodoinyourcity
-DTSTAMP:20261022T034135Z
-DTSTART;VALUE=DATE:20261028
-SUMMARY:Chloe Petts - Work in Progress
-DESCRIPTION:Praised by The Guardian and Evening Standard as one of the mo
- st compelling young comics on the circuit. This 18+ work-in-progress nig
- ht is presented by Angel Comedy.\nPrice: Unreserved seating - £8.54 + 9
- 6p booking fee\nhttps://www.angelcomedy.co.uk/event-detail/chloe-petts-w
- ork-in-progress-tue-27th-oct-the-bill-murray-london-tickets-202610271830
- /
-LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/chloe-petts-work-in-progre
- ss-tue-27th-oct-the-bill-murray-london-tickets-202610271830/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e79cee6c7db54a6c87d4aae8642a9b98-occ_88689a78269e42908c88ffaa4f2
- 1ef27@thingstodoinyourcity
-DTSTAMP:20261022T034135Z
-DTSTART;VALUE=DATE:20261029
-SUMMARY:Chloe Petts - Work in Progress
-DESCRIPTION:Praised by The Guardian and Evening Standard as one of the mo
- st compelling young comics on the circuit. This 18+ work-in-progress nig
- ht is presented by Angel Comedy.\nPrice: Unreserved seating - £8.54 + 9
- 6p booking fee\nhttps://www.angelcomedy.co.uk/event-detail/chloe-petts-w
- ork-in-progress-tue-27th-oct-the-bill-murray-london-tickets-202610271830
- /
-LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/chloe-petts-work-in-progre
- ss-tue-27th-oct-the-bill-murray-london-tickets-202610271830/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_497a4ebd6a024089b97be8baec14753c-occ_04ec55ea80224116bc6decb551c
  b7a85@thingstodoinyourcity
 DTSTAMP:20261026T114104Z
@@ -995,6 +1034,18 @@ DESCRIPTION:A dance troupe's rehearsal turns into a dark nightmare after
  CARD) £15.00\nhttps://clusterflick.com/movies/507076/climax
 LOCATION:The Arzner\, London
 URL:https://clusterflick.com/movies/507076/climax
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d50218d5b94a4249abe2fe2b2144edba-occ_435a5aa9756749e7a4a0d3200a2
+ 7f75c@thingstodoinyourcity
+DTSTAMP:20261028T060917Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy
+DESCRIPTION:An award-winning comedy club featuring TV comics and the best
+  of the London circuit. Shows run every Tuesday\, Wednesday and Thursday
+  at 19:00.\nhttps://www.londontheatres.com/events/comedy
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_decdadd617944fee95fef09536b60893-occ_7d3a44e0a8a4430c9390444aeaa
@@ -1226,6 +1277,32 @@ DESCRIPTION:Children pick a pumpkin in the spooky Stableyard and carve it
 LOCATION:Morden Hall Park\, London
 URL:https://www.primarytimes.co.uk/south_london/listings/half-term-pumpki
  n-carving-604358
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_84c1b8ecb37d42108abe8c7dc7644b89-occ_5adf14190b2849bb88b81c47a9b
+ ce0e9@thingstodoinyourcity
+DTSTAMP:20261028T062930Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:Heart of the Beast
+DESCRIPTION:Special Forces officer James Belmont and his combat dog\, Odi
+ n\, are stranded in the Alaskan wilderness after a plane crash. They mus
+ t fight for survival against the elements.\nhttps://www.thecinemainthepo
+ werstation.com/whats-on
+LOCATION:The Arches\, London
+URL:https://www.thecinemainthepowerstation.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_84c1b8ecb37d42108abe8c7dc7644b89-occ_ee1c104bcae74f3199d4a2ce6a0
+ 9aa90@thingstodoinyourcity
+DTSTAMP:20261028T062930Z
+DTSTART;VALUE=DATE:20261029
+SUMMARY:Heart of the Beast
+DESCRIPTION:Special Forces officer James Belmont and his combat dog\, Odi
+ n\, are stranded in the Alaskan wilderness after a plane crash. They mus
+ t fight for survival against the elements.\nhttps://www.thecinemainthepo
+ werstation.com/whats-on
+LOCATION:The Arches\, London
+URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_430dbd35ce234a74932309b21bf97689-occ_1af19d80475f4d07b0dcfc18021
@@ -1789,6 +1866,26 @@ LOCATION:Shakespeare's Globe\, 21 New Globe Walk Bankside London SE1 9DT\
  , Bankside\, London
 URL:https://www.shakespearesglobe.com/whats-on/sword-fighting-demonstrati
  on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_768683d864524a54a8de04952ec215e4-occ_d05c4e4e2d2b48478e20e216a2e
+ 982dc@thingstodoinyourcity
+DTSTAMP:20261028T064726Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:TEDxEnloe High School
+DESCRIPTION:https://www.ted.com/tedx/events?autocomplete_filter=london
+LOCATION:Raleigh\, United States\, London
+URL:https://www.ted.com/tedx/events?autocomplete_filter=london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1decd79404124eebbae71918408e71c3-occ_ac3b73d630944c6b93def0c963b
+ f0aca@thingstodoinyourcity
+DTSTAMP:20261028T064611Z
+DTSTART;VALUE=DATE:20261028
+SUMMARY:TEDxMissouri S&T
+DESCRIPTION:https://www.ted.com/tedx/events?autocomplete_filter=london
+LOCATION:Rolla\, United States\, London
+URL:https://www.ted.com/tedx/events?autocomplete_filter=london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4ed35094f04646c39c6405aa0d343deb-occ_abe4527d4db24b04a3424edea4e
@@ -2367,6 +2464,18 @@ URL:https://clusterflick.com/movies/b5ba7f2b/we-re-going-on-a-bear-hunt-t
  he-tiger-who-came-to-tea/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4adee45d1a134ab8ace83868fb3f1d75-occ_febde0ada7f74a259ab7e9cc846
+ 0b8ae@thingstodoinyourcity
+DTSTAMP:20261028T081007Z
+DTSTART:20261028T093000Z
+SUMMARY:Twist Museum - London's Home of Illusions PEAK
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_LvZ18Q_Y0oQxy3ZZv2_DK
+LOCATION:Twist Museum\, 248 Oxford Street\, London\, Great Britain\, Lond
+ on
+URL:https://yournearevents.com/event/tm_LvZ18Q_Y0oQxy3ZZv2_DK
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8749299446df4e5884d9302a7dd1888f-occ_a7e11a8594574654befd10a4dbc
  c8305@thingstodoinyourcity
 DTSTAMP:20261027T165926Z
@@ -2379,6 +2488,20 @@ DESCRIPTION:Five-year anniversary takeover with five gaming stations for
  co.uk/ActOneCinema.dll/WhatsOn?f=716276
 LOCATION:ActOne Cinema\, 119 - 121 High Street\, London\, W3 6NA\, London
 URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=716276
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5eb4c24d258343d3ac502b729c192aba-occ_7502a85bb0004b10b18b5b7a75e
+ 191f6@thingstodoinyourcity
+DTSTAMP:20261028T081706Z
+DTSTART:20261028T100000Z
+SUMMARY:Family Halloween: Slime Making
+DESCRIPTION:A family Halloween slime-making experience at Chelsea Physic 
+ Garden. Children under 16 must be accompanied by an adult\, and tickets 
+ are non-refundable.\nPrice: From ≈ €12\nhttps://yournearevents.com/e
+ vent/feed:8009
+LOCATION:Chelsea Physic Garden\, 66 ROYAL HOSPITAL RD\, CHELSEA\, SW3 4HS
+  London\, GB\, Chelsea\, London
+URL:https://yournearevents.com/event/feed:8009
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9274c8d51329419fb6feeb95fd1ba61d-occ_09df7b93bfa246d9b0b40e6ef3e
@@ -2534,6 +2657,42 @@ LOCATION:Front Room at The Hound\, London
 URL:https://www.thehound.london/event/kids-pumpkin-carving-workshop/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ea1624102a0548eaa64f93c64815f51a-occ_68df4848a24a4adfa4be773e558
+ 3715c@thingstodoinyourcity
+DTSTAMP:20261027T094415Z
+DTSTART:20261028T100000Z
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_1adjZ_fkoa-ZduA8
+LOCATION:The Lightroom\, 12 Lewis Cubitt Square London\, Great Britain\, 
+ London
+URL:https://yournearevents.com/event/tm_1adjZ_fkoa-ZduA8
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b251eca6161546e9afec70f750f50bae-occ_d6e4c2f982524715a22ece5f1d5
+ 9499b@thingstodoinyourcity
+DTSTAMP:20261027T093545Z
+DTSTART:20261028T100000Z
+SUMMARY:London Dungeon - Standard Entry
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_17uOv0G6uhJ9DKj
+LOCATION:The London Dungeon\, Riverside Building\, County Hall\, London\,
+  Great Britain\, County Hall\, London
+URL:https://yournearevents.com/event/tm_17uOv0G6uhJ9DKj
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cd4f42f6a7a94215bbcaa81b8c318ca5-occ_92afe41048aa4ff788f9e4ad541
+ e818a@thingstodoinyourcity
+DTSTAMP:20261027T093754Z
+DTSTART:20261028T100000Z
+SUMMARY:Madame Tussauds London - Standard Entry
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_17uOv0G6GELjBR_
+LOCATION:Madame Tussauds London\, Marylebone Road London\, Great Britain\
+ , London
+URL:https://yournearevents.com/event/tm_17uOv0G6GELjBR_
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8bbcf6d2cca64c2b93a72de456dce7cd-occ_8e02e0c6485242768738eba8deb
  8971a@thingstodoinyourcity
 DTSTAMP:20261026T151329Z
@@ -2631,6 +2790,18 @@ URL:https://www.primarytimes.co.uk/south_london/listings/sea-creature-pup
  petry-workshop-604517
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_89f345cdef0442b88b846673b26ca032-occ_71a6e6be99924012872bd09513d
+ d4c37@thingstodoinyourcity
+DTSTAMP:20261027T093506Z
+DTSTART:20261028T100000Z
+SUMMARY:Sea Life London - Standard Entry
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_G5vHZ_Gc5Y5Xq
+LOCATION:County Hall\, Westminster Bridge Road\, London\, Great Britain\,
+  London\, Great Britain\, London
+URL:https://yournearevents.com/event/tm_G5vHZ_Gc5Y5Xq
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bf213f8e04ed4e4c95b5fb9e0bc505b2-occ_f461f1f118e54fc09e342ce6c4b
  1e853@thingstodoinyourcity
 DTSTAMP:20261021T205343Z
@@ -2643,6 +2814,18 @@ DESCRIPTION:Enjoy favourite and new stories read aloud in this library se
 LOCATION:Kensington Central Library\, 12 Phillimore Walk London W8 7RX Un
  ited Kingdom\, London
 URL:https://www.rbkc.gov.uk/events/story-time-kensington-central-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6d4ac7c52a9a47edb187c3b2b1496b06-occ_bb9ea2dc2aa4406d9b51cf5ac9f
+ 35078@thingstodoinyourcity
+DTSTAMP:20261027T094102Z
+DTSTART:20261028T100000Z
+SUMMARY:The Paddington Bear Experience
+DESCRIPTION:Price: Check availability\nhttps://yournearevents.com/event/t
+ m_G5vHZ_CMktdkf
+LOCATION:County Hall\, Westminster Bridge Road London\, Great Britain\, L
+ ondon
+URL:https://yournearevents.com/event/tm_G5vHZ_CMktdkf
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b67e786556104e6b973466451d648b6f-occ_87a6e1da15494d489d731702dd9
@@ -2682,9 +2865,9 @@ SUMMARY:Roman London family walk
 DESCRIPTION:Explore Roman history on a 60-minute interactive walk for pri
  mary-age children and families. Visit the Roman city wall to find a lost
   fort.\nhttps://www.londonmuseum.org.uk/whats-on/roman-london-family-wal
- k/
+ k
 LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/roman-london-family-walk/
+URL:https://www.londonmuseum.org.uk/whats-on/roman-london-family-walk
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f0aef8953b0940d7a6360a7ef36830f5-occ_11b93bc06be442a5b129a1f8b1c
@@ -3296,7 +3479,7 @@ DESCRIPTION:A two-course lunch and live 1950s and 1960s hits from singer
  e: £49 per person\nhttps://royaldocks.london/whats-on/monster-mash-fift
  ies-sixties-party
 LOCATION:Royal Victoria Dock\, Albert Island Access Road\, Woolwich Manor
-  Way\, London E16 2QA\, London
+  Way\, London E16 2QA\, Royal Docks\, London
 URL:https://royaldocks.london/whats-on/monster-mash-fifties-sixties-party
 END:VEVENT
 BEGIN:VEVENT
@@ -3952,11 +4135,11 @@ DESCRIPTION:The session develops a capability approach to immigrant flour
  ishing\, belonging and social justice. It is an Institute of Advanced St
  udies event at UCL.\nhttps://lectures.london/university-college-london/b
  eyond-integration-institute-of-advanced-studies-ias-ucl-university-colle
- ge-london/
+ ge-london
 LOCATION:Common Ground\, Room G11\, Ground Floor\, London\, Gower Street\
  , London
 URL:https://lectures.london/university-college-london/beyond-integration-
- institute-of-advanced-studies-ias-ucl-university-college-london/
+ institute-of-advanced-studies-ias-ucl-university-college-london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9415ddf670274b0aac3f794503bd2d86-occ_021e727b41a34427a5f2aee192a
@@ -4039,12 +4222,12 @@ DESCRIPTION:Running from October to December\, the series offers informal
   discussions with SPRC staff and guests. Sessions are part of the Instit
  ute of Advanced Studies programme at UCL.\nhttps://lectures.london/unive
  rsity-college-london/the-sprc-lunchtime-seminar-series-institute-of-adva
- nced-studies-ias-ucl-university-college-london/
+ nced-studies-ias-ucl-university-college-london
 LOCATION:Common Ground\, Room G11\, London\, Gower Street\, Common Ground
  \, Room G11\, Ground Floor\, London
 URL:https://lectures.london/university-college-london/the-sprc-lunchtime-
  seminar-series-institute-of-advanced-studies-ias-ucl-university-college-
- london/
+ london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4026279666ef43dd88015765372cc90d-occ_fad3b6153b314227a053fb913a0
@@ -4065,6 +4248,20 @@ SUMMARY:Ghosts: The Possession of Button House
 DESCRIPTION:https://www.peckhamplex.london/films/listings
 LOCATION:London
 URL:https://www.peckhamplex.london/films/listings
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3d5c9a50be174fbead916b73fa855909-occ_c069f996e7a248359f2828de0ee
+ b3534@thingstodoinyourcity
+DTSTAMP:20261028T082030Z
+DTSTART:20261028T130000Z
+SUMMARY:Alice in Wonderland
+DESCRIPTION:A magical ballet of the famous tale\, with much-loved charact
+ ers and super costumes. Great for the whole family\, especially 2-14 yea
+ r olds\, including those with special needs.\nPrice: From ≈ €20\nhtt
+ ps://yournearevents.com/event/feed:11234
+LOCATION:Royal Academy of Dance\, 188 York Road\, London\, London\, SW11 
+ 3JZ\, London
+URL:https://yournearevents.com/event/feed:11234
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6830ceeffe404a02a0b0e6b98b12f53a-occ_c4cd8ea1a44f49d0a3719876807
@@ -4101,6 +4298,20 @@ LOCATION:Waterloo Bridge Wing\, Franklin Wilkins Building\, Room G/8\, St
  amford Street\, SE1 9NH\, Waterloo Campus\, London\, London
 URL:https://www.kcl.ac.uk/events/between-policy-and-practice-teachers-lan
  guage-use-in-hong-kong-emi-secondary-history-classrooms
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fa3ec11cd3bf45ef93ca3c2cf764b170-occ_edbf4701e1c9412ebfead6b5bd9
+ ea479@thingstodoinyourcity
+DTSTAMP:20261028T081829Z
+DTSTART:20261028T130000Z
+SUMMARY:Cauldron Candle Making
+DESCRIPTION:A candle-making experience listed under Experiences\, with ti
+ ckets sold through official checkout. Tickets are non-transferable and n
+ on-refundable and valid only for the dates and times shown.\nPrice: From
+  ≈ €24\nhttps://yournearevents.com/event/feed:10828
+LOCATION:Chelsea Physic Garden\, 66 ROYAL HOSPITAL RD\, CHELSEA\, SW3 4HS
+ \, London
+URL:https://yournearevents.com/event/feed:10828
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1549dbff9e3445fe8854e2a7d57a74dc-occ_c7065ebef2ad457cbd33dfe72dc
@@ -5485,17 +5696,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c465ed8a696843f9a2be182cc412571c-occ_22b07a9338054c7e8ea37650770
  8d8e4@thingstodoinyourcity
-DTSTAMP:20261026T220107Z
+DTSTAMP:20261028T074656Z
 DTSTART:20261028T170000Z
 DTEND:20261028T190000Z
-SUMMARY:TAROT & TONICS
+SUMMARY:Tarot & Tonics
 DESCRIPTION:Spooky season kicks off with a Halloween Tarot Reading with I
  sabella Panousis. Enjoy gin & tonics in Neighbours while exploring insig
- ht into your path ahead.\nhttps://www.1hotels.com/mayfair/do/events/taro
- t-tonics
-LOCATION:1 Hotel Mayfair\, 3 Berkeley Street London W1J 8DL United Kingdo
- m\, London
-URL:https://www.1hotels.com/mayfair/do/events/tarot-tonics
+ ht into your path ahead.\nhttps://www.1hotels.com/mayfair/do/events
+LOCATION:1 Hotel Mayfair\, 3 Berkeley Street\, London\, W1J 8DL\, United 
+ Kingdom\, London
+URL:https://www.1hotels.com/mayfair/do/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2a599c1907ce448aa913d799d6c860bb-occ_28bf656b416a43fa98d524c1319
@@ -5589,46 +5799,6 @@ LOCATION:Dockrill Room\, Department of War Studies\, (KIN 628)\, King's C
  ollege London\, Strand\, London WC2R 2LS\, London\, England\, London
 URL:https://www.eventbrite.co.uk/e/automated-discrimination-unpacking-the
  -digital-hostile-environment-tickets-2002621759592?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1d42b28098b14341ac1dd824b55d8dca-occ_faeced86ed8b4df4a67b848217d
- 82771@thingstodoinyourcity
-DTSTAMP:20261022T033055Z
-DTSTART:20261028T173000Z
-SUMMARY:Bad Apples
-DESCRIPTION:A struggling primary school teacher takes drastic action agai
- nst a violent pupil. Saoirse Ronan stars in this comedy thriller directe
- d by Jonatan Etzler.\nhttps://www.thecinemainthepowerstation.com/film/ba
- d-apples
-LOCATION:The Arches\, London
-URL:https://www.thecinemainthepowerstation.com/film/bad-apples
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1d42b28098b14341ac1dd824b55d8dca-occ_dc03517dec6344c79222c7fd13b
- 51e07@thingstodoinyourcity
-DTSTAMP:20261022T033055Z
-DTSTART:20261029T143000Z
-SUMMARY:Bad Apples
-DESCRIPTION:A struggling primary school teacher takes drastic action agai
- nst a violent pupil. Saoirse Ronan stars in this comedy thriller directe
- d by Jonatan Etzler.\nhttps://www.thecinemainthepowerstation.com/film/ba
- d-apples
-LOCATION:The Arches\, London
-URL:https://www.thecinemainthepowerstation.com/film/bad-apples
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d5500a25f3de40638ad203a95364b358-occ_be25d0afc1d1471697d9a4e4769
- 3731a@thingstodoinyourcity
-DTSTAMP:20261022T045926Z
-DTSTART:20261028T173000Z
-SUMMARY:NAZA
-DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative d
- ocumentary examines Israeli military operations in Gaza. It also covers 
- civilian casualties and targeted killings.\nhttps://www.phoenixcinema.co
- .uk/PhoenixCinemaLondon.dll/WhatsOn?f=778140
-LOCATION:Phoenix Cinema\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=778
- 140
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6dc0c1e66adf49afb07510a24aaca9f5-occ_06d8a6c5c40f428b9d8f7b239b2
@@ -5891,32 +6061,6 @@ LOCATION:London
 URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_84c1b8ecb37d42108abe8c7dc7644b89-occ_5adf14190b2849bb88b81c47a9b
- ce0e9@thingstodoinyourcity
-DTSTAMP:20261022T033214Z
-DTSTART:20261028T180000Z
-SUMMARY:Heart of the Beast
-DESCRIPTION:Stranded in the Alaskan wilderness after a plane crash\, a sp
- ecial forces officer and his combat dog must survive. Directed by David 
- Ayer\, starring Brad Pitt and J.K. Simmons.\nhttps://www.thecinemainthep
- owerstation.com/film/heart-of-the-beast1
-LOCATION:The Arches\, London
-URL:https://www.thecinemainthepowerstation.com/film/heart-of-the-beast1
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_84c1b8ecb37d42108abe8c7dc7644b89-occ_ee1c104bcae74f3199d4a2ce6a0
- 9aa90@thingstodoinyourcity
-DTSTAMP:20261022T033214Z
-DTSTART:20261029T153000Z
-SUMMARY:Heart of the Beast
-DESCRIPTION:Stranded in the Alaskan wilderness after a plane crash\, a sp
- ecial forces officer and his combat dog must survive. Directed by David 
- Ayer\, starring Brad Pitt and J.K. Simmons.\nhttps://www.thecinemainthep
- owerstation.com/film/heart-of-the-beast1
-LOCATION:The Arches\, London
-URL:https://www.thecinemainthepowerstation.com/film/heart-of-the-beast1
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_16a2a747b3f04086a68ee7209cf387e7-occ_37e462d12b57482aa85046398cd
  60d4f@thingstodoinyourcity
 DTSTAMP:20261026T200414Z
@@ -6076,20 +6220,6 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/animation-in-love-nig
  ht-is-short-walk-on-girl
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5dcde8a0753b4d6d8511838367507d2e-occ_e0d1bcf619074c61b378b808a86
- 05772@thingstodoinyourcity
-DTSTAMP:20261026T184304Z
-DTSTART:20261028T183000Z
-DTEND:20261028T200000Z
-SUMMARY:Action on climate change and new approaches to growth: Stern Revi
- ew 20th anniversary
-DESCRIPTION:Marks 20 years since the Stern Review\, examining what has ch
- anged on climate and what we have learnt. Lord Stern speaks\, with Eliza
- beth Robinson chairing.\nPrice: FREE\nhttps://londontalks.uk/events/8962
-LOCATION:LSE campus (venue tbc to ticketholders)\, London
-URL:https://londontalks.uk/events/8962
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_deb41cb5b530403d8b70efc563512644-occ_326fe36fad074d5abbcd6d96b36
  f6da2@thingstodoinyourcity
 DTSTAMP:20261022T071224Z
@@ -6151,6 +6281,24 @@ DESCRIPTION:Described by The Guardian as “one of the most compelling yo
 LOCATION:The Bill Murray\, London
 URL:https://www.angelcomedy.co.uk/event-detail/chloe-petts-work-in-progre
  ss-wed-28th-oct-the-bill-murray-london-tickets-202610281830/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5dcde8a0753b4d6d8511838367507d2e-occ_e0d1bcf619074c61b378b808a86
+ 05772@thingstodoinyourcity
+DTSTAMP:20261028T061057Z
+DTSTART:20261028T183000Z
+DTEND:20261028T200000Z
+SUMMARY:Climate change and new approaches to growth: Stern Review 20th an
+ niversary
+DESCRIPTION:Lord Stern and Dr Miatta Fahnbulleh MP reflect on two decades
+  since the Stern Review. Elizabeth Robinson chairs the in-person and onl
+ ine event.\nPrice: FREE\nhttps://lectures.london/london-school-of-econom
+ ics/action-on-climate-change-and-new-approaches-to-growth-marking-the-20
+ th-anniversary-of-the-stern-review
+LOCATION:LSE campus (venue tbc to ticketholders)\, London
+URL:https://lectures.london/london-school-of-economics/action-on-climate-
+ change-and-new-approaches-to-growth-marking-the-20th-anniversary-of-the-
+ stern-review
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1bfcb96defb442dbbdc1ce6a6e00ca29-occ_35b7e64a4146456e9fff5e04165
@@ -6434,15 +6582,15 @@ LOCATION:The Arzner\, 10 Bermondsey Square London SE1 3UN\, London
 URL:https://thearzner.com/TheArzner.dll/WhatsOn?f=366711
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d50218d5b94a4249abe2fe2b2144edba-occ_435a5aa9756749e7a4a0d3200a2
- 7f75c@thingstodoinyourcity
-DTSTAMP:20261022T025821Z
+UID:cand_568af421b4f94e9788a2d56c726a4dcf-occ_783f389b2ffe42ada3dfca3045d
+ 08b0e@thingstodoinyourcity
+DTSTAMP:20261028T075452Z
 DTSTART:20261028T190000Z
-SUMMARY:Comedy in Your Eye Award Winning Stand Up
-DESCRIPTION:Award-winning comedy club held every Tuesday\, Wednesday and 
- Thursday\, featuring TV comics and the best of the London circuit. Shows
-  start at 19:00.\nhttps://www.londontheatres.com/event/comedy-in-your-ey
- e-_-award-winning-stand-up-comedy-for-just-%C3%A2%C2%A33
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:Award-winning comedy club featuring TV comics and the best fr
+ om the London circuit. Runs every Tuesday\, Wednesday and Thursday.\nPri
+ ce: just Â£3\nhttps://www.londontheatres.com/event/comedy-in-your-eye-
+ _-award-winning-stand-up-comedy-for-just-%C3%A2%C2%A33
 LOCATION:The Camden Eye\, London
 URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
  ng-stand-up-comedy-for-just-%C3%A2%C2%A33
@@ -6982,17 +7130,6 @@ URL:https://unrestrictedview.co.uk/events/unrestricted-view-horror-film-f
  estival-2026-28th-oct-arthouse-crouch-end
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_be2f17ea938b4936a35ab38937ea7294-occ_671a2d56d45d4ea4ab91d6c4c1a
- c7cc5@thingstodoinyourcity
-DTSTAMP:20261026T202124Z
-DTSTART:20261028T193000Z
-SUMMARY:We Saw That
-DESCRIPTION:Price: £15\nhttps://www.chortle.co.uk/venues/10/england_lond
- on
-LOCATION:Top Secret Comedy Club Kingsway\, London
-URL:https://www.chortle.co.uk/venues/10/england_london
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_515cc0ea18414d588f0d8c3629e9750d-occ_812e023754e74233961714ea346
  74276@thingstodoinyourcity
 DTSTAMP:20261026T121157Z
@@ -7039,18 +7176,6 @@ DESCRIPTION:Price: £15\nhttps://thetopsecretcomedyclub.co.uk/events-list
  ings/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ffb1724d5d9545b2ae8a3185d9f9e380-occ_996a920cfd264ce2863db6c73cd
- 64feb@thingstodoinyourcity
-DTSTAMP:20261026T200003Z
-DTSTART:20261028T193000Z
-SUMMARY:“We Saw That” Show with Andrew Mensah & Gbemi Oladipo
-DESCRIPTION:Price: £15\nhttps://thetopsecretcomedyclub.co.uk/events-list
- ings/we-saw-that-show-with-andrew-mensah-gbemi-oladipo-22/
-LOCATION:23 Kingsway\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/we-saw-that-show
- -with-andrew-mensah-gbemi-oladipo-22/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f5418668c8844b94829b854a5b941d5d-occ_ee816bac36e5439bbd0c793cbaa
@@ -7587,6 +7712,16 @@ LOCATION:Gallery\, 2A Kensington High Street\, London\, W8 4PT\, Campden\
  , London\, London
 URL:https://eventslist.co.uk/london/events/figure-8-presents-into-the-aby
  ss-2026-10-28
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_709d6cbe0ffa442abe5f672bdec4de3d-occ_533d85671b7c407cbd71cd9936e
+ 8d81b@thingstodoinyourcity
+DTSTAMP:20261028T081944Z
+DTSTART:20261028T224500Z
+SUMMARY:Steven Wilson
+DESCRIPTION:Price: From €77\nhttps://yournearevents.com/event/v2:716439
+LOCATION:Royal Albert Hall\, London
+URL:https://yournearevents.com/event/v2:716439
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5d7da930966045f58283bf57c0d5fcbc-occ_1852e69c228c48308b06fb146c0
@@ -8846,6 +8981,231 @@ LOCATION:Birkbeck University of London\, London
 URL:https://bloomsburyfestival.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_0f4a23783d774f3bb0712d372dd
+ 9d761@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261029T103000Z
+DTEND:20261029T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_7e11a5c8fb2143788a96bfce25d
+ ccf8a@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261103T103000Z
+DTEND:20261103T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_a87055262d344fc98dda1490926
+ 3677e@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261105T103000Z
+DTEND:20261105T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_b53a6d2f47e845b7a6b3c3299a3
+ 70d1c@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261110T103000Z
+DTEND:20261110T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_5939c808cd314cbc853b01b90bb
+ f6595@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261112T103000Z
+DTEND:20261112T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_bb224e73eaa04f5da7afc494803
+ 130bd@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261117T103000Z
+DTEND:20261117T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_359093381cd74467ab86dd70146
+ ce644@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261119T103000Z
+DTEND:20261119T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_99bbe5e02060414282f0b41029b
+ efe5b@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261124T103000Z
+DTEND:20261124T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_c72f2819e3164ae98a1df8d9dd3
+ fae53@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261126T103000Z
+DTEND:20261126T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_1b9081c999c1488cb20d0803d1a
+ 3bd17@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261201T103000Z
+DTEND:20261201T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_b466619d3cf84af681c01eb3873
+ 7d048@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261203T103000Z
+DTEND:20261203T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_c0b693dc80eb454c9f9d48b46e1
+ 9c995@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261208T103000Z
+DTEND:20261208T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_b9a0b2ceed104b7ba1cb421b707
+ 2ddc0@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261210T103000Z
+DTEND:20261210T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_2d7deba0d3404cd7bf2507589a1
+ f4ea8@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261215T103000Z
+DTEND:20261215T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2b8041105cfc4e96afc6d440b3622232-occ_598e4cacd5334d63b3c078b3639
+ b1ad5@thingstodoinyourcity
+DTSTAMP:20261028T063632Z
+DTSTART:20261217T103000Z
+DTEND:20261217T110000Z
+SUMMARY:Baby Rhyme Time at Brompton Library
+DESCRIPTION:Rhymes and fun every Tuesday and Thursday\, especially for un
+ der 5s and their parents or carers. Book your free ticket with library s
+ taff or by email.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/baby-rhym
+ e-time-brompton-library
+LOCATION:Brompton Library\, 210 Old Brompton Rd London SW5 0BS United Kin
+ gdom\, London
+URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-brompton-library
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_aa7882c2eac44fba9df11a6ed97deb60-occ_1f5dbe8caf304145801bd3512a9
  4f9a3@thingstodoinyourcity
 DTSTAMP:20261026T235805Z
@@ -9098,6 +9458,21 @@ LOCATION:Charing Cross Library\, 4-6 Charing Cross Road London WC2H 0HF U
  nited Kingdom\, London
 URL:https://www.westminster.gov.uk/event/english-conversation-classes-cha
  ring-cross-library-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b19bd0e95e347c1a3d80ccb3759d014-occ_78f34912f23f4df1b90aab966ad
+ feaa8@thingstodoinyourcity
+DTSTAMP:20261028T071439Z
+DTSTART:20261029T103000Z
+DTEND:20261029T123000Z
+SUMMARY:Little Picasso's Art Workshop
+DESCRIPTION:Little artists explore their creativity with a mix of materia
+ ls\, textures and lots of colour. They make Halloween-inspired artwork a
+ nd something spooktacular to take home.\nPrice: £15\nhttps://royaldocks
+ .london/whats-on/little-picassos-art-workshop
+LOCATION:Good Hotel London\, Good Hotel London\, Western Gateway\, E16 1F
+ A\, London
+URL:https://royaldocks.london/whats-on/little-picassos-art-workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_ae142b55ee8e44a4a194ba09849
@@ -10724,6 +11099,35 @@ URL:https://clusterflick.com/movies/1517156/newport-and-the-great-folk-dr
  eam/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_019c1ff5b75147239ecf2a5ae4e774e0-occ_27ba644b99804c0ca7e0b3df052
+ b3c9d@thingstodoinyourcity
+DTSTAMP:20261028T063003Z
+DTSTART:20261029T180000Z
+DTEND:20261029T190000Z
+SUMMARY:A Night at The Opera by Candlelight (feat. Nessun Dorma)
+DESCRIPTION:The Piccadilly Sinfonietta and guest singers perform opera ar
+ ias by Mozart\, Verdi and Puccini. Entry includes a complimentary glass 
+ of Prosecco.\nPrice: £35-£50\nhttps://www.wherecanwego.com/item/e15980
+ 08
+LOCATION:St Mary Le Strand Church\, The Strand\, London WC2R 1ES\, The St
+ rand\, London WC2R 1ES\, London
+URL:https://www.wherecanwego.com/item/e1598008
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_019c1ff5b75147239ecf2a5ae4e774e0-occ_afd3ab5e652a47988a46499b7f8
+ 2effc@thingstodoinyourcity
+DTSTAMP:20261028T063003Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:A Night at The Opera by Candlelight (feat. Nessun Dorma)
+DESCRIPTION:The Piccadilly Sinfonietta and guest singers perform opera ar
+ ias by Mozart\, Verdi and Puccini. Entry includes a complimentary glass 
+ of Prosecco.\nPrice: £35-£50\nhttps://www.wherecanwego.com/item/e15980
+ 08
+LOCATION:St Mary Le Strand Church\, The Strand\, London WC2R 1ES\, The St
+ rand\, London WC2R 1ES\, London
+URL:https://www.wherecanwego.com/item/e1598008
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_003d5e4e4f5a46f08093b7b271e25a17-occ_e6e58941f0534cbe9b07d39e725
  dcb94@thingstodoinyourcity
 DTSTAMP:20261027T181017Z
@@ -11173,6 +11577,19 @@ SUMMARY:Club night
 DESCRIPTION:Our regular club night features the library and test tracks. 
  It is listed on The Model Railway Club events page.\nhttps://themodelrai
  lwayclub.org/events
+LOCATION:London
+URL:https://themodelrailwayclub.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_90a8801ff6474d08a0ecb81d1c382f3e-occ_721878073edd4596955bf46fea6
+ 16a90@thingstodoinyourcity
+DTSTAMP:20261028T073003Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Club night
+DESCRIPTION:Our regular club night focuses on library and test tracks. It
+  is one of the club's ongoing club evenings.\nhttps://themodelrailwayclu
+ b.org/events
 LOCATION:London
 URL:https://themodelrailwayclub.org/events
 END:VEVENT
@@ -12837,6 +13254,18 @@ URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
  is-week
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_818706a829c145588cfb6886f4eb78ba-occ_9e9e41091454473d920a3a545e9
+ dd302@thingstodoinyourcity
+DTSTAMP:20261028T055443Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:F1® Arcade London - Halloween Sprint Social
+DESCRIPTION:Race on state-of-the-art simulators to win signed merch. Incl
+ udes a hosted team tournament\, welcome drink and Halloween costume comp
+ etition.\nPrice: £25\nhttps://www.wherecanwego.com/item/e1609211
+LOCATION:1 New Change\, London EC4M 9AF\, London
+URL:https://www.wherecanwego.com/item/e1609211
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6feea100d388422eb1f0408d77753514-occ_4a4bc764f1484023912b582a81f
  3bbc1@thingstodoinyourcity
 DTSTAMP:20261026T093932Z
@@ -13012,6 +13441,26 @@ LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_75ff3c262c5949f9a17ac91f74439ec4-occ_cac30e3326f54a2d88bfe5ef382
+ 76538-2026-10-30@thingstodoinyourcity
+DTSTAMP:20261025T184611Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Millennium Mambo
+DESCRIPTION:https://www.thegardencinema.co.uk/
+LOCATION:The Garden Cinema\, London
+URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_75ff3c262c5949f9a17ac91f74439ec4-occ_cac30e3326f54a2d88bfe5ef382
+ 76538-2026-12-08@thingstodoinyourcity
+DTSTAMP:20261025T184611Z
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Millennium Mambo
+DESCRIPTION:https://www.thegardencinema.co.uk/
+LOCATION:The Garden Cinema\, London
+URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_67211274811e4969a4659bb127e3159a-occ_fdb29712eabe40f98a68578bf97
  ac74c@thingstodoinyourcity
 DTSTAMP:20261026T220410Z
@@ -13034,6 +13483,21 @@ SUMMARY:Panic! at the Bingo - Halloween Special
 DESCRIPTION:https://dabberssocial.co.uk/pages/events
 LOCATION:18 - 22 Houndsditch\, London EC3A 7DB\, London
 URL:https://dabberssocial.co.uk/pages/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8c1a45e2153941e49e49e1c746ba79a5-occ_1939fa1ee0be49ebab076297efb
+ 7df14@thingstodoinyourcity
+DTSTAMP:20261028T070840Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Payday party 30th of October
+DESCRIPTION:Payday calls for a celebration with drinks\, good music and g
+ ood company at this Kensington local. Gather your friends\, raise a glas
+ s\, and make the most of payday.\nhttps://thruddle.com/whats-on/kensingt
+ on/W84EP-PrinceofWales/payday-party-30th-of-october-bac00973
+LOCATION:Prince of Wales\, 8 Kensington Church Street\, Kensington\, Lond
+ on
+URL:https://thruddle.com/whats-on/kensington/W84EP-PrinceofWales/payday-p
+ arty-30th-of-october-bac00973
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c2ba738ecee54eddbdde2d9d48b1d1a2-occ_45a8981dd73d4905959cc8babf2
@@ -13314,6 +13778,35 @@ SUMMARY:Tosca - English National Opera
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
 LOCATION:London Coliseum\, London
 URL:https://www.theatreticketsdirect.co.uk/category/all
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c023a0555f0346cea4443f3019efdc74-occ_d00ef132f8b84749825fdd9c4d2
+ a6e21@thingstodoinyourcity
+DTSTAMP:20261026T041951Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Unrestricted View Horror film Festival 2026: Dead Reset
+DESCRIPTION:A surgeon trapped in an underwater lab relives his death in a
+  gory time loop. Practical effects drive this fresh take on the time-loo
+ p genre.\nPrice: £12\nhttps://unrestrictedview.co.uk/events/unrestricte
+ d-view-horror-film-festival-2026-dead-reset
+LOCATION:The Hen & Chickens Theatre\, 109 St Paul's Rd London N1 2NA\, Lo
+ ndon
+URL:https://unrestrictedview.co.uk/events/unrestricted-view-horror-film-f
+ estival-2026-dead-reset
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_88b87d8700734daaadb8e3c229d7e92c-occ_16710bf2d4fc47fea762eb16c62
+ a711f@thingstodoinyourcity
+DTSTAMP:20261028T064057Z
+DTSTART:20261030T000000Z
+SUMMARY:October Pay Day Weekend
+DESCRIPTION:Payday and Halloween land on the same weekend at this live ja
+ zz night. Expect cold pints\, drinks and a spooky\, jazzy atmosphere.\nh
+ ttps://thruddle.com/whats-on/kensington/W85EP-TheGreyhound/october-pay-d
+ ay-weekend-fdd8a672
+LOCATION:The Greyhound\, 1 Kensington Square\, Kensington\, London
+URL:https://thruddle.com/whats-on/kensington/W85EP-TheGreyhound/october-p
+ ay-day-weekend-fdd8a672
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0b9d418fd0794ae4b3f5242906e08c4d-occ_20c28263f69a4c4b8c1c1109e7c
