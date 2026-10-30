@@ -51,6 +51,60 @@ URL:https://royalsociety.org/science-events-and-lectures/2026/06/exhibiti
  on-the-beauty-of-the-earth/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cd9883311aba46d9940451eb1bbf7cb5-occ_19cf0c3e12e244f8af57317d7e6
+ 6566b@thingstodoinyourcity
+DTSTAMP:20261022T115053Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:Market Day: John Tweddle ★ Michael Landy
+DESCRIPTION:Pairs a 1991 Michael Landy market stall sculpture with John T
+ weddle paintings. Both works treat the market as a subject and its effec
+ ts.\nhttps://www.newexhibitions.com/e/69112
+LOCATION:The Mayor Gallery\, 9 Bury Street London SW1Y 6AB\, London
+URL:https://www.newexhibitions.com/e/69112
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9f71cd32ac924af2aa4b0eff27a8fe96-occ_aa75cb1b94684876921c19bd50d
+ 79f7c@thingstodoinyourcity
+DTSTAMP:20261022T120050Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:Daido Moriyama: Ink
+DESCRIPTION:Large-format silkscreens in deep black ink\, either unique or
+  in small editions. The works span Moriyama's 1960s Tokyo projects to la
+ ter influences such as Warhol and Kerouac.\nhttps://www.newexhibitions.c
+ om/e/69272
+LOCATION:Hamiltons Gallery\, 13 Carlos Place London W1K 2EU\, Green Park\
+ , Bond Street\, London
+URL:https://www.newexhibitions.com/e/69272
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5771c6d765e14458b21ec51617e75e54-occ_2569d925cec5410c80014b7818b
+ b17a2@thingstodoinyourcity
+DTSTAMP:20261022T120744Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:Surface Tension: British Painting in the 1980s
+DESCRIPTION:Six British painters\, including Gary Hume and Peter Doig\, s
+ hare a focus on surface and gesture. The show looks at how they thrived 
+ amid 1990s YBA dominance.\nhttps://www.newexhibitions.com/e/69180
+LOCATION:Ben Brown Fine Arts\, 12 Brook's Mews London W1K 4DG\, Bond Stre
+ et\, Green Park\, London
+URL:https://www.newexhibitions.com/e/69180
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9faa329c81d64753978e685814549d4d-occ_99a5f9484e534b7d955429f117a
+ e90da@thingstodoinyourcity
+DTSTAMP:20261022T115731Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:100 Years: Translation as Invention
+DESCRIPTION:https://www.newexhibitions.com/e/68996
+LOCATION:Vivienne Roberts Projects\, The Bindery\, 53 Hatton Garden Londo
+ n EC1N 8HN\, London
+URL:https://www.newexhibitions.com/e/68996
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_113bded29e2c416f82ce3311f9958ed8-occ_9263e5452b8344fca478cb7b366
  ab41a@thingstodoinyourcity
 DTSTAMP:20261028T004330Z
@@ -436,21 +490,6 @@ LOCATION:London Museum Docklands\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8c2ccb878be84ec0bf1be9db8870cd79-occ_f05e447c28114470aab0b605196
- 0f1b3@thingstodoinyourcity
-DTSTAMP:20261026T093032Z
-DTSTART:20261027T100000Z
-DTEND:20261030T120000Z
-SUMMARY:Spooky Stained Glass
-DESCRIPTION:Families tour Richmond Palace's ghostly remains\, then make s
- pooky stained glass inspired by its history. Booking is essential as pla
- ces are limited.\nPrice: £6 per child – Adults are FREE!\nhttps://www
- .museumofrichmond.com/families/workshops/
-LOCATION:Museum of Richmond\, Second Floor\, Old Town Hall\, Whittaker Av
- enue\, Richmond\, TW9 1TP\, Richmond\, London
-URL:https://www.museumofrichmond.com/families/workshops/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_88f5ef8b3c9d4c9eb05ac5059d942b1f-occ_fe73b274b4dc4b228ce792a14e7
  27357@thingstodoinyourcity
 DTSTAMP:20261027T200157Z
@@ -562,20 +601,6 @@ DESCRIPTION:Take a practical\, in-depth look at Shakespeare's tragedy thr
 LOCATION:SAM WANAMAKER PLAYHOUSE\, London
 URL:https://www.shakespearesglobe.com/whats-on/romeo-juliet-onstage-works
  hop-14-16-years/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_11706822898e468fb1421d4441574087-occ_406c6bb0943e43e3b4330d2e764
- de033@thingstodoinyourcity
-DTSTAMP:20261026T044519Z
-DTSTART:20261028T100000Z
-DTEND:20261030T120000Z
-SUMMARY:K-pop Dance Workshop
-DESCRIPTION:Learn K-pop choreography from an experienced dance instructor
-  in a fun\, energetic workshop. Participants learn key moves and build t
- hem into a routine.\nhttps://uk.korean-culture.org/en
-LOCATION:Korean Cultural Centre UK\, Grand Buildings\, 1–3 Strand\, Lon
- don WC2N 5BW\, London
-URL:https://uk.korean-culture.org/en
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9d6b27b8bdc14ca4b8e85780d67b9879-occ_aa26a7eae00d4994886069ef72c
@@ -1067,10 +1092,10 @@ DTSTAMP:20261030T091136Z
 DTSTART;VALUE=DATE:20261030
 SUMMARY:Friday Comedy Show - Camden
 DESCRIPTION:Price: From £12.50\nhttps://www.comedyfreaks.co.uk/comedy-sh
- ow/saturday-comedy-london-23-may-2026
+ ow/friday-comedy-camden-london-30-october-2026
 LOCATION:4A Tileyard Rd\, London N7 9AH\, Kings Cross - London\, London
-URL:https://www.comedyfreaks.co.uk/comedy-show/saturday-comedy-london-23-
- may-2026
+URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
+ n-30-october-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c522aa07e1b64ba2a5953e8b798cbba4-occ_e8fa235997ff4425bd90ee154e6
@@ -1147,13 +1172,10 @@ DTSTART;VALUE=DATE:20261030
 SUMMARY:General Witchfinders Present: Dr. Jekyll & Sister Hyde
 DESCRIPTION:Dr Jekyll experiments on newly deceased women seeking immorta
  l life\, then transforms into the psychotic Sister Hyde. The screening i
- s followed by a Q&A.\nhttps://actonecinema.co.uk/ActOneCinema.dll/Bookin
- g?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.
- TcsPerformance_30058.TcsSection_755
+ s followed by a Q&A.\nhttps://clusterflick.com/movies/30855/dr-jekyll-an
+ d-sister-hyde
 LOCATION:ActOne Cinema\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/Booking?Booking=TSelectIt
- ems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3005
- 8.TcsSection_755
+URL:https://clusterflick.com/movies/30855/dr-jekyll-and-sister-hyde
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4c4b679319294d71bd5747a0c1d9119b-occ_f85e7aeff6f14e9a82ab222dfd8
@@ -1162,9 +1184,11 @@ DTSTAMP:20261030T022451Z
 DTSTART;VALUE=DATE:20261030
 SUMMARY:Georgian Ways to Die Halloween Tour at Marble Hill
 DESCRIPTION:Price: Member (Adult) £10.50\; Adult £12\nhttps://www.engli
- sh-heritage.org.uk/visit/whats-on/
+ sh-heritage.org.uk/visit/whats-on/marble-hill-georgian-ways-to-die-hallo
+ ween-tour
 LOCATION:Marble Hill\, Twickenham\, London\, London\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/
+URL:https://www.english-heritage.org.uk/visit/whats-on/marble-hill-georgi
+ an-ways-to-die-halloween-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f32a212739164199a2c78437981c008e-occ_c40f83ad1ddd4bd883a426658b2
@@ -1454,12 +1478,9 @@ DESCRIPTION:Drag queens\, club kids and frenemies must fight the brain-th
  irsty undead when a zombie apocalypse hits a Brooklyn warehouse party. P
  art of The Arzner's Halloween Week.\nPrice: ADULT £12.00 CONCESSION MEM
  BER £6.00 CARER (CEA CARD) £0.00\nhttps://thearzner.com/TheArzner.dll/
- Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWeb
- Tab_0.TcsPerformance_375903.TcsSection_963
+ WhatsOn?f=84711
 LOCATION:The Arzner\, London
-URL:https://thearzner.com/TheArzner.dll/Booking?Booking=TSelectItems.waSe
- lectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_375903.TcsSe
- ction_963
+URL:https://thearzner.com/TheArzner.dll/WhatsOn?f=84711
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e84dfcdfe9a84d7aa5f602f390b3fd42-occ_98369f60d62e4da180305bb7594
@@ -1898,9 +1919,9 @@ DTSTART;VALUE=DATE:20261030
 SUMMARY:Wicker
 DESCRIPTION:A lonely Fisherwoman commissions a husband made of wicker\, s
  parking outrage in a conservative seaside town. Olivia Colman and Alexan
- der Skarsgård star.\nhttps://genesiscinema.co.uk/
+ der Skarsgård star.\nhttps://genesiscinema.co.uk/event/113301
 LOCATION:Genesis Cinema\, Whitechapel\, London
-URL:https://genesiscinema.co.uk/
+URL:https://genesiscinema.co.uk/event/113301
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_277830ef82d047d2a3db7b71bde79bc1-occ_d8fc21c39f194d2883faeac9550
@@ -2156,24 +2177,6 @@ URL:https://clusterflick.com/movies/b5ba7f2b/we-re-going-on-a-bear-hunt-t
  he-tiger-who-came-to-tea/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ba358fc713a5431bbf6b6173f15da026-occ_2a3c641f435f4714b21ec1b7e11
- db7d9@thingstodoinyourcity
-DTSTAMP:20261030T015204Z
-DTSTART:20261030T100000Z
-DTEND:20261030T113000Z
-SUMMARY:All Souls Reflective Walk — Richmond Old Cemetery
-DESCRIPTION:A gentle stroll of around 1½ hours explores the lives and le
- gacies of those laid to rest here\, plus local flora and fauna. It finis
- hes with coffee at the Lass O'Richmond Hill pub.\nPrice: Free event\nhtt
- ps://www.visitrichmond.co.uk/events/all-souls-reflective-walk-richmond-o
- ld-cemetery-p2699131
-LOCATION:Grove Road\, off Lower Grove Road\, Richmond\, Richmond Old Ceme
- tery Gates\, Greville Road then\, Grove Road\, off Lower Grove Road\, Ri
- chmond\, London\, TW10 6HR\, Richmond\, London
-URL:https://www.visitrichmond.co.uk/events/all-souls-reflective-walk-rich
- mond-old-cemetery-p2699131
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_dcc2d75f92c04e50ad49d69f2cb08844-occ_89e319370982409e8b04c5953a7
  64d42@thingstodoinyourcity
 DTSTAMP:20261028T103144Z
@@ -2189,20 +2192,6 @@ LOCATION:Allianz Stadium\, Twickenham Stadium\, 200 Whitton Road\, Twicke
 URL:https://www.visitrichmond.co.uk/events/full-of-life-fair-p2017681
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f0a6dc65265f4792927c4dfdf0030b4c-occ_66c141d4199a439f9bc9ce8acdf
- 806ad@thingstodoinyourcity
-DTSTAMP:20261023T090258Z
-DTSTART:20261030T100000Z
-DTEND:20261030T120000Z
-SUMMARY:Spooky Puppet Theatre Workshop
-DESCRIPTION:Design spooky puppets from recycled materials\, then bring th
- em to life in the puppet theatre. Materials provided\; suits children ag
- ed 5+.\nPrice: £10 Standard / £8 Concessions\nhttps://harrowarts.com/e
- vents/spooky-puppet-theatre-workshop/
-LOCATION:Weald Room\, London
-URL:https://harrowarts.com/events/spooky-puppet-theatre-workshop/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7919a2f6f1954a30bc5386423d7d03e0-occ_4b6c2c9defe4497d969475b35df
  f8c85@thingstodoinyourcity
 DTSTAMP:20261026T054627Z
@@ -2212,158 +2201,6 @@ SUMMARY:The Science of Growing Minds: What Research Can Tell Us About Chi
 DESCRIPTION:https://bloomsburyfestival.org.uk/whats-on
 LOCATION:Birkbeck University of London\, London
 URL:https://bloomsburyfestival.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_92de9a09a0224168980b3fb2ed80138a-occ_fd0c524aa0e74c59876451a4418
- 2d79f@thingstodoinyourcity
-DTSTAMP:20261026T235916Z
-DTSTART:20261030T103000Z
-DTEND:20261030T113000Z
-SUMMARY:Digital Drop-In Tour
-DESCRIPTION:Bring your tablet or phone for quickfire help. Staff share ti
- ps\, though advice may be limited to 10 minutes each when busy.\nhttps:/
- /www.visitrichmond.co.uk/events/digital-drop-in-tour-p2683011
-LOCATION:Hampton Wick Library\, Hampton Wick Library\, Hampton Wick\, Lon
- don\, KT1 4AT\, Hampton Wick\, London
-URL:https://www.visitrichmond.co.uk/events/digital-drop-in-tour-p2683011
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b03faeb05f074868ad193d83ff1e0855-occ_f222abf0534e422aa63ecfbb567
- 52840@thingstodoinyourcity
-DTSTAMP:20261030T030825Z
-DTSTART:20261030T103000Z
-DTEND:20261030T113000Z
-SUMMARY:Tiny Tides Peninsula — Under-5 Social Club
-DESCRIPTION:Calm\, sensory-friendly activities let little ones explore at
-  their own pace. Families can also meet other local families and build f
- riendships beyond the playmat.\nPrice: Free\nhttps://tinytidespeninsula.
- co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_28dd3de271894a2398e037ed95b
- 746a0@thingstodoinyourcity
-DTSTAMP:20261030T034051Z
-DTSTART:20261030T103000Z
-DTEND:20261030T113000Z
-SUMMARY:Under 5 Social Club
-DESCRIPTION:https://tinytidespeninsula.co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_432fd0368a634486a846fa39127
- 24d9a@thingstodoinyourcity
-DTSTAMP:20261030T034051Z
-DTSTART:20261106T103000Z
-SUMMARY:Under 5 Social Club
-DESCRIPTION:https://tinytidespeninsula.co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_32310d0e84774efdb974e465480
- 5cb5e@thingstodoinyourcity
-DTSTAMP:20261030T034051Z
-DTSTART:20261113T103000Z
-SUMMARY:Under 5 Social Club
-DESCRIPTION:https://tinytidespeninsula.co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_33caaf0537114fb8a4fcde6e92ee6e3d-occ_ce814987127f4febae9c5a2387e
- c6dee@thingstodoinyourcity
-DTSTAMP:20261030T052858Z
-DTSTART:20261030T104500Z
-DTEND:20261030T114500Z
-SUMMARY:Workshop: Video on iPhone
-DESCRIPTION:Learn to capture better video on iPhone through built-in feat
- ures\, recording modes and hands-on activities. Bring your iPhone or use
-  the latest one Apple provides.\nhttps://www.apple.com/uk/today/event/wo
- rkshop-video-on-iphone/7513259584644284416/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/workshop-video-on-iphone/7513259
- 584644284416/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2263147e664146889f9e4e20c9b0cb3b-occ_2f4a1f73d0334a33b57f1b7a1ab
- b3ea0@thingstodoinyourcity
-DTSTAMP:20261028T125057Z
-DTSTART:20261030T110000Z
-DTEND:20261030T130000Z
-SUMMARY:Family Workshop: Giant Haunted Hands
-DESCRIPTION:Build a hand-controlled skeleton hand with artist Isobel Irwi
- n that can leap and creep. All materials are provided\, and tickets incl
- ude free Museum entry.\nPrice: Child £7 Adult £5 Camden resident Free*
-  Listed concession Free*\nhttps://foundlingmuseum.org.uk/event/family-wo
- rkshop-haunted-hands/?utm_source=near_here&utm_medium=referral&utm_campa
- ign=event_listing
-LOCATION:Foundling Museum\, 40 Brunswick Square London WC1N 1AZ\, London
-URL:https://foundlingmuseum.org.uk/event/family-workshop-haunted-hands/?u
- tm_source=near_here&utm_medium=referral&utm_campaign=event_listing
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2263147e664146889f9e4e20c9b0cb3b-occ_483b983dcef1481bbb8596ba7dd
- 6493b@thingstodoinyourcity
-DTSTAMP:20261028T125057Z
-DTSTART:20261030T140000Z
-DTEND:20261030T160000Z
-SUMMARY:Family Workshop: Giant Haunted Hands
-DESCRIPTION:Build a hand-controlled skeleton hand with artist Isobel Irwi
- n that can leap and creep. All materials are provided\, and tickets incl
- ude free Museum entry.\nPrice: Child £7 Adult £5 Camden resident Free*
-  Listed concession Free*\nhttps://foundlingmuseum.org.uk/event/family-wo
- rkshop-haunted-hands/?utm_source=near_here&utm_medium=referral&utm_campa
- ign=event_listing
-LOCATION:Foundling Museum\, 40 Brunswick Square London WC1N 1AZ\, London
-URL:https://foundlingmuseum.org.uk/event/family-workshop-haunted-hands/?u
- tm_source=near_here&utm_medium=referral&utm_campaign=event_listing
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_96398165d48744b0b27a3e6a5edc9a44-occ_682e8cd669594c0dac420cd45a1
- 8df82@thingstodoinyourcity
-DTSTAMP:20261023T101543Z
-DTSTART:20261030T110000Z
-DTEND:20261030T120000Z
-SUMMARY:Funeral Service
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ab5f2d8c133b4dd090660277e166d9df-occ_21e1e4dea1ec4f65beb71d7773f
- 1e134@thingstodoinyourcity
-DTSTAMP:20261026T053544Z
-DTSTART:20261030T110000Z
-DTEND:20261030T114500Z
-SUMMARY:K-Culture Half-term Adventure
-DESCRIPTION:Three days of hands-on activities exploring K-pop\, animation
- \, food and Taekwondo. Places are limited to 20 per session\, so advance
-  registration is required.\nhttps://docs.google.com/forms/d/e/1FAIpQLScK
- _-IcWnoTwUj3UiNAbrfR7mpvs7nCVSrrI9uAd-Zr7JEeqA/viewform
-LOCATION:Korean Cultural Centre UK\, 1–3 Strand\, London WC2N 5BW\, Lon
- don
-URL:https://docs.google.com/forms/d/e/1FAIpQLScK_-IcWnoTwUj3UiNAbrfR7mpvs
- 7nCVSrrI9uAd-Zr7JEeqA/viewform
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ab5f2d8c133b4dd090660277e166d9df-occ_f991f84cd99d49d09db2af3dbb6
- 237c7@thingstodoinyourcity
-DTSTAMP:20261026T053544Z
-DTSTART:20261030T140000Z
-DTEND:20261030T160000Z
-SUMMARY:K-Culture Half-term Adventure
-DESCRIPTION:Three days of hands-on activities exploring K-pop\, animation
- \, food and Taekwondo. Places are limited to 20 per session\, so advance
-  registration is required.\nhttps://docs.google.com/forms/d/e/1FAIpQLScK
- _-IcWnoTwUj3UiNAbrfR7mpvs7nCVSrrI9uAd-Zr7JEeqA/viewform
-LOCATION:Korean Cultural Centre UK\, 1–3 Strand\, London WC2N 5BW\, Lon
- don
-URL:https://docs.google.com/forms/d/e/1FAIpQLScK_-IcWnoTwUj3UiNAbrfR7mpvs
- 7nCVSrrI9uAd-Zr7JEeqA/viewform
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9a6306db63db434db61fdbebe0c8775e-occ_b600ebb4d6f54a62b93154d055a
@@ -2414,37 +2251,6 @@ URL:https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectIte
  17.TcsSection_3060731
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2d5904e72b714399acb8e187c40f906a-occ_d0c2c83b5bfb4baaa55ab8c240f
- 072f3@thingstodoinyourcity
-DTSTAMP:20261028T124345Z
-DTSTART:20261030T111500Z
-DTEND:20261030T121500Z
-SUMMARY:Spanish Conversation Class at Kensal Library
-DESCRIPTION:Open to all levels\, this relaxed class builds Spanish speaki
- ng confidence. Guided discussions in a supportive setting help you impro
- ve your language skills.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/sp
- anish-conversation-class-kensal-library
-LOCATION:Kensal Library\, London
-URL:https://www.rbkc.gov.uk/events/spanish-conversation-class-kensal-libr
- ary
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_31f60cd2a54a4a7d8f233546bb57c43b-occ_d3ced37bf30b4cf594dc87e8a09
- 24227@thingstodoinyourcity
-DTSTAMP:20261030T024551Z
-DTSTART:20261030T111500Z
-DTEND:20261030T121500Z
-SUMMARY:Spanish Conversation Class at Kensal Library
-DESCRIPTION:Improve your Spanish in a relaxed\, supportive conversation c
- lass. Suitable for all levels\, from complete beginners to advanced spea
- kers.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/spanish-conversation-
- class-kensal-library
-LOCATION:Chelsea Library\, Chelsea Old Town Hall\, King's Rd\, London\, S
- W3 5EZ\, London
-URL:https://www.rbkc.gov.uk/events/spanish-conversation-class-kensal-libr
- ary
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f3143c0c162147c9ad033b2bc4ebcee3-occ_7a9f9839086a45b29deb9dc8c9d
  55ddc@thingstodoinyourcity
 DTSTAMP:20261030T085954Z
@@ -2470,22 +2276,6 @@ DESCRIPTION:Gather your mates for sharing plates and pints\, plus a Comed
 LOCATION:Hoop & Toy\, 34 Thurloe Place\, Kensington\, London
 URL:https://thruddle.com/whats-on/kensington/SW72HQ-HoopandToy/pay-day-we
  ekend-at-the-hoop-and-toy-9383e388
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a6caf2795dc34af6a488b9f648a073ca-occ_644b0e589a58434187f84f9c125
- 9a1f6@thingstodoinyourcity
-DTSTAMP:20261030T085454Z
-DTSTART:20261030T120000Z
-DTEND:20261030T140000Z
-SUMMARY:Darbar: Dhrupad by Ustad Wasifuddin Dagar
-DESCRIPTION:Ustad Wasifuddin Dagar performs dhrupad\, the oldest survivin
- g form of Hindustani classical music. Pakhawaj accompaniment and stories
-  between the ragas.\nPrice: From £24 (£20 + £4 transaction fee)\nhttp
- s://www.barbican.org.uk/whats-on/2026/event/darbar-dhrupad-by-ustad-wasi
- fuddin-dagar
-LOCATION:Milton Court\, Milton Court Silk St\, London EC2Y 9BH\, London
-URL:https://www.barbican.org.uk/whats-on/2026/event/darbar-dhrupad-by-ust
- ad-wasifuddin-dagar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1d286f6bb073486ba133230ac507ef8f-occ_de7aee7b777a475dbbc686eca34
@@ -2549,22 +2339,6 @@ DESCRIPTION:Join The Gloucester Arms for a payday weekend of great food\,
 LOCATION:The Gloucester Arms\, 34 Gloucester Road\, Kensington\, London
 URL:https://thruddle.com/whats-on/kensington/SW74RB-TheGloucesterArms/oct
  ober-payday-weekend-at-the-gloucester-arms-dfedc2d3
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_66387e327082460bb66747fa24874d7f-occ_552eb400595048e0952af3c0cd0
- 100fc@thingstodoinyourcity
-DTSTAMP:20261026T034313Z
-DTSTART:20261030T120000Z
-DTEND:20261030T140000Z
-SUMMARY:Wild Life Drawing: Wolves
-DESCRIPTION:Wildlife artist Jennie Webber guides drawing wolves from life
- \, with canine expert Natalie Langstrom. All abilities welcome\; materia
- ls and a sandwich lunch provided.\nhttps://www.eventbrite.co.uk/e/wild-l
- ife-drawing-wolves-tickets-2003334906634?aff=oddtdtcreator&keep_tld=true
-LOCATION:CodeNode\, 10 South Place London EC2M 7EB\, London\, England\, L
- ondon
-URL:https://www.eventbrite.co.uk/e/wild-life-drawing-wolves-tickets-20033
- 34906634?aff=oddtdtcreator&keep_tld=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5f18722b111447ca9e315ce55ea05cef-occ_b40f670a44b1404e9bfd2aa5683
@@ -2677,22 +2451,6 @@ LOCATION:Holy Sepulchre London\, Holborn ViaductLondon\, EC1A 2DQUnited K
 URL:https://hsl.church/events/74ngsxcmf5x3xzx-thald-774yf
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4ec4fc192bb6492d846e547e5e98b72a-occ_1260abaea42b439498b63612656
- 6f2ec@thingstodoinyourcity
-DTSTAMP:20261026T055215Z
-DTSTART:20261030T130000Z
-DTEND:20261030T140000Z
-SUMMARY:NEW WAVE MUSIC: Jazz Duo: Lucy Joy + Thomas Sladden
-DESCRIPTION:Piano and vocal jazz duo studying at the Guildhall School of 
- Music and Drama. Standards get original vocalese and free improvisation\
- , so no two performances are alike.\nPrice: Free\nhttps://bloomsburyfest
- ival.org.uk/whats-on/new-wave-music-jazz-duo-lucy-joy-thomas-sladden
-LOCATION:City Lit\, Keeley Street Covent Garden\, WC2B 4BA\, Covent Garde
- n\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/new-wave-music-jazz-duo-lu
- cy-joy-thomas-sladden
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f0a0257306d6414ebf85a10a8d97b91e-occ_9e15700e15a64698a8a071843f0
  bec6f@thingstodoinyourcity
 DTSTAMP:20261028T131052Z
@@ -2708,23 +2466,6 @@ LOCATION:Rollernation\, 117 Bruce Grove\, London\, N17 6UR\, London
 URL:https://www.skiddle.com/whats-on/London/Rollernation/Schools-Out-Tric
  k-or-Treat-Edition/42670457/?sktag=15520&skcampaign=weekend.london+event
  s+2026-10-30
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fd079a57d9df49eca2fa02682a15fee2-occ_a18b5afe43a2459caf438d4a82e
- e89c7@thingstodoinyourcity
-DTSTAMP:20261028T221127Z
-DTSTART:20261030T130000Z
-DTEND:20261030T141500Z
-SUMMARY:Thinkers\, Makers and Scribblers\, Walk Three: Importance of Time
-  to a Timeless Legacy
-DESCRIPTION:Explores the characters\, stories and events of South Bloomsb
- ury\, led by expert Camden guides. Each walk in the three-part series is
-  different.\nPrice: £10.00\nhttps://bloomsburyfestival.org.uk/whats-on/
- thinkers-makers-and-scribblers-walk-three-from-the-importance-of-time-to
- -a-timeless-legacy
-LOCATION:Holborn Library\, 32-38 Theobalds Road \, WC1X 8PA\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/thinkers-makers-and-scribb
- lers-walk-three-from-the-importance-of-time-to-a-timeless-legacy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f363c2adba7847768d749d517115e9f3-occ_0de7fdca779144d9a1d4f64c155
@@ -2894,6 +2635,23 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/ffw-x-all-kaiju-attac
  k-ghidorah-the-three-headed
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2263147e664146889f9e4e20c9b0cb3b-occ_483b983dcef1481bbb8596ba7dd
+ 6493b@thingstodoinyourcity
+DTSTAMP:20261028T125057Z
+DTSTART:20261030T140000Z
+DTEND:20261030T160000Z
+SUMMARY:Family Workshop: Giant Haunted Hands
+DESCRIPTION:Build a hand-controlled skeleton hand with artist Isobel Irwi
+ n that can leap and creep. All materials are provided\, and tickets incl
+ ude free Museum entry.\nPrice: Child £7 Adult £5 Camden resident Free*
+  Listed concession Free*\nhttps://foundlingmuseum.org.uk/event/family-wo
+ rkshop-haunted-hands/?utm_source=near_here&utm_medium=referral&utm_campa
+ ign=event_listing
+LOCATION:Foundling Museum\, 40 Brunswick Square London WC1N 1AZ\, London
+URL:https://foundlingmuseum.org.uk/event/family-workshop-haunted-hands/?u
+ tm_source=near_here&utm_medium=referral&utm_campaign=event_listing
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_96a4a5dbd3aa4033b34cb44b91f2921d-occ_1c3d38c7306b41a7883463bd430
  36afe@thingstodoinyourcity
 DTSTAMP:20261029T051029Z
@@ -2907,6 +2665,22 @@ DESCRIPTION:Zad Santospiritio shows how to use the ILC's 3D printer for p
 LOCATION:Birkbeck Main Building\, Malet Street\, London
 URL:https://www.bbk.ac.uk/events/event/65992/ilc-workshop-introduction-to
  -3d-printing
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab5f2d8c133b4dd090660277e166d9df-occ_f991f84cd99d49d09db2af3dbb6
+ 237c7@thingstodoinyourcity
+DTSTAMP:20261026T053544Z
+DTSTART:20261030T140000Z
+DTEND:20261030T160000Z
+SUMMARY:K-Culture Half-term Adventure
+DESCRIPTION:Three days of hands-on activities exploring K-pop\, animation
+ \, food and Taekwondo. Places are limited to 20 per session\, so advance
+  registration is required.\nhttps://docs.google.com/forms/d/e/1FAIpQLScK
+ _-IcWnoTwUj3UiNAbrfR7mpvs7nCVSrrI9uAd-Zr7JEeqA/viewform
+LOCATION:Korean Cultural Centre UK\, 1–3 Strand\, London WC2N 5BW\, Lon
+ don
+URL:https://docs.google.com/forms/d/e/1FAIpQLScK_-IcWnoTwUj3UiNAbrfR7mpvs
+ 7nCVSrrI9uAd-Zr7JEeqA/viewform
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fe915e0e9d4b43369f71d95520dbad46-occ_3052aa4763da4b038a8961e81d6
@@ -6589,25 +6363,17 @@ LOCATION:Visitors’ Book Café\, London
 URL:https://www.woolwich.works/events/stitch-night
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_aee560b2fa514fe2b35f6868f75e63a4-occ_779c633778ec4776a72db6ebbae
- bfe16@thingstodoinyourcity
-DTSTAMP:20261026T062633Z
-DTSTART:20261104T193000Z
-SUMMARY:Wednesday Night Comedy
-DESCRIPTION:https://www.sohocomedyfactory.com/
-LOCATION:Piccadilly\, Central London\, London
-URL:https://www.sohocomedyfactory.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_c7f7dfc546d1415da2c80a2b7d0
  aa674@thingstodoinyourcity
 DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261105
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_69f9fae0bb294b488b154e4cbde
@@ -6616,9 +6382,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261112
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_aec37b7b50024e40af7989f6fd2
@@ -6627,9 +6395,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261119
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_6f022a40c32e4411a791d75622f
@@ -6638,9 +6408,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261126
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_66d235a366fe41b8bea561037f8
@@ -6649,9 +6421,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261203
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_647cf05cbc974bc58dc408fb4b3
@@ -6660,9 +6434,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261210
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_b65c82d8e3f346c795e569765b8
@@ -6671,9 +6447,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261217
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_752a4cf123eb411aab69f24edc8
@@ -6682,9 +6460,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261224
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_9e6ba710fa99412f826b5edd610
@@ -6693,9 +6473,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20261231
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_18542ef3fca5488ba135f18d4de
@@ -6704,9 +6486,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270107
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_ad7be6ebfc4c4f0093585ebeb3f
@@ -6715,9 +6499,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270114
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_f244ac7fde304666b4e46623086
@@ -6726,9 +6512,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270121
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_d510d06864b9424295293043fff
@@ -6737,9 +6525,11 @@ DTSTAMP:20261030T015040Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270128
 SUMMARY:Healthy Lifestyle Clinic at Maida Vale Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/healthy-lif
+ estyle-clinic-maida-vale-library-thursday-session
 LOCATION:Maida Vale Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/healthy-lifestyle-clinic-maida-v
+ ale-library-thursday-session
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eb1b48abfa004a65826491c9b226770d-occ_c9efd3a4178e410990a46481884
@@ -7971,6 +7761,26 @@ DESCRIPTION:https://www.londontheatres.com/event/thursday-night-comedy-sh
  ow
 LOCATION:Big Belly Comedy - Southbank\, London
 URL:https://www.londontheatres.com/event/thursday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_432fd0368a634486a846fa39127
+ 24d9a@thingstodoinyourcity
+DTSTAMP:20261030T034051Z
+DTSTART:20261106T103000Z
+SUMMARY:Under 5 Social Club
+DESCRIPTION:https://tinytidespeninsula.co.uk/
+LOCATION:Firepit Art Gallery and Studios\, London
+URL:https://tinytidespeninsula.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_32310d0e84774efdb974e465480
+ 5cb5e@thingstodoinyourcity
+DTSTAMP:20261030T034051Z
+DTSTART:20261113T103000Z
+SUMMARY:Under 5 Social Club
+DESCRIPTION:https://tinytidespeninsula.co.uk/
+LOCATION:Firepit Art Gallery and Studios\, London
+URL:https://tinytidespeninsula.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4aa86e6e007a4728b51058c6a8579c18-occ_ebb69684c95a4155819bc9a896c
