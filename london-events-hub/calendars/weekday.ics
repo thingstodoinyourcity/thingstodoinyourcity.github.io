@@ -531,21 +531,6 @@ URL:https://www.primarytimes.co.uk/south_london/listings/creepy-crawly-cr
  afts-604313
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3c41f37a2f8c4331be718632d47d790c-occ_7d6ddbb0d2bf400fa1ca62d7ce4
- e8e64@thingstodoinyourcity
-DTSTAMP:20261022T062410Z
-DTSTART:20261028T213000Z
-DTEND;VALUE=DATE:20261030
-SUMMARY:Drag Queens vs Aliens
-DESCRIPTION:Kate Butch and Crudi Dench chase a Vegas residency until a cl
- ose encounter sparks galactic chaos. Expect stellar musical numbers\, au
- dience interaction and sci-fi nonsense.\nPrice: Prices from £16.50 (inc
- ludes booking fee)\nhttps://underbellyboulevard.com/tickets/drag-queens-
- vs-aliens-2026/
-LOCATION:The Theatre\, London
-URL:https://underbellyboulevard.com/tickets/drag-queens-vs-aliens-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_698f9034482642d99a9bf23d43e103d8-occ_40762c424a6047b396d6fafbda0
  b975e@thingstodoinyourcity
 DTSTAMP:20261027T125954Z
@@ -837,6 +822,16 @@ DESCRIPTION:A creative family workshop inspired by Jacqueline Wilson's Th
 LOCATION:Southbank Centre\, London
 URL:https://www.primarytimes.co.uk/south_london/listings/cardboard-citize
  ns-the-meaning-of-home-604409
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_09f6fb6d22cb477b91f3dc8ae6b90615-occ_4b8b7bb5f7624de0b958f29c2b6
+ 7f2bc@thingstodoinyourcity
+DTSTAMP:20261030T223507Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Cirque Du Soul: Halloween
+DESCRIPTION:https://supportthecause.co.uk/whats-on
+LOCATION:The Cause\, London
+URL:https://supportthecause.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_64732a48d6804839a21a67e35fe93c9d-occ_a3987c76f5624951ad416b796ed
@@ -1173,6 +1168,20 @@ URL:https://www.english-heritage.org.uk/visit/whats-on/marble-hill-georgi
  an-ways-to-die-halloween-tour
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_53cb3e50da2b43d39816d97c2dfaa440-occ_625c1e3053794f4bb3fd066e5b8
+ ed0f1@thingstodoinyourcity
+DTSTAMP:20261030T203936Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Halloween Fun at Macaroni Penguin
+DESCRIPTION:Children can join a guided Halloween treasure hunt and face p
+ ainting in soft play. Aimed at children up to six\, with a goodie bag to
+  take home.\nPrice: £10\nhttps://royaldocks.london/whats-on/halloween-f
+ un-at-macaroni-penguin
+LOCATION:Macaroni Penguin\, 28 Royal Crest Avenue\, Royal wharf\, E16 2PG
+ \, Royal wharf\, London
+URL:https://royaldocks.london/whats-on/halloween-fun-at-macaroni-penguin
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f32a212739164199a2c78437981c008e-occ_c40f83ad1ddd4bd883a426658b2
  fd6f2@thingstodoinyourcity
 DTSTAMP:20261026T094326Z
@@ -1436,6 +1445,21 @@ LOCATION:The Royal Automobile Club\, 89 Pall Mall\, London\, SW1Y 5HS\, 8
 URL:https://citylions.org/racphotography/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7329ccc64f46403583e9b1d888803808-occ_a2cc59711ccb45f296132b0ae1c
+ 9e8e9@thingstodoinyourcity
+DTSTAMP:20261029T203958Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Pictoplasma London 2026
+DESCRIPTION:Berlin's leading character design conference returns to the R
+ oyal College of Art for a one-day edition. Expect six artist talks\, ani
+ mation screenings and industry networking.\nPrice: Free Entry\nhttps://w
+ ww.rca.ac.uk/news-and-events/events/pictoplasma-london-2026/
+LOCATION:RCA Battersea\, Gorvy Lecture Theatre\, Royal College of Art\, D
+ yson Building\, Riverside\, 1 Hester Rd London\, SW11 4AN\, Battersea Pa
+ rk\, London\, London
+URL:https://www.rca.ac.uk/news-and-events/events/pictoplasma-london-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d478c8e2b3194d8192b193c279402ef4-occ_f2558132daba45d393385b2819a
  109cf@thingstodoinyourcity
 DTSTAMP:20261030T011455Z
@@ -1664,6 +1688,16 @@ DESCRIPTION:https://www.whatsonstage.com/shows/london-theatre/off-west-en
 LOCATION:St Gabriel's\, Pimlico\, Pimlico\, London\, London
 URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
  e/spooky-season-music-of-twilight-saga_1733701/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0292b04559d4f6389bcd94db6f787a3-occ_3be4408548aa49b8adefc6f0d96
+ 7223d@thingstodoinyourcity
+DTSTAMP:20261030T214518Z
+DTSTART;VALUE=DATE:20261030
+SUMMARY:Spooky Season – Music of Twilight Saga
+DESCRIPTION:https://www.whatsonstage.com/
+LOCATION:London
+URL:https://www.whatsonstage.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c29fc13196ed47fe8eb49ce60eeeef5e-occ_b6258a2dab2a403089b9cb071d5
@@ -7482,24 +7516,19 @@ LOCATION:Big Belly Comedy - Southbank\, London
 URL:https://www.londontheatres.com/event/thursday-night-comedy-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_432fd0368a634486a846fa39127
- 24d9a@thingstodoinyourcity
-DTSTAMP:20261030T034051Z
-DTSTART:20261106T103000Z
-SUMMARY:Under 5 Social Club
-DESCRIPTION:https://tinytidespeninsula.co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9fefff6c1e194c708011579dc53ae8f1-occ_32310d0e84774efdb974e465480
- 5cb5e@thingstodoinyourcity
-DTSTAMP:20261030T034051Z
-DTSTART:20261113T103000Z
-SUMMARY:Under 5 Social Club
-DESCRIPTION:https://tinytidespeninsula.co.uk/
-LOCATION:Firepit Art Gallery and Studios\, London
-URL:https://tinytidespeninsula.co.uk/
+UID:cand_6650e913d3e44141b88f1afca360cc71-occ_c81c3638f44f4a40ad8f95212bf
+ bc269@thingstodoinyourcity
+DTSTAMP:20261023T191142Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Fridays at Backyard
+DESCRIPTION:Top comedians from the UK and beyond mix seasoned pros with r
+ ising stars each week. Arrive early for pre-show entertainment and stay 
+ afterwards for drinks and pizza.\nPrice: £12.5 - £20\nhttps://backyard
+ comedyclub.co.uk/event/link/?ceId=b5ee3cdb-6399-4393-a98e-5310904998f4
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/event/link/?ceId=b5ee3cdb-6399-4393-
+ a98e-5310904998f4
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4aa86e6e007a4728b51058c6a8579c18-occ_ebb69684c95a4155819bc9a896c
@@ -8015,5 +8044,15 @@ DESCRIPTION:A romantic breaks the mysterious One Wish Willow to win his c
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31617459/obsession-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3ee7817970aa4be4b526d8c276d9633c-occ_916deab2f0ea40f591a47e87e3e
+ 0f21e@thingstodoinyourcity
+DTSTAMP:20261030T165225Z
+DTSTART;VALUE=DATE:20270430
+SUMMARY:Fri 30\, Show 1
+DESCRIPTION:Price: £ 5\nhttps://sohocomedyhouse.com/tickets
+LOCATION:30 Dean Street Bar and Club\, London
+URL:https://sohocomedyhouse.com/tickets
 END:VEVENT
 END:VCALENDAR
