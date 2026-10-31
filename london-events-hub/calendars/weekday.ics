@@ -19,6 +19,20 @@ LOCATION:Albert's Schloss - Soho\, London
 URL:https://alberts-schloss-london.designmynight.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bc2626571e6a47dd8afd37f1f221ac22-occ_1846f6e223394e9396265841f92
+ 7e82c@thingstodoinyourcity
+DTSTAMP:20261031T192815Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+SUMMARY:Belrobics
+DESCRIPTION:Dance your way to fitness in this belly-dancing inspired clas
+ s\, suitable for all levels. Book to get your Zoom link\; no classes run
+  during bank holidays.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/belr
+ obics
+LOCATION:London
+URL:https://www.rbkc.gov.uk/events/belrobics
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7f668e74605342f59349f3c29b571c2a-occ_773510f2a7a14e5abeb53ad2d72
  2ea7a@thingstodoinyourcity
 DTSTAMP:20261027T135830Z
@@ -72,20 +86,6 @@ LOCATION:Kensington Central Library\, 12 Phillimore Walk\, London\, W8 7R
  X\, United Kingdom\, London
 URL:https://www.rbkc.gov.uk/events/baby-rhyme-time-kensington-central-lib
  rary
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc2626571e6a47dd8afd37f1f221ac22-occ_1846f6e223394e9396265841f92
- 7e82c@thingstodoinyourcity
-DTSTAMP:20261027T143354Z
-DTSTART:20261102T100000Z
-DTEND:20261102T110000Z
-SUMMARY:Belrobics
-DESCRIPTION:Dance your way to fitness in this belly-dancing inspired clas
- s\, suitable for all levels. Book to receive your Zoom link\; no classes
-  run during bank holidays.\nPrice: Free\nhttps://www.rbkc.gov.uk/events/
- belrobics
-LOCATION:London
-URL:https://www.rbkc.gov.uk/events/belrobics
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7943507b92004e34a538ddd63fbf4fde-occ_305879d3680e4cf3ade42dfacfa
@@ -3540,6 +3540,16 @@ DESCRIPTION:Bring your own project to work on and meet other makers over
  ght
 LOCATION:Visitors’ Book Café\, London
 URL:https://www.woolwich.works/events/stitch-night
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b07cabcadf1c43319e230c585b283b6d-occ_8b28d3e1a9ee4b85b61a60fa980
+ e84a2@thingstodoinyourcity
+DTSTAMP:20261025T200209Z
+DTSTART:20261104T184500Z
+SUMMARY:Workshop: Take Better Photos on iPhone
+DESCRIPTION:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
+LOCATION:Apple Covent Garden\, London
+URL:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_c7f7dfc546d1415da2c80a2b7d0
