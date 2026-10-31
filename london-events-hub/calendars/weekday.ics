@@ -460,6 +460,16 @@ LOCATION:Screen 2\, 194b Chamberlayne Rd\, London NW10 3JU\, London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10232139
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c715d8735cbf4beca22fcc2ed6cd6461-occ_ec4dddcee42f4162baa69810ea3
+ 0ed5e@thingstodoinyourcity
+DTSTAMP:20261031T224805Z
+DTSTART:20261102T160000Z
+SUMMARY:Dahaleez Collective Earl’s Court Soundwalk
+DESCRIPTION:https://mosaicrooms.org/what's-on
+LOCATION:Mosaic Rooms\, London
+URL:https://mosaicrooms.org/what's-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec8a6489c54947d6a1faf67ac528613a-occ_b15e8ef78572406cb265a55d7ac
  310c9@thingstodoinyourcity
 DTSTAMP:20261030T163430Z
@@ -504,6 +514,24 @@ SUMMARY:In the Shadows
 DESCRIPTION:https://www.peckhamplex.london/films/listings
 LOCATION:London
 URL:https://www.peckhamplex.london/films/listings
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdef14bf25c04be7ab07ab40507903e1-occ_db61b99ad66f4753991af8d1939
+ 2dd68@thingstodoinyourcity
+DTSTAMP:20261031T212952Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Nelder Fellow lecture series – Prof Ed Bueler
+DESCRIPTION:
+LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cdef14bf25c04be7ab07ab40507903e1-occ_753ac1e546404893b8560f854c5
+ 90080@thingstodoinyourcity
+DTSTAMP:20261031T212952Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Nelder Fellow lecture series – Prof Ed Bueler
+DESCRIPTION:
+LOCATION:London
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_59d2ff882510444dab33a5262130b64c-occ_6b096c5a97934c05ab6e61d4de9
@@ -3055,6 +3083,104 @@ DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-sho
  w
 LOCATION:Big Belly Comedy - Southbank\, London
 URL:https://www.londontheatres.com/event/tuesday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583-2026-11-04@thingstodoinyourcity
+DTSTAMP:20261031T222054Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media art workshops led by Ginny Hawke and Gerry Cassid
+ y using oil\, acrylic\, collage and pastels. The early theme is water\, 
+ then Christmas crafts\; students may exhibit locally.\nPrice: Fees £8 (
+ cash)\nhttps://www.towerhamletsarts.org.uk/?cid=81504
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583-2026-11-11@thingstodoinyourcity
+DTSTAMP:20261031T222054Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media art workshops led by Ginny Hawke and Gerry Cassid
+ y using oil\, acrylic\, collage and pastels. The early theme is water\, 
+ then Christmas crafts\; students may exhibit locally.\nPrice: Fees £8 (
+ cash)\nhttps://www.towerhamletsarts.org.uk/?cid=81504
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583-2026-11-18@thingstodoinyourcity
+DTSTAMP:20261031T222054Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media art workshops led by Ginny Hawke and Gerry Cassid
+ y using oil\, acrylic\, collage and pastels. The early theme is water\, 
+ then Christmas crafts\; students may exhibit locally.\nPrice: Fees £8 (
+ cash)\nhttps://www.towerhamletsarts.org.uk/?cid=81504
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583-2026-11-25@thingstodoinyourcity
+DTSTAMP:20261031T222054Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media art workshops led by Ginny Hawke and Gerry Cassid
+ y using oil\, acrylic\, collage and pastels. The early theme is water\, 
+ then Christmas crafts\; students may exhibit locally.\nPrice: Fees £8 (
+ cash)\nhttps://www.towerhamletsarts.org.uk/?cid=81504
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583-2026-12-02@thingstodoinyourcity
+DTSTAMP:20261031T222054Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media art workshops led by Ginny Hawke and Gerry Cassid
+ y using oil\, acrylic\, collage and pastels. The early theme is water\, 
+ then Christmas crafts\; students may exhibit locally.\nPrice: Fees £8 (
+ cash)\nhttps://www.towerhamletsarts.org.uk/?cid=81504
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8d5307d77384408fbe1e5bee3591c285-occ_def2f243e676416e8d322ff22bd
+ 550dc-2026-11-04@thingstodoinyourcity
+DTSTAMP:20261031T222121Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Watercolour and Drawing Classes
+DESCRIPTION:Watercolour painting and drawing class for all levels\; begin
+ ners welcome. Materials are provided\, or bring your own\; tutor Carol J
+ ohnston sets projects and demonstrations.\nhttps://www.towerhamletsarts.
+ org.uk/?cid=81555
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81555
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8d5307d77384408fbe1e5bee3591c285-occ_def2f243e676416e8d322ff22bd
+ 550dc-2026-11-11@thingstodoinyourcity
+DTSTAMP:20261031T222121Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Watercolour and Drawing Classes
+DESCRIPTION:Watercolour painting and drawing class for all levels\; begin
+ ners welcome. Materials are provided\, or bring your own\; tutor Carol J
+ ohnston sets projects and demonstrations.\nhttps://www.towerhamletsarts.
+ org.uk/?cid=81555
+LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
+ ondon\, E1 5HU\, London
+URL:https://www.towerhamletsarts.org.uk/?cid=81555
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d6a6e5a4d6a441a793842fd3432644fe-occ_2a660a61c98547d499534387caa
