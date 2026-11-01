@@ -918,36 +918,6 @@ LOCATION:London
 URL:https://www.peckhamplex.london/films/listings
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d34a284bccfb4c60bf5ba9430d51da41-occ_34905cba81e44204b5421ab8392
- ec81f@thingstodoinyourcity
-DTSTAMP:20261030T125546Z
-DTSTART:20261102T184500Z
-SUMMARY:Get Started: iPad
-DESCRIPTION:Take a tour of the latest iPad features and learn to navigate
-  your device and customise settings. You'll practise with Apple Pencil P
- ro and explore ways to search with Siri.\nhttps://www.apple.com/uk/today
- /event/get-started-ipad/7515781045279883264/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/get-started-ipad/751578104527988
- 3264/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d34a284bccfb4c60bf5ba9430d51da41-occ_0627c110b2d3449b816a7367133
- 18f97@thingstodoinyourcity
-DTSTAMP:20261030T125546Z
-DTSTART:20261104T120000Z
-SUMMARY:Get Started: iPad
-DESCRIPTION:Take a tour of the latest iPad features and learn to navigate
-  your device and customise settings. You'll practise with Apple Pencil P
- ro and explore ways to search with Siri.\nhttps://www.apple.com/uk/today
- /event/get-started-ipad/7515781045279883264/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/get-started-ipad/751578104527988
- 3264/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c967beb0485946acbd11d8e6c48d9309-occ_aa79426127ca4281a475421bffd
  567ea-2026-11-03@thingstodoinyourcity
 DTSTAMP:20261101T130818Z
@@ -1142,6 +1112,21 @@ DESCRIPTION:Meet like-minded people through social activities\, eclectic
  ts.org.uk/?guide=events&cat=45&cid=81837
 LOCATION:Toynbee Hall\, 28 Commercial St\, London \, E1 6LS\, London
 URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45&cid=81837
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cec427dcae1645c9b533adcc8a52cb85-occ_b37b045bddd54ee09df8a85331e
+ ce840@thingstodoinyourcity
+DTSTAMP:20261101T062617Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:It’s Only the End of the World
+DESCRIPTION:A writer's homecoming after twelve years erupts into bitter f
+ amily confrontations. Winner of the Grand Prix at Festival de Cannes 201
+ 6.\nPrice: STANDARD £11.00 CONCESSION £9.00 MEMBER £8.50 UNDER 25S ME
+ MBER £5.00\nhttps://www.institut-francais.org.uk/cinema/its-only-the-en
+ d-of-the-world
+LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://www.institut-francais.org.uk/cinema/its-only-the-end-of-the-w
+ orld
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cdef14bf25c04be7ab07ab40507903e1-occ_db61b99ad66f4753991af8d1939
@@ -6206,6 +6191,21 @@ DESCRIPTION:Former English National Ballet dancer Alice Crawford leads ge
 LOCATION:Soane Stable Yard Activity Room\, London
 URL:https://chelsea-pensioners.co.uk/events/community-event-seated-moveme
  nt-music
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4ddc4ff0d53d44e5b5444576f65684a8-occ_09423690d78d4db2a5ba6cb3243
+ 30a89@thingstodoinyourcity
+DTSTAMP:20261101T180329Z
+DTSTART:20261110T183000Z
+SUMMARY:lululemon x Run Dem Crew: Tuesday Run Club
+DESCRIPTION:Meet the crew by the lululemon shop at 6.30pm\, then head out
+  at 6.45pm. Open to all levels\, with no booking needed\, just show up.\
+ nhttps://oldspitalfieldsmarket.com/events/lululemon-x-run-dem-crew-tuesd
+ ay-run-club
+LOCATION:Old Spitalfields Market\, 1 Horner Sq Old Spitalfields Market E1
+  6EW\, London\, London
+URL:https://oldspitalfieldsmarket.com/events/lululemon-x-run-dem-crew-tue
+ sday-run-club
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_712928e1592c440cb27e05aa2136d3c1-occ_52f00e70db934c3fa6e966e9b4e
