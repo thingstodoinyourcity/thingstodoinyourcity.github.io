@@ -8,6 +8,90 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-02@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-09@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-16@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-23@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-30@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-12-07@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_cf2f4299edb94ff883862deb8d54c466-occ_2682f10d847943d88107570cbb4
  8c138@thingstodoinyourcity
 DTSTAMP:20261023T094022Z
@@ -391,6 +475,21 @@ DESCRIPTION:Swimming is a very popular choice of activity for disabled ad
 LOCATION:Kensington Leisure Centre\, Silchester Road\, W10 6EX\, United K
  ingdom\, London
 URL:https://www.rbkc.gov.uk/events/swimming-disabled-adults
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0fd871f03e87411796de47ba9a0958d5-occ_1e45a5bebe49498ea1e858bd8b3
+ b9d5d@thingstodoinyourcity
+DTSTAMP:20261101T090258Z
+DTSTART:20261102T113000Z
+DTEND:20261102T123000Z
+SUMMARY:Chair Yoga
+DESCRIPTION:A gentle\, accessible practice for seniors\, people with mobi
+ lity challenges or beginners. Guided exercises build flexibility\, balan
+ ce and wellbeing.\nPrice: Free\nhttps://grandjunction.org.uk/events/chai
+ r-yoga/
+LOCATION:Grand Junction at St. Mary Magdalene Church\, Rowington Close\, 
+ London W2 5TF\, Westminster\, London
+URL:https://grandjunction.org.uk/events/chair-yoga/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8243a014afac469f9be6c4803b2554ec-occ_baecb3f27db04549935b4adee9a
@@ -5754,6 +5853,19 @@ LOCATION:Elgar Room\, Royal Albert Hall\, London
 URL:https://uk.korean-culture.org/en/2123/board/1737/read/145988
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c7210a3a37ed43dbba822c929030ebee-occ_df792508011940679b77dbd078e
+ 4a50f@thingstodoinyourcity
+DTSTAMP:20261101T092305Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:K-Music Festival 2026
+DESCRIPTION:Korean folk\, sound art\, game soundtracks\, jazz\, hip-hop a
+ nd indie rock across the festival. It opens with ADG7\, Chang Kiha and L
+ il Cherry & GOLDBUUDA.\nhttps://uk.korean-culture.org/en/2123/board/1737
+ /read/145988
+LOCATION:Rich Mix\, London
+URL:https://uk.korean-culture.org/en/2123/board/1737/read/145988
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1380c3de280443cc97ee1e5b7fdfb494-occ_e3fa0dd1a1724e69973964b455a
  8b834@thingstodoinyourcity
 DTSTAMP:20261022T055617Z
@@ -6006,6 +6118,22 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31616848/prince-charles-cinema-f
  ilm-quiz/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_827b3f1d4c8440eba3906b1692885589-occ_b72692892ef54fe8bc06ac0b287
+ 4cac3@thingstodoinyourcity
+DTSTAMP:20261101T101027Z
+DTSTART:20261202T120000Z
+DTEND:20261202T130000Z
+SUMMARY:Beneath the Stones: A Subterranean Tour of St Mary Magdalene's Ch
+ urch
+DESCRIPTION:Explore the Undercroft and Chapel of St Sepulchre\, shaped by
+  inventive engineering and Victorian design. Learn its heritage and rece
+ nt restoration.\nPrice: £5\nhttps://grandjunction.ticketsolve.com/ticke
+ tbooth/shows/1173692874
+LOCATION:St Mary Magdalene’s\, ST MARY MAGDALENE CHURCH\, ROWINGTON CLO
+ SE\, LONDON W2 5TF\, London
+URL:https://grandjunction.ticketsolve.com/ticketbooth/shows/1173692874
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2366d1970af640c5bc3281226d4260fe-occ_d7627581f9724cff8d1c5dfc823
