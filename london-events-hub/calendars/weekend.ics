@@ -1126,51 +1126,6 @@ LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
 URL:https://www.newexhibitions.com/e/67855
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_665edc97ddb74ffbafb5b1331cbc47a3-occ_5c9fb05de9314273854852fd23d
- 49cf0@thingstodoinyourcity
-DTSTAMP:20261027T064558Z
-DTSTART:20251112T100000Z
-DTEND:20261101T170000Z
-SUMMARY:Modern Masterpieces: Paintings from the Barber Institute of Fine 
- Arts
-DESCRIPTION:Six exceptional paintings by Van Gogh\, Renoir\, Vuillard and
-  Bonnard are on loan from the Barber Institute. Shown while the Barber I
- nstitute undergoes major redevelopment.\nhttps://www.newexhibitions.com/
- e/67855
-LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
-URL:https://www.newexhibitions.com/e/67855
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_665edc97ddb74ffbafb5b1331cbc47a3-occ_e6f4e29e0dda49e9b57fcaf0a76
- 7fdf4@thingstodoinyourcity
-DTSTAMP:20261027T064558Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-SUMMARY:Modern Masterpieces: Paintings from the Barber Institute of Fine 
- Arts
-DESCRIPTION:Six exceptional paintings by Van Gogh\, Renoir\, Vuillard and
-  Bonnard are on loan from the Barber Institute. Shown while the Barber I
- nstitute undergoes major redevelopment.\nhttps://www.newexhibitions.com/
- e/67855
-LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
-URL:https://www.newexhibitions.com/e/67855
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_665edc97ddb74ffbafb5b1331cbc47a3-occ_770d4fadcd454499b2ad7f4de33
- cc494@thingstodoinyourcity
-DTSTAMP:20261027T064558Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Modern Masterpieces: Paintings from the Barber Institute of Fine 
- Arts
-DESCRIPTION:Six exceptional paintings by Van Gogh\, Renoir\, Vuillard and
-  Bonnard are on loan from the Barber Institute. Shown while the Barber I
- nstitute undergoes major redevelopment.\nhttps://www.newexhibitions.com/
- e/67855
-LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
-URL:https://www.newexhibitions.com/e/67855
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c3fd7c6684cf424298bacde772fc5db1-occ_ca691d125fc54c9ebbeba31ed08
  9253b@thingstodoinyourcity
 DTSTAMP:20261021T124408Z
@@ -3691,6 +3646,22 @@ URL:https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from
  -asia-australia-and-the-pacific
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cd4211ebbcc6410792de5eae33958513-occ_6d3f7dcd3f9f4c80907285b7283
+ 5e3ae@thingstodoinyourcity
+DTSTAMP:20261101T143523Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20270110
+SUMMARY:Rising Voices: Contemporary Art from Asia\, Australia and the Pac
+ ific at the V&A
+DESCRIPTION:Features more than 40 artists from 25 countries across the re
+ gion. Over 70 works span sculpture\, photography and painting.\nhttps://
+ londontheinside.com/location/the-va-is-hosting-a-landmark-exhibition-on-
+ art-from-the-asia-pacific-region/
+LOCATION:V&A\, Cromwell Road\, London SW7 2RL\, London
+URL:https://londontheinside.com/location/the-va-is-hosting-a-landmark-exh
+ ibition-on-art-from-the-asia-pacific-region/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_eefb987f781c418db015f0cbaef2c983-occ_917e0c028c86470d93acfcf7dec
  26587@thingstodoinyourcity
 DTSTAMP:20261022T113111Z
@@ -3810,6 +3781,38 @@ DESCRIPTION:Discover the marine reptiles that ruled Jurassic seas\, from
 LOCATION:Natural History Museum\, Cromwell Rd\, South Kensington\, London
   SW7 5BD\, UK\, South Kensington\, London
 URL:https://culturecity.london/event/jurassic-oceans-monsters-of-the-deep
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7f6e648b7c1d4a22b674cde3f511e395-occ_0a646fb6b3f44093a8e487eab84
+ 19b39@thingstodoinyourcity
+DTSTAMP:20261101T164427Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Paintings of Winston Churchill
+DESCRIPTION:The first major retrospective of Churchill's paintings since 
+ his death brings together more than 50 works. More than half come from p
+ rivate collections.\nPrice: Admission charge. Members go free.\nhttps://
+ www.wallacecollection.org/whats-on/events/winston-churchill-the-painter/
+LOCATION:The Wallace Collection\, Hertford House\, Manchester Square\, Lo
+ ndon W1U 3BN\, Exhibition Galleries\, London
+URL:https://www.wallacecollection.org/whats-on/events/winston-churchill-t
+ he-painter/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7f6e648b7c1d4a22b674cde3f511e395-occ_40780fff164d409bba23f0a2e9e
+ 12e72@thingstodoinyourcity
+DTSTAMP:20261101T164427Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20261129
+SUMMARY:The Paintings of Winston Churchill
+DESCRIPTION:The first major retrospective of Churchill's paintings since 
+ his death brings together more than 50 works. More than half come from p
+ rivate collections.\nPrice: Admission charge. Members go free.\nhttps://
+ www.wallacecollection.org/whats-on/events/winston-churchill-the-painter/
+LOCATION:The Wallace Collection\, Hertford House\, Manchester Square\, Lo
+ ndon W1U 3BN\, Exhibition Galleries\, London
+URL:https://www.wallacecollection.org/whats-on/events/winston-churchill-t
+ he-painter/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8760841db23147e5a26e473ff6242944-occ_2a19ea2db6fa4780a24741085a7
@@ -4108,22 +4111,6 @@ DESCRIPTION:See over 100 original works in this UK-first survey of theatr
 LOCATION:Quentin Blake Centre for Illustration\, EC1R\, London
 URL:https://londontheinside.com/location/explore-quentin-blakes-theatrica
  l-influences-at-this-exhibition
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_011a1b6c38ff4fb19ab01137cdf2f7bc-occ_e1e6becdc3bd4d7ea93a968dc63
- 676b4@thingstodoinyourcity
-DTSTAMP:20261028T070338Z
-DTSTART:20260605T090000Z
-DTEND:20261101T170000Z
-SUMMARY:Queer as Comics
-DESCRIPTION:Traces queer comics and zines since the 1940s\, mostly shown 
- for the first time. Work by Tove Jansson\, Alison Bechdel and Lee Lai fe
- atures.\nPrice: Adults £15\, concessions available. Tickets include ent
- ry to all exhibitions Members go free.\nhttps://qbcentre.org.uk/exhibiti
- ons/queer-as-comics
-LOCATION:Quentin Blake Centre for Illustration\, 1 Myddelton Passage Lond
- on EC1R 1AG\, London
-URL:https://qbcentre.org.uk/exhibitions/queer-as-comics
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fffcfdffb4994299ad78330292f700a9-occ_6522ea98f0e34da69218784e79c
@@ -5507,6 +5494,16 @@ LOCATION:London
 URL:https://www.somersethouse.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_01363a9e78f94c5e98166e3cc40a1ba0-occ_1300147e4e7742a3bb8178ed3dd
+ 64389@thingstodoinyourcity
+DTSTAMP:20261101T032312Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20270228
+SUMMARY:Childhood in War
+DESCRIPTION:
+LOCATION:IWM London\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0ec8151a9c4d448b9a5aa0617d7702ab-occ_6e8812e3723e4c9db5330b7a1c0
  5b237@thingstodoinyourcity
 DTSTAMP:20261021T122705Z
@@ -5702,51 +5699,6 @@ DESCRIPTION:A 2024 animation and new embroidery explore gender and mother
 LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Lo
  ndon
 URL:https://www.newexhibitions.com/e/68888
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d366b231e83e44c3aed35ebcf1ea32bf-occ_ef928d9d5dc34d42bfbfdb0683c
- 34db7@thingstodoinyourcity
-DTSTAMP:20261022T120207Z
-DTSTART:20260815T110000Z
-DTEND:20261101T170000Z
-SUMMARY:Isabel Nolan: some fundamental forces
-DESCRIPTION:Isabel Nolan's first UK solo show since 2017 surveys works fr
- om 2005 to 2025 across painting\, sculpture\, photography and tapestry. 
- The exhibition later travels to Bluecoat\, Liverpool in 2027.\nhttps://w
- ww.newexhibitions.com/e/67901
-LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Su
- rrey Quays\, Canada Water\, London
-URL:https://www.newexhibitions.com/e/67901
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d366b231e83e44c3aed35ebcf1ea32bf-occ_8538fdd905c9485eacc0edda80e
- fbaa2@thingstodoinyourcity
-DTSTAMP:20261022T120207Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-SUMMARY:Isabel Nolan: some fundamental forces
-DESCRIPTION:Isabel Nolan's first UK solo show since 2017 surveys works fr
- om 2005 to 2025 across painting\, sculpture\, photography and tapestry. 
- The exhibition later travels to Bluecoat\, Liverpool in 2027.\nhttps://w
- ww.newexhibitions.com/e/67901
-LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Su
- rrey Quays\, Canada Water\, London
-URL:https://www.newexhibitions.com/e/67901
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d366b231e83e44c3aed35ebcf1ea32bf-occ_ab87f805f8434028bec66925f01
- c926a@thingstodoinyourcity
-DTSTAMP:20261022T120207Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Isabel Nolan: some fundamental forces
-DESCRIPTION:Isabel Nolan's first UK solo show since 2017 surveys works fr
- om 2005 to 2025 across painting\, sculpture\, photography and tapestry. 
- The exhibition later travels to Bluecoat\, Liverpool in 2027.\nhttps://w
- ww.newexhibitions.com/e/67901
-LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Su
- rrey Quays\, Canada Water\, London
-URL:https://www.newexhibitions.com/e/67901
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aeda25ac3cc246dbb2ca14ce85444a24-occ_e9fa766ecd764a9cb66173ded95
@@ -6134,6 +6086,35 @@ LOCATION:Grosvenor Square\, Wheatsheaf Building 52 Grosvenor Square\, Lon
  don\, W1K 6LF\, London
 URL:https://www.wildlondon.org.uk/events/2026-09-06-wonderful-wildlife-we
  ekends-grosvenor-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_56eaa2db7f5842bcb0d54c142c4d0fb8-occ_e62f915a2ca74c17b1cea07c851
+ ec981@thingstodoinyourcity
+DTSTAMP:20261101T144023Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261108
+SUMMARY:Purdey at Harrods
+DESCRIPTION:Purdey's sporting tweeds\, the new Kalahari jacket\, capes\, 
+ luggage and accessories fill this two-month corner. Popette lists it und
+ er Fashion as a pop-up corner.\nhttps://popette.app/p/ldn-purdey-harrods
+ /
+LOCATION:Harrods\, Harrods\, Men's Designer Collections\, 2nd floor\, 87-
+ 135 Brompton Road\, London SW1X 7XL\, Knightsbridge\, London
+URL:https://popette.app/p/ldn-purdey-harrods/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8747511df39a4ba7af2ce9a1d7dc7fdf-occ_1daabff51ea1420e824fbae14d9
+ d82fd@thingstodoinyourcity
+DTSTAMP:20261101T144359Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261122
+SUMMARY:SYSTEM at Harrods
+DESCRIPTION:Korean label SYSTEM shows new clothing\, bags\, shoes\, Harro
+ ds exclusives and Hyungshin Hwang sculptures. Find it in Harrods' Contem
+ porary Designer area.\nhttps://popette.app/p/ldn-system-harrods/
+LOCATION:Harrods\, Harrods\, Contemporary Designer\, 87-135 Brompton Road
+ \, London SW1X 7XL\, Knightsbridge\, London
+URL:https://popette.app/p/ldn-system-harrods/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_86f2024c251b431f9cc2c0557b9b229e-occ_36c6232701094b17b648c4ca52e
@@ -6853,6 +6834,16 @@ URL:https://www.factmagazines.com/london/united-kingdom/london-united-kin
  this-month
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_673ff77a83054f0ca074db8f6fdd7ce1-occ_096a06bea30e46e689a3defa22b
+ 88b1e@thingstodoinyourcity
+DTSTAMP:20261101T032243Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20261101
+SUMMARY:Frieze Sculpture 2026
+DESCRIPTION:
+LOCATION:English Gardens\, The Regent’s Park\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7698b3cd931d4b00aa0ed3b565eba35e-occ_c2653509adce486a9eed4ce2cee
  75e88@thingstodoinyourcity
 DTSTAMP:20261021T123956Z
@@ -6974,6 +6965,22 @@ DESCRIPTION:New paintings by Hernan Bas set in retail spaces\, where mino
  -bas-london-2026/
 LOCATION:London Gallery I\, London
 URL:https://www.victoria-miro.com/exhibitions/hernan-bas-london-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_296c62fe037c4dbaa7e8a42ad7a8741a-occ_903fcf74f7854a449f88bcfe6f4
+ 5f40b@thingstodoinyourcity
+DTSTAMP:20261101T162750Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20261213
+SUMMARY:Takatori ware and Koishiwara ware
+DESCRIPTION:Discover two ceramic traditions from Koishiwara and Takatori 
+ on the ground floor. Handmade ceramics from six kilns are also available
+  to purchase.\nPrice: Admission Free\nhttps://www.japanhouselondon.uk/wh
+ ats-on/takatori-ware-and-koishiwara-ware/
+LOCATION:The Shop\, 101-111 Kensington High Street\, London\, W8 5SA\, Lo
+ ndon
+URL:https://www.japanhouselondon.uk/whats-on/takatori-ware-and-koishiwara
+ -ware/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a3ac25b787f4499aa5eeda247382cbc4-occ_2333537355244e6694316ebd318
@@ -7394,6 +7401,20 @@ DESCRIPTION:https://www.waddingtoncustot.com/exhibitions/current-forthcom
 LOCATION:Waddington Custot\, London
 URL:https://www.waddingtoncustot.com/exhibitions/current-forthcoming/loca
  tion/1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c92cf356837e474d9e56fb89c51302e3-occ_c0b8f4a3924548ab94d00eab4c2
+ 37351@thingstodoinyourcity
+DTSTAMP:20261101T143959Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261106
+SUMMARY:Stone Island: The Collector Series
+DESCRIPTION:Each week a different collector shows archive Stone Island at
+  Selfridges' Corner Shop. Rare vintage pieces are on sale\, plus a previ
+ ew of AW26.\nhttps://popette.app/p/ldn-stone-island-selfridges/
+LOCATION:Selfridges\, The Corner Shop\, Selfridges\, The Corner Shop\, 40
+ 0 Oxford Street\, London W1A 1AB\, London
+URL:https://popette.app/p/ldn-stone-island-selfridges/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3b6eedd892a34c6bab94791ea95c93e2-occ_9af29842cd24416f9931d5fbc64
@@ -10709,6 +10730,34 @@ LOCATION:Science Museum\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_490ebf2748f74327ba8a7d734c3f0f99-occ_2a6c7567c89b47e4892b13ada6a
+ 9b40e@thingstodoinyourcity
+DTSTAMP:20261101T144548Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20270103
+SUMMARY:Pokémon Space Trail Shop
+DESCRIPTION:A Pokémon shop at the end of a free space trail. It sells As
+ tronaut Pikachu plush\, clothing\, stationery and trading cards.\nPrice:
+  Free timed ticket\, book ahead\nhttps://popette.app/en/london
+LOCATION:Science Museum\, mezzanine\, Science Museum\, mezzanine\, Exhibi
+ tion Road\, London SW7 2DD\, South Kensington\, London
+URL:https://popette.app/en/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_490ebf2748f74327ba8a7d734c3f0f99-occ_e36bef3f82ce41ef8b3d80da40a
+ b1d59@thingstodoinyourcity
+DTSTAMP:20261101T144548Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20270103
+SUMMARY:Pokémon Space Trail Shop
+DESCRIPTION:A Pokémon shop at the end of a free space trail. It sells As
+ tronaut Pikachu plush\, clothing\, stationery and trading cards.\nPrice:
+  Free timed ticket\, book ahead\nhttps://popette.app/en/london
+LOCATION:Science Museum\, mezzanine\, Science Museum\, mezzanine\, Exhibi
+ tion Road\, London SW7 2DD\, South Kensington\, London
+URL:https://popette.app/en/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7624596b3e824ac08b5803524be15df3-occ_ec48ac1016df4f579fdc7c278e5
  3eec0@thingstodoinyourcity
 DTSTAMP:20261029T215321Z
@@ -10796,20 +10845,6 @@ LOCATION:Fashion and Textile Museum\, 83 Bermondsey Street London SE1 3XF
  \, London
 URL:https://fashiontextilemuseum.org/exhibitionsdisplays/ossie-clark-celi
  a-birtwell/?date_from=20261002&date_to=20270411
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4c93bfbf15fc400c9b8651c66ea92ac0-occ_db6a88883178445a82f7c25e752
- d371c@thingstodoinyourcity
-DTSTAMP:20261022T005706Z
-DTSTART:20261002T100000Z
-DTEND:20261101T170000Z
-SUMMARY:Traces
-DESCRIPTION:James D Wilson and Phil Shakespeare return to Green Gallery b
- y popular demand. Their urban and suburban subjects use geometric forms\
- , light and shadow.\nhttps://www.galleriesnow.net/shows/traces-3/
-LOCATION:Green Gallery\, 127 Lee Road\, Blackheath\, SE3 9DS\, London\, L
- ondon
-URL:https://www.galleriesnow.net/shows/traces-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_be640f1abefb4508ac68c1c7cc9b2735-occ_be27692bae9546df9c1f5255342
@@ -11382,6 +11417,20 @@ URL:https://www.culturecalling.com/london/events/beyond-the-visible-symbo
  lism-and-its-legacies
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cd730ed4c219493997d213031356c20e-occ_8ba61c9a7d6b45d7b50f9355655
+ c88f7@thingstodoinyourcity
+DTSTAMP:20261101T143733Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261101
+SUMMARY:May Chow at Little Blue Noodle Bar
+DESCRIPTION:Hong Kong chef May Chow's first UK residency brings a month o
+ f siu mei and Hong Kong comfort food. Dishes are served in a 25-seat noo
+ dle bar.\nhttps://popette.app/p/ldn-may-chow-peninsula/
+LOCATION:Little Blue Noodle Bar\, Little Blue Noodle Bar\, The Peninsula\
+ , 1 Grosvenor Place\, London SW1X 7HJ\, Belgravia\, London
+URL:https://popette.app/p/ldn-may-chow-peninsula/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_65f9b5cfbab14d60be894da0ad84ae41-occ_36387b6ef80e4e2a922f3e7aa2a
  bb591@thingstodoinyourcity
 DTSTAMP:20261030T023912Z
@@ -11502,6 +11551,20 @@ DESCRIPTION:Bradley's first UK solo show since The Box\, Plymouth\, draws
 LOCATION:Pi Artworks London\, 6 Perseverance Works\, 25 - 27 Hackney Road
   E2 7NX\, 6 Perseverance Works\, 25 - 27 Hackney Road E2 7NX\, London
 URL:https://www.piartworks.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d8376e8359784df687c603f36ea92a35-occ_5f9b2e0b872f4768befc80f665b
+ 42b1a@thingstodoinyourcity
+DTSTAMP:20261101T144148Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20270110
+SUMMARY:Lisa Gozlan at Selfridges
+DESCRIPTION:A Canadian jewellery brand's pop-up corner with a claw machin
+ e. Play it to win a bracelet.\nhttps://popette.app/p/ldn-lisa-gozlan-sel
+ fridges/
+LOCATION:Selfridges\, Selfridges\, 400 Oxford Street\, London W1A 1AB\, L
+ ondon
+URL:https://popette.app/p/ldn-lisa-gozlan-selfridges/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2631e53b76a04538b815f3506debbcca-occ_7c7ff05d7f3f444690909069e79
@@ -15404,6 +15467,21 @@ URL:https://www.galleriesnow.net/shows/sturtevant-eat-the-outside-to-ligh
  t-up-the-inside/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0d63a4ea9e564f69901a0f3b7c9e90fc-occ_7b1532885b3249adb76c2aa2b49
+ 3981f@thingstodoinyourcity
+DTSTAMP:20261101T144153Z
+DTSTART:20261015T150000Z
+DTEND;VALUE=DATE:20270117
+SUMMARY:Rochelle Canteen at Twenty8 NoMad
+DESCRIPTION:Shoreditch favourite Rochelle Canteen takes over the NoMad's 
+ restaurant for a three-month residency. It serves evenings Monday to Sat
+ urday\, with hours from 4pm.\nhttps://popette.app/p/ldn-rochelle-canteen
+ -nomad/
+LOCATION:Twenty8 NoMad\, Twenty8 NoMad\, NoMad London\, 28 Bow Street\, L
+ ondon WC2E 7AW\, Covent Garden\, London
+URL:https://popette.app/p/ldn-rochelle-canteen-nomad/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d856c7241d0f4733929f65cddf0d7b3a-occ_c63f8613e02549c0854d9e88d10
  09cc0@thingstodoinyourcity
 DTSTAMP:20261030T110232Z
@@ -15724,6 +15802,19 @@ URL:https://www.londonmuseumtours.com/temporary-exhibitions/wildlife-phot
  ographer-of-the-year-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ae9680a89a4b4a7f8a81d7aa2af802b1-occ_f8cadae8b0264e94b8f9d624dd6
+ ab3ee@thingstodoinyourcity
+DTSTAMP:20261101T143644Z
+DTSTART:20261016T160000Z
+DTEND;VALUE=DATE:20261101
+SUMMARY:BERSHKA SERIES AW26 Pop-Up
+DESCRIPTION:Shop the AW26 party collection early. Make a music video in t
+ he BPM Room\, with NTS DJ sets on Thu and Fri.\nPrice: Free entry\nhttps
+ ://popette.app/p/ldn-bershka-series-shoreditch/
+LOCATION:Shoreditch\, 133 Bethnal Green Road\, London E2 7DG\, London
+URL:https://popette.app/p/ldn-bershka-series-shoreditch/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d0184ee4f20d4e93adbdce8592da41cd-occ_6f9fd38c9b324cbfbc89f9df1c1
  71278@thingstodoinyourcity
 DTSTAMP:20261023T041010Z
@@ -15740,24 +15831,6 @@ UID:cand_545c2e847d39432da34c2dbe520756c1-occ_619a8f65fe434bbfb4c626357e1
 DTSTAMP:20261025T231521Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261101
-SUMMARY:Curse of the Mummy
-DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
-  Halloween show. Included with London Dungeon ticket\; pre-book online t
- o guarantee entry.\nPrice: Included with admission\nhttps://www.thedunge
- ons.com/london/whats-inside/events/halloween/?utm_source=lpla&utm_medium
- =affiliate&utm_campaign=1100l133
-LOCATION:The London Dungeon\, The London Dungeon\, Riverside Building\, C
- ounty Hall\, Westminster Bridge Road\, Westminster\, London\, SE1 7PB\, 
- SE1\, London
-URL:https://www.thedungeons.com/london/whats-inside/events/halloween/?utm
- _source=lpla&utm_medium=affiliate&utm_campaign=1100l133
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_545c2e847d39432da34c2dbe520756c1-occ_31309625bd874a169a83a6f4f1d
- 02611@thingstodoinyourcity
-DTSTAMP:20261025T231521Z
-DTSTART:20261026T110000Z
-DTEND:20261101T150000Z
 SUMMARY:Curse of the Mummy
 DESCRIPTION:A Victorian story of cursed tombs and an unlucky mummy at the
   Halloween show. Included with London Dungeon ticket\; pre-book online t
@@ -16081,6 +16154,16 @@ URL:https://discover.ticketmaster.co.uk/special-events/things-to-do-in-lo
  ndon-this-week-64229/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a85e272b1ef247b6b5a9c409114daad4-occ_82187d88d400450c955467ad122
+ 595fb@thingstodoinyourcity
+DTSTAMP:20261101T032323Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270104
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:
+LOCATION:Lightroom\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_486a5c9b498d4e58b05366a7a93772d3-occ_9c4a772069ab47b8a13d8b4085e
  32315@thingstodoinyourcity
 DTSTAMP:20261021T153926Z
@@ -16307,6 +16390,36 @@ SUMMARY:Hokusai: Thirty-six Views of Mount Fuji\, Iuchi Collection
 DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
 LOCATION:Dulwich Picture Gallery\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6f4bc94a3eb84124bce58f049a73518c-occ_37315c3fdd1e42e6820df3349b4
+ 08b15@thingstodoinyourcity
+DTSTAMP:20261101T162353Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261106
+SUMMARY:Jane Price and James Tweedie RGI – Thompson’s Gallery
+DESCRIPTION:Field Days explores shifting landscapes through light and col
+ our. Price’s new figurative Silent Language series is introduced.\nPri
+ ce: Free\nhttps://makeitmarylebone.co.uk/event/jane-price-and-james-twee
+ die-rgi-thompsons-gallery/
+LOCATION:Thompson's Gallery\, 3 Seymour Place London W1H 5AZ United Kingd
+ om\, London
+URL:https://makeitmarylebone.co.uk/event/jane-price-and-james-tweedie-rgi
+ -thompsons-gallery/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_172d70aa5a1a4ac48c56d186034d414e-occ_c35527c143e148329564610a5eb
+ 4344d@thingstodoinyourcity
+DTSTAMP:20261101T144024Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261117
+SUMMARY:Le Creuset Château Colour Experience
+DESCRIPTION:Le Creuset takes over Harrods' third floor to launch its blue
+ -grey Château shade. An AI camera tracks your gaze and suggests which c
+ olour suits you.\nhttps://popette.app/p/ldn-le-creuset-harrods/
+LOCATION:Harrods\, Linley Kitchen\, Level 3\, 87-135 Brompton Road\, Lond
+ on SW1X 7XL\, London
+URL:https://popette.app/p/ldn-le-creuset-harrods/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_90acd621d23b47b697eb25b0791fab8e-occ_e4beb8978194493aada01fa3355
@@ -16868,6 +16981,20 @@ DESCRIPTION:A major new multi-space exhibition marking 200 years since UC
 LOCATION:UCL Wilkins Building\, Gower Street\, London \, WC1E 6BT\, Londo
  n
 URL:https://bloomsburyfestival.org.uk/whats-on/two-centuries-here
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4a5d074481834903b67c417794911c86-occ_8461a72edc604a3e9b47e71ba19
+ 88dc3@thingstodoinyourcity
+DTSTAMP:20261101T143855Z
+DTSTART:20261021T100000Z
+DTEND:20261101T180000Z
+SUMMARY:Swoon Editions Pop-Up
+DESCRIPTION:Handcrafted furniture and statement pieces\, unreleased desig
+ ns and fabric swatches are on show. Visitors can enter for exclusive dis
+ counts and prizes to win.\nhttps://popette.app/p/ldn-swoon-editions-fitz
+ rovia/
+LOCATION:30 Tottenham Street\, London W1T 4RJ\, Fitzrovia\, London
+URL:https://popette.app/p/ldn-swoon-editions-fitzrovia/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_42ac3a122d8e4bc18f8c3510dd84f02d-occ_a3788179ed544f608df9165f70d
@@ -19573,22 +19700,6 @@ URL:https://batterseapowerstation.co.uk/events/sky-high-fun-for-everyone-
  this-october-half-term-at-the-chimney-lift/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a259683d5ecf4bf4a67536609739fbc8-occ_4d6accba9385404c9526806ef3f
- 7af48@thingstodoinyourcity
-DTSTAMP:20261021T175323Z
-DTSTART:20261024T090000Z
-DTEND:20261101T170000Z
-SUMMARY:Half Term Sketching Station in the Painted Hall
-DESCRIPTION:Borrow sketchbooks and pencils and draw your own artwork insp
- ired by Thornhill’s masterpiece. Drop-in family resources\, with promp
- t cards\, run during opening hours.\nhttps://ornc.org/whats-on/half-term
- -sketching-station-in-the-painted-hall/
-LOCATION:Painted Hall\, Old Royal Naval College\, King William Walk\, Gre
- enwich\, London\, SE10 9NN\, Greenwich\, London\, London
-URL:https://ornc.org/whats-on/half-term-sketching-station-in-the-painted-
- hall/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_cde45b5dc96549e498382006919ef256-occ_c1be3a6ff0d041128e7d28c52d1
  41e36@thingstodoinyourcity
 DTSTAMP:20261022T072207Z
@@ -19775,6 +19886,21 @@ DESCRIPTION:https://www.culturalwednesday.co.uk/best-london-exhibitions-2
  /
 LOCATION:British Museum\, London
 URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad630c90a9a744e183ce3f8ae62ac992-occ_1487f102927a4e6e880f69e3b82
+ dd0bc@thingstodoinyourcity
+DTSTAMP:20261101T143713Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:Beauty of Joseon x How Matcha
+DESCRIPTION:K-beauty brand Beauty of Joseon teams up with How Matcha caf
+ é for limited-edition matcha drinks. A London-wide hidden poster hunt o
+ ffers free drinks and prizes.\nhttps://popette.app/p/ldn-beauty-of-joseo
+ n-how-matcha/
+LOCATION:How Matcha\, How Matcha\, 47 Blandford Street\, London W1U 7HQ\,
+  London
+URL:https://popette.app/p/ldn-beauty-of-joseon-how-matcha/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c42e749900d40fa8ea3da43d8fcc234-occ_f019de2df1b544ed92663d2ede5
@@ -20257,6 +20383,17 @@ LOCATION:WHITECHAPEL\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6c2416b83cb7431986adf99d3c41a164-occ_00e444f06bde4e8990399c04874
+ 4aa98@thingstodoinyourcity
+DTSTAMP:20261101T143147Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:Terrifying Tribute Acts for Halloween at The George Tavern
+DESCRIPTION:https://londontheinside.com/whats-on-this-week/
+LOCATION:The George Tavern\, WHITECHAPEL\, London
+URL:https://londontheinside.com/whats-on-this-week/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e78dbec8df484ba9b392cda4c453bfad-occ_aa779c36644346439a3b83ce2b4
  20989@thingstodoinyourcity
 DTSTAMP:20261029T213241Z
@@ -20369,6 +20506,20 @@ URL:https://chelsea-pensioners.co.uk/events/treasures-royal-hospital-chel
  sea
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_84c552866be14ef2a11f7270e3c5d3f5-occ_6afa35e67bef46aebe1f538d30b
+ 1eb7c@thingstodoinyourcity
+DTSTAMP:20261101T144118Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261119
+SUMMARY:VIXII Pop-Up
+DESCRIPTION:Jewellery brand VIXII returns with its bestsellers and new de
+ signs. Special events are planned during the run.\nhttps://popette.app/p
+ /ldn-vixii-st-christophers-place/
+LOCATION:St Christopher's Place\, St Christopher's Place\, 11-12 Gee's Co
+ urt\, St Christopher's Place\, London W1U 1JN\, London
+URL:https://popette.app/p/ldn-vixii-st-christophers-place/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3a2195052eaa4f8da8cf44a07ec9aa89-occ_bd7a98ab196b48609f1f0af19cd
  29c50@thingstodoinyourcity
 DTSTAMP:20261022T003425Z
@@ -20398,23 +20549,6 @@ DESCRIPTION:Globe actors lead hands-on workshops with games\, character w
 LOCATION:BANKSIDE\, London
 URL:https://www.shakespearesglobe.com/whats-on/young-actors-short-course-
  8-10-years/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8714bf4421aa46058dc4af0ac45e6bfe-occ_94d03e37070045d59efaf33c05a
- 09b8a@thingstodoinyourcity
-DTSTAMP:20261101T055906Z
-DTSTART:20261026T093000Z
-DTEND:20261101T163000Z
-SUMMARY:The Little Gym: Magic and Mischief Gymnastics Camp
-DESCRIPTION:Spooky Halloween quest camp with treasure hunts and daring ob
- stacle courses for ages 3-8. Expert instructors help children build conf
- idence\, agility and creativity.\nhttps://www.westfield.com/en/united-ki
- ngdom/london/events/the-little-gym-magic-and-mischief-gymnastics-camp/13
- 9018
-LOCATION:The Little Gym Westfield\, Ariel Way W12 7SL Shepherd's Bush LON
- DON\, Level 1\, London
-URL:https://www.westfield.com/en/united-kingdom/london/events/the-little-
- gym-magic-and-mischief-gymnastics-camp/139018
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0b37c26a46d64201a5944077112fb234-occ_4100211d8c4f4169b529cee6706
@@ -24578,6 +24712,22 @@ LOCATION:Main Stage\, London
 URL:https://www.rbo.org.uk/tickets-and-events?page=1
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e77dd3e6305f45b5bc9213acb5618cd9-occ_6c34bf790d6742f29d5550779a0
+ 60590@thingstodoinyourcity
+DTSTAMP:20261101T143748Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+SUMMARY:Centellian24 Derma Lab
+DESCRIPTION:Centellian24 brings early-Christmas K-beauty with skincare to
+  try and its Winter Edition set on display. Visitors can also pick up fr
+ ee samples and gifts to take home.\nPrice: Pop-up prices\, free samples\
+ nhttps://popette.app/p/ldn-centellian24-battersea/
+LOCATION:MOIDA\, Battersea Power Station\, MOIDA\, Battersea Power Statio
+ n\, Circus Road West\, Nine Elms\, London SW11 8DD\, Nine Elms\, London\
+ , London
+URL:https://popette.app/p/ldn-centellian24-battersea/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bbb712c66852451dbeffa737b37b3128-occ_2d12c05b95c442d2803e19e7727
  a3ffa@thingstodoinyourcity
 DTSTAMP:20261027T125648Z
@@ -24784,6 +24934,20 @@ LOCATION:Adelphi Theatre\, 409 – 412 Strand\, London\, WC2R 0NS\, Londo
  n
 URL:https://www.factmagazines.com/london/keira-knightley-will-star-on-the
  -london-stage-in-the-lives-of-others
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_37da6df5384d410984eb168ceb981e2e-occ_5e793553e3ef4965b1b49623d42
+ 1a425@thingstodoinyourcity
+DTSTAMP:20261101T152107Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+SUMMARY:La Dame de Pique
+DESCRIPTION:Gothic Opera's Halloween production of Halévy's 1850 opera\,
+  rarely staged since its premiere. Sung in French with English surtitles
+ \, it is a gritty game of power.\nhttps://bac.org.uk/whats-on/la-dame-de
+ -pique
+LOCATION:Battersea Arts Centre\, Lavender Hill London SW11 5TN\, London
+URL:https://bac.org.uk/whats-on/la-dame-de-pique
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f22c60c599134524b1f4b4c5a78ded07-occ_95660c84d4cc404097a6cebdb1a
@@ -25395,22 +25559,6 @@ DESCRIPTION:Andrew Ryan returns with a brand-new show after a sell-out 20
  ith the world.\nhttps://www.londontheatres.com/event/andrew-ryan
 LOCATION:Leicester Square Theatre\, London
 URL:https://www.londontheatres.com/event/andrew-ryan
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_37da6df5384d410984eb168ceb981e2e-occ_6de7c78d25724503996ac41be61
- cf6da@thingstodoinyourcity
-DTSTAMP:20261031T063700Z
-DTSTART:20261029T193000Z
-DTEND;VALUE=DATE:20261101
-SUMMARY:La Dame de Pique
-DESCRIPTION:Gothic Opera's Halloween production of Halévy's 1850 opera\,
-  rarely staged since its premiere. Sung in French with English surtitles
- \, it is a gritty game of power.\nPrice: Band A £50 Standard (£40 Disa
- bled Person)\; Band B £35 Standard (£28 Concessions)\; Band C £25 Sta
- ndard (£20 Concessions)\; £2 transaction fee on all orders\nhttps://ba
- c.org.uk/whats-on/la-dame-de-pique/
-LOCATION:Battersea Arts Centre\, Lavender Hill London SW11 5TN\, London
-URL:https://bac.org.uk/whats-on/la-dame-de-pique/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_48978f2a44174a27bbb21a5ff3ed4877-occ_dcce2c3cc0ef4865941c648893f
@@ -26097,6 +26245,36 @@ LOCATION:Various London venues\, London
 URL:https://thenudge.com/in-the-dark/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d366b231e83e44c3aed35ebcf1ea32bf-occ_8538fdd905c9485eacc0edda80e
+ fbaa2@thingstodoinyourcity
+DTSTAMP:20261022T120207Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:Isabel Nolan: some fundamental forces
+DESCRIPTION:Isabel Nolan's first UK solo show since 2017 surveys works fr
+ om 2005 to 2025 across painting\, sculpture\, photography and tapestry. 
+ The exhibition later travels to Bluecoat\, Liverpool in 2027.\nhttps://w
+ ww.newexhibitions.com/e/67901
+LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Su
+ rrey Quays\, Canada Water\, London
+URL:https://www.newexhibitions.com/e/67901
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d366b231e83e44c3aed35ebcf1ea32bf-occ_ab87f805f8434028bec66925f01
+ c926a@thingstodoinyourcity
+DTSTAMP:20261022T120207Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Isabel Nolan: some fundamental forces
+DESCRIPTION:Isabel Nolan's first UK solo show since 2017 surveys works fr
+ om 2005 to 2025 across painting\, sculpture\, photography and tapestry. 
+ The exhibition later travels to Bluecoat\, Liverpool in 2027.\nhttps://w
+ ww.newexhibitions.com/e/67901
+LOCATION:Southwark Park Galleries\, Southwark Park\, London SE16 2UA\, Su
+ rrey Quays\, Canada Water\, London
+URL:https://www.newexhibitions.com/e/67901
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c5104e0e3b8d4024bcbd080ee839e220-occ_4c55dbf3f3074bb4935e8e59341
  afa3f@thingstodoinyourcity
 DTSTAMP:20261023T074230Z
@@ -26263,6 +26441,36 @@ DESCRIPTION:A new photographic display looks at Koovagam and Indian trans
 LOCATION:Balcony Gallery - above the World Gallery\, 100 London Road\, Fo
  rest Hill London SE23 3PQ\, London
 URL:https://www.horniman.ac.uk/event/meeting-mohini/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_665edc97ddb74ffbafb5b1331cbc47a3-occ_e6f4e29e0dda49e9b57fcaf0a76
+ 7fdf4@thingstodoinyourcity
+DTSTAMP:20261027T064558Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:Modern Masterpieces: Paintings from the Barber Institute of Fine 
+ Arts
+DESCRIPTION:Six exceptional paintings by Van Gogh\, Renoir\, Vuillard and
+  Bonnard are on loan from the Barber Institute. Shown while the Barber I
+ nstitute undergoes major redevelopment.\nhttps://www.newexhibitions.com/
+ e/67855
+LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
+URL:https://www.newexhibitions.com/e/67855
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_665edc97ddb74ffbafb5b1331cbc47a3-occ_770d4fadcd454499b2ad7f4de33
+ cc494@thingstodoinyourcity
+DTSTAMP:20261027T064558Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Modern Masterpieces: Paintings from the Barber Institute of Fine 
+ Arts
+DESCRIPTION:Six exceptional paintings by Van Gogh\, Renoir\, Vuillard and
+  Bonnard are on loan from the Barber Institute. Shown while the Barber I
+ nstitute undergoes major redevelopment.\nhttps://www.newexhibitions.com/
+ e/67855
+LOCATION:Compton Verney\, Warwick CV35 9HZ\, Warwick\, London
+URL:https://www.newexhibitions.com/e/67855
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_92648335e65d4c0391832b0cd52c75d7-occ_c1bbd29ededc47be98b3dc6f2a6
@@ -27222,21 +27430,6 @@ LOCATION:Soft Opening\, 6 Minerva Street\, London E2 9EH\, Cambridge Heat
 URL:https://www.newexhibitions.com/e/69279
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_97080a15b103436ab992eca9bfec6f78-occ_096b7606bab441018939d75b859
- 43bca@thingstodoinyourcity
-DTSTAMP:20261031T042238Z
-DTSTART:20261030T120000Z
-DTEND:20261101T160000Z
-SUMMARY:Baby Shark’s Spooktacular Adventure
-DESCRIPTION:An interactive immersive experience for the whole family\, wi
- th Halloween fun\, shark hugs and photo opportunities. Meet Baby Shark d
- ressed up for Halloween on 30 October.\nhttps://londonpopupcalendar.com/
- events/outernet-london-baby-sharks-spooktacular-adventure
-LOCATION:Outernet\, Tottenham Court Road\, London\, London
-URL:https://londonpopupcalendar.com/events/outernet-london-baby-sharks-sp
- ooktacular-adventure
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_77552ce52f1349668faf3c0d052cc54d-occ_3d2a582a3d05401b9fd3819d293
  ad49c@thingstodoinyourcity
 DTSTAMP:20261031T214235Z
@@ -27250,6 +27443,22 @@ DESCRIPTION:Celebrating The Hunger Games: Sunrise on the Reaping\, with i
 LOCATION:The Atrium\, Westfield London\, Ariel Way\, White City\, London\
  , White City\, London\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a50f9b00441649b9aabdba84465c5565-occ_55c5037a6f8e4db6b1c6ff21524
+ 78753@thingstodoinyourcity
+DTSTAMP:20261101T144324Z
+DTSTART:20261030T120000Z
+DTEND:20261123T200000Z
+SUMMARY:The Hunger Games: The Capitol Experience
+DESCRIPTION:Step into Panem with a Cornucopia installation\, photo spots 
+ and collectible stamps. A world-exclusive film clip is part of the exper
+ ience\, ahead of Sunrise on the Reaping.\nPrice: Free\, booking recommen
+ ded (limited walk-ins)\nhttps://popette.app/p/ldn-hunger-games-capitol-w
+ estfield/
+LOCATION:Westfield London\, The Atrium\, Westfield London\, Ariel Way\, L
+ ondon W12 7GF\, London
+URL:https://popette.app/p/ldn-hunger-games-capitol-westfield/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_43c70baa210e4a9da53628004d2e2a69-occ_b1f1d88654df42aba5d42798a85
@@ -28606,46 +28815,11 @@ URL:https://eventslist.co.uk/london/events/the-story-of-the-westerham-fou
  ndlings-an-exhibition-at-quebec-house-in-collaboration-with-coram
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_83df5b29b27544aba00eb5162aafbc39-occ_0aa22a3d7d444b95947005676e5
- 44cf4@thingstodoinyourcity
-DTSTAMP:20261031T113218Z
-DTSTART:20261031T110000Z
-DTEND:20261101T151000Z
-SUMMARY:‘Churchill: Image and Power’ exhibition at Chartwell in the U
- niform Room
-DESCRIPTION:Winston Churchill's recently conserved uniforms are posed on 
- mannequins in the restored Uniform Room. His Siren Suit\, precursor to t
- he onesie\, is also on show.\nPrice: This event is free\, but normal adm
- ission charges apply for the venue.\nhttps://www.nationaltrust.org.uk/vi
- sit/kent/chartwell/events/8085d313-c301-4355-bc38-a38734cd2ebc
-LOCATION:Chartwell\, Mapleton Road\, Westerham\, Kent\, Westerham\, Kent\
- , London
-URL:https://www.nationaltrust.org.uk/visit/kent/chartwell/events/8085d313
- -c301-4355-bc38-a38734cd2ebc
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_594e7abf8be6404d9157dd7a0522ecb8-occ_4b1b3f913bd24eb1a2e2760e09e
  905ab@thingstodoinyourcity
 DTSTAMP:20261031T172532Z
 DTSTART:20261031T113000Z
 DTEND;VALUE=DATE:20261101
-SUMMARY:Cabinets Unlocked
-DESCRIPTION:Over twenty prized cabinets and writing desks are opened for 
- display around the house. Highlights include the Ivory Cabinet and the M
- arquetry Cabinet\, installed around 1675.\nPrice: Check website\nhttps:/
- /www.nationaltrust.org.uk/visit/london/ham-house-and-garden/events/e09cb
- 9ee-723a-4661-bb9b-639ce3197849
-LOCATION:Ham House and Garden\, Ham Street\, Ham\, Richmond\, Surrey\, Ri
- chmond upon Thames\, London\, London
-URL:https://www.nationaltrust.org.uk/visit/london/ham-house-and-garden/ev
- ents/e09cb9ee-723a-4661-bb9b-639ce3197849
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_594e7abf8be6404d9157dd7a0522ecb8-occ_32fd14af76504ec387ff7a95c32
- def76@thingstodoinyourcity
-DTSTAMP:20261031T172532Z
-DTSTART:20261101T113000Z
-DTEND:20261101T153000Z
 SUMMARY:Cabinets Unlocked
 DESCRIPTION:Over twenty prized cabinets and writing desks are opened for 
  display around the house. Highlights include the Ivory Cabinet and the M
@@ -29632,6 +29806,23 @@ LOCATION:Alcotraz Penitentiary: London\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5980e7f178d8472eb2d2554ad1180dbb-occ_79d65dc663024556bbc4d7467ab
+ e6545@thingstodoinyourcity
+DTSTAMP:20261101T144831Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261130
+SUMMARY:All The Colours of the Rainbow Free Trails for Families
+DESCRIPTION:Lizzie and Harry guide families through museum trails full of
+  puzzles\, riddles and surprises. Children can earn special prizes by co
+ mpleting the adventure.\nPrice: Free event\nhttps://www.visitrichmond.co
+ .uk/events/all-the-colours-of-the-rainbow-free-trails-for-families-p2533
+ 751
+LOCATION:Museum of Richmond\, Old Town Hall\, Whittaker Avenue\, Richmond
+ \, London\, TW9 1TP\, Richmond\, London
+URL:https://www.visitrichmond.co.uk/events/all-the-colours-of-the-rainbow
+ -free-trails-for-families-p2533751
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_85c34cd9a0e44abea09e4eab0c710981-occ_61cd2fd404df43919c96fe01ace
  110a4@thingstodoinyourcity
 DTSTAMP:20261031T113719Z
@@ -29733,10 +29924,11 @@ DTSTAMP:20261101T100105Z
 DTSTART;VALUE=DATE:20261101
 SUMMARY:Black Comedy UK Presents – Laugh Factory
 DESCRIPTION:Price: £15.00 +£0.38 ticket service fee\; £20.00 +£0.50 t
- icket service fee\; £25.00 +£0.63 ticket service fee\nhttps://www.blac
- kcomedyuk.com/event-details/lfnov26
+ icket service fee\; £25.00 +£0.63 ticket service fee\nhttps://backyard
+ comedyclub.co.uk/event/link?ceId=8ee415d6-8576-4ecf-acd1-47b3cf4f550b
 LOCATION:Backyard Comedy Club\, Bethnal Green\, London
-URL:https://www.blackcomedyuk.com/event-details/lfnov26
+URL:https://backyardcomedyclub.co.uk/event/link?ceId=8ee415d6-8576-4ecf-a
+ cd1-47b3cf4f550b
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f5316f606a3e4c2dad52dafe8cbdb8a1-occ_3049e5fdd8ee4bdd83a3c3569e7
@@ -29771,6 +29963,22 @@ DESCRIPTION:Entry is free\; a timed ticket is advised. Start in Room 4 wi
  : £29\nhttps://weekend.london/places/museums/british-museum
 LOCATION:British Museum\, London
 URL:https://weekend.london/places/museums/british-museum
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a93347ae1e424f389bebcf3ea74a6d00-occ_0ce07093a44c4bdea3a430ea8bb
+ 8b5ef@thingstodoinyourcity
+DTSTAMP:20261101T145118Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270129
+SUMMARY:Bubble Planet: An Immersive Experience in London
+DESCRIPTION:Explore 11 interactive themed rooms\, from a giant ball pit t
+ o an infinity room. An optional VR experience adds a magical planet of b
+ ubbles.\nPrice: From £21.90\nhttps://feverup.com/m/134835?irclickid=TO%
+ 3ARGrQvSxyNWrx3YoWKJxhlUkAWR63ZmWVaWk0&irgwc=1
+LOCATION:Unit 20 Fulton Road\, Fulton Road Industrial Units 22-28\, Wembl
+ ey Park\, Wembley\, HA9 0NP\, HA9 0NP\, Wembley\, London
+URL:https://feverup.com/m/134835?irclickid=TO%3ARGrQvSxyNWrx3YoWKJxhlUkAW
+ R63ZmWVaWk0&irgwc=1
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a8191a6a2ae642fd93932f60294aef3f-occ_dbed98bd2fbb4ba0b435f954510
@@ -29852,23 +30060,6 @@ DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
  may
 LOCATION:Camden Town Brewery\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_422df132482a4852aced5e147cbf5b9c-occ_d876741e2fbc4ef786b497456af
- 9f67a@thingstodoinyourcity
-DTSTAMP:20261025T104256Z
-DTSTART;VALUE=DATE:20261101
-DTEND:20261101T153000Z
-SUMMARY:Camden Vintage Furniture & Flea Market - November
-DESCRIPTION:Specialist traders sell original furniture and homewares from
-  the 1920s onwards. Expect lighting\, mirrors\, ceramics and textiles\, 
- with no reproductions.\nPrice: Online: £5 - £4 | On The Door: £6 - £
- 2\nhttps://judysvintagefair.com/events/the-camden-vintage-furniture-flea
- -market-nov/
-LOCATION:Cecil Sharp House\, 2 Regents Park Road\, London NW1 7AY\, Londo
- n
-URL:https://judysvintagefair.com/events/the-camden-vintage-furniture-flea
- -market-nov/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_285137ed22e441e38441bd24d39a80ae-occ_9d5cb5bf52c7459f93ca7e9893c
@@ -30443,23 +30634,6 @@ URL:https://www.abouttimemagazine.co.uk/london/top7-things-to-do-in-londo
  n-this-weekend/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bb60a73dae784f419d73d3dba1b6bd8a-occ_83fe01c786f040d5b8deb6de133
- cef4f@thingstodoinyourcity
-DTSTAMP:20261101T113049Z
-DTSTART;VALUE=DATE:20261101
-DTEND:20261101T160000Z
-SUMMARY:Free* English conversation class at International café
-DESCRIPTION:Volunteers offer friendly English conversation practice with 
- new British culture topics each week. Sessions end with a Bible story\, 
- and refreshments start each meetup.\nPrice: Free\nhttps://www.meetup.com
- /free-english-conversation-class/events/316944950/?eventOrigin=city_even
- ts_today
-LOCATION:Inspire Saint James Clerkenwell\, ECIR OEA\, Inspire at St James
- \, Clerkenwell\, London
-URL:https://www.meetup.com/free-english-conversation-class/events/3169449
- 50/?eventOrigin=city_events_today
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_280cbac39cc14be69ca690a72d177bdb-occ_88fc68a7d4514511a417cb683ce
  97139@thingstodoinyourcity
 DTSTAMP:20261030T114600Z
@@ -30634,6 +30808,17 @@ DESCRIPTION:Said service according to the Book of Common Prayer. Listed o
  rch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f42f738c609a46369d43f8ea6f1d5e56-occ_e29308cca2494a1a8b84d5820e9
+ 3fe42@thingstodoinyourcity
+DTSTAMP:20261101T032303Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Hyde Park Sausage Dog Walk 2026
+DESCRIPTION:Price: Completely free\, no tickets required\nhttps://www.slo
+ anesquarehotel.co.uk/events-in-the-area
+LOCATION:Physical Energy Statue in Hyde Park\, London
+URL:https://www.sloanesquarehotel.co.uk/events-in-the-area
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3e95c782ff0c45efb233c9c5096b0bd9-occ_4d14fb27c278414fad082e10963
@@ -30865,12 +31050,9 @@ SUMMARY:Ken Russell's The Devils
 DESCRIPTION:Censored for decades\, Ken Russell's masterpiece returns full
  y restored in 4K\, cut to Russell's own direction. Every screening featu
  res an exclusive intro from Mark Kermode.\nhttps://actonecinema.co.uk/Ac
- tOneCinema.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMe
- nuItem_0.TcsWebTab_0.TcsPerformance_655721.TcsSection_846
+ tOneCinema.dll/WhatsOn?f=654318
 LOCATION:ActOne Cinema\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/Booking?Booking=TSelectIt
- ems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_6557
- 21.TcsSection_846
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=654318
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8aee2fc5730747aca2d065faa5f402ea-occ_90c8694acd89478682b73eac1ff
@@ -31761,9 +31943,11 @@ DTSTART;VALUE=DATE:20261101
 SUMMARY:Red meets Green vintage bus running day
 DESCRIPTION:Vintage buses run between Camden and Hatfield on the day. Rid
  es are free\, with donations for Children in Need welcome on board.\nPri
- ce: Free\nhttps://www.ianvisits.co.uk/calendar/weekend/
+ ce: Free\nhttps://www.ianvisits.co.uk/calendar/red-meets-green-vintage-b
+ us-running-day-436064
 LOCATION:Various locations\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
+URL:https://www.ianvisits.co.uk/calendar/red-meets-green-vintage-bus-runn
+ ing-day-436064
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7d95d4cfbbe9439cb61a849659b3419d-occ_46f5c5ee85ff4a7484322485f8d
@@ -33482,10 +33666,10 @@ DTSTART;VALUE=DATE:20261101
 SUMMARY:Wildwood
 DESCRIPTION:Prue and Curtis quest through an enchanted forest to rescue h
  er baby brother from a murder of crows. Directed by Travis Knight\, this
-  animated fantasy runs 2hr 12mins.\nhttps://www.olympiccinema.com/whats-
- on
+  animated fantasy runs 2hr 12mins.\nhttps://www.olympiccinema.com/film/w
+ ildwood
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/whats-on
+URL:https://www.olympiccinema.com/film/wildwood
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_14528a4f8d6745039223dc4bab374bc5-occ_a1742879f462408cbbd6f4508fd
@@ -33591,6 +33775,18 @@ BEGIN:VEVENT
 UID:cand_376209b93ad64dd1af252bd7068465c6-occ_d797cb17bda14bfaba617b2c52d
  7aa92@thingstodoinyourcity
 DTSTAMP:20261030T090327Z
+DTSTART:20261101T085000Z
+SUMMARY:London Marathon 2026
+DESCRIPTION:https://www.london-now.co.uk/news/26046569.london-weekend-ful
+ l-list-events/
+LOCATION:London
+URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-e
+ vents/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60fa9a7b058443e8bd553523323619b9-occ_828a586b6cd941ddacb1fbea21f
+ 4db0a@thingstodoinyourcity
+DTSTAMP:20261101T060526Z
 DTSTART:20261101T085000Z
 SUMMARY:London Marathon 2026
 DESCRIPTION:https://www.london-now.co.uk/news/26046569.london-weekend-ful
@@ -34106,38 +34302,6 @@ URL:https://www.visitrichmond.co.uk/events/all-the-colours-of-the-rainbow
  -free-trails-for-families-p2533751
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2aa8262208504de2871761bcb4506b1d-occ_e3b09e8daebb4a63a37578c01f2
- ff184@thingstodoinyourcity
-DTSTAMP:20261101T104759Z
-DTSTART:20261101T110000Z
-DTEND:20261101T150000Z
-SUMMARY:Family Station: Halloween Weekend
-DESCRIPTION:Explore sensory items\, a braille reading corner and art mate
- rials as a family. Completely drop-in\, so come and go whenever suits yo
- u.\nPrice: Free. Drop-in. No booking required.\nhttps://events.bl.uk/eve
- nts/family-station-halloween-weekend
-LOCATION:British Library\, Upper Ground Floor\, British Library\, London\
- , Upper Ground Floor\, London
-URL:https://events.bl.uk/events/family-station-halloween-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7a5d3cd44f414b65b9863cde119b60f7-occ_f847807cf4464cc9adb811c10ed
- 408da@thingstodoinyourcity
-DTSTAMP:20261031T213005Z
-DTSTART:20261101T110000Z
-DTEND:20261101T160000Z
-SUMMARY:IDP Education Fair - Chennai
-DESCRIPTION:Meet leading global universities and apply directly at this f
- air. Explore opportunities to shape your future today.\nhttps://www.idp.
- com/india/events/attend-idp%E2%80%99s-biggest-uk-ireland-international-e
- ducation-fair-%7C-hotel-hyatt-regency-chennai/f20d9147-053e-40db-8ae6-7d
- cd6f04bf98/
-LOCATION:Hotel Hyatt Regency - Chennai\, London
-URL:https://www.idp.com/india/events/attend-idp%E2%80%99s-biggest-uk-irel
- and-international-education-fair-%7C-hotel-hyatt-regency-chennai/f20d914
- 7-053e-40db-8ae6-7dcd6f04bf98/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_eb2c753f3d7c424884b74217fdf530fb-occ_51cc17287d4f4c9390a2a643cac
  aac25@thingstodoinyourcity
 DTSTAMP:20261031T053544Z
@@ -34166,70 +34330,6 @@ DESCRIPTION:Israeli filmmakers examine the systems behind the mass killin
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018771/naza?filte
  r=
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_78f574e3b70e40b8bfd3696aafc
- 6eeb1@thingstodoinyourcity
-DTSTAMP:20261031T114248Z
-DTSTART:20261101T110000Z
-DTEND:20261101T150000Z
-SUMMARY:Second-hand Bookshop
-DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
- or coffee. All proceeds support community engagement programmes.\nPrice:
-  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
- -p2489091
-LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
- l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
- on
-URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_b485ca410708401e8e6c3ea2cd8
- 4c7cd@thingstodoinyourcity
-DTSTAMP:20261031T114248Z
-DTSTART:20261115T110000Z
-DTEND:20261115T150000Z
-SUMMARY:Second-hand Bookshop
-DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
- or coffee. All proceeds support community engagement programmes.\nPrice:
-  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
- -p2489091
-LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
- l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
- on
-URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_2e047d9124ae45998b9d2e0d49b
- b7665@thingstodoinyourcity
-DTSTAMP:20261031T114248Z
-DTSTART:20261206T110000Z
-DTEND:20261206T150000Z
-SUMMARY:Second-hand Bookshop
-DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
- or coffee. All proceeds support community engagement programmes.\nPrice:
-  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
- -p2489091
-LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
- l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
- on
-URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_c017ca6fee674605bead9336eed
- d5ca5@thingstodoinyourcity
-DTSTAMP:20261031T114248Z
-DTSTART:20261220T110000Z
-DTEND:20261220T150000Z
-SUMMARY:Second-hand Bookshop
-DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
- or coffee. All proceeds support community engagement programmes.\nPrice:
-  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
- -p2489091
-LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
- l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
- on
-URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_038b185cba70469997a1cdb89aa4cdf9-occ_109400935f1949a789c221e3d51
@@ -34685,10 +34785,10 @@ SUMMARY:NAZA
 DESCRIPTION:Shot at night on Tel Aviv's rooftops\, the film exposes the s
  ystems behind Israel's calculated mass killing in Gaza. TimeOut called i
  t an indictment.\nPrice: Adult: £10\, Senior: £7\, Student: £7\nhttps
- ://dochouse.org/
+ ://dochouse.org/event/naza
 LOCATION:Bertha DocHouse\, Curzon Bloomsbury\, The Brunswick\, London\, W
  C1N 1AW\, London
-URL:https://dochouse.org/
+URL:https://dochouse.org/event/naza
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_223d29da6cb0410f9b7b2291422de904-occ_a39cfd3781194c3ea9dc1672641
@@ -34699,41 +34799,20 @@ SUMMARY:NAZA
 DESCRIPTION:Shot at night on Tel Aviv's rooftops\, the film exposes the s
  ystems behind Israel's calculated mass killing in Gaza. TimeOut called i
  t an indictment.\nPrice: Adult: £10\, Senior: £7\, Student: £7\nhttps
- ://dochouse.org/
+ ://dochouse.org/event/naza
 LOCATION:Bertha DocHouse\, Curzon Bloomsbury\, The Brunswick\, London\, W
  C1N 1AW\, London
-URL:https://dochouse.org/
+URL:https://dochouse.org/event/naza
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a0bce81cd2a948a8bf5e8fb7dafe3666-occ_5ee7555f470346e3a6ae25aaa3d
- b4b43@thingstodoinyourcity
-DTSTAMP:20261025T121051Z
+UID:cand_10cde2c7551f477bab65e559af059ebd-occ_5036f36de1b2415b85fc45d3a1b
+ 5f4e1@thingstodoinyourcity
+DTSTAMP:20261101T143118Z
 DTSTART:20261101T120000Z
-DTEND:20261101T160000Z
-SUMMARY:Remembrance: A Call to Mind
-DESCRIPTION:Live performances and films mark Remembrance Day with new sto
- ries and mental health perspectives. Commemorations open with a Reveille
-  from Bugle Major Serjeant Jake Pugsley.\nPrice: Free\nhttps://www.rmg.c
- o.uk/whats-on/national-maritime-museum/remembrance-call-mind
-LOCATION:National Maritime Museum\, London
-URL:https://www.rmg.co.uk/whats-on/national-maritime-museum/remembrance-c
- all-mind
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3c3c700626124d4890eee5a82c893cb5-occ_3cc8a236976d44feb7f8a2dddc9
- a92a5@thingstodoinyourcity
-DTSTAMP:20261101T112250Z
-DTSTART:20261101T120000Z
-DTEND:20261101T154500Z
-SUMMARY:Secret London - The beautiful secret wonders of Bayswater and Hyd
- e Park!
-DESCRIPTION:Explore hidden mews\, Notting Hill film sites and quiet corne
- rs of Hyde Park on a 3 or 4.5 mile walk. Arrive 15 minutes early\; the g
- roup leaves at 12pm.\nPrice: Cost £10\nhttps://www.meetup.com/walks-and
- -tours/events/316318372/?eventOrigin=city_events_today
-LOCATION:Lancaster Gate\, Bayswater Road · London\, London
-URL:https://www.meetup.com/walks-and-tours/events/316318372/?eventOrigin=
- city_events_today
+SUMMARY:Raver Tots Halloween Party
+DESCRIPTION:https://wembleypark.com/whats-on
+LOCATION:BOXPARK Wembley\, London
+URL:https://wembleypark.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c791782e1a540abb6953f89612a3c33-occ_5b293e4f48834c79a92f046e86d
@@ -34762,21 +34841,6 @@ DESCRIPTION:Gospel choir performance during a Sunday lunch at Boisdale. T
 LOCATION:Boisdale\, Cabot Place\, London\, E14 4QT\, London
 URL:https://london-concerts.com/event/sunday-lunch-soundhouse-gospel-choi
  r-2026-11-01/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e64a0beb79bb4c8180af5a96451b542d-occ_1e41edbf75f74131b9e248d75ea
- 27e92@thingstodoinyourcity
-DTSTAMP:20261101T090016Z
-DTSTART:20261101T120000Z
-DTEND:20261101T150000Z
-SUMMARY:Sunday chess club (in-person)
-DESCRIPTION:All are welcome to attend this weekly chess club at the libra
- ry. Booking in advance is recommended\, as only limited places are avail
- able.\nPrice: Free\nhttps://www.westminster.gov.uk/event/sunday-chess-cl
- ub-person
-LOCATION:Paddington Library\, Porchester Road London W2 5DU United Kingdo
- m\, Westminster\, London
-URL:https://www.westminster.gov.uk/event/sunday-chess-club-person
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9b0d1a2f07814b5493c4b9679ec1f693-occ_1e6d345279ef4671b8ff1cf4c08
@@ -34938,38 +35002,6 @@ URL:https://www.eventbrite.co.uk/e/dia-de-los-muertos-day-of-the-dead-tic
  kets-2001063300198
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3c63fd089d1b492d8e914ed20304b22a-occ_57ff40f9f65644e48cb41d5de66
- 575f9@thingstodoinyourcity
-DTSTAMP:20261101T112637Z
-DTSTART:20261101T130000Z
-DTEND:20261101T160000Z
-SUMMARY:Girls’ Coffee & Support Club
-DESCRIPTION:Join a monthly girls’ club for real conversations\, genuine
-  connections and supporting one another. Come as you are over good coffe
- e at a cosy café next to the BBC Centre.\nhttps://www.meetup.com/globeg
- irls/events/317077965/?eventOrigin=city_outdoor_activities_events
-LOCATION:BBC Broadcasting House\, BBC Broadcasting House\, Portland Place
- \, W1A 1AA · London\, London
-URL:https://www.meetup.com/globegirls/events/317077965/?eventOrigin=city_
- outdoor_activities_events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_44dd05cf3cac446588ee1960a7f1c1ea-occ_4e4699b855744ffe96869540108
- 5e62d@thingstodoinyourcity
-DTSTAMP:20261101T113012Z
-DTSTART:20261101T130000Z
-DTEND:20261101T160000Z
-SUMMARY:Guitar jam at Pirate Studios\, Dalston
-DESCRIPTION:Players take turns improvising melodies over a chosen chord p
- rogression\, with solos or vocals. Intermediate level is ideal\, but all
-  levels are welcome.\nhttps://www.meetup.com/london-guitar-jams/events/3
- 17052865/?eventOrigin=city_live_music_events
-LOCATION:Pirate Studios\, 42-56 Tottenham Road · London\, Dalston\, Lond
- on
-URL:https://www.meetup.com/london-guitar-jams/events/317052865/?eventOrig
- in=city_live_music_events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_13951729cf7b4c0b8388458f24e71244-occ_d93a2129a56e442f9ad14841e68
  da16d@thingstodoinyourcity
 DTSTAMP:20261027T114239Z
@@ -34995,23 +35027,6 @@ LOCATION:Kingswood House\, Kingswood House\, Seeley Dr\, Kingswood Estate
  \, London SE21 8QN\, London
 URL:https://stayhappening.com/e/the-remembering-a-samhain-half-day-womens
  -wellbeing-retreat-E118SB6T933R3
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c0b6715215a94fff815a5dfc64223495-occ_f3687bd8ec404f1aa294faf6673
- a664b@thingstodoinyourcity
-DTSTAMP:20261031T003245Z
-DTSTART:20261101T130000Z
-DTEND:20261101T154500Z
-SUMMARY:The Yellow Tie + Q&A
-DESCRIPTION:Drama following conductor Sergiu Celibidache from Romanian ch
- ildhood through wartime Germany to musical success. A live Q&A with co-w
- riter and producer James Olivier follows.\nhttps://www.phoenixcinema.co.
- uk/PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPro
- mpt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_790147.TcsSection_543
-LOCATION:Phoenix Cinema\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_790147.TcsSection_543
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_276346fdd7b14af7a463e70b1bdd006d-occ_c612ec200b00470c973bc600e01
@@ -35087,36 +35102,6 @@ LOCATION:Art'otel London Hoxton\, London
 URL:https://clusterflick.com/movies/228326/the-book-of-life/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ff202a136ae44011bab840ea2763d3f7-occ_09e254ab00fc41b9b60006d42a5
- 810ae@thingstodoinyourcity
-DTSTAMP:20261031T122515Z
-DTSTART:20261101T134500Z
-DTEND:20261101T160000Z
-SUMMARY:Dawn of the Living Skaters!
-DESCRIPTION:Listed under Community at London Friday Night Skate. The pric
- e is not listed\, so Near Here suggests asking before you go.\nPrice: No
- t listed — worth a quick ask\nhttps://account.fleggz.com/DmnyR5QbLcpw7
- vu
-LOCATION:London Friday Night Skate\, Hyde Park Corner\, London\, W2 2UH\,
-  Hyde Park Corner\, Greater London\, London
-URL:https://account.fleggz.com/DmnyR5QbLcpw7vu
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ff202a136ae44011bab840ea2763d3f7-occ_9b6f7227ff1a4df998602cffffc
- 565f2@thingstodoinyourcity
-DTSTAMP:20261031T122515Z
-DTSTART:20261101T140000Z
-DTEND:20261101T160000Z
-SUMMARY:Dawn of the Living Skaters!
-DESCRIPTION:Listed under Community at London Friday Night Skate. The pric
- e is not listed\, so Near Here suggests asking before you go.\nPrice: No
- t listed — worth a quick ask\nhttps://account.fleggz.com/DmnyR5QbLcpw7
- vu
-LOCATION:London Friday Night Skate\, Hyde Park Corner\, London\, W2 2UH\,
-  Hyde Park Corner\, Greater London\, London
-URL:https://account.fleggz.com/DmnyR5QbLcpw7vu
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_fd68cb76e7e14667961e963c3e7e4a13-occ_cbafa58238024bf49cc53b614be
  25b63@thingstodoinyourcity
 DTSTAMP:20261031T190906Z
@@ -35177,173 +35162,6 @@ LOCATION:Ironworks\, Scarab Close\, London\, Greater London\, E16 1AF\, L
 URL:https://london-concerts.com/event/charlotte-de-witte-2026-11-01/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_5fcc1956b248452992019d5b991
- c5168@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261101T140000Z
-DTEND:20261101T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_cdf1e664374f47a199f89a99c4b
- 99cf1@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261108T140000Z
-DTEND:20261108T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_4403af6586ed4c01ad72f3374f7
- 3a6e5@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261115T140000Z
-DTEND:20261115T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_dec862b17ee3461b874cbd086f6
- 611b2@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_335af8ca8082438ea371c37cccb
- 3108d@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261129T140000Z
-DTEND:20261129T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_b145a07aae764bea85564ab5690
- 1301d@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261213T140000Z
-DTEND:20261213T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_694b51ad570145be9c56585ed3d
- 09473@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261220T140000Z
-DTEND:20261220T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_c395b783f6674193842b8b76dba
- 250fe@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20261227T140000Z
-DTEND:20261227T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_7dfea581d423487eaec8ff8840c
- 9b859@thingstodoinyourcity
-DTSTAMP:20261101T044036Z
-DTSTART:20270103T140000Z
-DTEND:20270103T160000Z
-SUMMARY:Death\, Debauchery & Doctors in Soho
-DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
- octors on a two-hour walk through Soho. Expect some sexual content (hist
- orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
- tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
- 27
-LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
- G\, Bloomsbury\, London
-URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
- -421027
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3d0b0d423297492d87678b93f3082979-occ_8938f1bf7b4a41e3a460ec26244
- 05fac@thingstodoinyourcity
-DTSTAMP:20261031T090714Z
-DTSTART:20261101T140000Z
-DTEND:20261101T163000Z
-SUMMARY:First Scares - 14.00
-DESCRIPTION:Exploding Cinema presents the latest independent short films 
- from around the world\, amid psychedelic projections. Live music\, Filmm
- aker Q&As and a raffle join the screenings.\nPrice: £22.50 (£23.83 inc
- l. fees)\nhttps://ticketlab.app/events/cinemamuseum
-LOCATION:The Cinema Museum\, London
-URL:https://ticketlab.app/events/cinemamuseum
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ae99ef951cb846ebbb4af20b48f9e756-occ_47e396019c2145a58e86ea769f5
  b8cca@thingstodoinyourcity
 DTSTAMP:20261031T090640Z
@@ -35369,21 +35187,6 @@ DESCRIPTION:A community screening celebrating global recognition of Filip
  land
 LOCATION:Cineworld O2\, Peninsula Square\, London\, SE100DX\, London
 URL:https://tickts.co.uk/events/forgotten-island
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0ef6c3dd8a6644c5a89de49e88c06d85-occ_2a0eb0040a144e4ba72b1a307a2
- 25c40@thingstodoinyourcity
-DTSTAMP:20261025T141057Z
-DTSTART:20261101T140000Z
-DTEND:20261101T153000Z
-SUMMARY:Global Cultures: Manzai Lecture and Workshop
-DESCRIPTION:Participants learn the Japanese comedy style of manzai\, pair
-  into duos and write a short skit. Visiting performers from Japan lead t
- he session\, which is in English.\nhttps://lectures.london/cambridge-uni
- versity/global-cultures-manzai-lecture-and-workshop-1-nov-2026/
-LOCATION:West Court Jesus College\, London
-URL:https://lectures.london/cambridge-university/global-cultures-manzai-l
- ecture-and-workshop-1-nov-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_41af20d28e6b42128c550a9556ef82e1-occ_5ba37924f2044a7fbffd4e8dd91
@@ -35669,23 +35472,6 @@ URL:https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelec
  ion_1299
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d483ffaff5ab4c61b423596086d69ec6-occ_461ec67c6ad741ad8763d9146a4
- d0fd5@thingstodoinyourcity
-DTSTAMP:20261030T145312Z
-DTSTART:20261101T140000Z
-DTEND:20261101T163000Z
-SUMMARY:Sloane Square to Fulham Broadway via Earls Court
-DESCRIPTION:A social 'walk & talk' through Chelsea\, Earl's Court and Ful
- ham\, mostly on picturesque side streets. It ends at a Wetherspoons and 
- has fairly short\, easy terrain.\nPrice: Free\nhttps://www.meetup.com/fu
- n-friendly-london-walks-with-matt/events/316267569/?eventOrigin=city_out
- door_activities_events
-LOCATION:Outside Sloane Square Station\, Kings Road\, SW3 5EW · London\,
-  London
-URL:https://www.meetup.com/fun-friendly-london-walks-with-matt/events/316
- 267569/?eventOrigin=city_outdoor_activities_events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_aac06686c89c45a3be0fb5dfcdf4c1c3-occ_e7e69fb8241f4b90a4fbee983b8
  832e3@thingstodoinyourcity
 DTSTAMP:20261101T142417Z
@@ -35728,21 +35514,6 @@ LOCATION:The Nickel\, Clerkenwell\, London
 URL:https://thenickel.co.uk/screening/772
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5c7c8ce977f9498581d69e11b3cb231c-occ_94182502bf6547eca4b7573413f
- 91e57@thingstodoinyourcity
-DTSTAMP:20261101T113010Z
-DTSTART:20261101T140000Z
-DTEND:20261101T160000Z
-SUMMARY:Trending in China 热搜中国
-DESCRIPTION:Each month\, join a fun\, social session exploring Chinese cu
- lture through viral clips and trending news. All levels welcome\, with a
- n expert host providing active support.\nPrice: £10\nhttps://www.meetup
- .com/chinaunbound/events/314829268/?eventOrigin=city_events_today
-LOCATION:Working From_Southwark\, 32 Blackfriars Road · London\, London
-URL:https://www.meetup.com/chinaunbound/events/314829268/?eventOrigin=cit
- y_events_today
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c079f1f6031d40409d964ebf0ecc8366-occ_a5cfba00f4454a8c8b62fd2f90f
  75bda@thingstodoinyourcity
 DTSTAMP:20261031T105913Z
@@ -35782,22 +35553,6 @@ LOCATION:London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10229615
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0748df1db73e42219337ff4e041f1172-occ_df7e694fbcae47dd9ef8663cd6f
- 405aa@thingstodoinyourcity
-DTSTAMP:20261101T060944Z
-DTSTART:20261101T141500Z
-DTEND:20261101T154700Z
-SUMMARY:Fatherland
-DESCRIPTION:Price: STANDARD £14.00 CONCESSION £12.00 MEMBER £11.50 UND
- ER 25S MEMBER £5.00\nhttps://cinelumiere.savoysystems.co.uk/CineLumiere
- .dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.T
- csPerformance_7184765.TcsSection_3841519
-LOCATION:Ciné Lumière\, London
-URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
- aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71847
- 65.TcsSection_3841519
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4109521be6904d1da5e5f413501b8279-occ_86f86e46a0ea42a89ce0c085df4
  3d23f@thingstodoinyourcity
 DTSTAMP:20261023T140149Z
@@ -35834,158 +35589,6 @@ DESCRIPTION:Wednesday and Pugsley Addams plot to get rid of the new baby
  ster.\nhttps://clusterflick.com/movies/2758/addams-family-values/
 LOCATION:Finsbury Park Picturehouse\, London
 URL:https://clusterflick.com/movies/2758/addams-family-values/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_32282e9120014336b9441b6c8a2
- 5f273@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261101T143000Z
-DTEND:20261101T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_2db02a74b42f4b18a361770d98f
- b9112@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261107T143000Z
-DTEND:20261107T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_8a2bc833e3284040900abbb89ee
- 27697@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261108T143000Z
-DTEND:20261108T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_11aad4a9c5c94101bccf485c3bd
- cbdfb@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261114T143000Z
-DTEND:20261114T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_98c845b300c1452dbbe9cb5699e
- 2c7b6@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261115T143000Z
-DTEND:20261115T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_914a3aed77a247f0a732a987f94
- e209f@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261121T143000Z
-DTEND:20261121T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_0e095c78ab0a4ca9b0ce7fe0c14
- c86d2@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261122T143000Z
-DTEND:20261122T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_ae355fcc160c4745b88546a1704
- 9be92@thingstodoinyourcity
-DTSTAMP:20261101T055235Z
-DTSTART:20261128T143000Z
-DTEND:20261128T163000Z
-SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
-DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
- lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
-  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
- ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
- the-421025
-LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
- herhithe\, London
-URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
- erhithe-421025
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_47805a54d904476893bf02d62adc001b-occ_36469feaa56041939a193ea0182
- 992b4@thingstodoinyourcity
-DTSTAMP:20261030T150344Z
-DTSTART:20261101T143000Z
-DTEND:20261101T153000Z
-SUMMARY:Kids: Create an Interactive Story of Kindness
-DESCRIPTION:Kids aged 6–10 and their families make an interactive story
- book on iPad about kindness. They draw\, record sounds and add 3D shapes
- \, with devices provided.\nhttps://www.apple.com/uk/today/event/kids-cre
- ate-interactive-story-of-kindness/7515781231779610624/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/kids-create-interactive-story-of
- -kindness/7515781231779610624/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_08f481c364d440aaaefbec26d38b0611-occ_9ff443630e3e4bd19cd6b43f56c
@@ -36234,9 +35837,9 @@ SUMMARY:NAZA
 DESCRIPTION:Designers and operators of Israel's systems speak in secret r
  ooftop talks in Tel Aviv. Directed by Oscar-winning film-makers Yuval Ab
  raham and Rachel Szor.\nhttps://actonecinema.co.uk/ActOneCinema.dll/What
- sOn
+ sOn?f=667515
 LOCATION:ActOne Cinema\, 119 - 121 High Street\, London\, W3 6NA\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=667515
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bec91e8a8b564aea82b73f8caf18d4b6-occ_08ff8e9e4d9948d8b1063b03cb5
@@ -36247,9 +35850,9 @@ SUMMARY:NAZA
 DESCRIPTION:Designers and operators of Israel's systems speak in secret r
  ooftop talks in Tel Aviv. Directed by Oscar-winning film-makers Yuval Ab
  raham and Rachel Szor.\nhttps://actonecinema.co.uk/ActOneCinema.dll/What
- sOn
+ sOn?f=667515
 LOCATION:ActOne Cinema\, 119 - 121 High Street\, London\, W3 6NA\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=667515
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_785a0336cc3c47c2a477ed26b47833ed-occ_2e53d8d1c2434881ac4681f76d6
@@ -36412,13 +36015,11 @@ SUMMARY:It’s Only the End of the World
 DESCRIPTION:A writer's homecoming after twelve years erupts into bitter f
  amily confrontations. Winner of the Grand Prix at Festival de Cannes 201
  6.\nPrice: STANDARD £11.00 CONCESSION £9.00 MEMBER £8.50 UNDER 25S ME
- MBER £5.00\nhttps://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSel
- ectItems.waSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerform
- ance_6979337.TcsSection_3841519
+ MBER £5.00\nhttps://www.institut-francais.org.uk/cinema/its-only-the-en
+ d-of-the-world
 LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
- aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_69793
- 37.TcsSection_3841519
+URL:https://www.institut-francais.org.uk/cinema/its-only-the-end-of-the-w
+ orld
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8deab88d732b4ddebac30fecac61c1da-occ_ccb9c12b79a5430692e73c5ebc7
@@ -36540,23 +36141,6 @@ LOCATION:MARKETHALLS Paddington\, 1 Paddington Square\, London W2 1DL.\,
  Paddington London\, London
 URL:https://www.meetup.com/hola-londres/events/316484897/?eventOrigin=cit
  y_events_today
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_341e05eb0a604789a5515529d031e411-occ_277d2b7693ff4b7d88c6131f5f2
- 003d5@thingstodoinyourcity
-DTSTAMP:20261025T161413Z
-DTSTART:20261101T160000Z
-DTEND:20261101T170000Z
-SUMMARY:Ted Milligan: False Crime Documentary (WIP)
-DESCRIPTION:A small town's murder becomes a true-crime parody told throug
- h archival footage and talking heads. A new multi-media show from award-
- winning character comedian Ted Milligan.\nPrice: Unreserved seating - £
- 8.54 + 96p booking fee\nhttps://www.angelcomedy.co.uk/event-detail/ted-m
- illigan-false-crime-documentary-wip-sun-1st-nov-the-bill-murray-london-t
- ickets-202611011600/
-LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/ted-milligan-false-crime-d
- ocumentary-wip-sun-1st-nov-the-bill-murray-london-tickets-202611011600/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_200323c5d6e9494486aa888c411a0679-occ_75347b9d79a44e9c9acf062cb7d
@@ -38941,11 +38525,13 @@ DTSTART:20261106T193000Z
 SUMMARY:OSP Shoegaze & Dream Pop Weekender #6
 DESCRIPTION:Other Side Promotions present the sixth annual weekender\, wi
  th ten international shoegaze and dream pop bands over two days. Single-
- day and weekend tickets are available.\nhttps://stayhappening.com/london
- --workshops
+ day and weekend tickets are available.\nhttps://stayhappening.com/e/osp-
+ shoegaze-andamp-dream-pop-weekender-6-resplandor-cigarettes-for-breakfas
+ t-lemondaze-more-E2ISYPURHAY
 LOCATION:Strongroom Bar\, 120-124 Curtain Road\, London\, United Kingdom\
  , London
-URL:https://stayhappening.com/london--workshops
+URL:https://stayhappening.com/e/osp-shoegaze-andamp-dream-pop-weekender-6
+ -resplandor-cigarettes-for-breakfast-lemondaze-more-E2ISYPURHAY
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_82fb4aa872194453913d1925a9f4d000-occ_7c566f21baa241fc89ade137408
@@ -39054,6 +38640,125 @@ DESCRIPTION:Inaugural three-month festival celebrating traditions along t
 LOCATION:World Heart Beat Embassy Gardens\, World Heart Beat Embassy Gard
  ens Ponton Road Nine Elms London SW11 7BD\, Nine Elms\, London
 URL:https://www.timeout.com/london/things-to-do/silk-road-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_2db02a74b42f4b18a361770d98f
+ b9112@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261107T143000Z
+DTEND:20261107T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_8a2bc833e3284040900abbb89ee
+ 27697@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261108T143000Z
+DTEND:20261108T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_11aad4a9c5c94101bccf485c3bd
+ cbdfb@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261114T143000Z
+DTEND:20261114T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_98c845b300c1452dbbe9cb5699e
+ 2c7b6@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261115T143000Z
+DTEND:20261115T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_914a3aed77a247f0a732a987f94
+ e209f@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261121T143000Z
+DTEND:20261121T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_0e095c78ab0a4ca9b0ce7fe0c14
+ c86d2@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261122T143000Z
+DTEND:20261122T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_ae355fcc160c4745b88546a1704
+ 9be92@thingstodoinyourcity
+DTSTAMP:20261101T055235Z
+DTSTART:20261128T143000Z
+DTEND:20261128T163000Z
+SUMMARY:Ahoy! Mayflower & the Ships of Rotherhithe
+DESCRIPTION:Explore ancient Rotherhithe Village\, hearing tales of the Pi
+ lgrim Fathers and Brunel's Thames Tunnel. It also takes in the Mayflower
+  pub and Stave Hill Ecological Park.\nPrice: Standard Ticket: £20.00\nh
+ ttps://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-rotherhi
+ the-421025
+LOCATION:Bermondsey tube station\, Jamaica Road\, London\, SE16 4SN\, Rot
+ herhithe\, London
+URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
+ erhithe-421025
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_21530bfd46814419b8ad09812a99e29f-occ_4d9b47d103e34fd0b9c6d7a4c56
@@ -42496,6 +42201,142 @@ LOCATION:Avondale Park\, 8 Walmer Road W11 4EY United Kingdom\, London
 URL:https://www.rbkc.gov.uk/events/tai-chi-4
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_cdf1e664374f47a199f89a99c4b
+ 99cf1@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_4403af6586ed4c01ad72f3374f7
+ 3a6e5@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_dec862b17ee3461b874cbd086f6
+ 611b2@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_335af8ca8082438ea371c37cccb
+ 3108d@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_b145a07aae764bea85564ab5690
+ 1301d@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261213T140000Z
+DTEND:20261213T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_694b51ad570145be9c56585ed3d
+ 09473@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261220T140000Z
+DTEND:20261220T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_c395b783f6674193842b8b76dba
+ 250fe@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20261227T140000Z
+DTEND:20261227T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94c20d42d9424e59aa63eed2ed0cee2b-occ_7dfea581d423487eaec8ff8840c
+ 9b859@thingstodoinyourcity
+DTSTAMP:20261101T044036Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:Death\, Debauchery & Doctors in Soho
+DESCRIPTION:Meet madams of bawdy houses\, body snatchers and benevolent d
+ octors on a two-hour walk through Soho. Expect some sexual content (hist
+ orical and tasteful) and some gore.\nPrice: Standard Ticket: £20.00\nht
+ tps://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho-4210
+ 27
+LOCATION:Tottenham Court Road tube station\, Oxford Street London WC1A 1D
+ G\, Bloomsbury\, London
+URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
+ -421027
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a73855600260453dad4a72fd65131e71-occ_40315bf68fac49d4b54b0418f7b
  8b3a8@thingstodoinyourcity
 DTSTAMP:20261031T101137Z
@@ -43243,6 +43084,54 @@ DESCRIPTION:Activity stations throughout the Painted Hall invite families
   Free\nhttps://ornc.digitickets.co.uk/event-tickets/47912?catID=69529&
 LOCATION:Painted Hall\, London
 URL:https://ornc.digitickets.co.uk/event-tickets/47912?catID=69529&
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_b485ca410708401e8e6c3ea2cd8
+ 4c7cd@thingstodoinyourcity
+DTSTAMP:20261031T114248Z
+DTSTART:20261115T110000Z
+DTEND:20261115T150000Z
+SUMMARY:Second-hand Bookshop
+DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
+ or coffee. All proceeds support community engagement programmes.\nPrice:
+  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
+ -p2489091
+LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
+ l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
+ on
+URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_2e047d9124ae45998b9d2e0d49b
+ b7665@thingstodoinyourcity
+DTSTAMP:20261031T114248Z
+DTSTART:20261206T110000Z
+DTEND:20261206T150000Z
+SUMMARY:Second-hand Bookshop
+DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
+ or coffee. All proceeds support community engagement programmes.\nPrice:
+  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
+ -p2489091
+LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
+ l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
+ on
+URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_69480a6658a841d5a23b6a1d782daeb6-occ_c017ca6fee674605bead9336eed
+ d5ca5@thingstodoinyourcity
+DTSTAMP:20261031T114248Z
+DTSTART:20261220T110000Z
+DTEND:20261220T150000Z
+SUMMARY:Second-hand Bookshop
+DESCRIPTION:Browse second-hand fiction and non-fiction over a cup of tea 
+ or coffee. All proceeds support community engagement programmes.\nPrice:
+  Free event\nhttps://www.visitrichmond.co.uk/events/second-hand-bookshop
+ -p2489091
+LOCATION:English Heritage Marble Hill House\, English Heritage Marble Hil
+ l House\, Twickenham\, Twickenham\, London\, TW1 2NL\, Twickenham\, Lond
+ on
+URL:https://www.visitrichmond.co.uk/events/second-hand-bookshop-p2489091
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6308000594e248eea09215280377f9de-occ_b9cc93de429a4d11a07a8e12f82
