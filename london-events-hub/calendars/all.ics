@@ -2735,6 +2735,19 @@ LOCATION:Design Museum\, Level 1\, London
 URL:https://designmuseum.org/exhibitions/platform-simone-brewster
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_33f8bc2fdeed4727a784e3c6900
+ 5c30e@thingstodoinyourcity
+DTSTAMP:20261029T115106Z
+DTSTART:20261108T100000Z
+SUMMARY:PLATFORM: Simone Brewster
+DESCRIPTION:The second PLATFORM display presents designer Simone Brewster
+ 's first-ever museum show across four sections. It features the new 'Neg
+ rita' bench and a sound piece.\nPrice: Free to visit\nhttps://designmuse
+ um.org/exhibitions/platform-simone-brewster
+LOCATION:Design Museum\, Level 1\, London
+URL:https://designmuseum.org/exhibitions/platform-simone-brewster
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_02df153d0c154d14a9c8f8c52275245f-occ_52947e5c9c434f59bfe361bec54
  ec1bd@thingstodoinyourcity
 DTSTAMP:20261023T012844Z
@@ -2765,6 +2778,19 @@ UID:cand_02df153d0c154d14a9c8f8c52275245f-occ_6e339f465166455581135e4c611
  77111@thingstodoinyourcity
 DTSTAMP:20261023T012844Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Voyage to the Deep – Underwater Adventures
+DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
+ ns-london/
+LOCATION:Horniman Museum\, London
+URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_02df153d0c154d14a9c8f8c52275245f-occ_7a9a3ee729924ae9990a177fae3
+ 7f754@thingstodoinyourcity
+DTSTAMP:20261023T012844Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
 SUMMARY:Voyage to the Deep – Underwater Adventures
 DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
@@ -6131,6 +6157,20 @@ DESCRIPTION:Amateur and professional photographers entered 11 adult categ
  .horniman.ac.uk/event/british-wildlife-photography-awards
 LOCATION:The Studio\, London
 URL:https://www.horniman.ac.uk/event/british-wildlife-photography-awards
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_109ef4a91e184a4888f1d06562a7bc67-occ_1d58e1371dd0407a9bcf673f94d
+ 54df8@thingstodoinyourcity
+DTSTAMP:20261101T104613Z
+DTSTART:20260717T090000Z
+DTEND:20270221T173000Z
+SUMMARY:British Wildlife Photography Awards
+DESCRIPTION:Explore the best of British wildlife photography across adult
+ \, youth and video categories. Be guided around the exhibition in the ph
+ otographers’ own words.\nPrice: Free\nhttps://www.horniman.ac.uk/event
+ /british-wildlife-photography-awards/
+LOCATION:Horniman Museum and Gardens\, London
+URL:https://www.horniman.ac.uk/event/british-wildlife-photography-awards/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7dff0a0f16d54643a05c28f87ec4fc24-occ_455e6c2b608f4eeb887f639627e
@@ -11085,6 +11125,18 @@ URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
  s-in-london-open-now
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5b35df98a12a47109ae70edbe77fc679-occ_a24cb627f2c14b1594cfc2950e9
+ afc47@thingstodoinyourcity
+DTSTAMP:20261023T034019Z
+DTSTART:20261108T100000Z
+SUMMARY:Es Devlin: Other Worlds
+DESCRIPTION:https://www.artfund.org/explore/get-inspired/features/best-ex
+ hibitions-in-london-open-now
+LOCATION:Design Museum\, London
+URL:https://www.artfund.org/explore/get-inspired/features/best-exhibition
+ s-in-london-open-now
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_373c2735b6624c43b91a00394e328a0f-occ_e0028abd687348238138d741bec
  2b424@thingstodoinyourcity
 DTSTAMP:20261023T025525Z
@@ -11366,6 +11418,17 @@ UID:cand_4c1e8eed063e4a70b9f91ebcc132e31e-occ_3a5c287025824966827bfa993bd
  e44bd@thingstodoinyourcity
 DTSTAMP:20261028T225352Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270103
+SUMMARY:Pokémon Space Trail
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Science Museum\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c1e8eed063e4a70b9f91ebcc132e31e-occ_807d26c327a04f4bbed8db9f5a9
+ 0a0bb@thingstodoinyourcity
+DTSTAMP:20261028T225352Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270103
 SUMMARY:Pokémon Space Trail
 DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
@@ -11823,6 +11886,20 @@ UID:cand_da34979efab94ee095bcdad8996e5c42-occ_203c61dff8914c7bb39fc7eb261
 DTSTAMP:20261028T012534Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261128
+SUMMARY:Visionary Landscapes
+DESCRIPTION:New Swedenborg House exhibition pairing historic and contempo
+ rary works on landscape and vision. Curated by Stephen McNeilly\, it sho
+ ws recent Blake and Finch acquisitions.\nPrice: Free\nhttps://bloomsbury
+ festival.org.uk/whats-on/visionary-landscapes
+LOCATION:Swedenborg House\, 20-21 Bloomsbury Way \, WC1A 2TH\, London
+URL:https://bloomsburyfestival.org.uk/whats-on/visionary-landscapes
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_da34979efab94ee095bcdad8996e5c42-occ_b7d602d6797247e5bf4307aeb57
+ f1af0@thingstodoinyourcity
+DTSTAMP:20261028T012534Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261216
 SUMMARY:Visionary Landscapes
 DESCRIPTION:New Swedenborg House exhibition pairing historic and contempo
  rary works on landscape and vision. Curated by Stephen McNeilly\, it sho
@@ -13060,6 +13137,22 @@ UID:cand_263c4d9b396a439e8792a45545c1d4ea-occ_79a8eeb7ddb0413a906794c5a94
  73dee@thingstodoinyourcity
 DTSTAMP:20261021T201324Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270110
+SUMMARY:Justin Caguiat: Change Ringing
+DESCRIPTION:Thermochromic paintings shift with heat and light in this sit
+ e-responsive installation. Bronze bells cast as flowers and seeds ring i
+ n changing sequences.\nPrice: £0.00\nhttps://serpentinegalleries.ticket
+ ing.veevartapp.com/tickets/view/list
+LOCATION:Serpentine South Gallery\, Kensington Gardens\, London W2 3XA\, 
+ London
+URL:https://serpentinegalleries.ticketing.veevartapp.com/tickets/view/lis
+ t
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_263c4d9b396a439e8792a45545c1d4ea-occ_ce4e8e19ade04745b9f435dafd4
+ 6d7e5@thingstodoinyourcity
+DTSTAMP:20261021T201324Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270110
 SUMMARY:Justin Caguiat: Change Ringing
 DESCRIPTION:Thermochromic paintings shift with heat and light in this sit
@@ -17523,6 +17616,19 @@ DESCRIPTION:Guests enter by a different entrance into sections not previo
  blended with lighting\, sound and projection.\nPrice: From £39 adults\,
   £36 concessions and children\nhttps://www.londonxlondon.com/clapham-so
  uth-ghosts-of-the-underground
+LOCATION:Clapham South deep-level shelter\, Balham Hill\, London SW12\, L
+ ondon
+URL:https://www.londonxlondon.com/clapham-south-ghosts-of-the-underground
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d1580d2363054282b7d06d47772b69d1-occ_c1026839e698487cbb908073d41
+ 9dfa3@thingstodoinyourcity
+DTSTAMP:20261101T112144Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261101
+SUMMARY:Clapham South: Ghosts of the Underground
+DESCRIPTION:Price: From £39 adults\, £36 concessions and children\nhttp
+ s://www.londonxlondon.com/clapham-south-ghosts-of-the-underground
 LOCATION:Clapham South deep-level shelter\, Balham Hill\, London SW12\, L
  ondon
 URL:https://www.londonxlondon.com/clapham-south-ghosts-of-the-underground
@@ -24764,6 +24870,17 @@ LOCATION:V&A South Kensington\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3aa1c514d551411a88b2398aa6da66aa-occ_4e8f57d02056408c9bd933969b7
+ 293a4@thingstodoinyourcity
+DTSTAMP:20261028T223411Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270530
+SUMMARY:Degrees of Disruption: Vera Molnar and Generative Art
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:V&A South Kensington\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec80dcbf343c4f1b99f8a043938697aa-occ_f84e2645e22842809611b847a8f
  b3d30@thingstodoinyourcity
 DTSTAMP:20261028T092954Z
@@ -24897,6 +25014,20 @@ UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_2bb8ea7e9a8b4274b978f8ff07d
  a61a8@thingstodoinyourcity
 DTSTAMP:20261028T000110Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270117
+SUMMARY:Freddie Mercury | Splendid Things
+DESCRIPTION:Eight looks span Freddie Mercury's iconic career\, from music
+  videos to legendary performances. A free\, no-ticket trail takes visito
+ rs across the museum.\nPrice: Free - no booking required\nhttps://www.va
+ m.ac.uk/exhibitions/freddie-mercury-splendid-things
+LOCATION:V&A South Kensington\, Cromwell Road London\, SW7 2RL\, London
+URL:https://www.vam.ac.uk/exhibitions/freddie-mercury-splendid-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_bf6d70be2a754d05984a86601e7
+ 2e3f2@thingstodoinyourcity
+DTSTAMP:20261028T000110Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270117
 SUMMARY:Freddie Mercury | Splendid Things
 DESCRIPTION:Eight looks span Freddie Mercury's iconic career\, from music
@@ -25059,6 +25190,342 @@ UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_01c4b582208a463d9a480c7ec29
  c49bd@thingstodoinyourcity
 DTSTAMP:20261021T191519Z
 DTSTART:20261101T150000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_65f0b93149234e91bcfd485eb98
+ 6c3ad@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261103T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_aa56dd41defa4ccd8c69fb5b969
+ 428ef@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261104T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_ee4552362d3741708d89370f2ea
+ 96000@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261105T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_044d332df66a4e429f224ba46c6
+ b2852@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261106T193000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_34db34d418054b14a798ec348c4
+ a7ca9@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261107T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_629ae0ec613a40ac99f15e76e26
+ 8adf7@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261108T150000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_39fef854da0e4ea68915aed6c7e
+ 8114c@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261110T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_bc94ddfceda44a2dba0e73a0b53
+ 0461e@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261111T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_b873c797de5341e890b0362c229
+ 9709a@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261112T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_e8bba3bd68f04ed096e6c582dc5
+ e703b@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261113T193000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_84a6fe8f0dc24841ad1cfc56cdf
+ 3af69@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261114T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_89ab06c076924e029cabc4d2e07
+ fad8e@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261115T150000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_38f0112187f942ac825126e00b5
+ fd6e1@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261117T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_c38575ba331c4b1e91ad6fb9f54
+ b03ac@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261118T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_748b1a05fbe040098779f6c8cd5
+ eb153@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261119T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_607a181109de44d2a59860a9f7e
+ 4598b@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261120T193000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_222e9eb9733b46c3b51d1dfa29e
+ a451c@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261121T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_3033af8926ee4522a71f987acd0
+ 3526e@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261122T150000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_fee7416193b84e06aa03a979606
+ 54264@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261124T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_dce66ab4eb044586abba87f0352
+ dc4e1@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261125T190000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_dd940585f9d64ebea79d437acdc
+ aad39@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261126T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_1f70b60f2009467b834dcccdedc
+ 99d3d@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261127T193000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_d4db5b7c05d74a6bab06002cda6
+ 82574@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261128T143000Z
+SUMMARY:Hadestown
+DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
+ rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
+  Bethany Antonia lead the company.\nPrice: From £31.50 (typically £31.
+ 50–£219)\nhttps://londontheatrehub.co.uk/shows/hadestown/
+LOCATION:Lyric Theatre\, 29 Shaftesbury Avenue\, London W1D 7ES\, West En
+ d\, London
+URL:https://londontheatrehub.co.uk/shows/hadestown/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_c1e51f21de51471fbb589b6ada3
+ 8791f@thingstodoinyourcity
+DTSTAMP:20261021T191519Z
+DTSTART:20261129T150000Z
 SUMMARY:Hadestown
 DESCRIPTION:Anaïs Mitchell's Tony-winning musical retells Orpheus and Eu
  rydice through folk and jazz. Rachel Chavkin directs\; Marley Fenton and
@@ -25232,6 +25699,17 @@ UID:cand_ad67ab0da7894b62bb4987118ea4b09e-occ_2e8394d970c54ca991f354c141b
  12354@thingstodoinyourcity
 DTSTAMP:20261028T231331Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20280331
+SUMMARY:NATURE AND US GALLERY
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Natural History Museum\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad67ab0da7894b62bb4987118ea4b09e-occ_0744965d869945dba301585916c
+ 832d0@thingstodoinyourcity
+DTSTAMP:20261028T231331Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20280331
 SUMMARY:NATURE AND US GALLERY
 DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
@@ -25508,6 +25986,17 @@ LOCATION:Japan House London\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e60a34f1c72b46dc8df5f69d1cbc0c66-occ_b241c151bccc4096868089580e4
+ 9fcd0@thingstodoinyourcity
+DTSTAMP:20261028T224815Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261213
+SUMMARY:Takatori Ware and Koishiwara Ware
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Japan House London\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1a9d3099530743e18131aef967994242-occ_3bce18b274ff4914ba209f0660a
  38e9e@thingstodoinyourcity
 DTSTAMP:20261028T223637Z
@@ -25534,6 +26023,17 @@ UID:cand_1a9d3099530743e18131aef967994242-occ_9b352349f64b4b88ace982491c3
  86712@thingstodoinyourcity
 DTSTAMP:20261028T223637Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261128
+SUMMARY:Tasara Quartet by Gary Power MRSS
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:The Royal Society of Sculptors\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a9d3099530743e18131aef967994242-occ_f1fe407745ce47a69757ff6074a
+ 2ea33@thingstodoinyourcity
+DTSTAMP:20261028T223637Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261128
 SUMMARY:Tasara Quartet by Gary Power MRSS
 DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
@@ -28711,6 +29211,21 @@ LOCATION:Balcony Gallery - above the World Gallery\, 100 London Road\, Fo
 URL:https://www.horniman.ac.uk/event/meeting-mohini/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_32688d4fa7c04b40be4d8fe845f3ec08-occ_7e5fdc250fa74bd3bedd69e5c74
+ c2ead@thingstodoinyourcity
+DTSTAMP:20261030T170153Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261115
+SUMMARY:Meeting Mohini
+DESCRIPTION:A new photographic display looks at Koovagam and Indian trans
+ gender culture through Zoya Thomas Lobo’s lens. It is her first solo e
+ xhibition and her first exhibition outside India.\nPrice: Free\nhttps://
+ www.horniman.ac.uk/event/meeting-mohini/
+LOCATION:Balcony Gallery - above the World Gallery\, 100 London Road\, Fo
+ rest Hill London SE23 3PQ\, London
+URL:https://www.horniman.ac.uk/event/meeting-mohini/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_92648335e65d4c0391832b0cd52c75d7-occ_c1bbd29ededc47be98b3dc6f2a6
  161c2@thingstodoinyourcity
 DTSTAMP:20261023T074049Z
@@ -28789,6 +29304,21 @@ UID:cand_ad02e4bcd3d348708db7a3422a022f45-occ_35d15e3846d44578943ff8332e1
 DTSTAMP:20261030T170156Z
 DTSTART;VALUE=DATE:20261031
 DTEND:20261101T173000Z
+SUMMARY:Octonauts: Adventure at the Horniman
+DESCRIPTION:Pick up a free trail and join the Octonauts crew on mini-miss
+ ions around the Museum. Discover Octofacts\, collect a mission complete 
+ sticker\, then tackle a Sound Garden bonus.\nPrice: FREE\nhttps://www.ho
+ rniman.ac.uk/event/octonauts-adventure-at-the-horniman/
+LOCATION:Horniman Museum and Gardens\, 100 London Road\, Forest Hill Lond
+ on SE23 3PQ\, Forest Hill\, London
+URL:https://www.horniman.ac.uk/event/octonauts-adventure-at-the-horniman/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad02e4bcd3d348708db7a3422a022f45-occ_a801602f67cc4d9089a2c07e543
+ f0186@thingstodoinyourcity
+DTSTAMP:20261030T170156Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261101
 SUMMARY:Octonauts: Adventure at the Horniman
 DESCRIPTION:Pick up a free trail and join the Octonauts crew on mini-miss
  ions around the Museum. Discover Octofacts\, collect a mission complete 
@@ -29460,6 +29990,20 @@ UID:cand_0f6185a2381848e0ab47cbb0b817965b-occ_e1220adffb3b46718dac29d1361
  521c7@thingstodoinyourcity
 DTSTAMP:20261030T172047Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:The Baa-Ewe Tapestry
+DESCRIPTION:Inspired by the world-famous Bayeux Tapestry\, this new piece
+  pays tribute to mischief maker Shaun the Sheep. It is a baa-rilliant ad
+ dition to the museum's programme.\nhttps://www.southkenculturequarter.co
+ m/this-weekends-events
+LOCATION:Natural History Museum\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f6185a2381848e0ab47cbb0b817965b-occ_c1d60a42755a4f5d8696a055e6b
+ dd149@thingstodoinyourcity
+DTSTAMP:20261030T172047Z
+DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
 SUMMARY:The Baa-Ewe Tapestry
 DESCRIPTION:Inspired by the world-famous Bayeux Tapestry\, this new piece
@@ -32422,20 +32966,6 @@ LOCATION:City Comedy Club | Trapeze Bar\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7d0adfff45494a81a30021afe6f08ae7-occ_ae6a9e29b8ba46bf83a15edd8d9
- c082e@thingstodoinyourcity
-DTSTAMP:20261026T111935Z
-DTSTART:20261031T231500Z
-DTEND:20261101T095200Z
-SUMMARY:Halloween Marathon
-DESCRIPTION:https://princecharlescinema.com/prince-charles-cinema/booknow
- /31627796/
-LOCATION:Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\, Lon
- don
-URL:https://princecharlescinema.com/prince-charles-cinema/booknow/3162779
- 6/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_49a2c9dc9a5645798976362c619e89a8-occ_e3e2b462b0804466ab0a2a9293c
  7b315@thingstodoinyourcity
 DTSTAMP:20261031T103307Z
@@ -32651,6 +33181,18 @@ DESCRIPTION:A 6-hour retreat for anyone who has tried lino\, covering red
 LOCATION:Deptford studio\, Deptford\, London
 URL:https://www.somethinggoodworkshops.co.uk/events/lino-reduction-printi
  ng-workshop-london-sunday-1nov2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a17c456fa956485eb0e6de8a967d79ac-occ_99de12021f214fa19add10cb9a7
+ 73dde@thingstodoinyourcity
+DTSTAMP:20261101T100105Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Black Comedy UK Presents – Laugh Factory
+DESCRIPTION:Price: £15.00 +£0.38 ticket service fee\; £20.00 +£0.50 t
+ icket service fee\; £25.00 +£0.63 ticket service fee\nhttps://www.blac
+ kcomedyuk.com/event-details/lfnov26
+LOCATION:Backyard Comedy Club\, Bethnal Green\, London
+URL:https://www.blackcomedyuk.com/event-details/lfnov26
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f5316f606a3e4c2dad52dafe8cbdb8a1-occ_3049e5fdd8ee4bdd83a3c3569e7
@@ -33026,6 +33568,18 @@ SUMMARY:Cosy Craft (Cre8tive Arts)
 DESCRIPTION:Explore and learn both old and new crafts. Enjoy weekly works
  hops covering drawing\, painting and flower pressing\, with materials pr
  ovided.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b5cf22f6012d4a459960f99026494daa-occ_b19e62f81b5041eeb44c5b3a110
+ 286a9@thingstodoinyourcity
+DTSTAMP:20261101T104400Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Cosy Craft (Cre8tive Arts)
+DESCRIPTION:Learn old and new crafts through various weekly workshops cov
+ ering drawing\, painting and flower pressing. Materials are provided for
+  participants.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Brixton\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
@@ -33876,19 +34430,6 @@ UID:cand_44c9e9bbe04e4246a6216642e7188bf2-occ_5730884cf704405ab87c9cfa4b3
  1fd70@thingstodoinyourcity
 DTSTAMP:20261022T152725Z
 DTSTART;VALUE=DATE:20261101
-SUMMARY:Holy Communion
-DESCRIPTION:Said service according to the Book of Common Prayer. Listed o
- n nine dates from 22 October to 19 November 2026.\nhttps://www.templechu
- rch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_44c9e9bbe04e4246a6216642e7188bf2-occ_414ecb39c3dd4f5e9ebb71a5910
- f85ff@thingstodoinyourcity
-DTSTAMP:20261022T152725Z
-DTSTART:20261101T083000Z
-DTEND:20261101T090000Z
 SUMMARY:Holy Communion
 DESCRIPTION:Said service according to the Book of Common Prayer. Listed o
  n nine dates from 22 October to 19 November 2026.\nhttps://www.templechu
@@ -36114,18 +36655,6 @@ LOCATION:London
 URL:https://www.thegardencinema.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ddca4a2d5b614bdeb8790c8b87c31943-occ_5696e3e9b41848f182fa49267a4
- ed991@thingstodoinyourcity
-DTSTAMP:20261101T071041Z
-DTSTART;VALUE=DATE:20261101
-DTEND:20261101T110600Z
-SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021297/318558
-LOCATION:Vue London West End (Leicester Square) Screen 3\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021297/318558
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ea430409a1734764baccfd9b10f2560b-occ_c93523190ffe4bbe90b94d15a37
  b3bc0@thingstodoinyourcity
 DTSTAMP:20261027T114454Z
@@ -38026,6 +38555,20 @@ LOCATION:Phillimore Walk\, Phillimore Walk\, High Street Kensington W8 7R
 URL:https://www.lfm.org.uk/markets/high-street-kensington/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_af24e71337364a368b1d5ef6992680ab-occ_e04e9decc12d41da8a4d49e0513
+ 74ada@thingstodoinyourcity
+DTSTAMP:20261030T103741Z
+DTSTART:20261108T100000Z
+SUMMARY:Kensington Farmers Market
+DESCRIPTION:The market gets a spooky Halloween makeover with fancy dress\
+ , games and prizes. Visitors can test their aim\, guess the pumpkin's we
+ ight for a produce hamper\, and shop from local producers.\nhttps://www.
+ lfm.org.uk/markets/high-street-kensington/
+LOCATION:Phillimore Walk\, Phillimore Walk\, High Street Kensington W8 7R
+ X\, High Street Kensington\, London
+URL:https://www.lfm.org.uk/markets/high-street-kensington/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_37222d57aed54691befacd15d8fea07e-occ_3993f116d0a74a27a5c9d65b62d
  91128@thingstodoinyourcity
 DTSTAMP:20261031T114151Z
@@ -38054,6 +38597,18 @@ DESCRIPTION:Around 48 stalls sell quality food and crafts\, with live mus
 LOCATION:Kew Village\, Outside Kew Gardens Station (District & Overground
  )\, Station Parade\, Kew\, London\, TW9 3PZ\, Kew\, London
 URL:https://www.visitrichmond.co.uk/events/kew-village-market-p1932551
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c43f536ad7aa4736ba371f7755eaaecb-occ_dbb5c3d7bc11435caac2cc0037a
+ c6ab4@thingstodoinyourcity
+DTSTAMP:20261101T095612Z
+DTSTART:20261101T100000Z
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:https://concerts.consequence.net/events/larger-than-life-star
+ ring-wallace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-01-10-00
+LOCATION:The Lightroom\, 12 Lewis Cubitt Square London N1C 5DY\, London
+URL:https://concerts.consequence.net/events/larger-than-life-starring-wal
+ lace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-01-10-00
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4c9834c5f57d466887fcb0a008e703e0-occ_20ba4ae5b27245f2b892586022a
@@ -38190,76 +38745,6 @@ DESCRIPTION:A vocational dance competition for aspiring dancers\; this Lo
 LOCATION:Lilian Baylis Studio\, London
 URL:https://www.sadlerswells.com/whats-on/the-performance-platform-london
  -preliminaries-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_9be357cc48224d99a859dfbd9f9
- a09d5@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261101T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_334f789aec7546c895c90f8447c
- 79f0f@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261102T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_e85bbebaf0cc46b2aa3a38b91f6
- 08963@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261103T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_50148e04404a4c91bba3093c764
- 76635@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261104T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_a43234f0639c447bb7dcd8dd8c1
- 9fbdf@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261105T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_c8a163763157413bb00225baedd
- 00515@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261106T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bb8d532fdfd74555a4028ea46cbaf7f9-occ_2f92a84ff97949b094241ff466b
- cee3d@thingstodoinyourcity
-DTSTAMP:20261031T091649Z
-DTSTART:20261107T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_14e98e2be3fd4074b75c4989d56edbaf-occ_0a9c07e378084660a3737d19d42
@@ -38558,20 +39043,6 @@ LOCATION:Avondale Park\, 8 Walmer Road W11 4EY United Kingdom\, London
 URL:https://www.rbkc.gov.uk/events/tai-chi-4
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9d79bde98e7441e79d6aaf4d6d5898e3-occ_0e459fe486144b01b11806adcc7
- 194ef@thingstodoinyourcity
-DTSTAMP:20261031T191937Z
-DTSTART:20261101T103000Z
-DTEND:20261101T111500Z
-SUMMARY:Yoga
-DESCRIPTION:Harmonises mind and body through breathing techniques\, yoga 
- postures and meditation. Adults can join this free class\, booking throu
- gh a sign-in or registration link.\nPrice: Free\nhttps://www.rbkc.gov.uk
- /events/yoga-holland-park
-LOCATION:Holland Park\, Ilchester Road W8 6LU United Kingdom\, London
-URL:https://www.rbkc.gov.uk/events/yoga-holland-park
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e9feaa57037748498b18c7da82d3bed9-occ_2c805422c75f4859a050bdf6d93
  9558d@thingstodoinyourcity
 DTSTAMP:20261101T054351Z
@@ -38639,6 +39110,21 @@ LOCATION:Museum of Richmond\, Old Town Hall\, Whittaker Avenue\, Richmond
  \, London\, TW9 1TP\, Richmond\, London
 URL:https://www.visitrichmond.co.uk/events/all-the-colours-of-the-rainbow
  -free-trails-for-families-p2533751
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2aa8262208504de2871761bcb4506b1d-occ_e3b09e8daebb4a63a37578c01f2
+ ff184@thingstodoinyourcity
+DTSTAMP:20261101T104759Z
+DTSTART:20261101T110000Z
+DTEND:20261101T150000Z
+SUMMARY:Family Station: Halloween Weekend
+DESCRIPTION:Explore sensory items\, a braille reading corner and art mate
+ rials as a family. Completely drop-in\, so come and go whenever suits yo
+ u.\nPrice: Free. Drop-in. No booking required.\nhttps://events.bl.uk/eve
+ nts/family-station-halloween-weekend
+LOCATION:British Library\, Upper Ground Floor\, British Library\, London\
+ , Upper Ground Floor\, London
+URL:https://events.bl.uk/events/family-station-halloween-weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7a5d3cd44f414b65b9863cde119b60f7-occ_f847807cf4464cc9adb811c10ed
@@ -39767,6 +40253,16 @@ LOCATION:London
 URL:https://www.ealingbroadwayshopping.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_654014478a3c42518e3bc64d6bc50f9e-occ_255d2fddff774e8a8aefaa0eaec
+ 470e7@thingstodoinyourcity
+DTSTAMP:20261101T085942Z
+DTSTART:20261101T120000Z
+SUMMARY:EVELYN TAOCHENG WANG: Being Poetic Ruins Life
+DESCRIPTION:https://www.gold.ac.uk/events
+LOCATION:London
+URL:https://www.gold.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9013e2b1d9d848dca3a49d5ac5e49ec1-occ_f656b06201674808a94a841356a
  0776b@thingstodoinyourcity
 DTSTAMP:20261031T065524Z
@@ -39918,6 +40414,22 @@ URL:https://www.rmg.co.uk/whats-on/national-maritime-museum/remembrance-c
  all-mind
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3c3c700626124d4890eee5a82c893cb5-occ_3cc8a236976d44feb7f8a2dddc9
+ a92a5@thingstodoinyourcity
+DTSTAMP:20261101T112250Z
+DTSTART:20261101T120000Z
+DTEND:20261101T154500Z
+SUMMARY:Secret London - The beautiful secret wonders of Bayswater and Hyd
+ e Park!
+DESCRIPTION:Explore hidden mews\, Notting Hill film sites and quiet corne
+ rs of Hyde Park on a 3 or 4.5 mile walk. Arrive 15 minutes early\; the g
+ roup leaves at 12pm.\nPrice: Cost £10\nhttps://www.meetup.com/walks-and
+ -tours/events/316318372/?eventOrigin=city_events_today
+LOCATION:Lancaster Gate\, Bayswater Road · London\, London
+URL:https://www.meetup.com/walks-and-tours/events/316318372/?eventOrigin=
+ city_events_today
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6c791782e1a540abb6953f89612a3c33-occ_5b293e4f48834c79a92f046e86d
  d4afa@thingstodoinyourcity
 DTSTAMP:20261031T145442Z
@@ -39944,6 +40456,21 @@ DESCRIPTION:Gospel choir performance during a Sunday lunch at Boisdale. T
 LOCATION:Boisdale\, Cabot Place\, London\, E14 4QT\, London
 URL:https://london-concerts.com/event/sunday-lunch-soundhouse-gospel-choi
  r-2026-11-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e64a0beb79bb4c8180af5a96451b542d-occ_1e41edbf75f74131b9e248d75ea
+ 27e92@thingstodoinyourcity
+DTSTAMP:20261101T090016Z
+DTSTART:20261101T120000Z
+DTEND:20261101T150000Z
+SUMMARY:Sunday chess club (in-person)
+DESCRIPTION:All are welcome to attend this weekly chess club at the libra
+ ry. Booking in advance is recommended\, as only limited places are avail
+ able.\nPrice: Free\nhttps://www.westminster.gov.uk/event/sunday-chess-cl
+ ub-person
+LOCATION:Paddington Library\, Porchester Road London W2 5DU United Kingdo
+ m\, Westminster\, London
+URL:https://www.westminster.gov.uk/event/sunday-chess-club-person
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9b0d1a2f07814b5493c4b9679ec1f693-occ_1e6d345279ef4671b8ff1cf4c08
@@ -40156,6 +40683,22 @@ URL:https://www.apple.com/uk/today/event/get-started-ipad/751578104527988
  3264/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_12d256050c184b2eb2cb573ea73d9784-occ_3b3053daa28a47f98bf8db73861
+ 62476@thingstodoinyourcity
+DTSTAMP:20261101T112437Z
+DTSTART:20261101T123000Z
+DTEND:20261101T183000Z
+SUMMARY:Sunday Dungeons & Dragons Meetup
+DESCRIPTION:Drop-in tabletop D&D games for beginners and experienced play
+ ers\, with Dungeon Masters always welcome. Arrive between 12:30pm and 1p
+ m\; attendees must be 18+.\nPrice: No charge\; recommended donation £2 
+ cash per attendee\nhttps://www.meetup.com/london-dnd/events/317013828/?e
+ ventOrigin=city_events_today
+LOCATION:The Britannia\, 20 Monument St\,\, EC3R 8AJ\, London
+URL:https://www.meetup.com/london-dnd/events/317013828/?eventOrigin=city_
+ events_today
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4a99b7d33b5b4f20a50f88d36332ab1b-occ_28be15a7515346419657544f4bd
  34468@thingstodoinyourcity
 DTSTAMP:20261026T054013Z
@@ -40300,6 +40843,23 @@ SUMMARY:Naza 15
 DESCRIPTION:https://www.thegardencinema.co.uk/
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_588ee737485640aa8e1f7991fcc1d7cf-occ_8cbdcade6a5a4166b247b2d08fc
+ 5f1f1@thingstodoinyourcity
+DTSTAMP:20261101T094910Z
+DTSTART:20261101T130000Z
+DTEND:20261101T173000Z
+SUMMARY:The Remembering: A Samhain Half-Day Women's Wellbeing Retreat
+DESCRIPTION:Four-plus hours of Samhain ritual with ceremonial cacao\, gui
+ ded movement\, journaling and a closing fire ceremony. Led by author Tel
+ isha Webster\, held the day after Halloween.\nPrice: From GBP 64.63\nhtt
+ ps://stayhappening.com/e/the-remembering-a-samhain-half-day-womens-wellb
+ eing-retreat-E118SB6T933R3
+LOCATION:Kingswood House\, Kingswood House\, Seeley Dr\, Kingswood Estate
+ \, London SE21 8QN\, London
+URL:https://stayhappening.com/e/the-remembering-a-samhain-half-day-womens
+ -wellbeing-retreat-E118SB6T933R3
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c0b6715215a94fff815a5dfc64223495-occ_f3687bd8ec404f1aa294faf6673
@@ -42820,24 +43380,6 @@ URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
  93.TcsSection_3841519
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a17c456fa956485eb0e6de8a967d79ac-occ_99de12021f214fa19add10cb9a7
- 73dde@thingstodoinyourcity
-DTSTAMP:20261026T074348Z
-DTSTART:20261101T183000Z
-DTEND:20261101T230000Z
-SUMMARY:Black Comedy UK Presents – Laugh Factory
-DESCRIPTION:Hosted by Christopher Savage\, with comedians Kat\, Price Abd
- i\, Lateef Lovejoy and Darran Griffiths. Tickets come in early bird\, fi
- rst and final release tiers.\nPrice: £15.00 +£0.38 ticket service fee\
- ; £20.00 +£0.50 ticket service fee\; £25.00 +£0.63 ticket service fe
- e\nhttps://backyardcomedyclub.co.uk/event/link?ceId=8ee415d6-8576-4ecf-a
- cd1-47b3cf4f550b
-LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, London E2 0EL\, 
- UK\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/event/link?ceId=8ee415d6-8576-4ecf-a
- cd1-47b3cf4f550b
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2fceffabdaf24c9fb8137a36dc8063c9-occ_b1e6f4f657b844d58b84c9f6493
  cb8cb@thingstodoinyourcity
 DTSTAMP:20261031T192928Z
@@ -44537,6 +45079,90 @@ LOCATION:ArtHouse Crouch End\, London
 URL:https://www.arthousecrouchend.co.uk/programme?programme_id=10475727
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-02@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-09@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-16@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261116
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-23@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-11-30@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261130
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
+ 23df8-2026-12-07@thingstodoinyourcity
+DTSTAMP:20261101T094849Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Baby Sing and Play
+DESCRIPTION:Interactive songs\, sensory toys and basic sign language for 
+ babies and toddlers aged 0-4. Led by a professional musician\, it inspir
+ es children to sing\, dance and play.\nhttps://grandjunction.org.uk/even
+ ts/baby-sing-and-sign/
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
+URL:https://grandjunction.org.uk/events/baby-sing-and-sign/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_cf2f4299edb94ff883862deb8d54c466-occ_2682f10d847943d88107570cbb4
  8c138@thingstodoinyourcity
 DTSTAMP:20261023T094022Z
@@ -45288,6 +45914,21 @@ DESCRIPTION:Swimming is a very popular choice of activity for disabled ad
 LOCATION:Kensington Leisure Centre\, Silchester Road\, W10 6EX\, United K
  ingdom\, London
 URL:https://www.rbkc.gov.uk/events/swimming-disabled-adults
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0fd871f03e87411796de47ba9a0958d5-occ_1e45a5bebe49498ea1e858bd8b3
+ b9d5d@thingstodoinyourcity
+DTSTAMP:20261101T090258Z
+DTSTART:20261102T113000Z
+DTEND:20261102T123000Z
+SUMMARY:Chair Yoga
+DESCRIPTION:A gentle\, accessible practice for seniors\, people with mobi
+ lity challenges or beginners. Guided exercises build flexibility\, balan
+ ce and wellbeing.\nPrice: Free\nhttps://grandjunction.org.uk/events/chai
+ r-yoga/
+LOCATION:Grand Junction at St. Mary Magdalene Church\, Rowington Close\, 
+ London W2 5TF\, Westminster\, London
+URL:https://grandjunction.org.uk/events/chair-yoga/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8243a014afac469f9be6c4803b2554ec-occ_baecb3f27db04549935b4adee9a
@@ -51178,6 +51819,34 @@ LOCATION:The Lexi Cinema\, 194b Chamberlayne Rd\, London NW10 3JU\, Londo
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10229631
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_219669daade947bea23e5ae36651371e-occ_c2f9253ff9204b55b9b268f383e
+ 43aa7@thingstodoinyourcity
+DTSTAMP:20261101T101248Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:OSP Shoegaze & Dream Pop Weekender #6
+DESCRIPTION:Other Side Promotions present the sixth annual weekender\, wi
+ th ten international shoegaze and dream pop bands over two days. Single-
+ day and weekend tickets are available.\nhttps://stayhappening.com/london
+ --workshops
+LOCATION:Strongroom Bar\, 120-124 Curtain Road\, London\, United Kingdom\
+ , London
+URL:https://stayhappening.com/london--workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_219669daade947bea23e5ae36651371e-occ_4188b58cb5964b8b9fa67577a95
+ 81fa5@thingstodoinyourcity
+DTSTAMP:20261101T101248Z
+DTSTART:20261106T193000Z
+SUMMARY:OSP Shoegaze & Dream Pop Weekender #6
+DESCRIPTION:Other Side Promotions present the sixth annual weekender\, wi
+ th ten international shoegaze and dream pop bands over two days. Single-
+ day and weekend tickets are available.\nhttps://stayhappening.com/london
+ --workshops
+LOCATION:Strongroom Bar\, 120-124 Curtain Road\, London\, United Kingdom\
+ , London
+URL:https://stayhappening.com/london--workshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_82fb4aa872194453913d1925a9f4d000-occ_a90d24520d5d4cc49f3a2ebbb78
  bc2f6@thingstodoinyourcity
 DTSTAMP:20261101T005502Z
@@ -52752,6 +53421,62 @@ DESCRIPTION:Descend beneath a City of London office to see late second-ce
 LOCATION:Billingsgate Roman House and Baths\, City of London\, London
 URL:https://www.eventbrite.co.uk/e/billingsgate-roman-house-and-baths-tou
  rs-2026-tickets-1984292017841?aff=ianvisits
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60fe206cbfa84f65b2b51e8aec42a3e6-occ_fb7d46caf3204a3c86f060c52a9
+ b8e2d-2026-11-07@thingstodoinyourcity
+DTSTAMP:20261101T112221Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Camden Market Vintage Market with Bootyfull Car Boot
+DESCRIPTION:Vintage clothes\, retro accessories\, rare vinyl\, original a
+ rt and jewellery join the Hawley Wharf food traders. Free to walk in wit
+ h no booking\, running for nine Saturdays.\nPrice: Free\nhttps://www.lon
+ donxlondon.com/camden-market-vintage-market-bootyfull
+LOCATION:Hawley Wharf\, Camden Market\, Hawley Wharf\, Camden Market\, Lo
+ ndon NW1 8AA\, London
+URL:https://www.londonxlondon.com/camden-market-vintage-market-bootyfull
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60fe206cbfa84f65b2b51e8aec42a3e6-occ_fb7d46caf3204a3c86f060c52a9
+ b8e2d-2026-11-14@thingstodoinyourcity
+DTSTAMP:20261101T112221Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Camden Market Vintage Market with Bootyfull Car Boot
+DESCRIPTION:Vintage clothes\, retro accessories\, rare vinyl\, original a
+ rt and jewellery join the Hawley Wharf food traders. Free to walk in wit
+ h no booking\, running for nine Saturdays.\nPrice: Free\nhttps://www.lon
+ donxlondon.com/camden-market-vintage-market-bootyfull
+LOCATION:Hawley Wharf\, Camden Market\, Hawley Wharf\, Camden Market\, Lo
+ ndon NW1 8AA\, London
+URL:https://www.londonxlondon.com/camden-market-vintage-market-bootyfull
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60fe206cbfa84f65b2b51e8aec42a3e6-occ_fb7d46caf3204a3c86f060c52a9
+ b8e2d-2026-11-21@thingstodoinyourcity
+DTSTAMP:20261101T112221Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Camden Market Vintage Market with Bootyfull Car Boot
+DESCRIPTION:Vintage clothes\, retro accessories\, rare vinyl\, original a
+ rt and jewellery join the Hawley Wharf food traders. Free to walk in wit
+ h no booking\, running for nine Saturdays.\nPrice: Free\nhttps://www.lon
+ donxlondon.com/camden-market-vintage-market-bootyfull
+LOCATION:Hawley Wharf\, Camden Market\, Hawley Wharf\, Camden Market\, Lo
+ ndon NW1 8AA\, London
+URL:https://www.londonxlondon.com/camden-market-vintage-market-bootyfull
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60fe206cbfa84f65b2b51e8aec42a3e6-occ_fb7d46caf3204a3c86f060c52a9
+ b8e2d-2026-11-28@thingstodoinyourcity
+DTSTAMP:20261101T112221Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Camden Market Vintage Market with Bootyfull Car Boot
+DESCRIPTION:Vintage clothes\, retro accessories\, rare vinyl\, original a
+ rt and jewellery join the Hawley Wharf food traders. Free to walk in wit
+ h no booking\, running for nine Saturdays.\nPrice: Free\nhttps://www.lon
+ donxlondon.com/camden-market-vintage-market-bootyfull
+LOCATION:Hawley Wharf\, Camden Market\, Hawley Wharf\, Camden Market\, Lo
+ ndon NW1 8AA\, London
+URL:https://www.londonxlondon.com/camden-market-vintage-market-bootyfull
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ce3cb8767a1948c1a2d8412c5ce02052-occ_4fddcf12114540c0a98e1f51d17
@@ -54541,6 +55266,21 @@ LOCATION:Wilton's Music Hall\, London
 URL:https://wiltons.org.uk/whats-on/history-tours-5
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8b2c40abb4d640e5afba70af33d917ef-occ_5dbb2292882d48f8a30e392e5b0
+ b5eb2@thingstodoinyourcity
+DTSTAMP:20261026T122239Z
+DTSTART:20261107T170000Z
+SUMMARY:Saturday Afternoon Comedy\, 5PM\, Covent Garden
+DESCRIPTION:Hand-picked professional stand-ups headline this bill. Past s
+ hows featured comedians seen on Taskmaster and Netflix.\nPrice: From £1
+ 5.00\nhttps://jkcomedyclub.co.uk/comedy-show/saturday-night-comedy-5pm-c
+ ovent-garden-31oct26/
+LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
+ \, London WC2H 0HF\, Covent Garden\, London
+URL:https://jkcomedyclub.co.uk/comedy-show/saturday-night-comedy-5pm-cove
+ nt-garden-31oct26/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_09add0635f464bcd90bce90677c75876-occ_3d8f02085ad14a65808cd14067e
  c8f07@thingstodoinyourcity
 DTSTAMP:20261101T010611Z
@@ -54805,6 +55545,21 @@ DESCRIPTION:Stand-up comedy that actually delivers\, with stacked lineups
 LOCATION:Comedy Freaks Kings Cross\, London
 URL:https://www.londontheatres.com/event/saturday-comedy-show-_-comedy-fr
  eaks
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f59980d4782e49c09bb3ce6a6ab3560a-occ_34631f694ea04a6092acd1a0843
+ a71ee@thingstodoinyourcity
+DTSTAMP:20261026T121758Z
+DTSTART:20261107T190000Z
+SUMMARY:Saturday Night Comedy\, 7PM\, Covent Garden
+DESCRIPTION:Hand-picked London stand-ups and a host\, with past acts seen
+  on Taskmaster and Netflix. Seating is unreserved\, so arrive early.\nPr
+ ice: From £17.00\nhttps://jkcomedyclub.co.uk/comedy-show/saturday-night
+ -comedy-7pm-covent-garden-31oct26/
+LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
+ \, London WC2H 0HF\, Covent Garden\, London
+URL:https://jkcomedyclub.co.uk/comedy-show/saturday-night-comedy-7pm-cove
+ nt-garden-31oct26/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7175e4235e464c46ae2e285758db7b2a-occ_93487926d0e746ceb09f0583907
@@ -55286,6 +56041,19 @@ DESCRIPTION:Europe's largest Korean music festival\, spanning folk\, soun
  Kiha and Lil Cherry & GOLDBUUDA.\nhttps://uk.korean-culture.org/en/2123/
  board/1737/read/145988
 LOCATION:Elgar Room\, Royal Albert Hall\, London
+URL:https://uk.korean-culture.org/en/2123/board/1737/read/145988
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c7210a3a37ed43dbba822c929030ebee-occ_df792508011940679b77dbd078e
+ 4a50f@thingstodoinyourcity
+DTSTAMP:20261101T092305Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:K-Music Festival 2026
+DESCRIPTION:Korean folk\, sound art\, game soundtracks\, jazz\, hip-hop a
+ nd indie rock across the festival. It opens with ADG7\, Chang Kiha and L
+ il Cherry & GOLDBUUDA.\nhttps://uk.korean-culture.org/en/2123/board/1737
+ /read/145988
+LOCATION:Rich Mix\, London
 URL:https://uk.korean-culture.org/en/2123/board/1737/read/145988
 END:VEVENT
 BEGIN:VEVENT
@@ -56784,6 +57552,22 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31616848/prince-charles-cinema-f
  ilm-quiz/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_827b3f1d4c8440eba3906b1692885589-occ_b72692892ef54fe8bc06ac0b287
+ 4cac3@thingstodoinyourcity
+DTSTAMP:20261101T101027Z
+DTSTART:20261202T120000Z
+DTEND:20261202T130000Z
+SUMMARY:Beneath the Stones: A Subterranean Tour of St Mary Magdalene's Ch
+ urch
+DESCRIPTION:Explore the Undercroft and Chapel of St Sepulchre\, shaped by
+  inventive engineering and Victorian design. Learn its heritage and rece
+ nt restoration.\nPrice: £5\nhttps://grandjunction.ticketsolve.com/ticke
+ tbooth/shows/1173692874
+LOCATION:St Mary Magdalene’s\, ST MARY MAGDALENE CHURCH\, ROWINGTON CLO
+ SE\, LONDON W2 5TF\, London
+URL:https://grandjunction.ticketsolve.com/ticketbooth/shows/1173692874
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2366d1970af640c5bc3281226d4260fe-occ_d7627581f9724cff8d1c5dfc823
