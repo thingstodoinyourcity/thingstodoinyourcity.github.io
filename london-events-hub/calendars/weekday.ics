@@ -8,6 +8,51 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+UID:cand_8880e2f5e111440b9be4389d32275ae7-occ_52ea9c15849341d0ac8de51aac0
+ 152f8@thingstodoinyourcity
+DTSTAMP:20261021T181840Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:White Rabbit Red Rabbit
+DESCRIPTION:Each Monday a different actor opens a sealed envelope and per
+ forms an unseen script live. Upcoming performers include Riz Ahmed and N
+ ish Kumar.\nPrice: From £30 (typically £30–£72)\nhttps://londonthea
+ trehub.co.uk/shows/white-rabbit-red-rabbit/
+LOCATION:Duchess Theatre\, 3-5 Catherine Street\, London WC2B 5LA\, West 
+ End\, London
+URL:https://londontheatrehub.co.uk/shows/white-rabbit-red-rabbit/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a7662f7c46a4600a02078800ca76bc3-occ_662b35e5ed1841549f7f67d3800
+ 5d375@thingstodoinyourcity
+DTSTAMP:20261021T200728Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261106
+SUMMARY:Beyond the Visible: Symbolism and its Legacies
+DESCRIPTION:Paintings and sculptures explore Symbolism as a constellation
+  of artistic languages across Europe. Highlights include a rare cast of 
+ Auguste Préault's Silence (1848).\nhttps://www.culturecalling.com/londo
+ n/events/beyond-the-visible-symbolism-and-its-legacies
+LOCATION:Stuart Lochhead Sculpture\, 22 Old Bond Street\, London\, W1S 4P
+ Y\, London
+URL:https://www.culturecalling.com/london/events/beyond-the-visible-symbo
+ lism-and-its-legacies
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f35d8b669cf44e01b2c2aebc6c42e610-occ_e30d1e25cfa94ff29286253d6a2
+ e908e@thingstodoinyourcity
+DTSTAMP:20261027T130739Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261105
+SUMMARY:Power of What (Memory Room) by Jyll Bradley
+DESCRIPTION:Jyll Bradley's first UK solo show pairs archive photography w
+ ith recent sculptures. New solarised self-portraits join memory-room ins
+ tallations against childhood-home wallpaper.\nhttps://www.wherecanwego.c
+ om/item/e1607898
+LOCATION:Pi Artworks London\, 6 Perseverance Works\, 25 - 27 Hackney Road
+  E2 7NX\, London
+URL:https://www.wherecanwego.com/item/e1607898
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_abc97715910748e28c3b047ccde01d23-occ_929402147b0649228bee60cd30d
  7e15c@thingstodoinyourcity
 DTSTAMP:20261101T213701Z
@@ -3224,6 +3269,46 @@ DESCRIPTION:
 LOCATION:St Gabriel's Halls\, Pimlico\, London
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_c3aee90aadaa4d9ea136bbd8641
+ 558b4@thingstodoinyourcity
+DTSTAMP:20261101T043157Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Stamptown
+DESCRIPTION:Fresh from their debut Netflix special\, Stamptown returns fo
+ r two more nights of mayhem. Hosted by clown Zach Zucker\, it features t
+ he most anarchic acts from around the world.\nPrice: From: £25.00\nhttp
+ s://sohotheatre.com/events/stamptown-2/
+LOCATION:Auditorium – Walthamstow\, Walthamstow\, London
+URL:https://sohotheatre.com/events/stamptown-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_f692832b7cd7478d92ca24dca1a
+ 0c229@thingstodoinyourcity
+DTSTAMP:20261101T043157Z
+DTSTART:20261102T200000Z
+SUMMARY:Stamptown
+DESCRIPTION:Fresh from their debut Netflix special\, Stamptown returns fo
+ r two more nights of mayhem. Hosted by clown Zach Zucker\, it features t
+ he most anarchic acts from around the world.\nPrice: From: £25.00\nhttp
+ s://sohotheatre.com/events/stamptown-2/
+LOCATION:Auditorium – Walthamstow\, Walthamstow\, London
+URL:https://sohotheatre.com/events/stamptown-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_49002ffcd38f473cba74ca2f77f
+ 8faf6@thingstodoinyourcity
+DTSTAMP:20261101T043157Z
+DTSTART:20261103T200000Z
+SUMMARY:Stamptown
+DESCRIPTION:Fresh from their debut Netflix special\, Stamptown returns fo
+ r two more nights of mayhem. Hosted by clown Zach Zucker\, it features t
+ he most anarchic acts from around the world.\nPrice: From: £25.00\nhttp
+ s://sohotheatre.com/events/stamptown-2/
+LOCATION:Auditorium – Walthamstow\, Walthamstow\, London
+URL:https://sohotheatre.com/events/stamptown-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8505ed9e27c145169e923687101eed72-occ_2d34c0edb6b8409f8ec11775c3b
  2e51a@thingstodoinyourcity
 DTSTAMP:20261031T225849Z
@@ -3416,6 +3501,22 @@ LOCATION:London
 URL:https://www.koreanfilm.co.uk/schedule
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fd4eb8062def4440a9e3aa2098bb7b5b-occ_4846ddb89b5a4000bd53903b41e
+ 501ed@thingstodoinyourcity
+DTSTAMP:20261102T035146Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:The Social Reckoning
+DESCRIPTION:Facebook engineer Frances Haugen teams up with Wall Street Jo
+ urnal reporter Jeff Horwitz to expose the company's secrets. Directed by
+  Aaron Sorkin\, it runs 112 minutes.\nhttps://www.phoenixcinema.co.uk/Ph
+ oenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.T
+ csWebMenuItem_0.TcsWebTab_0.TcsPerformance_802082.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802082.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_670d043fa3864db0a1470db1da8f42ce-occ_e5a9e806c903479cbce4e04b5c1
  21241@thingstodoinyourcity
 DTSTAMP:20261026T014130Z
@@ -3521,6 +3622,17 @@ SUMMARY:Under 5s in French at Marylebone Library (in-person)
 DESCRIPTION:https://www.westminster.gov.uk/event
 LOCATION:Marylebone Library\, Westminster\, London
 URL:https://www.westminster.gov.uk/event
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bf1d9387304c4788bc67f42378f9410c-occ_366770ad8d76417fa00f2534b94
+ 40171@thingstodoinyourcity
+DTSTAMP:20261102T034143Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Van Gogh 'Sunflowers': Experiments in Watercolour with Will Dowde
+ n
+DESCRIPTION:Price: From £75\nhttps://www.nationalgallery.org.uk/events
+LOCATION:In Gallery | Supporters' House Salon\, London
+URL:https://www.nationalgallery.org.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_54a250215a5f44d6ac56fd7984ac6eb5-occ_579a5b9ed3704f75bf116e57ce5
@@ -3659,6 +3771,16 @@ DESCRIPTION:Support\, friendship and activities for people living with de
  \nPrice: Free to attend\nhttps://www.lambeth.gov.uk/events
 LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_13c09752fda54c43b87682e07aa6dbab-occ_05543782ea7a41f1bcd73a49882
+ ecb24@thingstodoinyourcity
+DTSTAMP:20261102T045500Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:West End Musical Halloween
+DESCRIPTION:https://www.whatsonstage.com/
+LOCATION:London
+URL:https://www.whatsonstage.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3304d27d0fee42a19bdd01893be3fdf6-occ_d2fa9daf7a1c4f0eb39ffc8411c
@@ -7476,6 +7598,102 @@ LOCATION:Middle Temple Hall\, London
 URL:https://www.middletemple.org.uk/civicrm/event/list?reset=1
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_63df772c8c6a4bd28f277a91219
+ 9cf88@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261102T173000Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_2147fb16a24f4e50ad89514cefe
+ db2e6@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261103T171500Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_ce0bc43f61db420086e10675348
+ 5de75@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261103T191500Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_5451440df62b47018e1ed1c10d0
+ 88e57@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261104T173000Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_9327f7120fdd4fae8047ad6b91f
+ 057b8@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261105T141500Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_50d133cf39e04092ba721a66c77415ec-occ_fa6145dcf97545129510ce77e45
+ 16fbf@thingstodoinyourcity
+DTSTAMP:20261102T035621Z
+DTSTART:20261105T200000Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman commissions a wicker husband\, sparking outrage
+  and chaos in a seaside town. A 5-minute stop-motion short\, Brim Broome
+  Boulevard\, plays before the film.\nhttps://www.phoenixcinema.co.uk/Pho
+ enixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.Tc
+ sWebMenuItem_0.TcsWebTab_0.TcsPerformance_802086.TcsSection_720
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802086.TcsSection_720
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_30db9c7fe09e4add90a1bf1f283755ee-occ_73f90ef553e9437c82c7c1cfbdd
  66518@thingstodoinyourcity
 DTSTAMP:20261028T103225Z
@@ -8284,6 +8502,66 @@ LOCATION:Big Belly Comedy Club\, Unit 6 & 7\, 30 Stamford Street South Ba
 URL:https://bigbellycomedy.club/event/in-shakespeare-we-trust-alex-floyd/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_e46c0107b36645e79163d50f53d
+ bf85e@thingstodoinyourcity
+DTSTAMP:20261102T042140Z
+DTSTART:20261102T190000Z
+SUMMARY:Monday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/monday-night-comedy-free
+ -shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-free-shot-wi
+ th-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_0f118cf14e4d4563a37bccb66a4
+ 55348@thingstodoinyourcity
+DTSTAMP:20261102T042140Z
+DTSTART:20261109T190000Z
+SUMMARY:Monday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/monday-night-comedy-free
+ -shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-free-shot-wi
+ th-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_f9a1b35b04f64d949ccde9e5188
+ 6f742@thingstodoinyourcity
+DTSTAMP:20261102T042140Z
+DTSTART:20261116T190000Z
+SUMMARY:Monday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/monday-night-comedy-free
+ -shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-free-shot-wi
+ th-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_a55f78e8fd1d4106a9abb6b823a
+ 21630@thingstodoinyourcity
+DTSTAMP:20261102T042140Z
+DTSTART:20261123T190000Z
+SUMMARY:Monday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/monday-night-comedy-free
+ -shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-free-shot-wi
+ th-every-ticket
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_50527474c5994bb4ad385bdabd3
+ 9ef28@thingstodoinyourcity
+DTSTAMP:20261102T042140Z
+DTSTART:20261130T190000Z
+SUMMARY:Monday Night Comedy Free SHOT With Every Ticket
+DESCRIPTION:https://www.londontheatres.com/event/monday-night-comedy-free
+ -shot-with-every-ticket
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-free-shot-wi
+ th-every-ticket
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2bb37c54ddf1447fbe715371573501a4-occ_8b861d9e02c04c9a8340dc7d0d0
  06335@thingstodoinyourcity
 DTSTAMP:20261101T211708Z
@@ -8417,6 +8695,21 @@ DESCRIPTION:Open decks night for FLINTA turntablists\, with tutorials at
 LOCATION:Dalston Superstore\, 117 Kingsland High Street\, London\, E8 2PB
  \, London
 URL:https://www.outsavvy.com/event/40929/vinyl-bitch-open-decks-033
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd19df17253c4b72bdc06809e1d85466-occ_df43910c087b456d917a4d0394b
+ 2f5b5@thingstodoinyourcity
+DTSTAMP:20261102T034818Z
+DTSTART:20261102T193000Z
+SUMMARY:Alternative Comedy Memorial Society (ACMS) on Monday November 2nd
+DESCRIPTION:A cult celebration of inventive comedy with overstuffed bills
+  and permitted heckles. Expect much comedy\, some failure and a varying 
+ price structure.\nPrice: Varying price structure (ticket options from £
+ 8 to £20 per footnote)\nhttps://www.londontheatres.com/event/alternativ
+ e-comedy-memorial-society-(acms)-on-monday-november-2nd
+LOCATION:The Phoenix\, London
+URL:https://www.londontheatres.com/event/alternative-comedy-memorial-soci
+ ety-(acms)-on-monday-november-2nd
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5bf4ad3744f24e728a86910e8ea8e556-occ_5d9e8f420a2d417fb5689eed7f4
@@ -8739,6 +9032,132 @@ URL:https://www.pleasance.co.uk/event/von-hertzen-brothers-acoustic-enoug
  h
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_f831119d6a19406f934435645d8
+ 4e282@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261102T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_da3cf73603114a95b458d7f16a6
+ 05ff4@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261109T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_2247a6fde49b4cec89bc1bc9026
+ 35135@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261116T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_2123ad37b24f44ef8e9ab2fa712
+ 2c585@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261123T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_28c3ad73b9674b2891179096ce6
+ e0e15@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261130T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_f589b84f57524d09aebac6c3a3b
+ ae0af@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261207T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_766745d166f446ee8540aa410d4
+ aeb63@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261214T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_0444254243b04393ad4b48cb2c9
+ f81b4@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261221T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ed834bb435c241448bc2fc0109a3105b-occ_6e460cbb3d5b49c8a823316013b
+ d804f@thingstodoinyourcity
+DTSTAMP:20261102T034326Z
+DTSTART:20261228T194500Z
+SUMMARY:Monday Night Comedy 7.45PM Covent Garden
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  Affordable prices are advertised for this weekly Monday night show.\nht
+ tps://www.londontheatres.com/event/monday-night-comedy-7.45pm-covent-gar
+ den
+LOCATION:Jk Comedy Club Covent Garden\, London
+URL:https://www.londontheatres.com/event/monday-night-comedy-7.45pm-coven
+ t-garden
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_980f54643dca49448544bfa6b4993341-occ_5c0c9aaed6aa42009889d20a599
  cce95@thingstodoinyourcity
 DTSTAMP:20261101T025817Z
@@ -8766,21 +9185,6 @@ DESCRIPTION:Joe and Angela's marriage is on thin ice when enigmatic upsta
 LOCATION:The Cinema in The Power Station\, The Arches\, under Grosvenor B
  ridge\, just outside The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/the-invite
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fd4eb8062def4440a9e3aa2098bb7b5b-occ_4846ddb89b5a4000bd53903b41e
- 501ed@thingstodoinyourcity
-DTSTAMP:20261031T194527Z
-DTSTART:20261102T194500Z
-DTEND:20261102T215700Z
-SUMMARY:The Social Reckoning
-DESCRIPTION:Facebook engineer Frances Haugen teams with Wall Street Journ
- al reporter Jeff Horwitz to expose the network's secrets. Directed by Aa
- ron Sorkin\; runs 112 minutes.\nhttps://www.phoenixcinema.co.uk/PhoenixC
- inemaLondon.dll/WhatsOn?f=759791
-LOCATION:Phoenix Cinema\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=759
- 791
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a1e759fd05954e2b85823454e5669085-occ_d462d4b5c8e84b1daf35e124bfb
@@ -8835,32 +9239,6 @@ URL:https://www.angelcomedy.co.uk/event-detail/show-up-for-lebanon-mon-2n
  d-nov-the-bill-murray-london-tickets-202611022000/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_f692832b7cd7478d92ca24dca1a
- 0c229@thingstodoinyourcity
-DTSTAMP:20261101T043157Z
-DTSTART:20261102T200000Z
-SUMMARY:Stamptown
-DESCRIPTION:Fresh from their debut Netflix special\, Stamptown returns fo
- r two more nights of mayhem. Hosted by clown Zach Zucker\, it features t
- he most anarchic acts from around the world.\nPrice: From: £25.00\nhttp
- s://sohotheatre.com/events/stamptown-2/
-LOCATION:Auditorium – Walthamstow\, Walthamstow\, London
-URL:https://sohotheatre.com/events/stamptown-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_49002ffcd38f473cba74ca2f77f
- 8faf6@thingstodoinyourcity
-DTSTAMP:20261101T043157Z
-DTSTART:20261103T200000Z
-SUMMARY:Stamptown
-DESCRIPTION:Fresh from their debut Netflix special\, Stamptown returns fo
- r two more nights of mayhem. Hosted by clown Zach Zucker\, it features t
- he most anarchic acts from around the world.\nPrice: From: £25.00\nhttp
- s://sohotheatre.com/events/stamptown-2/
-LOCATION:Auditorium – Walthamstow\, Walthamstow\, London
-URL:https://sohotheatre.com/events/stamptown-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_bb318f44439145389a582b034387a800-occ_0a4c84d12fab4760ba51f286d27
  14660@thingstodoinyourcity
 DTSTAMP:20261031T070203Z
@@ -8872,6 +9250,18 @@ DESCRIPTION:A general knowledge night with theatre\, music\, flags and on
  \nhttps://royalcourttheatre.com/events/the-courts-quiz/
 LOCATION:The Bar Below\, London
 URL:https://royalcourttheatre.com/events/the-courts-quiz/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e8cd7c0ac52f48f2ab73394d8957ad93-occ_535f6e54abbc425aa061ecdc3d3
+ 81634@thingstodoinyourcity
+DTSTAMP:20261102T034825Z
+DTSTART:20261102T201500Z
+SUMMARY:Hal Cruttenden at Outside the Box Comedy Club Kingston
+DESCRIPTION:https://www.londontheatres.com/event/hal-cruttenden-at-outsid
+ e-the-box-comedy-club-kingston
+LOCATION:The Fighting Cocks\, Kingston Upon Thames\, London
+URL:https://www.londontheatres.com/event/hal-cruttenden-at-outside-the-bo
+ x-comedy-club-kingston
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4109521be6904d1da5e5f413501b8279-occ_0d9e6e300a744f37bad2de9abe4
@@ -14099,6 +14489,86 @@ LOCATION:The Garden Cinema\, 39-41 Parker Street London WC2B 5PQ\, London
 URL:https://www.thegardencinema.co.uk/film/case-137/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_046b0adc147845d895dfbfb80d3e7901-occ_98c12b04e29946d8ac5606d5702
+ 2adb1@thingstodoinyourcity
+DTSTAMP:20261102T035548Z
+DTSTART:20261103T151500Z
+SUMMARY:FATHERLAND
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip through a 
+ ruined Germany. Sandra Hüller and Hanns Zischler star in this 82-minute
+  film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?
+ Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.Tc
+ sPerformance_802080.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802080.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_046b0adc147845d895dfbfb80d3e7901-occ_0575bc0219994e32bf55dc130ad
+ 18409@thingstodoinyourcity
+DTSTAMP:20261102T035548Z
+DTSTART:20261103T170000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip through a 
+ ruined Germany. Sandra Hüller and Hanns Zischler star in this 82-minute
+  film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?
+ Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.Tc
+ sPerformance_802080.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802080.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_046b0adc147845d895dfbfb80d3e7901-occ_b917810b2f334c4bbb7088ca7ef
+ a86c5@thingstodoinyourcity
+DTSTAMP:20261102T035548Z
+DTSTART:20261104T200000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip through a 
+ ruined Germany. Sandra Hüller and Hanns Zischler star in this 82-minute
+  film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?
+ Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.Tc
+ sPerformance_802080.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802080.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_046b0adc147845d895dfbfb80d3e7901-occ_bea0f0593b5145a0a428e327540
+ 34676@thingstodoinyourcity
+DTSTAMP:20261102T035548Z
+DTSTART:20261105T150000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip through a 
+ ruined Germany. Sandra Hüller and Hanns Zischler star in this 82-minute
+  film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?
+ Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.Tc
+ sPerformance_802080.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802080.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_046b0adc147845d895dfbfb80d3e7901-occ_27658b9319764cb29fa6dcdf735
+ 40776@thingstodoinyourcity
+DTSTAMP:20261102T035548Z
+DTSTART:20261105T164500Z
+SUMMARY:FATHERLAND
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip through a 
+ ruined Germany. Sandra Hüller and Hanns Zischler star in this 82-minute
+  film.\nhttps://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?
+ Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.Tc
+ sPerformance_802080.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_802080.TcsSection_543
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_adb9916ef27c430bbb8dc786bef6f429-occ_7a7f296bfdc740758b74b53b52a
  7c3c0@thingstodoinyourcity
 DTSTAMP:20261022T030819Z
@@ -14576,6 +15046,21 @@ LOCATION:The Nehru Centre\, 8 South Audley Street Mayfair W1K1HF\, Mayfai
  r\, London
 URL:https://www.eventbrite.co.uk/e/ekam-the-many-within-the-one-centre-fo
  r-peace-and-performing-arts-tickets-2003916141122
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_87320cd2cf0f4149a683dbab00c57310-occ_389a3e53a005458a8d917bedef0
+ c6bdf@thingstodoinyourcity
+DTSTAMP:20261102T031346Z
+DTSTART:20261103T183000Z
+DTEND:20261103T193000Z
+SUMMARY:First Look at First Light
+DESCRIPTION:Some of the team behind the First Light project share plans f
+ or the revamped Royal Observatory. Attendees see new architectural desig
+ ns and can put questions to the team.\nPrice: Free for Members\nhttps://
+ www.rmg.co.uk/whats-on/national-maritime-museum/first-look-first-light
+LOCATION:National Maritime Museum\, London
+URL:https://www.rmg.co.uk/whats-on/national-maritime-museum/first-look-fi
+ rst-light
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bb3a8a6c6f044ff8a58694fd47bf0f92-occ_e793824f511f4049a79b776a278
@@ -15195,54 +15680,6 @@ URL:https://www.outsavvy.com/event/39775/trans-sauna-peckham-november-202
  6
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_522a609e2fec4a148c4001e05ba
- 67c47@thingstodoinyourcity
-DTSTAMP:20261027T083013Z
-DTSTART:20261103T190000Z
-SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
- e-shot-with-every-ticket
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
- ith-every-ticket
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_207ec614ba6e4b268bc722eddf7
- d0d73@thingstodoinyourcity
-DTSTAMP:20261027T083013Z
-DTSTART:20261110T190000Z
-SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
- e-shot-with-every-ticket
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
- ith-every-ticket
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_7e928523e12f4e3495b84220836
- ef81f@thingstodoinyourcity
-DTSTAMP:20261027T083013Z
-DTSTART:20261117T190000Z
-SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
- e-shot-with-every-ticket
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
- ith-every-ticket
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0c8ae05caaf74b1aa87b2f156fa45198-occ_4ce42af90e5b40a897c4dd6a600
- 0da7e@thingstodoinyourcity
-DTSTAMP:20261027T083013Z
-DTSTART:20261124T190000Z
-SUMMARY:Tuesday Night Comedy Free SHOT With Every Ticket
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-fre
- e-shot-with-every-ticket
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-free-shot-w
- ith-every-ticket
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_99b962dd50ee4d1abe9abf86d80dac23-occ_68900b167f074e7eaa1a8a1c824
  14572@thingstodoinyourcity
 DTSTAMP:20261101T095326Z
@@ -15289,114 +15726,6 @@ LOCATION:Cadogan Hall\, 5 Sloane Terrace\, London\, SW1X 9DQ\, Chelsea\,
 URL:https://nearhere.events/uk/greater-london/belgravia
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_58852abed7af4e1780dfd3ba66c
- 46c6c@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261103T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_4fbbb1f53198490c8431e5aee0e
- d8ecc@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261110T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_ac9b3b5d8f32437bbf7a5bc876f
- 2a0eb@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261117T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_57a905a68d284104b6b27533d3e
- 216a2@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261124T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_f0dd34a758be4cb0bfd8489747c
- 6cfa3@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261201T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_77e2973c00eb415bb183f4162e0
- 921e6@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261208T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_4548b82405834980876ab3beabf
- 58e52@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261215T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_82e7b99ba6cd49b6813b70c7d79
- 558c4@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261222T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_91980c91514f40638d03eafdcc39035c-occ_b3d63258954b4838bb9d9fae406
- c3edb@thingstodoinyourcity
-DTSTAMP:20261027T083252Z
-DTSTART:20261229T200000Z
-SUMMARY:Hot Comedy
-DESCRIPTION:The HOTTEST comedy show in town brings explosive stand-up to 
- Hot Toddy in Camden. Performances run on Tuesdays at 20:00 from late Oct
- ober to late December.\nhttps://www.londontheatres.com/event/hot-comedy
-LOCATION:Hot Toddys\, London
-URL:https://www.londontheatres.com/event/hot-comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7f2c3b8f1ddb470da6ae799327930682-occ_0822ae41b1fb430d9a04e73129e
  c4402@thingstodoinyourcity
 DTSTAMP:20261101T125918Z
@@ -15424,50 +15753,6 @@ DESCRIPTION:A sell-out mixed bill where the best comedians in town perfor
 LOCATION:170 Drury Lane\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/tuesday-drury-44
  /
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6cbc08e3474546f0b1b8bf2eb01d0ce0-occ_5ed4eecb30ee4a599ab52eca945
- 064d6@thingstodoinyourcity
-DTSTAMP:20261027T083130Z
-DTSTART:20261103T201500Z
-SUMMARY:Tuesday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-sho
- w
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6cbc08e3474546f0b1b8bf2eb01d0ce0-occ_34f708c2c7ee4a0b807fcf03773
- fdf35@thingstodoinyourcity
-DTSTAMP:20261027T083130Z
-DTSTART:20261110T201500Z
-SUMMARY:Tuesday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-sho
- w
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6cbc08e3474546f0b1b8bf2eb01d0ce0-occ_d47df2d6ac1a437db85d37da175
- 7293f@thingstodoinyourcity
-DTSTAMP:20261027T083130Z
-DTSTART:20261117T201500Z
-SUMMARY:Tuesday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-sho
- w
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6cbc08e3474546f0b1b8bf2eb01d0ce0-occ_3634e6481d514033a4cb25e76d7
- a8f2d@thingstodoinyourcity
-DTSTAMP:20261027T083130Z
-DTSTART:20261124T201500Z
-SUMMARY:Tuesday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/tuesday-night-comedy-sho
- w
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/tuesday-night-comedy-show
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_73c070d7fc1a47c48d7b9b38b48241de-occ_8bad4e152f4e4dd8a8965e2f6e9
@@ -16952,6 +17237,16 @@ URL:https://www.soas.ac.uk/about/event/rsaa-and-soas-annual-presentation-
  asia-sixth-form-students-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5230a6dbc5e5488b87dd8f06396bf8e5-occ_1fe0e13a214d4ec896a2ff3015e
+ 16127@thingstodoinyourcity
+DTSTAMP:20261102T035358Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Rammstein - Live in Mexico City
+DESCRIPTION:https://cinemaguide.co.uk/london
+LOCATION:London
+URL:https://cinemaguide.co.uk/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5767397315cf4fab84adfc7a90887269-occ_8eb20183d6724388bc7d2725da1
  eba32@thingstodoinyourcity
 DTSTAMP:20261101T023725Z
@@ -17385,6 +17680,16 @@ SUMMARY:What Time Is It There?
 DESCRIPTION:https://www.thegardencinema.co.uk/
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f2f4df119f074d5a9ea6b906d7cdfc99-occ_f9c7a48e95e34552a33bf8c8e0a
+ 0cb83@thingstodoinyourcity
+DTSTAMP:20261102T035325Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:What Time Is It There?
+DESCRIPTION:https://cinemaguide.co.uk/london
+LOCATION:London
+URL:https://cinemaguide.co.uk/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f3254204ab2a4206a32dbf791313ab4f-occ_3c9b1d94cf6843eea286d990887
@@ -18431,6 +18736,36 @@ LOCATION:170 Drury Lane (ground floor)\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e34beba08f4b456eb7a41618f132ec80-occ_448b27ccfb4d4282a16c66ccfa9
+ a4a12@thingstodoinyourcity
+DTSTAMP:20261102T024107Z
+DTSTART:20261104T180000Z
+SUMMARY:ESP Live From Soho
+DESCRIPTION:Hosted by James Bierman\, each monthly evening features a lea
+ ding theatre\, music or film voice. Proceeds from £5 tickets go to The 
+ Schools Consent Project and Everyone's Invited.\nPrice: Prices from £6.
+ 50 (includes booking fee)\nhttps://underbellyboulevard.com/tickets/esp-l
+ ive-from-soho/
+LOCATION:Underbelly Boulevard Soho\, 6 Walker's Court Soho London W1F 0BT
+ \, Soho\, London
+URL:https://underbellyboulevard.com/tickets/esp-live-from-soho/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e34beba08f4b456eb7a41618f132ec80-occ_7efdfd943d7e492285f0a3f8c68
+ c4485@thingstodoinyourcity
+DTSTAMP:20261102T024107Z
+DTSTART:20261202T180000Z
+SUMMARY:ESP Live From Soho
+DESCRIPTION:Hosted by James Bierman\, each monthly evening features a lea
+ ding theatre\, music or film voice. Proceeds from £5 tickets go to The 
+ Schools Consent Project and Everyone's Invited.\nPrice: Prices from £6.
+ 50 (includes booking fee)\nhttps://underbellyboulevard.com/tickets/esp-l
+ ive-from-soho/
+LOCATION:Underbelly Boulevard Soho\, 6 Walker's Court Soho London W1F 0BT
+ \, Soho\, London
+URL:https://underbellyboulevard.com/tickets/esp-live-from-soho/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b4dabe1dfbfb440c8763dc3b4c890e9a-occ_ccfc95c9f5484f93abe8f5beb3b
  9413f@thingstodoinyourcity
 DTSTAMP:20261101T113132Z
@@ -18843,6 +19178,21 @@ LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
  \, London WC2H 0HF\, Covent Garden\, London
 URL:https://jkcomedyclub.co.uk/comedy-show/wednesday-night-comedy-8pm-cov
  ent-garden-4nov26/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c4bb392573ce4cd3b6bb8b08f096b022-occ_878c7699766447cd86c6f6315d0
+ e4e07@thingstodoinyourcity
+DTSTAMP:20261102T033853Z
+DTSTART:20261104T201500Z
+DTEND:20261104T213000Z
+SUMMARY:The History of the Female Vampire- Talks in the Pub
+DESCRIPTION:Dr Sarah Gamble traces the female vampire from Lilith and Bat
+ hory to Carmilla and Dracula. Expect a pint\, pub snacks and modern femi
+ nist rewrites.\nPrice: £12 - £32.55\nhttps://www.eventbrite.co.uk/e/th
+ e-history-of-the-female-vampire-talks-in-the-pub-tickets-2002136736876
+LOCATION:The Blues Kitchen Brixton\, 40 Acre Lane London SW2 5SP\, London
+URL:https://www.eventbrite.co.uk/e/the-history-of-the-female-vampire-talk
+ s-in-the-pub-tickets-2002136736876
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e2f479265524b6b9f03ff8eab0ef2ff-occ_41d6dd55fd69419aa478853e311
@@ -19436,6 +19786,20 @@ URL:https://www.hackneyempire.co.uk/events/decline-and-falling-over-with-
  jo-brand
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4ab846cc657c42beb893e08b8015b9e9-occ_2295ffb091a44c1e9b1d7440364
+ e04fc@thingstodoinyourcity
+DTSTAMP:20261102T041449Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:EASTBENDERS - A Drag Celebration of EastEnders
+DESCRIPTION:A drag cabaret tribute to EastEnders' Albert Square residents
+ \, staged in a theatre turned into The Queen Vic. Expect drag\, drama an
+ d maybe a sausage surprise or two.\nhttps://www.londontheatres.com/event
+ /eastbenders-_-a-drag-celebration-of-eastenders
+LOCATION:The Clapham Grand\, London
+URL:https://www.londontheatres.com/event/eastbenders-_-a-drag-celebration
+ -of-eastenders
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_17b837383e534850a2f6ecf6f379db8e-occ_cd2bf1a5b3ec4e2282c5b34eeff
  0e0cc@thingstodoinyourcity
 DTSTAMP:20261031T220129Z
@@ -19941,6 +20305,19 @@ LOCATION:St Mary Le Strand Church\, The Strand\, London WC2R 1ES\, London
 URL:https://www.wherecanwego.com/item/e1598020
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f74ad33f697f4fb199b615ae495c834a-occ_33f9883eee224755908cc63d0ed
+ 4edb1@thingstodoinyourcity
+DTSTAMP:20261102T023906Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Live Comedy Nights\, The Trafalgar
+DESCRIPTION:Weekly comedy nights in The Trafalgar's downstairs performanc
+ e space\, with rotating stand-up line-ups. Past bills have featured Harr
+ y Hill\, Kevin Bridges and Sara Pascoe.\nPrice: Book Tickets — £18.00
+ \nhttps://www.inchelsea.co.uk/events
+LOCATION:The Trafalgar\, 224-226 King's Road\, London
+URL:https://www.inchelsea.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f0f65f5b3b4945738288eb9a91b6441f-occ_3e702c3a1bb74f459e406f73b8e
  be3a0@thingstodoinyourcity
 DTSTAMP:20261031T220710Z
@@ -19979,6 +20356,34 @@ LOCATION:Outside Archway Underground Station\, Highgate Hill exit\, Archw
  ay · London\, London
 URL:https://www.meetup.com/london-society-of-explorers/events/317027300?e
  ventOrigin=city_outdoor_activities_events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0ff4918c59b845efadb99e3831fd24e1-occ_1de321dbb2bd41e2a935037ff93
+ 9ef2e-2026-11-05@thingstodoinyourcity
+DTSTAMP:20261102T023902Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Look\, Learn\, Make: Papier-mâché Picasso
+DESCRIPTION:Design and paint your own papier-mâché vase\, plate or scul
+ ptural object in this two-part workshop. Sessions also explore ceramics 
+ history and contemporary art.\nPrice: Price: £30 for both workshops\nht
+ tps://royaldocks.london/whats-on
+LOCATION:Unit F13\, Royal Albert Wharf\, Unit F13\, Royal Albert Wharf\, 
+ London E16 2GU\, London
+URL:https://royaldocks.london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0ff4918c59b845efadb99e3831fd24e1-occ_1de321dbb2bd41e2a935037ff93
+ 9ef2e-2026-11-12@thingstodoinyourcity
+DTSTAMP:20261102T023902Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Look\, Learn\, Make: Papier-mâché Picasso
+DESCRIPTION:Design and paint your own papier-mâché vase\, plate or scul
+ ptural object in this two-part workshop. Sessions also explore ceramics 
+ history and contemporary art.\nPrice: Price: £30 for both workshops\nht
+ tps://royaldocks.london/whats-on
+LOCATION:Unit F13\, Royal Albert Wharf\, Unit F13\, Royal Albert Wharf\, 
+ London E16 2GU\, London
+URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e8a3c39c8fed4c18b2c2dc6626882a93-occ_6eb2c2de1cc14966b788f271d68
@@ -20147,6 +20552,22 @@ DESCRIPTION:A couple preparing to wed confront buried secrets and questio
  g.uk/show/naked-
 LOCATION:The Cockpit\, Gateforth Street\, London NW8 8EH\, London
 URL:https://www.thecockpit.org.uk/show/naked-
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3f6ab90514c34de1892d997eb51b6de6-occ_afb807d6e0ee44cd8d205941dd9
+ e89a2@thingstodoinyourcity
+DTSTAMP:20261102T042344Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:National Theatre Live: Golden Boy
+DESCRIPTION:Josh O'Connor stars in Sam Yates's revival of Clifford Odets'
+  1930s drama about a violinist pulled into boxing. A live string quartet
+  brings the production to life.\nhttps://www.phoenixcinema.co.uk/Phoenix
+ CinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWeb
+ MenuItem_0.TcsWebTab_0.TcsPerformance_703977.TcsSection_543
+LOCATION:Phoenix Cinema\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
+ ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
+ ormance_703977.TcsSection_543
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_76d7216d6bd8463aba0e1bd80d6698d4-occ_a4c07e7c5ea14f089aabca0257e
@@ -20397,6 +20818,16 @@ DESCRIPTION:Launches a new LSE Public Policy Review issue on sustainabili
  oural-change
 LOCATION:Malaysia Auditorium\, Centre Building\, London
 URL:https://www.lse.ac.uk/events/sustainability-behavioural-change
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b43622d547dc4d99ac18344e978e9760-occ_b2340f45b0d74cd1aa9ec1adc4c
+ 17c02@thingstodoinyourcity
+DTSTAMP:20261102T050242Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Tango After Dark
+DESCRIPTION:https://www.whatsonstage.com/
+LOCATION:London
+URL:https://www.whatsonstage.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6bc90b1c873240b4882ac973ee401be4-occ_2538b9c71cb346348eab6cb792f
@@ -20682,6 +21113,16 @@ DESCRIPTION:Bass trombonist José Teixeira performs a lunchtime recital a
  ://foundlingmuseum.org.uk/whats-on
 LOCATION:Foundling Museum\, London
 URL:https://foundlingmuseum.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_92641d0fe41447888e2598757dc2899d-occ_4c2603f5156c494ab14df885558
+ f4a8f@thingstodoinyourcity
+DTSTAMP:20261102T041639Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:‘Wicker Sour’ cocktails\, straw man making + Wicker
+DESCRIPTION:https://cinemaguide.co.uk/london
+LOCATION:London
+URL:https://cinemaguide.co.uk/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f73131c926a04b43ace860775ec47c1f-occ_fa1ab4a16c304473b7687138dd2
@@ -22372,6 +22813,16 @@ URL:https://www.eventbrite.co.uk/e/does-size-matter-opening-night-party-f
  irepit-art-gallery-tickets-2003543826519
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5d720cbb444441149b4d51070ae64caa-occ_0e42aad9f54c41fcb5d69eeb082
+ 5d931@thingstodoinyourcity
+DTSTAMP:20261102T041332Z
+DTSTART:20261105T180000Z
+SUMMARY:LOL : Ladies Of Laughter
+DESCRIPTION:https://www.londontheatres.com/event/lol-:-ladies-of-laughter
+LOCATION:(Drury Lane) The Top Secret Comedy Club\, London
+URL:https://www.londontheatres.com/event/lol-:-ladies-of-laughter
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_53466890397d452aa4f4c09dfee8a141-occ_1cb29178e9234d8aa2e11d246d1
  c98e3@thingstodoinyourcity
 DTSTAMP:20261101T215838Z
@@ -22569,23 +23020,6 @@ LOCATION:The London Palladium\, LONDON\, London
 URL:https://stand-up.co.uk/comedy-london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3f6ab90514c34de1892d997eb51b6de6-occ_afb807d6e0ee44cd8d205941dd9
- e89a2@thingstodoinyourcity
-DTSTAMP:20261031T233340Z
-DTSTART:20261105T190000Z
-DTEND:20261105T220000Z
-SUMMARY:National Theatre Live: Golden Boy
-DESCRIPTION:Sam Yates directs Josh O'Connor in a searing revival of Cliff
- ord Odets' American classic set in 1930s New York. A live string quartet
-  brings this propulsive drama to life.\nhttps://www.phoenixcinema.co.uk/
- PhoenixCinemaLondon.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt
- .TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_703977.TcsSection_543
-LOCATION:Phoenix Cinema\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
- ng=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerf
- ormance_703977.TcsSection_543
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5ae2ab2f74304e31a78cc1bda40069d2-occ_bad6375597184836aa071067b06
  ae47d@thingstodoinyourcity
 DTSTAMP:20261101T011645Z
@@ -22666,6 +23100,19 @@ SUMMARY:‘Wicker Sour’ cocktails\, straw man making + Wicker
 DESCRIPTION:https://cinemaguide.co.uk/london
 LOCATION:London
 URL:https://cinemaguide.co.uk/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d8d9f5f8114f4186984f2da248087b6c-occ_9024b727d4c84becb26ea05ce97
+ 2019d@thingstodoinyourcity
+DTSTAMP:20261102T041337Z
+DTSTART:20261105T193000Z
+SUMMARY:Christmas in Ireland
+DESCRIPTION:Set in a traditional Irish pub on Christmas Eve\, with live I
+ rish classics and Christmas songs. From the producers of Seven Drunken N
+ ights\, featuring 'Fairytale Of New York'.\nhttps://www.londontheatres.c
+ om/event/christmas-in-ireland
+LOCATION:New Wimbledon Theatre\, London
+URL:https://www.londontheatres.com/event/christmas-in-ireland
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3b326799a4364ae09e612d168eacdd4d-occ_585a344434c945a99563c54905d
@@ -23574,6 +24021,111 @@ DESCRIPTION:Six weeks of skating and confidence-building for ages 4–16.
  ego.com/item/e1608233
 LOCATION:Elthorne Sports Centre\, Off Westlea Rd W7 2AD\, Off Westlea Roa
  d\, London W7 2AD\, London
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-11-06@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-11-13@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261113
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-11-20@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261120
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-11-27@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-12-04@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_0da06aeef44449da9a6c261b600
+ a3acd-2026-12-11@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
+URL:https://www.wherecanwego.com/item/e1608233
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_42f2664d9163472f96aa3a8337c97a82-occ_5250b0ccec6446919ff9b0c1aeb
+ 20127@thingstodoinyourcity
+DTSTAMP:20261102T024259Z
+DTSTART;VALUE=DATE:20261211
+SUMMARY:RollaDome Elthorne Skate Club Six-Week Programme
+DESCRIPTION:Six weeks of skating\, learning\, confidence-building and fun
+  for ages 4–16. Beginners and returning skaters welcome\; roller skate
+ s and protective equipment available.\nPrice: Community Member: £26\; S
+ tandard Member: £30\; Non-Member: £70\nhttps://www.wherecanwego.com/it
+ em/e1608233
+LOCATION:Elthorne Sports Centre\, Off Westlea Road\, London W7 2AD\, Lond
+ on
 URL:https://www.wherecanwego.com/item/e1608233
 END:VEVENT
 BEGIN:VEVENT
