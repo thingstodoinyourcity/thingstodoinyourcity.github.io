@@ -2527,7 +2527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_7ef04e20f7b34c82a991ba50253
  8351f@thingstodoinyourcity
-DTSTAMP:20261029T115106Z
+DTSTAMP:20261102T191731Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20270124
 SUMMARY:PLATFORM: Simone Brewster
@@ -2541,7 +2541,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_93b92e9ef7f6468d9da883c0239
  efc49@thingstodoinyourcity
-DTSTAMP:20261029T115106Z
+DTSTAMP:20261102T191731Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:PLATFORM: Simone Brewster
+DESCRIPTION:The second PLATFORM display presents designer Simone Brewster
+ 's first-ever museum show across four sections. It features the new 'Neg
+ rita' bench and a sound piece.\nPrice: Free to visit\nhttps://designmuse
+ um.org/exhibitions/platform-simone-brewster
+LOCATION:Design Museum\, Level 1\, London
+URL:https://designmuseum.org/exhibitions/platform-simone-brewster
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_994e92b5e0394a6cabe6c5f3ae9
+ 5caf0@thingstodoinyourcity
+DTSTAMP:20261102T191731Z
 DTSTART:20261107T100000Z
 SUMMARY:PLATFORM: Simone Brewster
 DESCRIPTION:The second PLATFORM display presents designer Simone Brewster
@@ -2554,7 +2567,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_33f8bc2fdeed4727a784e3c6900
  5c30e@thingstodoinyourcity
-DTSTAMP:20261029T115106Z
+DTSTAMP:20261102T191731Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:PLATFORM: Simone Brewster
+DESCRIPTION:The second PLATFORM display presents designer Simone Brewster
+ 's first-ever museum show across four sections. It features the new 'Neg
+ rita' bench and a sound piece.\nPrice: Free to visit\nhttps://designmuse
+ um.org/exhibitions/platform-simone-brewster
+LOCATION:Design Museum\, Level 1\, London
+URL:https://designmuseum.org/exhibitions/platform-simone-brewster
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_357323e094aa4cc88ce19e6735ff6735-occ_514e027391524cda9ea2512a525
+ b566e@thingstodoinyourcity
+DTSTAMP:20261102T191731Z
 DTSTART:20261108T100000Z
 SUMMARY:PLATFORM: Simone Brewster
 DESCRIPTION:The second PLATFORM display presents designer Simone Brewster
@@ -6992,10 +7018,10 @@ SUMMARY:Burlesque the Musical
 DESCRIPTION:Directed and choreographed by Todrick Hall\, with songs by Ch
  ristina Aguilera\, Sia and Diane Warren. Expect sequins\, powerhouse voc
  als and glamour over 2h 30m.\nPrice: From £32 (up to £210)\nhttps://lo
- ndontheatrehub.co.uk/shows/burlesque-the-musical/
+ ndontheatrehub.co.uk/shows/burlesque-the-musical
 LOCATION:The Arts at Marble Arch\, Marble Arch\, London W1H 7DX\, Marble 
  Arch\, London
-URL:https://londontheatrehub.co.uk/shows/burlesque-the-musical/
+URL:https://londontheatrehub.co.uk/shows/burlesque-the-musical
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1cf2b992bfd246dbbe380d346b3a5e78-occ_4146279e628f46a2990566f212d
@@ -7762,6 +7788,19 @@ SUMMARY:Reflections
 DESCRIPTION:https://www.waddingtoncustot.com/exhibitions/current-forthcom
  ing/location/1
 LOCATION:Waddington Custot\, London
+URL:https://www.waddingtoncustot.com/exhibitions/current-forthcoming/loca
+ tion/1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6a08ac9c0e164606b07ac1e5051f4a90-occ_d8fa916e95464c089aa13d6b02c
+ b9e24@thingstodoinyourcity
+DTSTAMP:20261102T185731Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261121
+SUMMARY:Reflections
+DESCRIPTION:https://www.waddingtoncustot.com/exhibitions/current-forthcom
+ ing/location/1
+LOCATION:London
 URL:https://www.waddingtoncustot.com/exhibitions/current-forthcoming/loca
  tion/1
 END:VEVENT
@@ -10870,6 +10909,17 @@ LOCATION:Science Museum\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4c1e8eed063e4a70b9f91ebcc132e31e-occ_36fa80ce35a145a6b2641d39e32
+ b11cf@thingstodoinyourcity
+DTSTAMP:20261028T225352Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Pokémon Space Trail
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Science Museum\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_490ebf2748f74327ba8a7d734c3f0f99-occ_2a6c7567c89b47e4892b13ada6a
  9b40e@thingstodoinyourcity
 DTSTAMP:20261101T144548Z
@@ -12174,6 +12224,22 @@ UID:cand_263c4d9b396a439e8792a45545c1d4ea-occ_ce4e8e19ade04745b9f435dafd4
  6d7e5@thingstodoinyourcity
 DTSTAMP:20261021T201324Z
 DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270110
+SUMMARY:Justin Caguiat: Change Ringing
+DESCRIPTION:Thermochromic paintings shift with heat and light in this sit
+ e-responsive installation. Bronze bells cast as flowers and seeds ring i
+ n changing sequences.\nPrice: £0.00\nhttps://serpentinegalleries.ticket
+ ing.veevartapp.com/tickets/view/list
+LOCATION:Serpentine South Gallery\, Kensington Gardens\, London W2 3XA\, 
+ London
+URL:https://serpentinegalleries.ticketing.veevartapp.com/tickets/view/lis
+ t
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_263c4d9b396a439e8792a45545c1d4ea-occ_3c5874962bc74311bccae0b5b8e
+ b2665@thingstodoinyourcity
+DTSTAMP:20261021T201324Z
+DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20270110
 SUMMARY:Justin Caguiat: Change Ringing
 DESCRIPTION:Thermochromic paintings shift with heat and light in this sit
@@ -18424,6 +18490,20 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9f58312be79e4f97b05c9a310ebd02f0-occ_43b40d7fb0ff4848af9f7bdf281
+ 149b1@thingstodoinyourcity
+DTSTAMP:20261102T173418Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261114
+SUMMARY:Library Saturday Workshops
+DESCRIPTION:Pick the Saturday sessions you need on library resources\, se
+ arching\, source evaluation and Zotero referencing. One-to-one librarian
+  appointments are also available.\nhttps://www.bbk.ac.uk/events/event/64
+ 592/library-saturday-workshops
+LOCATION:Hybrid\, London
+URL:https://www.bbk.ac.uk/events/event/64592/library-saturday-workshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c462f5d0add246cf932ef4ac99f37b6e-occ_b85417c857924de4869eace341e
  5bdba@thingstodoinyourcity
 DTSTAMP:20261026T193425Z
@@ -18473,20 +18553,6 @@ LOCATION:Glaziers Hall\, 9 Montague Close\, London\, SE1 9DD\, Off-West E
  nd\, London
 URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
  e/serial-killer-speakeasy-london_1729800/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9f58312be79e4f97b05c9a310ebd02f0-occ_43b40d7fb0ff4848af9f7bdf281
- 149b1@thingstodoinyourcity
-DTSTAMP:20261029T053459Z
-DTSTART:20261024T130000Z
-DTEND:20261114T130000Z
-SUMMARY:Library Saturday Workshops
-DESCRIPTION:Covers finding resources\, improving searches\, evaluating so
- urces and referencing with Zotero. Attend only the sessions you need\; o
- ne-to-one librarian appointments are also offered.\nhttps://www.bbk.ac.u
- k/events/event/64592/library-saturday-workshops
-LOCATION:Hybrid\, London
-URL:https://www.bbk.ac.uk/events/event/64592/library-saturday-workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_974c67ff07244f2b85a7c86e9c79f2f2-occ_138a1ea7039444a0bcb8e07e724
@@ -21026,6 +21092,17 @@ LOCATION:V&A South Kensington\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3aa1c514d551411a88b2398aa6da66aa-occ_dee97dfb517d43f18976db7c1d3
+ 68b60@thingstodoinyourcity
+DTSTAMP:20261028T223411Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270530
+SUMMARY:Degrees of Disruption: Vera Molnar and Generative Art
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:V&A South Kensington\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec80dcbf343c4f1b99f8a043938697aa-occ_f84e2645e22842809611b847a8f
  b3d30@thingstodoinyourcity
 DTSTAMP:20261028T092954Z
@@ -21187,6 +21264,20 @@ UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_bf6d70be2a754d05984a86601e7
  2e3f2@thingstodoinyourcity
 DTSTAMP:20261028T000110Z
 DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270117
+SUMMARY:Freddie Mercury | Splendid Things
+DESCRIPTION:Eight looks span Freddie Mercury's iconic career\, from music
+  videos to legendary performances. A free\, no-ticket trail takes visito
+ rs across the museum.\nPrice: Free - no booking required\nhttps://www.va
+ m.ac.uk/exhibitions/freddie-mercury-splendid-things
+LOCATION:V&A South Kensington\, Cromwell Road London\, SW7 2RL\, London
+URL:https://www.vam.ac.uk/exhibitions/freddie-mercury-splendid-things
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_8fafd50f2d8044ff98b6d4cfaad
+ 16db0@thingstodoinyourcity
+DTSTAMP:20261028T000110Z
+DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20270117
 SUMMARY:Freddie Mercury | Splendid Things
 DESCRIPTION:Eight looks span Freddie Mercury's iconic career\, from music
@@ -21698,6 +21789,17 @@ LOCATION:Natural History Museum\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ad67ab0da7894b62bb4987118ea4b09e-occ_c71e884d028242ada9414298194
+ ae020@thingstodoinyourcity
+DTSTAMP:20261028T231331Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20280331
+SUMMARY:NATURE AND US GALLERY
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Natural History Museum\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0ed4e618d8ef4cbeb5005ccb31d8bc93-occ_492215f7131c4e3eb15eeb14f47
  ce2b3@thingstodoinyourcity
 DTSTAMP:20261026T161909Z
@@ -21965,6 +22067,17 @@ LOCATION:Japan House London\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e60a34f1c72b46dc8df5f69d1cbc0c66-occ_c085f268360a443c92d0af25a67
+ 1ebd6@thingstodoinyourcity
+DTSTAMP:20261028T224815Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261213
+SUMMARY:Takatori Ware and Koishiwara Ware
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:Japan House London\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1a9d3099530743e18131aef967994242-occ_3bce18b274ff4914ba209f0660a
  38e9e@thingstodoinyourcity
 DTSTAMP:20261028T223637Z
@@ -22002,6 +22115,17 @@ UID:cand_1a9d3099530743e18131aef967994242-occ_f1fe407745ce47a69757ff6074a
  2ea33@thingstodoinyourcity
 DTSTAMP:20261028T223637Z
 DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261128
+SUMMARY:Tasara Quartet by Gary Power MRSS
+DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
+LOCATION:The Royal Society of Sculptors\, London
+URL:https://www.southkenculturequarter.com/this-weekends-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a9d3099530743e18131aef967994242-occ_4cd81887531340588703e03e6b1
+ b67eb@thingstodoinyourcity
+DTSTAMP:20261028T223637Z
+DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261128
 SUMMARY:Tasara Quartet by Gary Power MRSS
 DESCRIPTION:https://www.southkenculturequarter.com/this-weekends-events
@@ -25500,6 +25624,21 @@ UID:cand_200c6e73b05c45d897b8923c9355b11a-occ_8ad2604f6eb44b55833e0f3b02a
 DTSTAMP:20261031T165250Z
 DTSTART;VALUE=DATE:20261031
 DTEND:20261115T173000Z
+SUMMARY:Meeting Mohini
+DESCRIPTION:Zoya Thomas Lobo's photographs follow the Koovagam festival c
+ elebrating Mohini and Aravan. It is her first solo exhibition and first 
+ outside India.\nPrice: Free\nhttps://www.horniman.ac.uk/event/meeting-mo
+ hini/
+LOCATION:Balcony Gallery - above the World Gallery\, 100 London Road\, Fo
+ rest Hill London SE23 3PQ\, London
+URL:https://www.horniman.ac.uk/event/meeting-mohini/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_200c6e73b05c45d897b8923c9355b11a-occ_a251580b4ddd45a8a9e209b7e5f
+ cfa9d@thingstodoinyourcity
+DTSTAMP:20261031T165250Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261115
 SUMMARY:Meeting Mohini
 DESCRIPTION:Zoya Thomas Lobo's photographs follow the Koovagam festival c
  elebrating Mohini and Aravan. It is her first solo exhibition and first 
@@ -29222,6 +29361,48 @@ LOCATION:Alexandra Palace\, London
 URL:https://www.alexandrapalace.com/whats-on/upside-down-london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_dd183d05deff4100819974f4dc423784-occ_d16228e143444aa7971752042b6
+ 69512@thingstodoinyourcity
+DTSTAMP:20261102T185559Z
+DTSTART:20261104T104500Z
+DTEND:20261124T130000Z
+SUMMARY:November workshops at Re:Mind Studio
+DESCRIPTION:Workshops combine breathwork\, sound healing\, reflexology an
+ d cacao. Practitioners include Mayra Ganzinotti\, Jasmine St Cliere and 
+ Francesca Secolonovo.\nPrice: £60 drop-in or 2 class credits\nhttps://w
+ ww.remindstudio.co.uk/novemberworkshops
+LOCATION:Re:Mind Studio\, Eccleston Place\, London
+URL:https://www.remindstudio.co.uk/novemberworkshops
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd183d05deff4100819974f4dc423784-occ_11dfda199359422e85d4f2645c9
+ 209f8@thingstodoinyourcity
+DTSTAMP:20261102T185559Z
+DTSTART:20261104T170000Z
+DTEND:20261124T180000Z
+SUMMARY:November workshops at Re:Mind Studio
+DESCRIPTION:Workshops combine breathwork\, sound healing\, reflexology an
+ d cacao. Practitioners include Mayra Ganzinotti\, Jasmine St Cliere and 
+ Francesca Secolonovo.\nPrice: £60 drop-in or 2 class credits\nhttps://w
+ ww.remindstudio.co.uk/novemberworkshops
+LOCATION:Re:Mind Studio\, Eccleston Place\, London
+URL:https://www.remindstudio.co.uk/novemberworkshops
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dd183d05deff4100819974f4dc423784-occ_5a66ce007fab4ae5bf1eee59056
+ 54b48@thingstodoinyourcity
+DTSTAMP:20261102T185559Z
+DTSTART:20261115T104500Z
+DTEND:20261115T130000Z
+SUMMARY:November workshops at Re:Mind Studio
+DESCRIPTION:Workshops combine breathwork\, sound healing\, reflexology an
+ d cacao. Practitioners include Mayra Ganzinotti\, Jasmine St Cliere and 
+ Francesca Secolonovo.\nPrice: £60 drop-in or 2 class credits\nhttps://w
+ ww.remindstudio.co.uk/novemberworkshops
+LOCATION:Re:Mind Studio\, Eccleston Place\, London
+URL:https://www.remindstudio.co.uk/novemberworkshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e9775456470f4125a8fd4831c43b9981-occ_5dd141c0a5e14920a9883c19085
  2211e@thingstodoinyourcity
 DTSTAMP:20261101T232905Z
@@ -29447,6 +29628,23 @@ DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973. M
  https://www.olympiccinema.com/film/wild-horse-nine
 LOCATION:Olympic Studios\, Barnes\, London
 URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_141463c94e85454b8eef88c47ddbdf12-occ_347dde30f0864eac9d78c0b2201
+ 86e8e@thingstodoinyourcity
+DTSTAMP:20261102T174433Z
+DTSTART:20261104T183000Z
+DTEND:20261125T183000Z
+SUMMARY:Christmas Around the World: Attilus Caviar x JAMM Private Dining
+DESCRIPTION:Five courses\, each inspired by one country and paired with a
+ n Attilus caviar. Eight seats an evening\; champagne on arrival and drin
+ ks with each course.\nPrice: From GBP 250.00\nhttps://stayhappening.com/
+ e/christmas-around-the-world-attilus-caviar-x-jamm-private-dining-E118SB
+ 7IL2YD2
+LOCATION:Attilus Caviar\, 92 York Street\, London\, United Kingdom\, Lond
+ on
+URL:https://stayhappening.com/e/christmas-around-the-world-attilus-caviar
+ -x-jamm-private-dining-E118SB7IL2YD2
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aedc837167e64de387d51e48ed747576-occ_6390e16a00b140d0a4893738719
@@ -31932,6 +32130,46 @@ URL:https://stayhappening.com/e/close-protection-world-security-conferenc
  e-2026-E118SAMSX22FU
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_c182d9f8bb654025ba789409f0f
+ 9d408@thingstodoinyourcity
+DTSTAMP:20261102T183842Z
+DTSTART:20261107T100000Z
+SUMMARY:The Jewel Room
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_01cd8218f545475e9832dbdd870
+ e1137@thingstodoinyourcity
+DTSTAMP:20261102T183842Z
+DTSTART:20261108T100000Z
+SUMMARY:The Jewel Room
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_35437a097f244f2b8c5f6731cef4705e-occ_b5d4cb9e50af4982a336563e369
+ 0f962@thingstodoinyourcity
+DTSTAMP:20261102T184756Z
+DTSTART:20261107T100000Z
+SUMMARY:Victoria: A Royal Childhood
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_35437a097f244f2b8c5f6731cef4705e-occ_87c37decdc7747be95378511d82
+ bd90f@thingstodoinyourcity
+DTSTAMP:20261102T184756Z
+DTSTART:20261108T100000Z
+SUMMARY:Victoria: A Royal Childhood
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f7585d0765a54b459aadc8e03c5ad4b8-occ_34c1973791db4e1ca9a5b49923c
  05898@thingstodoinyourcity
 DTSTAMP:20261031T224056Z
@@ -32734,6 +32972,21 @@ DESCRIPTION:Price: £8.00 (£8.68 incl. fees)\nhttps://ticketlab.app/even
 LOCATION:The Cinema Museum\, 2 Dugard Way\, Renfrew Road\, London\, SE11 
  4TH\, London
 URL:https://ticketlab.app/events/cinemamuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_abc46125cc394ebd8f5428259c7dd3b5-occ_563afed0cba44bc785860da78a1
+ edb5b@thingstodoinyourcity
+DTSTAMP:20261102T174318Z
+DTSTART:20261106T190000Z
+DTEND:20261106T230000Z
+SUMMARY:Dykes\, Dorothy’s & Drag
+DESCRIPTION:Expect fabulous drag\, games\, DJs and a welcome for all dyke
+ s in every form. Photography is taken throughout\, so tell the team if y
+ ou'd rather not be photographed.\nPrice: From GBP 6.13\nhttps://stayhapp
+ ening.com/e/dykes-dorothy%E2%80%99s-andamp-drag-E118SB7CMHAVW
+LOCATION:living womb\, 83 Smeed Road\, London\, United Kingdom\, London
+URL:https://stayhappening.com/e/dykes-dorothy%E2%80%99s-andamp-drag-E118S
+ B7CMHAVW
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8108060e42ad454184ad42fffb6e6a0b-occ_2d9f6e153c6a4726b358b07a21c
@@ -33555,6 +33808,23 @@ URL:https://www.meetup.com/fun-activities-to-do-in-london-on-a-weekend/ev
  ents/316661487/?eventOrigin=city_events_this_weekend
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_93583f4843f749b6a2a6c4f18a28c61d-occ_c4a0c8b4ccb4416e90484de39fd
+ 4e480@thingstodoinyourcity
+DTSTAMP:20261102T174342Z
+DTSTART:20261106T193000Z
+DTEND:20261108T020000Z
+SUMMARY:OSP Shoegaze & Dream Pop Weekender #6
+DESCRIPTION:Ten international shoegaze and dream pop bands play live over
+  two days\, with DJs spinning until 2am. Lineup includes Healees\, Respl
+ andor and Cigarettes For Breakfast.\nhttps://stayhappening.com/e/osp-sho
+ egaze-andamp-dream-pop-weekender-6-resplandor-cigarettes-for-breakfast-l
+ emondaze-more-E2ISYPURHAY
+LOCATION:Strongroom Bar\, 120-124 Curtain Road\,London\, United Kingdom\,
+  London
+URL:https://stayhappening.com/e/osp-shoegaze-andamp-dream-pop-weekender-6
+ -resplandor-cigarettes-for-breakfast-lemondaze-more-E2ISYPURHAY
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c851558dfe734737882bd4bc60385607-occ_1d78e6357ddf444cacf1a0aa173
  801a0@thingstodoinyourcity
 DTSTAMP:20261031T230301Z
@@ -34243,6 +34513,23 @@ DESCRIPTION:Elaine May's 1976 gangster drama follows two small-time mobst
 LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
   London
 URL:https://princecharlescinema.com/film/31617370/mikey-and-nicky/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_580e10677c9d49c68ac9fe3ab746308c-occ_1a217bcdd738474b977222c8b3f
+ 74913@thingstodoinyourcity
+DTSTAMP:20261102T174343Z
+DTSTART:20261106T210000Z
+DTEND;VALUE=DATE:20261225
+SUMMARY:Salsa & Bachata Class + Latino Night\, Live DJ until Late (2am)
+DESCRIPTION:Beginner-friendly salsa and bachata class from 21:00\, then a
+  live DJ spinning salsa\, bachata and reggaeton. Happy hour drinks and l
+ ate-night tapas keep the party going.\nPrice: GBP 0.00 to GBP 7.50\nhttp
+ s://stayhappening.com/e/free-salsa-andamp-bachata-class-latino-night-wit
+ h-live-dj-until-late-2am-E118SB6QUM0PM
+LOCATION:La Terraza Clapham Tapas Bar & Restaurant\, 27–31 Bedford Rd\,
+  London SW4 7SH\, London
+URL:https://stayhappening.com/e/free-salsa-andamp-bachata-class-latino-ni
+ ght-with-live-dj-until-late-2am-E118SB6QUM0PM
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_45c57a0428724ebd80059865844
@@ -35174,6 +35461,20 @@ DTSTART;VALUE=DATE:20261107
 SUMMARY:EVELYN TAOCHENG WANG: Being Poetic Ruins Life
 DESCRIPTION:
 LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21d00340808546d09df2260340184e78-occ_91e8ca31a17d4dff9690b361567
+ 46279@thingstodoinyourcity
+DTSTAMP:20261102T175058Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Egyptian Cookery Class with Amro | London Cookery School
+DESCRIPTION:Chef Amro teaches favourite Egyptian dishes in a hands-on\, f
+ amily-style class. You then sit down to enjoy the meal you have cooked t
+ ogether.\nPrice: From GBP 70.00\nhttps://stayhappening.com/e/sold-out-eg
+ yptian-cookery-class-with-amro-london-cookery-school-E118SB6KRABEQ
+LOCATION:The Bridge Social\, London
+URL:https://stayhappening.com/e/sold-out-egyptian-cookery-class-with-amro
+ -london-cookery-school-E118SB6KRABEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2c858d02f44c4947bdb37ac127043f6f-occ_0c30870258ee4ac6a01abb8ae62
@@ -36370,6 +36671,18 @@ URL:https://www.vam.ac.uk/event/pDoR12r5/members-morning-view-constantino
  ple-to-istanbul
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b511432eb0874680bfcf3a774798160a-occ_e0a5de1222b54167a9468a69dca
+ 79fae@thingstodoinyourcity
+DTSTAMP:20261102T190609Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Minet Gardening Club
+DESCRIPTION:The Minet Garden needs a tidy-up and help is welcome. Spend t
+ ime outdoors\, learn new skills and help your local community.\nPrice: F
+ ree\nhttps://www.lambeth.gov.uk/events
+LOCATION:London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_01dba331df6e40e5babc376f51441449-occ_edc5d596a9bf414e936306419ed
  ba210@thingstodoinyourcity
 DTSTAMP:20261023T001309Z
@@ -36457,6 +36770,18 @@ DESCRIPTION:Zhang Yimou's 'Red Trilogy' culmination returns in a new digi
  .uk/film/raise-the-red-lantern
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/film/raise-the-red-lantern
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a2ca0d9e3b294862bfb4ecc61332814b-occ_4074ccdd8ea44854aae2dfd8745
+ adeab@thingstodoinyourcity
+DTSTAMP:20261102T190104Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Reading Group
+DESCRIPTION:The group is for book lovers who enjoy sharing their thoughts
+  on what they read. Join our reading group.\nPrice: Free\nhttps://www.la
+ mbeth.gov.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61646b1c6597462b87da7f974e2221f6-occ_fbd8b5e5323449e18d2177f9b76
@@ -38993,6 +39318,22 @@ URL:https://www.eventbrite.co.uk/e/winter-tree-identification-railway-fie
  lds-tickets-2003344311765
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_239f4fe143cb47d9b3fb401ad7976fdd-occ_5cbb1799099140f082a32811132
+ e966d@thingstodoinyourcity
+DTSTAMP:20261102T174508Z
+DTSTART:20261107T113000Z
+DTEND:20261107T140000Z
+SUMMARY:Pasta & Dolce Class: Lasagna & Tiramisù
+DESCRIPTION:Learn to make fresh lasagna verde and Eataly's signature Tira
+ misù in a hands-on class with a welcome prosecco. Recipe cards and a si
+ gned class diploma are included.\nPrice: From GBP 5.90\nhttps://stayhapp
+ ening.com/e/pasta-andamp-dolce-class-lasagna-andamp-tiramis%C3%B9-E118SB
+ 7F6LV98
+LOCATION:Eataly\, 135 bishopsgate\, London\, United Kingdom\, London
+URL:https://stayhappening.com/e/pasta-andamp-dolce-class-lasagna-andamp-t
+ iramis%C3%B9-E118SB7F6LV98
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f9d260a0ac784108b512a165ecd797c1-occ_44164c0e941342d2a690e43cede
  249a0@thingstodoinyourcity
 DTSTAMP:20261102T103241Z
@@ -39019,23 +39360,6 @@ DESCRIPTION:Watch all four games on the big screen\, from Italy v South A
  e or stay for the lot.\nhttps://www.britanniakensington.co.uk/whats-on
 LOCATION:The Britannia\, London
 URL:https://www.britanniakensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21d00340808546d09df2260340184e78-occ_91e8ca31a17d4dff9690b361567
- 46279@thingstodoinyourcity
-DTSTAMP:20261101T002322Z
-DTSTART:20261107T114500Z
-DTEND:20261107T141500Z
-SUMMARY:Egyptian Cookery Class with Amro | London Cookery School
-DESCRIPTION:Chef Amro teaches favourite Egyptian dishes\, then you sit do
- wn to eat the meal you've cooked together. Classes support refugees and 
- asylum seekers in the UK through cooking.\nPrice: From GBP 70.00\nhttps:
- //stayhappening.com/e/sold-out-egyptian-cookery-class-with-amro-london-c
- ookery-school-E118SB6KRABEQ
-LOCATION:The Bridge Social\, 73-81 Southwark Bridge Road\, London\, Unite
- d Kingdom\, London
-URL:https://stayhappening.com/e/sold-out-egyptian-cookery-class-with-amro
- -london-cookery-school-E118SB6KRABEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ada7e1310d2d438c824520afb5ea455c-occ_52db02090c3c4bdab06ed4f1e36
@@ -39211,6 +39535,22 @@ DESCRIPTION:A two-hour Zoom workshop led by an expert Globe Education Pra
 LOCATION:AT HOME\, London
 URL:https://www.shakespearesglobe.com/whats-on/online-continuing-professi
  onal-development-teaching-macbeth-at-key-stage-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_842f366551f042d4b9f19616672ca1e6-occ_c1ba598576484c7ba5170ae4c31
+ 49a1a@thingstodoinyourcity
+DTSTAMP:20261102T174404Z
+DTSTART:20261107T120000Z
+DTEND:20261107T170000Z
+SUMMARY:Rum Punch Brunch
+DESCRIPTION:Bottomless Rum Punch from 12pm with multiple courses served b
+ y top Capital chefs. DJs spin Tribal House\, Dancehall\, Amapiano\, Hip-
+ Hop\, Soca and Afro-House.\nPrice: From GBP 8.83\nhttps://stayhappening.
+ com/e/rum-punch-brunch-saturday-7th-november-2026-E118SB521BGGT
+LOCATION:The Prince Of Wales\, 467- 469 Brixton Road\, London\, United Ki
+ ngdom\, London
+URL:https://stayhappening.com/e/rum-punch-brunch-saturday-7th-november-20
+ 26-E118SB521BGGT
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_31a7253e863b4550868de24945efd3f4-occ_2d7ed0a975794d7e86455425a6a
@@ -43668,6 +44008,21 @@ URL:https://www.designmynight.com/london/restaurants/notting-hill/biscuit
  0
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_de0b9865a4ce47d7821b01895171676c-occ_a277710927364a208276fda2ce6
+ 9c941@thingstodoinyourcity
+DTSTAMP:20261102T183709Z
+DTSTART:20261108T113000Z
+DTEND:20261108T133000Z
+SUMMARY:Southwark Hysteries
+DESCRIPTION:Price: £19.00–£25.00 (Concession £19.00\; General £22.5
+ 0\; Concession + BADGE £21.50\; General Admission + BADGE £25.00\; plu
+ s ticket service fee)\nhttps://www.herstoricaltours.co.uk/event-details/
+ southwark-hysteries-4
+LOCATION:London\, Green Dragon Ct\, London SE1\, UK\, London
+URL:https://www.herstoricaltours.co.uk/event-details/southwark-hysteries-
+ 4
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_741d29457752479087a9cb3dd979234b-occ_23fba9efbf224366a853f23f5bf
  3ac39@thingstodoinyourcity
 DTSTAMP:20261101T113733Z
@@ -43750,6 +44105,38 @@ SUMMARY:The 7th Voyage of Sinbad
 DESCRIPTION:https://princecharlescinema.com/next-7-days/
 LOCATION:Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_443eac54fe024b489251e5e2be61dc2f-occ_97286a3f10d44d5c8c8ed9a5412
+ 703a3@thingstodoinyourcity
+DTSTAMP:20261102T174432Z
+DTSTART:20261108T123000Z
+DTEND:20261108T180000Z
+SUMMARY:The Beauty of the Beloved ﷺ
+DESCRIPTION:A reflective seminar on the character and way of life of Prop
+ het Muhammad ﷺ\, led by Mufti Amir Isap. It includes a short fundraisi
+ ng segment for 13 Rivers Trust.\nPrice: From GBP 0.00\nhttps://stayhappe
+ ning.com/e/the-beauty-of-the-beloved-%EF%B7%BA-E118SB630YKG1
+LOCATION:East London Mosque & London Muslim Centre\, East London Mosque &
+  London Muslim Centre\, LMC\, 1st Floor Hall\, London\, United Kingdom\,
+  London
+URL:https://stayhappening.com/e/the-beauty-of-the-beloved-%EF%B7%BA-E118S
+ B630YKG1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8968426330874acc987401e9cc3b4c44-occ_d5091094eeb54e058235c8cba3f
+ a2c0f@thingstodoinyourcity
+DTSTAMP:20261102T190612Z
+DTSTART:20261108T130000Z
+DTEND:20261108T160000Z
+SUMMARY:Guided Fungi Walk with Rights for Weeds
+DESCRIPTION:Walk the Horniman Gardens at a relaxed pace\, identifying wil
+ d fungi and discussing ecology and foraging. The walk ends at the Pavili
+ on with making something edible to share.\nPrice: Adult £40\nhttps://ww
+ w.horniman.ac.uk/event/guided-fungi-walk-with-rights-for-weeds/
+LOCATION:Horniman Museum and Gardens\, London
+URL:https://www.horniman.ac.uk/event/guided-fungi-walk-with-rights-for-we
+ eds/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3ab9f186126a45a6bd6f6a07f1511f5b-occ_39a6e534713e45489596ec247c4
