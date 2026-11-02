@@ -3443,6 +3443,15 @@ DESCRIPTION:
 LOCATION:St Gabriel's Halls\, Pimlico\, London
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_815d964498684ba094844ed33ff673f7-occ_316a1e2ac64b49a7a98253fca18
+ 0c6ea@thingstodoinyourcity
+DTSTAMP:20261031T191201Z
+DTSTART:20261109T190000Z
+SUMMARY:SingOut!
+DESCRIPTION:
+LOCATION:St Gabriel's Halls\, Pimlico\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c90a9dabbee744dbb0999dbf8cc40e7f-occ_c3aee90aadaa4d9ea136bbd8641
  558b4@thingstodoinyourcity
 DTSTAMP:20261101T043157Z
@@ -4290,6 +4299,16 @@ LOCATION:ActOne Cinema - Screen 1\, 119 - 121 High Street\, London\, W3 6
 URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=492381
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_76a4bbe629e74aefa138d89279e13046-occ_6ac165c42eb24bc5a89eed8350e
+ 3c15e@thingstodoinyourcity
+DTSTAMP:20261102T173633Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Wine 1-0-1
+DESCRIPTION:https://www.humblegrape.co.uk/events
+LOCATION:London
+URL:https://www.humblegrape.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9d61a44e7643495090bed4e53b3f5309-occ_3181ce5cecaf4ff3801b5bac3d8
  3ef66@thingstodoinyourcity
 DTSTAMP:20261031T183333Z
@@ -4391,52 +4410,6 @@ DESCRIPTION:Explore the Tower's history of political plotting\, execution
  ://feverup.com/m/133734
 LOCATION:Tower of London\, St Katharine's & Wapping\, EC3N 4AB\, London
 URL:https://feverup.com/m/133734
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cae9726d76084a1995ca6f558004bdac-occ_e24f3c831f9b4fd58bf1bddfd4e
- e47e1@thingstodoinyourcity
-DTSTAMP:20261031T100716Z
-DTSTART:20261102T100000Z
-SUMMARY:Designer Maker User
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:The Design Museum\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cae9726d76084a1995ca6f558004bdac-occ_c00e4020df0b4554b044f9df96c
- 92aef@thingstodoinyourcity
-DTSTAMP:20261031T100716Z
-DTSTART:20261104T100000Z
-SUMMARY:Designer Maker User
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:The Design Museum\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cae9726d76084a1995ca6f558004bdac-occ_f53b65e66edd468e8b84da73b85
- c0d5e@thingstodoinyourcity
-DTSTAMP:20261031T100716Z
-DTSTART:20261106T100000Z
-SUMMARY:Designer Maker User
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:The Design Museum\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ed24892ea645462faa8511e52a8d6ef9-occ_947510772803461b8cd4b144f05
- b8f40@thingstodoinyourcity
-DTSTAMP:20261101T090503Z
-DTSTART:20261102T100000Z
-DTEND:20261102T180000Z
-SUMMARY:EM Forster's Legacy of Connection: Unseen Memorabilia
-DESCRIPTION:Jim Buckingham shares unseen Forster letters\, photographs an
- d his own paintings. It explores Forster's legacy and Bloomsbury working
- -class history.\nPrice: Free\nhttps://bloomsburyfestival.org.uk/whats-on
- /em-forsters-legacy-of-connection-unseen-memorabilia-2
-LOCATION:Camden Archives and Local Studies Centre at Holborn Library\, Ho
- lborn Library\, Theobalds Rd \, WC1X 8NW\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/em-forsters-legacy-of-conn
- ection-unseen-memorabilia-2
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7db283f4264a4b9987838b089c971d94-occ_a15bfb0a8458462583ea908c3c7
@@ -6059,17 +6032,6 @@ LOCATION:Mosaic Rooms\, London
 URL:https://mosaicrooms.org/what's-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7f266e3f39f2470a8ad3a65756389c74-occ_1362fd4bf406442ea7ac589221c
- e1ff2@thingstodoinyourcity
-DTSTAMP:20261101T192655Z
-DTSTART:20261102T160000Z
-DTEND:20261102T180000Z
-SUMMARY:Sculpt's Wellbeing and Employability 1-1 Drop-Ins
-DESCRIPTION:https://www.southwark.gov.uk/southwark-presents
-LOCATION:Elephant and Castle\, London
-URL:https://www.southwark.gov.uk/southwark-presents
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ea344ec8c3b54339a216d72a0667ea81-occ_92da786aee76444aaa826ceb861
  ab091@thingstodoinyourcity
 DTSTAMP:20261102T064454Z
@@ -6084,22 +6046,6 @@ URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
  t/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_326c22ffdcf3421da3b0555bef67f273-occ_24da6b966b9f4421bad763477b5
- ce919@thingstodoinyourcity
-DTSTAMP:20261031T170925Z
-DTSTART:20261102T161500Z
-DTEND:20261102T174500Z
-SUMMARY:Making and packing sandwiches for rough sleepers
-DESCRIPTION:Make and pack sandwiches from donated food for the Under One 
- Sky outreach team's night walks. Ask for Gloria at the church entrance.\
- nPrice: Free! (worth double-checking)\nhttps://nearhere.events/events/b0
- 7fa806adaa7227/making-and-packing-sandwiches-for-rough-sleepers
-LOCATION:St Mary's\, 6 Bourne St\, St Mary's\, 6 Bourne St\, London\, Lon
- don\, SW1W 8JJ\, GB\, London
-URL:https://nearhere.events/events/b07fa806adaa7227/making-and-packing-sa
- ndwiches-for-rough-sleepers
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_17935c27e146479d969c5396275ddd70-occ_6c5f6303e9344918b2fcfd50583
  d2ef9@thingstodoinyourcity
 DTSTAMP:20261101T164114Z
@@ -6112,25 +6058,6 @@ DESCRIPTION:A hands-on CPD event exploring portrait-making and the role o
 LOCATION:October Gallery\, 24 Old Gloucester Street\, London\, WC1N 3AL\,
   Camden\, London\, London
 URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_10777ee5804f4fe18e1f80a46758eb78-occ_50dcd77f5b114b3990260a778e2
- b142c@thingstodoinyourcity
-DTSTAMP:20261101T012110Z
-DTSTART:20261102T171500Z
-DTEND:20261102T183000Z
-SUMMARY:Van Gogh 'Sunflowers': Experiments in watercolour with Will Dowde
- n
-DESCRIPTION:Paint along with a guided sketch while exploring Van Gogh's c
- olour palette and 'Sunflowers' harmonies. All materials are provided\, a
- nd you take home your finished artworks.\nPrice: Members: £75\nhttps://
- www.nationalgallery.org.uk/events/workshop-van-gogh-sunflowers-experimen
- ts-in-watercolour-with-will-dowden-founder-of-lilian-may-studio-02-11-20
- 26
-LOCATION:Supporters' House Salon\, London
-URL:https://www.nationalgallery.org.uk/events/workshop-van-gogh-sunflower
- s-experiments-in-watercolour-with-will-dowden-founder-of-lilian-may-stud
- io-02-11-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_447f69ac339c4b4bbd11f2082ec61ec0-occ_c1e5d3ca12e34e2f82f50559ea5
@@ -6207,278 +6134,6 @@ LOCATION:The Garden Cinema\, 39-41 Parker Street London\, WC2B 5PQ\, Lond
 URL:https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectIte
  ms.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_64897
  42.TcsSection_971
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_4cfe2c78239740c180269ab9cf2
- c2f73@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261102T173000Z
-DTEND:20261102T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_bbdf937525e444d7aed6d4a0208
- a970e@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261109T173000Z
-DTEND:20261109T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_8f09ea98f27646bbb276a92d5f8
- b468b@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261116T173000Z
-DTEND:20261116T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_8a612203c4c0483c8ab036f4fb2
- 7014f@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261123T173000Z
-DTEND:20261123T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_9de20def87954ea798f89a4d2da
- d39fc@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261130T173000Z
-DTEND:20261130T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_07de6182a0d44c04b1901afd8e0
- e40fe@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261207T173000Z
-DTEND:20261207T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_fa757275d12d450b8379bd6d66a
- 58ccb@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261214T173000Z
-DTEND:20261214T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_248746dbd13243bd95fd275d6ff
- e0ef3@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261221T173000Z
-DTEND:20261221T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_11be56bb5c814c02886fbca311c
- ae476@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20261228T173000Z
-DTEND:20261228T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_c6daff1241464427bd32dcd7115
- 83061@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270104T173000Z
-DTEND:20270104T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_ad431fa66fc04704b91d779711b
- 9c143@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270111T173000Z
-DTEND:20270111T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_76f646b70a2d469fab952cb18ae
- ec057@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270118T173000Z
-DTEND:20270118T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_718a941e17b74ef1991d0ab4693
- af20d@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270125T173000Z
-DTEND:20270125T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_a32644cc8e224760a341678fc76
- dd656@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270201T173000Z
-DTEND:20270201T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_60c3f4d90e984caaaf97ed576e5
- 22aed@thingstodoinyourcity
-DTSTAMP:20261102T140930Z
-DTSTART:20270208T173000Z
-DTEND:20270208T193000Z
-SUMMARY:Digital support sessions\, Monday evening
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems and support beginners. Pre-booking is available by phoning the l
- ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
- ent/digital-support-sessions-monday-evening
-LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
- evening
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3bc996f4b263445e8c75c58b5c0f091c-occ_95e248ac42b6436185431e61d5f
- 89a29@thingstodoinyourcity
-DTSTAMP:20261102T140649Z
-DTSTART:20261102T173000Z
-DTEND:20261102T193000Z
-SUMMARY:Digital support sessions\, Mondays
-DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
- roblems\, plus support for beginners. Pre-booking is available by phone 
- or at the library.\nPrice: Free\nhttps://www.westminster.gov.uk/event/di
- gital-support-sessions-mondays
-LOCATION:Maida Vale Library\, Sutherland Ave London W9 2QT United Kingdom
- \, London
-URL:https://www.westminster.gov.uk/event/digital-support-sessions-mondays
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_61b5af20165745e08ead7bf2219dd314-occ_e3b21baebb0c42bbbd9b65d32da
- 692f9@thingstodoinyourcity
-DTSTAMP:20261031T173226Z
-DTSTART:20261102T173000Z
-DTEND:20261102T190000Z
-SUMMARY:How sustainable (or unsustainable) is China's miracle growth sinc
- e Deng's reforms?
-DESCRIPTION:Professor Kent Deng discusses his book charting China's econo
- my from the 14th century to today. He argues China would need an economi
- c miracle to regain its pre-2010 growth path.\nPrice: Free to attend\; r
- egistration required\nhttps://www.soas.ac.uk/about/event/how-sustainable
- -or-unsustainable-chinas-miracle-growth-dengs-reforms
-LOCATION:SOAS Main Building Room RG01\, London
-URL:https://www.soas.ac.uk/about/event/how-sustainable-or-unsustainable-c
- hinas-miracle-growth-dengs-reforms
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ddeff2137be44b04bfe337affe96704f-occ_df8d774f36034059854dc75458c
@@ -6829,20 +6484,6 @@ URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/Booking?Booki
  ormance_802086.TcsSection_720
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_242b4e1c00f0492791e11c3369013598-occ_78f6786992524281aeda8f2b488
- 813a6@thingstodoinyourcity
-DTSTAMP:20261102T140717Z
-DTSTART:20261102T173000Z
-DTEND:20261102T185000Z
-SUMMARY:Writing Group at Mayfair Library
-DESCRIPTION:Monthly group for all kinds of creative writing\, from fictio
- n to poetry. Members share and discuss work in a friendly\, constructive
-  group.\nPrice: Free\nhttps://www.meetup.com/westminster-writers-group/
-LOCATION:Mayfair Library\, 25 South Audley Street\, London\, GB\, London\
- , GB\, London
-URL:https://www.meetup.com/westminster-writers-group/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7f06b6dd2e7744f486b878e27795246c-occ_05a6c7f155b142c29cd2338c1f6
  30fac@thingstodoinyourcity
 DTSTAMP:20261102T075038Z
@@ -6975,20 +6616,6 @@ URL:https://thetopsecretcomedyclub.co.uk/events-listings/george-zacharopo
  ulos-work-in-progress-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b812f96deaec430c9b8f290c5097062f-occ_4229664e2a05456583b38b92d94
- f2c73@thingstodoinyourcity
-DTSTAMP:20261027T002008Z
-DTSTART:20261102T180000Z
-DTEND:20261102T200000Z
-SUMMARY:Magna Carta Moot
-DESCRIPTION:An exhibition moot pitting ESU Essex Street competition winne
- rs against Inner Temple Lawson Cup holders. Open to Inn members and PASS
-  Scholars\, with a drinks reception to follow.\nhttps://www.innertemple.
- org.uk/events/02135-magna-carta-moot/
-LOCATION:The Honourable Society of the Inner Temple\, London
-URL:https://www.innertemple.org.uk/events/02135-magna-carta-moot/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4d41cdff209144378920b5cdfd1ff0a0-occ_94d5d6ffda6a43868a2fe96d95e
  edecb@thingstodoinyourcity
 DTSTAMP:20261101T193548Z
@@ -7070,21 +6697,6 @@ LOCATION:Goldsmiths' Hall\, Foster Lane\, Foster Lane\, London\, England\
  , EC2V\, London
 URL:https://www.thegoldsmiths.co.uk/whats-on/the-secret-language-of-jewel
  lery-in-art
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9412734a0e2243dea9ea862712fc2f19-occ_6f88a43e00114dd995074184445
- 2a469@thingstodoinyourcity
-DTSTAMP:20261027T002230Z
-DTSTART:20261102T181000Z
-DTEND:20261102T200200Z
-SUMMARY:Classroom Cinema: Class Enemy (2013) + Recorded Intro
-DESCRIPTION:Never theatrically screened in the UK outside festivals\, thi
- s Slovenian drama stars Igor Samobor. Director Rok Biček will give a re
- corded introduction\, work permitting.\nPrice: £8.00\nhttps://thelexici
- nema.co.uk/TheLexiCinema.dll/WhatsOn?f=10181408
-LOCATION:The Lexi Cinema\, 194b Chamberlayne Rd\, London NW10 3JU\, Londo
- n
-URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10181408
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7ec2cd7b5b254885adbbe5c6203f7a0d-occ_743fa02451e045ca82ae884896a
@@ -7241,24 +6853,6 @@ LOCATION:Peckhamplex\, 95a Rye Lane\, London\, SE15 4ST\, London
 URL:https://www.peckhamplex.london/film/wicker
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6314c17b4a7b436590bd147fc5f753de-occ_fa8fd423ffe14b7aba6cd0471ff
- b65f9@thingstodoinyourcity
-DTSTAMP:20261031T183030Z
-DTSTART:20261102T182500Z
-DTEND:20261102T185500Z
-SUMMARY:Pick up surplus food from Gail's for sandwiches at a nearby churc
- h
-DESCRIPTION:Collect surplus food from Gail's and deliver it to a church w
- here it becomes sandwiches for rough sleepers. Walk\, run or cycle there
-  yourself.\nPrice: Free! (worth double-checking)\nhttps://nearhere.event
- s/events/060c9ea6eb5ef368/pick-up-surplus-food-from-gails-and-drop-off-a
- t-a-nearby-church-to-be-made-into-
-LOCATION:Gail's\, 22-24 Buckingham Palace Rd London SW1W 0QP\, Westminste
- r\, London
-URL:https://nearhere.events/events/060c9ea6eb5ef368/pick-up-surplus-food-
- from-gails-and-drop-off-at-a-nearby-church-to-be-made-into-
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0e4e89fb749a43f59f4ea56046ac6acd-occ_afb10801a28b4d3a9f51bfc6a23
  c7b47@thingstodoinyourcity
 DTSTAMP:20261101T211732Z
@@ -7325,22 +6919,6 @@ LOCATION:Fowl\, 3 Norris Street\, London\, SW1Y 4RJ\, London
 URL:https://tickts.co.uk/events/eri-fowl-mouth
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0b3bd8b477fd46e1b10381458761783c-occ_130aac3e4ae7440584dc6b97ac6
- 1faee@thingstodoinyourcity
-DTSTAMP:20261101T071118Z
-DTSTART:20261102T183000Z
-DTEND:20261102T200000Z
-SUMMARY:Governing growth: the postwar transformations of capitalism and d
- emocracy
-DESCRIPTION:Peter Hall discusses Governing Growth\, tracing how politics 
- and economics shaped Western democracies over eighty years. Sara Hobolt 
- and David Soskice are discussants.\nhttps://www.lse.ac.uk/events/governi
- ng-growth
-LOCATION:Sheikh Zayed Theatre\, Cheng Kin Ku Building\, WC2A 2AE \, Unite
- d Kingdom\, London\, City of\, London
-URL:https://www.lse.ac.uk/events/governing-growth
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_92502e72972e4a9587167f83a2669d79-occ_325bdf9881e646ba917f06f49fb
  b55f7@thingstodoinyourcity
 DTSTAMP:20261101T193749Z
@@ -7363,22 +6941,6 @@ DESCRIPTION:An intimate evening of songs and storytelling with a three-pi
  ra-denning-live
 LOCATION:Crazy Coqs\, 20 Sherwood Street\, London\, W1F 7ED\, London
 URL:https://www.brasseriezedel.com/events/lara-denning-live
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f1fdb09bee914be4a39138b362fe6cda-occ_c0cea186e2c74313b329175d314
- 3cc6c@thingstodoinyourcity
-DTSTAMP:20261031T003153Z
-DTSTART:20261102T183000Z
-DTEND:20261102T194500Z
-SUMMARY:Lost\, found and followed: remarkable tales from tracking wild an
- imals
-DESCRIPTION:Biologist Lucy Hawkes shows how animal tracking technology is
-  reshaping our view of wild animals\, from ocean fish to killer whales. 
- Free for members and one guest.\nPrice: Free\nhttps://www.rgs.org/events
- /upcoming-events/lost-found-followed
-LOCATION:Ondaatje Lecture Theatre at Royal Geographical Society (with IBG
- )\, 1 Kensington Gore\, London\, SW7 2AR\, London and online\, London
-URL:https://www.rgs.org/events/upcoming-events/lost-found-followed
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5de2b07809044caa9283e1c43dfd1ab2-occ_6c901ccf3e4f402a889862066b6
@@ -7497,22 +7059,6 @@ LOCATION:Fitness First The Strand\, 6 Bedford Street\, London\, WC2E 9HD\
 URL:https://www.outsavvy.com/event/38467/functional-strength
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_371c6afb19b046d5b9ddbaa2abc87c3c-occ_0cb2c1ba9801445282171aaf407
- 18585@thingstodoinyourcity
-DTSTAMP:20261031T191548Z
-DTSTART:20261102T190000Z
-DTEND:20261102T200000Z
-SUMMARY:A cornucopia of colour: A talk with London Pigment
-DESCRIPTION:Pigment maker Lucy Mayes shares her personal pigment collecti
- on and stories of historical pigment manufacture. A live paint-making de
- mo and Q&A follow in this 45-minute talk.\nPrice: Members: £35\nhttps:/
- /www.nationalgallery.org.uk/events/talk-a-cornucopia-of-colour-a-talk-wi
- th-london-pigment-02-11-2026
-LOCATION:Supporters' House Salon\, In Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/talk-a-cornucopia-of-colour
- -a-talk-with-london-pigment-02-11-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_83027131408448bfa37dd9debbc78821-occ_5f4ab95f50f5417b9aca19e636d
  90219@thingstodoinyourcity
 DTSTAMP:20261101T213027Z
@@ -7578,36 +7124,6 @@ LOCATION:Linford Christie Stadium\, Linford Christie Rd\, London\, W12 0D
 URL:https://www.outsavvy.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_453b99dab1a6418e8e273c0a09ba8b0e-occ_a69df800624e4dcf85377f8092b
- 982c1@thingstodoinyourcity
-DTSTAMP:20261031T191443Z
-DTSTART:20261102T190000Z
-DTEND:20261102T201500Z
-SUMMARY:All Souls’ Day
-DESCRIPTION:A Solemn Requiem Mass commemorates all the faithful departed\
- , with Fauré’s Requiem sung. All the faithful are warmly invited to a
- ttend this celebration.\nhttps://warwickstreet.org.uk/event/all-souls-da
- y/
-LOCATION:Church of Our Lady of the Assumption & St Gregory\, 10 Warwick S
- t\, London\, W1B 5LZ United Kingdom\, London
-URL:https://warwickstreet.org.uk/event/all-souls-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f064992b3364433fbf70d46e99d028e8-occ_a84c6b647f3c4ebbb276f8b3412
- 7d87c@thingstodoinyourcity
-DTSTAMP:20261101T233206Z
-DTSTART:20261102T190000Z
-DTEND:20261102T201500Z
-SUMMARY:All Souls’ Day
-DESCRIPTION:Solemn Requiem Mass sung for All the Faithful Departed\, with
-  Fauré's Requiem as setting. All the faithful are warmly invited to att
- end.\nPrice: Not listed — worth a quick ask\nhttps://warwickstreet.org
- .uk/event/all-souls-day/
-LOCATION:Church of Our Lady of the Assumption & St Gregory\, 10 Warwick S
- t\, London\, W1B 5LZ United Kingdom\, London
-URL:https://warwickstreet.org.uk/event/all-souls-day/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_9314a1bbdfab4a8a9bb9d17dbce126bb-occ_599203427b6e44fa82d87ce1f7f
  b8485@thingstodoinyourcity
 DTSTAMP:20261101T212411Z
@@ -7622,21 +7138,6 @@ LOCATION:The Oystercatcher\, King's Lodge\, 7 Victoria Parade\, London\,
  SE10 9FR\, London
 URL:https://www.outsavvy.com/event/40697/everything-poetry-night-monday-2
  nd-november-4th-birthday
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_951190985ff9449492497c15c2ae46d2-occ_4434f01e1a5c40a0b2eafdd52cf
- 56993@thingstodoinyourcity
-DTSTAMP:20261031T191627Z
-DTSTART:20261102T190000Z
-DTEND:20261102T200000Z
-SUMMARY:In Shakespeare We Trust – ALEX FLOYD
-DESCRIPTION:Alex Floyd's solo show mixes physical comedy and sharp wit wi
- th meta-theatre. Inspired by Andy Kaufman and Ricky Gervais\, it's smart
-  and unforgettable.\nhttps://bigbellycomedy.club/event/in-shakespeare-we
- -trust-alex-floyd/
-LOCATION:Big Belly Comedy Club\, Unit 6 & 7\, 30 Stamford Street South Ba
- nk Central London SE1 9LQ\, Southbank\, London
-URL:https://bigbellycomedy.club/event/in-shakespeare-we-trust-alex-floyd/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a09c37c1ac904eb2a725e169ee345f15-occ_e46c0107b36645e79163d50f53d
@@ -7759,34 +7260,6 @@ DESCRIPTION:Singles aged 25-40 get quiz questions\, friendly competition
 LOCATION:21Soho\, 3-5 Sutton Row\, London W1D 4NR\, UK\, Soho\, London
 URL:https://www.thursday.com/events/london/monday-singles-pub-quiz-night-
  24-35-soho-copy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f013807c0e264f13b408a633e312e7e6-occ_12b9c83d6aeb49b1a2b9b190a26
- f7983@thingstodoinyourcity
-DTSTAMP:20261027T001908Z
-DTSTART:20261102T190000Z
-DTEND:20261102T200000Z
-SUMMARY:Talk Art: 'Brilliant: Unexpected Art from Everywhere'
-DESCRIPTION:Russell Tovey and Robert Diament record a live Talk Art podca
- st with photographers Keerthana Kunnath\, Tami Aftab and Mous Lamrabat. 
- Wine reception and book signing follow.\nPrice: £15.00 - £20.00\nhttps
- ://www.vam.ac.uk/event/WNe47n3ExjO/talk-art-brilliant
-LOCATION:V&A South Kensington\, Cromwell Road London\, SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/WNe47n3ExjO/talk-art-brilliant
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3aa4b17ad53a4716b692b41d24552372-occ_7c4a8bd4473243b1b1044211640
- 154c9@thingstodoinyourcity
-DTSTAMP:20261027T002008Z
-DTSTART:20261102T190000Z
-DTEND:20261102T200000Z
-SUMMARY:Talk Art: Brilliant: Unexpected Art from Everywhere (Livestream)
-DESCRIPTION:Russell Tovey and Robert Diament tape Talk Art live with phot
- ographers from the book. Ticketholders get a Zoom link\, and a recording
-  is available for one month.\nPrice: Tickets cost £8.00\nhttps://www.va
- m.ac.uk/event/jp90ndEvGD/talk-art-brilliant-livestream
-LOCATION:Online\, London
-URL:https://www.vam.ac.uk/event/jp90ndEvGD/talk-art-brilliant-livestream
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_062756425d654dfbb1352f56029ee3db-occ_513cab96e9a0416a9b3a55dfb7f
@@ -8342,6 +7815,20 @@ DESCRIPTION:A sell-out mixed bill of top comedians\, with a celebrity gue
 LOCATION:170 Drury Lane\, 170 Drury Lane London\, WC2B 5PD\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/monday-stand-up-
  com-54/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ac989aa541b54b2face2b961f5c1c07a-occ_4a916604ce9e4dc0ac53fbabb29
+ cf2a1@thingstodoinyourcity
+DTSTAMP:20261102T200435Z
+DTSTART:20261102T200000Z
+SUMMARY:Re:Heal - VortexHealing® Session
+DESCRIPTION:Divine Energy Healing sessions clear chakras\, energise the s
+ ystem and work on emotional issues. Classes have a strict no-latecomers 
+ policy.\nPrice: £30.00\nhttps://momence.com/Re%3AMind-Studio/Re%3AHeal-
+ --VortexHealing%C2%AE-Session/137915730?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---VortexHealing%C2%AE-
+ Session/137915730?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bfcb3f90000b4e3f9ea2d0085ff4d04a-occ_9273ac39618240d0a89a32714f0
@@ -9160,6 +8647,18 @@ DESCRIPTION:Meet like-minded people through social activities\, eclectic
  ts.org.uk/?guide=events&cat=45&cid=81837
 LOCATION:Toynbee Hall\, 28 Commercial St\, London \, E1 6LS\, London
 URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45&cid=81837
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a17d8e5e32845fb9198c0a546c4da10-occ_a475316b5cbd4cae801be28fc2a
+ bb9cf@thingstodoinyourcity
+DTSTAMP:20261102T190350Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Chess Club
+DESCRIPTION:Open to all ages and skill levels\, this library chess club f
+ eatures regular tournaments. Players of every skill level are welcome to
+  join.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Streatham\, London
+URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d533f26bdb5c4a9dbb3264e0b3185339-occ_b6d62186ca6143d180ed16e7869
@@ -10981,6 +10480,18 @@ LOCATION:Brixton\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d9849472e7b840bca5567de8c0cb3e57-occ_b9c8e6638be247fc803beeb0b73
+ f5ba2@thingstodoinyourcity
+DTSTAMP:20261102T190044Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Under 5s Wriggle and Rhyme
+DESCRIPTION:Librarians run this interactive wriggle and rhyme session for
+  under-fives in the children's library. It takes place each Tuesday and 
+ Thursday morning.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8e722608a84c460091f080f600d1f15e-occ_389716e836914d438172ca521de
  9dd1d@thingstodoinyourcity
 DTSTAMP:20261101T000122Z
@@ -11144,6 +10655,19 @@ LOCATION:EXCEL LONDON\, London
 URL:https://www.wtm.com/london/en-gb/tickets.html
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_034f90c197a54fb591777d448c7b72d7-occ_4539daaf7e1d4042afbb973aedd
+ 01b86@thingstodoinyourcity
+DTSTAMP:20261102T190406Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Wriggle and Rhyme
+DESCRIPTION:Librarians lead this interactive session in the children’s 
+ library\, built around wriggle and rhyme activities. It is listed on Lam
+ beth Council’s events page.\nPrice: Free\nhttps://www.lambeth.gov.uk/e
+ vents
+LOCATION:London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_263139498fce4ee3915ce28ed5922c7a-occ_84b20e802d2e47338d61656284f
  b19fe@thingstodoinyourcity
 DTSTAMP:20261101T000047Z
@@ -11190,6 +10714,18 @@ DESCRIPTION:Librarians lead this interactive wriggle and rhyme session in
   the children’s library. The listing marks it as free.\nPrice: Free\nh
  ttps://www.lambeth.gov.uk/events
 LOCATION:London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d74d8040e7794f198b71c974dc2d26ae-occ_9c6f4f914977487499393a402e3
+ 20c1c@thingstodoinyourcity
+DTSTAMP:20261102T190351Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Wriggle and Rhyme
+DESCRIPTION:Interactive sessions are for babies and toddlers under 2. Par
+ ents or carers join in with the child.\nPrice: Free\nhttps://www.lambeth
+ .gov.uk/events
+LOCATION:Streatham\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
@@ -12035,26 +11571,6 @@ URL:https://www.westminster.gov.uk/event/english-speaking-club-st-johns-w
  ood-library
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f68621bbf11f49e3aaf0206a226c9ab0-occ_6547e8070fb147a3a43dfd529e3
- 7d79b@thingstodoinyourcity
-DTSTAMP:20261101T001154Z
-DTSTART:20261103T103000Z
-SUMMARY:Power\, Perfume and Scandal
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Drawing Room\, King's State Apartments\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f68621bbf11f49e3aaf0206a226c9ab0-occ_ee8d7a537157486c850bd62ef5a
- e42b8@thingstodoinyourcity
-DTSTAMP:20261101T001154Z
-DTSTART:20261105T103000Z
-SUMMARY:Power\, Perfume and Scandal
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Drawing Room\, King's State Apartments\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f515d9d481fd49d88135376670ab0082-occ_d34e9b302f434401894ba137345
  77590@thingstodoinyourcity
 DTSTAMP:20261021T232722Z
@@ -12685,6 +12201,20 @@ URL:https://www.apple.com/uk/today/event/get-started-iphone/7515781735188
  365312/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_20acd0905c124193a746c1de5cb9ec46-occ_ee2a73810af64318a51337e07aa
+ e5831@thingstodoinyourcity
+DTSTAMP:20261102T200643Z
+DTSTART:20261103T110000Z
+DTEND:20261103T115000Z
+SUMMARY:Re:Heal - Angelic Heart Healing + Crystal Bowls
+DESCRIPTION:A crystalline sonic journey with Alchemy Crystal Singing Bowl
+ s\, combined with Angelic Heart Healing. Hands-on healing comes near the
+  end\, and you may decline it.\nhttps://www.remindstudio.co.uk/book-clas
+ s
+LOCATION:Re:Mind Studio\, London
+URL:https://www.remindstudio.co.uk/book-class
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5a4e898552114c4899723ae4a645fc15-occ_81c9c9c8deed476a803db06d40a
  5a315@thingstodoinyourcity
 DTSTAMP:20261029T062333Z
@@ -13222,6 +12752,20 @@ SUMMARY:Get Started: Apple Watch
 DESCRIPTION:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
 LOCATION:Apple Covent Garden\, London
 URL:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aa16442b73ac49a98b222d00e2064782-occ_f6eb799a14a649e8b963ed353f8
+ 03f4c@thingstodoinyourcity
+DTSTAMP:20261102T200437Z
+DTSTART:20261103T130000Z
+SUMMARY:Re:Sound - Gong + Crystal Bowls
+DESCRIPTION:Blends crystal bowls and gong in a guided sound healing class
+ . Aims to promote deep relaxation\, stress relief and a calm\, grounded 
+ feeling.\nPrice: £30.00\nhttps://momence.com/Re%3AMind-Studio/Re%3ASoun
+ d---Gong-%2B-Crystal-Bowls/137959920?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Gong-%2B-Crystal-Bo
+ wls/137959920?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3e226b5e108247f4b551728b1c4edf83-occ_c590533b74a34616b619b2dc53f
@@ -14096,6 +13640,20 @@ LOCATION:Dalston Superstore\, 117 Kingsland High Street\, London\, E8 2PB
  \, London
 URL:https://www.outsavvy.com/event/37597/3rd-november-scrapbooking-zine-m
  aking-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4444c42273334652a0b600f17e48107e-occ_41850c4ccc5148098afa7432540
+ cd66d@thingstodoinyourcity
+DTSTAMP:20261102T200817Z
+DTSTART:20261103T170000Z
+SUMMARY:Re:Sound - Gong + Crystal Bowls
+DESCRIPTION:Sound healers blend crystal bowls and gong for deep relaxatio
+ n and stress relief. You'll leave feeling harmonised\, grounded and calm
+ .\nPrice: £30.00\nhttps://momence.com/Re%3AMind-Studio/Re%3ASound---Gon
+ g-%2B-Crystal-Bowls/137969146?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Gong-%2B-Crystal-Bo
+ wls/137969146?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_307cacbc5c8b408fb36c202b9d1dfcb3-occ_878763ac0a194c41b33e9404d90
@@ -15400,6 +14958,18 @@ LOCATION:Streatham\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_611d731d31994727840835b37c2733db-occ_2b748be919bb4ef7be034f47640
+ b4ee1@thingstodoinyourcity
+DTSTAMP:20261102T190432Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Adult Fiction Reading Group
+DESCRIPTION:Join our vibrant reading group\, which explores modern and cl
+ assic fiction. It is listed as free on the Lambeth Council events page.\
+ nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Streatham\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7d20ac77c48046edbc9d739163374539-occ_4f152db6571144638fa13082d40
  3bf08@thingstodoinyourcity
 DTSTAMP:20261031T221351Z
@@ -15795,6 +15365,18 @@ LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_40d3189be66c46ccac91c2c0fc7fef2a-occ_aad10c3ac74842e299a434cc044
+ 28901@thingstodoinyourcity
+DTSTAMP:20261102T190418Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Chatter Books Club
+DESCRIPTION:A weekly Chatterbooks club for children aged 7 to 12\, runnin
+ g throughout the summer. Meet new friends\, share ideas and talk about b
+ ooks or activities.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_778c65d1d6e44bf88575e0c567d43fe8-occ_7d0f5f94791149b69e81c7aae5d
  cf874@thingstodoinyourcity
 DTSTAMP:20261101T104842Z
@@ -15815,6 +15397,30 @@ SUMMARY:Chatter Books Club
 DESCRIPTION:A weekly club where young readers can meet new friends and sh
  are ideas about books\, with activities too. It continues throughout the
   summer.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e0ad6f1bb33845a180d97a6ece3c8641-occ_dfd95f20d5c04bed9057ac5f624
+ d54a9@thingstodoinyourcity
+DTSTAMP:20261102T190418Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Chatter Books Club
+DESCRIPTION:A weekly Chatterbooks club where children can meet new friend
+ s\, share ideas and talk about books or activities. It continues through
+ out the summer.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1796356fd6464a508eb9cbbba3520540-occ_3836a085734d40958b8dd447f0e
+ 8dc67@thingstodoinyourcity
+DTSTAMP:20261102T190406Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Chatterbook Club
+DESCRIPTION:Children aged 7 to 11 who love reading can talk about books\,
+  write reviews and make new friends. Light refreshments are provided at 
+ the club.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
@@ -15840,6 +15446,18 @@ DESCRIPTION:A book club for children aged 7 to 11 to talk about books\, w
  rite reviews and make friends. Light refreshments are provided.\nPrice: 
  Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21c0788a85a2465ba65d96113f8ce1aa-occ_987c87b196b5435c853d1cbb9ee
+ 0f5ca@thingstodoinyourcity
+DTSTAMP:20261102T190432Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Chatterbooks Club
+DESCRIPTION:A monthly reading group for 7-12 year olds\, with games and b
+ ook-themed activities. Members talk about recent reading and take part i
+ n lots of activities.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
@@ -17780,11 +17398,13 @@ SUMMARY:Beneath the Stones: A Subterranean Tour of St Mary Magdalene's Ch
  urch
 DESCRIPTION:Explore the Undercroft and Chapel of St Sepulchre\, shaped by
   inventive engineering and Victorian design. Learn about its heritage an
- d recent restoration.\nPrice: Tickets: £5\nhttps://grandjunction.ticket
- solve.com/ticketbooth/shows/1173692874
+ d recent restoration.\nPrice: Tickets: £5\nhttps://grandjunction.org.uk
+ /events/tour-beneath-the-stones-a-subterranean-tour-of-st-mary-magdalene
+ s-church
 LOCATION:ST MARY MAGDALENE CHURCH\, ST MARY MAGDALENE CHURCH\, ROWINGTON 
  CLOSE\, LONDON W2 5TF\, London
-URL:https://grandjunction.ticketsolve.com/ticketbooth/shows/1173692874
+URL:https://grandjunction.org.uk/events/tour-beneath-the-stones-a-subterr
+ anean-tour-of-st-mary-magdalenes-church
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_827b3f1d4c8440eba3906b1692885589-occ_b72692892ef54fe8bc06ac0b287
@@ -17796,11 +17416,13 @@ SUMMARY:Beneath the Stones: A Subterranean Tour of St Mary Magdalene's Ch
  urch
 DESCRIPTION:Explore the Undercroft and Chapel of St Sepulchre\, shaped by
   inventive engineering and Victorian design. Learn about its heritage an
- d recent restoration.\nPrice: Tickets: £5\nhttps://grandjunction.ticket
- solve.com/ticketbooth/shows/1173692874
+ d recent restoration.\nPrice: Tickets: £5\nhttps://grandjunction.org.uk
+ /events/tour-beneath-the-stones-a-subterranean-tour-of-st-mary-magdalene
+ s-church
 LOCATION:ST MARY MAGDALENE CHURCH\, ST MARY MAGDALENE CHURCH\, ROWINGTON 
  CLOSE\, LONDON W2 5TF\, London
-URL:https://grandjunction.ticketsolve.com/ticketbooth/shows/1173692874
+URL:https://grandjunction.org.uk/events/tour-beneath-the-stones-a-subterr
+ anean-tour-of-st-mary-magdalenes-church
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_99782287633049099f0dffe3ef2718b1-occ_4fccfe5c08b14b08bbcdd1cd8cb
@@ -17831,6 +17453,20 @@ SUMMARY:EVELYN TAOCHENG WANG: Being Poetic Ruins Life
 DESCRIPTION:https://www.gold.ac.uk/events
 LOCATION:London
 URL:https://www.gold.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e9f768b052b34db6a58eef649d5ebbd0-occ_fd8383abd98140aeb3543c356c6
+ 598b0@thingstodoinyourcity
+DTSTAMP:20261102T200719Z
+DTSTART:20261104T120000Z
+SUMMARY:Re:Sound - Sound Bath
+DESCRIPTION:Guided sound bath using gongs\, crystal bowls\, Tibetan bowls
+  and handpan. Leaves you feeling refreshed\, balanced and tranquil.\nPri
+ ce: £30.00\nhttps://momence.com/Re%3AMind-Studio/Re%3ASound---Sound-Bat
+ h/138074328?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Sound-Bath/13807432
+ 8?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad01ed27fcfa4b37ac5a67d010f3447e-occ_5c582ab0e07143e78d52ce480ba
@@ -18523,6 +18159,21 @@ LOCATION:Bertha DocHouse\, The Brunswick London\, WC1N 1AW\, London
 URL:https://dochouse.org/event/peter-asher-everywhere-man/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3c0e62fa8ca8422cae5d34ea5477a67c-occ_aa041d963d774b3ea5302c34394
+ e4a2c@thingstodoinyourcity
+DTSTAMP:20261102T200357Z
+DTSTART:20261104T180000Z
+SUMMARY:Re:Align - Tarot Reading + Energy Healing
+DESCRIPTION:Guided by a tarot reader and healer\, this class pairs tarot 
+ insights with spiritual healing. Expect open dialogue with the tarot and
+  guidance towards self-understanding.\nPrice: £30.00\nhttps://momence.c
+ om/Re%3AMind-Studio/Re%3AAlign---Tarot-Reading-%2B-Energy-Healing/138090
+ 779?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AAlign---Tarot-Reading-%2B-E
+ nergy-Healing/138090779?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_df0398ad0d74427bad94cf3d7a3b6d7b-occ_4085cdb888a24819bdc526b7cce
  e2e49@thingstodoinyourcity
 DTSTAMP:20261101T215741Z
@@ -18688,6 +18339,22 @@ LOCATION:Slug & Lettuce - St Mary Axe\, 25 Saint Mary Axe · London\, Lon
  don
 URL:https://www.meetup.com/london-social-circle-20s-30s/events/315390209/
  ?eventOrigin=city_meet_new_people_events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0433abd302fd443b955e74f301139d19-occ_776a8bedc9ce49d7b043555eb61
+ ac760@thingstodoinyourcity
+DTSTAMP:20261102T200335Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Re:Heal - Turning Inward: Reflexology\, Energy & Sound Healing
+DESCRIPTION:Sound\, reflexology and energy healing create space to slow d
+ own and release. Arrive by 7pm\; avoid heavy meals or caffeine an hour b
+ efore.\nPrice: Price: £60 drop-in or 2 class credits (excl. new client 
+ packs)\nhttps://momence.com/Re%3AMind-Studio/Re%3AHeal---Turning-Inward%
+ 3A-Reflexology%2C-Energy-%26-Sound-Healing/142814771?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Turning-Inward%3A-Re
+ flexology%2C-Energy-%26-Sound-Healing/142814771?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_abc2ae0b504d4c0f8425b86dd52cb754-occ_c119d07c382e4bbc8e143906cd0
@@ -19277,6 +18944,18 @@ LOCATION:St Mary Le Strand Church\, The Strand\, London WC2R 1ES\, London
 URL:https://www.wherecanwego.com/item/e1598018
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c001e651c2ba4ba1ad44f9d8f3c199dc-occ_9d7c828a2cd04337b3a5b956fe2
+ a144d@thingstodoinyourcity
+DTSTAMP:20261102T190104Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Bereavement Help Point
+DESCRIPTION:Join others who understand grief and loss in a welcoming\, we
+ ekly space for conversation. It is not therapy\, and no forms or referra
+ ls are needed.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_199f7d867f4d458bae2e9aad8e0e5072-occ_7c7a86351658464287ae37f61ab
  75d87@thingstodoinyourcity
 DTSTAMP:20261031T221620Z
@@ -19541,6 +19220,16 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:EVELYN TAOCHENG WANG: Being Poetic Ruins Life
 DESCRIPTION:
 LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_19c73d4a7ab348d0ae1c1a26587df832-occ_a4544010fb2a4328921d206caf3
+ 0169d@thingstodoinyourcity
+DTSTAMP:20261102T190044Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Employment & Training Support
+DESCRIPTION:Price: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fa9467cfe0b04ffe8219a56fd96343f1-occ_b4e81feac028437aafa6f653e39
@@ -20251,6 +19940,18 @@ LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8afff156d9034458a2fb88712cd43467-occ_f15127fb326445fa80b6f8a576f
+ 0de74@thingstodoinyourcity
+DTSTAMP:20261102T190122Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Mindfulness Meditation
+DESCRIPTION:Looking for a moment of peace in a busy day? Free weekly clas
+ ses offer the power of mindfulness.\nPrice: Free\nhttps://www.lambeth.go
+ v.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b423bb7bf0124d17960f4b1a76c8c3df-occ_a1b42851e328467cb0effd5d2b7
  776ac@thingstodoinyourcity
 DTSTAMP:20261101T024353Z
@@ -20817,6 +20518,18 @@ LOCATION:The London Library\, London
 URL:https://www.londonlibrary.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0518743d277d4b0499b47cf58255a48e-occ_38b4c6a386ce4993b3a98887f5d
+ c7be0@thingstodoinyourcity
+DTSTAMP:20261102T190551Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Under 5s Wriggle and Rhyme
+DESCRIPTION:Librarians lead interactive wriggle and rhyme sessions in the
+  children’s library. Sessions run each Tuesday and Thursday morning.\n
+ Price: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4721add0f8bd4547bac39712711e857c-occ_e79b7f650e104c458aee5dc317c
  99181@thingstodoinyourcity
 DTSTAMP:20261101T001013Z
@@ -20883,6 +20596,18 @@ SUMMARY:Wriggle and Rhyme
 DESCRIPTION:Librarians run this interactive wriggle and rhyme session in 
  the children's library. The listing is marked free.\nPrice: Free\nhttps:
  //www.lambeth.gov.uk/events
+LOCATION:Norwood\, London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5d91116e11744348388c3ebd6b40943-occ_83ba2a6c2d054175b867cfe8f37
+ 722cb@thingstodoinyourcity
+DTSTAMP:20261102T190552Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Wriggle and Rhyme
+DESCRIPTION:Librarians lead an interactive wriggle and rhyme session in t
+ he children’s library. The listing marks it as free to attend.\nPrice:
+  Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
@@ -21978,6 +21703,21 @@ URL:https://www.westminster.gov.uk/event/rhyme-and-move-babies-and-toddle
  rs
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d1fce46d305b4f9fb8327bd0824f0a10-occ_768304e3b10b45178ea79574de6
+ 0f234@thingstodoinyourcity
+DTSTAMP:20261102T200417Z
+DTSTART:20261105T110000Z
+SUMMARY:Re:Align - Oracle Reading + Reiki Healing
+DESCRIPTION:A group class combining an oracle card reading with Reiki hea
+ ling\, led by experienced practitioners. Draw intuitive oracle cards\, t
+ hen receive Reiki to harmonise your energy.\nPrice: £30.00\nhttps://mom
+ ence.com/Re%3AMind-Studio/Re%3AAlign---Oracle-Reading-%2B-Reiki-Healing/
+ 138146131?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AAlign---Oracle-Reading-%2B-
+ Reiki-Healing/138146131?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_25ef5234c0a54d7dbdcbdc6f8dfca5ec-occ_32be8281c92b4fc9b41a110716a
  a5a28@thingstodoinyourcity
 DTSTAMP:20261029T085402Z
@@ -22164,6 +21904,20 @@ DESCRIPTION:A City Guide talk and a musical performance\, with free tea\,
 LOCATION:Holy Sepulchre London\, Holborn Viaduct London\, EC1A 2DQ United
   Kingdom\, London
 URL:https://stsepulchre.churchsuite.com/events/0epvkz2u
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9471690ec55d4bb494a3456beaad5e5a-occ_6d31234d279a42e6a3bafa32d0b
+ 2766f@thingstodoinyourcity
+DTSTAMP:20261102T200744Z
+DTSTART:20261105T120000Z
+SUMMARY:Re:Breathe - Transformative Breathwork
+DESCRIPTION:Explore Conscious Connected Breathwork for healing and connec
+ tion. Strict no-latecomers policy\; cancellations within 12 hours are no
+ t refunded.\nPrice: Price: £30.00\nhttps://momence.com/Re%3AMind-Studio
+ /Re%3ABreathe---Transformative-Breathwork/138147542?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3ABreathe---Transformative-Br
+ eathwork/138147542?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0804abef5eb14a66816ec221e92df761-occ_3170963724644f50b4c4c4c1e22
@@ -22984,6 +22738,23 @@ DESCRIPTION:Set in a traditional Irish pub on Christmas Eve\, with live I
  om/event/christmas-in-ireland
 LOCATION:New Wimbledon Theatre\, London
 URL:https://www.londontheatres.com/event/christmas-in-ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d162d1328eaf453aa68cfb87b755f02b-occ_0f16965496e644d698df3132e19
+ d4cad@thingstodoinyourcity
+DTSTAMP:20261102T173923Z
+DTSTART:20261105T193000Z
+DTEND:20261105T213000Z
+SUMMARY:GBR x O’Neill’s Nation's Championship Preview Show
+DESCRIPTION:Alex Payne\, James Haskell and Tim Horan host a rugby night w
+ ith a live show\, Q&A and photo ops. A complimentary Guinness or Guinnes
+ s 0.0 pint is included.\nPrice: From GBP 6.13\nhttps://stayhappening.com
+ /e/gbr-x-o%E2%80%99neill%E2%80%99s-nations-championship-preview-show-E11
+ 8SB51YA9X5
+LOCATION:O'Neill's Wardour Street\, O'Neill's Wardour Street\, 33-37 Grea
+ ter\, London\, United Kingdom\, London
+URL:https://stayhappening.com/e/gbr-x-o%E2%80%99neill%E2%80%99s-nations-c
+ hampionship-preview-show-E118SB51YA9X5
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3b326799a4364ae09e612d168eacdd4d-occ_585a344434c945a99563c54905d
@@ -26701,6 +26472,230 @@ LOCATION:Church Street Library\, 67 Church Street London NW8 8EU United K
  ingdom\, London
 URL:https://www.westminster.gov.uk/event/coding-club-church-street-librar
  y
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_bbdf937525e444d7aed6d4a0208
+ a970e@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261109T173000Z
+DTEND:20261109T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_8f09ea98f27646bbb276a92d5f8
+ b468b@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261116T173000Z
+DTEND:20261116T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_8a612203c4c0483c8ab036f4fb2
+ 7014f@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261123T173000Z
+DTEND:20261123T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_9de20def87954ea798f89a4d2da
+ d39fc@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261130T173000Z
+DTEND:20261130T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_07de6182a0d44c04b1901afd8e0
+ e40fe@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261207T173000Z
+DTEND:20261207T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_fa757275d12d450b8379bd6d66a
+ 58ccb@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261214T173000Z
+DTEND:20261214T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_248746dbd13243bd95fd275d6ff
+ e0ef3@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261221T173000Z
+DTEND:20261221T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_11be56bb5c814c02886fbca311c
+ ae476@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20261228T173000Z
+DTEND:20261228T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_c6daff1241464427bd32dcd7115
+ 83061@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270104T173000Z
+DTEND:20270104T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_ad431fa66fc04704b91d779711b
+ 9c143@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270111T173000Z
+DTEND:20270111T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_76f646b70a2d469fab952cb18ae
+ ec057@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270118T173000Z
+DTEND:20270118T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_718a941e17b74ef1991d0ab4693
+ af20d@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270125T173000Z
+DTEND:20270125T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_a32644cc8e224760a341678fc76
+ dd656@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270201T173000Z
+DTEND:20270201T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cc1118290d9f4ca4a3ad4875305237cf-occ_60c3f4d90e984caaaf97ed576e5
+ 22aed@thingstodoinyourcity
+DTSTAMP:20261102T140930Z
+DTSTART:20270208T173000Z
+DTEND:20270208T193000Z
+SUMMARY:Digital support sessions\, Monday evening
+DESCRIPTION:Volunteers give one-to-one help with computer or smartphone p
+ roblems and support beginners. Pre-booking is available by phoning the l
+ ibrary on 020 7641 6200.\nPrice: Free\nhttps://www.westminster.gov.uk/ev
+ ent/digital-support-sessions-monday-evening
+LOCATION:Maida Vale Library\, Sutherland Avenue London W9 2QT United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/digital-support-sessions-monday-
+ evening
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4ddc4ff0d53d44e5b5444576f65684a8-occ_09423690d78d4db2a5ba6cb3243
