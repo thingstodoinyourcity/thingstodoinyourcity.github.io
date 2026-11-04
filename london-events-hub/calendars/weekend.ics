@@ -1485,18 +1485,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9229a656119d46f0853e912f421bc0b3-occ_f1bd8b806ab5424d9de833cc74a
  dff75@thingstodoinyourcity
-DTSTAMP:20261102T083701Z
+DTSTAMP:20261104T191947Z
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20261231
 SUMMARY:Healing Spaces: Healthcare Design Past\, Present and Future
-DESCRIPTION:Explores healthcare environment design\, from Nightingale's h
- ospital architecture to tech-integrated healing spaces. Features interac
- tive installations and global voices.\nPrice: Free with general museum a
- dmission\nhttps://www.florence-nightingale.co.uk/exhibition-healing-spac
- es/
-LOCATION:Florence Nightingale Museum\, St Thomas’ Hospital\, Lambeth Pa
- lace Road\, London\, SE1 7EP\, London
-URL:https://www.florence-nightingale.co.uk/exhibition-healing-spaces/
+DESCRIPTION:Explores healthcare design from Nightingale's hospital archit
+ ecture to tech-integrated healing spaces. Interactive installations and 
+ global voices feature.\nPrice: Free with general museum admission\nhttps
+ ://www.florence-nightingale.co.uk/whats-on
+LOCATION:Florence Nightingale Museum\, London
+URL:https://www.florence-nightingale.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c3fd7c6684cf424298bacde772fc5db1-occ_ca691d125fc54c9ebbeba31ed08
@@ -6786,6 +6784,22 @@ UID:cand_d38f8300467d47eba588f53faefcc15b-occ_8d5fb587507942dd8f02d160cad
  a91f4@thingstodoinyourcity
 DTSTAMP:20261102T072736Z
 DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20270103
+SUMMARY:The Burberry Trench at the V&A [Free Display]
+DESCRIPTION:Traces the trench coat from weatherproof and military clothin
+ g to a global fashion icon. Highlights include a personalised Hardy Amie
+ s car coat and later runway pieces.\nPrice: Free\nhttps://londonforcheap
+ .co.uk/agenda/burberry-trench-va-free-display-2026/
+LOCATION:V&A South Kensington\, Prince Consort Gallery\, South Kensington
+ \, London
+URL:https://londonforcheap.co.uk/agenda/burberry-trench-va-free-display-2
+ 026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d38f8300467d47eba588f53faefcc15b-occ_c06a00ab132142a3ad0cbd19471
+ b87d4@thingstodoinyourcity
+DTSTAMP:20261102T072736Z
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20270103
 SUMMARY:The Burberry Trench at the V&A [Free Display]
 DESCRIPTION:Traces the trench coat from weatherproof and military clothin
@@ -13277,17 +13291,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e666a93441524a1681a38748aa3daf5b-occ_d88e265fafca482792344518179
  f6e7a@thingstodoinyourcity
-DTSTAMP:20261101T060058Z
+DTSTAMP:20261104T182619Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261130
 SUMMARY:John Lewis: Colour Analysis & Personal Styling Experience
-DESCRIPTION:Price: £150 exclusive trial price\nhttps://www.westfield.com
- /en/united-kingdom/london/events/john-lewis-colour-analysis-and-personal
- -styling-experience/139531
-LOCATION:John Lewis & Partners\, Ariel Way W12 7SL Shepherd's Bush LONDON
- \, Shepherd's Bush\, London
-URL:https://www.westfield.com/en/united-kingdom/london/events/john-lewis-
- colour-analysis-and-personal-styling-experience/139531
+DESCRIPTION:Find your perfect colours with a 1:1 colour analysis and styl
+ ing session led by an expert John Lewis Stylist. Learn which colours sui
+ t you and how to wear them with confidence.\nPrice: Special Trial Offer:
+  exclusive price of £150\nhttps://www.westfield.com/en/united-kingdom/l
+ ondon/events
+LOCATION:John Lewis & Partners\, Shepherd's Bush\, London
+URL:https://www.westfield.com/en/united-kingdom/london/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7cd8f9ee8621428a9c8d293e11e078ae-occ_081ab35257454fcda0e6d51aa10
@@ -14462,19 +14476,6 @@ URL:https://www.vam.ac.uk/event/VvQoRjmVLr5/o26038-taster-lecture-recordi
  ng-october-2026-christine-lalumia
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e2a840adf484466782f257bbe7171e73-occ_caef19f020af4695b383c306680
- 1b41e@thingstodoinyourcity
-DTSTAMP:20261022T054132Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261213
-SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
-DESCRIPTION:Features new restorations\, rarely seen works and guest intro
- ductions. A new monograph will accompany the retrospective.\nhttps://www
- .ica.art/films/imamura
-LOCATION:London
-URL:https://www.ica.art/films/imamura
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a651f52d62c1456ab714d8483ee69bfd-occ_3f6d4284d75149008e245a1aca1
  36779@thingstodoinyourcity
 DTSTAMP:20261022T034702Z
@@ -14900,15 +14901,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d4f0e59e57414fc196ad3001ef90ee7c-occ_d28cef0d02974fd48f5e826ea9a
  6eaba@thingstodoinyourcity
-DTSTAMP:20261103T180610Z
+DTSTAMP:20261104T183034Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261112
 SUMMARY:Fatherland
 DESCRIPTION:Thomas Mann and his daughter Erika take a 1949 road trip acro
  ss a ruined\, divided Germany. Pawlikowski's drama also explores deep fr
- actures within the Mann family.\nhttps://www.ica.art/films/fatherland
+ actures within the Mann family.\nhttps://www.ica.art/films
 LOCATION:ICA\, London
-URL:https://www.ica.art/films/fatherland
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7125d0a865d7400cbac9930a47f24b22-occ_46d60a0bb0a04841b47ba14aaac
@@ -15077,6 +15078,19 @@ SUMMARY:Metalworking Now (2026-27)
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_822e14762c5d4891a46d4a4ba84
+ 57052@thingstodoinyourcity
+DTSTAMP:20261104T183034Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261112
+SUMMARY:Possible Love
+DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
+ ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
+ l Kyung-gu star.\nhttps://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1699ccbd0f8e4bcba40006209854c655-occ_c8452255d99941e8adf0008ad67
@@ -20426,19 +20440,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ba76889e251b44648998d20113b87a2b-occ_f41181b1f33b470cb4c1d027524
  85e21@thingstodoinyourcity
-DTSTAMP:20261031T042402Z
+DTSTAMP:20261104T182938Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261123
 SUMMARY:The Hunger Games: The Capitol Experience
 DESCRIPTION:A free\, ticketed immersive experience bringing Panem to life
   before the 50th Hunger Games. Visitors can photograph the Cornucopia\, 
  collect exclusive stamps and enter The Hex.\nPrice: free\, ticketed expe
- rience\nhttps://londonpopupcalendar.com/events/the-hunger-games-the-capi
- tol-experience/
-LOCATION:The Atrium\, Westfield London\, Ariel Way\, W12 7SL Shepherd's B
- ush\, London\, London
-URL:https://londonpopupcalendar.com/events/the-hunger-games-the-capitol-e
- xperience/
+ rience\nhttps://londonpopupcalendar.com/
+LOCATION:The Atrium\, Westfield London\, London
+URL:https://londonpopupcalendar.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4f19e2d2fb8f449380272fbc1b267cbe-occ_52332113c4654684947ba10a898
@@ -20510,22 +20521,6 @@ DESCRIPTION:Watch a free exclusive preview of the new film before its cin
 LOCATION:The Atrium\, Westfield London\, Ariel Way\, White City\, London\
  , White City\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_72344acee70046cbac3bcd78d41f0737-occ_7c17d380b85b4032b4add614197
- 51928@thingstodoinyourcity
-DTSTAMP:20261104T034528Z
-DTSTART:20261030T120000Z
-DTEND:20261123T200000Z
-SUMMARY:The Hunger Games: The Capitol Experience
-DESCRIPTION:Explore the Cornucopia installation\, photo spots\, collectab
- le stamps and an exclusive film clip. Lionsgate's Westfield London pop-u
- p ties in with Sunrise on the Reaping.\nPrice: Free\, booking recommende
- d (limited walk-ins)\nhttps://popette.app/p/ldn-hunger-games-capitol-wes
- tfield/
-LOCATION:The Atrium\, Westfield London\, The Atrium\, Westfield London\, 
- Ariel Way\, London W12 7GF\, London
-URL:https://popette.app/p/ldn-hunger-games-capitol-westfield/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c15ab34a1f4472996371e5de55468df-occ_29ff4f1d75474baeacb257103a2
@@ -22755,17 +22750,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_29207e25923c406285027557b53cac5b-occ_fb47c0c0f1aa4818b2681f5b714
  4fcff@thingstodoinyourcity
-DTSTAMP:20261101T060012Z
+DTSTAMP:20261104T194311Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261116
 SUMMARY:London Korean Film Festival
-DESCRIPTION:Now in its 21st edition\, a long-running festival of Korean c
- inema outside Korea. It showcases the best and most anticipated Korean f
- ilms.\nhttps://www.institut-francais.org.uk/festivals-and-series/london-
- korean-film-festival/
-LOCATION:Ciné Lumière\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://www.institut-francais.org.uk/festivals-and-series/london-kore
- an-film-festival/
+DESCRIPTION:Now in its 21st edition\, the festival showcases the best and
+  most anticipated Korean films. It is one of the longest-running festiva
+ ls of Korean cinema outside Korea.\nhttps://www.institut-francais.org.uk
+ /cinema/
+LOCATION:Ciné Lumière\, London
+URL:https://www.institut-francais.org.uk/cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dceeb79163004f09890dfc88dea3da2a-occ_120c4645e80f497e885b1bacf96
@@ -23025,18 +23019,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_248b3f50d9f24373bc7a2ad409c45c7c-occ_e9ab51aead654d448ec4deeb48e
  ab1f9@thingstodoinyourcity
-DTSTAMP:20261103T183123Z
+DTSTAMP:20261104T183312Z
 DTSTART:20261102T120000Z
 DTEND:20261108T170000Z
 SUMMARY:Bose Silent Symphony Live Sets
-DESCRIPTION:Daily live music sets run in the Silent Symphony glass box ac
- ross the pop-up's run. Each day features a different artist performing a
-  live set.\nhttps://londonpopupcalendar.com/events/bose-silent-symphony-
- live-sets/
-LOCATION:Future Stores\, 95 Oxford Street\, London\, 95 Oxford Street\, L
- ondon\, London
-URL:https://londonpopupcalendar.com/events/bose-silent-symphony-live-sets
- /
+DESCRIPTION:Each day a different artist performs a live set in the Silent
+  Symphony glass box. Daily sets run across the pop-up's full run.\nhttps
+ ://londonpopupcalendar.com/
+LOCATION:Future Stores\, 95 Oxford Street\, London\, London
+URL:https://londonpopupcalendar.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_704c6bf5f3e4499a97d57ec61c7cfba6-occ_559be9c6575546a491598c13eac
@@ -23241,20 +23232,6 @@ URL:https://www.vam.ac.uk/exhibitions/dimensions-contemporary-chinese-stu
  dio-crafts
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_318f760ccaf3442b916121aaa0e8d556-occ_64c9149f517b4e899a8d07884cd
- 5024e@thingstodoinyourcity
-DTSTAMP:20261101T000321Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261108
-SUMMARY:Doc’n Roll Film Festival 2026
-DESCRIPTION:Doc’n Roll returns for its 13th edition with music document
- aries in cinemas citywide. Programme highlights include world and UK pre
- mieres\, with Q&As for several films.\nhttps://www.ica.art/films/doc-n-r
- oll-film-festival
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/doc-n-roll-film-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_dd4a3dbc49894b079e44afa239002833-occ_555192dc24f74ce1bec8c1e4c6b
  37ab8@thingstodoinyourcity
 DTSTAMP:20261103T063322Z
@@ -23444,6 +23421,20 @@ UID:cand_8f4084b940e14095bfad3321b856ce9c-occ_227737806e1e40e084a2be01c3d
  801e5@thingstodoinyourcity
 DTSTAMP:20261103T203953Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261211
+SUMMARY:Hanover Gallery at Ordovas
+DESCRIPTION:Ordovas celebrates Erica Brausen's life and legacy with works
+  by artists she showed. Founded in 1947\, the gallery championed Francis
+  Bacon and continental avant-garde art alongside British artists.\nhttps
+ ://www.houseandgarden.co.uk/gallery/best-art-exhibitions-london
+LOCATION:Ordovas gallery\, W1\, London
+URL:https://www.houseandgarden.co.uk/gallery/best-art-exhibitions-london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8f4084b940e14095bfad3321b856ce9c-occ_9cfdb06a60684916a4f515bbd24
+ eee68@thingstodoinyourcity
+DTSTAMP:20261103T203953Z
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261211
 SUMMARY:Hanover Gallery at Ordovas
 DESCRIPTION:Ordovas celebrates Erica Brausen's life and legacy with works
@@ -23860,6 +23851,21 @@ DESCRIPTION:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
 LOCATION:Aldwych Theatre\, 49 Aldwych\, London WC2B 4DF\, West End\, Lond
  on
 URL:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a7043ec7607643c8bccc355764e5555d-occ_b2a60a20e8434bafad063ee0ee6
+ 91816@thingstodoinyourcity
+DTSTAMP:20261104T183913Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270102
+SUMMARY:St Pancras International German Christmas Pyramid
+DESCRIPTION:An 11-metre-tall German Christmas pyramid celebrating traditi
+ ons from all 16 German federal states. Free to visit\, inspired by tradi
+ tional German Christmas markets.\nPrice: Free\nhttps://londonpopupcalend
+ ar.com/events/st-pancras-international-german-christmas-pyramid/
+LOCATION:St Pancras International\, London\, London
+URL:https://londonpopupcalendar.com/events/st-pancras-international-germa
+ n-christmas-pyramid/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_34e364f5d27846ebb94b616a115efe6a-occ_8ba67e4fff0544b5b6a400ec7b7
@@ -24832,6 +24838,26 @@ DESCRIPTION:Music documentaries and Q&As across an 18-day programme\, wit
  .com/london/things-to-do-in-london-this-weekend
 LOCATION:Various\, Various London\, London
 URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_318f760ccaf3442b916121aaa0e8d556-occ_5f40727a4f834adfa5c855b1050
+ 5f749@thingstodoinyourcity
+DTSTAMP:20261104T182953Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Doc’n Roll Film Festival 2026
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_318f760ccaf3442b916121aaa0e8d556-occ_1d3b60f934674fc8b2040827616
+ 1d624@thingstodoinyourcity
+DTSTAMP:20261104T182953Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Doc’n Roll Film Festival 2026
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e314a7adf7b4e39a595a7129ad5472e-occ_0819cb60534e490a9ebe685298d
@@ -26059,6 +26085,26 @@ LOCATION:Castle Hackney\, London
 URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a784b06a0dcb490182087cd8656ff095-occ_af13b76a55e1434f8341a68f94b
+ e9b0c@thingstodoinyourcity
+DTSTAMP:20261104T201548Z
+DTSTART:20261107T103000Z
+SUMMARY:Wicker
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a784b06a0dcb490182087cd8656ff095-occ_f5d296ee663c43c8a62b1704929
+ 2074d@thingstodoinyourcity
+DTSTAMP:20261104T201548Z
+DTSTART:20261108T103000Z
+SUMMARY:Wicker
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_dd183d05deff4100819974f4dc423784-occ_d16228e143444aa7971752042b6
  69512@thingstodoinyourcity
 DTSTAMP:20261102T185559Z
@@ -26099,6 +26145,84 @@ DESCRIPTION:Workshops combine breathwork\, sound healing\, reflexology an
  ww.remindstudio.co.uk/novemberworkshops
 LOCATION:Re:Mind Studio\, Eccleston Place\, London
 URL:https://www.remindstudio.co.uk/novemberworkshops
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b7a3238c3c24969a9a2b13a6fdaac87-occ_4af061d70e614740b882104e447
+ 5087b@thingstodoinyourcity
+DTSTAMP:20261104T201632Z
+DTSTART:20261107T104500Z
+SUMMARY:WILD HORSE NINE
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and L
+ ee head to Easter Island. Chris's bond with two rebellious students thre
+ atens their trip.\nhttps://www.picturehouses.com/movie-details/022/HO000
+ 18626/wild-horse-nine
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b7a3238c3c24969a9a2b13a6fdaac87-occ_df1ca56ef28b4ef1bed77fdd3a0
+ ca614@thingstodoinyourcity
+DTSTAMP:20261104T201632Z
+DTSTART:20261108T104500Z
+SUMMARY:WILD HORSE NINE
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and L
+ ee head to Easter Island. Chris's bond with two rebellious students thre
+ atens their trip.\nhttps://www.picturehouses.com/movie-details/022/HO000
+ 18626/wild-horse-nine
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_f29979e20fe643f99cea61afcab
+ e9244@thingstodoinyourcity
+DTSTAMP:20261104T201644Z
+DTSTART:20261106T200000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_64581d32828e4222a3e2f1eba96
+ db8cc@thingstodoinyourcity
+DTSTAMP:20261104T201644Z
+DTSTART:20261107T114000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_7a486cb949eb46ddb7a3a33f2aa
+ 233d7@thingstodoinyourcity
+DTSTAMP:20261104T201644Z
+DTSTART:20261107T200000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_e9157957861141efa87088cbf85
+ 457a9@thingstodoinyourcity
+DTSTAMP:20261104T201644Z
+DTSTART:20261108T114000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_d1a3fb75579e423a955073c64fa
+ 0367d@thingstodoinyourcity
+DTSTAMP:20261104T201644Z
+DTSTART:20261108T200000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8d8de7e874c84bafa01ba45a647215ab-occ_b302adec988c43cf89b1281a54c
@@ -26602,254 +26726,236 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_834d1d85fbac428692e855556b7
  46af9@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261106T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_995b605962fa42f1bc05803ae6c
  3dbbe@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261107T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_a54761c2a0df490cb3850d919d2
  cc39d@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261107T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_ccc43f65b3974df0a0283add895
  dd4f8@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261108T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_6afe199030d245d28102bee94ef
  57998@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261113T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_40462c61dff54bc58626c0bf8bf
  196d5@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261114T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_10c799eedaf64575908e3e92302
  f69d6@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261114T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_6d89d0103138427dad0f688cee1
  98a09@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261115T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_bedc4a6bc3a349809f5d4f63b95
  27971@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261120T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_6454c20f2dc546808f7aa9502d7
  c7500@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261121T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_6f9bcad74429487489e75e4da12
  fe162@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261121T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_ad33177590ef4a3598a919ebf3c
  fda1f@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261122T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_2d18633c31814668b32309b8f0e
  bc719@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261122T183000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_90f36833b38d48b7b8381c1c0ef
  76348@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261127T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_c9ce8744385e436e8ce6f1a1a59
  91877@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261128T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_dc31952ad98f4ca5a271cc45b18
  349aa@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261128T193000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_b96ea744cd604ba6b0e22b0c7dd
  48167@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261129T133000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2d78fe019a99495f94211fdf63235387-occ_2dbff520bf99473d88975c0a073
  e1b1a@thingstodoinyourcity
-DTSTAMP:20261103T173841Z
+DTSTAMP:20261104T174035Z
 DTSTART:20261129T183000Z
 SUMMARY:Faulty Towers The Dining Experience
 DESCRIPTION:Dine in the Faulty Towers hotel as the sitcom's characters se
  rve a three-course meal. Fully improvised\, so no two nights are the sam
- e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/shows/preside
- nt-hotel/faulty-towers-the-dining-experience/tickets/calendar
+ e.\nPrice: From £55\nhttps://www.london-theatreland.co.uk/dates/2026/05
+ /category/comedy
 LOCATION:President Hotel\, London
-URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
- ers-the-dining-experience/tickets/calendar
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4ade17d49f624ee5b65100c6bc387ad0-occ_44a88288718a4df89c9780b03d6
@@ -27227,21 +27333,6 @@ DESCRIPTION:Deluxe collective's first full exhibition explores zones of u
  formance on 15 November.\nhttps://aptstudios.org/20262027commonghosts
 LOCATION:6 Creekside\, Harold Wharf\, Deptford\, London
 URL:https://aptstudios.org/20262027commonghosts
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_236bcf1679be4c8094541876212e353a-occ_9d8e870a85c54612874ea085be5
- 444ed@thingstodoinyourcity
-DTSTAMP:20261101T071532Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261203
-SUMMARY:Dance Classes for Adults - Autumn Term 2026
-DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
- al warm-up with contemporary dance technique. Suitable for all adults\, 
- no matter your age or experience.\nPrice: from £11.90\nhttps://www.wool
- wich.works/events/dance-classes-for-adults-autumn-term-2026
-LOCATION:Woolwich Works\, London
-URL:https://www.woolwich.works/events/dance-classes-for-adults-autumn-ter
- m-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ac9817a575b440ce8f2a646ba2e44740-occ_73cb3cc964614f6381d3d1aa360
@@ -27859,6 +27950,46 @@ LOCATION:Borough Yards\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_975860dadd3c4909a5860963be27da96-occ_2ec96cf43ce848e8a9a9db04209
+ 0212f@thingstodoinyourcity
+DTSTAMP:20261104T200838Z
+DTSTART:20261107T103000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_975860dadd3c4909a5860963be27da96-occ_25f8684e336741a1a2b4c14ad44
+ 1311a@thingstodoinyourcity
+DTSTAMP:20261104T200838Z
+DTSTART:20261108T103000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_46b1fb8f82864b4581a6b411c00aab85-occ_a42c9d8913da4632b001e22d5b7
+ bfbd8@thingstodoinyourcity
+DTSTAMP:20261104T200806Z
+DTSTART:20261107T103000Z
+SUMMARY:NAZA
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_46b1fb8f82864b4581a6b411c00aab85-occ_a222d2a62ac74928b89d0a3f74a
+ 594cc@thingstodoinyourcity
+DTSTAMP:20261104T200806Z
+DTSTART:20261108T103000Z
+SUMMARY:NAZA
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_414d759695e143248228ae6d4374195b-occ_45a3d50bc4c142918ac751846d5
  a833b@thingstodoinyourcity
 DTSTAMP:20261104T032643Z
@@ -28415,6 +28546,22 @@ URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
  e/grit-glitter-gaslight-the-sarah-mcguinness-story_1735574/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4d83102da1384ba5a1d592c10070628f-occ_6a4015467e39490d8d8b8dade0c
+ ab037@thingstodoinyourcity
+DTSTAMP:20261104T174455Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Highgate Art Fair
+DESCRIPTION:Over 50 artists\, galleries and collectives show affordable c
+ ontemporary art straight from the studio. Visitors can meet the makers a
+ nd join artist workshops across the weekend.\nPrice: Private View £20.0
+ 0\; General Entry £10.00\; Concession £8.00\nhttps://highgateartfair.c
+ o.uk/
+LOCATION:Highgate Primary School\, Storey Road\, London N6 4ED\, Highgate
+ \, London
+URL:https://highgateartfair.co.uk/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_84c2aa08727b4910b54377a63c7c0430-occ_235a3f667f35483d932900eebd7
  6c230@thingstodoinyourcity
 DTSTAMP:20261104T034543Z
@@ -28455,6 +28602,26 @@ SUMMARY:Hyun-Sook Song
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Sprüth Magers\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6b78872895964f96b9a04fb250a69ad8-occ_9f422154787240a68d224c9aa0e
+ ef7eb@thingstodoinyourcity
+DTSTAMP:20261031T224722Z
+DTSTART:20261107T102000Z
+SUMMARY:I Play Rocky
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6b78872895964f96b9a04fb250a69ad8-occ_c43e8700bd80413cac61752ef16
+ b9ce7@thingstodoinyourcity
+DTSTAMP:20261031T224722Z
+DTSTART:20261108T102000Z
+SUMMARY:I Play Rocky
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8c1f8051135c48979cd13587a4f2ab1b-occ_41e00783d37048fbb496ab60876
@@ -28847,57 +29014,24 @@ LOCATION:The Arzner\, 10 Bermondsey Square London SE1 3UN\, London
 URL:https://thearzner.com/TheArzner.dll/WhatsOn?f=345319
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_efd5caa0804340dfb3d4474f6d3c5ac1-occ_5d7833a318774ac5a3c4c7afc2c
- 659ac@thingstodoinyourcity
-DTSTAMP:20261101T024907Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261112
-SUMMARY:La Bola Negra
-DESCRIPTION:Three men across 1932\, 1937 and 2017 share hidden connection
- s through queer lives and memory. A dazzling triptych in Spanish with En
- glish subtitles\, running 155 minutes.\nhttps://www.ica.art/films/la-bol
- a-negra
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/la-bola-negra
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_efd5caa0804340dfb3d4474f6d3c5ac1-occ_2705077c202142f0ad296455191
- 37a93@thingstodoinyourcity
-DTSTAMP:20261101T024907Z
-DTSTART:20261106T200000Z
-SUMMARY:La Bola Negra
-DESCRIPTION:Three men across 1932\, 1937 and 2017 share hidden connection
- s through queer lives and memory. A dazzling triptych in Spanish with En
- glish subtitles\, running 155 minutes.\nhttps://www.ica.art/films/la-bol
- a-negra
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/la-bola-negra
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_efd5caa0804340dfb3d4474f6d3c5ac1-occ_0f2662a9b713492fa632b6cb210
  d23c1@thingstodoinyourcity
-DTSTAMP:20261101T024907Z
-DTSTART:20261107T153000Z
+DTSTAMP:20261104T183805Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:La Bola Negra
-DESCRIPTION:Three men across 1932\, 1937 and 2017 share hidden connection
- s through queer lives and memory. A dazzling triptych in Spanish with En
- glish subtitles\, running 155 minutes.\nhttps://www.ica.art/films/la-bol
- a-negra
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/la-bola-negra
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA Cinema 2\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_efd5caa0804340dfb3d4474f6d3c5ac1-occ_697c01b9900e4caca565647067d
  67642@thingstodoinyourcity
-DTSTAMP:20261101T024907Z
-DTSTART:20261108T190000Z
+DTSTAMP:20261104T183805Z
+DTSTART;VALUE=DATE:20261108
 SUMMARY:La Bola Negra
-DESCRIPTION:Three men across 1932\, 1937 and 2017 share hidden connection
- s through queer lives and memory. A dazzling triptych in Spanish with En
- glish subtitles\, running 155 minutes.\nhttps://www.ica.art/films/la-bol
- a-negra
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/la-bola-negra
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA Cinema 2\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0197d4a0a6e547cc98c4ba9900cb21ff-occ_9de9ca3b4bf64be68c134404d3a
@@ -29121,6 +29255,16 @@ UID:cand_106650967d054440b310d69b527be88c-occ_784456a65b314e7097b9f0f4b94
  5c5f8@thingstodoinyourcity
 DTSTAMP:20261101T025353Z
 DTSTART:20261107T153000Z
+SUMMARY:Misty Green
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_106650967d054440b310d69b527be88c-occ_a85d8d36b0214d01a4e73bd7cb3
+ f1889@thingstodoinyourcity
+DTSTAMP:20261101T025353Z
+DTSTART:20261108T113000Z
 SUMMARY:Misty Green
 DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
 LOCATION:Picturehouse Central\, London
@@ -30407,24 +30551,6 @@ LOCATION:The Devereux\, 20 Devereux Court\, London\, WC2R 3JJ\, 20 Devere
  ux Court\, London\, WC2R 3JJ\, Covent Garden\, London
 URL:https://go-london.uk/events/event/hidden-meanings-in-legal-french-wit
  h-tom-west/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2f7edd3013ca44569610751626b555d0-occ_62b52c544433484c970ad39bd82
- 3c28e@thingstodoinyourcity
-DTSTAMP:20261101T024934Z
-DTSTART:20261106T173000Z
-DTEND:20261106T200000Z
-SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
- seum
-DESCRIPTION:Teams compete through the museum with a map\, score sheet and
-  strategy briefing. Private hunts can be arranged on request.\nPrice: Fr
- om £12.00 to £18.00\nhttps://www.culturequesthunt.com/event-details/mo
- nthly-museum-mischief-a-public-treasure-hunt-at-the-british-museum-2026-
- 11-06-17-30
-LOCATION:British Museum\, Great Russell St\, London WC1B 3DG\, UK\, Londo
- n
-URL:https://www.culturequesthunt.com/event-details/monthly-museum-mischie
- f-a-public-treasure-hunt-at-the-british-museum-2026-11-06-17-30
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_877cefa9710c4320bb6ad37a309da703-occ_634e01490b5f4580ad216d8816e
@@ -32774,6 +32900,18 @@ LOCATION:THE FORUM\, WELLCOME COLLECTION\, 183 EUST\, London
 URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b0eb15a58db84997a20886a2b5064844-occ_19d64ff64df04e1a8df0503f879
+ 13684@thingstodoinyourcity
+DTSTAMP:20261104T173801Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Attend a legendary queer Ibiza party in London
+DESCRIPTION:https://www.cntraveller.com/gallery/things-to-do-in-london-th
+ is-weekend
+LOCATION:Rake's Café Bar at Andaz London Liverpool Street\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
+ nd
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
  06b10@thingstodoinyourcity
 DTSTAMP:20261104T005932Z
@@ -34533,6 +34671,16 @@ LOCATION:Ropekeepers Studio\, London
 URL:https://www.woolwich.works/events/make-joy-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4855750f3b3c4ca484cec91a6f353787-occ_9d3ec03bc34047579b4b0b15831
+ 9ed53@thingstodoinyourcity
+DTSTAMP:20261104T183737Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Marina Gržinić & Aina Šmid Underground Experiments
+DESCRIPTION:https://www.ica.art/films
+LOCATION:CINEMA 2\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_182b24e39332419082c4842a14cefeb2-occ_5727c1046cc845fbab53dd76037
  eca2c-2026-11-07@thingstodoinyourcity
 DTSTAMP:20261103T225150Z
@@ -35344,6 +35492,20 @@ LOCATION:Village Soho\, London
 URL:https://www.villagesoho.co.uk/london-bar/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7eb8600157b847a5b9bd5be5ecd88911-occ_f2948667694a4a81aac57ad8437
+ 47d40@thingstodoinyourcity
+DTSTAMP:20261104T200327Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Screening: Sheep\, Actually: The Make Joy After Party
+DESCRIPTION:Paul Wyatt's woolly documentary is screened at the Make Joy A
+ fter Party\, followed by a Q&A. Speakers include Justine Lee of the Lond
+ on Wool Collective and artist Remiiya Badru.\nPrice: Advance Price: £18
+ .50 | Price includes a £1.50 booking fee per ticket.\nhttps://www.woolw
+ ich.works/whats-on
+LOCATION:Beanfeast\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_79670da927064a00b9ddd402f9fa1943-occ_823eda423db04617820eebfb09c
  096fd@thingstodoinyourcity
 DTSTAMP:20261104T041928Z
@@ -35425,47 +35587,65 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_a5bb52894eff411591c1f2f03f4
  88529@thingstodoinyourcity
-DTSTAMP:20261101T061835Z
+DTSTAMP:20261104T194408Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Sirocco & The Kingdom of the Winds
 DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
  Two sisters enter their favourite book's world and must find Sirocco\, a
   terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
+  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://cinelumiere.savoysystems.
+ co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_60
+ 0.TcsWebTab_601.TcsPerformance_7189443.TcsSection_3841519
+LOCATION:Ciné Lumière II\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71894
+ 43.TcsSection_3841519
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
  b6968-2026-11-07@thingstodoinyourcity
-DTSTAMP:20261101T061835Z
+DTSTAMP:20261104T194408Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Sirocco & The Kingdom of the Winds
 DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
  Two sisters enter their favourite book's world and must find Sirocco\, a
   terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
+  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://cinelumiere.savoysystems.
+ co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_60
+ 0.TcsWebTab_601.TcsPerformance_7189443.TcsSection_3841519
+LOCATION:Ciné Lumière II\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71894
+ 43.TcsSection_3841519
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
  b6968-2026-11-08@thingstodoinyourcity
-DTSTAMP:20261101T061835Z
+DTSTAMP:20261104T194408Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Sirocco & The Kingdom of the Winds
 DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
  Two sisters enter their favourite book's world and must find Sirocco\, a
   terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
+  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://cinelumiere.savoysystems.
+ co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_60
+ 0.TcsWebTab_601.TcsPerformance_7189443.TcsSection_3841519
+LOCATION:Ciné Lumière II\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71894
+ 43.TcsSection_3841519
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_221b011fd5d54c5f9e43b5e3ef131c88-occ_6cbf1c3c859b4e1394efab42d4c
+ ff5d7@thingstodoinyourcity
+DTSTAMP:20261104T173851Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Smokestak and Manteca's ‘blok party’
+DESCRIPTION:https://www.cntraveller.com/gallery/things-to-do-in-london-th
+ is-weekend
+LOCATION:Protein Studios Shoreditch\, London
+URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
+ nd
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4d3c305f88094a249ca6056ae73c38ba-occ_d978f8026a4d4615979d8ed26cf
@@ -35542,7 +35722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_acced64678494da19da07f2f3bf0ff55-occ_66d22890ae4d48bc8976cd104fa
  43b6f@thingstodoinyourcity
-DTSTAMP:20261031T232840Z
+DTSTAMP:20261104T174435Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Stewart Lee VS The Man-Wulf
 DESCRIPTION:https://www.london-theatreland.co.uk/dates/2026/05/category/c
@@ -35702,6 +35882,86 @@ SUMMARY:The Gorals 산양들
 DESCRIPTION:https://www.koreanfilm.co.uk/schedule
 LOCATION:London
 URL:https://www.koreanfilm.co.uk/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_ba444480ae294ec6872db5884e1
+ 7824c@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_96c24da5f27c477b90b0fd04437
+ 6b52e@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_e2a69bee365f4b3db83903e9317
+ 30129@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_8e11268be1934623a1a8e813e31
+ dadb1@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_b31e0bf9fd6447a791538315673
+ 6c9ad@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_439569817f234b5f8f7656623f0
+ a79c6@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_66ba1aa7550946ef844cc7d7273
+ c8886@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a840adf484466782f257bbe7171e73-occ_2db4f167ff4a4789ab7c9f6724f
+ 333d0@thingstodoinyourcity
+DTSTAMP:20261104T182911Z
+DTSTART;VALUE=DATE:20261213
+SUMMARY:The Lower Depths: The Cinema of Shohei Imamura
+DESCRIPTION:https://www.ica.art/films
+LOCATION:ICA\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_369e99a003c74acd98a43f33ee6ca8ec-occ_4f831c72829440f795202b46b4e
@@ -39341,20 +39601,6 @@ URL:https://www.eventbrite.co.uk/e/nottingham-forest-vs-man-city-premier-
  league-live-screening-tickets-2004064051526
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7eb8600157b847a5b9bd5be5ecd88911-occ_f2948667694a4a81aac57ad8437
- 47d40@thingstodoinyourcity
-DTSTAMP:20261102T090529Z
-DTSTART:20261107T173000Z
-DTEND:20261107T193000Z
-SUMMARY:Screening: Sheep\, Actually
-DESCRIPTION:Paul Wyatt's woolly documentary is screened at the Make Joy A
- fter Party\, followed by a Q&A. Speakers include Justine Lee of the Lond
- on Wool Collective and artist Remiiya Badru.\nPrice: Advance Price: £18
- .50\nhttps://www.woolwich.works/events/make-joy-screening-sheep-actually
-LOCATION:Beanfeast\, London
-URL:https://www.woolwich.works/events/make-joy-screening-sheep-actually
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1952805354554dd3a79a74b2adcefaca-occ_6bf866256de84d3da1033b103ab
  dea03@thingstodoinyourcity
 DTSTAMP:20261101T005414Z
@@ -39564,19 +39810,6 @@ LOCATION:Food & Drink Studio\, 3rd Floor\, Fortnum & Mason\, Food & Drink
  d Kingdom\, London
 URL:https://stayhappening.com/e/chetna-makan-the-food-behind-the-pages-di
  wali-supper-club-E118SB51VRVSP
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4855750f3b3c4ca484cec91a6f353787-occ_9d3ec03bc34047579b4b0b15831
- 9ed53@thingstodoinyourcity
-DTSTAMP:20261101T025910Z
-DTSTART:20261107T183000Z
-SUMMARY:Marina Gržinić & Aina Šmid Underground Experiments
-DESCRIPTION:Six works from 1984–1997 by Marina Gržinić and Aina Šmid
- \, including Bilocation and Red Shoes. This will be the first cinema scr
- eening in London of her short-film collection.\nhttps://www.ica.art/film
- s/marina-grzinic-aina-smid-films-1984-1997
-LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films/marina-grzinic-aina-smid-films-1984-1997
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ec7f33a26aa249b5922fb7dd6d98cf30-occ_5d2c43b0f5604f208614276a82b
@@ -40896,16 +41129,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_216148cea98149189455ec32e3d7ea46-occ_cca162a09f034e5db878a1f9eef
  dd336@thingstodoinyourcity
-DTSTAMP:20261101T140631Z
+DTSTAMP:20261104T194408Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:God's Offices
-DESCRIPTION:Nathalie Baye plays Anne\, a family planning counsellor in th
- is ensemble work. Directed by Claire Simon\, it premiered in Cannes’ D
- irectors Fortnight.\nPrice: Standard £14.00\; Concession £12.00\; Memb
- er £11.50\; Under 25s Member £5.00\nhttps://cinelumiere.savoysystems.c
- o.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_600
- .TcsWebTab_601.TcsPerformance_6970744.TcsSection_6930861
-LOCATION:Ciné Lumière\, 17 Queensberry Place London SW7 2DT\, London
+DESCRIPTION:Nathalie Baye plays Anne\, a family planning counsellor\, in 
+ this ensemble work. Claire Simon directs\, and the film premiered in Can
+ nes' Directors Fortnight.\nPrice: Standard £14.00\; Concession £12.00\
+ ; Member £11.50\; Under 25s Member £5.00\nhttps://cinelumiere.savoysys
+ tems.co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuIt
+ em_600.TcsWebTab_601.TcsPerformance_6970744.TcsSection_6930861
+LOCATION:Ciné Lumière\, London
 URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
  aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_69707
  44.TcsSection_6930861
@@ -41191,6 +41424,20 @@ DESCRIPTION:Price: £20.00 (£21.20 incl. fees)\nhttps://ticketlab.app/ev
  ents/cinemamuseum
 LOCATION:London
 URL:https://ticketlab.app/events/cinemamuseum
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b3b682ebd25496d8220787240c06ead-occ_8fc59b33eb094bd2a625cc6c231
+ a9935@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Mr Sleepybum’s Dream Machine
+DESCRIPTION:Mr Sleepybum can’t dream\, so he invents a machine to bring
+  dreams to life. Interactive sketches\, slapstick and silliness make it 
+ fun for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £4
+ 9.20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nht
+ tps://www.woolwich.works/whats-on
+LOCATION:Ropekeepers Studio\, London
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c3d01cf06dfe4aae94c5d5a66fcefc7f-occ_6a5588e87e25491ebc1da890273
@@ -41912,6 +42159,18 @@ URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-e
  vents/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fb8cd8671786436bbca8bb132ceb3135-occ_2de6deb412ae451ebe7bea777c9
+ 5b058@thingstodoinyourcity
+DTSTAMP:20261104T192603Z
+DTSTART:20261108T085000Z
+SUMMARY:London Marathon 2026
+DESCRIPTION:https://www.london-now.co.uk/news/26046569.london-weekend-ful
+ l-list-events/
+LOCATION:London
+URL:https://www.london-now.co.uk/news/26046569.london-weekend-full-list-e
+ vents/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec0408c3591141749d2e309f97928ada-occ_199ae3452646415ea0c1ca84b92
  537ce@thingstodoinyourcity
 DTSTAMP:20261104T031930Z
@@ -42483,34 +42742,6 @@ DESCRIPTION:Join a guide to explore the National Maritime Museum's treasu
 LOCATION:National Maritime Museum\, London
 URL:https://www.rmg.co.uk/whats-on/national-maritime-museum/members-treas
  ures-tours
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b3b682ebd25496d8220787240c06ead-occ_8fc59b33eb094bd2a625cc6c231
- a9935@thingstodoinyourcity
-DTSTAMP:20261102T085836Z
-DTSTART:20261108T110000Z
-SUMMARY:Mr Sleepybum’s Dream Machine
-DESCRIPTION:Mr Sleepybum can't dream\, so he invents a machine to bring d
- reams to life. Interactive sketches\, slapstick and silliness make it fu
- n for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £49.
- 20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nhttp
- s://www.woolwich.works/events/mr-sleepybums-dream-machine
-LOCATION:Ropekeepers Studio\, London
-URL:https://www.woolwich.works/events/mr-sleepybums-dream-machine
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b3b682ebd25496d8220787240c06ead-occ_5d13643797974ca28eb5dc47e0c
- fa12e@thingstodoinyourcity
-DTSTAMP:20261102T085836Z
-DTSTART:20261108T140000Z
-SUMMARY:Mr Sleepybum’s Dream Machine
-DESCRIPTION:Mr Sleepybum can't dream\, so he invents a machine to bring d
- reams to life. Interactive sketches\, slapstick and silliness make it fu
- n for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £49.
- 20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nhttp
- s://www.woolwich.works/events/mr-sleepybums-dream-machine
-LOCATION:Ropekeepers Studio\, London
-URL:https://www.woolwich.works/events/mr-sleepybums-dream-machine
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c588318a91e145a9ab64eb6ee7060bf7-occ_f6120fcca8ec4834af5bd0b45f7
@@ -43545,6 +43776,58 @@ DESCRIPTION:Dance on the Thames to Bollywood beats and a live Dhol player
 LOCATION:Crown Pier\, Victoria Embankment\, EC4Y 0HJ\, Westminster\, Lond
  on
 URL:https://feverup.com/m/470356
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_4dac302f73fe41b3975f99c12ee
+ 2eaaf@thingstodoinyourcity
+DTSTAMP:20261104T201231Z
+DTSTART:20261108T190000Z
+SUMMARY:Sunday Quiz Nights with Inquizition
+DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
+ ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
+ , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
+ rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+LOCATION:Visitors' Book Café\, London
+URL:https://www.woolwich.works/events/sunday-quiz-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_feee45bfdffa4094b6806bfe1c9
+ 53deb@thingstodoinyourcity
+DTSTAMP:20261104T201231Z
+DTSTART:20261115T190000Z
+SUMMARY:Sunday Quiz Nights with Inquizition
+DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
+ ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
+ , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
+ rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+LOCATION:Visitors' Book Café\, London
+URL:https://www.woolwich.works/events/sunday-quiz-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_3aa5ef760deb49c096d0216aab2
+ d2fca@thingstodoinyourcity
+DTSTAMP:20261104T201231Z
+DTSTART:20261122T190000Z
+SUMMARY:Sunday Quiz Nights with Inquizition
+DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
+ ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
+ , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
+ rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+LOCATION:Visitors' Book Café\, London
+URL:https://www.woolwich.works/events/sunday-quiz-nights
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_fe12e86705f243ccae3cd294eb5
+ e2a3b@thingstodoinyourcity
+DTSTAMP:20261104T201231Z
+DTSTART:20261129T190000Z
+SUMMARY:Sunday Quiz Nights with Inquizition
+DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
+ ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
+ , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
+ rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+LOCATION:Visitors' Book Café\, London
+URL:https://www.woolwich.works/events/sunday-quiz-nights
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_024f1055d3a24ad49fd2c1c745e6eddf-occ_cf309b9f7b3a44bf8dcd9efc362
