@@ -902,62 +902,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d6a97688ef184c09ac4081da838686ae-occ_8ca33af5ecfb41f3b81466d579e
  da98c@thingstodoinyourcity
-DTSTAMP:20261101T021910Z
+DTSTAMP:20261104T173909Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261105
 SUMMARY:World Travel Market London 2026
-DESCRIPTION:Global marketplace where travel professionals discover\, sour
- ce and buy new ways to see the world. Billed as the world's most influen
- tial travel and tourism event.\nPrice: from £79 +VAT\nhttps://www.wtm.c
- om/london/en-gb/tickets.html
+DESCRIPTION:Price: from £79 +VAT\nhttps://www.wtm.com/london/en-gb/ticke
+ ts.html
 LOCATION:EXCEL LONDON\, London
 URL:https://www.wtm.com/london/en-gb/tickets.html
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_57a22dc6d4a9472cac9da72675635076-occ_d5f1464024964b7293528321464
- ee096@thingstodoinyourcity
-DTSTAMP:20261103T020356Z
-DTSTART:20261103T080000Z
-DTEND:20261104T200000Z
-SUMMARY:Malone Souliers Sample Sale
-DESCRIPTION:Pumps\, mules and bags from the London house are sold at up t
- o 70% off RRP over two days. Entry is free with no booking\, and only ca
- rd payments are accepted.\nPrice: Free entry\nhttps://popette.app/p/ldn-
- malone-souliers-sample-sale-2026/
-LOCATION:The Music Room\, The Music Room\, Mayfair\, 1st Floor\, 58 Davie
- s Street\, London W1K 5LF\, Mayfair\, London
-URL:https://popette.app/p/ldn-malone-souliers-sample-sale-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ac4047d447c44ffe8b08558c9eb91ef8-occ_ed77410bbda34102839dcfd5a91
- 90f29@thingstodoinyourcity
-DTSTAMP:20261102T000321Z
-DTSTART:20261103T090000Z
-DTEND:20261104T180000Z
-SUMMARY:The 10th UK-China Alliance for the Humanities in Higher Education
-  Conference
-DESCRIPTION:Themed on area studies and global connectivity\, it explores 
- how cross-border connections shape regions\, ideas and education. Free t
- o attend\; register by 30 October 2026.\nPrice: FREE\nhttps://www.soas.a
- c.uk/about/event/10th-uk-china-alliance-humanities-higher-education-conf
- erence
-LOCATION:SOAS UNIVERSITY OF LONDON\, London
-URL:https://www.soas.ac.uk/about/event/10th-uk-china-alliance-humanities-
- higher-education-conference
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0c03962ae7ac4c3bacb08a37e41d31dd-occ_9abd867741e8406c8bff58115a2
- 8a582@thingstodoinyourcity
-DTSTAMP:20261103T020318Z
-DTSTART:20261103T173000Z
-DTEND:20261104T193000Z
-SUMMARY:Oliver Brown Sample Sale
-DESCRIPTION:Evening sample sales from British tailor Oliver Brown offer j
- ackets\, trousers\, shirts and accessories. Entry is free and the sales 
- run Tuesday and Wednesday evenings.\nPrice: Free entry\nhttps://popette.
- app/p/ldn-oliver-brown-sample-sale-2026/
-LOCATION:City\, 66-67 Cornhill\, London EC3V 3NB\, London
-URL:https://popette.app/p/ldn-oliver-brown-sample-sale-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2e14f295b9b847e68e627261fc5ad64f-occ_f13dbc0bfcff4bee84cd82376e9
@@ -1758,21 +1710,6 @@ URL:https://www.soas.ac.uk/about/event/discover-britain-masters-fair-berg
  en-november-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8ee4a6106425477e872293c324a48889-occ_1e20f03f677b4ce4b9742325336
- 0fdda@thingstodoinyourcity
-DTSTAMP:20261104T045903Z
-DTSTART:20261104T180000Z
-DTEND:20261104T200000Z
-SUMMARY:Discover Britain Master's Fair - Bergen November 2026
-DESCRIPTION:Meet SOAS's international student recruitment head to learn a
- bout UK study\, programmes\, applications and scholarships. Student life
-  is also covered.\nPrice: FREE\nhttps://www.soas.ac.uk/about/event/disco
- ver-britain-masters-fair-bergen-november-2026
-LOCATION:BERGEN\, Bergen\, London
-URL:https://www.soas.ac.uk/about/event/discover-britain-masters-fair-berg
- en-november-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2091ec060097433584f8f7ef67f9febd-occ_3ab107ebcc9a48a387d9240327a
  62a64@thingstodoinyourcity
 DTSTAMP:20261104T094357Z
@@ -2086,6 +2023,36 @@ DESCRIPTION:General Dwight D. Eisenhower and Captain James Stagg face an
  e
 LOCATION:Olympic Studios\, London
 URL:https://www.olympiccinema.com/film/pressure
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c9832a6956fb459c95199e5b615e1e45-occ_4729ab35805349d98ba13f13649
+ 96e8d@thingstodoinyourcity
+DTSTAMP:20261104T184936Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:From Contract to Treaty: ISDS in the Construction Sector
+DESCRIPTION:A panel examines investor-State dispute settlement for constr
+ uction projects. ISDS may offer redress where contractual remedies alone
+  fall short.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/from-contract-
+ to-treaty-isds-in-the-construction-sector-tickets-1997561195308?aff=oddt
+ dtcreator
+LOCATION:Bush House 8th Floor\, London\, Greater London\, London
+URL:https://www.eventbrite.co.uk/e/from-contract-to-treaty-isds-in-the-co
+ nstruction-sector-tickets-1997561195308?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c9832a6956fb459c95199e5b615e1e45-occ_807331941bc2491cb461ef31673
+ 56a47@thingstodoinyourcity
+DTSTAMP:20261104T184936Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:From Contract to Treaty: ISDS in the Construction Sector
+DESCRIPTION:A panel examines investor-State dispute settlement for constr
+ uction projects. ISDS may offer redress where contractual remedies alone
+  fall short.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/from-contract-
+ to-treaty-isds-in-the-construction-sector-tickets-1997561195308?aff=oddt
+ dtcreator
+LOCATION:Bush House 8th Floor\, London\, Greater London\, London
+URL:https://www.eventbrite.co.uk/e/from-contract-to-treaty-isds-in-the-co
+ nstruction-sector-tickets-1997561195308?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c572967b069f43f29ced0eef151471c4-occ_a00b2eb19df648d7ac00e8aecf9
@@ -2411,32 +2378,6 @@ URL:https://rsaa.org.uk/product/4-november-2026-kazakhstan-at-35-a-sympos
  ium-on-a-transforming-nation/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1f01f279d84f42039873ec0e5c233dc5-occ_86061a47ec2a45db9b603b99dd6
- 05174@thingstodoinyourcity
-DTSTAMP:20261103T003340Z
-DTSTART;VALUE=DATE:20261104
-SUMMARY:Ken Russell's The Devils
-DESCRIPTION:A prescient epic of obsession and corruption starring Vanessa
-  Redgrave and Oliver Reed. Restored in 4K from the original camera negat
- ive\, presenting Russell's uncut vision.\nhttps://www.picturehouses.com/
- cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f01f279d84f42039873ec0e5c233dc5-occ_3a80fbdd5ed2421983005230a5a
- ff136@thingstodoinyourcity
-DTSTAMP:20261103T003340Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Ken Russell's The Devils
-DESCRIPTION:A prescient epic of obsession and corruption starring Vanessa
-  Redgrave and Oliver Reed. Restored in 4K from the original camera negat
- ive\, presenting Russell's uncut vision.\nhttps://www.picturehouses.com/
- cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4528bb13e3b042c6a82b575fbc2f44dd-occ_cbf16bd7574f485885d8c7b20a3
  68cb1@thingstodoinyourcity
 DTSTAMP:20261103T010833Z
@@ -2543,6 +2484,18 @@ UID:cand_22927f328e164ec4b60014eb635624f8-occ_6333dbb879164793a0d6120483a
  f8192@thingstodoinyourcity
 DTSTAMP:20261031T214852Z
 DTSTART;VALUE=DATE:20261104
+SUMMARY:Luna's Karaoke
+DESCRIPTION:Luna sings all the karaoke classics\, so get ready to sing al
+ ong. Happy Hour runs 4pm till 9pm\, and last entry is at 1am.\nhttps://w
+ ww.villagesoho.co.uk/london-bar/events
+LOCATION:Village Soho\, London
+URL:https://www.villagesoho.co.uk/london-bar/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_22927f328e164ec4b60014eb635624f8-occ_ce5a09dc2f07496092c2aa6b55d
+ 21c16@thingstodoinyourcity
+DTSTAMP:20261031T214852Z
+DTSTART;VALUE=DATE:20261111
 SUMMARY:Luna's Karaoke
 DESCRIPTION:Luna sings all the karaoke classics\, so get ready to sing al
  ong. Happy Hour runs 4pm till 9pm\, and last entry is at 1am.\nhttps://w
@@ -2965,6 +2918,33 @@ DESCRIPTION:
 LOCATION:St Gabriel's Church\, London
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8ea1b7958ada46c8a8142d8dcd1caf32-occ_1b60e0962f7249a294f4cf7304f
+ 64232@thingstodoinyourcity
+DTSTAMP:20261031T214642Z
+DTSTART:20261111T193000Z
+SUMMARY:Pimlico Chorus
+DESCRIPTION:
+LOCATION:St Gabriel's Church\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8ea1b7958ada46c8a8142d8dcd1caf32-occ_37b3439f83f84370a46df563a84
+ c5eac@thingstodoinyourcity
+DTSTAMP:20261031T214642Z
+DTSTART:20261118T193000Z
+SUMMARY:Pimlico Chorus
+DESCRIPTION:
+LOCATION:St Gabriel's Church\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8ea1b7958ada46c8a8142d8dcd1caf32-occ_122e26d2e8c74d8b9fd7469132e
+ 71e97@thingstodoinyourcity
+DTSTAMP:20261031T214642Z
+DTSTART:20261125T193000Z
+SUMMARY:Pimlico Chorus
+DESCRIPTION:
+LOCATION:St Gabriel's Church\, London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_15c0a2d95aa54bbea88132ca44413324-occ_3faf9f2eb4364a9aa86afcf1287
  1b7c6@thingstodoinyourcity
 DTSTAMP:20261103T075610Z
@@ -3252,6 +3232,19 @@ LOCATION:Visitors’ Book Café\, London
 URL:https://www.woolwich.works/events/stitch-night
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4f4c24887f054e7cbc2518ae2c4ab00c-occ_dcae9af53bc3473a8e0f717e01f
+ a72e7@thingstodoinyourcity
+DTSTAMP:20261104T185752Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Study Tour: Backstage at the Old Vic
+DESCRIPTION:Tour Haworth Tompkins' new Backstage extension at The Old Vic
+ \, including its Cafe/Bar and Writers' Room. Places are limited and allo
+ cated on a first-come\, first-served basis.\nPrice: Members Only - Free\
+ nhttps://nla.london/events
+LOCATION:Backstage at The Old Vic\, London
+URL:https://nla.london/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a31db90d7d6f4273be602a134395cbdb-occ_4d3aa71d71ad41bf879d32f26b6
  937f7@thingstodoinyourcity
 DTSTAMP:20261101T020352Z
@@ -3341,6 +3334,26 @@ DESCRIPTION:Dr Sarah Gamble traces the female vampire from Lilith and Bat
  s.co.uk/
 LOCATION:The Blues Kitchen Brixton\, London
 URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_412a1b7459cd410d8ea2e7b4301e303b-occ_475233796ff2432da27d46e5d04
+ 45c1d@thingstodoinyourcity
+DTSTAMP:20261104T184449Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:The Night is Fading Away
+DESCRIPTION:https://www.ica.art/films
+LOCATION:CINEMA 2\, London
+URL:https://www.ica.art/films
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_412a1b7459cd410d8ea2e7b4301e303b-occ_9067946e4ff84c968d6a4a07729
+ 9a9f3@thingstodoinyourcity
+DTSTAMP:20261104T184449Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:The Night is Fading Away
+DESCRIPTION:https://www.ica.art/films
+LOCATION:CINEMA 2\, London
+URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_364db021ac064d80a0619aeb5d470ce8-occ_b14648cf15ef441d9b4e5fd6e7f
@@ -3893,38 +3906,6 @@ LOCATION:Orchard Gardens Community Centre\, Lewisham\, London\, SE13 7LQ\
 URL:https://www.outsavvy.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0563669af4f941c89b716810da02edd3-occ_c1542cc8c0e240c8bc04cb91dff
- 6abc6@thingstodoinyourcity
-DTSTAMP:20261101T015408Z
-DTSTART:20261104T100000Z
-DTEND:20261104T180000Z
-SUMMARY:Electrocatalysis at Imperial Materials: From Fundamental Understa
- nding to Sustainable Technologies
-DESCRIPTION:Covers low-temperature electrocatalysis\, from hydrogen produ
- ction to CO2 reduction. Invited talks and a poster session mark the Roya
- l School of Mines' 175th anniversary.\nPrice: Free\nhttps://www.imperial
- .ac.uk//events/description/index.php?route=215054/electrocatalysis-at-im
- perial-materials/
-LOCATION:RSM G01 and G20\, Royal School Of Mines\, South Kensington Campu
- s\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=215054
- /electrocatalysis-at-imperial-materials/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7bd4650b0a2d431d9f739ad6f1bfc46e-occ_f4beb705cddd44dcbedfa5abe7e
- 18447@thingstodoinyourcity
-DTSTAMP:20261103T020124Z
-DTSTART:20261104T100000Z
-DTEND:20261104T180000Z
-SUMMARY:Facetheory Skincare Bus
-DESCRIPTION:Facetheory tours its skincare bus to celebrate landing in Boo
- ts. Visitors can enjoy consultations\, games\, sampling and giveaways.\n
- https://popette.app/p/ldn-facetheory-skincare-bus-broadgate-2026/
-LOCATION:Liverpool Street\, Broadgate\, Broadgate\, London EC2M 2QS\, Lon
- don
-URL:https://popette.app/p/ldn-facetheory-skincare-bus-broadgate-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c8589945b22c469da2ddf2788ee54a8b-occ_f75b1d3f0cf4496186b38cfeff6
  2e326@thingstodoinyourcity
 DTSTAMP:20261104T011618Z
@@ -3938,6 +3919,125 @@ DESCRIPTION:A grounding crystal bowls session using Crystal Tones alchemy
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Crystal-Bowls/13806
  9797?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_ed19e7dea15548639aabe0f177e
+ 773d9@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261104T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_4f84156a6d874961962dfee6b34
+ 134e4@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261111T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_dd323a7e938c4ec1bd5dc201eb5
+ 547cd@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261118T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_42980bb0694b495bbfbfcf6e205
+ c0686@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261125T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_70713090dfda4fa1b543069d059
+ 3fcbe@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261202T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_8d8fb48f6de44432ba4392a6aaf
+ 183fe@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261209T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a9b7c1417d0840549714d34d362e79f6-occ_c29716798ec141ddbdde486a636
+ fd81e@thingstodoinyourcity
+DTSTAMP:20261104T181932Z
+DTSTART:20261216T104500Z
+SUMMARY:Gamechangers! The people and events that changed Britain – and 
+ the world.
+DESCRIPTION:Explore Westminster's turning points with guide David G.\, fr
+ om London's sewers to Charles Dickens and Oscar Wilde. The walk lasts ab
+ out 2 to 2.5 hours.\nPrice: Adult: £20 · Students & Seniors: £15 · C
+ hildren: £5\nhttps://www.walks.com/our-walks/gamechangers-the-people-an
+ d-events-that-changed-westminster-and-the-world
+LOCATION:Embankment Station\, the Villiers Street Exit by the Blues and R
+ oyals Coffee Stand\, London
+URL:https://www.walks.com/our-walks/gamechangers-the-people-and-events-th
+ at-changed-westminster-and-the-world
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_200323c5d6e9494486aa888c411a0679-occ_1392dab66c28484fa9e0f270b85
@@ -3972,6 +4072,19 @@ DESCRIPTION:A historic ceremony marking the formal handover of duty prote
 LOCATION:Buckingham Palace\, London SW1A 1AA\, London
 URL:https://www.london-rocks.co.uk/things-to-do/changing-of-the-guard-at-
  buckingham-palace
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad8f783d00e943e88dd4f4ca6debece0-occ_e1f4c875dc2b4872908b0bfdb5b
+ a3d8a@thingstodoinyourcity
+DTSTAMP:20261104T181900Z
+DTSTART:20261104T110000Z
+SUMMARY:Christopher Wren's London - over 300 years
+DESCRIPTION:Starts at the Monument and traces medieval streets\, with pee
+ ks inside Wren churches. Finishes at St Paul's Cathedral\, Wren's grande
+ st work.\nPrice: Adult: £20 · Students & Seniors: £15 · Children: £
+ 5\nhttps://www.walks.com/our-walks/christopher-wren-300th-anniversary
+LOCATION:Monument Tube\, Fish Street hill exit\, London
+URL:https://www.walks.com/our-walks/christopher-wren-300th-anniversary
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5e1feecf00314ddeb009683f3a4f3d0a-occ_1f4130b1a9f749eaabfdbd4471e
@@ -4037,6 +4150,22 @@ SUMMARY:I Love Boosters
 DESCRIPTION:https://thecastlecinema.com/calendar
 LOCATION:Castle Hackney\, London
 URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54c3bc90f66f4e71a584bca6e75c4914-occ_d6fd48a41bb94ec5bf5dc307d87
+ 922cc@thingstodoinyourcity
+DTSTAMP:20261104T181832Z
+DTSTART:20261104T110000Z
+SUMMARY:Legal & Illegal London – the Inns of Court
+DESCRIPTION:Explore cloisters\, courtyards and passageways set amid some 
+ of London's best gardens. Wednesday walks are guided by Karen or Molly\,
+  while Monday walks are led by Shaughan.\nPrice: Adult: £20 · Students
+  & Seniors: £15 · Children: £5\nhttps://www.walks.com/our-walks/legal
+ -illegal-london-the-inns-of-court-1
+LOCATION:Holborn underground station\, London (main exit\, debouches onto
+  Kingsway)\, London
+URL:https://www.walks.com/our-walks/legal-illegal-london-the-inns-of-cour
+ t-1
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_99d7720aad524e28bdde5b69535c6724-occ_d1da2ca09a2745f39894d25a1e3
@@ -4929,71 +5058,6 @@ URL:https://www.achurchnearyou.com/church/33278/service-and-events/events
  -all
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_edb3d5e46c344401b2a7745e029
- eef01@thingstodoinyourcity
-DTSTAMP:20261103T181051Z
-DTSTART:20261104T133000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
- l Kyung-gu star in this 165-minute drama.\nhttps://www.ica.art/films/pos
- sible-love
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_f163dbc5c53f4e6290a3fa9fb69
- e3245@thingstodoinyourcity
-DTSTAMP:20261103T181051Z
-DTSTART:20261105T150000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
- l Kyung-gu star in this 165-minute drama.\nhttps://www.ica.art/films/pos
- sible-love
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_2db70fb691a34babb76ceb28657
- 1883f@thingstodoinyourcity
-DTSTAMP:20261103T181051Z
-DTSTART:20261106T134000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
- l Kyung-gu star in this 165-minute drama.\nhttps://www.ica.art/films/pos
- sible-love
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_e2cc8be686584960b58b76e73b2
- 9a850@thingstodoinyourcity
-DTSTAMP:20261103T181051Z
-DTSTART:20261110T130000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
- l Kyung-gu star in this 165-minute drama.\nhttps://www.ica.art/films/pos
- sible-love
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_a97aa406e8474c88b0e6281fa22
- 2acc4@thingstodoinyourcity
-DTSTAMP:20261103T181051Z
-DTSTART:20261112T144000Z
-SUMMARY:Possible Love
-DESCRIPTION:Lee Chang-dong's first release in eight years follows two cou
- ples whose lives collide during a documentary shoot. Jeon Do-yeon and Su
- l Kyung-gu star in this 165-minute drama.\nhttps://www.ica.art/films/pos
- sible-love
-LOCATION:ICA\, London
-URL:https://www.ica.art/films/possible-love
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_87c6252561c44f27b3a2b9417e896606-occ_ba0426ce2be54f76b1d7db60e5a
  3cd9c@thingstodoinyourcity
 DTSTAMP:20261101T002423Z
@@ -5060,6 +5124,19 @@ LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
 URL:https://thecastlecinema.com/programme/115208/fatherland/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e3eb5782629c4a94a4c497ab80266263-occ_baf4cc2fd5ba45c7adcf7d998f1
+ fb915@thingstodoinyourcity
+DTSTAMP:20261104T182222Z
+DTSTART:20261104T140000Z
+SUMMARY:Matthew Shardlake's Tudor London
+DESCRIPTION:Trace C.J Sansom's Shardlake and his sidekick Barak through T
+ udor London. The walk covers the Inns of Court\, Chancery Lane and Smith
+ field.\nPrice: Adult: £20 · Students & Seniors: £15 · Children: £5\
+ nhttps://www.walks.com/our-walks/in-the-footsteps-of-matthew-shardlake
+LOCATION:Temple Tube\, London
+URL:https://www.walks.com/our-walks/in-the-footsteps-of-matthew-shardlake
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_16175f9fba264eb6ad95ce134ddb84da-occ_3968f8138f424ddfb0896799406
  c5a4d@thingstodoinyourcity
 DTSTAMP:20261027T210056Z
@@ -5099,6 +5176,16 @@ DESCRIPTION:Facebook engineer Frances Haugen teams with a Wall Street Jou
  e-social-reckoning
 LOCATION:The Arches\, London
 URL:https://www.thecinemainthepowerstation.com/film/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b0f4a519cd5942c18ca7327ba6eee413-occ_52652a513033499f9d6539a0beb
+ 4c138@thingstodoinyourcity
+DTSTAMP:20261104T182656Z
+DTSTART:20261104T141500Z
+SUMMARY:Old London
+DESCRIPTION:https://www.walks.com/our-walks/walks-by-date
+LOCATION:St. Paul's underground station\, London (exit 2)\, London
+URL:https://www.walks.com/our-walks/walks-by-date
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0a66545894444f68987373bf5d2f8dc2-occ_44aec32a50b94f2d8cf326d59a3
@@ -5170,6 +5257,16 @@ DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27847/
 LOCATION:Forest Cinemas\, 267 High Street\, Walthamstow\, E17 7FD\, Walth
  amstow\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27847/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d6468f5d18fd49d0a2da4c3c1ebf78c2-occ_dc59433d46ed47dab16e15a7426
+ 64cbb@thingstodoinyourcity
+DTSTAMP:20261104T194226Z
+DTSTART:20261104T144500Z
+SUMMARY:De Gaulle (Part 1): Résistance
+DESCRIPTION:https://www.institut-francais.org.uk/cinema/
+LOCATION:Ciné Lumière\, London
+URL:https://www.institut-francais.org.uk/cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c6b31e9baf94b358c8c05e7c58aef35-occ_8da276a017ee4f558f649acc564
@@ -5273,62 +5370,6 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
 URL:https://princecharlescinema.com/film/10519845/dogtooth-kynodontas/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_20abfac6da894781823e02cd766d8668-occ_1255d4e61ae04fab8ea6969a061
- 7b8e0@thingstodoinyourcity
-DTSTAMP:20261028T180112Z
-DTSTART:20261104T153000Z
-SUMMARY:Clayface
-DESCRIPTION:DC Studios' first-ever horror foray stars Tom Rhys Harries as
-  the Gotham City villain. A rising Hollywood star descends into a reveng
- e-filled monster.\nhttps://www.picturehouses.com/movie-details/022/HO000
- 18815/clayface?filter=
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00018815/clayface?f
- ilter=
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_20abfac6da894781823e02cd766d8668-occ_05edf083f49e4e3086ce41753b9
- 0c82a@thingstodoinyourcity
-DTSTAMP:20261028T180112Z
-DTSTART:20261104T203000Z
-SUMMARY:Clayface
-DESCRIPTION:DC Studios' first-ever horror foray stars Tom Rhys Harries as
-  the Gotham City villain. A rising Hollywood star descends into a reveng
- e-filled monster.\nhttps://www.picturehouses.com/movie-details/022/HO000
- 18815/clayface?filter=
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00018815/clayface?f
- ilter=
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_20abfac6da894781823e02cd766d8668-occ_c3c377b47ccc461da42270b2801
- d64d6@thingstodoinyourcity
-DTSTAMP:20261028T180112Z
-DTSTART:20261105T120000Z
-SUMMARY:Clayface
-DESCRIPTION:DC Studios' first-ever horror foray stars Tom Rhys Harries as
-  the Gotham City villain. A rising Hollywood star descends into a reveng
- e-filled monster.\nhttps://www.picturehouses.com/movie-details/022/HO000
- 18815/clayface?filter=
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00018815/clayface?f
- ilter=
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_20abfac6da894781823e02cd766d8668-occ_9ea4cc6835d745a7ae4349b637c
- 9e1c5@thingstodoinyourcity
-DTSTAMP:20261028T180112Z
-DTSTART:20261105T174000Z
-SUMMARY:Clayface
-DESCRIPTION:DC Studios' first-ever horror foray stars Tom Rhys Harries as
-  the Gotham City villain. A rising Hollywood star descends into a reveng
- e-filled monster.\nhttps://www.picturehouses.com/movie-details/022/HO000
- 18815/clayface?filter=
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/movie-details/022/HO00018815/clayface?f
- ilter=
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_089a575a60724ad4aa80b2157ed9acb5-occ_51246b5860fc4d739006a37c525
  3ea4f@thingstodoinyourcity
 DTSTAMP:20261103T231800Z
@@ -5337,6 +5378,18 @@ SUMMARY:WILD HORSE NINE
 DESCRIPTION:https://www.genesiscinema.co.uk/whatson
 LOCATION:Genesis Cinema\, London
 URL:https://www.genesiscinema.co.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e65e609b7d044aaa9d62631d31b10d6c-occ_a1571e5c9a414f66923335566ba
+ b3f35@thingstodoinyourcity
+DTSTAMP:20261104T174209Z
+DTSTART:20261104T153000Z
+SUMMARY:Wicker
+DESCRIPTION:https://www.everymancinema.com/venues-list/x0712-everyman-bak
+ er-street/
+LOCATION:Everyman Cinema\, London
+URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
+ t/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bf62e6fc9b8d4a96a1e59c83edef9049-occ_39e43371d5ec4ce0a819226364f
@@ -5433,22 +5486,6 @@ DESCRIPTION:Price: Free drinks from 4pm\nhttps://www.tiktok.com/discover/
  free-pop-ups-in-london?lang=en
 LOCATION:Soho\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5d8aea2ef567466ebf99be4273ef108f-occ_8038dd4da7bb4c698beff3230ea
- 6e6cd@thingstodoinyourcity
-DTSTAMP:20261102T073353Z
-DTSTART:20261104T160000Z
-DTEND:20261104T180000Z
-SUMMARY:Daniell Lecture: Free Polymer Colloids Talk at King's
-DESCRIPTION:Professor Stefan A. F. Bon explains how tiny polymer particle
- s are made and used in coatings\, gloves and adhesives. Aimed at chemist
- ry students\; anyone 16 or over can attend.\nPrice: Free\nhttps://london
- forcheap.co.uk/agenda/daniell-lecture-polymer-colloids-rock-2026/
-LOCATION:Franklin-Wilkins Building\, King's College London\, 150 Stamford
-  Street\, London SE1 9NH\, Waterloo\, London
-URL:https://londonforcheap.co.uk/agenda/daniell-lecture-polymer-colloids-
- rock-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2b1e0ff8d5a34046b3fe3cbd5f6e0e56-occ_401280886b0b4ce0b4e72aeb0a0
@@ -5591,6 +5628,20 @@ LOCATION:Forest Walthamstow | Screen 7\, The Forest Cinema\, 267 High Str
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27830/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ba6c6c67c6a44a2baa43ff40fa9e12cc-occ_0a07cd28717e48349af04765492
+ 15ca5@thingstodoinyourcity
+DTSTAMP:20261104T174243Z
+DTSTART:20261104T171500Z
+SUMMARY:The Social Reckoning
+DESCRIPTION:Sorkin's original screenplay\, a companion to THE SOCIAL NETW
+ ORK\, follows Facebook engineer Frances Haugen as she blows the whistle.
+  It runs 1h 52m.\nhttps://www.everymancinema.com/venues-list/x0712-every
+ man-baker-street/
+LOCATION:Luxury Cinema Baker Street\, London
+URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
+ t/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_447f69ac339c4b4bbd11f2082ec61ec0-occ_35059b95e75e4596bc4a194b719
  7ce22@thingstodoinyourcity
 DTSTAMP:20261031T171554Z
@@ -5624,23 +5675,6 @@ URL:https://frontrow.co.uk/event/bloomsburytheatre-2026-11-04-1730-ascr-c
  heese-tasting
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_c9832a6956fb459c95199e5b615e1e45-occ_4729ab35805349d98ba13f13649
- 96e8d@thingstodoinyourcity
-DTSTAMP:20261101T071833Z
-DTSTART:20261104T173000Z
-DTEND:20261104T203000Z
-SUMMARY:From Contract to Treaty: ISDS in the Construction Sector
-DESCRIPTION:A panel examines investor-State dispute settlement for constr
- uction projects. ISDS may offer redress where contractual remedies alone
-  fall short.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/from-contract-
- to-treaty-isds-in-the-construction-sector-tickets-1997561195308?aff=oddt
- dtcreator
-LOCATION:Bush House 8th Floor\, King's College London\, Strand Campus 30 
- Aldwych London WC2B 4BG\, London\, Greater London\, London
-URL:https://www.eventbrite.co.uk/e/from-contract-to-treaty-isds-in-the-co
- nstruction-sector-tickets-1997561195308?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2ada553276f646bb92d78aaa908ba234-occ_dbe1bcedc6ae4b5a8625b4630a5
  b2ec7@thingstodoinyourcity
 DTSTAMP:20261104T020740Z
@@ -5654,21 +5688,6 @@ LOCATION:Cineworld The O2 Greenwich\, London
 URL:https://clusterflick.com/movies/1756422/karaoke-murder/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2283c2ab19b24b768e1b0c25d8972738-occ_f5dbe3cd252943b99f2d2f30254
- e3820@thingstodoinyourcity
-DTSTAMP:20261101T002119Z
-DTSTART:20261104T173000Z
-DTEND:20261104T184500Z
-SUMMARY:Silent Book Club
-DESCRIPTION:Bring your own book or borrow one from the library\, then enj
- oy an hour of quiet reading. Part of a global network of 2\,000+ chapter
- s in 68 countries.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/e
- vents/silent-book-club-p2660871
-LOCATION:Teddington Library\, Teddington Library\, Waldegrave Road\, Tedd
- ington\, London\, TW11 8NY\, Teddington\, London
-URL:https://www.visitrichmond.co.uk/events/silent-book-club-p2660871
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c52f9b920c54430295f6cc0cb370714c-occ_ae42a960235a45cead08c6e42b8
  cb067@thingstodoinyourcity
 DTSTAMP:20261031T234148Z
@@ -5677,41 +5696,6 @@ SUMMARY:Becoming a Barrister
 DESCRIPTION:https://www.innertemple.org.uk/events
 LOCATION:London
 URL:https://www.innertemple.org.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2610582c952244ae8a4cac2a33c0d791-occ_481f44c826b4420ab7553c4015e
- e1635@thingstodoinyourcity
-DTSTAMP:20261101T083453Z
-DTSTART:20261104T180000Z
-DTEND:20261104T200000Z
-SUMMARY:Bow Skills talk (in-person): managing taxes as an artist with Tik
- a Accountancy
-DESCRIPTION:Kenneth Tsang covers tax filing\, Making Tax Digital and reco
- rd-keeping for self-employed artists. It ends with a Q&A on your own tax
-  questions.\nPrice: £5.00 – £7.00\nhttps://bowarts.org/event/bow-ski
- lls-talk-in-person-money-matters-managing-taxes-as-an-artist-with-tika-a
- ccountancy/
-LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road London\, London E3
-  2SJ United Kingdom\, London
-URL:https://bowarts.org/event/bow-skills-talk-in-person-money-matters-man
- aging-taxes-as-an-artist-with-tika-accountancy/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f158832009f2479a8a998cb2bfbd0a09-occ_97beb879c44443d9824e026352e
- 7716b@thingstodoinyourcity
-DTSTAMP:20261027T200430Z
-DTSTART:20261104T180000Z
-DTEND:20261104T200000Z
-SUMMARY:Bow Skills talk (online): managing taxes as an artist with Tika A
- ccountancy
-DESCRIPTION:Kenneth Tsang of Tika Accountancy explains tax filing\, recor
- d-keeping and Making Tax Digital for self-employed artists. A Q&A closes
-  the online session.\nPrice: £5.00 – £7.00\nhttps://bowarts.org/even
- t/bow-skills-talk-online-money-matters-managing-taxes-as-an-artist-with-
- tika-accountancy
-LOCATION:Online via Zoom\, 183 Bow Road\, London\, E3 2SJ\, London
-URL:https://bowarts.org/event/bow-skills-talk-online-money-matters-managi
- ng-taxes-as-an-artist-with-tika-accountancy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f5d565230f6a4751ab7f120ecdfd7c0f-occ_f04bec646902434e8acc301bb75
@@ -6206,21 +6190,6 @@ LOCATION:Devonshire Terrace\, Devonshire Terrace EC2M 4WY\, London
 URL:https://stayhappening.com/e/female-founders-meet-E118SB7DPO83Y
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_174a7d23e32841278ab4125c4abbd9f1-occ_0aa34d678e0047ae838dd16bc25
- b9654@thingstodoinyourcity
-DTSTAMP:20261103T091258Z
-DTSTART:20261104T183000Z
-DTEND:20261104T200000Z
-SUMMARY:In conversation with Sri Mulyani Indrawati
-DESCRIPTION:Former Indonesian Finance Minister Sri Mulyani Indrawati spea
- ks with Andrés Velasco and Lant Pritchett. Chaired by Tony Travers CBE\
- , it is this year's SPP Annual Lecture.\nhttps://lectures.london/london-
- school-of-economics/in-conversation-with-sri-mulyani-indrawati/
-LOCATION:Old Theatre\, Old Building\, London
-URL:https://lectures.london/london-school-of-economics/in-conversation-wi
- th-sri-mulyani-indrawati/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_19375174780b40be84ed4c4bf8b75b4f-occ_b89d32f06da44db780ac4ba2d66
  b35c5@thingstodoinyourcity
 DTSTAMP:20261104T015533Z
@@ -6259,6 +6228,16 @@ DESCRIPTION:Draw from a live model with quick warm-up poses\, then longer
 LOCATION:Green Place Studios\, 127A Elderfield Road\, London\, E5 0AY\, H
  omerton/Clapton\, London
 URL:https://www.outsavvy.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e3e74349ef2441ed8e9219309b1edf7e-occ_c299c61515ea499380eb77eedc4
+ bd9bb@thingstodoinyourcity
+DTSTAMP:20261104T194854Z
+DTSTART:20261104T183000Z
+SUMMARY:NAZA
+DESCRIPTION:https://www.institut-francais.org.uk/cinema/naza/
+LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://www.institut-francais.org.uk/cinema/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b5dd2440227a499995e32e5e96cf540f-occ_ed2b2a0582e84509b00a962e790
@@ -6341,20 +6320,6 @@ LOCATION:Studio 108\, 57 Theobalds Road\, London\, WC1X 8SP\, 57 Theobald
  s Road\, London\, WC1X 8SP\, Holborn\, London
 URL:https://go-london.uk/events/event/wisdom-wednesday-meditation-wisdom-
  dinner
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7a09f472b2fe4ef898a6393131523740-occ_a744d4c817ac436f9f26ab1e3ac
- 7db8e@thingstodoinyourcity
-DTSTAMP:20261101T022020Z
-DTSTART:20261104T183000Z
-DTEND:20261104T193000Z
-SUMMARY:Yoga Sessions at the Rum Factory
-DESCRIPTION:Welcoming yoga sessions offering a space to move\, breathe an
- d feel grounded. Held as a series on Wednesday evenings.\nPrice: Get Tic
- kets £5.00\nhttps://bowarts.org/bow-arts-events
-LOCATION:The Rum Factory\, 49 Pennington Street\, Wapping\, London\, Wapp
- ing\, London\, London
-URL:https://bowarts.org/bow-arts-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a278f325ee74465ab0161e1087411479-occ_fe75d9d40b8744228042cc59461
@@ -7034,21 +6999,6 @@ URL:https://www.outsavvy.com/event/39904/neon-naked-life-drawing-in-londo
  n-fields
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_5f45ea3adc9e489c94b0a2b022c3709b-occ_ab239a9033c24c3ba04fa0932d7
- 2f3b4@thingstodoinyourcity
-DTSTAMP:20261104T061845Z
-DTSTART:20261104T190000Z
-DTEND:20261104T200000Z
-SUMMARY:November Book Club - Rosewater
-DESCRIPTION:A free book club for queer people from the Global Majority\, 
- focused on literature by queer authors of colour. Members join at their 
- own pace\, with no mandatory meetings.\nPrice: FREE\nhttps://www.outsavv
- y.com/events
-LOCATION:Housmans Bookshop (King's Cross)\, 5 Caledonian Road\, London\, 
- N1 9DY\, London
-URL:https://www.outsavvy.com/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_663e489eeafa4b08af9fa25cf46fa293-occ_93f98b1b3389499da3767df67c4
  fba1a@thingstodoinyourcity
 DTSTAMP:20261104T061318Z
@@ -7120,22 +7070,6 @@ LOCATION:London Art Bar\, Holborn\, 300 High Holborn\, London\, United Ki
  ngdom\, London
 URL:https://stayhappening.com/e/sip-andamp-paint-monets-le-grand-canal-ve
  nice-E118SB5IR1WDI
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3d19500b13104960816b5fa748c194d9-occ_69a3d7b6de4647318ccc656e781
- 904da@thingstodoinyourcity
-DTSTAMP:20261103T045412Z
-DTSTART:20261104T190000Z
-DTEND:20261104T200000Z
-SUMMARY:Steven Berkoff in conversation with Kieron Pim
-DESCRIPTION:Steven Berkoff discusses his memoir Shouting at Night with cr
- itic Kieron Pim. Expect candid stories from the National Theatre\, the F
- ringe and film.\nPrice: £10-23\nhttps://go-london.uk/events/event/steve
- n-berkoff-in-conversation-with-kieron-pim/
-LOCATION:Waterstones\, 82 Gower Street\, London\, WC1E 6EQ\, Bloomsbury\,
-  London
-URL:https://go-london.uk/events/event/steven-berkoff-in-conversation-with
- -kieron-pim/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c673c3f8250b4ab89cf9df5135879e30-occ_4ed2fc37fe8643d19a25bbdffeb
@@ -8370,19 +8304,85 @@ LOCATION:Quentin Blake Centre for Illustration\, London
 URL:https://qbcentre.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_236bcf1679be4c8094541876212e353a-occ_2db9446ae3044c5993f66f212d7
+ b57b3@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Dance Classes for Adults - Autumn Term 2026
+DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
+ al warm-up with contemporary dance technique. Suitable for all adults\, 
+ no matter your age or experience.\nPrice: Advance Price: Full term £92.
+ 30 | Pay as you go £11.90 | Free for Royal Borough of Greenwich residen
+ ts\nhttps://www.woolwich.works/whats-on
+LOCATION:Coopers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_236bcf1679be4c8094541876212e353a-occ_0e2034957b7e465880510f76967
+ 5cd38@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Dance Classes for Adults - Autumn Term 2026
+DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
+ al warm-up with contemporary dance technique. Suitable for all adults\, 
+ no matter your age or experience.\nPrice: Advance Price: Full term £92.
+ 30 | Pay as you go £11.90 | Free for Royal Borough of Greenwich residen
+ ts\nhttps://www.woolwich.works/whats-on
+LOCATION:Coopers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_236bcf1679be4c8094541876212e353a-occ_b6fd8e9bc9814c4b899474a796e
+ 34e34@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Dance Classes for Adults - Autumn Term 2026
+DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
+ al warm-up with contemporary dance technique. Suitable for all adults\, 
+ no matter your age or experience.\nPrice: Advance Price: Full term £92.
+ 30 | Pay as you go £11.90 | Free for Royal Borough of Greenwich residen
+ ts\nhttps://www.woolwich.works/whats-on
+LOCATION:Coopers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_236bcf1679be4c8094541876212e353a-occ_fb4fe80a68414aa5b20798f309b
+ dfcb4@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Dance Classes for Adults - Autumn Term 2026
+DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
+ al warm-up with contemporary dance technique. Suitable for all adults\, 
+ no matter your age or experience.\nPrice: Advance Price: Full term £92.
+ 30 | Pay as you go £11.90 | Free for Royal Borough of Greenwich residen
+ ts\nhttps://www.woolwich.works/whats-on
+LOCATION:Coopers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_236bcf1679be4c8094541876212e353a-occ_b4364fb7050f41d89b8ed1197e9
+ 17ef0@thingstodoinyourcity
+DTSTAMP:20261104T200345Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Dance Classes for Adults - Autumn Term 2026
+DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
+ al warm-up with contemporary dance technique. Suitable for all adults\, 
+ no matter your age or experience.\nPrice: Advance Price: Full term £92.
+ 30 | Pay as you go £11.90 | Free for Royal Borough of Greenwich residen
+ ts\nhttps://www.woolwich.works/whats-on
+LOCATION:Coopers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1fca81a1ad924061bd03be996c8b3cfe-occ_ce07ae8bb18d4522acf8ed53609
  9e63b@thingstodoinyourcity
-DTSTAMP:20261031T215834Z
+DTSTAMP:20261104T182048Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Decline and Falling Over with Jo Brand
-DESCRIPTION:Jo Brand ponders how to age her own way\, with dispatches fro
- m the second half of life. Expect candid tales of surgery\, pharmacy vis
- its and selective deafness\, minus any pep talk.\nPrice: £45 - £55 (pl
- us £1.50 per ticket online\, and over the phone)\nhttps://www.hackneyem
- pire.co.uk/events/decline-and-falling-over-with-jo-brand
+DESCRIPTION:Price: £45 - £55 (plus £1.50 per ticket online\, and over 
+ the phone)\nhttps://www.hackneyempire.co.uk/whats-on
 LOCATION:Hackney Empire\, London
-URL:https://www.hackneyempire.co.uk/events/decline-and-falling-over-with-
- jo-brand
+URL:https://www.hackneyempire.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_86cf73c732394db1b46d0d1b3f1fde45-occ_5b7b84b0f3a14cddbd63f2bc334
@@ -8879,13 +8879,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_fe8c47c06fc440d7b855628bc5ed948c-occ_2f500118df274e209ea2fe925b1
  9509b@thingstodoinyourcity
-DTSTAMP:20261031T215857Z
+DTSTAMP:20261104T183707Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Jean-Luc Godard: Unmade and Abandoned Final Works + Q&A
-DESCRIPTION:Jean-Luc Godard's three posthumous script-trailers for unreal
- ised virtual films. A discussion with producer Mitra Farahani follows th
- e screening.\nhttps://www.ica.art/films
-LOCATION:ICA\, London
+DESCRIPTION:https://www.ica.art/films
+LOCATION:CINEMA 1\, London
 URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
@@ -9086,15 +9084,6 @@ LOCATION:Royal Albert Wharf Royal Albert Wharf\,\, London\, United Kingdo
 URL:https://bowarts.org/bow-arts-events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_020106d0466a4c849180d3f256c031c0-occ_03a9df4617f54f88a6763dee717
- c449e@thingstodoinyourcity
-DTSTAMP:20261031T215743Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:MIKE WOZNIAK
-DESCRIPTION:
-LOCATION:London Palladium\, London
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a1fb919767f242c38efff20f7390ade2-occ_e4b2c7bce1fc48e199d595a8a4a
  ce3d8@thingstodoinyourcity
 DTSTAMP:20261104T030919Z
@@ -9147,6 +9136,17 @@ LOCATION:London
 URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_020106d0466a4c849180d3f256c031c0-occ_03a9df4617f54f88a6763dee717
+ c449e@thingstodoinyourcity
+DTSTAMP:20261104T174134Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Mike Wozniak
+DESCRIPTION:https://www.london-theatreland.co.uk/dates/2026/05/category/c
+ omedy
+LOCATION:London Palladium\, London
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8afff156d9034458a2fb88712cd43467-occ_f15127fb326445fa80b6f8a576f
  0de74@thingstodoinyourcity
 DTSTAMP:20261102T190122Z
@@ -9161,16 +9161,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_32fcea1280fc49848b91bb74bbbae973-occ_b1a85e3cd45e407794df3bc2ece
  47aad@thingstodoinyourcity
-DTSTAMP:20261101T071534Z
+DTSTAMP:20261104T200236Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:More Fire: Performance Poetry Ignited
-DESCRIPTION:For one night only\, some of the most radical voices in perfo
- rmance poetry come together. Expect raw storytelling and unmissable ener
- gy\, hosted by Yomi Ṣode.\nPrice: Cabaret Seats: £27 | Standard Seats
- : £22 | All prices include a £2 booking fee per ticket.\nhttps://www.w
- oolwich.works/events/more-fire
+DESCRIPTION:For one night only\, radical voices in performance poetry sha
+ re the stage\, including The Last Poets and Michael Rosen. Expect raw st
+ orytelling\, hosted by Yomi Ṣode.\nPrice: Cabaret Seats: £27 | Standa
+ rd Seats: £22 | All prices include a £2 booking fee per ticket.\nhttps
+ ://www.woolwich.works/whats-on
 LOCATION:Fireworks Factory\, London
-URL:https://www.woolwich.works/events/more-fire
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b423bb7bf0124d17960f4b1a76c8c3df-occ_a1b42851e328467cb0effd5d2b7
@@ -9573,6 +9573,20 @@ LOCATION:The Arzner\, London
 URL:https://thearzner.com/TheArzner.dll/WhatsOn?f=233206
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4ddb9ebd284147c39c7d10b1d78fc326-occ_620fae18b76a46d996bfd0d1b4c
+ 669b9@thingstodoinyourcity
+DTSTAMP:20261104T184936Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Sustainability and behavioural change: a discussion
+DESCRIPTION:Launches a new issue of the LSE Public Policy Review on susta
+ inability. A panel of policy and academic experts discusses incremental 
+ versus transformative pathways.\nhttps://theconversation.com/uk/events/l
+ ocations/GB-LND
+LOCATION:Malaysia Auditorium\, Centre Building\, London\, City of\, Londo
+ n
+URL:https://theconversation.com/uk/events/locations/GB-LND
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b43622d547dc4d99ac18344e978e9760-occ_b2340f45b0d74cd1aa9ec1adc4c
  17c02@thingstodoinyourcity
 DTSTAMP:20261102T050242Z
@@ -9764,12 +9778,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_bceb70dd578449808aecf49660c248e6-occ_584f1adeb878456fab106fa8f2c
  32260@thingstodoinyourcity
-DTSTAMP:20261031T221154Z
+DTSTAMP:20261104T190403Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Translation Salon: Kafkaesque
-DESCRIPTION:Daniel Hahn and Maïa Hruska explore how Kafka's early transl
- ators shaped his legacy. Books by the speakers will be available to buy 
- at the event.\nPrice: From £8\nhttps://www.londonlibrary.co.uk/whats-on
+DESCRIPTION:Price: From £8\nhttps://www.londonlibrary.co.uk/whats-on
 LOCATION:The London Library\, London
 URL:https://www.londonlibrary.co.uk/whats-on
 END:VEVENT
@@ -12190,24 +12202,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c5c38cf54354447eb37d1d241c198b5f-occ_579bcecb4a19458aa974f86809d
  1f0e3@thingstodoinyourcity
-DTSTAMP:20261103T164754Z
+DTSTAMP:20261104T174135Z
 DTSTART:20261105T180000Z
 DTEND:20261105T192000Z
 SUMMARY:Mehfil Masti : BollyFire | Bonfire Special – London
-DESCRIPTION:Comedian Tommy Sandhu and vocalist Chirag Rao host an intimat
- e night of music\, comedy and audience requests. Chirag performs Bollywo
- od classics from the 60s to the 00s.\nPrice: £11.67\nhttps://www.univer
- se.com/events/mehfil-masti-bollyfire-bonfire-special-london-tickets-8QWG
- ST?utm_medium=affiliate&ref=ticketmaster&clickId=3Vx15FVHtxyZUu5StAxKtXD
- kUkry0DWeq1BrS00&utm_campaign=1234377&utm_source=1234377-Theatreland%20L
- td&camefrom=CFC_BUYAT_1234377&ircid=24023&irgwc=1&afsrc=1
+DESCRIPTION:Comedian Tommy Sandhu and Bollywood vocalist Chirag Rao host 
+ an intimate night of music and audience requests. Chirag performs Bollyw
+ ood classics from the 60s to the 00s.\nPrice: £11.67\nhttps://www.londo
+ n-theatreland.co.uk/dates/2026/05/category/comedy
 LOCATION:Top Secret Comedy Club\, 170 Drury Lane\, London\, WC2B 5PD\, Gr
  eat Britain\, London
-URL:https://www.universe.com/events/mehfil-masti-bollyfire-bonfire-specia
- l-london-tickets-8QWGST?utm_medium=affiliate&ref=ticketmaster&clickId=3V
- x15FVHtxyZUu5StAxKtXDkUkry0DWeq1BrS00&utm_campaign=1234377&utm_source=12
- 34377-Theatreland%20Ltd&camefrom=CFC_BUYAT_1234377&ircid=24023&irgwc=1&a
- fsrc=1
+URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_21b0e487d6024709a70c850822f00917-occ_d59a6e71f71b45bba9415a45721
@@ -12389,22 +12394,6 @@ LOCATION:London Film School\, 24 Greater\, London\, WC2H 9UB\, Covent Gar
  den\, London
 URL:https://go-london.uk/events/event/stolen-dreams-redemption-film-scree
  ning-education-launch/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4ddb9ebd284147c39c7d10b1d78fc326-occ_598f4e7810254c0b88ee68adb6e
- cdd39@thingstodoinyourcity
-DTSTAMP:20261101T071448Z
-DTSTART:20261105T183000Z
-DTEND:20261105T200000Z
-SUMMARY:Sustainability and behavioural change: a discussion
-DESCRIPTION:This event launches a new issue of the LSE Public Policy Revi
- ew on how we understand sustainability. A panel of policy and academic e
- xperts discusses incremental versus transformative pathways to a sustain
- able planet.\nhttps://www.lse.ac.uk/events/sustainability-behavioural-ch
- ange
-LOCATION:Malaysia Auditorium\, Centre Building\, WC2A 2AE \, United Kingd
- om\, London\, City of\, London
-URL:https://www.lse.ac.uk/events/sustainability-behavioural-change
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5cfdea83c3ef4998bc1bd5c31b8cda4d-occ_e74dcc2aa054494abbe96404cb2
@@ -13759,16 +13748,6 @@ LOCATION:V&A SOUTH KENSINGTON\, London
 URL:https://londontalks.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6b78872895964f96b9a04fb250a69ad8-occ_b819cb1a4e6e4b39addba8cfb7c
- 32d61@thingstodoinyourcity
-DTSTAMP:20261031T224722Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:I Play Rocky
-DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
-LOCATION:Picturehouse Central\, London
-URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e84e73fded924935be7790558c9cfb4c-occ_dc217f48fbdd4f94a5dc79c1376
  04533@thingstodoinyourcity
 DTSTAMP:20261101T024825Z
@@ -13868,17 +13847,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_066885a0f1724c3abb20c6f94bcf2227-occ_d31829bdccba47e4b864ec8dad9
  ade9b@thingstodoinyourcity
-DTSTAMP:20261031T230258Z
+DTSTAMP:20261104T181513Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Live at the Empire with Nina Conti
-DESCRIPTION:Nina Conti (and Monkey) headlines\, joined by Bridget Christi
- e\, Elis James\, Julia Masli and John Tothill. Line-up subject to change
- \; age guidance 16+.\nPrice: £25.50 - £27.50 (plus £1.50 per ticket o
- nline and over the phone)\nhttps://www.hackneyempire.co.uk/events/live-a
- t-the-empire-with-nina-conti
-LOCATION:Hackney Empire\, 291 Mare Street London E8 1EJ\, London
-URL:https://www.hackneyempire.co.uk/events/live-at-the-empire-with-nina-c
- onti
+DESCRIPTION:Price: £25.50 - £27.50 (plus £1.50 per ticket online and o
+ ver the phone)\nhttps://www.hackneyempire.co.uk/whats-on
+LOCATION:Hackney Empire\, London
+URL:https://www.hackneyempire.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_55a85c799dcf4dcf87d5fe49f6c58a49-occ_bf30551e3db84e4f8b64fa11c79
@@ -13914,7 +13889,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_27d2b3f980f147e4baa4bca5a22a1413-occ_18fde6c63bde490e8fde74667db
  13859@thingstodoinyourcity
-DTSTAMP:20261103T172733Z
+DTSTAMP:20261104T174207Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Mark Thomas: 40 in Stand-Up Years
 DESCRIPTION:https://www.london-theatreland.co.uk/dates/2026/05/category/c
@@ -13961,6 +13936,84 @@ LOCATION:The Champion\, The Champion\, 12-13 Wells Street\, London\, Lond
 URL:https://www.spice-social.co.uk/view-event?id=mix-mingle-and-find-out-
  more-evening-upstairs-at-the-champion-pub-oxford-circus-06-nov-26&GID=bc
  83b5f6-ef0f-4e60-af14-df80c7a34159
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_62b52c544433484c970ad39bd82
+ 3c28e@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_b38dd30b838c47d0a170b16c03c
+ 25fd1@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20261204
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_4c5a0b1a6d314fc3a723da78905
+ a8d2a@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20270108
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_ea27bef226dd4073ab1c2281575
+ a01ff@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20270205
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_37378c983f694e2499801631de9
+ 77e0d@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20270305
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f7edd3013ca44569610751626b555d0-occ_70514521540f47d29cc148ed6d7
+ e6e61@thingstodoinyourcity
+DTSTAMP:20261104T190602Z
+DTSTART;VALUE=DATE:20270402
+SUMMARY:Monthly Museum Mischief: a public treasure hunt at the British Mu
+ seum
+DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
+  service fee\; kids aged 7-16 £12.00 +£0.30 ticket service fee)\nhttps
+ ://www.culturequesthunt.com/event-list
+LOCATION:British Museum\, London
+URL:https://www.culturequesthunt.com/event-list
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e557520c35924b5db03767d5b8ce8c36-occ_b430731c35464e8a9f65ee52873
@@ -14149,6 +14202,19 @@ SUMMARY:Rosa von Praunheim: The Bed Sausage & It is Not the Homosexual...
 DESCRIPTION:https://clusterflick.com/
 LOCATION:Goethe-Institut London\, London
 URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6dcc56d17b5c4edf8a1a7165d04acfb6-occ_c30e3a45c6714cd4bd64aae02a4
+ b1a93@thingstodoinyourcity
+DTSTAMP:20261104T185814Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Roundtable: Unlocking London's Hidden Housing Capacity
+DESCRIPTION:Senior built environment leaders will examine how small\, con
+ strained London sites could add homes. Practical recommendations for usi
+ ng hidden housing capacity are the aim.\nPrice: Members Only - Free\nhtt
+ ps://nla.london/events
+LOCATION:London
+URL:https://nla.london/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b1ad84c7ebcc4e37b498692bf5229601-occ_c03a6bfa6b664e769ac518c03f4
@@ -14595,22 +14661,6 @@ LOCATION:King's College London\, Strand\, London\, WC2R 2LS\, Covent Gard
  en\, London
 URL:https://go-london.uk/events/event/global-partnerships-for-equitable-c
  ancer-care/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6dcc56d17b5c4edf8a1a7165d04acfb6-occ_c30e3a45c6714cd4bd64aae02a4
- b1a93@thingstodoinyourcity
-DTSTAMP:20261101T070334Z
-DTSTART:20261106T083000Z
-DTEND:20261106T103000Z
-SUMMARY:Roundtable: Unlocking London's Hidden Housing Capacity
-DESCRIPTION:Senior leaders will examine how small\, constrained London si
- tes could add housing. It aims to identify practical recommendations for
-  using London's hidden housing capacity.\nPrice: Members Only - Free\nht
- tps://nla.london/events/roundtable-unlocking-londons-hidden-housing-capa
- city
-LOCATION:London
-URL:https://nla.london/events/roundtable-unlocking-londons-hidden-housing
- -capacity
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_53d46e17ca4d4de88730fd81e2b63b9b-occ_16e9f41f42364b8bae8c9036e3e
@@ -19539,6 +19589,19 @@ DESCRIPTION:A midweek market packed with independent makers selling beaut
 LOCATION:Old Spitalfields Market\, 16 Horner Square London E1 6EW\, Londo
  n
 URL:https://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7a09f472b2fe4ef898a6393131523740-occ_e6ea66ed848a4d76b3076f0e5cd
+ 7a372@thingstodoinyourcity
+DTSTAMP:20261101T022020Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Yoga Sessions at the Rum Factory
+DESCRIPTION:Welcoming yoga sessions offering a space to move\, breathe an
+ d feel grounded. Held as a series on Wednesday evenings.\nPrice: Get Tic
+ kets £5.00\nhttps://bowarts.org/bow-arts-events
+LOCATION:The Rum Factory\, 49 Pennington Street\, Wapping\, London\, Wapp
+ ing\, London\, London
+URL:https://bowarts.org/bow-arts-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_04373982c724489783133130d5efd941-occ_95bd08c62b2b439599f96457d7e
