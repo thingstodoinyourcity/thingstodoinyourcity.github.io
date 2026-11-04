@@ -2781,30 +2781,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_195e440219ab40359d40cafbaffe6844-occ_e7d8034d13934458ab8f1908b88
  8c2cc@thingstodoinyourcity
-DTSTAMP:20261021T122617Z
+DTSTAMP:20261104T003426Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20261231
 SUMMARY:A Station of Stories
-DESCRIPTION:A year-long storytelling celebration marking 2026 as the Nati
- onal Year of Reading. Expect literary moments\, family experiences and t
- icketed cultural events.\nhttps://batterseapowerstation.co.uk/events/a-s
- tation-of-stories/
-LOCATION:London
-URL:https://batterseapowerstation.co.uk/events/a-station-of-stories/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_831d878c79b949cd833e59dbc4402590-occ_3153687552234b1897861b9288c
- 16423@thingstodoinyourcity
-DTSTAMP:20261029T172746Z
-DTSTART;VALUE=DATE:20260305
-DTEND;VALUE=DATE:20261231
-SUMMARY:A Station of Stories
-DESCRIPTION:A year-long celebration of storytelling bringing books\, crea
- tivity and imagination to the riverside neighbourhood. It includes famil
- y experiences and ticketed cultural events.\nhttps://batterseapowerstati
- on.co.uk/events/a-station-of-stories/
-LOCATION:London
-URL:https://batterseapowerstation.co.uk/events/a-station-of-stories/
+DESCRIPTION:https://batterseapowerstation.co.uk/events/
+LOCATION:Battersea Power Station\, London
+URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_866b3f38e0054f769e612615b0005d1d-occ_8e3d7f3d19554db6b714c8d771e
@@ -2841,32 +2824,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_adfcf63f668a41caa15729a5c1f8fe8b-occ_ab393f8f6abd478393e620c10c4
  9ff09@thingstodoinyourcity
-DTSTAMP:20261021T122548Z
-DTSTART:20260314T100000Z
+DTSTAMP:20261104T022128Z
+DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20261129
 SUMMARY:Cutty Sark Street Food Market
-DESCRIPTION:Stalls serve global street food\, from Greek souvlaki and Ita
- lian pizza to churros and Kolkata-style kathi rolls. Open Friday to Sund
- ay throughout the year beside the Cutty Sark.\nhttps://greenwichmarket.l
- ondon/events/detail/cutty-sark-street-food-market/
+DESCRIPTION:Price: FREE Admission\nhttps://greenwichmarket.london/whats-o
+ n/
 LOCATION:Cutty Sark Gardens\, London
-URL:https://greenwichmarket.london/events/detail/cutty-sark-street-food-m
- arket/
+URL:https://greenwichmarket.london/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_adfcf63f668a41caa15729a5c1f8fe8b-occ_65060746b4a24067a5def0667c5
  fc828@thingstodoinyourcity
-DTSTAMP:20261021T122548Z
+DTSTAMP:20261104T022128Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261129
 SUMMARY:Cutty Sark Street Food Market
-DESCRIPTION:Stalls serve global street food\, from Greek souvlaki and Ita
- lian pizza to churros and Kolkata-style kathi rolls. Open Friday to Sund
- ay throughout the year beside the Cutty Sark.\nhttps://greenwichmarket.l
- ondon/events/detail/cutty-sark-street-food-market/
+DESCRIPTION:Price: FREE Admission\nhttps://greenwichmarket.london/whats-o
+ n/
 LOCATION:Cutty Sark Gardens\, London
-URL:https://greenwichmarket.london/events/detail/cutty-sark-street-food-m
- arket/
+URL:https://greenwichmarket.london/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1882297c099c4929aa376528ca472c79-occ_1766192bffb144af80441d20caf
@@ -3223,42 +3200,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1c966b36b59645af86db33680462d74a-occ_67a617397f1d43bb9b0d351c4cf
  e135e@thingstodoinyourcity
-DTSTAMP:20261021T123357Z
+DTSTAMP:20261104T004113Z
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20261223
 SUMMARY:Future Holiday Programme 2026 Dates
-DESCRIPTION:The City Lions team will be bringing exciting Holiday Program
- mes throughout 2026. Register your interest to be the first to know when
-  sign-up forms are live.\nPrice: Free\nhttps://citylions.org/events
+DESCRIPTION:Price: Free\nhttps://citylions.org/events
 LOCATION:London
 URL:https://citylions.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5671c1feec824538bed9610099be1094-occ_bfcdcabcf4204ef59ed346a3547
- d4a0f@thingstodoinyourcity
-DTSTAMP:20261026T064859Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20261223
-SUMMARY:Future Holiday Programme 2026 Dates
-DESCRIPTION:Free creative and cultural holiday programmes for 13–16 yea
- r olds in Westminster. Sessions mix hands-on workshops\, cultural venue 
- trips and skills like photography or animation.\nPrice: Free\nhttps://ci
- tylions.org/futurehp-26/
-LOCATION:London
-URL:https://citylions.org/futurehp-26/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a581605985b24498b6a4e08308371fef-occ_066d8a18dabc488c93d1bcb2551
- 48c5e@thingstodoinyourcity
-DTSTAMP:20261029T061420Z
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20261223
-SUMMARY:Future Holiday Programme 2026 Dates
-DESCRIPTION:Free creative and cultural holiday programmes for ages 13–1
- 6 in Westminster. Register your interest to hear first when sign-up open
- s.\nPrice: completely free\nhttps://citylions.org/futurehp-26/
-LOCATION:London
-URL:https://citylions.org/futurehp-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d585ac13d10d4314a756c9095114d15c-occ_87955ce421b5479f986533fe2d2
@@ -4792,34 +4740,16 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0c05fe9c0f8b432ba9fe18c7c8f99363-occ_86ea2111fb8c4ad8b21e7bc0130
- 61ca4@thingstodoinyourcity
-DTSTAMP:20261021T120520Z
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20270117
-SUMMARY:American Revolution: 250 Years from the Declaration
-DESCRIPTION:Explore unique Library items tracing how the Declaration of I
- ndependence came into being. It also shows how civil rights leaders drew
-  on its ideals.\nPrice: Free\nhttps://events.bl.uk/exhibitions/american-
- revolution-250-years-from-the-declaration-of-independence
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/exhibitions/american-revolution-250-years-from-t
- he-declaration-of-independence
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0c05fe9c0f8b432ba9fe18c7c8f99363-occ_c8fec62dbe84463892b6251a9bb
  b268d@thingstodoinyourcity
-DTSTAMP:20261021T120520Z
+DTSTAMP:20261104T020600Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20270117
-SUMMARY:American Revolution: 250 Years from the Declaration
-DESCRIPTION:Explore unique Library items tracing how the Declaration of I
- ndependence came into being. It also shows how civil rights leaders drew
-  on its ideals.\nPrice: Free\nhttps://events.bl.uk/exhibitions/american-
- revolution-250-years-from-the-declaration-of-independence
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/exhibitions/american-revolution-250-years-from-t
- he-declaration-of-independence
+SUMMARY:American Revolution: 250 Years from the Declaration of Independen
+ ce
+DESCRIPTION:Price: Free\, no booking required\nhttps://events.bl.uk/
+LOCATION:Sir John Ritblat Gallery\, British Library\, London\, London
+URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_684d427c57324184814aee9169161fe6-occ_e310be8900a742c0b0d9aaf56d3
@@ -5774,6 +5704,20 @@ URL:https://southbank.london/whats-on/playing-with-fire-an-immersive-odys
  sey-with-yuja-wang
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8d5307d77384408fbe1e5bee3591c285-occ_b8de79429790441492cca12ae1a
+ cedce@thingstodoinyourcity
+DTSTAMP:20261104T022928Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20261111
+SUMMARY:Watercolour and Drawing Classes
+DESCRIPTION:Drop-in watercolour and drawing class for all levels\, with m
+ aterials provided or bring your own. Tutor Carol Johnston sets projects 
+ and demonstrations.\nPrice: Please contact Carol for prices and for more
+  details\nhttps://www.towerhamletsarts.org.uk/?guide=events&cat=45
+LOCATION:The Brady Arts and Community Centre\, London
+URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8a257ab2cbc84746bc6bc692ed5a3859-occ_5c6d55591c254624a69457e8788
  4aa41@thingstodoinyourcity
 DTSTAMP:20261022T202214Z
@@ -5898,6 +5842,36 @@ DESCRIPTION:A landmark loan brings the nearly 1\,000-year-old Bayeux Tape
  y leading to the Norman Conquest.\nhttps://coventgarden.com/whats-on.php
 LOCATION:The British Museum\, London
 URL:https://coventgarden.com/whats-on.php
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_975ddca67a5c4b2aa3a42944fa1f7a5e-occ_5f13d244dd684992817c91fb538
+ 2135d@thingstodoinyourcity
+DTSTAMP:20261103T235251Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20261129
+SUMMARY:30th Made in Prague Festival
+DESCRIPTION:Marking its 30th anniversary\, this three-month programme has
+  30 events in London\, Birmingham and Oxford. It spans Czech film\, art\
+ , design\, music\, dance\, literature and social sciences.\nhttps://lond
+ on.czechcentres.gov.cz/en/about-us/projects/30th-made-in-prague-festival
+LOCATION:London
+URL:https://london.czechcentres.gov.cz/en/about-us/projects/30th-made-in-
+ prague-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_975ddca67a5c4b2aa3a42944fa1f7a5e-occ_3db117276f584da19bc1b1bae2d
+ 72bf4@thingstodoinyourcity
+DTSTAMP:20261103T235251Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261129
+SUMMARY:30th Made in Prague Festival
+DESCRIPTION:Marking its 30th anniversary\, this three-month programme has
+  30 events in London\, Birmingham and Oxford. It spans Czech film\, art\
+ , design\, music\, dance\, literature and social sciences.\nhttps://lond
+ on.czechcentres.gov.cz/en/about-us/projects/30th-made-in-prague-festival
+LOCATION:London
+URL:https://london.czechcentres.gov.cz/en/about-us/projects/30th-made-in-
+ prague-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eec3020102ec4998bf0113c20f41dc4e-occ_9100787acc384bf1b20d3f73a99
@@ -6182,30 +6156,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_164bb47c79d64abb97d4f6e5748
  fa969@thingstodoinyourcity
-DTSTAMP:20261026T115459Z
+DTSTAMP:20261104T020544Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261108
 SUMMARY:Dark Arts
-DESCRIPTION:Explore Harry Potter sets\, props and costumes as the lights 
- dim for Hallowe’en. Expect Death Eater performers\, Dementor encounter
- s and new sound effects secrets.\nhttps://www.wbstudiotour.co.uk/the-exp
- erience/whats-on/dark-arts/
+DESCRIPTION:https://www.wbstudiotour.co.uk/
 LOCATION:Warner Bros. Studio Tour London\, London
-URL:https://www.wbstudiotour.co.uk/the-experience/whats-on/dark-arts/
+URL:https://www.wbstudiotour.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_097ded473e4b4eed9827244f4be
  f68c1@thingstodoinyourcity
-DTSTAMP:20261026T115459Z
+DTSTAMP:20261104T020544Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271107
 SUMMARY:Dark Arts
-DESCRIPTION:Explore Harry Potter sets\, props and costumes as the lights 
- dim for Hallowe’en. Expect Death Eater performers\, Dementor encounter
- s and new sound effects secrets.\nhttps://www.wbstudiotour.co.uk/the-exp
- erience/whats-on/dark-arts/
+DESCRIPTION:https://www.wbstudiotour.co.uk/
 LOCATION:Warner Bros. Studio Tour London\, London
-URL:https://www.wbstudiotour.co.uk/the-experience/whats-on/dark-arts/
+URL:https://www.wbstudiotour.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6f31902a31ca424a98e3e53e4b59726d-occ_dba99884494e44ffba898b7ef66
@@ -8021,58 +7989,14 @@ LOCATION:Riverside Building County Hall Westminster Bridge Road\, county
 URL:https://entertainment.skiddle.com/book/1JAA0-affluenza/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1514d618fa464965b595317c07ee5026-occ_5d71bbe3933e4455af0dc62ac58
- e2f9a@thingstodoinyourcity
-DTSTAMP:20261103T053534Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261123
-SUMMARY:K-Music Festival 2026
-DESCRIPTION:Spans folk traditions\, gaming soundtracks\, jazz\, hip-hop a
- nd indie rock. Opens with a triple bill of ADG7\, Chang Kiha and Lil Che
- rry & GOLDBUUDA.\nhttps://uk.korean-culture.org/en/1987/board/1594/read/
- 145904
-LOCATION:Various Venues\, London
-URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1b983a275dc2462a9f1d211efd1534be-occ_669a38b1424f4521942001d030a
- 13502@thingstodoinyourcity
-DTSTAMP:20261030T110447Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261123
-SUMMARY:K-Music Festival 2026
-DESCRIPTION:Europe's largest Korean music festival\, spanning folk\, gami
- ng soundtracks\, jazz\, hip-hop and indie rock. Opening night at EartH T
- heatre features ADG7\, Chang Kiha and Lil Cherry & GOLDBUUDA.\nhttps://u
- k.korean-culture.org/en/1987/board/1594/read/145904
-LOCATION:Various Venues\, London
-URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1f2c5555079246d8bd67f1ae8b7b3d5e-occ_6adeaabfc08d45f88e763f9a706
  5b054@thingstodoinyourcity
-DTSTAMP:20261021T191657Z
+DTSTAMP:20261104T003619Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261123
 SUMMARY:K-Music Festival 2026
-DESCRIPTION:Showcases folk traditions\, experimental sound art\, gaming s
- oundtracks\, jazz\, hip-hop and indie rock. Includes sonic theatre and a
- n orchestral concert of Korean game music.\nhttps://uk.korean-culture.or
- g/en/1987/board/1594/read/145904
-LOCATION:Various Venues\, London
-URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3518116d176747febb622457302657b5-occ_9ca797ecd9a347fb9e1b30283e8
- 3501c@thingstodoinyourcity
-DTSTAMP:20261027T233827Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261123
-SUMMARY:K-Music Festival 2026
-DESCRIPTION:Opens with ADG7\, Chang Kiha and Lil Cherry & GOLDBUUDA at Ea
- rtH. Folk\, gaming soundtracks\, jazz\, hip-hop and indie rock span the 
- programme.\nhttps://uk.korean-culture.org/en/1987/board/1594/read/145904
-LOCATION:Various Venues\, Various Venues London\, London
+DESCRIPTION:https://uk.korean-culture.org/en/1987/board/1594/read/145904
+LOCATION:Upstairs at Ronnie’s\, Ronnie’s\, London
 URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
 END:VEVENT
 BEGIN:VEVENT
@@ -8101,34 +8025,6 @@ DESCRIPTION:Expect folk\, shamanic ritual\, gaming soundtracks\, jazz\, h
   Cherry & GOLDBUUDA.\nPrice: Varies\nhttps://uk.korean-culture.org/en/19
  87/board/1594/read/145904
 LOCATION:London
-URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_80de13cb2498456980b7e0862a5db411-occ_3eec015a902f4b848a88d91689f
- 36c11@thingstodoinyourcity
-DTSTAMP:20261026T222458Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261123
-SUMMARY:K-Music Festival 2026
-DESCRIPTION:Spans folk traditions\, gaming soundtracks\, jazz\, hip-hop a
- nd indie rock. Features sonic theatre\, orchestral game music and genre-
- blending performances.\nhttps://uk.korean-culture.org/en/1987/board/1594
- /read/145904
-LOCATION:Various Venues\, London
-URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ef029b61b57b4551910c59a0cc980b48-occ_1a7e226e58414c9c996759fff1d
- cbd14@thingstodoinyourcity
-DTSTAMP:20261101T204553Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261123
-SUMMARY:K-Music Festival 2026
-DESCRIPTION:Spans folk\, experimental sound art\, gaming soundtracks\, ja
- zz\, hip-hop and indie rock. Opens with a triple-bill at EartH and inclu
- des an orchestral Korean game music concert.\nhttps://uk.korean-culture.
- org/en/1987/board/1594/read/145904
-LOCATION:Various Venues\, Various Venues\, London\, London
 URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
 END:VEVENT
 BEGIN:VEVENT
@@ -8447,17 +8343,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_45cc82f2b15547b69d5d7061f0c73c15-occ_eaeec99a1fc84d249c2f2422fc3
  0a0ab@thingstodoinyourcity
-DTSTAMP:20261027T134154Z
+DTSTAMP:20261104T013458Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261215
 SUMMARY:A Laurent-Perrier Pairing Experience: Brioche & Brut at Parlay
-DESCRIPTION:Enjoy a glass of Laurent-Perrier La Cuvée paired with a Lobs
- ter Roll or Seared Scallops with Apple Dashi. A limited-time dining expe
- rience created with Laurent-Perrier.\nPrice: From £35\nhttps://www.metr
- opolitancasinos.com/venues/london-mayfair/events/brioche-and-brut/
+DESCRIPTION:Price: From £35\nhttps://www.metropolitancasinos.com/venues/
+ london-mayfair/events
 LOCATION:Parlay\, Mayfair\, London
-URL:https://www.metropolitancasinos.com/venues/london-mayfair/events/brio
- che-and-brut/
+URL:https://www.metropolitancasinos.com/venues/london-mayfair/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8fea481cdca44e1db1eab6af63c68f92-occ_0bd47325eec34a09bdec0fbebf0
@@ -13484,22 +13377,6 @@ LOCATION:Omnibus Theatre\, London
 URL:https://www.omnibus-clapham.org/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4ed94cb9851e496e96a1bf6bdbb678d2-occ_68c9cf0756c5431bbbf0b016121
- 435b7@thingstodoinyourcity
-DTSTAMP:20261027T133759Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261110
-SUMMARY:Four Nights. Three Disciplines. £45k Free Play
-DESCRIPTION:Players start at Roulette\, face Blackjack and Punto Banco\, 
- then compete in a Multi-Table Finale. Entry is by invitation for eligibl
- e Metropolitan Rewards members.\nPrice: Free to enter\, unless otherwise
-  stated\; re-buys £100\nhttps://www.metropolitancasinos.com/venues/lond
- on-mayfair/events/metropolitan-circuit/
-LOCATION:Metropolitan Mayfair\, London
-URL:https://www.metropolitancasinos.com/venues/london-mayfair/events/metr
- opolitan-circuit/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1827edaa586c4f65afe11d88ffc5cc70-occ_404e224992424e4aaa9abbeb56b
  f2883@thingstodoinyourcity
 DTSTAMP:20261103T015820Z
@@ -13510,17 +13387,6 @@ DESCRIPTION:Price: Tickets: £20\nhttps://chiswickhouseandgardens.org.uk/
  event/gong-bath
 LOCATION:Chiswick House Learning Hub\, London
 URL:https://chiswickhouseandgardens.org.uk/event/gong-bath
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_20f2b27686a845a8bd9cfbfb8cdbc639-occ_3811c1e18c6042ee8b1233d0b0b
- bde79@thingstodoinyourcity
-DTSTAMP:20261029T190227Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20270117
-SUMMARY:Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection
-DESCRIPTION:https://www.2cheshamhotel.com/meetings-events/london-events
-LOCATION:London
-URL:https://www.2cheshamhotel.com/meetings-events/london-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b5172bfb18a44c1282ad01c8457a3b2b-occ_bf0afdd3a88f438d84f614c7741
@@ -19674,28 +19540,6 @@ LOCATION:London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9d3716198f104293a4e4d2f9eef28512-occ_b8cea5ba865447f1a8170fc8370
- 6c3e8@thingstodoinyourcity
-DTSTAMP:20261103T052759Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261219
-SUMMARY:Aidan Duffy
-DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
-LOCATION:London\, United Kingdom\, London
-URL:https://www.artrabbit.com/all-shows/united-kingdom/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9eaece37212c4e6fa1bee5a49aa30c4c-occ_d0e1e4bf5d684c7e8b3ec161fcc
- d88db@thingstodoinyourcity
-DTSTAMP:20261101T201922Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261219
-SUMMARY:Aidan Duffy
-DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
-LOCATION:London\, United Kingdom\, London
-URL:https://www.artrabbit.com/all-shows/united-kingdom/london
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_fde27858b6fa48efba33f7492d728754-occ_a20165305f54474690bf8a9eb76
  5ffc6@thingstodoinyourcity
 DTSTAMP:20261030T065232Z
@@ -22496,19 +22340,6 @@ URL:https://www.primarytimes.co.uk/south_london/listings/character-encoun
  ters-604442
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_fd4f54ff6fa749b1993a7e8555efa09a-occ_e02f187f334543d187d69405379
- 1cda8@thingstodoinyourcity
-DTSTAMP:20261102T073817Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270107
-SUMMARY:Christmas Markets 2026
-DESCRIPTION:A London guide to the main Christmas markets and their season
- al dates. Opening hours vary\, so check each market's official website b
- efore visiting.\nhttps://www.guidetolondon.net/events/christmas-markets/
-LOCATION:London
-URL:https://www.guidetolondon.net/events/christmas-markets/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ab9c06ea8d3048039d772d850d25ebea-occ_6f2cebd659984da8bdc99870c83
  4b004@thingstodoinyourcity
 DTSTAMP:20261024T231336Z
@@ -22526,29 +22357,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2fe55ecf9deb4e52ab45ad3618ebae6f-occ_20f0fefafe5641e38e87e467cc9
  5ea6e@thingstodoinyourcity
-DTSTAMP:20261101T054808Z
+DTSTAMP:20261104T003738Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270107
 SUMMARY:Christmas markets 2026
-DESCRIPTION:Guide to London's major Christmas markets\, including Hyde Pa
- rk Winter Wonderland\, Southbank and Leicester Square. Opening dates var
- y\, so check each market's official website.\nhttps://www.guidetolondon.
- net/events/christmas-markets/
+DESCRIPTION:Guide to London's main Christmas markets\, including Hyde Par
+ k Winter Wonderland and Southbank. Opening dates vary\, so check each ma
+ rket's official website.\nhttps://www.guidetolondon.net/whats
 LOCATION:London
-URL:https://www.guidetolondon.net/events/christmas-markets/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d36122afe20d4437999987e171c255bc-occ_d37999888e424ffaab2e17c4c39
- d83f4@thingstodoinyourcity
-DTSTAMP:20261103T175803Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20270107
-SUMMARY:Christmas markets 2026
-DESCRIPTION:Guide to London's main Christmas markets and their dates. Inc
- ludes Hyde Park\, Kingston\, Southbank and Leicester Square.\nhttps://ww
- w.guidetolondon.net/events/christmas-markets/
-LOCATION:London
-URL:https://www.guidetolondon.net/events/christmas-markets/
+URL:https://www.guidetolondon.net/whats
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_528d9a311938427b81e203b8eba3ca45-occ_1a91b5dceb194da6ad789f00c9c
@@ -23416,17 +23233,6 @@ LOCATION:Orange Tree Theatre\, London
 URL:https://orangetreetheatre.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_32875f10eba9451f842b2047c45ceeac-occ_109bde5c14154ac6b931387cfa1
- be693@thingstodoinyourcity
-DTSTAMP:20261021T172841Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Cabaret at the Kit Kat Club
-DESCRIPTION:https://londontheatrehub.co.uk/shows/cabaret/
-LOCATION:Kit Kat Club at the Playhouse Theatre\, Northumberland Avenue\, 
- London WC2N 5DE\, West End\, London
-URL:https://londontheatrehub.co.uk/shows/cabaret/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_431cb307ce7541b8b10304205dde7765-occ_a80c82ed4817483984d23f8b588
  9331b@thingstodoinyourcity
 DTSTAMP:20261103T070609Z
@@ -23530,156 +23336,6 @@ DESCRIPTION:
 LOCATION:White Bear Theatre\, London
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_ed10d4f38dff429cae76449e1ad
- 4bb29@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_be35a3f6b5674637bd5721eb1fd
- 8def1@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_3bd06a21b0734b2cb133639843a
- f4e26@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_51f28513629741dcb94706acdfa
- d82b1@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_5e8267f2cb534c2b84784169188
- 772cb@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_28c534a64052443497215e34196
- 19ff4@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_41e2a01494ea45e4934567f08c7
- b1d58@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_08402e6c4c2b405e85e9efd32af
- ce040@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261129
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_bd6a65c1f9c7446f9870d0b4586
- c31d6@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261205
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_87d6b07cc457423ba85bbde5fe7
- 58811@thingstodoinyourcity
-DTSTAMP:20261103T160030Z
-DTSTART;VALUE=DATE:20261206
-SUMMARY:Derren Brown: Only Human
-DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
- ical illusion on the West End. Run time 2hr 25min\, including one interv
- al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
- n-brown-only-human
-LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
- \, W1D 7EZ\, West End\, London
-URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
- man
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_94dd8c1a352c4bd59fe7d79b545b5b4f-occ_959f629c3d0a4e15b8fcfa23b68
  34371@thingstodoinyourcity
 DTSTAMP:20261103T123537Z
@@ -23738,32 +23394,6 @@ LOCATION:ICA\, London
 URL:https://www.ica.art/films/doc-n-roll-film-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_55aea0a323714a0785a3ad8289ecc1d6-occ_b1c3f72762a04aaa9b312ba4b34
- b9edc@thingstodoinyourcity
-DTSTAMP:20261103T020629Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Fatherland
-DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
- postwar Germany in 1949. Pawel Pawlikowski directs this Winner of Best D
- irector at Cannes Film Festival 2026.\nhttps://www.olympiccinema.com/fil
- m/fatherland
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/fatherland
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_55aea0a323714a0785a3ad8289ecc1d6-occ_bb430bad978142c79921746b4e8
- 089c1@thingstodoinyourcity
-DTSTAMP:20261103T020629Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Fatherland
-DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
- postwar Germany in 1949. Pawel Pawlikowski directs this Winner of Best D
- irector at Cannes Film Festival 2026.\nhttps://www.olympiccinema.com/fil
- m/fatherland
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/fatherland
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_dd4a3dbc49894b079e44afa239002833-occ_555192dc24f74ce1bec8c1e4c6b
  37ab8@thingstodoinyourcity
 DTSTAMP:20261103T063322Z
@@ -23804,28 +23434,6 @@ DESCRIPTION:Five evening talks\, chaired by Tim Richardson\, explore gard
 LOCATION:THE GARDEN MUSEUM\, Garden Museum\, Lambeth Palace Road\, London
  \, UK\, London
 URL:https://southbank.london/whats-on/garden-art-garden-talks-series
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ee113c91c2d0407aaaba1e21d6a9e76d-occ_b6caccf666a44604870b215336a
- f8876@thingstodoinyourcity
-DTSTAMP:20261028T115837Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Grand Temple Guided Tour at Freemasons’ Hall 2026
-DESCRIPTION:Price: Standard Ticket: £15.00\nhttps://www.ianvisits.co.uk/
- calendar/weekend/
-LOCATION:Museum of Freemasonry\, Aldwych\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ee113c91c2d0407aaaba1e21d6a9e76d-occ_ea630c3a359f464f8807ef4e02c
- 400e7@thingstodoinyourcity
-DTSTAMP:20261028T115837Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Grand Temple Guided Tour at Freemasons’ Hall 2026
-DESCRIPTION:Price: Standard Ticket: £15.00\nhttps://www.ianvisits.co.uk/
- calendar/weekend/
-LOCATION:Museum of Freemasonry\, Aldwych\, London
-URL:https://www.ianvisits.co.uk/calendar/weekend/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e626625fc5a947fb930921d75ddc1c7d-occ_f4a31fa6c0324d8a8d174d95655
@@ -24144,30 +23752,6 @@ LOCATION:Tour (6 Venues)\, London
 URL:https://www.atgtickets.com/shows/legally-blonde
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7491092f837f454282dde561d122209b-occ_3d4c7a7d68504bb0b16a987117c
- 73744@thingstodoinyourcity
-DTSTAMP:20261027T130331Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Li Jin Hao: Falling From a Moon
-DESCRIPTION:Li Jin Hao's first UK tour brings his Edinburgh-nominated sta
- nd-up hour about longing for the past. Seen on Channel 4 and BBC Radio 4
- .\nPrice: Sold out £23.00 Sold out £19.20\nhttps://sohotheatre.com/eve
- nts/li-jin-hao-falling-from-a-moon/
-LOCATION:Soho Theatre – Soho\, Soho\, London
-URL:https://sohotheatre.com/events/li-jin-hao-falling-from-a-moon/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7535672214854af98b9cbe86638f893e-occ_fffc8964da3749c6b0508ed13d7
- 345d3@thingstodoinyourcity
-DTSTAMP:20261030T091723Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Lin Jin Hao: Falling From a Moon
-DESCRIPTION:Price: £21-£26\nhttps://www.timeout.com/london/comedy/lin-j
- in-hao-falling-from-a-moon
-LOCATION:Soho Theatre\, Soho\, London
-URL:https://www.timeout.com/london/comedy/lin-jin-hao-falling-from-a-moon
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_980054909a004fa2b99426c621e90108-occ_5831115bacdb441fb6f6a64ab3a
  b56e0@thingstodoinyourcity
 DTSTAMP:20261103T052409Z
@@ -24177,48 +23761,6 @@ SUMMARY:LionHeart: The Rebar Beneath
 DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
 LOCATION:Zaha Hadid Foundation\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_34cb542c7ac6433cbcad04fc23d
- eb488@thingstodoinyourcity
-DTSTAMP:20261103T005239Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:London Korean Film Festival
-DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
- im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
- Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
- eout.com/london/things-to-do/london-korean-film-festival
-LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_a752345542334bc9865ed5ebb26
- 24b47@thingstodoinyourcity
-DTSTAMP:20261103T005239Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:London Korean Film Festival
-DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
- im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
- Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
- eout.com/london/things-to-do/london-korean-film-festival
-LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_dcab711b0f41405291411f0e04b
- 543d5@thingstodoinyourcity
-DTSTAMP:20261103T005239Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:London Korean Film Festival
-DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
- im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
- Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
- eout.com/london/things-to-do/london-korean-film-festival
-LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eead205f05ee4324801db915376ebed0-occ_3fe6862d7ac148c083cfdb5169e
@@ -24331,32 +23873,6 @@ LOCATION:The Cinema in The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/primetime
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_62d3e66e30fb4a85bd709f2e696223e1-occ_740dac45c03446cc8450e6d3216
- 60be9@thingstodoinyourcity
-DTSTAMP:20261103T004454Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Pitchfork Music Festival
-DESCRIPTION:Around 80 artists play London venues\, headlined by Horse Jum
- per of Love\, Actress\, The Avalanches and Noname. Expect avant-rock\, p
- ost-punk\, UK rap and deconstructed dance.\nPrice: Prices vary\nhttps://
- www.timeout.com/london/music/pitchfork-music-festival
-LOCATION:Various London\, London
-URL:https://www.timeout.com/london/music/pitchfork-music-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_62d3e66e30fb4a85bd709f2e696223e1-occ_4ed6d98510bd412a91a6f628e6e
- 1dcc2@thingstodoinyourcity
-DTSTAMP:20261103T004454Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Pitchfork Music Festival
-DESCRIPTION:Around 80 artists play London venues\, headlined by Horse Jum
- per of Love\, Actress\, The Avalanches and Noname. Expect avant-rock\, p
- ost-punk\, UK rap and deconstructed dance.\nPrice: Prices vary\nhttps://
- www.timeout.com/london/music/pitchfork-music-festival
-LOCATION:Various London\, London
-URL:https://www.timeout.com/london/music/pitchfork-music-festival
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_8e1568a07f464ab094eecc6bdc7
  00ec4@thingstodoinyourcity
 DTSTAMP:20261102T050343Z
@@ -24420,45 +23936,6 @@ LOCATION:Wilton's Music Hall\, Graces Alley\, London E1 8JB\, Inner Londo
  n\, London
 URL:https://wiltons.org.uk/whats-on/pulman-stilgoe-hooray-for-hollywood-2
  /
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_dd6bb2ac73ed469da2925ffd5b1
- 05d67@thingstodoinyourcity
-DTSTAMP:20261023T051420Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:ROLEPLAY
-DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
- bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
- y
-LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
- 1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/events/roleplay
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_c84d411be0854405ab2d61b0027
- 92b45@thingstodoinyourcity
-DTSTAMP:20261023T051420Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:ROLEPLAY
-DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
- bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
- y
-LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
- 1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/events/roleplay
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_f01be4cc7ac64c9aae451f4ac85
- 9609b@thingstodoinyourcity
-DTSTAMP:20261023T051420Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:ROLEPLAY
-DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
- bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
- y
-LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
- 1D 3NE\, Soho\, London
-URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b4fecc2605a47078aba246e04360369-occ_e33fa2a66da14ef3948d3d6ac2f
@@ -24554,59 +24031,6 @@ DESCRIPTION:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
 LOCATION:Aldwych Theatre\, 49 Aldwych\, London WC2B 4DF\, West End\, Lond
  on
 URL:https://londontheatrehub.co.uk/shows/sinatra-the-musical/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_edfd175a941b4518a5b589ee88c30af7-occ_461c02573d5a44888a0fd50be3c
- 6e2a9@thingstodoinyourcity
-DTSTAMP:20261028T132226Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Sophie Duker: Hot Beef Injection
-DESCRIPTION:Taskmaster champion Sophie Duker's brand-new stand-up tour da
- res to get sexy and political. The hour reflects on hypermasculinity\, h
- eavy-handed handymen and 'Man or Bear?'.\nPrice: Band B £21.00 to Band 
- A £23.00 (full price)\; members £17.60 to £19.20\nhttps://sohotheatre
- .com/events/sophie-duker-hot-beef-injection/
-LOCATION:Soho Downstairs – Soho\, Soho\, London
-URL:https://sohotheatre.com/events/sophie-duker-hot-beef-injection/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5789896458034a3f90862caaa80fe1df-occ_facd7aae0db344ce871559e4e25
- f9d08@thingstodoinyourcity
-DTSTAMP:20261101T043502Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Temi Wilkey: Lover Girl
-DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
-  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
- ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
- s/temi-wilkey-lover-girl/
-LOCATION:Soho Upstairs – Soho\, Soho\, London
-URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5789896458034a3f90862caaa80fe1df-occ_e21b573a3d6145c388088610040
- d146b@thingstodoinyourcity
-DTSTAMP:20261101T043502Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:Temi Wilkey: Lover Girl
-DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
-  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
- ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
- s/temi-wilkey-lover-girl/
-LOCATION:Soho Upstairs – Soho\, Soho\, London
-URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5789896458034a3f90862caaa80fe1df-occ_e99cf96cc6844f84b8a19a9e02d
- 5a0f4@thingstodoinyourcity
-DTSTAMP:20261101T043502Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:Temi Wilkey: Lover Girl
-DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
-  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
- ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
- s/temi-wilkey-lover-girl/
-LOCATION:Soho Upstairs – Soho\, Soho\, London
-URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_34e364f5d27846ebb94b616a115efe6a-occ_8ba67e4fff0544b5b6a400ec7b7
@@ -24896,208 +24320,19 @@ LOCATION:London Zoo\, Outer Circle\, London\, NW1 4RY\, London
 URL:https://feverup.com/m/130775
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_06884b54d88d4a77abe3fe5a590
- bbf74@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261107T103000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_dea2bac583604f1d8887cbaa4a2
- 6095f@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261107T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_6116b1aec27647909b9119f65b8
- 51498@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261107T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_3133b27947b047608165e00ddc0
- ca36e@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261108T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e64636d40e6a4856baf282ed77c
- 66f58@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261108T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_5f0ef9440c67445c86d70632855
- 70872@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261114T103000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e03938b5a4db441981c2f84b88d
- ffd3d@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261114T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_6606b84403f64dd698b9aa26d8c
- 25194@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261114T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7cc0734c05634f909988e694cc3
- b9df0@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261115T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_01cd19a43c05426582f553227ad
- b81be@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261115T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_678149e5eb434955b4d4fdac75b
- d0d4d@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261121T103000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_a9f2407992d141eb9a5a1d4c58b
- ead1c@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261121T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_312ca5a5a74642f7947c4678171
- ca51f@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261121T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7ddc9354cdee4588824177a3418
- 88d4b@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261122T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_bfe1c002ffbf438f9a58fd9aa94
- cdbc7@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART:20261122T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_da1c7e6e88774a869b3764820b9
- 11f73@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_23de3f290a8f43029d65470bd9f
- eef06@thingstodoinyourcity
-DTSTAMP:20261026T111612Z
-DTSTART;VALUE=DATE:20261129
-SUMMARY:Treasures Tour
-DESCRIPTION:Staff-led tour of treasures such as Magna Carta and the King 
- George III library. Lasts about 60 minutes\; children 11+ may attend wit
- h an adult.\nPrice: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
+UID:cand_8ae1fede9bc442509c9f09838e045445-occ_7434354f42874031974a9c614ef
+ 9b20e@thingstodoinyourcity
+DTSTAMP:20261103T061045Z
+DTSTART:20261103T110000Z
+DTEND;VALUE=DATE:20270103
+SUMMARY:Southbank Centre Winter Market 2026
+DESCRIPTION:Wooden Alpine-style cabins line the Thames with gifts from in
+ dependent craft traders. Mulled wine\, churros and raclette are served w
+ hile you browse.\nPrice: Free entry\nhttps://www.timeout.com/london/thin
+ gs-to-do/southbank-centre-winter-market
+LOCATION:South Bank\, South Bank\, Queen's Walk\, London\, London
+URL:https://www.timeout.com/london/things-to-do/southbank-centre-winter-m
+ arket
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8ae1fede9bc442509c9f09838e045445-occ_74a7a71455094814a5f317455a9
@@ -25142,78 +24377,6 @@ DESCRIPTION:Cycle past Big Ben and Westminster Abbey on a three-hour e-bi
 LOCATION:Unlimited Biking\, 135a Mepham Street\, London\, SE1 8SQ\, Londo
  n
 URL:https://feverup.com/m/312892
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_639a4b5faa8c4f0180df46067a7
- 68ee5@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261106T171500Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_44ede021c00d41fc824227acce8
- 15023@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261106T194000Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_5e40d0709f39498b85d7fd60c52
- 29610@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261107T134000Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_50eb58e962714b42939b2e550d6
- d5810@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261107T194000Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_962eb02e0504466eac9bd05f392
- 8659b@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261108T143000Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_bd70323318be4fbab7bb139cc48
- 7999a@thingstodoinyourcity
-DTSTAMP:20261102T213305Z
-DTSTART:20261108T183000Z
-SUMMARY:WICKER
-DESCRIPTION:A ridiculed fisherwoman in a seaside village commissions a hu
- sband made from wicker\, sparking outrage. Olivia Colman stars in this r
- omantic fantasy comedy.\nhttps://www.olympiccinema.com/film/wicker
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_44a89b0a3aeb485bb224467a08747842-occ_c267fc5a67254a12b3ec1a8aaad
@@ -25295,20 +24458,6 @@ LOCATION:Soho Upstairs – Soho\, Soho\, London
 URL:https://sohotheatre.com/events/max-olesker-making-the-cut/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_549390ab42df471e986b66336f806249-occ_4fff86d1335e46d98dc77c51feb
- 9f9b7@thingstodoinyourcity
-DTSTAMP:20261103T134253Z
-DTSTART:20261106T201500Z
-SUMMARY:NAZA
-DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative d
- ocumentary examines civilian casualties in Gaza. It also probes systems 
- behind targeted killings.\nhttps://www.phoenixcinema.co.uk/PhoenixCinema
- London.dll/WhatsOn?f=778140
-LOCATION:Phoenix Cinema East Finchley\, London
-URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=778
- 140
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_6006b09fd7664147a7ca06fda908fa13-occ_1bfed9add6e146e4a65107d8686
  4e708@thingstodoinyourcity
 DTSTAMP:20261103T052707Z
@@ -25329,374 +24478,6 @@ SUMMARY:Trans Rage: Resistance!
 DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
 LOCATION:London Art Bar\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e36500aca60e4416837bb231f34459de-occ_fa5156f6292e4c5fb1409c3b0f6
- 038d0@thingstodoinyourcity
-DTSTAMP:20261102T232639Z
-DTSTART:20261107T121500Z
-SUMMARY:Wildwood
-DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
- her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
-  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
- =113504
-LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
- UJ\, Whitechapel\, London
-URL:https://genesis.admit-one.co.uk/details?eventCode=113504
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e36500aca60e4416837bb231f34459de-occ_4194080d3be54ef688b54eaae35
- 0fd17@thingstodoinyourcity
-DTSTAMP:20261102T232639Z
-DTSTART:20261108T122000Z
-SUMMARY:Wildwood
-DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
- her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
-  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
- =113504
-LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
- UJ\, Whitechapel\, London
-URL:https://genesis.admit-one.co.uk/details?eventCode=113504
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e36500aca60e4416837bb231f34459de-occ_09e92c3cea364f40a6dcc303bf0
- 180ce@thingstodoinyourcity
-DTSTAMP:20261102T232639Z
-DTSTART:20261108T150500Z
-SUMMARY:Wildwood
-DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
- her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
-  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
- =113504
-LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
- UJ\, Whitechapel\, London
-URL:https://genesis.admit-one.co.uk/details?eventCode=113504
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_b4c9a152402a4efb91d2178e41d
- 20305@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261106T193000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_bc11706bc27d4df7b4ef3d2c372
- fe64c@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261107T173000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_ac085979385d41219b64f15923e
- 482fc@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261107T200000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_49608779347547eda58cc48a07b
- 5d3a5@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261113T193000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_3c300711338445cba2474a792e2
- fb7ec@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261114T173000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_246a0836782f44fa971f6ea9231
- 96fc0@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261114T200000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_43e1adeba6e64cadbea2454049c
- 3ee66@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261120T193000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_ac852726ca8844fdabfdb0939f9
- fa64e@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261121T173000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_c12c3dafc7c94e4b85f9a105c1a
- ed61a@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261121T200000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_8b113fafa0ac419f8372b3f042d
- 1c7c1@thingstodoinyourcity
-DTSTAMP:20261103T172940Z
-DTSTART:20261127T193000Z
-SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
-DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
- ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
-LOCATION:Big Belly Comedy\, London
-URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
- -comedy-club-voted-londons-best-comedy-club/tickets/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4ade17d49f624ee5b65100c6bc387ad0-occ_44a88288718a4df89c9780b03d6
- 612ec@thingstodoinyourcity
-DTSTAMP:20261031T230227Z
-DTSTART:20261106T193000Z
-SUMMARY:Jesus Christ Superstar
-DESCRIPTION:Listed under Musicals on London Concerts. Choose seats on the
-  seating plan to see live section prices before checkout.\nPrice: from 
- £41.00\nhttps://london-concerts.com/event/jesus-christ-superstar-2026-1
- 1-06/
-LOCATION:Theatre Royal Drury Lane\, Catherine Street\, London\, Greater L
- ondon\, WC2B 5JF\, London
-URL:https://london-concerts.com/event/jesus-christ-superstar-2026-11-06/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_5c95729a91174e598096d6a5a59
- d97cf@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261106T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_63b7533984374c7a961e7371dce
- b3ab5@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261107T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_848c401d01674e6aa317e1f1b51
- 53c1a@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261107T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_3a5872a6f0974885bc877a9841e
- 834be@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261108T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_e277675c254d457183a76a2dab0
- 29cbe@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261113T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_02a4ce1617704978bb450949baf
- fbbff@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261114T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_aa52ad038e674fe4b2bf318547d
- 753f3@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261114T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_ed5d829c281b43b49998fb224df
- 37516@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261115T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_0ff37e31ee6641148ea373e6755
- ca100@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261120T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_baa6e1be414743ef8be13cfc62c
- 236dc@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261121T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_21c06f5bd09747ee87063cbacb1
- 99d3a@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261121T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_81920b5fadeb4d0dab55ce93f6b
- c6490@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261122T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_fb58ea9908b64a41bbb79956757
- 3dc0d@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261127T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_0cf0890a33fe417bbaf77228fca
- 7b2f5@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261128T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_95095e48c05c49099cb9b628f16
- 7b8c3@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261128T193000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccc509d99d434710abe419154f38997f-occ_021be011d52d4223a4a72271d79
- 9a374@thingstodoinyourcity
-DTSTAMP:20261102T095846Z
-DTSTART:20261129T143000Z
-SUMMARY:The Lion King: Disney's Award-Winning Musical
-DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
- cal continues its run. Pick any performance time on the calendar to view
-  seats\, prices and book.\nhttps://www.thelionking.co.uk/
-LOCATION:Lyceum Theatre\, London
-URL:https://www.thelionking.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e397bd64ac0d4e88b9e80fbc969d3100-occ_e64d92a096404e24a1620df9ff9
@@ -25738,6 +24519,17 @@ URL:https://harrowarts.com/events/an-artists-journey-into-creative-expres
  sion
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_32875f10eba9451f842b2047c45ceeac-occ_109bde5c14154ac6b931387cfa1
+ be693@thingstodoinyourcity
+DTSTAMP:20261021T172841Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Cabaret at the Kit Kat Club
+DESCRIPTION:https://londontheatrehub.co.uk/shows/cabaret/
+LOCATION:Kit Kat Club at the Playhouse Theatre\, Northumberland Avenue\, 
+ London WC2N 5DE\, West End\, London
+URL:https://londontheatrehub.co.uk/shows/cabaret/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b6f3b65f1d214a418c6acc2cabf3f04a-occ_0b6d2d43b8934181baa5fc3a910
  b018b@thingstodoinyourcity
 DTSTAMP:20261031T213118Z
@@ -25766,6 +24558,156 @@ LOCATION:Roundhouse\, 35 Red Lion Square\, London WC1R 4LG\, Haverstock\,
   London\, London
 URL:https://eventslist.co.uk/london/events/curate-an-exhibition-music-and
  -youth-culture-2026-11-04
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_ed10d4f38dff429cae76449e1ad
+ 4bb29@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_be35a3f6b5674637bd5721eb1fd
+ 8def1@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_3bd06a21b0734b2cb133639843a
+ f4e26@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_51f28513629741dcb94706acdfa
+ d82b1@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_5e8267f2cb534c2b84784169188
+ 772cb@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_28c534a64052443497215e34196
+ 19ff4@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_41e2a01494ea45e4934567f08c7
+ b1d58@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_08402e6c4c2b405e85e9efd32af
+ ce040@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_bd6a65c1f9c7446f9870d0b4586
+ c31d6@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a973afbe13e14e60a50e24d45508ec6b-occ_87d6b07cc457423ba85bbde5fe7
+ 58811@thingstodoinyourcity
+DTSTAMP:20261103T160030Z
+DTSTART;VALUE=DATE:20261206
+SUMMARY:Derren Brown: Only Human
+DESCRIPTION:Derren Brown's new live show mixes mind-reading and psycholog
+ ical illusion on the West End. Run time 2hr 25min\, including one interv
+ al.\nPrice: £31\nhttps://ticketing.timeout.com/london/shows/48323-derre
+ n-brown-only-human
+LOCATION:Apollo Theatre\, 31 Shaftesbury Avenue\, London\, United Kingdom
+ \, W1D 7EZ\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/48323-derren-brown-only-hu
+ man
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1e314a7adf7b4e39a595a7129ad5472e-occ_0819cb60534e490a9ebe685298d
@@ -25815,6 +24757,30 @@ LOCATION:Eclipso Cultural Adventures\, Between urban outfitters and JD sp
  orts\, Venue Basement Floor\, 213-219 Camden High Street\, London\, NW1 
  7BT\, London
 URL:https://feverup.com/m/712005
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_55aea0a323714a0785a3ad8289ecc1d6-occ_b1c3f72762a04aaa9b312ba4b34
+ b9edc@thingstodoinyourcity
+DTSTAMP:20261104T011521Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, it won Best Director
+  at Cannes 2026.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_55aea0a323714a0785a3ad8289ecc1d6-occ_bb430bad978142c79921746b4e8
+ 089c1@thingstodoinyourcity
+DTSTAMP:20261104T011521Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, it won Best Director
+  at Cannes 2026.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c04dfad13744476bb3ad559db69cf667-occ_2dba4c1c79774c24b884adddff3
@@ -25875,32 +24841,28 @@ LOCATION:Barbican Library\, London
 URL:https://www.cityoflondon.gov.uk/events/layers-of-the-city
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bf804386bccf440489abfd1f1fbd429b-occ_1d924b5506d345579fe3bd98057
- 003a2@thingstodoinyourcity
-DTSTAMP:20261103T123616Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261127
-SUMMARY:Legacy Awareness Month
-DESCRIPTION:Talks\, discussions and creative activities explore gifts tha
- t shaped the collection. Practical guidance on writing a will comes from
-  an expert solicitor.\nhttps://www.nationalgallery.org.uk/events/legacy-
- awareness-month
-LOCATION:London
-URL:https://www.nationalgallery.org.uk/events/legacy-awareness-month
+UID:cand_7491092f837f454282dde561d122209b-occ_3d4c7a7d68504bb0b16a987117c
+ 73744@thingstodoinyourcity
+DTSTAMP:20261027T130331Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Li Jin Hao: Falling From a Moon
+DESCRIPTION:Li Jin Hao's first UK tour brings his Edinburgh-nominated sta
+ nd-up hour about longing for the past. Seen on Channel 4 and BBC Radio 4
+ .\nPrice: Sold out £23.00 Sold out £19.20\nhttps://sohotheatre.com/eve
+ nts/li-jin-hao-falling-from-a-moon/
+LOCATION:Soho Theatre – Soho\, Soho\, London
+URL:https://sohotheatre.com/events/li-jin-hao-falling-from-a-moon/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d9f1a98473214188b1d7ced78901a952-occ_b464c9ca68c14dd6bac4c09531e
- bd0f7@thingstodoinyourcity
-DTSTAMP:20261031T232755Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261127
-SUMMARY:Legacy Awareness Month
-DESCRIPTION:Talks and creative activities explore legacies' lasting impac
- t at the National Gallery. Hear the stories behind gifts that shaped the
-  collection.\nhttps://www.nationalgallery.org.uk/events/legacy-awareness
- -month
-LOCATION:London
-URL:https://www.nationalgallery.org.uk/events/legacy-awareness-month
+UID:cand_7535672214854af98b9cbe86638f893e-occ_fffc8964da3749c6b0508ed13d7
+ 345d3@thingstodoinyourcity
+DTSTAMP:20261030T091723Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Lin Jin Hao: Falling From a Moon
+DESCRIPTION:Price: £21-£26\nhttps://www.timeout.com/london/comedy/lin-j
+ in-hao-falling-from-a-moon
+LOCATION:Soho Theatre\, Soho\, London
+URL:https://www.timeout.com/london/comedy/lin-jin-hao-falling-from-a-moon
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_958627f579ef4d77b6dd3aa32042c3cb-occ_06c48af9289b4db7865f809b7a0
@@ -25975,6 +24937,97 @@ DTEND;VALUE=DATE:20261129
 SUMMARY:Our Precious Sacred Wood
 DESCRIPTION:
 LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_43832f3506e848179fba72e8b6d
+ c36f0@thingstodoinyourcity
+DTSTAMP:20261104T005114Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:Pitchfork Music Festival returns with 80 artists across Londo
+ n's best venues. Headliners include Horse Jumper of Love\, Actress\, The
+  Avalanches and Noname.\nPrice: Prices vary\nhttps://www.timeout.com/lon
+ don/music/pitchfork-music-festival
+LOCATION:Various\, Various London\, London
+URL:https://www.timeout.com/london/music/pitchfork-music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_085a236463404ce3ac2538c5545
+ e643d@thingstodoinyourcity
+DTSTAMP:20261104T005114Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:Pitchfork Music Festival returns with 80 artists across Londo
+ n's best venues. Headliners include Horse Jumper of Love\, Actress\, The
+  Avalanches and Noname.\nPrice: Prices vary\nhttps://www.timeout.com/lon
+ don/music/pitchfork-music-festival
+LOCATION:Various\, Various London\, London
+URL:https://www.timeout.com/london/music/pitchfork-music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_62d3e66e30fb4a85bd709f2e696223e1-occ_740dac45c03446cc8450e6d3216
+ 60be9@thingstodoinyourcity
+DTSTAMP:20261103T004454Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:Around 80 artists play London venues\, headlined by Horse Jum
+ per of Love\, Actress\, The Avalanches and Noname. Expect avant-rock\, p
+ ost-punk\, UK rap and deconstructed dance.\nPrice: Prices vary\nhttps://
+ www.timeout.com/london/music/pitchfork-music-festival
+LOCATION:Various London\, London
+URL:https://www.timeout.com/london/music/pitchfork-music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_62d3e66e30fb4a85bd709f2e696223e1-occ_4ed6d98510bd412a91a6f628e6e
+ 1dcc2@thingstodoinyourcity
+DTSTAMP:20261103T004454Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:Around 80 artists play London venues\, headlined by Horse Jum
+ per of Love\, Actress\, The Avalanches and Noname. Expect avant-rock\, p
+ ost-punk\, UK rap and deconstructed dance.\nPrice: Prices vary\nhttps://
+ www.timeout.com/london/music/pitchfork-music-festival
+LOCATION:Various London\, London
+URL:https://www.timeout.com/london/music/pitchfork-music-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_dd6bb2ac73ed469da2925ffd5b1
+ 05d67@thingstodoinyourcity
+DTSTAMP:20261023T051420Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:ROLEPLAY
+DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
+ bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
+ y
+LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
+ 1D 3NE\, Soho\, London
+URL:https://sohotheatre.com/events/roleplay
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_c84d411be0854405ab2d61b0027
+ 92b45@thingstodoinyourcity
+DTSTAMP:20261023T051420Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:ROLEPLAY
+DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
+ bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
+ y
+LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
+ 1D 3NE\, Soho\, London
+URL:https://sohotheatre.com/events/roleplay
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f4d919c06d4a40d8965e6e5e13d21074-occ_f01be4cc7ac64c9aae451f4ac85
+ 9609b@thingstodoinyourcity
+DTSTAMP:20261023T051420Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:ROLEPLAY
+DESCRIPTION:Price: Full price £34.00 / £32.00 / £30.00 / £21.00\; Mem
+ bers £28.00 / £26.40 / £24.80\nhttps://sohotheatre.com/events/rolepla
+ y
+LOCATION:Soho Theatre – Soho\, Soho Theatre\, 21 Dean Street\, London W
+ 1D 3NE\, Soho\, London
+URL:https://sohotheatre.com/events/roleplay
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ace63154c56f42208a8b758dc1c6950b-occ_81b65fc1094648a2b54aff0006f
@@ -26071,6 +25124,59 @@ URL:https://www.culturecalling.com/london/events/soho-revue-two-new-exhib
  itions
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_edfd175a941b4518a5b589ee88c30af7-occ_461c02573d5a44888a0fd50be3c
+ 6e2a9@thingstodoinyourcity
+DTSTAMP:20261028T132226Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Sophie Duker: Hot Beef Injection
+DESCRIPTION:Taskmaster champion Sophie Duker's brand-new stand-up tour da
+ res to get sexy and political. The hour reflects on hypermasculinity\, h
+ eavy-handed handymen and 'Man or Bear?'.\nPrice: Band B £21.00 to Band 
+ A £23.00 (full price)\; members £17.60 to £19.20\nhttps://sohotheatre
+ .com/events/sophie-duker-hot-beef-injection/
+LOCATION:Soho Downstairs – Soho\, Soho\, London
+URL:https://sohotheatre.com/events/sophie-duker-hot-beef-injection/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5789896458034a3f90862caaa80fe1df-occ_facd7aae0db344ce871559e4e25
+ f9d08@thingstodoinyourcity
+DTSTAMP:20261101T043502Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Temi Wilkey: Lover Girl
+DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
+  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
+ ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
+ s/temi-wilkey-lover-girl/
+LOCATION:Soho Upstairs – Soho\, Soho\, London
+URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5789896458034a3f90862caaa80fe1df-occ_e21b573a3d6145c388088610040
+ d146b@thingstodoinyourcity
+DTSTAMP:20261101T043502Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Temi Wilkey: Lover Girl
+DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
+  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
+ ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
+ s/temi-wilkey-lover-girl/
+LOCATION:Soho Upstairs – Soho\, Soho\, London
+URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5789896458034a3f90862caaa80fe1df-occ_e99cf96cc6844f84b8a19a9e02d
+ 5a0f4@thingstodoinyourcity
+DTSTAMP:20261101T043502Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Temi Wilkey: Lover Girl
+DESCRIPTION:A brand-new show blending stand-up\, theatre and cabaret over
+  90s R&B and neo-soul. Directed by Ragevan Vasan\, with two Black Out Ni
+ ght performances.\nPrice: £23.00 £19.20\nhttps://sohotheatre.com/event
+ s/temi-wilkey-lover-girl/
+LOCATION:Soho Upstairs – Soho\, Soho\, London
+URL:https://sohotheatre.com/events/temi-wilkey-lover-girl/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_57a83cb123f8482f8d08862529118455-occ_694e8e41556d4764a7723c709ba
  b4e47@thingstodoinyourcity
 DTSTAMP:20261103T020819Z
@@ -26083,6 +25189,286 @@ DESCRIPTION:Four days of the New York label's ready-to-wear\, bags and sh
 LOCATION:Arlettie London\, Arlettie London\, Arlettie Lisson Grove\, 24-4
  6 Lisson Grove\, London NW1 6TZ\, London
 URL:https://popette.app/p/ldn-tory-burch-sample-sale-arlettie-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_dea2bac583604f1d8887cbaa4a2
+ 6095f@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_f8ecb7f376054643bb57a8108c9
+ 16071@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261107T103000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_232cad3a6bb5472b8899584ec89
+ 30d91@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261107T140000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_6a699dccaafc4c0d93e421cb1e5
+ 51945@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261107T150000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e64636d40e6a4856baf282ed77c
+ 66f58@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_19ed755960b849dc82682bab1e4
+ ebea8@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261108T113000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_02bd97b53e054f1badf88d3e1c4
+ 815b8@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261108T153000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e03938b5a4db441981c2f84b88d
+ ffd3d@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_87c1e7cc6931494c86130f9bb55
+ 53fda@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261114T103000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_4af62e2357ef4b7b8045a9dcc3a
+ 1fd9d@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261114T140000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_d6e95c449e894cfe9226bad47d1
+ 9dfbd@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261114T150000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_b561766cd30147c99fff57b6384
+ 38e63@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_ea728ea9f51c46728fe9d242074
+ 636a5@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261115T113000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_1111e6c4cb0e4829bf42c3f3097
+ fb29d@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261115T153000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_b3a64834d7d141d7a904d542352
+ d3305@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_ba5fa92737d84c1d9f156b77424
+ 8b6e3@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261121T103000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7ff2813be4934296967bf244876
+ 84282@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261121T140000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7ea44dbe9a99471283352b42bad
+ 795d8@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261121T150000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_c4cdbaddf97247709c223edce6e
+ cf5b5@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_a73767c59a6d4899854bc24d7f4
+ 963b3@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261122T113000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_152b0853ca244821a3a6ea88b16
+ 07277@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261122T153000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_da1c7e6e88774a869b3764820b9
+ 11f73@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_81e6191d4a934e6c84ed5db216a
+ e9b79@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261128T103000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_78ecef87ee1944f687f3f896128
+ 58a68@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261128T140000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_5721f8b5f283452bb9175018bff
+ 63cc3@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261128T150000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_deccc223859f4800a5fa6566e0f
+ f51a6@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_26b5298f182643c8b6050951f8e
+ c6bd2@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261129T113000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_c06c801c2782460e8bef45e3a23
+ 904b7@thingstodoinyourcity
+DTSTAMP:20261104T020618Z
+DTSTART:20261129T153000Z
+SUMMARY:Treasures Tour
+DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_14de7cf30b554e7695503818ce993719-occ_2b6aca9fe2cd45fb83791e99e32
@@ -26100,20 +25486,28 @@ LOCATION:Oxo Gallery\, Oxo Tower Wharf\, Barge House St\, London SE1 9PH\
 URL:https://www.coinstreet.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8d5307d77384408fbe1e5bee3591c285-occ_b8de79429790441492cca12ae1a
- cedce@thingstodoinyourcity
-DTSTAMP:20261031T222121Z
-DTSTART:20260909T171500Z
-DTEND:20261111T203000Z
-SUMMARY:Watercolour and Drawing Classes
-DESCRIPTION:Watercolour painting and drawing class for all levels\; begin
- ners welcome. Materials are provided\, or bring your own\; tutor Carol J
- ohnston sets projects and demonstrations.\nPrice: Please contact Carol f
- or prices and for more details\nhttps://www.towerhamletsarts.org.uk/?cid
- =81555
-LOCATION:The Brady Arts and Community Centre\, 192-196 Hanbury Street\, L
- ondon\, E1 5HU\, London
-URL:https://www.towerhamletsarts.org.uk/?cid=81555
+UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_5e40d0709f39498b85d7fd60c52
+ 29610@thingstodoinyourcity
+DTSTAMP:20261104T011438Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:WICKER
+DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
+ ng outrage. Olivia Colman stars in this romantic fantasy comedy.\nhttps:
+ //www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_bd70323318be4fbab7bb139cc48
+ 7999a@thingstodoinyourcity
+DTSTAMP:20261104T011438Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:WICKER
+DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
+ ng outrage. Olivia Colman stars in this romantic fantasy comedy.\nhttps:
+ //www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2805d8a818014b1dbcb393cef7649493-occ_e1d85734a8cd42578741a354cb7
@@ -26346,6 +25740,54 @@ LOCATION:Alexandra Palace\, London
 URL:https://www.alexandrapalace.com/whats-on/upside-down-london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7637a4e59f8b4fcb924105af9104af8c-occ_132af7c64dbf4e83870df6073af
+ 00890@thingstodoinyourcity
+DTSTAMP:20261103T234906Z
+DTSTART:20261107T100000Z
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:https://concerts.consequence.net/events/larger-than-life-star
+ ring-wallace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+LOCATION:The Lightroom\, 12 Lewis Cubitt Square London N1C 5DY\, London
+URL:https://concerts.consequence.net/events/larger-than-life-starring-wal
+ lace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7637a4e59f8b4fcb924105af9104af8c-occ_f85006e915c14595b6f98669ad3
+ 2ca71@thingstodoinyourcity
+DTSTAMP:20261103T234906Z
+DTSTART:20261108T100000Z
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:https://concerts.consequence.net/events/larger-than-life-star
+ ring-wallace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+LOCATION:The Lightroom\, 12 Lewis Cubitt Square London N1C 5DY\, London
+URL:https://concerts.consequence.net/events/larger-than-life-starring-wal
+ lace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_23ebb49ef26141f18a51afef306ac3cb-occ_d6cdffa1ea0544cf8f908b20b8a
+ ef4cd@thingstodoinyourcity
+DTSTAMP:20261104T022415Z
+DTSTART:20261107T101500Z
+SUMMARY:Primetime
+DESCRIPTION:To Catch a Predator host Chris Hansen sets out to make televi
+ sion history. The 18:30 session is already sold out.\nhttps://thecastlec
+ inema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_23ebb49ef26141f18a51afef306ac3cb-occ_d44709fed75f46ccb39afe5e3c2
+ 6cf8f@thingstodoinyourcity
+DTSTAMP:20261104T022415Z
+DTSTART:20261108T101500Z
+SUMMARY:Primetime
+DESCRIPTION:To Catch a Predator host Chris Hansen sets out to make televi
+ sion history. The 18:30 session is already sold out.\nhttps://thecastlec
+ inema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_dd183d05deff4100819974f4dc423784-occ_d16228e143444aa7971752042b6
  69512@thingstodoinyourcity
 DTSTAMP:20261102T185559Z
@@ -26464,6 +25906,71 @@ LOCATION:Aga Khan Centre\, 10 Handyside Street London N1C 4DN\, Kings Cro
 URL:https://www.ianvisits.co.uk/calendar/aga-khan-centre-tour-9-436234
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_d72780d9e64f4e90aaf61b4fad1
+ 01538@thingstodoinyourcity
+DTSTAMP:20261104T013206Z
+DTSTART:20261107T140000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
+ rk pasts catch up. Martin McDonagh directs this comic thriller starring 
+ Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
+ d-horse-nine
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_e61b4b1f2de9447f80fa9ee1cdf
+ ed87f@thingstodoinyourcity
+DTSTAMP:20261104T013206Z
+DTSTART:20261108T135000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
+ rk pasts catch up. Martin McDonagh directs this comic thriller starring 
+ Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
+ d-horse-nine
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_fa8e7cccd9134d94822ca8f8eda
+ df801@thingstodoinyourcity
+DTSTAMP:20261104T013206Z
+DTSTART:20261113T174000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
+ rk pasts catch up. Martin McDonagh directs this comic thriller starring 
+ Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
+ d-horse-nine
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_2e9036c766074655994c37a644b
+ f8f1a@thingstodoinyourcity
+DTSTAMP:20261104T013206Z
+DTSTART:20261114T203000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
+ rk pasts catch up. Martin McDonagh directs this comic thriller starring 
+ Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
+ d-horse-nine
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_0af6d9ac06e34c6f903f809740f
+ db46b@thingstodoinyourcity
+DTSTAMP:20261104T013206Z
+DTSTART:20261115T164500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
+ rk pasts catch up. Martin McDonagh directs this comic thriller starring 
+ Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
+ d-horse-nine
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/wild-horse-nine
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_64a2cd42313f4e9abd6ed45a800dce17-occ_421be666057a4da1958608ef0d5
  8debf@thingstodoinyourcity
 DTSTAMP:20261103T004152Z
@@ -26477,6 +25984,73 @@ DESCRIPTION:This year's Oxford Street lights are Harry Potter-themed\, wi
 LOCATION:Oxford Street\, Oxford Street London W1B 3AG\, Soho\, London
 URL:https://www.timeout.com/london/things-to-do/oxford-street-christmas-l
  ights-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cf4160b42f6644ecae3f459d11dcea50-occ_ffbf6afb103646e3b3994efe2e8
+ 51ebb@thingstodoinyourcity
+DTSTAMP:20261104T022457Z
+DTSTART:20261107T102500Z
+SUMMARY:Forgotten Island
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27838/
+LOCATION:Forest Walthamstow | Screen 4\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/27838/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_549390ab42df471e986b66336f806249-occ_4fff86d1335e46d98dc77c51feb
+ 9f9b7@thingstodoinyourcity
+DTSTAMP:20261103T134253Z
+DTSTART:20261106T201500Z
+SUMMARY:NAZA
+DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this investigative d
+ ocumentary examines civilian casualties in Gaza. It also probes systems 
+ behind targeted killings.\nhttps://www.phoenixcinema.co.uk/PhoenixCinema
+ London.dll/WhatsOn?f=778140
+LOCATION:Phoenix Cinema East Finchley\, London
+URL:https://www.phoenixcinema.co.uk/PhoenixCinemaLondon.dll/WhatsOn?f=778
+ 140
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e36500aca60e4416837bb231f34459de-occ_fa5156f6292e4c5fb1409c3b0f6
+ 038d0@thingstodoinyourcity
+DTSTAMP:20261102T232639Z
+DTSTART:20261107T121500Z
+SUMMARY:Wildwood
+DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
+ her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
+  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
+ =113504
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
+ UJ\, Whitechapel\, London
+URL:https://genesis.admit-one.co.uk/details?eventCode=113504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e36500aca60e4416837bb231f34459de-occ_4194080d3be54ef688b54eaae35
+ 0fd17@thingstodoinyourcity
+DTSTAMP:20261102T232639Z
+DTSTART:20261108T122000Z
+SUMMARY:Wildwood
+DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
+ her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
+  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
+ =113504
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
+ UJ\, Whitechapel\, London
+URL:https://genesis.admit-one.co.uk/details?eventCode=113504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e36500aca60e4416837bb231f34459de-occ_09e92c3cea364f40a6dcc303bf0
+ 180ce@thingstodoinyourcity
+DTSTAMP:20261102T232639Z
+DTSTART:20261108T150500Z
+SUMMARY:Wildwood
+DESCRIPTION:Teen Prue McKeel ventures into an enchanted forest to rescue 
+ her abducted baby brother. Joined by Curtis Mehlberg\, she faces bandits
+  and talking animals.\nhttps://genesis.admit-one.co.uk/details?eventCode
+ =113504
+LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
+ UJ\, Whitechapel\, London
+URL:https://genesis.admit-one.co.uk/details?eventCode=113504
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_141463c94e85454b8eef88c47ddbdf12-occ_347dde30f0864eac9d78c0b2201
@@ -26572,6 +26146,126 @@ DESCRIPTION:Mingle with locals\, play games and sip cocktails made from y
 LOCATION:Moonshine Saloon\, 28-30 Houndsditch\, London\, EC3A 7DB\, East 
  London\, London
 URL:https://feverup.com/m/64913
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_b4c9a152402a4efb91d2178e41d
+ 20305@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261106T193000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_bc11706bc27d4df7b4ef3d2c372
+ fe64c@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261107T173000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_ac085979385d41219b64f15923e
+ 482fc@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261107T200000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_49608779347547eda58cc48a07b
+ 5d3a5@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261113T193000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_3c300711338445cba2474a792e2
+ fb7ec@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261114T173000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_246a0836782f44fa971f6ea9231
+ 96fc0@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261114T200000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_43e1adeba6e64cadbea2454049c
+ 3ee66@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261120T193000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_ac852726ca8844fdabfdb0939f9
+ fa64e@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261121T173000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_c12c3dafc7c94e4b85f9a105c1a
+ ed61a@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261121T200000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ce2dc965aae2470590a6a47f09f63584-occ_8b113fafa0ac419f8372b3f042d
+ 1c7c1@thingstodoinyourcity
+DTSTAMP:20261103T172940Z
+DTSTART:20261127T193000Z
+SUMMARY:Big Belly Comedy Club - Voted Londons Best Comedy Club
+DESCRIPTION:https://www.london-theatreland.co.uk/shows/big-belly-comedy/b
+ ig-belly-comedy-club-voted-londons-best-comedy-club/tickets/calendar
+LOCATION:Big Belly Comedy\, London
+URL:https://www.london-theatreland.co.uk/shows/big-belly-comedy/big-belly
+ -comedy-club-voted-londons-best-comedy-club/tickets/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aedc837167e64de387d51e48ed747576-occ_6390e16a00b140d0a4893738719
@@ -26896,6 +26590,20 @@ URL:https://www.london-theatreland.co.uk/shows/president-hotel/faulty-tow
  ers-the-dining-experience/tickets/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4ade17d49f624ee5b65100c6bc387ad0-occ_44a88288718a4df89c9780b03d6
+ 612ec@thingstodoinyourcity
+DTSTAMP:20261031T230227Z
+DTSTART:20261106T193000Z
+SUMMARY:Jesus Christ Superstar
+DESCRIPTION:Listed under Musicals on London Concerts. Choose seats on the
+  seating plan to see live section prices before checkout.\nPrice: from 
+ £41.00\nhttps://london-concerts.com/event/jesus-christ-superstar-2026-1
+ 1-06/
+LOCATION:Theatre Royal Drury Lane\, Catherine Street\, London\, Greater L
+ ondon\, WC2B 5JF\, London
+URL:https://london-concerts.com/event/jesus-christ-superstar-2026-11-06/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ab72c4533b4b4296b640e8ebe6d793fa-occ_65c90ce63018494695ea0390112
  67aca@thingstodoinyourcity
 DTSTAMP:20261103T015207Z
@@ -26920,6 +26628,198 @@ DESCRIPTION:No artistic skill needed: paint\, sip and relax with supplies
 LOCATION:The London Art Bar\, 300 High Holborn\, London\, WC1V 7JH\, Holb
  orn\, London
 URL:https://feverup.com/m/261446
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_5c95729a91174e598096d6a5a59
+ d97cf@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261106T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_63b7533984374c7a961e7371dce
+ b3ab5@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261107T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_848c401d01674e6aa317e1f1b51
+ 53c1a@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261107T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_3a5872a6f0974885bc877a9841e
+ 834be@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261108T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_e277675c254d457183a76a2dab0
+ 29cbe@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261113T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_02a4ce1617704978bb450949baf
+ fbbff@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261114T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_aa52ad038e674fe4b2bf318547d
+ 753f3@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261114T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_ed5d829c281b43b49998fb224df
+ 37516@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261115T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_0ff37e31ee6641148ea373e6755
+ ca100@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261120T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_baa6e1be414743ef8be13cfc62c
+ 236dc@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261121T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_21c06f5bd09747ee87063cbacb1
+ 99d3a@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261121T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_81920b5fadeb4d0dab55ce93f6b
+ c6490@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261122T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_fb58ea9908b64a41bbb79956757
+ 3dc0d@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261127T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_0cf0890a33fe417bbaf77228fca
+ 7b2f5@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261128T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_95095e48c05c49099cb9b628f16
+ 7b8c3@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261128T193000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ccc509d99d434710abe419154f38997f-occ_021be011d52d4223a4a72271d79
+ 9a374@thingstodoinyourcity
+DTSTAMP:20261102T095846Z
+DTSTART:20261129T143000Z
+SUMMARY:The Lion King: Disney's Award-Winning Musical
+DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
+ cal continues its run. Pick any performance time on the calendar to view
+  seats\, prices and book.\nhttps://www.thelionking.co.uk/
+LOCATION:Lyceum Theatre\, London
+URL:https://www.thelionking.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5310bd5deb214684b5a45d283aa499e0-occ_c7cb1088f1434782b398ecc16a7
@@ -27151,6 +27051,28 @@ LOCATION:AT THE PLACE\, 17 Duke's Road London WC1H 9PY\, London
 URL:https://theplace.org.uk/events/femina/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ee113c91c2d0407aaaba1e21d6a9e76d-occ_b6caccf666a44604870b215336a
+ f8876@thingstodoinyourcity
+DTSTAMP:20261028T115837Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Grand Temple Guided Tour at Freemasons’ Hall 2026
+DESCRIPTION:Price: Standard Ticket: £15.00\nhttps://www.ianvisits.co.uk/
+ calendar/weekend/
+LOCATION:Museum of Freemasonry\, Aldwych\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ee113c91c2d0407aaaba1e21d6a9e76d-occ_ea630c3a359f464f8807ef4e02c
+ 400e7@thingstodoinyourcity
+DTSTAMP:20261028T115837Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:Grand Temple Guided Tour at Freemasons’ Hall 2026
+DESCRIPTION:Price: Standard Ticket: £15.00\nhttps://www.ianvisits.co.uk/
+ calendar/weekend/
+LOCATION:Museum of Freemasonry\, Aldwych\, London
+URL:https://www.ianvisits.co.uk/calendar/weekend/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_13c8ac60b1d14a2c9cdf04b3b4054780-occ_80a37aacd2a24f218f0160c34e1
  8bbb8@thingstodoinyourcity
 DTSTAMP:20261103T125031Z
@@ -27199,6 +27121,104 @@ DESCRIPTION:Price: FREE\nhttps://www.tiktok.com/discover/free-pop-ups-in-
  london?lang=en
 LOCATION:Borough Yards\, Stoney Street\, SE1 9AD\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_34cb542c7ac6433cbcad04fc23d
+ eb488@thingstodoinyourcity
+DTSTAMP:20261103T005239Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
+ im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
+ Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
+ eout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_a752345542334bc9865ed5ebb26
+ 24b47@thingstodoinyourcity
+DTSTAMP:20261103T005239Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
+ im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
+ Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
+ eout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_73b49141832c44eba4baa645dfe4ab48-occ_dcab711b0f41405291411f0e04b
+ 543d5@thingstodoinyourcity
+DTSTAMP:20261103T005239Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 films over a fortnight\, opening with K
+ im Mi-jo's The Journey to Gyeong-ju. Closing gala is the UK premiere of 
+ Park Hoon-jung's Tristes Tropiques.\nPrice: Prices vary\nhttps://www.tim
+ eout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_d993d780c71641cdb2979d3dfb6
+ ef318@thingstodoinyourcity
+DTSTAMP:20261104T004141Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
+ at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
+ ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
+ ww.timeout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_ed5ecbb3bde347f68512a981bd8
+ 76c53@thingstodoinyourcity
+DTSTAMP:20261104T004141Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
+ at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
+ ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
+ ww.timeout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_4b8588b65e7c4002802d1a7b03e
+ ddfa7@thingstodoinyourcity
+DTSTAMP:20261104T004141Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
+ at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
+ ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
+ ww.timeout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_eec440011a1e4d5987afce43e02
+ 5d86a@thingstodoinyourcity
+DTSTAMP:20261104T004141Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:London Korean Film Festival
+DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
+ at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
+ ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
+ ww.timeout.com/london/things-to-do/london-korean-film-festival
+LOCATION:Various London venues\, London
+URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
+ al
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_265561126b9d44e287c16a9f7d610a42-occ_5a59c6c36fe94cf2aa2c5aa25e9
@@ -29498,26 +29518,6 @@ LOCATION:Trafalgar Square\, North Terrace\, Trafalgar Square (in front of
 URL:https://popette.app/p/ldn-trafalgar-square-christmas-market-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_35437a097f244f2b8c5f6731cef4705e-occ_b5d4cb9e50af4982a336563e369
- 0f962@thingstodoinyourcity
-DTSTAMP:20261102T184756Z
-DTSTART:20261107T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_35437a097f244f2b8c5f6731cef4705e-occ_87c37decdc7747be95378511d82
- bd90f@thingstodoinyourcity
-DTSTAMP:20261102T184756Z
-DTSTART:20261108T100000Z
-SUMMARY:Victoria: A Royal Childhood
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f7585d0765a54b459aadc8e03c5ad4b8-occ_34c1973791db4e1ca9a5b49923c
  05898@thingstodoinyourcity
 DTSTAMP:20261031T224056Z
@@ -29545,6 +29545,26 @@ DESCRIPTION:Now in its third year\, the fair brings over 50 artists\, gal
 LOCATION:Highgate Primary School\, Storey Road\, London N6 4ED\, Highgate
  \, London
 URL:https://highgateartfair.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_25b28388cdbc43dfb1342f28296cae23-occ_5e6d9fb7692d4d688ffcbd29a06
+ 2a425@thingstodoinyourcity
+DTSTAMP:20261104T022802Z
+DTSTART:20261107T104500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_25b28388cdbc43dfb1342f28296cae23-occ_0a73d6a9dc9e4e7f9f0a0e1da16
+ cc124@thingstodoinyourcity
+DTSTAMP:20261104T022802Z
+DTSTART:20261108T104500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_03e3cf8a443a4eaab75803d62ec2f84a-occ_dfb2b2ff46564c37ba02e93bf53
@@ -30395,32 +30415,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_25464ef073f349a09c7576f171b
  b8e74@thingstodoinyourcity
-DTSTAMP:20261103T061546Z
+DTSTAMP:20261104T001959Z
 DTSTART:20261106T183000Z
 SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:Unrehearsed improvised jazz from London heavyweights with Voi
- ces Radio\, plus vinyl DJ sets and boardgames. Natural Jazz runs every f
- irst Friday of the month.\nPrice: Free\nhttps://www.timeout.com/london/t
- hings-to-do/natural-jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern Bankside London SE1 9TG\, Bankside\, L
- ondon
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
+DESCRIPTION:Unrehearsed improvised jazz from London heavyweights joins Vo
+ ices Radio\, with vinyl DJ sets and free boardgames. Natural Jazz runs e
+ very first Friday of the month.\nPrice: Free\nhttps://www.timeout.com/lo
+ ndon/things-to-do-in-london-this-weekend
+LOCATION:Tate Modern\, Tate Modern\, Bankside\, London\, SE1 9TG\, Banksi
+ de\, London
+URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_67dd5dc4180a4001b97277b2efe
  a0d75@thingstodoinyourcity
-DTSTAMP:20261103T061546Z
+DTSTAMP:20261104T001959Z
 DTSTART:20261204T183000Z
 SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:Unrehearsed improvised jazz from London heavyweights with Voi
- ces Radio\, plus vinyl DJ sets and boardgames. Natural Jazz runs every f
- irst Friday of the month.\nPrice: Free\nhttps://www.timeout.com/london/t
- hings-to-do/natural-jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern Bankside London SE1 9TG\, Bankside\, L
- ondon
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
+DESCRIPTION:Unrehearsed improvised jazz from London heavyweights joins Vo
+ ices Radio\, with vinyl DJ sets and free boardgames. Natural Jazz runs e
+ very first Friday of the month.\nPrice: Free\nhttps://www.timeout.com/lo
+ ndon/things-to-do-in-london-this-weekend
+LOCATION:Tate Modern\, Tate Modern\, Bankside\, London\, SE1 9TG\, Banksi
+ de\, London
+URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_30a38d0083614bc691cbc9ea4f69e452-occ_ae871aed700a4002b1307ae8cd8
@@ -30454,19 +30472,6 @@ DESCRIPTION:Poet Dave Neita and composer Deborah Pritchard lead a choir\,
 LOCATION:Pigott Theatre\, London
 URL:https://www.nationalgallery.org.uk/events/reimagined-histories-spoken
  -word-and-choir-06-11-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_78d43bd3b87344c0a34a61e8694575df-occ_bdefbb0e99e1443dba275409a04
- e410d@thingstodoinyourcity
-DTSTAMP:20261101T001544Z
-DTSTART:20261106T183000Z
-SUMMARY:Rosa von Praunheim: The Bed Sausage & It is Not the Homosexual...
-  + Intro
-DESCRIPTION:https://clusterflick.com/movies/e7358bd7/rosa-von-praunheim-t
- he-bed-sausage-and-it-is-not-the-homosexual-intro/
-LOCATION:Goethe-Institut London\, London
-URL:https://clusterflick.com/movies/e7358bd7/rosa-von-praunheim-the-bed-s
- ausage-and-it-is-not-the-homosexual-intro/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_060ba15fbd1c47a6a917092353e9b909-occ_95e8571cd3d644b5b8bf7d024b7
@@ -30554,17 +30559,6 @@ URL:https://www.meetup.com/cityzenlondon/events/316330238/?eventOrigin=ci
  ty_outdoor_activities_events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b14409ea25f84460bba72e485fb4d36c-occ_6d33f4acecfe4fddb5ce9db32b8
- d81ae@thingstodoinyourcity
-DTSTAMP:20261101T003404Z
-DTSTART:20261106T184500Z
-SUMMARY:LS/FF Friday Night Pass
-DESCRIPTION:https://clusterflick.com/movies/d7a5f9cf/ls-ff-friday-night-p
- ass/
-LOCATION:Riverside Studios\, London
-URL:https://clusterflick.com/movies/d7a5f9cf/ls-ff-friday-night-pass/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b05826c066674ed1a452666108ce5c1f-occ_bf9b59fc7da145b8ab7cfe92df2
  21295@thingstodoinyourcity
 DTSTAMP:20261101T114635Z
@@ -30579,19 +30573,6 @@ LOCATION:Gilt of Cain Statue\, Fen Court Garden\, Hogarth Ct\, EC3M 5DL\,
   London
 URL:https://www.meetup.com/london-friendship-project/events/317149984/?ev
  entOrigin=city_events_this_weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7c28215890ac4ca3ab13261374b64c15-occ_023a7231ee8a4b9f94259336718
- 65162@thingstodoinyourcity
-DTSTAMP:20261101T012405Z
-DTSTART:20261106T184500Z
-SUMMARY:Thread + Special Q&A
-DESCRIPTION:A visual masterpiece from Luke Pilbeam and James Bowden\, jou
- rneying across the Celtic fringes through thunderous barrels. Includes a
-  special Q&A with Cliff Kapono and Noah Lane.\nhttps://riversidestudios.
- co.uk/whats-on/u4H-thread-special-qa/
-LOCATION:Riverside Studios\, London
-URL:https://riversidestudios.co.uk/whats-on/u4H-thread-special-qa/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_71290ae446264f16969cedb81d9cb3f1-occ_6136554c45db4d0397bc411c0ce
@@ -31303,6 +31284,20 @@ URL:https://www.meetup.com/fun-activities-to-do-in-london-on-a-weekend/ev
  ents/316661487?eventOrigin=city_events_this_weekend
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_044308e2e25f4fc888a7593ae4e72267-occ_42730c03c55f4e77a36cd9894c7
+ 03a3a@thingstodoinyourcity
+DTSTAMP:20261103T235219Z
+DTSTART:20261106T193000Z
+DTEND:20261108T020000Z
+SUMMARY:OSP Shoegaze & Dream Pop Weekender #6
+DESCRIPTION:https://stayhappening.com/e/osp-shoegaze-andamp-dream-pop-wee
+ kender-6-resplandor-cigarettes-for-breakfast-lemondaze-more-E2ISYPURHAY
+LOCATION:Strongroom Bar\, 120-124 Curtain Road\,London\, United Kingdom\,
+  London
+URL:https://stayhappening.com/e/osp-shoegaze-andamp-dream-pop-weekender-6
+ -resplandor-cigarettes-for-breakfast-lemondaze-more-E2ISYPURHAY
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c851558dfe734737882bd4bc60385607-occ_1d78e6357ddf444cacf1a0aa173
  801a0@thingstodoinyourcity
 DTSTAMP:20261031T230301Z
@@ -31624,38 +31619,38 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_d0cce70a594c40bcbfa0bdec3f3
  3b679@thingstodoinyourcity
-DTSTAMP:20261102T212538Z
+DTSTAMP:20261104T011710Z
 DTSTART:20261106T200000Z
 SUMMARY:PRIMETIME
 DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
  ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/film/primetime
+ rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/film/primetime
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
  e5943@thingstodoinyourcity
-DTSTAMP:20261102T212538Z
+DTSTAMP:20261104T011710Z
 DTSTART:20261107T200000Z
 SUMMARY:PRIMETIME
 DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
  ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/film/primetime
+ rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/film/primetime
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_8300999cc2344bde9007066ddf9
  ff4f2@thingstodoinyourcity
-DTSTAMP:20261102T212538Z
+DTSTAMP:20261104T011710Z
 DTSTART:20261108T195000Z
 SUMMARY:PRIMETIME
 DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
  ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/film/primetime
+ rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/film/primetime
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d023954a4b47418e9e5bdaafb43efec1-occ_46e3df4dcd654c7c8ee30529e3b
@@ -31892,18 +31887,6 @@ LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
 URL:https://princecharlescinema.com/film/1808/akira/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4eb8f9a484cd4faf87d54025628d6b42-occ_61629e4d279e440eae1ba019e97
- 9279d@thingstodoinyourcity
-DTSTAMP:20261101T001421Z
-DTSTART:20261106T205000Z
-SUMMARY:Haus Tumbuna\, Pro Casual + Duo Triple Bill + Q&A
-DESCRIPTION:https://clusterflick.com/movies/ac6c2839/haus-tumbuna-pro-cas
- ual-duo-triple-bill-q-and-a/
-LOCATION:Riverside Studios\, London
-URL:https://clusterflick.com/movies/ac6c2839/haus-tumbuna-pro-casual-duo-
- triple-bill-q-and-a/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1dd9803e1e9b46b99ddb9e35b9eba4b7-occ_43e2ad366a4e4df9a6d42664a27
  6a212@thingstodoinyourcity
 DTSTAMP:20261103T070348Z
@@ -31948,16 +31931,6 @@ LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
  don
 URL:https://bigbellycomedy.club/event/friday-night-comedy-club-9pm-comedy
  -show-6nov26/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2902df8b4528458ab6864e49b76a9259-occ_e210f9648c8b4381962a95c23e0
- f058b@thingstodoinyourcity
-DTSTAMP:20261101T023055Z
-DTSTART:20261106T210000Z
-SUMMARY:Friday Night Comedy\, 9PM\, Covent Garden
-DESCRIPTION:Price: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
-LOCATION:Covent Garden\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cb67a62fc5ea4c8d9e64fc12c8787161-occ_6f78bc33ef9a4c8ab809e00601b
@@ -32015,6 +31988,20 @@ DESCRIPTION:Brings together some of the city's most fearless stand-up per
 LOCATION:Big Belly Bar & Comedy Club London\, 30 Stamford Street #Unit 6 
  & 7\, London\, SE1 9LQ\, Southwark\, London
 URL:https://go-london.uk/events/event/unruly-comedy/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f7521ff29937452fb5e7cb2153288e6f-occ_e602e96b8f8642b5a0d221ed879
+ c9b0a@thingstodoinyourcity
+DTSTAMP:20261103T235657Z
+DTSTART:20261106T220000Z
+DTEND:20261107T040000Z
+SUMMARY:Afrobeats & Bashment Party in Shoreditch
+DESCRIPTION:https://stayhappening.com/e/afrobeats-andampamp-bashment-part
+ y-in-shoreditch-free-entry-before-12am-E1ANNTIBFR8J
+LOCATION:Trapeze Bar\, Trapeze Bar\, Trapeze Bar\, London\, EN\, United K
+ ingdom\, London
+URL:https://stayhappening.com/e/afrobeats-andampamp-bashment-party-in-sho
+ reditch-free-entry-before-12am-E1ANNTIBFR8J
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_45c57a0428724ebd80059865844
@@ -32317,7 +32304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
  06b10@thingstodoinyourcity
-DTSTAMP:20261101T020440Z
+DTSTAMP:20261104T005932Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:BARBARO
 DESCRIPTION:https://highstreetkensington.co.uk/whats-on
@@ -32878,36 +32865,6 @@ URL:https://stayhappening.com/e/sold-out-egyptian-cookery-class-with-amro
  -london-cookery-school-E118SB6KRABEQ
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_11a1119bc67240059f58392e04921666-occ_ebba58ac5cb94b88988acf7c740
- 9c250@thingstodoinyourcity
-DTSTAMP:20261102T215510Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:En Route To
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2c858d02f44c4947bdb37ac127043f6f-occ_0c30870258ee4ac6a01abb8ae62
- 8bb95@thingstodoinyourcity
-DTSTAMP:20261031T232534Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:En Route To
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6f3f293989da49dca95123a76fc9a000-occ_67f87c4eb54a4fcd9a42efeaf78
- 3e8e0@thingstodoinyourcity
-DTSTAMP:20261031T232626Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:En Route To
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a6f5035b464a4796b79788de79c13964-occ_3d604826381541259c0843a1309
  74379@thingstodoinyourcity
 DTSTAMP:20261031T231611Z
@@ -33121,28 +33078,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1064621c02bb4fb1bc02803ffab7f7fe-occ_d69ae8684e8b407b8bff9346791
  284c9@thingstodoinyourcity
-DTSTAMP:20261102T215652Z
+DTSTAMP:20261104T012024Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Exclusive footage of George Michael's 1988 Faith Tour\, shot 
- live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\, 3
- 5mm shoot\, it captures the star at his peak.\nhttps://www.olympiccinema
- .com/film/george-michael-the-faith-tour
+DESCRIPTION:Exclusive footage from George Michael's 1988 Faith Tour\, sho
+ t live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\,
+  35mm shoot\, it captures the star at his peak.\nhttps://www.olympiccine
+ ma.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/george-michael-the-faith-tour
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1064621c02bb4fb1bc02803ffab7f7fe-occ_0b411af570934ad58db4f94f0ea
  2f63e@thingstodoinyourcity
-DTSTAMP:20261102T215652Z
+DTSTAMP:20261104T012024Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Exclusive footage of George Michael's 1988 Faith Tour\, shot 
- live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\, 3
- 5mm shoot\, it captures the star at his peak.\nhttps://www.olympiccinema
- .com/film/george-michael-the-faith-tour
+DESCRIPTION:Exclusive footage from George Michael's 1988 Faith Tour\, sho
+ t live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\,
+  35mm shoot\, it captures the star at his peak.\nhttps://www.olympiccine
+ ma.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/george-michael-the-faith-tour
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6b6a5bacffa54188aa309bbc73703f5d-occ_9720b9b6cc5c49068c727010897
@@ -33490,6 +33447,16 @@ LOCATION:18 - 22 Houndsditch\, London EC3A 7DB\, London
 URL:https://dabberssocial.co.uk/pages/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
+ 9c86d@thingstodoinyourcity
+DTSTAMP:20261104T015535Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Kaleidoscope East London LGBTQ+ Film Festival 2026
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Lumiere Cinema Romford\, Screen 5\, London
+URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b08b643588cd4671acfe9444f60d99ae-occ_60721566464b4b8887384c64d30
  c3a20@thingstodoinyourcity
 DTSTAMP:20261101T001519Z
@@ -33503,6 +33470,18 @@ LOCATION:Our Lady of Victories Church\, Kensington\, 235a Kensington High
   Street London W8 6SF\, Kensington\, London
 URL:https://www.eventbrite.co.uk/e/kensington-book-festival-tickets-19950
  64975046?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4568ec8e581a4b1fb04c39b647feae4b-occ_2c889b32213545b6b713fc8e97a
+ 0777e@thingstodoinyourcity
+DTSTAMP:20261104T005810Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Kensington Botanical Market
+DESCRIPTION:Growers and makers offer rare houseplants\, bulbs\, botanical
+  prints and vintage garden furniture. Plant-based street food and drink 
+ is also available.\nhttps://highstreetkensington.co.uk/whats-on
+LOCATION:Phillimore Walk\, London\, UK\, London
+URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ae0ad5de5324173a71740ba327cad43-occ_067a9b22b3bd445085f2881a567
@@ -33532,30 +33511,42 @@ URL:https://www.primarytimes.co.uk/south_london/listings/kpop-princess-po
  p-dream-tour-605042
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_227bf08238454ee4be03ca9cd112340c-occ_43dea830d6744af2b269bf769d9
- c1700@thingstodoinyourcity
-DTSTAMP:20261031T233039Z
+UID:cand_47d79037e94845eca34f8497a361be0a-occ_759af9bbe53f4a608c0d001bfa1
+ 784c6@thingstodoinyourcity
+DTSTAMP:20261104T015511Z
 DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261107
-SUMMARY:Libraries of the Future Zine Workshop
-DESCRIPTION:Make a zine while exploring libraries in science fiction and 
- fantasy. It also considers how local libraries can be safe spaces for ra
- dical imagination.\nhttps://www.shapeslewisham.co.uk/events/1297/
-LOCATION:London
-URL:https://www.shapeslewisham.co.uk/events/1297/
+SUMMARY:LS/FF Saturday Night Pass
+DESCRIPTION:Surf cinema all night with premieres\, features and shorts\, 
+ plus conversations and a complimentary drink from Sharps & Goodrays. Pas
+ ses are limited and sell out fast.\nhttps://riversidestudios.co.uk/whats
+ -on/uBl-lsff-saturday-night-pass/
+LOCATION:Riverside Studios\, London
+URL:https://riversidestudios.co.uk/whats-on/uBl-lsff-saturday-night-pass/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e123c418858c4baa86704da0fed1d721-occ_bdc6da9c63a64287a35219fd0b6
+ 0a918@thingstodoinyourcity
+DTSTAMP:20261104T015719Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Language of Water Triple Bill + Q&A
+DESCRIPTION:Three surf and ocean films\, including two world premieres an
+ d a UK premiere\, screen in one evening. Each film is followed by a spec
+ ial Q&A with its makers.\nhttps://riversidestudios.co.uk/whats-on/u42-la
+ nguage-of-water-triple-bill-qa/
+LOCATION:Riverside Studios\, London
+URL:https://riversidestudios.co.uk/whats-on/u42-language-of-water-triple-
+ bill-qa/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cf5df7b463414d5f97ea4efb296c2faf-occ_62d11ef8bc954f25a428c2fc78d
  dafca@thingstodoinyourcity
-DTSTAMP:20261031T233021Z
+DTSTAMP:20261104T010016Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261107
 SUMMARY:Libraries of the Future Zine Workshop
-DESCRIPTION:Zine-making workshop on libraries in science fiction and fant
- asy. It also considers local libraries as safe spaces for radical imagin
- ation.\nhttps://www.shapeslewisham.co.uk/events/1297/
+DESCRIPTION:https://www.shapeslewisham.co.uk/events
 LOCATION:London
-URL:https://www.shapeslewisham.co.uk/events/1297/
+URL:https://www.shapeslewisham.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_707e3d50a3cf4a3b936e4604908241e3-occ_d0aa23c282c5443fb90608c0eb4
@@ -33926,6 +33917,18 @@ URL:https://www.vam.ac.uk/event/pDoR12r5/members-morning-view-constantino
  ple-to-istanbul
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_05b0f00a201e485883f0e9eb438ca3c6-occ_540c9a2b951941dd93808e8df2c
+ 0011e@thingstodoinyourcity
+DTSTAMP:20261104T005714Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Minet Gardening Club
+DESCRIPTION:Do you enjoy spending time outdoors and learning new skills? 
+ The Minet Garden needs a tidy up\, and help would be welcome.\nPrice: Fr
+ ee\nhttps://www.lambeth.gov.uk/events
+LOCATION:London
+URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b511432eb0874680bfcf3a774798160a-occ_e0a5de1222b54167a9468a69dca
  79fae@thingstodoinyourcity
 DTSTAMP:20261102T190609Z
@@ -34242,6 +34245,16 @@ LOCATION:Jamon Jamon Soho\, 3-5 Caxton Walk\, London WC2H 8PW\, Soho\, Lo
  ndon
 URL:https://stayhappening.com/e/salsa-club-london-beginners-andamp-improv
  ers-saturdays-soho-E118SB7FNKQOG
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_11699c62e69c43468c934ce723a86b22-occ_b380bc90993f4a8d843504972ff
+ 4bd4f@thingstodoinyourcity
+DTSTAMP:20261104T012430Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Saturday Afternoon Comedy\, 4PM\, Soho
+DESCRIPTION:Price: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
+LOCATION:Soho\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8e5f9c3b038f4772bc4c8a44028c68db-occ_560c07a3376547b6878ae2ba608
@@ -34632,39 +34645,9 @@ LOCATION:Village Soho\, London
 URL:https://www.villagesoho.co.uk/london-bar/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_31b1270484734302ac736144763b5f45-occ_b2e1cfd0d8704c90afb7a1c78c5
- b710a@thingstodoinyourcity
-DTSTAMP:20261031T232604Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Accordion Door
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5bb0967d7a754c23b9136072208a928b-occ_6888563e2b1949dbb4c87cc76c8
  22c8b@thingstodoinyourcity
 DTSTAMP:20261031T231611Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Accordion Door
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9b0058f79f1546e5bf2cfcb1f23c08d2-occ_27cad347b8014ad180942520c95
- bd9ff@thingstodoinyourcity
-DTSTAMP:20261102T215508Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Accordion Door
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ccf0bd06723a4f1b931c3ba6e2565584-occ_c35c90294e5c45608b94607b32f
- 8f688@thingstodoinyourcity
-DTSTAMP:20261031T232506Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:The Accordion Door
 DESCRIPTION:https://www.koreanfilm.co.uk/schedule
@@ -34708,29 +34691,9 @@ URL:https://londoncheapo.com/events/the-five-points-brewery-tour-and-tast
  ing/20261107/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7aeec6b96aa141d6b917da3824c67f32-occ_b8e28b35f6a64ffea914394a049
- 829bd@thingstodoinyourcity
-DTSTAMP:20261102T215438Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Gorals
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e0960ac1193045be83dc6039978d0af7-occ_e93e945540dc487890410301a5c
  d58b0@thingstodoinyourcity
 DTSTAMP:20261031T232400Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Gorals
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f6478c5ac9a2460f8e8cf4111c0a073c-occ_c5c8d3dab9e2451491ed5b8c138
- ea15b@thingstodoinyourcity
-DTSTAMP:20261031T232604Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:The Gorals
 DESCRIPTION:https://www.koreanfilm.co.uk/schedule
@@ -34961,6 +34924,20 @@ DESCRIPTION:A one-day careers takeover for young people in music\, with w
 LOCATION:V&A East Museum\, 107 Carpenters Rd London\, E20 2AR\, London
 URL:https://www.vam.ac.uk/event/ZvGobJV76D/upstart-presents-creative-freq
  uencies-november-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8a7d41e9d07f4995867bddc827d655b4-occ_8e7d505c7a7d486da8a2a10d2f9
+ 4ef1d@thingstodoinyourcity
+DTSTAMP:20261104T015747Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Vampires Surf + Bulleji Boys Double Bill + Q&A
+DESCRIPTION:Three immortal vampire girls surf beneath the moon in this UK
+  premiere fantasy film. Bulleji Boys\, also a UK premiere\, completes th
+ e double bill with a Q&A.\nhttps://riversidestudios.co.uk/whats-on/u4f-v
+ ampires-surf-bulleji-boys-double-bill-qa/
+LOCATION:Riverside Studios\, London
+URL:https://riversidestudios.co.uk/whats-on/u4f-vampires-surf-bulleji-boy
+ s-double-bill-qa/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_83bb06f46ba442349a56d2aa69c78936-occ_5858910f9ca64d57abbd3ca1f71
@@ -35472,21 +35449,6 @@ LOCATION:Hellenic Community Centre\, 133 Southdale Rd. W\, London\, ON N6
 URL:https://www.londontourism.ca/events/holly-jolly-market
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4568ec8e581a4b1fb04c39b647feae4b-occ_2c889b32213545b6b713fc8e97a
- 0777e@thingstodoinyourcity
-DTSTAMP:20261101T001345Z
-DTSTART:20261107T100000Z
-SUMMARY:Kensington Botanical Market
-DESCRIPTION:Growers\, makers and botanical artists offer rare houseplants
- \, bulbs\, prints\, ceramics and vintage garden furniture. Plant-based s
- treet food and drink is also available.\nhttps://kensington.loqiva.com/p
- ublic/service/redirect?type=event&id=3365&isGeo=false
-LOCATION:Phillimore Walk\, Phillimore Walk\, London\, UK\, London\, UK\, 
- London
-URL:https://kensington.loqiva.com/public/service/redirect?type=event&id=3
- 365&isGeo=false
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ce00f5cee48141e6ba13c4818d44ab9a-occ_863c7c31dfb84d6f89502de18fd
  cc881@thingstodoinyourcity
 DTSTAMP:20261101T001324Z
@@ -35939,18 +35901,6 @@ DESCRIPTION:Families explore how the Great Fire of 1666 started and sprea
 LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/great-fire-of-london-family-
  walk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
- 9c86d@thingstodoinyourcity
-DTSTAMP:20261101T011214Z
-DTSTART:20261107T103000Z
-SUMMARY:Kaleidoscope East London LGBTQ+ Film Festival 2026
-DESCRIPTION:https://clusterflick.com/movies/b1d96c7d/kaleidoscope-east-lo
- ndon-lgbtq-film-festival-2026/
-LOCATION:Lumiere Cinema Romford\, Screen 5\, London
-URL:https://clusterflick.com/movies/b1d96c7d/kaleidoscope-east-london-lgb
- tq-film-festival-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc224a4e9b70416081556b4fec6d8662-occ_3a120b41db284dda8fbffe935b1
@@ -36744,26 +36694,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_5cc901e49bba4e27aa14097bc3a
  19066@thingstodoinyourcity
-DTSTAMP:20261102T213418Z
+DTSTAMP:20261104T011944Z
 DTSTART:20261107T110000Z
 SUMMARY:Wildwood
 DESCRIPTION:Prue and Curtis enter a magical forest to rescue her abducted
-  baby brother from a crow murder. Stop-motion animated adventure directe
- d by Travis Knight.\nhttps://www.olympiccinema.com/film/wildwood
+  baby brother from a murder of crows. Stop-motion animated adventure dir
+ ected by Travis Knight.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wildwood
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_3a2ecf958efc4e76a74698070b1
  85761@thingstodoinyourcity
-DTSTAMP:20261102T213418Z
+DTSTAMP:20261104T011944Z
 DTSTART:20261108T105500Z
 SUMMARY:Wildwood
 DESCRIPTION:Prue and Curtis enter a magical forest to rescue her abducted
-  baby brother from a crow murder. Stop-motion animated adventure directe
- d by Travis Knight.\nhttps://www.olympiccinema.com/film/wildwood
+  baby brother from a murder of crows. Stop-motion animated adventure dir
+ ected by Travis Knight.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wildwood
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7f7d828bc4994147b602dcc81e3e0a37-occ_7badfec72318428ea5bbcb703c7
@@ -37794,16 +37744,6 @@ LOCATION:London
 URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6932ad95957842a3b56a78bd7a708187-occ_e400cb4f11b146e5958fe661b12
- 62fea@thingstodoinyourcity
-DTSTAMP:20261102T120619Z
-DTSTART:20261107T150000Z
-SUMMARY:The Lyrical Bridge: An Immersive Journey through Chinese Verse
-DESCRIPTION:https://www.gold.ac.uk/events
-LOCATION:London
-URL:https://www.gold.ac.uk/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f99594867bcc435cb97c08c7aa724052-occ_e6611da4d20f473d968d3efb738
  341df@thingstodoinyourcity
 DTSTAMP:20261101T003128Z
@@ -37943,16 +37883,6 @@ DESCRIPTION:Relive nineties and noughties dance\, house\, Europop and Bri
  s/event/mixtape-an-over-30s-day-rave/
 LOCATION:The Roxy\, London\, Soho\, London
 URL:https://go-london.uk/events/event/mixtape-an-over-30s-day-rave/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_11699c62e69c43468c934ce723a86b22-occ_b380bc90993f4a8d843504972ff
- 4bd4f@thingstodoinyourcity
-DTSTAMP:20261101T115258Z
-DTSTART:20261107T160000Z
-SUMMARY:Saturday Afternoon Comedy\, 4PM\, Soho
-DESCRIPTION:Price: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
-LOCATION:Soho\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ada74e82c12e4cf88c58e60b9ce0a1e5-occ_2c04d507b99840e0b76a071ee6d
@@ -38442,31 +38372,17 @@ URL:https://www.universe.com/events/the-best-in-stand-up-saturday-7th-nov
  ember-6-30pm-tickets-1D73BT
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_47d79037e94845eca34f8497a361be0a-occ_759af9bbe53f4a608c0d001bfa1
- 784c6@thingstodoinyourcity
-DTSTAMP:20261101T012234Z
-DTSTART:20261107T184500Z
-SUMMARY:LS/FF Saturday Night Pass
-DESCRIPTION:A whole night of surf cinema with premieres\, features and sh
- orts\, plus conversations and a complimentary drink from Sharps & Goodra
- ys. Passes are limited and sell out fast.\nhttps://riversidestudios.co.u
- k/whats-on/uBl-lsff-saturday-night-pass/
-LOCATION:Riverside Studios\, London
-URL:https://riversidestudios.co.uk/whats-on/uBl-lsff-saturday-night-pass/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e123c418858c4baa86704da0fed1d721-occ_bdc6da9c63a64287a35219fd0b6
- 0a918@thingstodoinyourcity
-DTSTAMP:20261101T010652Z
-DTSTART:20261107T184500Z
-SUMMARY:Language of Water Triple Bill + Q&A
-DESCRIPTION:Three surf and ocean films\, including two world premieres an
- d a UK premiere\, screen in one evening. Each film is followed by a spec
- ial Q&A with its makers.\nhttps://riversidestudios.co.uk/whats-on/u42-la
- nguage-of-water-triple-bill-qa/
-LOCATION:Riverside Studios\, London
-URL:https://riversidestudios.co.uk/whats-on/u42-language-of-water-triple-
- bill-qa/
+UID:cand_40599ff968d44c9482289c8b171b1bc2-occ_3e719ab0c7304bd0a33d6a9114e
+ 96c86@thingstodoinyourcity
+DTSTAMP:20261104T014559Z
+DTSTART:20261107T183000Z
+SUMMARY:The Best in Stand Up
+DESCRIPTION:A 2 hour extravaganza of belly laughs from 5 of the funniest 
+ people on the planet. The running time includes an interval.\nhttps://lo
+ ndon.thecomedystore.co.uk/event/the-best-in-stand-up/2026-11-07_18-30
+LOCATION:London
+URL:https://london.thecomedystore.co.uk/event/the-best-in-stand-up/2026-1
+ 1-07_18-30
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_54ecb6a9f73947308322747d2da5f6ea-occ_097cd602ffbc4a40928d0e92600
@@ -38624,16 +38540,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b84b92b7a6064f018fffbf6137143b58-occ_d68748859fe147e8bebc23022e7
  b80fb@thingstodoinyourcity
-DTSTAMP:20261102T235057Z
+DTSTAMP:20261104T022228Z
 DTSTART:20261107T190000Z
 SUMMARY:Ramayana: Rise of a Legend
-DESCRIPTION:Rama\, a prince bound by duty\, must confront Ravana\, an imm
- ortal ruler driven by pride and vengeance. The action-adventure runs 165
-  minutes and is shown at the cinema.\nhttps://www.forestcinema.co.uk/eve
- nt/116063
+DESCRIPTION:Prince Rama must confront Ravana\, an immortal ruler driven b
+ y pride and vengeance\, as worlds hang in the balance. The action-advent
+ ure runs 165 minutes.\nhttps://www.forestcinema.co.uk/whatson
 LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
  mstow\, London
-URL:https://www.forestcinema.co.uk/event/116063
+URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_055602734956446386ff7a2dbc74ac8f-occ_251404551d6a4cd489c8105d857
@@ -39304,20 +39219,6 @@ LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8a7d41e9d07f4995867bddc827d655b4-occ_8e7d505c7a7d486da8a2a10d2f9
- 4ef1d@thingstodoinyourcity
-DTSTAMP:20261101T015826Z
-DTSTART:20261107T205000Z
-SUMMARY:Vampires Surf + Bulleji Boys Double Bill + Q&A
-DESCRIPTION:Three immortal vampire girls surf beneath the moon in this UK
-  premiere fantasy film. Bulleji Boys\, also a UK premiere\, completes th
- e double bill with a Q&A.\nhttps://riversidestudios.co.uk/whats-on/u4f-v
- ampires-surf-bulleji-boys-double-bill-qa/
-LOCATION:Riverside Studios\, London
-URL:https://riversidestudios.co.uk/whats-on/u4f-vampires-surf-bulleji-boy
- s-double-bill-qa/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7f08802ea2cc4e0f870c24767ae31e88-occ_02e5160439124392afbc080dde5
  ab7af@thingstodoinyourcity
 DTSTAMP:20261103T064629Z
@@ -39491,39 +39392,9 @@ LOCATION:London
 URL:https://cinemaguide.co.uk/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4ab9e268c33c4be3a4bce3be9a5f892e-occ_39f9449f5da247449d55e1f9a4b
- 25e65@thingstodoinyourcity
-DTSTAMP:20261102T215541Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Be My Baby
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c50c1319e17a45e2a4d3853cccfd6e38-occ_899d4f75b6054ba2884d2508620
- d3e74@thingstodoinyourcity
-DTSTAMP:20261101T022936Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Be My Baby
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ce27d155f2e34e94bb6c478568b05547-occ_c73797113f604f6087896affb95
  72770@thingstodoinyourcity
 DTSTAMP:20261101T022606Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Be My Baby
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ed00e319bbfa4349ab93930885f3acf2-occ_e5a8bee4a6b042faa7972c12d77
- 41b24@thingstodoinyourcity
-DTSTAMP:20261101T023006Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Be My Baby
 DESCRIPTION:https://www.koreanfilm.co.uk/schedule
@@ -39554,6 +39425,18 @@ DESCRIPTION:Rosemary Ashe pays tribute to Broadway star Ethel Merman. Exp
 LOCATION:Tabard Theatre \, 2 Bath Road\, Chiswick W4 1LW\, 2 Bath Road\, 
  Chiswick\, London W4 1LW\, Chiswick\, London\, London
 URL:https://www.wherecanwego.com/item/e1608048
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a9e75ada09d437c8ad15c5c44b99be6-occ_a5958aa7ab034c2586678d31d63
+ ab35f@thingstodoinyourcity
+DTSTAMP:20261103T235926Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Cosy Craft (Cre8tive Arts)
+DESCRIPTION:Explore and learn both old and new crafts through various wee
+ kly workshops. Drawing\, painting\, flower pressing and more\, with mate
+ rials provided.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+LOCATION:Brixton\, London
+URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2f21fa7f3c6f4347bb11f700dbe694d0-occ_f6c53d49a12e4d42941e68319cd
@@ -39594,16 +39477,6 @@ BEGIN:VEVENT
 UID:cand_4a713b8c6d30425eb2ca74a73d532c36-occ_081d4d0c96c849028ee18e1ad91
  53276@thingstodoinyourcity
 DTSTAMP:20261101T023035Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Diwali on the Square
-DESCRIPTION:https://www.2cheshamhotel.com/meetings-events/london-events
-LOCATION:London
-URL:https://www.2cheshamhotel.com/meetings-events/london-events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df5bbe9fee83496daeb78849ddfe4944-occ_5c17a8982fa34e25bebbb3a918d
- ce9e1@thingstodoinyourcity
-DTSTAMP:20261101T023114Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Diwali on the Square
 DESCRIPTION:https://www.2cheshamhotel.com/meetings-events/london-events
@@ -39936,6 +39809,16 @@ URL:https://www.eventbrite.co.uk/e/jazz-notes-jazz-jam-the-spice-of-life-
  soho-tickets-1085795456439?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_772f9eab585b40359aa88e7d828c1475-occ_64a4948bccd444128b626a3ea0d
+ aeb11@thingstodoinyourcity
+DTSTAMP:20261104T015627Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Lift + Calais: The Last Border followed by Q&A with Marc Isaacs
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Close-Up Film Centre\, London
+URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fcb12dadc80144dc92649bdfcf34053f-occ_57b54f7e798443ecb901e51a005
  edf20@thingstodoinyourcity
 DTSTAMP:20261101T174324Z
@@ -40025,7 +39908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_bf6b6e9f31e041d29944ee0e80f60b24-occ_04d06ad247064aac8f44a2774a0
  a25cf@thingstodoinyourcity
-DTSTAMP:20261101T105047Z
+DTSTAMP:20261104T010029Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Remembrance Service Day
 DESCRIPTION:https://hsl.church/events
@@ -40472,36 +40355,6 @@ LOCATION:London
 URL:https://www.koreanfilm.co.uk/schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3d6beda435f74308992c86b43cbde342-occ_43ac40f29a3442b89554f3774ff
- 67188@thingstodoinyourcity
-DTSTAMP:20261101T023004Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Mutation
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_af244de543244e7eb5849816bdb7169f-occ_3896a5a148144e5ea0f62bbdc07
- 5ba25@thingstodoinyourcity
-DTSTAMP:20261102T215616Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Mutation
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b21cc354ce604538905376e25872fb08-occ_99dc7da703d749c28951bc50d8d
- b0d2c@thingstodoinyourcity
-DTSTAMP:20261101T023053Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Mutation
-DESCRIPTION:https://www.koreanfilm.co.uk/schedule
-LOCATION:London
-URL:https://www.koreanfilm.co.uk/schedule
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_6edd15927be74be197046d58af08adcb-occ_5c74f10ece5141d2bebb6b15b38
  3257a@thingstodoinyourcity
 DTSTAMP:20261101T173053Z
@@ -40554,6 +40407,16 @@ DTSTART;VALUE=DATE:20261108
 SUMMARY:UNFOLD CXXXIV
 DESCRIPTION:
 LOCATION:FOLD London\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4da0d632e9cf44aaab19bb4c1b08465c-occ_802be6235f574699b67c05a38ca
+ 3399d@thingstodoinyourcity
+DTSTAMP:20261104T015424Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:WATCH PARTY EPISODE 1 - debra.in4k
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Love Affair Basement\, London
+URL:https://clusterflick.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0fb7a63bc5ac441caa5ef3bd1e0b9832-occ_5ca79918a8354c1686e87167f56
@@ -40789,16 +40652,6 @@ LOCATION:War Memorial\, Whittaker Avenue\, Richmond\, Old Deer Park\, Old
   Palace Lane\, Richmond\, London\, TW9 1PQ\, Richmond\, London
 URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-richmo
  nd-p2045051
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25ac75364bf24a88ba67aef9a2d88487-occ_11c70c85ee474a86afc084c78f2
- c9b2c@thingstodoinyourcity
-DTSTAMP:20261101T104826Z
-DTSTART:20261108T103000Z
-SUMMARY:Power\, Perfume and Scandal
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Drawing Room\, King's State Apartments\, London
-URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b61ba52d193e4986a7b8876ec6f07dfd-occ_45ea24f1652847fc9137e4524fc
@@ -41787,16 +41640,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_899a67136d91436ba9fcc9322caf6fde-occ_e148b2f3d8464cf0b2af3cc0003
  52b23@thingstodoinyourcity
-DTSTAMP:20261102T235535Z
+DTSTAMP:20261104T022303Z
 DTSTART:20261108T150000Z
 SUMMARY:Merry Christmas Aubrey Flint + Q & A
 DESCRIPTION:A reclusive model-soldier painter who hates Christmas is sent
- enced to community service at a struggling retirement home. Directing a 
- chaotic resident-led A Christmas Carol tests him.\nhttps://www.forestcin
- ema.co.uk/event/116300
+ enced to community service at a retirement home. He ends up directing a 
+ chaotic resident-led A Christmas Carol.\nhttps://www.forestcinema.co.uk/
+ whatson
 LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
  mstow\, London
-URL:https://www.forestcinema.co.uk/event/116300
+URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0280a61bf6cb40c9842e48bbcba25c2c-occ_20c07ed072e94af990a28930748
@@ -41875,16 +41728,6 @@ LOCATION:The Hall\, 101-111 Kensington High Street\, London\, W8 5SA\, Lo
  ndon
 URL:https://www.japanhouselondon.uk/whats-on/experience-ises-okihiki-fest
  ival-make-a-zai-and-sing-kiyari-work-songs
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_042600bf69744388bfb9949b75ead523-occ_ceeb4690dcc5443baa6f75f2249
- 6f327@thingstodoinyourcity
-DTSTAMP:20261102T120619Z
-DTSTART:20261108T160000Z
-SUMMARY:Cuba Solidarity Concert featuring Eralys Fernandez
-DESCRIPTION:https://www.gold.ac.uk/events
-LOCATION:London
-URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_af8e44390c9c45e99e9240a385e8e108-occ_34fda839793a4c029af3c87d950
@@ -42156,18 +41999,6 @@ LOCATION:The Nickel\, Clerkenwell\, London
 URL:https://thenickel.co.uk/screening/810
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_772f9eab585b40359aa88e7d828c1475-occ_64a4948bccd444128b626a3ea0d
- aeb11@thingstodoinyourcity
-DTSTAMP:20261101T180218Z
-DTSTART:20261108T180000Z
-SUMMARY:Lift + Calais: The Last Border followed by Q&A with Marc Isaacs
-DESCRIPTION:https://clusterflick.com/movies/324f9812/lift-calais-the-last
- -border-followed-by-q-and-a-with-marc-isaacs/
-LOCATION:Close-Up Film Centre\, London
-URL:https://clusterflick.com/movies/324f9812/lift-calais-the-last-border-
- followed-by-q-and-a-with-marc-isaacs/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3ec849a2f2a44e26b1d4dc41349a8ebf-occ_4a237195ae774fe5b6e8677a3c0
  8145b@thingstodoinyourcity
 DTSTAMP:20261101T181912Z
@@ -42194,18 +42025,6 @@ DESCRIPTION:Watch emerging young ballet talent from across the globe in t
 LOCATION:London Coliseum\, London Coliseum\, St Martin’s Lane\, London 
  WC2N 4ES\, London
 URL:https://booking.londoncoliseum.org/book-online/92401/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4da0d632e9cf44aaab19bb4c1b08465c-occ_802be6235f574699b67c05a38ca
- 3399d@thingstodoinyourcity
-DTSTAMP:20261101T181611Z
-DTSTART:20261108T180000Z
-SUMMARY:WATCH PARTY EPISODE 1 - debra.in4k
-DESCRIPTION:https://clusterflick.com/movies/0d52defb/watch-party-episode-
- 1-debra-in4k/
-LOCATION:Love Affair Basement\, London
-URL:https://clusterflick.com/movies/0d52defb/watch-party-episode-1-debra-
- in4k/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_11f23f60d63c407ca0b3e9fbeeacb3a5-occ_f159bd74ca7d4dc1a424fbe790a
@@ -42707,6 +42526,16 @@ LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0e94d481e6cf45fd896736ca1edca29b-occ_72d61de92c674e81b3e4af26bd3
+ f4979@thingstodoinyourcity
+DTSTAMP:20261102T141434Z
+DTSTART:20261128T140000Z
+SUMMARY:Lino Block Printing Workshop
+DESCRIPTION:https://www.somethinggoodworkshops.co.uk/events
+LOCATION:London
+URL:https://www.somethinggoodworkshops.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_36f4d72e744345ea8964033dacd2e442-occ_fa6731e1497d4a7cad785a18fd9
  a2237@thingstodoinyourcity
 DTSTAMP:20261023T053129Z
@@ -42765,6 +42594,18 @@ LOCATION:St Mary's church Islington\, Upper St London N1 2TX\, Islington\
  , London
 URL:https://www.eventbrite.co.uk/e/st-mary-islington-church-and-tower-tou
  r-tickets-1982704216685?aff=ianvisits
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c08f09bd50f2423ab5bcca1c0b678e61-occ_e3696e4bf5ba465f994ee1609a9
+ 29210@thingstodoinyourcity
+DTSTAMP:20261031T211217Z
+DTSTART;VALUE=DATE:20261226
+SUMMARY:HEAT
+DESCRIPTION:Michael Mann's crime classic is shown in its original cut fro
+ m a 35mm print. Robert De Niro and Al Pacino star as high-end thieves hu
+ nted by the LAPD.\nhttps://princecharlescinema.com/film/3182341/heat
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/film/3182341/heat
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c160db35a4064c32a3dbd5e82c3d5f59-occ_3676bc2faa074e73aee59fd5814
