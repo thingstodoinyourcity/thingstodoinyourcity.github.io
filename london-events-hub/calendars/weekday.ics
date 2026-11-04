@@ -263,6 +263,20 @@ LOCATION:The Cinema in The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/the-social-reckoning
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f0537ebc13764f09be57e1a93aae8260-occ_d14be9f9822a4145a4a530f6d7a
+ 1f6de@thingstodoinyourcity
+DTSTAMP:20261027T084251Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:THE SOCIAL RECKONING
+DESCRIPTION:Facebook engineer Frances Haugen teams with Jeff Horwitz to b
+ low the whistle on the social network's secrets. Aaron Sorkin directs\; 
+ Jeremy Allen White stars.\nhttps://www.thecinemainthepowerstation.com/fi
+ lm/the-social-reckoning
+LOCATION:The Cinema in The Power Station\, London
+URL:https://www.thecinemainthepowerstation.com/film/the-social-reckoning
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f0537ebc13764f09be57e1a93aae8260-occ_73fa866bbcb7440b8e42b6d1d48
  7434b@thingstodoinyourcity
 DTSTAMP:20261027T084251Z
@@ -531,6 +545,21 @@ UID:cand_4198d255a5354dbda67820608475b366-occ_861f2306f2cf49d1b0004004435
  2fac5@thingstodoinyourcity
 DTSTAMP:20261101T025958Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261105
+SUMMARY:VERITY
+DESCRIPTION:A ghostwriter hired to finish a bestselling author's novels u
+ ncovers disturbing truths while living at the Crawfords' home. Runs 1hr 
+ 57mins\, with Atmos sound.\nhttps://www.thecinemainthepowerstation.com/f
+ ilm/verity
+LOCATION:The Cinema in The Power Station\, Arches under Grosvenor Bridge\
+ , London
+URL:https://www.thecinemainthepowerstation.com/film/verity
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4198d255a5354dbda67820608475b366-occ_ee18465af4b446b0a15e6172607
+ c4de5@thingstodoinyourcity
+DTSTAMP:20261101T025958Z
+DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:VERITY
 DESCRIPTION:A ghostwriter hired to finish a bestselling author's novels u
@@ -983,34 +1012,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7d20ac77c48046edbc9d739163374539-occ_4f152db6571144638fa13082d40
  3bf08@thingstodoinyourcity
-DTSTAMP:20261031T221351Z
+DTSTAMP:20261104T163226Z
 DTSTART;VALUE=DATE:20261104
 SUMMARY:Anesti Danelis: Live In London
-DESCRIPTION:Toronto-based award-winning comedian known for viral comedy v
- ideos and songs. His 2024 show Artificially Intelligent won awards and t
- oured Edinburgh Fringe and London.\nPrice: Unreserved seating - £20.00 
- + £2.27 booking fee + £2.00 waiting list surcharge\nhttps://www.angelc
- omedy.co.uk/event-detail/anesti-danelis-live-in-london-thu-5th-nov-the-b
- ill-murray-london-tickets-202611051830
+DESCRIPTION:Price: Unreserved seating - £20.00 + £2.27 booking fee + £
+ 2.00 waiting list surcharge\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/anesti-danelis-live-in-lon
- don-thu-5th-nov-the-bill-murray-london-tickets-202611051830
+URL:https://www.angelcomedy.co.uk/bill-murray/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7d20ac77c48046edbc9d739163374539-occ_bf8dbb1045544fe085888182d68
+ 4e6c4@thingstodoinyourcity
+DTSTAMP:20261104T163226Z
+DTSTART:20261104T200000Z
+DTEND:20261104T210000Z
+SUMMARY:Anesti Danelis: Live In London
+DESCRIPTION:Price: Unreserved seating - £20.00 + £2.27 booking fee + £
+ 2.00 waiting list surcharge\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7d20ac77c48046edbc9d739163374539-occ_212c7a3fc4ba4e3e814e2702ab4
  a2b06@thingstodoinyourcity
-DTSTAMP:20261031T221351Z
+DTSTAMP:20261104T163226Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Anesti Danelis: Live In London
-DESCRIPTION:Toronto-based award-winning comedian known for viral comedy v
- ideos and songs. His 2024 show Artificially Intelligent won awards and t
- oured Edinburgh Fringe and London.\nPrice: Unreserved seating - £20.00 
- + £2.27 booking fee + £2.00 waiting list surcharge\nhttps://www.angelc
- omedy.co.uk/event-detail/anesti-danelis-live-in-london-thu-5th-nov-the-b
- ill-murray-london-tickets-202611051830
+DESCRIPTION:Price: Unreserved seating - £20.00 + £2.27 booking fee + £
+ 2.00 waiting list surcharge\nhttps://www.angelcomedy.co.uk/bill-murray/
 LOCATION:The Bill Murray\, London
-URL:https://www.angelcomedy.co.uk/event-detail/anesti-danelis-live-in-lon
- don-thu-5th-nov-the-bill-murray-london-tickets-202611051830
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c2a152ef5cf2418fad3977bfeebfda0c-occ_70dc0b87c94d4dbc8e947f22211
@@ -1784,13 +1815,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_146eed412971463d8d521547211cb9d8-occ_c3851b63212f481388970e4d23e
  4ad1b@thingstodoinyourcity
-DTSTAMP:20261031T212816Z
+DTSTAMP:20261104T153003Z
 DTSTART;VALUE=DATE:20261104
 SUMMARY:Everyone's Everest - Sally Orange MBE
-DESCRIPTION:Documentary screening followed by a live Q&A with director To
- m McShane FRGS and star Sally Orange MBE. Sally shares tools she used to
-  find strength in the wild.\nPrice: Member £10.00\, Non-member £12.00\
- nhttps://www.rgs.org/events/upcoming-events
+DESCRIPTION:Price: Member £10.00\, Non-member £12.00\nhttps://www.rgs.o
+ rg/events/upcoming-events
 LOCATION:Royal Geographical Society (with IBG)\, LONDON\, London
 URL:https://www.rgs.org/events/upcoming-events
 END:VEVENT
@@ -2382,22 +2411,6 @@ URL:https://rsaa.org.uk/product/4-november-2026-kazakhstan-at-35-a-sympos
  ium-on-a-transforming-nation/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b9e41d100dcd46ba97da2abfbca3a5ba-occ_e376722dae1445a0899ed3c2bdc
- e9ecf@thingstodoinyourcity
-DTSTAMP:20261103T052729Z
-DTSTART:20261104T093000Z
-DTEND:20261104T163000Z
-SUMMARY:Kazakhstan at 35: A Symposium on a Transforming Nation
-DESCRIPTION:Three sessions cover Kazakhstan's history\, politics\, econom
- y and heritage. It aims to strengthen academic\, cultural and policy tie
- s between the UK and Kazakhstan.\nPrice: £0.00 – FREE TO ATTEND. PLAC
- ES LIMITED.\nhttps://rsaa.org.uk/product/4-november-2026-kazakhstan-at-3
- 5-a-symposium-on-a-transforming-nation/
-LOCATION:King’s College London\, London
-URL:https://rsaa.org.uk/product/4-november-2026-kazakhstan-at-35-a-sympos
- ium-on-a-transforming-nation/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1f01f279d84f42039873ec0e5c233dc5-occ_86061a47ec2a45db9b603b99dd6
  05174@thingstodoinyourcity
 DTSTAMP:20261103T003340Z
@@ -2845,22 +2858,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_16e7df86405d4232a2a9dbf476242548-occ_e3974f9fb4834d088c1b1fee7e6
  fb116@thingstodoinyourcity
-DTSTAMP:20261101T022429Z
+DTSTAMP:20261104T162518Z
 DTSTART;VALUE=DATE:20261104
 SUMMARY:Pernille Haaland: Nordic AF
 DESCRIPTION:Price: General Admission - £11.25 + £1.31 booking fee + £2
- .00 waiting list surcharge
-LOCATION:The Bill Murray Comedy Club London\, London
+ .00 waiting list surcharge\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_16e7df86405d4232a2a9dbf476242548-occ_16db382655ad4285a29e2594f35
- ff173@thingstodoinyourcity
-DTSTAMP:20261101T022429Z
+UID:cand_16e7df86405d4232a2a9dbf476242548-occ_6d9c86ad31fa43afa2a8470d9a5
+ fce44@thingstodoinyourcity
+DTSTAMP:20261104T162518Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:Pernille Haaland: Nordic AF
 DESCRIPTION:Price: General Admission - £11.25 + £1.31 booking fee + £2
- .00 waiting list surcharge
-LOCATION:The Bill Murray Comedy Club London\, London
+ .00 waiting list surcharge\nhttps://www.angelcomedy.co.uk/bill-murray/
+LOCATION:The Bill Murray\, London
+URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c01a9ee2cda45629482a8cb8a5469a7-occ_a992824e637a42d1a05af4ebcd6
@@ -3023,24 +3038,6 @@ UID:cand_9c4e570924814223941755196446de9e-occ_11837ad3da604e3d9271ee6ce7a
  1c3a3@thingstodoinyourcity
 DTSTAMP:20261101T221126Z
 DTSTART;VALUE=DATE:20261104
-SUMMARY:RSAA and SOAS annual presentation on Asia for sixth form students
-  2026
-DESCRIPTION:Talks introduce sixth form students aged 16–19 to several a
- spects of Asia\, aimed at school and college final-year students. Lunch 
- is provided during the day\, which ends with a session on the Middle Eas
- t.\nPrice: FREE\nhttps://www.soas.ac.uk/about/event/rsaa-and-soas-annual
- -presentation-asia-sixth-form-students-2026
-LOCATION:SOAS UNIVERSITY OF LONDON\, 10 Thornhaugh Street\, Russell Squar
- e\, London WC1H 0XG\, London
-URL:https://www.soas.ac.uk/about/event/rsaa-and-soas-annual-presentation-
- asia-sixth-form-students-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9c4e570924814223941755196446de9e-occ_e60838a203644f28adb4c9fd996
- c4b4b@thingstodoinyourcity
-DTSTAMP:20261101T221126Z
-DTSTART:20261104T091500Z
-DTEND:20261104T154500Z
 SUMMARY:RSAA and SOAS annual presentation on Asia for sixth form students
   2026
 DESCRIPTION:Talks introduce sixth form students aged 16–19 to several a
@@ -3444,6 +3441,17 @@ LOCATION:London
 URL:https://www.somersethouse.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ced28803440c41bfac49e00a85832d95-occ_42c8e7ddc36f4fd2b9357e751e6
+ 3cba9@thingstodoinyourcity
+DTSTAMP:20261104T153251Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Upgrade Yourself Monthly: How to Grow Sustainable Materials Throu
+ gh Biodesign
+DESCRIPTION:https://www.somersethouse.org.uk/whats-on
+LOCATION:London
+URL:https://www.somersethouse.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f33157ed278546fa824ca27465b00e43-occ_0725ac33c59a4ac7b203fe0adc1
  40c3f@thingstodoinyourcity
 DTSTAMP:20261031T212206Z
@@ -3829,23 +3837,6 @@ URL:https://www.southwark.gov.uk/southwark-presents/butterup-coffee-x-gri
  ll-sessions-trinity-college-centre
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9f156814c5bd44acb8017ead489e785d-occ_7cadf516bf814a079a151ab6b58
- 6d308@thingstodoinyourcity
-DTSTAMP:20261103T045622Z
-DTSTART:20261104T090000Z
-DTEND:20261104T160000Z
-SUMMARY:AI Essentials\, Assurance & Business Leadership Conference
-DESCRIPTION:Explores harnessing AI innovation with robust governance and 
- assurance frameworks. Designed for those moving beyond experimental AI t
- oward scalable\, business-driven solutions.\nPrice: £27.1\nhttps://go-l
- ondon.uk/events/event/ai-essentials-assurance-business-leadership-confer
- ence/
-LOCATION:IET London: Savoy Place\, 2 Savoy Place\, London\, WC2R 0BL\, Co
- vent Garden\, London
-URL:https://go-london.uk/events/event/ai-essentials-assurance-business-le
- adership-conference/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_36bd8dcebc1c4a80aa078fcb365d4d5c-occ_219fd0e681844413aae5b921d98
  79c6e@thingstodoinyourcity
 DTSTAMP:20261104T061845Z
@@ -3902,38 +3893,6 @@ LOCATION:Orchard Gardens Community Centre\, Lewisham\, London\, SE13 7LQ\
 URL:https://www.outsavvy.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0611d901cb404577a1e0fa083dc34bcf-occ_7cea64b868844055bf496f086c6
- 59d26@thingstodoinyourcity
-DTSTAMP:20261103T043023Z
-DTSTART:20261104T090000Z
-DTEND:20261104T170000Z
-SUMMARY:Jalupro UK Summit 4.0: Regeneration Starts With Readiness
-DESCRIPTION:One-day summit with UK and international experts on skin rege
- neration and tissue quality. Sessions cover combination treatments\, tre
- atment sequencing and networking.\nPrice: £165\nhttps://go-london.uk/ev
- ents/event/jalupro-uk-summit-4-0-regeneration-starts-with-readiness/
-LOCATION:Royal College of Surgeons of England\, 38-43 Lincoln's Inn Field
- s\, London\, WC2A 3PE\, Holborn\, London
-URL:https://go-london.uk/events/event/jalupro-uk-summit-4-0-regeneration-
- starts-with-readiness/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dad3106d6bc642d48416840921b5d75b-occ_274a17cf49444139bc1fe3cd9ed
- a35fc@thingstodoinyourcity
-DTSTAMP:20261103T053703Z
-DTSTART:20261104T091500Z
-DTEND:20261104T160000Z
-SUMMARY:RSAA/SOAS Schools’ Day 2026
-DESCRIPTION:Sixth Form students hear expert speakers and sample an Asian 
- language class led by SOAS lecturers. Talks are pitched between school-l
- eaver and undergraduate level.\nPrice: This free event is open to studen
- ts in Year 12 and Year 13.\nhttps://rsaa.org.uk/upcoming-events/rsaa-soa
- s-schools-day-2026
-LOCATION:Royal Society For Asian Affairs\, 11 Bressenden Place\, London\,
-  SW1E 5BY\, Victoria\, London
-URL:https://rsaa.org.uk/upcoming-events/rsaa-soas-schools-day-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0563669af4f941c89b716810da02edd3-occ_c1542cc8c0e240c8bc04cb91dff
  6abc6@thingstodoinyourcity
 DTSTAMP:20261101T015408Z
@@ -3966,37 +3925,6 @@ LOCATION:Liverpool Street\, Broadgate\, Broadgate\, London EC2M 2QS\, Lon
 URL:https://popette.app/p/ldn-facetheory-skincare-bus-broadgate-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6ea6ef1ee449448ba4885d99ccc5efde-occ_82b89747a4334898be90f4a5b80
- 24a4a@thingstodoinyourcity
-DTSTAMP:20261104T080459Z
-DTSTART:20261104T100000Z
-DTEND:20261104T150000Z
-SUMMARY:Joint R&D Office Wednesday Walk-In
-DESCRIPTION:Drop in to discuss study plans or project questions with the 
- Joint R&D Office. No booking is needed\; the team advises on ethical\, c
- ontractual and regulatory standards.\nhttps://www.kcl.ac.uk/events/joint
- -rd-office-wednesday-walk-in-november
-LOCATION:Room W1.12 (first floor)\, IoPPN Main Building\, IoPPN\, 16 De C
- respigny Park\, London SE5 8AB\, Denmark Hill Campus\, London\, London
-URL:https://www.kcl.ac.uk/events/joint-rd-office-wednesday-walk-in-novemb
- er
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a7978bb2428342ff8b2a977f2f9f324c-occ_21c24d7d8f864448a61bf144594
- e301f@thingstodoinyourcity
-DTSTAMP:20261104T043941Z
-DTSTART:20261104T100000Z
-DTEND:20261104T150000Z
-SUMMARY:Move\, Share & Exchange
-DESCRIPTION:Weekly physical and creative activities for residents' wellbe
- ing around the Cossall estate\, followed by a social cafe. All activitie
- s are free of charge.\nPrice: FREE\nhttps://www.southwark.gov.uk/southwa
- rk-presents/move-share-exchange
-LOCATION:COSSALL TRA HALL\, 48 Mortlock Close LONDON SE15 2QE United King
- dom\, London
-URL:https://www.southwark.gov.uk/southwark-presents/move-share-exchange
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c8589945b22c469da2ddf2788ee54a8b-occ_f75b1d3f0cf4496186b38cfeff6
  2e326@thingstodoinyourcity
 DTSTAMP:20261104T011618Z
@@ -4010,33 +3938,6 @@ DESCRIPTION:A grounding crystal bowls session using Crystal Tones alchemy
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Crystal-Bowls/13806
  9797?skipPreview=true
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a691494c3be34eb0ad80cee53c93bf45-occ_ff987502e542490fbfc5843cc69
- 4fb51@thingstodoinyourcity
-DTSTAMP:20261104T034245Z
-DTSTART:20261104T100000Z
-DTEND:20261104T170000Z
-SUMMARY:Urban Makers Wednesdays
-DESCRIPTION:A midweek market packed with independent makers selling beaut
- ifully crafted pieces. Check the Urban Makers website for trader details
- .\nhttps://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
-LOCATION:Old Spitalfields Market\, 16 Horner Square London E1 6EW\, Londo
- n
-URL:https://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a691494c3be34eb0ad80cee53c93bf45-occ_96152dcea7a14b648d5613fe4de
- 0729b@thingstodoinyourcity
-DTSTAMP:20261104T034245Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Urban Makers Wednesdays
-DESCRIPTION:A midweek market packed with independent makers selling beaut
- ifully crafted pieces. Check the Urban Makers website for trader details
- .\nhttps://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
-LOCATION:Old Spitalfields Market\, 16 Horner Square London E1 6EW\, Londo
- n
-URL:https://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_200323c5d6e9494486aa888c411a0679-occ_1392dab66c28484fa9e0f270b85
@@ -4213,42 +4114,6 @@ DESCRIPTION:Self Service's archive sale brings together Frankies Bikinis
  pette.app/p/ldn-self-service-archive-sale-2026/
 LOCATION:Marylebone\, 25 Harcourt Street\, London W1H 4HN\, London
 URL:https://popette.app/p/ldn-self-service-archive-sale-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_461118ae5ccb4ac8b3f84b81a4833d6b-occ_b722c65c888b45439ac1656fcdc
- 86b1d@thingstodoinyourcity
-DTSTAMP:20261031T234644Z
-DTSTART:20261104T110000Z
-DTEND:20261104T170000Z
-SUMMARY:Urban Makers Guest Market
-DESCRIPTION:https://kilnjewels.co.uk/pages/events
-LOCATION:Old Spitalfields Market\, 16 Horner Square\, London\, E1 6EW\, L
- ondon
-URL:https://kilnjewels.co.uk/pages/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_461118ae5ccb4ac8b3f84b81a4833d6b-occ_18afe85b115f4df6aaac0330bd5
- a4139@thingstodoinyourcity
-DTSTAMP:20261031T234644Z
-DTSTART:20261216T110000Z
-DTEND:20261216T170000Z
-SUMMARY:Urban Makers Guest Market
-DESCRIPTION:https://kilnjewels.co.uk/pages/events
-LOCATION:Old Spitalfields Market\, 16 Horner Square\, London\, E1 6EW\, L
- ondon
-URL:https://kilnjewels.co.uk/pages/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_461118ae5ccb4ac8b3f84b81a4833d6b-occ_18b450cc914e41b38c2c7cf9dee
- 0574d@thingstodoinyourcity
-DTSTAMP:20261031T234644Z
-DTSTART:20261223T110000Z
-DTEND:20261223T170000Z
-SUMMARY:Urban Makers Guest Market
-DESCRIPTION:https://kilnjewels.co.uk/pages/events
-LOCATION:Old Spitalfields Market\, 16 Horner Square\, London\, E1 6EW\, L
- ondon
-URL:https://kilnjewels.co.uk/pages/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9863781c9f8e4fb188d3d626a4ec6514-occ_224885154080412e9165dbb22dc
@@ -4632,22 +4497,6 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018771/naza?filte
  r=
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_37268010738042699d17cd48b7d749e7-occ_eba8ca4c28d24773b7737dcef5a
- a4e01@thingstodoinyourcity
-DTSTAMP:20261104T052118Z
-DTSTART:20261104T120000Z
-DTEND:20261104T173000Z
-SUMMARY:Orthoptera Special Interest Group (SIG) 2026
-DESCRIPTION:Annual Orthoptera meeting on grasshopper and cricket research
- \, conservation and recording. An optional buffet dinner at NHM is avail
- able for an additional £20.\nPrice: RES Student Member £10\; RES Membe
- r/Fellow £15\; Standard Registration (Associate members and Non-members
- ) £20\nhttps://www.royensoc.co.uk/event/orthoptera-2026
-LOCATION:Eaton House\, Eaton House Holdings\, 39 Upper Grosvenor Street\,
-  London\, W1K 2NG\, Mayfair\, London
-URL:https://www.royensoc.co.uk/event/orthoptera-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_001d81931062478789d7721ce63d0135-occ_f3b9b083be0c4f14b39db0cefed
  70803@thingstodoinyourcity
 DTSTAMP:20261104T023045Z
@@ -4730,20 +4579,6 @@ DESCRIPTION:Guided sound bath using gongs\, crystal bowls\, Tibetan bowls
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Sound-Bath/13807432
  8?skipPreview=true
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d54e7a4df4ad44699ff6006031cd8d42-occ_e06066988ea84013bad6efa8af0
- a2853@thingstodoinyourcity
-DTSTAMP:20261104T044340Z
-DTSTART:20261104T120000Z
-DTEND:20261104T150000Z
-SUMMARY:Time To Shine
-DESCRIPTION:A runway workshop\, conversation and light treats for over-60
- s. Attendees also get a free goodie wellness bag.\nPrice: Over 60+ Free\
- nhttps://www.southwark.gov.uk/southwark-presents/time-shine
-LOCATION:Harriet Hardy House\, 48a Westmoreland Rd\, Walworth\, London\, 
- Southwark\, SE5 7SW\, United Kingdom\, Walworth\, London
-URL:https://www.southwark.gov.uk/southwark-presents/time-shine
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_88be9da265714dffb73fa669edb99b22-occ_765ea194db8f47fb8984a4ef64c
@@ -4985,247 +4820,6 @@ URL:https://arthousecrouchend.savoysystems.co.uk/ArtHouseCrouchEnd.dll/TS
  erformance_10526972
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_c2bdc4b53e044643847adab82db
- 3a0b0@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20261104T130000Z
-DTEND:20261104T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_27d84c36543b48ca810f178a942
- 2d05e@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20261118T130000Z
-DTEND:20261118T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f89071e890ce4c72a18def4e00b
- c6e5a@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20261202T130000Z
-DTEND:20261202T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_3a48921d9a954652b473ebd6f33
- b691d@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20261216T130000Z
-DTEND:20261216T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f3803a42439d41e2986a3291d8e
- b1048@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20261230T130000Z
-DTEND:20261230T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_ceb782e7cc1d470692a2410169d
- 74a34@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270113T130000Z
-DTEND:20270113T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_20104d04faf84323bfbf8279037
- a23f1@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270127T130000Z
-DTEND:20270127T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_d9537c84d34449cba5847973838
- 9c276@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270210T130000Z
-DTEND:20270210T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_7bc733f2f5734c48a04cd2c1c78
- 0aa00@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270224T130000Z
-DTEND:20270224T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_b1d08008d8f54d0eb6039a2e66c
- fde25@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270310T130000Z
-DTEND:20270310T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_d9c849b3298248129b62cab5437
- f677b@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270324T130000Z
-DTEND:20270324T150000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_93958adf67264db3b9626abcf79
- a3707@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270407T120000Z
-DTEND:20270407T140000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_b21059aa724e420ab8fe5ff2bc1
- f6fee@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270421T120000Z
-DTEND:20270421T140000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f6baece0e66547a89b94b80129d
- ef06a@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270505T120000Z
-DTEND:20270505T140000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1f69f98a83bc4c518da0d436db623680-occ_3b1ae79633cc4a249865986abd9
- 0fa69@thingstodoinyourcity
-DTSTAMP:20261103T223405Z
-DTSTART:20270519T120000Z
-DTEND:20270519T140000Z
-SUMMARY:Age UK digital drop-in
-DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
- rom trained Age UK Westminster volunteers. Short-term device access may 
- be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
- uk/event/age-uk-digital-drop
-LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
- dom\, London
-URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c327b7d27e3d4324861f411a8e749cb4-occ_6414b49a741c457094f464a62f9
- b96ae@thingstodoinyourcity
-DTSTAMP:20261101T015720Z
-DTSTART:20261104T130000Z
-DTEND:20261104T160000Z
-SUMMARY:Community Garden Action Days
-DESCRIPTION:Drop in to grow plants\, sow seeds\, clear new ground or prun
- e bushes. Gloves and tools are provided\, and all experience levels are 
- welcome.\nPrice: Free\nhttps://www.imperial.ac.uk//events/description/in
- dex.php?route=214071/community-garden-action-days-7/
-LOCATION:Chaplaincy Multi-Faith Centre\, Multi-Faith Centre at 15 Princes
-  Gardens\, SOUTH KENSINGTON\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=214071
- /community-garden-action-days-7/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1cd2ecdcb2eb41daace5382f515df625-occ_3ec46c4bf4e44631b63c12cc2f0
  13e6f@thingstodoinyourcity
 DTSTAMP:20261101T002400Z
@@ -5335,103 +4929,6 @@ URL:https://www.achurchnearyou.com/church/33278/service-and-events/events
  -all
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_ec34756b5ccc48c4a4e79052c5f
- e172b@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261104T133000Z
-DTEND:20261104T160000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_87b4b2f5ca9249a9a1c83b26606
- 55f16@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261106T110000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_c0215755badb4621915d5a03f2b
- 98917@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261123T110000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_a7ebf759f6fe41238d1c088ffb2
- 8a229@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261201T100000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_49841b2bd3fc47829c76f1b89d1
- 2a681@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261216T110000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_df760eb200ac4b40970342a5758e69cb-occ_051ca765c1214779b72e61cf8d6
- 56cd0@thingstodoinyourcity
-DTSTAMP:20261104T021948Z
-DTSTART:20261218T110000Z
-SUMMARY:Coaching session 4: Financial planning
-DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
- minology and assess business viability in a small group. This is session
-  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
- rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
- ff=odcleoeventsincollection
-LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
-  2DB\, London
-URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
- ckets-1998251444863?aff=odcleoeventsincollection
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_79b9cb284cc54d47b15c04af71acbcea-occ_edb3d5e46c344401b2a7745e029
  eef01@thingstodoinyourcity
 DTSTAMP:20261103T181051Z
@@ -5507,21 +5004,6 @@ LOCATION:HUXLEY BUILDING\, SOUTH KENSINGTON CAMPUS\, London
 URL:https://londontalks.uk/events/9689
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_769a5456eff84c94ac0987d7a21208ba-occ_3709ad28904a480aa2d740642b0
- 88023@thingstodoinyourcity
-DTSTAMP:20261104T081000Z
-DTSTART:20261104T140000Z
-DTEND:20261104T150000Z
-SUMMARY:Deepening Our Understanding: AI for Ocean Exploration
-DESCRIPTION:Dr Eric Orenstein covers AI for proposing ocean sampling site
- s and adaptive sampling on autonomous underwater vehicles. It is part of
-  the AI Frontiers series.\nhttps://www.eventbrite.co.uk/e/deepening-our-
- understanding-ai-for-ocean-exploration-tickets-2000253324539?aff=kclweb
-LOCATION:Online\, London
-URL:https://www.eventbrite.co.uk/e/deepening-our-understanding-ai-for-oce
- an-exploration-tickets-2000253324539?aff=kclweb
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_07d31ebc30c848369a91de9232323563-occ_8abf2aa6003041d6a125f3482a4
  7b2fe@thingstodoinyourcity
 DTSTAMP:20261102T232639Z
@@ -5576,22 +5058,6 @@ DESCRIPTION:Thomas Mann and his daughter Erika road-trip through a ruined
 LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
  ondon E9 6DA\, Hackney\, London
 URL:https://thecastlecinema.com/programme/115208/fatherland/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5653024da14e43a4bf25078e8980366e-occ_d367258812884c089a4a4c3bcb8
- 81f11@thingstodoinyourcity
-DTSTAMP:20261104T080935Z
-DTSTART:20261104T140000Z
-DTEND:20261104T170000Z
-SUMMARY:Strand Research Facility Showcase
-DESCRIPTION:Take a guided tour of cutting-edge instruments. Hear research
- er talks and meet the experts behind the technology.\nPrice: Free\nhttps
- ://www.eventbrite.co.uk/e/strand-research-facility-showcase-tickets-2000
- 576504178?aff=KingsWebpage
-LOCATION:QUA LG105 (North)\, Quad Labs (level -1)\, King's Building Stran
- d WC2R 2LS\, Strand\, Greater London\, London
-URL:https://www.eventbrite.co.uk/e/strand-research-facility-showcase-tick
- ets-2000576504178?aff=KingsWebpage
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_16175f9fba264eb6ad95ce134ddb84da-occ_3968f8138f424ddfb0896799406
@@ -5657,22 +5123,6 @@ LOCATION:Forest Cinemas\, 267 High Street\, Walthamstow\, E17 7FD\, Walth
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27960/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_cf0d226dec7c4313b88a3ab3bb4cf30c-occ_3b04089a4c9246df8821dcb1432
- b15a3@thingstodoinyourcity
-DTSTAMP:20261104T054252Z
-DTSTART:20261104T141500Z
-DTEND:20261104T151500Z
-SUMMARY:Workshop: Video on iPhone
-DESCRIPTION:Discover the built-in iPhone video features\, then explore re
- cording modes and techniques through fun activities. Bring your iPhone o
- r we'll provide the latest.\nhttps://www.apple.com/uk/today/event/worksh
- op-video-on-iphone/7515784382737907712/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/workshop-video-on-iphone/7515784
- 382737907712/?sn=R245
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b92ff8cbdf43471fa3a37fed9e38144e-occ_509dace6b8c9413693e40da6efc
  e5810@thingstodoinyourcity
 DTSTAMP:20261104T015833Z
@@ -5720,22 +5170,6 @@ DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27847/
 LOCATION:Forest Cinemas\, 267 High Street\, Walthamstow\, E17 7FD\, Walth
  amstow\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27847/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a8561b08795f4a3b891fcbc1eef50b14-occ_ab661d962a304c02a67db517e67
- 7a301@thingstodoinyourcity
-DTSTAMP:20261104T044443Z
-DTSTART:20261104T150000Z
-DTEND:20261104T160000Z
-SUMMARY:My kitchen is your kitchen - Conversation Café
-DESCRIPTION:A friendly café to share stories about food\, home and every
- day life. No booking is needed\, and it is a safe space to practise Engl
- ish.\nhttps://www.southwark.gov.uk/southwark-presents/my-kitchen-your-ki
- tchen-conversation-cafe-southwark-heritage-centre-and-walworth
-LOCATION:Southwark Heritage Centre and Walworth Library\, 145-147 Walwort
- h Rd London SE17 1RW United Kingdom\, Elephant and Castle\, London
-URL:https://www.southwark.gov.uk/southwark-presents/my-kitchen-your-kitch
- en-conversation-cafe-southwark-heritage-centre-and-walworth
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c6b31e9baf94b358c8c05e7c58aef35-occ_8da276a017ee4f558f649acc564
@@ -5895,21 +5329,6 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018815/clayface?f
  ilter=
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_10d5151b6a3e4e44b035923259940e8c-occ_d081287bf94e4f03b10eea8ebb4
- d1a68@thingstodoinyourcity
-DTSTAMP:20261101T023846Z
-DTSTART:20261104T153000Z
-DTEND:20261104T163000Z
-SUMMARY:Hidden legacies: The women behind our collection
-DESCRIPTION:Susanna Avery-Quash and Meredith Loper explore women's gifts 
- in Wills to the National Gallery. It draws on research into 200 years of
-  women benefactors.\nPrice: Members: £20\nhttps://www.nationalgallery.o
- rg.uk/events/hidden-legacies-the-women-behind-our-collection-04-11-2026
-LOCATION:Supporters' House Salon\, In Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/hidden-legacies-the-women-b
- ehind-our-collection-04-11-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_089a575a60724ad4aa80b2157ed9acb5-occ_51246b5860fc4d739006a37c525
  3ea4f@thingstodoinyourcity
 DTSTAMP:20261103T231800Z
@@ -6046,20 +5465,6 @@ URL:https://arthousecrouchend.savoysystems.co.uk/ArtHouseCrouchEnd.dll/TS
  erformance_10526757
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d2f72f8a7f8042bc815acbc01f33c0cb-occ_9359465fb0614762919dc54e462
- fc19b@thingstodoinyourcity
-DTSTAMP:20261104T020831Z
-DTSTART:20261104T160000Z
-DTEND:20261104T172000Z
-SUMMARY:Teacher CPD: Oscar Wilde in Context
-DESCRIPTION:Speakers Merlin Holland\, Rebecca N Mitchell and Anna Davenpo
- rt offer fresh ideas for teaching Wilde. Attendees receive a digital res
- ource pack afterwards.\nPrice: Free\, booking essential\nhttps://events.
- bl.uk/events/teacher-cpd-oscar-wilde-in-context
-LOCATION:British Library\, Online\, London
-URL:https://events.bl.uk/events/teacher-cpd-oscar-wilde-in-context
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_d10d38b5da4348f1859105f88fceae64-occ_e3c2f858588e44158c6788a23ae
  e31d9@thingstodoinyourcity
 DTSTAMP:20261031T062512Z
@@ -6103,22 +5508,6 @@ SUMMARY:Get Started: Apple Watch
 DESCRIPTION:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
 LOCATION:Apple Covent Garden\, London
 URL:https://www.apple.com/uk/today/calendar/coventgarden?sn=R245
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5ed03ab62711485d91be81d26963014c-occ_f7170787bebe456d995b16c56df
- 1ca5a@thingstodoinyourcity
-DTSTAMP:20261104T054122Z
-DTSTART:20261104T163000Z
-DTEND:20261104T173000Z
-SUMMARY:Get Started: Apple Watch
-DESCRIPTION:Learn to monitor health metrics\, track workouts and stay con
- nected on Apple Watch. Hearing loop technology is available on request f
- or sessions with amplified sound.\nhttps://www.apple.com/uk/today/event/
- get-started-apple-watch-112723/7515784222934925312/?sn=R245
-LOCATION:Apple Covent Garden\, No. 1-7 The Piazza London\, WC2E 8HB\, Lon
- don
-URL:https://www.apple.com/uk/today/event/get-started-apple-watch-112723/7
- 515784222934925312/?sn=R245
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3401dd0fabee4508acb9efe8eed78104-occ_70fe6cad41c543e5a5fa88134a8
@@ -7839,6 +7228,34 @@ URL:https://www.londontourism.ca/events/choral-concert-annual-choral-kick
  -off
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d0c758484e854902be53e36db05df102-occ_91c318e279f34e6d9a0f4dfe9d5
+ 17585@thingstodoinyourcity
+DTSTAMP:20261104T171602Z
+DTSTART:20261104T193000Z
+SUMMARY:Cody Dahler: The State of This!
+DESCRIPTION:Comedian Cody Dahler unpacks the origins of Britain's politic
+ al malaise in a brand-new live show. Special guest hosts join him to dis
+ cuss his book and answer your questions.\nPrice: Full price £45.50\nhtt
+ ps://sohotheatre.com/events/cody-dahler-the-state-of-this/
+LOCATION:Auditorium\, 186 Hoe Street\, London E17 4QH\, Walthamstow\, Lon
+ don
+URL:https://sohotheatre.com/events/cody-dahler-the-state-of-this/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d0c758484e854902be53e36db05df102-occ_0e6446252f8f46ce8895da0641f
+ 9b8a2@thingstodoinyourcity
+DTSTAMP:20261104T171602Z
+DTSTART:20261116T193000Z
+SUMMARY:Cody Dahler: The State of This!
+DESCRIPTION:Comedian Cody Dahler unpacks the origins of Britain's politic
+ al malaise in a brand-new live show. Special guest hosts join him to dis
+ cuss his book and answer your questions.\nPrice: Full price £45.50\nhtt
+ ps://sohotheatre.com/events/cody-dahler-the-state-of-this/
+LOCATION:Auditorium\, 186 Hoe Street\, London E17 4QH\, Walthamstow\, Lon
+ don
+URL:https://sohotheatre.com/events/cody-dahler-the-state-of-this/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_380acdd2aaf74d2f9a4f6d91fc1e55c4-occ_eba227b66ddd4f899759dd52416
  3ce8a@thingstodoinyourcity
 DTSTAMP:20261102T065055Z
@@ -9028,6 +8445,20 @@ SUMMARY:Employment & Training Support
 DESCRIPTION:Price: Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Brixton\, London
 URL:https://www.lambeth.gov.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1420d8a2c97d4ed0b7ee7aebd4e98b43-occ_a23c918aaba74c3e89dae481ab0
+ 79cfb@thingstodoinyourcity
+DTSTAMP:20261104T153004Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Exhibition preview - Exploration now: fieldwork and expeditions t
+ oday
+DESCRIPTION:Meet the artists behind the exhibition at an informal evening
+  of talks and tabletop displays. Drinks in the Society's Pavilion follow
+  as night falls.\nPrice: Member £12.00 Online Non-member £15.00\nhttps
+ ://www.rgs.org/events/upcoming-events
+LOCATION:Royal Geographical Society (with IBG)\, London
+URL:https://www.rgs.org/events/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fa9467cfe0b04ffe8219a56fd96343f1-occ_b4e81feac028437aafa6f653e39
@@ -10253,19 +9684,6 @@ DESCRIPTION:Price: £ 5
 LOCATION:30 Dean Street Bar and Club\, Soho\, London
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_54707757f490400a96c29264bee24bab-occ_bc6501848f5f42d2ad823af52c7
- 82f2c@thingstodoinyourcity
-DTSTAMP:20261104T012320Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Thursday Night Comedy\, 8PM\, Covent Garden
-DESCRIPTION:Hand-picked professional stand-ups\, with a host and London c
- ircuit comedians. Previous shows have featured comedians seen on Taskmas
- ter\, Live at the Apollo and Netflix.\nPrice: £12.00\nhttps://jkcomedyc
- lub.co.uk/whats-on/
-LOCATION:JK Comedy Club Covent Garden\, Covent Garden\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_da79f46847c64654bc530b2663e1b460-occ_eb9ce906346b4431b7172a91dc6
  15a06@thingstodoinyourcity
 DTSTAMP:20261031T235145Z
@@ -10386,6 +9804,16 @@ SUMMARY:Wicker
 DESCRIPTION:https://www.regentstreetcinema.com/now-playing/
 LOCATION:Regent Street Cinema\, London
 URL:https://www.regentstreetcinema.com/now-playing/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8893a14e02344ce7b56e8573f206e09a-occ_9e4f903f8f544a078703512110c
+ 6d538@thingstodoinyourcity
+DTSTAMP:20261104T153619Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Wicker Sour cocktails\, straw man making + Wicker 18
+DESCRIPTION:Price: £18.50 each\nhttps://www.thegardencinema.co.uk/
+LOCATION:The Garden Cinema\, London
+URL:https://www.thegardencinema.co.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c2a3b8ea3834180972514e1be77d920-occ_2578f6614d864c45b719aa6891a
@@ -10519,18 +9947,6 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:‘Wicker Sour’ cocktails\, straw man making + Wicker
 DESCRIPTION:
 LOCATION:London
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8893a14e02344ce7b56e8573f206e09a-occ_9e4f903f8f544a078703512110c
- 6d538@thingstodoinyourcity
-DTSTAMP:20261103T015440Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:‘Wicker Sour’ cocktails\, straw man making + Wicker 18
-DESCRIPTION:Price: £18.50 each\nhttps://www.thegardencinema.co.uk/film/w
- icker-sour-cocktails-straw-man-making-wicker
-LOCATION:The Garden Cinema\, London
-URL:https://www.thegardencinema.co.uk/film/wicker-sour-cocktails-straw-ma
- n-making-wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e2e43706b6b243ac883ea6aae747e010-occ_0d7d227598464acebc0ff86f81b
@@ -12728,16 +12144,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cde0f1f01ecb4d32a84762e423439a05-occ_6521cc00c8f345b8ba3b28ba6a2
  40531@thingstodoinyourcity
-DTSTAMP:20261103T131100Z
+DTSTAMP:20261104T152234Z
 DTSTART:20261105T180000Z
 SUMMARY:LOL : Ladies Of Laughter - London
-DESCRIPTION:The Ladies Of Laughter tour returns with comics including Sha
- zia Mirza\, Shalaka Kurup and Maple Zuo. It promises a guaranteed night 
- of hilarity for comedy fans of all backgrounds.\nhttps://www.londontheat
- res.com/event/lol-:-ladies-of-laughter-_-london
+DESCRIPTION:The Ladies Of Laughter tour returns with Shazia Mirza\, Shala
+ ka Kurup\, Maple Zuo and more. It promises a guaranteed night of hilarit
+ y for comedy fans of all backgrounds.\nhttps://www.londontheatres.com/ev
+ ents/comedy
 LOCATION:Secret Venue\, London
-URL:https://www.londontheatres.com/event/lol-:-ladies-of-laughter-_-londo
- n
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_216f8d34c2414067916e51becef95bff-occ_bb701efc6078415f84839cd9dad
@@ -12763,16 +12178,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d659e2cc408f481b9beba2bdafb9af4a-occ_f0df2ae98b7b4b4a9b4615209b1
  ef1d7@thingstodoinyourcity
-DTSTAMP:20261103T135314Z
+DTSTAMP:20261104T152316Z
 DTSTART:20261105T180000Z
 SUMMARY:Mehfil Masti : BollyFire Bonfire Special London
 DESCRIPTION:Comedian and host Tommy Sandhu and Bollywood vocalist Chirag 
  Rao host this unique evening. No two shows are ever the same.\nhttps://w
- ww.londontheatres.com/event/mehfil-masti-:-bollyfire--bonfire-special--l
- ondon
+ ww.londontheatres.com/events/comedy
 LOCATION:Secret Venue\, London
-URL:https://www.londontheatres.com/event/mehfil-masti-:-bollyfire--bonfir
- e-special--london
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c5c38cf54354447eb37d1d241c198b5f-occ_579bcecb4a19458aa974f86809d
@@ -13053,6 +12466,200 @@ LOCATION:Waterstones\, Trafalgar Square\, London\, WC2N 5EJ\, Covent Gard
 URL:https://go-london.uk/events/event/an-evening-with-ben-meer/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_379129e30f57469d9a3185c5603edaa9-occ_70e4036b98df4922a34b8b97ebc
+ 13154@thingstodoinyourcity
+DTSTAMP:20261104T152434Z
+DTSTART:20261105T190000Z
+SUMMARY:Big Mad Andy's Peep Show Quiz + Dobby Club Book Launch
+DESCRIPTION:https://www.londontheatres.com/event/big-mad-andy's-peep-show
+ -quiz--dobby-club-book-launch
+LOCATION:Brixton Jamm\, London
+URL:https://www.londontheatres.com/event/big-mad-andy's-peep-show-quiz--d
+ obby-club-book-launch
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_403c327b453d455f8bcf9078093
+ 436d0@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261105T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_24a954bcbc09493a83865f30b83
+ 21ba1@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261110T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_a7d8e1916f7e437a8e8f2247a9c
+ 8e0ff@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261112T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_5b4c9758848d4abb8db13d35c83
+ b42c8@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261117T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_9f7c58aec9794f91a4eb5f879d8
+ 3b4fd@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261119T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_069b72b4dbe44b8aa1d02de3f1e
+ e6ee4@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261124T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_8f0007561e164064a1c8557f5a4
+ f86d2@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261126T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_38da9ce373de4df2a0d75b27e12
+ 16f8a@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261201T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_f42f8a5d029448a8994f454393f
+ e8e8f@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261203T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_6ff061a685624d02b9c51cf19e8
+ 31613@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261208T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_efaecc98ce7047bdb4cd1e41b62
+ 7894d@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261210T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_a7201246888043ffab4d8854b4b
+ 81445@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261215T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34b15a37c012458397ed06474aab93a1-occ_48b0ddf32e2142c2aa34ebb928a
+ 02a17@thingstodoinyourcity
+DTSTAMP:20261104T152704Z
+DTSTART:20261217T190000Z
+SUMMARY:Comedy in Your Eye - Award Winning Stand Up Comedy for just £3
+DESCRIPTION:An award-winning comedy club running every Tuesday\, Wednesda
+ y and Thursday. It features TV comics and the best from the London circu
+ it.\nhttps://www.londontheatres.com/event/comedy-in-your-eye-_-award-win
+ ning-stand-up-comedy-for-just-%C3%A2%C2%A33
+LOCATION:The Camden Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
+ ng-stand-up-comedy-for-just-%C3%A2%C2%A33
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c93df47dc6ee49edbd0246a5c168403b-occ_d8e360b8e0014abdbe08f6c08d8
  6f0f1@thingstodoinyourcity
 DTSTAMP:20261103T111303Z
@@ -13066,23 +12673,6 @@ DESCRIPTION:Indie alternative outfit Deaf Havana performs live alongside
 LOCATION:O2 Shepherd's Bush Empire\, London\, Covent Garden\, London
 URL:https://go-london.uk/events/event/deaf-havana-live-at-o2-shepherd-s-b
  ush-empire/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1420d8a2c97d4ed0b7ee7aebd4e98b43-occ_a23c918aaba74c3e89dae481ab0
- 79cfb@thingstodoinyourcity
-DTSTAMP:20261031T230922Z
-DTSTART:20261105T190000Z
-DTEND:20261105T210000Z
-SUMMARY:Exhibition preview - Exploration now: fieldwork and expeditions t
- oday
-DESCRIPTION:Meet the artists behind the exhibition at an informal evening
-  of talks and tabletop displays. Drinks in the Society's Pavilion follow
-  as night falls.\nPrice: £12.00 - £15.00\nhttps://www.rgs.org/events/u
- pcoming-events/exhibition-preview-exploration-now
-LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
- on\, SW7 2AR\, London
-URL:https://www.rgs.org/events/upcoming-events/exhibition-preview-explora
- tion-now
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_51b14f478d784c20883fc364aa2e8af8-occ_142a361cf3d643329d7d4222d53
@@ -13305,6 +12895,30 @@ LOCATION:London
 URL:https://cinemaguide.co.uk/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d4f9383141f0463c8effe5a1bbf6bc14-occ_3d093c0924d647ae9346a452758
+ ea3e2@thingstodoinyourcity
+DTSTAMP:20261104T152324Z
+DTSTART:20261105T193000Z
+SUMMARY:Big Mad Andy's Peep Show Quiz
+DESCRIPTION:Big Mad Andy hosts a Peep Show quiz with insane prizes\, MAD 
+ trivia and birthday specials. Teams of up to six must buy tickets togeth
+ er in one transaction.\nhttps://www.londontheatres.com/events/comedy
+LOCATION:Brixton Jamm\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d4f9383141f0463c8effe5a1bbf6bc14-occ_e295166459114a9bb24a62bd7c7
+ 75248@thingstodoinyourcity
+DTSTAMP:20261104T152324Z
+DTSTART:20261203T193000Z
+SUMMARY:Big Mad Andy's Peep Show Quiz
+DESCRIPTION:Big Mad Andy hosts a Peep Show quiz with insane prizes\, MAD 
+ trivia and birthday specials. Teams of up to six must buy tickets togeth
+ er in one transaction.\nhttps://www.londontheatres.com/events/comedy
+LOCATION:Brixton Jamm\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d8d9f5f8114f4186984f2da248087b6c-occ_9024b727d4c84becb26ea05ce97
  2019d@thingstodoinyourcity
 DTSTAMP:20261102T041337Z
@@ -13316,6 +12930,45 @@ DESCRIPTION:Set in a traditional Irish pub on Christmas Eve\, with live I
  om/event/christmas-in-ireland
 LOCATION:New Wimbledon Theatre\, London
 URL:https://www.londontheatres.com/event/christmas-in-ireland
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_99c4c012ac4e41e5af590d4b9c06fe97-occ_6ef2655f7eca4ade8d6e6e8cf28
+ 7844a@thingstodoinyourcity
+DTSTAMP:20261104T152549Z
+DTSTART:20261105T193000Z
+SUMMARY:Comedy Night
+DESCRIPTION:Now in its 4th year\, Virtue Comedy brings a fantastic night 
+ of live stand-up comedy. The listing also appears as COMEDY NIGHT ON TOU
+ R with a separate Nuneaton date.\nhttps://www.londontheatres.com/event/c
+ omedy-night
+LOCATION:The Three Lanterns Leicester Square\, London
+URL:https://www.londontheatres.com/event/comedy-night
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_99c4c012ac4e41e5af590d4b9c06fe97-occ_6dc38ba5b7054ab9a3ba59bc957
+ 8c6bc@thingstodoinyourcity
+DTSTAMP:20261104T152549Z
+DTSTART:20261119T193000Z
+SUMMARY:Comedy Night
+DESCRIPTION:Now in its 4th year\, Virtue Comedy brings a fantastic night 
+ of live stand-up comedy. The listing also appears as COMEDY NIGHT ON TOU
+ R with a separate Nuneaton date.\nhttps://www.londontheatres.com/event/c
+ omedy-night
+LOCATION:The Three Lanterns Leicester Square\, London
+URL:https://www.londontheatres.com/event/comedy-night
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_99c4c012ac4e41e5af590d4b9c06fe97-occ_7defa85a07e34abd826905cbb0d
+ c5bed@thingstodoinyourcity
+DTSTAMP:20261104T152549Z
+DTSTART:20261203T193000Z
+SUMMARY:Comedy Night
+DESCRIPTION:Now in its 4th year\, Virtue Comedy brings a fantastic night 
+ of live stand-up comedy. The listing also appears as COMEDY NIGHT ON TOU
+ R with a separate Nuneaton date.\nhttps://www.londontheatres.com/event/c
+ omedy-night
+LOCATION:The Three Lanterns Leicester Square\, London
+URL:https://www.londontheatres.com/event/comedy-night
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4ee71a5e52bb480ab40d2be6283e5532-occ_2c91047153564c67b6932543132
@@ -13451,90 +13104,6 @@ LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_9b7d8cc07de14fdfa9053603159
- 1206d@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261105T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_f52056ce73de40d7b191209f8ea
- 7984e@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261112T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_e106c594208e4a75b1badc44165
- bdf97@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261119T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_097fcdbc18c8455788ec8e64015
- b5be1@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261126T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_b118ff3a0a4a4a69b32f2dd0721
- 986d3@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261203T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_5d7af47b309e4150a086c612706
- a6a5f@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261210T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_87080a7afda448a88178923fced0b18a-occ_629128a5af5e4810b543dd7e7ab
- a10ae@thingstodoinyourcity
-DTSTAMP:20261022T033929Z
-DTSTART:20261217T193000Z
-SUMMARY:Thursdays at Backyard Comedy Club
-DESCRIPTION:https://www.londontheatres.com/event/thursdays-at-backyard-co
- medy-club
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/thursdays-at-backyard-comedy-clu
- b
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_92d4b057be7d4e12ab8b7c22b757c2e5-occ_649e8bcbbd274e049acea4da37a
  a40a4@thingstodoinyourcity
 DTSTAMP:20261103T123813Z
@@ -13606,16 +13175,6 @@ LOCATION:The Trafalgar Public House\, 224-226 King's Rd\, London SW3 5UA\
 URL:https://www.alwaysbecomedy.com/chelsea
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6c50e769e79a41e4bf6854adb8548a3e-occ_f7cc1a7ba43d49d583f164312b8
- d021a@thingstodoinyourcity
-DTSTAMP:20261103T135352Z
-DTSTART:20261105T200000Z
-SUMMARY:Better Go Mad in the Wild + Q&A with director Miro Remo
-DESCRIPTION:https://www.thegardencinema.co.uk/
-LOCATION:The Garden Cinema\, London
-URL:https://www.thegardencinema.co.uk/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_15de6c4f1e834b98a40544b742cb112d-occ_55f0cb29267a433e80677d1390b
  9462a@thingstodoinyourcity
 DTSTAMP:20261101T000551Z
@@ -13624,50 +13183,6 @@ SUMMARY:Thursday Night Comedy
 DESCRIPTION:https://www.sohocomedyfactory.com/
 LOCATION:Piccadilly\, London
 URL:https://www.sohocomedyfactory.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25a8b88e4aa24fb5865a1b497206b3de-occ_1c81ccf639aa4415bbd1be11834
- a2d0f@thingstodoinyourcity
-DTSTAMP:20261022T033608Z
-DTSTART:20261105T200000Z
-SUMMARY:Thursday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/thursday-night-comedy-sh
- ow
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/thursday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25a8b88e4aa24fb5865a1b497206b3de-occ_b2969e03d37f4cfdb06d832d55f
- 3e021@thingstodoinyourcity
-DTSTAMP:20261022T033608Z
-DTSTART:20261112T200000Z
-SUMMARY:Thursday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/thursday-night-comedy-sh
- ow
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/thursday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25a8b88e4aa24fb5865a1b497206b3de-occ_6cec6993d77f47bbb4d8f9a141c
- bf744@thingstodoinyourcity
-DTSTAMP:20261022T033608Z
-DTSTART:20261119T200000Z
-SUMMARY:Thursday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/thursday-night-comedy-sh
- ow
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/thursday-night-comedy-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25a8b88e4aa24fb5865a1b497206b3de-occ_588b38967a8c43b78ef1da3e18d
- c14f1@thingstodoinyourcity
-DTSTAMP:20261022T033608Z
-DTSTART:20261126T200000Z
-SUMMARY:Thursday Night Comedy Show
-DESCRIPTION:https://www.londontheatres.com/event/thursday-night-comedy-sh
- ow
-LOCATION:Big Belly Comedy - Southbank\, London
-URL:https://www.londontheatres.com/event/thursday-night-comedy-show
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3219231f96af4d54a9ba6797f2a9c97c-occ_12e0866a451a43f38aa7c20ad3a
@@ -14270,7 +13785,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4814db13cb854361a0b0b5369c243c3c-occ_6c49a4bc9ea94648b3c7233566d
  14ca4@thingstodoinyourcity
-DTSTAMP:20261101T025036Z
+DTSTAMP:20261104T163304Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Joe Daymond: Live in the UK
 DESCRIPTION:https://www.angelcomedy.co.uk/bill-murray/
@@ -15174,6 +14689,86 @@ DESCRIPTION:Led by trained residents\, these walks offer a chance to unwi
 LOCATION:Kensington Gardens\, Kensington High Street W8 5NX United Kingdo
  m\, London
 URL:https://www.rbkc.gov.uk/events/wellbeing-walk-kensington-gardens
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df760eb200ac4b40970342a5758e69cb-occ_87b4b2f5ca9249a9a1c83b26606
+ 55f16@thingstodoinyourcity
+DTSTAMP:20261104T021948Z
+DTSTART:20261106T110000Z
+SUMMARY:Coaching session 4: Financial planning
+DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
+ minology and assess business viability in a small group. This is session
+  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
+ rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
+ ff=odcleoeventsincollection
+LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
+  2DB\, London
+URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
+ ckets-1998251444863?aff=odcleoeventsincollection
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df760eb200ac4b40970342a5758e69cb-occ_c0215755badb4621915d5a03f2b
+ 98917@thingstodoinyourcity
+DTSTAMP:20261104T021948Z
+DTSTART:20261123T110000Z
+SUMMARY:Coaching session 4: Financial planning
+DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
+ minology and assess business viability in a small group. This is session
+  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
+ rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
+ ff=odcleoeventsincollection
+LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
+  2DB\, London
+URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
+ ckets-1998251444863?aff=odcleoeventsincollection
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df760eb200ac4b40970342a5758e69cb-occ_a7ebf759f6fe41238d1c088ffb2
+ 8a229@thingstodoinyourcity
+DTSTAMP:20261104T021948Z
+DTSTART:20261201T100000Z
+SUMMARY:Coaching session 4: Financial planning
+DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
+ minology and assess business viability in a small group. This is session
+  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
+ rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
+ ff=odcleoeventsincollection
+LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
+  2DB\, London
+URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
+ ckets-1998251444863?aff=odcleoeventsincollection
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df760eb200ac4b40970342a5758e69cb-occ_49841b2bd3fc47829c76f1b89d1
+ 2a681@thingstodoinyourcity
+DTSTAMP:20261104T021948Z
+DTSTART:20261216T110000Z
+SUMMARY:Coaching session 4: Financial planning
+DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
+ minology and assess business viability in a small group. This is session
+  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
+ rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
+ ff=odcleoeventsincollection
+LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
+  2DB\, London
+URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
+ ckets-1998251444863?aff=odcleoeventsincollection
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_df760eb200ac4b40970342a5758e69cb-occ_051ca765c1214779b72e61cf8d6
+ 56cd0@thingstodoinyourcity
+DTSTAMP:20261104T021948Z
+DTSTART:20261218T110000Z
+SUMMARY:Coaching session 4: Financial planning
+DESCRIPTION:Learn to build a cashflow forecast\, understand financial ter
+ minology and assess business viability in a small group. This is session
+  4 of 4\, and the sessions are recommended in order.\nhttps://www.eventb
+ rite.com/e/coaching-session-4-financial-planning-tickets-1998251444863?a
+ ff=odcleoeventsincollection
+LOCATION:British Library Business & IP Centre\, 96 Euston Road London NW1
+  2DB\, London
+URL:https://www.eventbrite.com/e/coaching-session-4-financial-planning-ti
+ ckets-1998251444863?aff=odcleoeventsincollection
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_67aacfb694834c22bbc9921986c596e6-occ_dee113e9280048e297cba08f589
@@ -19933,6 +19528,19 @@ LOCATION:Hoxton Cabin\, 132 Kingsland Road\, London\, E2 8DP\, London
 URL:https://www.outsavvy.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a691494c3be34eb0ad80cee53c93bf45-occ_96152dcea7a14b648d5613fe4de
+ 0729b@thingstodoinyourcity
+DTSTAMP:20261104T034245Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Urban Makers Wednesdays
+DESCRIPTION:A midweek market packed with independent makers selling beaut
+ ifully crafted pieces. Check the Urban Makers website for trader details
+ .\nhttps://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
+LOCATION:Old Spitalfields Market\, 16 Horner Square London E1 6EW\, Londo
+ n
+URL:https://oldspitalfieldsmarket.com/events/urban-makers-wednesdays
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_04373982c724489783133130d5efd941-occ_95bd08c62b2b439599f96457d7e
  e7200@thingstodoinyourcity
 DTSTAMP:20261103T223104Z
@@ -21342,6 +20950,216 @@ LOCATION:London
 URL:https://lectures.london/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_27d84c36543b48ca810f178a942
+ 2d05e@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20261118T130000Z
+DTEND:20261118T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f89071e890ce4c72a18def4e00b
+ c6e5a@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20261202T130000Z
+DTEND:20261202T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_3a48921d9a954652b473ebd6f33
+ b691d@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20261216T130000Z
+DTEND:20261216T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f3803a42439d41e2986a3291d8e
+ b1048@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20261230T130000Z
+DTEND:20261230T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_ceb782e7cc1d470692a2410169d
+ 74a34@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270113T130000Z
+DTEND:20270113T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_20104d04faf84323bfbf8279037
+ a23f1@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270127T130000Z
+DTEND:20270127T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_d9537c84d34449cba5847973838
+ 9c276@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270210T130000Z
+DTEND:20270210T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_7bc733f2f5734c48a04cd2c1c78
+ 0aa00@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270224T130000Z
+DTEND:20270224T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_b1d08008d8f54d0eb6039a2e66c
+ fde25@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270310T130000Z
+DTEND:20270310T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_d9c849b3298248129b62cab5437
+ f677b@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270324T130000Z
+DTEND:20270324T150000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_93958adf67264db3b9626abcf79
+ a3707@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270407T120000Z
+DTEND:20270407T140000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_b21059aa724e420ab8fe5ff2bc1
+ f6fee@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270421T120000Z
+DTEND:20270421T140000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_f6baece0e66547a89b94b80129d
+ ef06a@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270505T120000Z
+DTEND:20270505T140000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1f69f98a83bc4c518da0d436db623680-occ_3b1ae79633cc4a249865986abd9
+ 0fa69@thingstodoinyourcity
+DTSTAMP:20261103T223405Z
+DTSTART:20270519T120000Z
+DTEND:20270519T140000Z
+SUMMARY:Age UK digital drop-in
+DESCRIPTION:Free one-to-one help with smartphones\, tablets and laptops f
+ rom trained Age UK Westminster volunteers. Short-term device access may 
+ be available during sessions.\nPrice: Free\nhttps://www.westminster.gov.
+ uk/event/age-uk-digital-drop
+LOCATION:Queens Park Library\, 666 Harrow Road London W10 4NE United King
+ dom\, London
+URL:https://www.westminster.gov.uk/event/age-uk-digital-drop
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d5020f5216934de0b3f30398879ae542-occ_76a311809f4b4e6ba159bcc1439
  73edb@thingstodoinyourcity
 DTSTAMP:20261031T121032Z
@@ -22239,6 +22057,30 @@ DESCRIPTION:Audience suggestions and improvised flair turn into a brand-n
 LOCATION:The Hen & Chickens Theatre\, 109 St Paul's Rd London N1 2NA\, Lo
  ndon
 URL:https://unrestrictedview.co.uk/events/shake-it-up
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_461118ae5ccb4ac8b3f84b81a4833d6b-occ_18afe85b115f4df6aaac0330bd5
+ a4139@thingstodoinyourcity
+DTSTAMP:20261031T234644Z
+DTSTART:20261216T110000Z
+DTEND:20261216T170000Z
+SUMMARY:Urban Makers Guest Market
+DESCRIPTION:https://kilnjewels.co.uk/pages/events
+LOCATION:Old Spitalfields Market\, 16 Horner Square\, London\, E1 6EW\, L
+ ondon
+URL:https://kilnjewels.co.uk/pages/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_461118ae5ccb4ac8b3f84b81a4833d6b-occ_18b450cc914e41b38c2c7cf9dee
+ 0574d@thingstodoinyourcity
+DTSTAMP:20261031T234644Z
+DTSTART:20261223T110000Z
+DTEND:20261223T170000Z
+SUMMARY:Urban Makers Guest Market
+DESCRIPTION:https://kilnjewels.co.uk/pages/events
+LOCATION:Old Spitalfields Market\, 16 Horner Square\, London\, E1 6EW\, L
+ ondon
+URL:https://kilnjewels.co.uk/pages/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b2761ceb10d4524a6f813d4257eb333-occ_1e7d0ee8b5df491ebbc3ec97b74
