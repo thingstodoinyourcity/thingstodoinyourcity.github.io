@@ -3367,7 +3367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a12504c443ca4f0986d38b1d9db55b32-occ_43a4c35a2d724cda918eb2a6121
  c5f84@thingstodoinyourcity
-DTSTAMP:20261104T072640Z
+DTSTAMP:20261105T144918Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20261109
 SUMMARY:On the Sly\, Justinien Tribillon
@@ -4144,7 +4144,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_79fcbe6cd1024f0bac3ef1cfecacc8f6-occ_5b6773b039664af392854c99bad
  af70e@thingstodoinyourcity
-DTSTAMP:20261104T072954Z
+DTSTAMP:20261105T143843Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20261108
 SUMMARY:Art Now: Mohammed Z Rahman
@@ -4157,8 +4157,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_79fcbe6cd1024f0bac3ef1cfecacc8f6-occ_e31552f05d8a4be89a316fbb039
  fde60@thingstodoinyourcity
-DTSTAMP:20261104T072954Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143843Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:Art Now: Mohammed Z Rahman
 DESCRIPTION:Never the Same stages Mohammed Z Rahman's painterly worlds in
@@ -4228,6 +4228,20 @@ UID:cand_6c39534beba8465582752e5baf7eeee6-occ_db244349fcc345cf8455b069f9a
  30d96@thingstodoinyourcity
 DTSTAMP:20261026T150652Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270503
+SUMMARY:Julio Le Parc: Light. Colour. Action.
+DESCRIPTION:Price: £15 / Free for Members\; £13 Concessions\; £5 for T
+ ate Collective\nhttps://www.tate.org.uk/whats-on/tate-modern/julio-le-pa
+ rc
+LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
+ \, London
+URL:https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6c39534beba8465582752e5baf7eeee6-occ_56c6486c0e1e4ef8bd44de8e76b
+ 6e379@thingstodoinyourcity
+DTSTAMP:20261026T150652Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270503
 SUMMARY:Julio Le Parc: Light. Colour. Action.
 DESCRIPTION:Price: £15 / Free for Members\; £13 Concessions\; £5 for T
@@ -4663,6 +4677,21 @@ URL:https://londontheinside.com/location/tate-modern-is-hosting-a-major-e
  xhibition-on-frida-kahlo/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bb803f2209074dc7b6b3a5c702954471-occ_052fc19b11c6419a90879b97629
+ 69753@thingstodoinyourcity
+DTSTAMP:20261021T125345Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270103
+SUMMARY:Frida: The Making of an Icon
+DESCRIPTION:Over 30 of Kahlo's iconic works feature\, alongside garments\
+ , jewellery and memorabilia. Over 200 works by her contemporaries and ar
+ tists she inspired are also shown.\nhttps://londontheinside.com/location
+ /tate-modern-is-hosting-a-major-exhibition-on-frida-kahlo/
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG\, Bankside\, London
+URL:https://londontheinside.com/location/tate-modern-is-hosting-a-major-e
+ xhibition-on-frida-kahlo/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_62d42276efbd444f97f9e09a4015dee0-occ_f4a363f00cbf406486712eff3ac
  4526a@thingstodoinyourcity
 DTSTAMP:20261023T013215Z
@@ -4794,6 +4823,18 @@ UID:cand_38e74a937cf448158cf83cd3350a143a-occ_fa7092e3a2934fac82f9d5108bd
  112e2@thingstodoinyourcity
 DTSTAMP:20261027T151126Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270117
+SUMMARY:Ana Mendieta
+DESCRIPTION:Price: £18 / Free for Members\; £17 Concessions\nhttps://ww
+ w.tate.org.uk/whats-on
+LOCATION:Tate Modern\, Bankside\, London
+URL:https://www.tate.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_38e74a937cf448158cf83cd3350a143a-occ_34be497328d241c2a91e70ce31a
+ 0865a@thingstodoinyourcity
+DTSTAMP:20261027T151126Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270117
 SUMMARY:Ana Mendieta
 DESCRIPTION:Price: £18 / Free for Members\; £17 Concessions\nhttps://ww
@@ -5278,27 +5319,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2e92cd705f0d4d14ab6b6f0070961aee-occ_0708fa3af36543059d347d7735f
  902fe@thingstodoinyourcity
-DTSTAMP:20261104T072723Z
+DTSTAMP:20261105T143037Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20261107
 SUMMARY:Catherine Murphy: Recent Work
 DESCRIPTION:Recent paintings by Catherine Murphy mark her second London s
  olo exhibition. Surreal\, closely observed views draw on her Poughkeepsi
  e home and studio.\nhttps://www.sadiecoles.com/exhibitions/recent-work
-LOCATION:Sadie Coles HQ\, Bury Street\, London
+LOCATION:Sadie Coles HQ\, Bury Street\, Green Park\, London
 URL:https://www.sadiecoles.com/exhibitions/recent-work
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2e92cd705f0d4d14ab6b6f0070961aee-occ_f047fbff2bfd45fcab75d446ebd
  846a1@thingstodoinyourcity
-DTSTAMP:20261104T072723Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143037Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Catherine Murphy: Recent Work
 DESCRIPTION:Recent paintings by Catherine Murphy mark her second London s
  olo exhibition. Surreal\, closely observed views draw on her Poughkeepsi
  e home and studio.\nhttps://www.sadiecoles.com/exhibitions/recent-work
-LOCATION:Sadie Coles HQ\, Bury Street\, London
+LOCATION:Sadie Coles HQ\, Bury Street\, Green Park\, London
 URL:https://www.sadiecoles.com/exhibitions/recent-work
 END:VEVENT
 BEGIN:VEVENT
@@ -5335,7 +5376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dadfb65e7daa43ea9988aaa03446659c-occ_f9624f03278c4e0590ca7c84183
  0bc2c@thingstodoinyourcity
-DTSTAMP:20261104T072832Z
+DTSTAMP:20261105T143235Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lubna Chowdhary: Dohra Shoor
@@ -5346,8 +5387,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dadfb65e7daa43ea9988aaa03446659c-occ_e3e69dd040e24f229c50931630a
  039a2@thingstodoinyourcity
-DTSTAMP:20261104T072832Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143235Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lubna Chowdhary: Dohra Shoor
 DESCRIPTION:https://www.newexhibitions.com/
@@ -5371,7 +5412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c84d6b3a9634581b263bb3fb94a682e-occ_2df159e745b5421f8733f858afa
  b74ea@thingstodoinyourcity
-DTSTAMP:20261104T072413Z
+DTSTAMP:20261105T142844Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20261107
 SUMMARY:Tomoaki Suzuki
@@ -6059,16 +6100,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f1487b7fdfa74c5cb70b90a1791cc4ba-occ_e9b76759f33e45059b36dd5bd2b
  54d6d@thingstodoinyourcity
-DTSTAMP:20261104T073827Z
+DTSTAMP:20261105T144158Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20261114
 SUMMARY:Daido Moriyama: Ink
-DESCRIPTION:Large-format silkscreens made in deep black ink\, either uniq
- ue or in small editions. Moriyama's show draws on his interest in Andy W
- arhol\, duplication and mass production.\nhttps://www.newexhibitions.com
- /e/69272
-LOCATION:Hamiltons Gallery\, 13 Carlos Place London W1K 2EU\, London
-URL:https://www.newexhibitions.com/e/69272
+DESCRIPTION:Large-format silkscreens in deep black ink\, unique or in sma
+ ll editions. Draws on Moriyama's interest in Andy Warhol\, duplication a
+ nd mass production.\nhttps://www.newexhibitions.com/
+LOCATION:Hamiltons Gallery\, 13 Carlos Place\, London\, W1K 2EU\, London
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_164bb47c79d64abb97d4f6e5748
@@ -6209,7 +6249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b78600847d854cc1b5c3286778e44799-occ_b83ebc781a0840cd879128a8696
  1d4d8@thingstodoinyourcity
-DTSTAMP:20261104T072722Z
+DTSTAMP:20261105T143102Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20261107
 SUMMARY:Martine Syms: Knot Eye
@@ -6220,8 +6260,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b78600847d854cc1b5c3286778e44799-occ_23974bd17ceb41ddbcd91644819
  129ec@thingstodoinyourcity
-DTSTAMP:20261104T072722Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143102Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Martine Syms: Knot Eye
 DESCRIPTION:https://www.newexhibitions.com/
@@ -6231,15 +6271,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0cafa76de60b4c3689c45ee8feb899a4-occ_f76e5a3d9b3d4c4b8e8530b33c1
  7575d@thingstodoinyourcity
-DTSTAMP:20261104T073025Z
+DTSTAMP:20261105T144045Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20261114
 SUMMARY:Pastels
 DESCRIPTION:Eight soft-pastel works by Somaya Critchlow soften her uncann
  y portraits of women in interiors. They continue themes from her 2025 Du
  lwich show\, The Chamber.\nhttps://www.newexhibitions.com/
-LOCATION:Maximillian William\, 47 Mortimer Street\, London\, W1W 8HJ\, Lo
- ndon
+LOCATION:Maximillian William\, Oxford Circus\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
@@ -6572,22 +6611,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5bc6ad4b64264fe5a8db257f7d602325-occ_9af55a9d516a4d7f83464c254ce
  63be2@thingstodoinyourcity
-DTSTAMP:20261104T072743Z
+DTSTAMP:20261105T143452Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261109
 SUMMARY:!MEDIENGRUPPE BITNIK | Qwen Stefani Against Techfascism
-DESCRIPTION:https://www.newexhibitions.com/
+DESCRIPTION:Four moving-image works feature the AI character Qwen Stefani
+  preaching on technofascism. Also presented in the gallery's VR counterp
+ art space.\nhttps://www.newexhibitions.com/
 LOCATION:ANNKA KULTYS GALLERY\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5bc6ad4b64264fe5a8db257f7d602325-occ_915e32eaf26a4a6cb7d99753490
  2586a@thingstodoinyourcity
-DTSTAMP:20261104T072743Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143452Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 SUMMARY:!MEDIENGRUPPE BITNIK | Qwen Stefani Against Techfascism
-DESCRIPTION:https://www.newexhibitions.com/
+DESCRIPTION:Four moving-image works feature the AI character Qwen Stefani
+  preaching on technofascism. Also presented in the gallery's VR counterp
+ art space.\nhttps://www.newexhibitions.com/
 LOCATION:ANNKA KULTYS GALLERY\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
@@ -6988,6 +7031,22 @@ LOCATION:Serpentine North Gallery\, W Carriage Dr\, London W2 2AR\, Londo
 URL:https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e2925a7bf4cc48638926a61a4c613021-occ_fab30f9852484d1dbe39f5b7a1c
+ 6bbd9@thingstodoinyourcity
+DTSTAMP:20261021T190834Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270131
+SUMMARY:Amar Kanwar
+DESCRIPTION:A site-specific solo exhibition of new and existing films tha
+ t transforms Serpentine North into a meditative visual and sonic environ
+ ment. Visitors can watch a trilogy including the premiere of The Charcoa
+ l Man.\nPrice: FREE\nhttps://www.serpentinegalleries.org/whats-on/amar-k
+ anwar-exhibition/
+LOCATION:Serpentine North Gallery\, W Carriage Dr\, London W2 2AR\, Londo
+ n
+URL:https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_75477228cbce4cccbaac13835849df0a-occ_1c1fde39ca8f42d3b064d42be91
  98c4d@thingstodoinyourcity
 DTSTAMP:20261031T155036Z
@@ -7006,26 +7065,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4828784b93b14a1486ca491060e14268-occ_9ee8122ed34f4ea1be356dfee74
  052b1@thingstodoinyourcity
-DTSTAMP:20261104T072638Z
+DTSTAMP:20261105T142947Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20261107
 SUMMARY:Elise Nguyen Quoc: sous ultra-vide
-DESCRIPTION:First UK solo show by Paris-based Elise Nguyen Quoc\, with ne
- w works on wood and wood panel. The works depict 'remnants' of visual an
- d physical encounters she photographs.\nhttps://www.newexhibitions.com/
+DESCRIPTION:First UK solo show by Paris-based Elise Nguyen Quoc. New work
+ s on wood panel depict 'remnants' of visual and physical encounters she 
+ photographs.\nhttps://www.newexhibitions.com/
 LOCATION:Herald St\, Bethnal Green\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4828784b93b14a1486ca491060e14268-occ_3e8d21f76547487c9ee27dae607
  4a168@thingstodoinyourcity
-DTSTAMP:20261104T072638Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T142947Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Elise Nguyen Quoc: sous ultra-vide
-DESCRIPTION:First UK solo show by Paris-based Elise Nguyen Quoc\, with ne
- w works on wood and wood panel. The works depict 'remnants' of visual an
- d physical encounters she photographs.\nhttps://www.newexhibitions.com/
+DESCRIPTION:First UK solo show by Paris-based Elise Nguyen Quoc. New work
+ s on wood panel depict 'remnants' of visual and physical encounters she 
+ photographs.\nhttps://www.newexhibitions.com/
 LOCATION:Herald St\, Bethnal Green\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
@@ -7698,6 +7757,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3f5467fb73a149a8a49f8092e5803bd0-occ_11b220a975ab4385af75b32d324
+ 76c1a@thingstodoinyourcity
+DTSTAMP:20261027T161456Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261231
+SUMMARY:The Unclassified
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Korean Cultural Centre\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_52b5a827b53d4c63a2ead343d6f52527-occ_9e0a303c8f3b4e9aabc20ab0aac
  dc1e7@thingstodoinyourcity
 DTSTAMP:20261031T041118Z
@@ -7717,7 +7789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_373cd0b502ff4958a8ac6356ebbfb667-occ_c817cae5083c46d5a5e4e53eb40
  44a30@thingstodoinyourcity
-DTSTAMP:20261104T072832Z
+DTSTAMP:20261105T143818Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20261107
 SUMMARY:George Shaw: Albion Groans - Part Two
@@ -7728,8 +7800,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_373cd0b502ff4958a8ac6356ebbfb667-occ_f7fa01f0cc304fe59f6773643ca
  bde7a@thingstodoinyourcity
-DTSTAMP:20261104T072832Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143818Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:George Shaw: Albion Groans - Part Two
 DESCRIPTION:https://www.newexhibitions.com/
@@ -7906,7 +7978,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d15b5b5a389f4b788cf1004744b6c50a-occ_647f1bf26ac0498eb38a2a4af54
  bf189@thingstodoinyourcity
-DTSTAMP:20261104T072556Z
+DTSTAMP:20261105T144818Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261201
 SUMMARY:Antique to Early Christian (in-person)
@@ -7917,8 +7989,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d15b5b5a389f4b788cf1004744b6c50a-occ_6c518ac3550e449cbb82e78a7c6
  b6393@thingstodoinyourcity
-DTSTAMP:20261104T072556Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144818Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261201
 SUMMARY:Antique to Early Christian (in-person)
 DESCRIPTION:Price: Course price £645.00\nhttps://www.vam.ac.uk/whatson
@@ -7928,7 +8000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_192b9e31cb934881b9cfce6816467e69-occ_1e9e6993e10e4500b652dfdee8f
  6c7fc@thingstodoinyourcity
-DTSTAMP:20261104T072745Z
+DTSTAMP:20261105T144855Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261201
 SUMMARY:Arts of the Islamic World (In-Person)
@@ -7939,8 +8011,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_192b9e31cb934881b9cfce6816467e69-occ_f5c36af5e29b4480b3e53ff9e1b
  fbc02@thingstodoinyourcity
-DTSTAMP:20261104T072745Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144855Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261201
 SUMMARY:Arts of the Islamic World (In-Person)
 DESCRIPTION:Price: Course price £645.00\nhttps://www.vam.ac.uk/whatson
@@ -8044,7 +8116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_20a2bdf0d8d74a6aa3ddce5e69af0871-occ_4b06f8584a1c4c8d86b1ed0281f
  2962e@thingstodoinyourcity
-DTSTAMP:20261104T073121Z
+DTSTAMP:20261105T144935Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261202
 SUMMARY:A History of London: 1066–1666 (In-person)
@@ -8055,8 +8127,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_20a2bdf0d8d74a6aa3ddce5e69af0871-occ_db30e0111d4b4d8bbd83b11257f
  8b846@thingstodoinyourcity
-DTSTAMP:20261104T073121Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144935Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261202
 SUMMARY:A History of London: 1066–1666 (In-person)
 DESCRIPTION:Price: Course price £645.00\nhttps://www.vam.ac.uk/whatson
@@ -8088,7 +8160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_62870df9db7a49fdbfafb74598093631-occ_1f1df5055ad44a8ebe6fe1fccf9
  d8491@thingstodoinyourcity
-DTSTAMP:20261104T073518Z
+DTSTAMP:20261105T144437Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261202
 SUMMARY:Late Medieval (in-person)
@@ -8099,8 +8171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_62870df9db7a49fdbfafb74598093631-occ_beca8676e97c4a19bff52b192a2
  0ab72@thingstodoinyourcity
-DTSTAMP:20261104T073518Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144437Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261202
 SUMMARY:Late Medieval (in-person)
 DESCRIPTION:Price: Course price £645.00\nhttps://www.vam.ac.uk/whatson
@@ -8230,7 +8302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ca7aa144d3194f349073059e1bfff255-occ_0d35fe92993e40ce9dcdbfc4d76
  43152@thingstodoinyourcity
-DTSTAMP:20261104T073217Z
+DTSTAMP:20261105T145031Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261203
 SUMMARY:Baroque to Rococo (In-Person)
@@ -8241,8 +8313,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ca7aa144d3194f349073059e1bfff255-occ_a27a99a2923c4a9689e81192971
  ef97b@thingstodoinyourcity
-DTSTAMP:20261104T073217Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T145031Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261203
 SUMMARY:Baroque to Rococo (In-Person)
 DESCRIPTION:Price: Course price £645.00\nhttps://www.vam.ac.uk/whatson
@@ -8561,14 +8633,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_13ac85e1e60b4082b8257531f3f2d1c1-occ_69d50343855248bfb3034a66d00
  052ca@thingstodoinyourcity
-DTSTAMP:20261104T073052Z
+DTSTAMP:20261105T143941Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261114
 SUMMARY:Bernard Piffaretti: Painting & Caption
-DESCRIPTION:Kate MacGarry presents Bernard Piffaretti's third solo show a
- t the gallery. The French artist was born in 1955.\nhttps://www.newexhib
- itions.com/
-LOCATION:Kate MacGarry\, 27 Old Nichol Street\, London E2 7HR\, London
+DESCRIPTION:It is the French artist Bernard Piffaretti's third solo show 
+ at this gallery. Born in 1955\, he is the featured artist for this exhib
+ ition.\nhttps://www.newexhibitions.com/
+LOCATION:Kate MacGarry\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
@@ -8700,7 +8772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a4ea78ec7d1d44fe910ea61b935d8264-occ_29a2fbf73746456e9d1cdf1bcc1
  42b12@thingstodoinyourcity
-DTSTAMP:20261104T072700Z
+DTSTAMP:20261105T142918Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261107
 SUMMARY:Koak: Still Weather
@@ -8713,8 +8785,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a4ea78ec7d1d44fe910ea61b935d8264-occ_47bd4e80fcf542ca80933d3029c
  c109e@thingstodoinyourcity
-DTSTAMP:20261104T072700Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T142918Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Koak: Still Weather
 DESCRIPTION:Koak's figures and landscapes use mastery of line to explore 
@@ -8737,17 +8809,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_211915ceb5a3485cae3ad8893c3ebe4f-occ_1c51137c2c5c4184ae82f21b2de
  b8fd6@thingstodoinyourcity
-DTSTAMP:20261021T214020Z
+DTSTAMP:20261105T153243Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20270411
 SUMMARY:Ossie Clark + Celia Birtwell
 DESCRIPTION:Price: £12.65 (Concessions may apply)\nhttps://fashiontextil
- emuseum.org/exhibitionsdisplays/ossie-clark-celia-birtwell/?date_from=20
- 261002&date_to=20270411
-LOCATION:Fashion and Textile Museum\, 83 Bermondsey Street London SE1 3XF
- \, London
-URL:https://fashiontextilemuseum.org/exhibitionsdisplays/ossie-clark-celi
- a-birtwell/?date_from=20261002&date_to=20270411
+ emuseum.org/whats-on
+LOCATION:Fashion and Textile Museum\, London
+URL:https://fashiontextilemuseum.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f4555aeeb2ab449d80378f5b99f2ee03-occ_621ce1b8c9f44aab99a09fe60d7
@@ -8966,7 +9035,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2770c16ebc5148af89acfe84a7eb545f-occ_2e6d47f69d6946ccb572f99482a
  ea100@thingstodoinyourcity
-DTSTAMP:20261104T073022Z
+DTSTAMP:20261105T143914Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261107
 SUMMARY:A BALLAD
@@ -8979,8 +9048,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2770c16ebc5148af89acfe84a7eb545f-occ_ac2e28dfc8c64a61a7c7199b24a
  71172@thingstodoinyourcity
-DTSTAMP:20261104T073022Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143914Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:A BALLAD
 DESCRIPTION:Amanda Seibæk's paintings and sculptures turn whale research
@@ -9262,16 +9331,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_529077d62a424c6788e9524be7bea908-occ_eb3d5fb88cc046bdb0df48cfd53
  85029@thingstodoinyourcity
-DTSTAMP:20261021T214019Z
+DTSTAMP:20261105T153333Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20270411
 SUMMARY:Sequinology
 DESCRIPTION:Price: Free (with exhibition ticket)\nhttps://fashiontextilem
- useum.org/museumevents/sequinology/?date_from=20261003&date_to=20270411
-LOCATION:Fashion and Textile Museum\, 83 Bermondsey Street London SE1 3XF
- \, London
-URL:https://fashiontextilemuseum.org/museumevents/sequinology/?date_from=
- 20261003&date_to=20270411
+ useum.org/whats-on
+LOCATION:Fashion and Textile Museum\, London
+URL:https://fashiontextilemuseum.org/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0953fb44e73045308adc73dd0e9c825b-occ_4f9207ed7ad141b2b5ada3dbe4c
@@ -9433,17 +9500,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6deae07b4f6e4e4faeba1d32d83f8643-occ_f9c0c3d951504413b577230c2a7
  7c3f8@thingstodoinyourcity
-DTSTAMP:20261027T070827Z
-DTSTART:20261005T100000Z
-DTEND:20270510T140000Z
+DTSTAMP:20261105T145119Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20270510
 SUMMARY:NVAP Schools’ Screen: Autumn 2026 – Summer 2027
-DESCRIPTION:Registered schools can watch archived live theatre recordings
-  from the National Video Archive of Performance onsite. Groups of 10 to 
- 100 students per screening.\nPrice: £150.00\nhttps://www.vam.ac.uk/even
- t/6QYKj08N/sk-nvap-schools-screen-autumn-2026-2027
-LOCATION:V&A South Kensington\, Cromwell Road London\, SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/6QYKj08N/sk-nvap-schools-screen-autumn-20
- 26-2027
+DESCRIPTION:Price: Tickets cost £150.00\nhttps://www.vam.ac.uk/whatson
+LOCATION:V&A South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9544e7bc267247b99deb2ded5e89654b-occ_346954b5b6a243fba42f4ed9458
@@ -9658,6 +9721,21 @@ UID:cand_b9f88d29bd304b95b91cfe4b41eb0293-occ_cb0c3bd047c24c70acda862a193
  7b581@thingstodoinyourcity
 DTSTAMP:20261022T151601Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270110
+SUMMARY:Katherine Hubbard: The Great Room at Studio Voltaire
+DESCRIPTION:Hubbard's first solo show outside the US mixes photography an
+ d sculpture. It explores mother-daughter ties and the shifting bond betw
+ een photographer and subject.\nhttps://www.wallpaper.com/art/exhibitions
+ -shows/london-art-exhibitions
+LOCATION:Studio Voltaire\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f88d29bd304b95b91cfe4b41eb0293-occ_50b2ee0533044cccb8a9163de9e
+ 9cdd3@thingstodoinyourcity
+DTSTAMP:20261022T151601Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270110
 SUMMARY:Katherine Hubbard: The Great Room at Studio Voltaire
 DESCRIPTION:Hubbard's first solo show outside the US mixes photography an
@@ -10112,6 +10190,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_94919bbb90ca453d9c1ea4fd545b587a-occ_056aafc5ec274208865c4c92d68
+ 6940c@thingstodoinyourcity
+DTSTAMP:20261022T150126Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270110
+SUMMARY:Justin Caguiat: Change Ringing
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Serpentine North Gallery\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_c4b6bbbcf00d4d0f8495af85874
  acf7a@thingstodoinyourcity
 DTSTAMP:20261022T021337Z
@@ -10176,6 +10267,21 @@ UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_74273eeeba1a4ffeb52494cf47f
  5e093@thingstodoinyourcity
 DTSTAMP:20261022T021337Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+SUMMARY:Khalif Tahir Thompson: Send in the Clowns
+DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
+ e representing him. Vibrant domestic scenes draw on his Brooklyn childho
+ od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
+ ompson-london-2026/
+LOCATION:London Gallery II\, London
+URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
+ n-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_413f635e063d4feca8a974e0e3a
+ 5996f@thingstodoinyourcity
+DTSTAMP:20261022T021337Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Khalif Tahir Thompson: Send in the Clowns
 DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
@@ -10344,6 +10450,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_63c59aac13864335a1a393fb84793d6b-occ_50b2a4c7494045509c2a87132c3
+ 977a5@thingstodoinyourcity
+DTSTAMP:20261022T143222Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+SUMMARY:Revisiting: Fernweh\, or Nostalgia for Unknown Lands
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:The Hellenic Centre\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4efb3f6d84b14e74a013813ec5c7afb7-occ_2d841368e0744b5584ffcc590ac
  fcc95@thingstodoinyourcity
 DTSTAMP:20261027T155651Z
@@ -10408,6 +10527,19 @@ UID:cand_dcfcfa0873a4478e8272d29d6bd6b8c1-occ_fc6ec7f408f94351af00c7b2373
  e1a2a@thingstodoinyourcity
 DTSTAMP:20261028T085648Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270228
+SUMMARY:Robert Ryman: The Real Thing
+DESCRIPTION:Price: Standard £20.50 (£19 + £1.50 transaction fee)\nhttp
+ s://www.barbican.org.uk/whats-on/2026/event/robert-ryman-the-real-thing
+LOCATION:Barbican\, EC2\, London
+URL:https://www.barbican.org.uk/whats-on/2026/event/robert-ryman-the-real
+ -thing
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dcfcfa0873a4478e8272d29d6bd6b8c1-occ_2713fb33172e488daddbbf9c5ed
+ 4d96d@thingstodoinyourcity
+DTSTAMP:20261028T085648Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270228
 SUMMARY:Robert Ryman: The Real Thing
 DESCRIPTION:Price: Standard £20.50 (£19 + £1.50 transaction fee)\nhttp
@@ -10678,16 +10810,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_257bdabd422a4d4c9125eab30ff4c418-occ_4159ae05842c4fb788906623fe7
  309e4@thingstodoinyourcity
-DTSTAMP:20261104T073827Z
+DTSTAMP:20261105T144241Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261114
 SUMMARY:Joanna Piotrowska: Wyrwa
 DESCRIPTION:New works draw on childhood drawings\, family negatives and h
  ometown snapshots\, mounted in steel\, aluminium and glass. Glass recurs
-  as a protective yet fragile material.\nhttps://www.newexhibitions.com/e
- /69275
-LOCATION:Phillida Reid\, 10 - 16 Grape Street London WC2H 8DY\, London
-URL:https://www.newexhibitions.com/e/69275
+  as a protective yet fragile material.\nhttps://www.newexhibitions.com/
+LOCATION:Phillida Reid\, 10 - 16 Grape Street\, London\, WC2H 8DY\, Londo
+ n
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_83a50b4a4ebe4162b47ac2d8bfd7e01a-occ_e35a7cf6d0b84a43815e11134ad
@@ -10905,26 +11037,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5fb4460441ed44e1b10c7b7369dde5df-occ_e0f6afa165d749f0be00b1dedff
  0aa5d@thingstodoinyourcity
-DTSTAMP:20261104T072701Z
+DTSTAMP:20261105T143033Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261107
 SUMMARY:Charlie Adams: Stroma Funk
-DESCRIPTION:Charlie Adams' first Union Gallery show explores a primordial
- \, ooze-like plant aesthetic. It mixes science\, magic and the supernatu
- ral with deep-earth rhythms.\nhttps://www.newexhibitions.com/
+DESCRIPTION:Charlie Adams’ first exhibition with the gallery explores a
+  primordial\, ooze-like plant aesthetic. It blends science\, magic and t
+ he supernatural with deep-earth rhythms.\nhttps://www.newexhibitions.com
+ /
 LOCATION:Union Gallery\, Bethnal Green\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5fb4460441ed44e1b10c7b7369dde5df-occ_9d8aac7f6e5344c1b118d0a2f33
  7fb03@thingstodoinyourcity
-DTSTAMP:20261104T072701Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T143033Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:Charlie Adams: Stroma Funk
-DESCRIPTION:Charlie Adams' first Union Gallery show explores a primordial
- \, ooze-like plant aesthetic. It mixes science\, magic and the supernatu
- ral with deep-earth rhythms.\nhttps://www.newexhibitions.com/
+DESCRIPTION:Charlie Adams’ first exhibition with the gallery explores a
+  primordial\, ooze-like plant aesthetic. It blends science\, magic and t
+ he supernatural with deep-earth rhythms.\nhttps://www.newexhibitions.com
+ /
 LOCATION:Union Gallery\, Bethnal Green\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
@@ -11274,7 +11408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_601fd3a4c2304410b5d918b792142d72-occ_6c856101bb354445a06fb9ef3c5
  f7307@thingstodoinyourcity
-DTSTAMP:20261104T073946Z
+DTSTAMP:20261105T144604Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261129
 SUMMARY:British Theatre 2026: An Overview
@@ -11449,6 +11583,17 @@ UID:cand_51b200e0db834997ae8d7a83dd58e168-occ_f0bc1d1982d142eb8ee06203fa6
  6d8c3@thingstodoinyourcity
 DTSTAMP:20261104T150332Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261122
+SUMMARY:Fernando Botero: In Praise of an Amplified World
+DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
+LOCATION:Opera Gallery\, London West End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_51b200e0db834997ae8d7a83dd58e168-occ_c005cec95ab74bfea564e3cbe66
+ 691c6@thingstodoinyourcity
+DTSTAMP:20261104T150332Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261122
 SUMMARY:Fernando Botero: In Praise of an Amplified World
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
@@ -11746,6 +11891,19 @@ UID:cand_1ffcd83514df43ab9135919c1aa00f80-occ_229cfec7b573436ba66308d3178
  b6b06@thingstodoinyourcity
 DTSTAMP:20261022T135939Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261223
+SUMMARY:Cindy Sherman : Fabrix Matrons
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Hauser & Wirth London\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1ffcd83514df43ab9135919c1aa00f80-occ_37a0e997baa74b3e86ebcb55b89
+ 69bce@thingstodoinyourcity
+DTSTAMP:20261022T135939Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261223
 SUMMARY:Cindy Sherman : Fabrix Matrons
 DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
@@ -12287,6 +12445,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4edbff4842e34cb3a1bc656b0c929427-occ_b6721f88079b4c3a8e31ea0a3f9
+ 6ff9f@thingstodoinyourcity
+DTSTAMP:20261022T140021Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270221
+SUMMARY:Sanlé Sory: Colour Years
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:The Photographers Gallery\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8103ca138813471e97218719a87b283a-occ_ff80b47778d545b6aa5ed3ce388
  02fbf@thingstodoinyourcity
 DTSTAMP:20261023T013603Z
@@ -12408,15 +12579,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_eb0a90594ffc481f99b0be4f3114cd63-occ_b4fea111c5b14c06aa04d70ea6f
  6199a@thingstodoinyourcity
-DTSTAMP:20261104T073240Z
+DTSTAMP:20261105T144123Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261114
 SUMMARY:William Crozier: Dance of the Living 1961–1974
-DESCRIPTION:Crozier left his late-1950s dark pastoral style behind for co
- ntemporary figure and landscape images. Shaped by post-war existentialis
- m\, the show traces this pivotal shift in his work.\nhttps://www.newexhi
- bitions.com/
-LOCATION:Flowers\, 21 Cork St\, London\, W1S 3LZ\, London
+DESCRIPTION:Crozier left his late-1950s dark pastoral style for contempor
+ ary figure and landscape images. Shaped by post-war existentialism\, the
+  show traces this pivotal shift.\nhttps://www.newexhibitions.com/
+LOCATION:Flowers\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
@@ -14448,7 +14618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_369f4d8b2fab4496b814c004387c4f34-occ_f00f080cb98e48b68fd9cf9e1e5
  ab9a4@thingstodoinyourcity
-DTSTAMP:20261104T072204Z
+DTSTAMP:20261105T144723Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270110
 SUMMARY:Aziza Kadyri - Sender Unknown
@@ -14460,8 +14630,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_369f4d8b2fab4496b814c004387c4f34-occ_ebf0a626645047afadc4345c85f
  18988@thingstodoinyourcity
-DTSTAMP:20261104T072204Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144723Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270110
 SUMMARY:Aziza Kadyri - Sender Unknown
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -14606,7 +14776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_8dc22e0982994c3cb74db902a5a
  13ed8@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
+DTSTAMP:20261105T144639Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
@@ -14617,7 +14787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_0ed1b04f28534537a017e5a7b8c
  997ce@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
+DTSTAMP:20261105T144639Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
@@ -14628,7 +14798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_30ff663a1e4a4ffc8f6d518681f
  89ead@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
+DTSTAMP:20261105T144639Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
@@ -14639,7 +14809,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_c8584090c9ce42ceb3a44ff903e
  7dcac@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
+DTSTAMP:20261105T144639Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
@@ -14650,7 +14820,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_8e50da00eada4ace9eecf9ed1e3
  6096f@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
+DTSTAMP:20261105T144639Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
@@ -14661,9 +14831,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_655e280f0516444d8e7bbe2b006bbc82-occ_eceaf109354045459f40b63e664
  83bcb@thingstodoinyourcity
-DTSTAMP:20261104T072122Z
-DTSTART:20261103T100000Z
-DTEND:20270404T170000Z
+DTSTAMP:20261105T144639Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20270404
 SUMMARY:Dispersal: Picturing Urban Change in East London
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
 LOCATION:V&A East Museum\, London
@@ -14837,7 +15007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7ffa5b03f6ae462c94d0a70e786aeb30-occ_83f1371eaacf4364a93b59356da
  711db@thingstodoinyourcity
-DTSTAMP:20261104T072348Z
+DTSTAMP:20261105T144723Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270530
 SUMMARY:Golden Threads: Dress from Saudi Arabia
@@ -14848,8 +15018,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7ffa5b03f6ae462c94d0a70e786aeb30-occ_e73a884bf4274874bf603ef0b79
  3ea14@thingstodoinyourcity
-DTSTAMP:20261104T072348Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144723Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270530
 SUMMARY:Golden Threads: Dress from Saudi Arabia
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -14859,7 +15029,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f17758457cef4e71842fdd982b87c3fe-occ_572de0c91e054199ba4966add7e
  fff55@thingstodoinyourcity
-DTSTAMP:20261104T073238Z
+DTSTAMP:20261105T145031Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261231
 SUMMARY:Highlights of the V&A
@@ -14870,8 +15040,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f17758457cef4e71842fdd982b87c3fe-occ_f3e48acdedc6495787730afc417
  81922@thingstodoinyourcity
-DTSTAMP:20261104T073238Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T145031Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261231
 SUMMARY:Highlights of the V&A
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -14892,7 +15062,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5a01b4fa395d4a5a96736a42d1e2304a-occ_68894d946843438e8637040740b
  cb5f7@thingstodoinyourcity
-DTSTAMP:20261104T072320Z
+DTSTAMP:20261105T144701Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270311
 SUMMARY:Metalworking Now (2026-27)
@@ -14903,8 +15073,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5a01b4fa395d4a5a96736a42d1e2304a-occ_e9a26992a9c54d148dec572fd32
  fe10e@thingstodoinyourcity
-DTSTAMP:20261104T072320Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144701Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270311
 SUMMARY:Metalworking Now (2026-27)
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -14938,7 +15108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b10dd77d3b4a41efa2e688e960b97dba-occ_6a0b209771e74707aed871fdbbe
  f406d@thingstodoinyourcity
-DTSTAMP:20261104T071953Z
+DTSTAMP:20261105T145118Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261108
 SUMMARY:Sahra Hersi Selects
@@ -14949,8 +15119,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b10dd77d3b4a41efa2e688e960b97dba-occ_be8d4bbbf41f4900852b483d397
  348ad@thingstodoinyourcity
-DTSTAMP:20261104T071953Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T145118Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:Sahra Hersi Selects
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -14960,7 +15130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b8d5a4a863d4a459e4ffd1674ecb076-occ_94c8940f74744c79b67428d1945
  a3dab@thingstodoinyourcity
-DTSTAMP:20261104T072805Z
+DTSTAMP:20261105T144818Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270228
 SUMMARY:Saodat Ismailova: Melted Into the Sun
@@ -14971,8 +15141,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b8d5a4a863d4a459e4ffd1674ecb076-occ_8b92baea66aa44379dd3a1a7ce9
  7aef8@thingstodoinyourcity
-DTSTAMP:20261104T072805Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144818Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270228
 SUMMARY:Saodat Ismailova: Melted Into the Sun
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -15015,29 +15185,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_096a05c15aeb4d21bb433ad62026ba07-occ_4508f80d14c34b7f9927c8f38d0
  8a3b4@thingstodoinyourcity
-DTSTAMP:20261104T072413Z
+DTSTAMP:20261105T144755Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20270509
 SUMMARY:Sun Artists: A Serial of Artistic Photography
-DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
+DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_096a05c15aeb4d21bb433ad62026ba07-occ_e3e882f703fb47b69f408ed2586
  84a16@thingstodoinyourcity
-DTSTAMP:20261104T072413Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144755Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270509
 SUMMARY:Sun Artists: A Serial of Artistic Photography
-DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
+DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a38ff36e5371485f840ecc7516094881-occ_3468eebad77347fbb2f8c4894e1
  648ad@thingstodoinyourcity
-DTSTAMP:20261104T072441Z
+DTSTAMP:20261105T144755Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261108
 SUMMARY:Tom Hunter Selects
@@ -15048,8 +15218,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a38ff36e5371485f840ecc7516094881-occ_d497e288c79b4246a46c735fc45
  0d649@thingstodoinyourcity
-DTSTAMP:20261104T072441Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T144755Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:Tom Hunter Selects
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -15059,7 +15229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9900cee420734d27913b3e2265d1bb6e-occ_3f914d6e2ad84a0e977e57725b9
  d84ce@thingstodoinyourcity
-DTSTAMP:20261104T073136Z
+DTSTAMP:20261105T145005Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261231
 SUMMARY:Tour: Designing the V&A - The Story of our Museum
@@ -15070,8 +15240,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9900cee420734d27913b3e2265d1bb6e-occ_e140f9b78daf40e488184899d47
  0f30d@thingstodoinyourcity
-DTSTAMP:20261104T073136Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T145005Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261231
 SUMMARY:Tour: Designing the V&A - The Story of our Museum
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
@@ -15155,7 +15325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_2b453072f97c401397c5cd044d7
  417d4@thingstodoinyourcity
-DTSTAMP:20261104T073050Z
+DTSTAMP:20261105T145005Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20270116
 SUMMARY:Freddie Mercury | Splendid Things
@@ -15166,8 +15336,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3a61e3a98f1a40f4a2bd4cf1f6f747ec-occ_3e51210938c34b7c8027fd24156
  baa2a@thingstodoinyourcity
-DTSTAMP:20261104T073050Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261105T145005Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20270117
 SUMMARY:Freddie Mercury | Splendid Things
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -16329,6 +16499,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9385d944a2f14dba87fb01c3d5537590-occ_f1b38c4148e34ff28079c762723
+ f1e10@thingstodoinyourcity
+DTSTAMP:20261027T161234Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+SUMMARY:Carmen Herrera
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Lisson Gallery\, London\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_59610d88d40741689fc22ebaef101343-occ_1ccdd198ab4643db971d37c9035
  ed3e8@thingstodoinyourcity
 DTSTAMP:20261028T123709Z
@@ -16609,6 +16792,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ce10d02bfd7c4d7aaf74bdc9ebb16f4a-occ_4ea22a988e6148eb8775f80c60e
+ f9c7f@thingstodoinyourcity
+DTSTAMP:20261027T160949Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270124
+SUMMARY:LIVING MULTIPLICITY: Nour Malas
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:The Arts Club\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e19ec874088344acbc98a368f6672388-occ_1c4aaa2a11004e6bb27ce5c9c6d
  08689@thingstodoinyourcity
 DTSTAMP:20261027T081159Z
@@ -16761,6 +16957,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d0bb6cc3d12b461a8c3233ec89b8a249-occ_4867543dcbce4925a7c5dc35c20
+ 6d19e@thingstodoinyourcity
+DTSTAMP:20261027T160828Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261115
+SUMMARY:Renée Levi: September
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:The Southbank Centre’s Hayward Gallery\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4300607fe6ef4c5a804f45181ff25e14-occ_4b9e797abb5e4826b596b517c8b
  c77a3@thingstodoinyourcity
 DTSTAMP:20261027T213621Z
@@ -16862,6 +17071,20 @@ UID:cand_c033e04bea90410abff5c05fb34a18d7-occ_2dfcc5bf5ec245e68766340443f
  1cb3d@thingstodoinyourcity
 DTSTAMP:20261027T160947Z
 DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261128
+SUMMARY:The Royal Society of Sculptors Summer exhibition\, curated by Hen
+ ry Holland
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Royal Society of Sculptors\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c033e04bea90410abff5c05fb34a18d7-occ_e7664cc212d149ab962f4abc684
+ 9d322@thingstodoinyourcity
+DTSTAMP:20261027T160947Z
+DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261128
 SUMMARY:The Royal Society of Sculptors Summer exhibition\, curated by Hen
  ry Holland
@@ -18264,6 +18487,21 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1167f432736e4d0cbf4684ae552131bc-occ_3d0741184bec496bb29cb8fde7f
+ 3e052@thingstodoinyourcity
+DTSTAMP:20261029T072416Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270214
+SUMMARY:'The 90s: Art and Fashion’\, curated by Edward Enninful
+DESCRIPTION:Treats fashion as fine art\, spotlighting collaborative spiri
+ t\, photography and artists. Wallpaper* talks with Enninful and Juergen 
+ Teller about their early careers.\nhttps://www.wallpaper.com/art/exhibit
+ ions-shows/london-art-exhibitions
+LOCATION:Tate Britain\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_572a96ce8f974a839501ab78c1cc91b0-occ_4dd9231e69d94d21b2a9ac1bf0e
  fc8dc@thingstodoinyourcity
 DTSTAMP:20261030T063843Z
@@ -19287,6 +19525,19 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2b3d60f725c84271a6c5a2743129ad93-occ_d0fb3d0a110d48a19a6da005c16
+ 3d953@thingstodoinyourcity
+DTSTAMP:20261029T072420Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261212
+SUMMARY:‘Lumps and Bumps’
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Rose Easton\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7063a90c9d5e43c0b5384da89f492beb-occ_b3bd1dc88f82449f9087eafdb15
  5ee0b@thingstodoinyourcity
 DTSTAMP:20261027T194102Z
@@ -19398,6 +19649,19 @@ UID:cand_226ce11783bd4cf0b7d9778f00f3a114-occ_a5ffa0ffc57342b892c4251e067
 DTSTAMP:20261023T074149Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20270620
+SUMMARY:Agatha Christie: A World of Mystery
+DESCRIPTION:Price: From £25 (peak) and £20–23 (off-peak). Concessions
+  available. Members go free.\nhttps://events.bl.uk/exhibitions/agathachr
+ istie
+LOCATION:British Library\, London\, London
+URL:https://events.bl.uk/exhibitions/agathachristie
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_226ce11783bd4cf0b7d9778f00f3a114-occ_3242089f7f9840e79c7a85c6763
+ 6d39d@thingstodoinyourcity
+DTSTAMP:20261023T074149Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270630
 SUMMARY:Agatha Christie: A World of Mystery
 DESCRIPTION:Price: From £25 (peak) and £20–23 (off-peak). Concessions
   available. Members go free.\nhttps://events.bl.uk/exhibitions/agathachr
@@ -24187,6 +24451,20 @@ LOCATION:Westfield London\, White City\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_38f4730971fa4c72b7aadc914365f2a7-occ_9429a9563b32453995b05faf9f6
+ 774f2@thingstodoinyourcity
+DTSTAMP:20261103T074754Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261123
+SUMMARY:The Hunger Games
+DESCRIPTION:Step into the world of Panem at The Capitol Experience\, an i
+ mmersive pop-up. Entry is free\, as listed in a roundup of free London t
+ hings to do.\nPrice: FREE\nhttps://www.tiktok.com/discover/free-pop-ups-
+ in-london?lang=en
+LOCATION:Westfield London\, White City\, London
+URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_72d877c501c4470b9b25d7ee11dc203f-occ_cf454577794547fa928cd304dc2
  b38bd@thingstodoinyourcity
 DTSTAMP:20261102T102333Z
@@ -24992,19 +25270,6 @@ LOCATION:London
 URL:https://www.rbo.org.uk/tickets-and-events?page=1
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_827fc9ec4b224ee1b2f1c5589cc22c39-occ_37f1c95e4c1e4fff9fd9f4e9334
- a5fa5@thingstodoinyourcity
-DTSTAMP:20261104T072503Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20270106
-SUMMARY:Christmas 2026
-DESCRIPTION:Festive events\, a creative Christmas tree and design-led gif
- ts in the V&A Shop. Browse the season's highlights\, events and in-depth
-  features.\nPrice: Free\nhttps://www.vam.ac.uk/whatson
-LOCATION:V&A South Kensington\, London
-URL:https://www.vam.ac.uk/whatson
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b6f3b65f1d214a418c6acc2cabf3f04a-occ_0b6d2d43b8934181baa5fc3a910
  b018b@thingstodoinyourcity
 DTSTAMP:20261031T213118Z
@@ -25085,17 +25350,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c04dfad13744476bb3ad559db69cf667-occ_2dba4c1c79774c24b884adddff3
  4dd1c@thingstodoinyourcity
-DTSTAMP:20261031T225644Z
+DTSTAMP:20261105T153310Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261223
 SUMMARY:Highlights Tour - Ossie Clark + Celia Birtwell
 DESCRIPTION:Enjoy a guided tour of the current exhibition with a voluntee
- r guide. Exhibition entry is included in your ticket.\nPrice: Adult £12
- .65 (including donation) + £0.50 booking fee\; Child under 12 Free\; Ca
- rer Free\; Reciprocal Agreement Free\nhttps://fashiontextilemuseum.digit
- ickets.co.uk/event-tickets/83649?catID=71515
-LOCATION:Fashion and Textile Museum\, 83 Bermondsey Street London SE1 3XF
- \, London
+ r guide. Exhibition entry is included in your ticket\, and tours run on 
+ Wednesdays.\nPrice: Adult £12.65 (including donation) + £0.50 booking 
+ fee\; Child under 12 Free\; Carer Free\; Reciprocal Agreement Free\nhttp
+ s://fashiontextilemuseum.digitickets.co.uk/event-tickets/83649?catID=715
+ 15
+LOCATION:Fashion and Textile Museum\, London
 URL:https://fashiontextilemuseum.digitickets.co.uk/event-tickets/83649?ca
  tID=71515
 END:VEVENT
@@ -25417,17 +25682,6 @@ DESCRIPTION:Prue and classmate Curtis enter a magical forest to rescue he
  station.com/film/wildwood
 LOCATION:The Cinema in The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/wildwood
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_aea65dcec5b24481b71067ace9fc74ef-occ_1ded87b156ac4c3c979553f6c01
- 5268c@thingstodoinyourcity
-DTSTAMP:20261104T073356Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261217
-SUMMARY:upperground: DJ sets
-DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
-LOCATION:V&A East Museum\, London
-URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4ab937e11c34436d90d8deb59c2cef34-occ_39d25d02095347548f00b495682
@@ -26030,6 +26284,19 @@ LOCATION:Kit Kat Club at the Playhouse Theatre\, Northumberland Avenue\,
 URL:https://londontheatrehub.co.uk/shows/cabaret/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_827fc9ec4b224ee1b2f1c5589cc22c39-occ_37f1c95e4c1e4fff9fd9f4e9334
+ a5fa5@thingstodoinyourcity
+DTSTAMP:20261105T144838Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Christmas 2026
+DESCRIPTION:Festive events\, a creative Christmas tree and design-led gif
+ ts in the V&A Shop. Browse the season's highlights\, events and in-depth
+  features.\nPrice: Free\nhttps://www.vam.ac.uk/whatson
+LOCATION:V&A South Kensington\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1912a5c664b84808b1db290fcf7f2164-occ_8759759cab514fa9bbe67e24e12
  33a83@thingstodoinyourcity
 DTSTAMP:20261102T023955Z
@@ -26061,6 +26328,20 @@ SUMMARY:Common Ghosts
 DESCRIPTION:https://aptstudios.org/20262027commonghosts
 LOCATION:6 Creekside\, Harold Wharf\, Deptford\, London
 URL:https://aptstudios.org/20262027commonghosts
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7db93db5b83241c59809fc69737ffcd7-occ_0e93b32885d04b99a2810171618
+ 4ca6c@thingstodoinyourcity
+DTSTAMP:20261105T145317Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261218
+SUMMARY:Dialogues: Wilhelmina Barns-Graham x Haroun Hayward
+DESCRIPTION:Second Dialogues show at Hales\, pairing new Haroun Hayward w
+ orks with Barns-Graham material from the 1950s on. Coincides with her Ta
+ te St Ives retrospective.\nhttps://www.newexhibitions.com/e/69399
+LOCATION:Hales\, The Tea Building London E1 6LA\, Shoreditch High Street\
+ , Liverpool Street\, London
+URL:https://www.newexhibitions.com/e/69399
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8913bf32af764126ae06ee08f503ce8e-occ_79581b903b034cf89356f9e12c8
@@ -26834,14 +27115,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_65becc3216a8427d89467a18233352d9-occ_be2b37d6a7ef426388c3c40065e
  a07e9@thingstodoinyourcity
-DTSTAMP:20261104T073356Z
+DTSTAMP:20261105T145054Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261218
 SUMMARY:Play After School (Nov-Dec 2026)
-DESCRIPTION:Free family drop-in play sessions on Thursdays and Fridays in
-  term time\, led by Play Champions. Activities range from design challen
- ges and building to board games.\nPrice: Free\nhttps://www.vam.ac.uk/wha
- tson
+DESCRIPTION:Free family drop-in play on Thursdays and Fridays in term tim
+ e\, led by Play Champions. Activities change weekly\, from design challe
+ nges and building to board games.\nPrice: Free\nhttps://www.vam.ac.uk/wh
+ atson
 LOCATION:Young V&A\, Bethnal Green\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
@@ -26923,7 +27204,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_db3cbf335ad74eb4bb72703976501bf3-occ_81ff6bf6b3db4d708d354c495f7
  dec82@thingstodoinyourcity
-DTSTAMP:20261104T073459Z
+DTSTAMP:20261105T145055Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261218
 SUMMARY:Sound Explorers (Nov-Dec 2026)
@@ -27328,12 +27609,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_2c156b0e3ec14f12a97d96835f2621f8-occ_b284adc1c9444bb9b55b8573b92
  867c0@thingstodoinyourcity
-DTSTAMP:20261104T074210Z
+DTSTAMP:20261105T144640Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261126
 SUMMARY:Young V&A Schools: SEND school workshops - EYFS-KS3 (Autumn 2026)
 DESCRIPTION:Price: £50.00\nhttps://www.vam.ac.uk/whatson
 LOCATION:Young V&A\, London
+URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_aea65dcec5b24481b71067ace9fc74ef-occ_1ded87b156ac4c3c979553f6c01
+ 5268c@thingstodoinyourcity
+DTSTAMP:20261105T145142Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261217
+SUMMARY:upperground: DJ sets
+DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
+LOCATION:V&A East Museum\, Upper Ground\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
@@ -28729,6 +29021,32 @@ LOCATION:London Walthamstow Trades Hall\, London
 URL:https://www.londontheatres.com/event/hand-leg-comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d0227fce38174d459caa2ff56d3b6b20-occ_84861033946f45a68017ebca313
+ be7ea@thingstodoinyourcity
+DTSTAMP:20261105T162833Z
+DTSTART:20261106T193000Z
+SUMMARY:Manon
+DESCRIPTION:Kenneth MacMillan's 1974 ballet\, set to Jules Massenet's sco
+ re\, explores Manon's turmoil and struggle for survival. Nicholas Georgi
+ adis's designs bring her decadent Paris to life.\nPrice: £9 - £207*\nh
+ ttps://www.rbo.org.uk/production/manon-kenneth-macmillan
+LOCATION:Main Stage\, London
+URL:https://www.rbo.org.uk/production/manon-kenneth-macmillan
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d0227fce38174d459caa2ff56d3b6b20-occ_b5c5eed3809e45a493dcefcd2c8
+ e6b4c@thingstodoinyourcity
+DTSTAMP:20261105T162833Z
+DTSTART:20261107T130000Z
+SUMMARY:Manon
+DESCRIPTION:Kenneth MacMillan's 1974 ballet\, set to Jules Massenet's sco
+ re\, explores Manon's turmoil and struggle for survival. Nicholas Georgi
+ adis's designs bring her decadent Paris to life.\nPrice: £9 - £207*\nh
+ ttps://www.rbo.org.uk/production/manon-kenneth-macmillan
+LOCATION:Main Stage\, London
+URL:https://www.rbo.org.uk/production/manon-kenneth-macmillan
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4ee61e76e59d47c89ab640b256aec98a-occ_dedac071936d48c88489bef0c11
  5b9ad@thingstodoinyourcity
 DTSTAMP:20261105T094839Z
@@ -29461,7 +29779,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_bef2a8e5909c43efb59239c92993fb1a-occ_630bf34f307245fdbe28e633cc8
  ea0ae@thingstodoinyourcity
-DTSTAMP:20261104T073647Z
+DTSTAMP:20261105T143912Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261212
 SUMMARY:Katie Shannon: BACK/PRUNE/VIRGIN/RUIN
@@ -29998,7 +30316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_09252f564556497a933ada9da9d6d79d-occ_a4a8831acc544255879fb08a5bb
  d660b@thingstodoinyourcity
-DTSTAMP:20261104T073627Z
+DTSTAMP:20261105T144437Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:Living Pictures: Victorians on Film (In Person)
@@ -30474,7 +30792,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cc802158b27a417389a3dd8e3c73ce99-occ_7d1a1786124649baa0fbd2176c9
  56c3f@thingstodoinyourcity
-DTSTAMP:20261104T073724Z
+DTSTAMP:20261105T144332Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261115
 SUMMARY:The Contemporary British Painting Prize 2026
@@ -30915,16 +31233,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3c25048f8f8544deb7d00b8dd85cd71d-occ_8184556f07114e02a0d48712c58
  42c4f@thingstodoinyourcity
-DTSTAMP:20261104T073757Z
+DTSTAMP:20261105T144157Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261219
 SUMMARY:William Brickel: Something Revealed
-DESCRIPTION:William Brickel's first solo exhibition with the gallery. Pic
- tures each capture a single instant from an imagined play\, like a held 
- breath after a cue.\nhttps://www.newexhibitions.com/e/69447
-LOCATION:Cedric Bardawil\, 1–3 Old Compton Street London W1D 5JB\, Lond
- on
-URL:https://www.newexhibitions.com/e/69447
+DESCRIPTION:Brickel's first solo show with the gallery. Each picture hold
+ s a single instant from an imagined play\, like a held breath after a cu
+ e.\nhttps://www.newexhibitions.com/
+LOCATION:Cedric Bardawil\, 1–3 Old Compton Street\, London W1D 5JB\, Lo
+ ndon
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_24b203ff808545caabaa6ab2843a7dbe-occ_dfaf8ba9f2304f35a6c1dc0c2d1
@@ -30988,246 +31306,6 @@ DESCRIPTION:An expert guide shows Harry Potter filming spots like the Mil
 LOCATION:Southwark Viewpoint\, Minerva Square (Behind Southwark Cathedral
  )\, London\, SE1 9DF\, London
 URL:https://feverup.com/m/600534
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_707ee859b9fd4177aef5796b434
- 04f60@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_879b30e652a64b359626f4bfec1
- 9f9b7@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261107T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8ce3793ce6144337a8fe6216066
- 92c70@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261107T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8f4aff301e8340dcb3f868f7d8b
- 57835@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7671f183b9ce49438218ac61116
- 71057@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261108T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fcc024fe5fc748f097dcd2bbd88
- dccf4@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261108T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_34adf2501fc54e06a90d7e908b0
- c9fd0@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_654e7c7959a04601b055fc708bd
- e0395@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261114T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_b20c67b8ec564da793e5e23211b
- c56f2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261114T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_e62a592ed9b3472ea7588b97128
- be071@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7cefb1d889404238bd4149669bb
- e4ccb@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261115T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7f14556e895843f289063908062
- 69bde@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261115T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f6e8e82707184e93945f3f78879
- 45656@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8753ffcac41c41219dffe7cfd76
- 8ad7e@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261121T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_a929977277ea400289ad4624095
- e1b66@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261121T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f81cc651034a488f9036226c428
- bf15c@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_0faea4ff656f4c70adfc21723e3
- 89dfc@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261122T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_238ab0706a3b4816a2fff9a0227
- adeee@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261122T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_cf5400a6313f461a99509cd595c
- dd14a@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_4a7eed83193848ea949cceadeb3
- fe2c2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261128T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_66f8901fae8643e8bc43963e8b6
- 80da2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261128T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fc0ef84330ef4b98ba390516fc2
- f051c@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261129
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_44b356343f844ceca95758a9602
- 76ecf@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261129T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9b9076e831514f4aab5385dbf57
- 04ac0@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261129T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9f491476595a4e65973bd4c8fba5e45a-occ_d66b5dd81396462a883381412ad
@@ -31779,6 +31857,16 @@ DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28009/
 LOCATION:Forest Walthamstow\, Screen 2\, The Forest Cinema\, 267 High Str
  eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28009/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_73920d8a996946b68cea2366e7f8f5d3-occ_21d3f786a6f04c26976d7915d88
+ 1e7bc@thingstodoinyourcity
+DTSTAMP:20261105T150457Z
+DTSTART:20261107T155000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:https://www.regentstreetcinema.com/now-playing/
+LOCATION:Regent Street Cinema\, London
+URL:https://www.regentstreetcinema.com/now-playing/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_94c791e8b98d451db42f02ce4edb66d4-occ_24f0ecab1a7e4d6cab4a93546fc
@@ -34816,7 +34904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d61683f1e7d7414f9ba57760cae0265e-occ_fe4c525810934f789ddfb704f12
  75308@thingstodoinyourcity
-DTSTAMP:20261104T074315Z
+DTSTAMP:20261105T145140Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20270509
 SUMMARY:Constantinople to Istanbul: One City\, Two Empires
@@ -36208,14 +36296,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ed9cbbf947b64130a7c3c3aaa6a4d175-occ_4f9dd8b5ab5646b694f45b67d31
  5eb30-2026-11-07@thingstodoinyourcity
-DTSTAMP:20261104T073442Z
+DTSTAMP:20261105T145207Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Members' Morning View: Constantinople to Istanbul: One City\, Two
   Empires
 DESCRIPTION:Members get exclusive out-of-hours access to this UK-first ex
- hibition charting 1\,600 years of history. Outside previews\, they can v
- isit without booking.\nPrice: Free event\nhttps://www.vam.ac.uk/event/pD
- oR12r5/members-morning-view-constantinople-to-istanbul
+ hibition charting 1\,600 years of history. Outside previews\, Members ca
+ n visit without booking.\nPrice: Free event\nhttps://www.vam.ac.uk/event
+ /pDoR12r5/members-morning-view-constantinople-to-istanbul
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/event/pDoR12r5/members-morning-view-constantino
  ple-to-istanbul
@@ -36223,14 +36311,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ed9cbbf947b64130a7c3c3aaa6a4d175-occ_4f9dd8b5ab5646b694f45b67d31
  5eb30-2026-11-08@thingstodoinyourcity
-DTSTAMP:20261104T073442Z
+DTSTAMP:20261105T145207Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Members' Morning View: Constantinople to Istanbul: One City\, Two
   Empires
 DESCRIPTION:Members get exclusive out-of-hours access to this UK-first ex
- hibition charting 1\,600 years of history. Outside previews\, they can v
- isit without booking.\nPrice: Free event\nhttps://www.vam.ac.uk/event/pD
- oR12r5/members-morning-view-constantinople-to-istanbul
+ hibition charting 1\,600 years of history. Outside previews\, Members ca
+ n visit without booking.\nPrice: Free event\nhttps://www.vam.ac.uk/event
+ /pDoR12r5/members-morning-view-constantinople-to-istanbul
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/event/pDoR12r5/members-morning-view-constantino
  ple-to-istanbul
@@ -36493,7 +36581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_09dc9694b6aa4b4ba5cabd83bfe64dae-occ_3d61b4f7772f4566a684a3fb30b
  05d08@thingstodoinyourcity
-DTSTAMP:20261104T073421Z
+DTSTAMP:20261105T145209Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Play Saturdays (Sept-Dec 2026)
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -36503,7 +36591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_09dc9694b6aa4b4ba5cabd83bfe64dae-occ_2fb440bf13834cb4870c11f8413
  e5ee3@thingstodoinyourcity
-DTSTAMP:20261104T073421Z
+DTSTAMP:20261105T145209Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Play Saturdays (Sept-Dec 2026)
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -36513,7 +36601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_09dc9694b6aa4b4ba5cabd83bfe64dae-occ_d9191c3de47944d6a158aed2b28
  9b8f0@thingstodoinyourcity
-DTSTAMP:20261104T073421Z
+DTSTAMP:20261105T145209Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Play Saturdays (Sept-Dec 2026)
 DESCRIPTION:Price: Free\nhttps://www.vam.ac.uk/whatson
@@ -36537,12 +36625,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d43c2b7a6c3648f2b0edacb1b8891d6e-occ_08a9af0245f14cfbb08ee2ac686
  eae09@thingstodoinyourcity
-DTSTAMP:20261104T074228Z
+DTSTAMP:20261105T145256Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Power of Play Together (Nov 2026)
 DESCRIPTION:Drop in for creative family play in the Community Room. It ce
- lebrates the culmination of the Power of Play programme for children in 
- Tower Hamlets.\nPrice: Free\nhttps://www.vam.ac.uk/whatson
+ lebrates the culmination of the Power of Play programme in Tower Hamlets
+ .\nPrice: Free\nhttps://www.vam.ac.uk/whatson
 LOCATION:Young V&A\, Bethnal Green\, London\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
@@ -37372,6 +37460,18 @@ URL:https://www.soas.ac.uk/about/event/studyin-global-university-fair-tha
  iland
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_989fd48be93f453caa161a637c530704-occ_e14450464b244f54b24f1740747
+ 5910d@thingstodoinyourcity
+DTSTAMP:20261105T164029Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:TEDxLafia
+DESCRIPTION:This independently organized TEDx event brings the community 
+ together to share ideas worth spreading. It is open to the public.\nhttp
+ s://www.ted.com/tedx/events/70509
+LOCATION:Lafia\, Nigeria\, London
+URL:https://www.ted.com/tedx/events/70509
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7cecaf95aa0a4cdf9300ef9b2ad78073-occ_47afc602a8374388be25d68e6b0
  18373@thingstodoinyourcity
 DTSTAMP:20261104T081343Z
@@ -37384,6 +37484,20 @@ LOCATION:ATATÜRK KONGRE KÜLTÜR MERKEZİ MERİMOS HÜDAVENDİGAR SALONU
  \, Atatürk Kültür Merkezi\, Merinos Yerleşkesi Osmangazi / BURSA\, B
  ursa\, Bursa\, Türkiye\, London
 URL:https://www.ted.com/tedx/events/67292
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1564a2202ac642c3b04676953e991a00-occ_b4a07733f89843bcb172aec116c
+ 91aa3@thingstodoinyourcity
+DTSTAMP:20261105T164236Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:TEDxWassakara
+DESCRIPTION:An independently organized TEDx event bringing the community 
+ together to share ideas worth spreading. The event is open to the public
+ .\nhttps://www.ted.com/tedx/events/69577
+LOCATION:Magestic Cosmos\, Yopougon\, Abidjan\, Lagunes (Région des)\, C
+ ôte d'Ivoire\, Abidjan\, Lagunes (Région des)\, Côte d'Ivoire\, Londo
+ n
+URL:https://www.ted.com/tedx/events/69577
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e7e7d2ca46d04698b5d369b366bc4fcd-occ_065e690778d245af981c5ecd93b
@@ -37644,6 +37758,246 @@ DESCRIPTION:Ages 5 to 12 explore Chinese poetry through bilingual learnin
  ww.gold.ac.uk/calendar/?id=16239
 LOCATION:RHB 141\, Richard Hoggart Building\, London
 URL:https://www.gold.ac.uk/calendar/?id=16239
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8ce3793ce6144337a8fe6216066
+ 92c70@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9a59f104d99f4eeb84c7200db85
+ 59dd0@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261107T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_ffaf83adcd814636b782cf3343e
+ 24119@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261107T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fcc024fe5fc748f097dcd2bbd88
+ dccf4@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_2cf70359c3a14499a493416ee77
+ 3afb9@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261108T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_afd77efd4c7244f8ae9ab6f60e3
+ 3e76a@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261108T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_b20c67b8ec564da793e5e23211b
+ c56f2@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_3f062e9e48b7495c9d202438099
+ 58dd9@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261114T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_a113162e14fc437e94de55c5391
+ 2a527@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261114T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_e62a592ed9b3472ea7588b97128
+ be071@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_700b56f984784e70b6bef491655
+ d89ff@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261115T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_db1c79082d4f46fbb5cc6c1f2ff
+ b3533@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261115T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f6e8e82707184e93945f3f78879
+ 45656@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_c275875437334a97b8875caca84
+ 908d6@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261121T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_da532eeda6c340749d1f9fc46f9
+ 42c1e@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261121T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f81cc651034a488f9036226c428
+ bf15c@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_448d0a7a97d144e49e195bf30d0
+ 8205f@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261122T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_e58af08b84bb4501b830580d025
+ d96c2@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261122T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_cf5400a6313f461a99509cd595c
+ dd14a@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9f1be76343a64ed482838869d43
+ 1e99c@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261128T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_a045d70e9b564d9ea3793ac7fe8
+ bd6f3@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261128T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fc0ef84330ef4b98ba390516fc2
+ f051c@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8b35d03a1e2c4a658a9b39e6f06
+ 9c6d4@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261129T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_dcaa65be804f4adda2628bc8fc1
+ f6613@thingstodoinyourcity
+DTSTAMP:20261105T142809Z
+DTSTART:20261129T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_932d9ac7260f450b98dd0dce14b9a843-occ_8ff5e2f624cb4eeb92389f11e31
@@ -42432,6 +42786,17 @@ LOCATION:Tabard Theatre \, 2 Bath Road\, Chiswick W4 1LW\, Chiswick\, Lon
 URL:https://www.wherecanwego.com/whats-on/clerkenwell
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b69b61053367410aad729486ebf2ef49-occ_add373a10242444e96c41476459
+ a1f93@thingstodoinyourcity
+DTSTAMP:20261105T161812Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261121
+SUMMARY:Carmen
+DESCRIPTION:https://www.rbo.org.uk/tickets-and-events?page=1
+LOCATION:Multiple venues\, London
+URL:https://www.rbo.org.uk/tickets-and-events?page=1
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2f21fa7f3c6f4347bb11f700dbe694d0-occ_f6c53d49a12e4d42941e68319cd
  c31f3@thingstodoinyourcity
 DTSTAMP:20261105T070558Z
@@ -44943,6 +45308,16 @@ DESCRIPTION:Graham Cole\, aka PC Tony Stamp\, is the first guest announce
  union-18/
 LOCATION:The Cinema Museum\, London
 URL:https://cinemamuseum.org.uk/scheduled/the-bill-reunion-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2d3d034f28c409995682b9b5cb6c7b2-occ_a1cd8cbe212c4481b80b73f03af
+ 6b166@thingstodoinyourcity
+DTSTAMP:20261105T150324Z
+DTSTART:20261108T140000Z
+SUMMARY:UK Premiere: The Magic of It All - The Story of Strawbs with Q&A
+DESCRIPTION:https://www.regentstreetcinema.com/now-playing/
+LOCATION:Regent Street Cinema\, London
+URL:https://www.regentstreetcinema.com/now-playing/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_89a303fd669f4ef198579f48be8bb87e-occ_2d438f593c6a4aa08cfb9c60970
