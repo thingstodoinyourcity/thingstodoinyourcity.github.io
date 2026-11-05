@@ -3592,17 +3592,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ca0e8445671487daba66d8155b06e2d-occ_343214e9f9d14611be6b4b22dcf
  5fa5f@thingstodoinyourcity
-DTSTAMP:20261027T154959Z
-DTSTART:20260420T100000Z
+DTSTAMP:20261105T034549Z
+DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20261231
 SUMMARY:REZON8: Free recording sessions
-DESCRIPTION:Free sessions for 14-25 year olds to record\, write and devel
- op music with REZON8. Sessions last 90 minutes\, with two staff members 
- to support recording and check-ins.\nPrice: Free sessions\nhttps://www.s
- hapeslewisham.co.uk/events/735/
-LOCATION:The Albany\; Richard MacVicar Adventure Playground\, SE8 4AG\; S
- E8 3JB\, London
-URL:https://www.shapeslewisham.co.uk/events/735/
+DESCRIPTION:Price: Free sessions\nhttps://www.shapeslewisham.co.uk/events
+LOCATION:The Albany\; Richard MacVicar Adventure Playground\, London
+URL:https://www.shapeslewisham.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_71a9e513f2e14701bb500f14b8b13a5d-occ_7cfa876b0cae4c499abac35d400
@@ -4240,62 +4236,6 @@ URL:https://londontheinside.com/location/explore-quentin-blakes-theatrica
  l-influences-at-this-exhibition
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_fffcfdffb4994299ad78330292f700a9-occ_6522ea98f0e34da69218784e79c
- 6471a@thingstodoinyourcity
-DTSTAMP:20261027T154934Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20261205
-SUMMARY:Jazz Saturdays
-DESCRIPTION:Drop in for free live jazz in the garden oasis or over café 
- lunch. A family-friendly break from the bustle of Deptford market.\nPric
- e: £0.00\nhttps://www.thealbany.org.uk/events/jazz-saturdays
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, Deptford\, Londo
- n
-URL:https://www.thealbany.org.uk/events/jazz-saturdays
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fffcfdffb4994299ad78330292f700a9-occ_c41bb30ab83642ceb7ebc10c67e
- a8de5@thingstodoinyourcity
-DTSTAMP:20261027T154934Z
-DTSTART:20261107T130000Z
-DTEND:20261107T140000Z
-SUMMARY:Jazz Saturdays
-DESCRIPTION:Drop in for free live jazz in the garden oasis or over café 
- lunch. A family-friendly break from the bustle of Deptford market.\nPric
- e: £0.00\nhttps://www.thealbany.org.uk/events/jazz-saturdays
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, Deptford\, Londo
- n
-URL:https://www.thealbany.org.uk/events/jazz-saturdays
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fffcfdffb4994299ad78330292f700a9-occ_627764bc60b44672b64a5ffc82a
- ba200@thingstodoinyourcity
-DTSTAMP:20261027T154934Z
-DTSTART:20261121T130000Z
-DTEND:20261121T140000Z
-SUMMARY:Jazz Saturdays
-DESCRIPTION:Drop in for free live jazz in the garden oasis or over café 
- lunch. A family-friendly break from the bustle of Deptford market.\nPric
- e: £0.00\nhttps://www.thealbany.org.uk/events/jazz-saturdays
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, Deptford\, Londo
- n
-URL:https://www.thealbany.org.uk/events/jazz-saturdays
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fffcfdffb4994299ad78330292f700a9-occ_a61ab6450d234b2aa43466e4fe3
- d532e@thingstodoinyourcity
-DTSTAMP:20261027T154934Z
-DTSTART:20261205T130000Z
-DTEND:20261205T140000Z
-SUMMARY:Jazz Saturdays
-DESCRIPTION:Drop in for free live jazz in the garden oasis or over café 
- lunch. A family-friendly break from the bustle of Deptford market.\nPric
- e: £0.00\nhttps://www.thealbany.org.uk/events/jazz-saturdays
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, Deptford\, Londo
- n
-URL:https://www.thealbany.org.uk/events/jazz-saturdays
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_6c39534beba8465582752e5baf7eeee6-occ_69fd942872874c04ac2e0cec76f
  8e788@thingstodoinyourcity
 DTSTAMP:20261026T150652Z
@@ -4792,7 +4732,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c05fe9c0f8b432ba9fe18c7c8f99363-occ_c8fec62dbe84463892b6251a9bb
  b268d@thingstodoinyourcity
-DTSTAMP:20261104T020600Z
+DTSTAMP:20261105T033326Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20270117
 SUMMARY:American Revolution: 250 Years from the Declaration of Independen
@@ -5652,6 +5592,20 @@ URL:https://howtoacademy.com/events/simon-sebag-montefiore-the-making-of-
  the-modern-middle-east/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e2376fa6a24a46e5aca4e180b85de733-occ_ae78c7fdb975437495d02bcd13d
+ 57583@thingstodoinyourcity
+DTSTAMP:20261105T042007Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20261202
+SUMMARY:Art4U2 Autumn Classes
+DESCRIPTION:Mixed media classes led by Ginny Hawke and Gerry Cassidy\, us
+ ing oil\, acrylic\, collage and pastels. Term starts with water as a the
+ me\, then Christmas crafts.\nPrice: Fees £8 (cash)\nhttps://www.towerha
+ mletsarts.org.uk/?guide=events&cat=45
+LOCATION:The Brady Arts and Community Centre\, London
+URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9ae91eb83cde4985b43427c5229d7a75-occ_beb9275415af41b8b300d0afdaf
  fce0e@thingstodoinyourcity
 DTSTAMP:20261029T173049Z
@@ -6171,7 +6125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_164bb47c79d64abb97d4f6e5748
  fa969@thingstodoinyourcity
-DTSTAMP:20261104T020544Z
+DTSTAMP:20261105T040044Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261108
 SUMMARY:Dark Arts
@@ -6182,7 +6136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_097ded473e4b4eed9827244f4be
  f68c1@thingstodoinyourcity
-DTSTAMP:20261104T020544Z
+DTSTAMP:20261105T040044Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271107
 SUMMARY:Dark Arts
@@ -7578,33 +7532,15 @@ URL:https://www.galleriesnow.net/shows/emrys-williams-what-seas-what-shor
  es-what-grey-rocks/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e2cad121770c4490bf59fc3a808475e7-occ_44cc235d17ec4b26bb2ad63b534
- 4b735@thingstodoinyourcity
-DTSTAMP:20261027T155145Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261213
-SUMMARY:Evelyn Taocheng Wang: Being Poetic Ruins Life
-DESCRIPTION:Wang’s first UK institutional exhibition spans the whole bu
- ilding\, with new commissions. Paintings\, textiles\, installation and v
- ideo explore Britain\, Agnes Martin and Eileen Chang.\nhttps://goldsmith
- scca.art/exhibition/evelyn-taocheng-wang/
-LOCATION:Goldsmiths CCA\, St James'\, New Cross\, St James’\, New Cross
-  London SE14 6AD\, St James’\, New Cross\, London
-URL:https://goldsmithscca.art/exhibition/evelyn-taocheng-wang/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_e2cad121770c4490bf59fc3a808475e7-occ_b54b1cb22e7145df92f72ad713a
  0d2a8@thingstodoinyourcity
-DTSTAMP:20261027T155145Z
+DTSTAMP:20261105T034805Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261213
 SUMMARY:Evelyn Taocheng Wang: Being Poetic Ruins Life
-DESCRIPTION:Wang’s first UK institutional exhibition spans the whole bu
- ilding\, with new commissions. Paintings\, textiles\, installation and v
- ideo explore Britain\, Agnes Martin and Eileen Chang.\nhttps://goldsmith
- scca.art/exhibition/evelyn-taocheng-wang/
+DESCRIPTION:https://goldsmithscca.art/exhibition/evelyn-taocheng-wang/
 LOCATION:Goldsmiths CCA\, St James'\, New Cross\, St James’\, New Cross
-  London SE14 6AD\, St James’\, New Cross\, London
+ \, London
 URL:https://goldsmithscca.art/exhibition/evelyn-taocheng-wang/
 END:VEVENT
 BEGIN:VEVENT
@@ -8706,6 +8642,20 @@ LOCATION:Kate MacGarry\, 27 Old Nichol Street\, London E2 7HR\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_833dc2840c4047deacb3eb63c47453ba-occ_ffaeaca58f3045279fc4ef0deb6
+ 41737@thingstodoinyourcity
+DTSTAMP:20261105T050624Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261204
+SUMMARY:D/deaf Cafe
+DESCRIPTION:A free\, informal BSL conversation session with drinks and a 
+ key guest presentation each month. Drop in when you can and stay for a s
+ hort while.\nPrice: FREE\nhttps://www.towerhamletsarts.org.uk/?guide=eve
+ nts&cat=45
+LOCATION:Gallery Cafe\, London
+URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_373c2735b6624c43b91a00394e328a0f-occ_86111f1ef0f741149ea837bdee6
  3d707@thingstodoinyourcity
 DTSTAMP:20261023T025525Z
@@ -9084,20 +9034,6 @@ LOCATION:The Courtauld\, WC1\, London
 URL:https://courtauld.ac.uk/whats-on/exh-salman-toor-someone-like-you/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_833dc2840c4047deacb3eb63c47453ba-occ_ffaeaca58f3045279fc4ef0deb6
- 41737@thingstodoinyourcity
-DTSTAMP:20261030T013300Z
-DTSTART:20261002T150000Z
-DTEND:20261204T190000Z
-SUMMARY:D/deaf Cafe
-DESCRIPTION:A free\, informal BSL conversation session with drinks and a 
- key guest presentation each month. Drop in when you can.\nPrice: FREE\nh
- ttps://www.towerhamletsarts.org.uk/?guide=events&cat=45&cid=81553
-LOCATION:Gallery Cafe\, St Margarets House\, Old Ford Road\, London\, E2 
- 9PL\, London
-URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45&cid=81553
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2770c16ebc5148af89acfe84a7eb545f-occ_2e6d47f69d6946ccb572f99482a
  ea100@thingstodoinyourcity
 DTSTAMP:20261104T073022Z
@@ -9323,16 +9259,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_64fc053a92444f02ab878b6303dac251-occ_7a7b926807e941b29d8aa84c9b5
  936c5@thingstodoinyourcity
-DTSTAMP:20261027T154607Z
+DTSTAMP:20261105T034452Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261122
 SUMMARY:Probability Clouds: Body in a Potential Field [ H\, H′ ]
-DESCRIPTION:A group show exploring displacement through quantum mechanics
- . Presence is imagined as dispersed\, with the body's boundaries extendi
- ng into the spaces it inhabits.\nhttps://www.shapeslewisham.co.uk/events
- /1248/
-LOCATION:London
-URL:https://www.shapeslewisham.co.uk/events/1248/
+DESCRIPTION:https://www.shapeslewisham.co.uk/events
+LOCATION:SHAPESLewisham\, London
+URL:https://www.shapeslewisham.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b882db9ee233493db2e504a04425076d-occ_c8100c40de5943d897793aa543e
@@ -13070,13 +13003,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c3c88759e57e427a88088a7bafccfa00-occ_a5cd82659aca4736a42cec2a95a
  d9e9e@thingstodoinyourcity
-DTSTAMP:20261104T022955Z
+DTSTAMP:20261105T042007Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261205
 SUMMARY:A Team Arts Education: Explore Autumn Art and Design Programme
-DESCRIPTION:For ages 11–19\, explores ‘Urban Narratives’ via art\, 
- craft and storytelling. Spaces are limited\, so book ahead.\nPrice: FREE
- \nhttps://www.towerhamletsarts.org.uk/?guide=events&cat=45
+DESCRIPTION:Targeted at ages 11–19\, this programme explores ‘Urban N
+ arratives’ through art\, craft and storytelling. Spaces are limited\, 
+ so book ahead.\nPrice: FREE\nhttps://www.towerhamletsarts.org.uk/?guide=
+ events&cat=45
 LOCATION:The Brady Arts and Community Centre\, London
 URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45
 END:VEVENT
@@ -22426,6 +22360,18 @@ LOCATION:London
 URL:https://www.vam.ac.uk/season/2026/digital-art-season-on-agency
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e566753c9c824396abd15977de966f15-occ_b6d3ceee59694f0abc435ea3997
+ 731b2@thingstodoinyourcity
+DTSTAMP:20261105T034521Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261130
+SUMMARY:Imagined Worlds Exhibition
+DESCRIPTION:Price: Free admission. Open during library opening hours.\nht
+ tps://www.shapeslewisham.co.uk/events
+LOCATION:Catford Library\, London
+URL:https://www.shapeslewisham.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8aee2fc5730747aca2d065faa5f402ea-occ_90c8694acd89478682b73eac1ff
  8f915@thingstodoinyourcity
 DTSTAMP:20261024T231314Z
@@ -22987,6 +22933,17 @@ DESCRIPTION:A multi-venue\, panlingual fringe festival in London featurin
  ival
 LOCATION:AUDITORIUM\, Gateforth Street\, London NW8 8EH\, London
 URL:https://www.thecockpit.org.uk/voilafestival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fd11de9a09a04f87bddd8756c255d5a2-occ_069e8f4a8d7f46c5860fd018ac1
+ d0cbd@thingstodoinyourcity
+DTSTAMP:20261105T030336Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261121
+SUMMARY:Voila! Festival '26
+DESCRIPTION:https://space.org.uk/whats-on
+LOCATION:The Space\, London
+URL:https://space.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4a739346c9b64fdd883cb9c7ce22c447-occ_a66b73c0a4b047489e1db8c4a86
@@ -25812,13 +25769,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4e3dbfcf081e4c5fb8a37c175da1225c-occ_70c6dc74a94f49918caab0c6f27
  47b51@thingstodoinyourcity
-DTSTAMP:20261031T221022Z
+DTSTAMP:20261105T034857Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261115
 SUMMARY:Common Ghosts
-DESCRIPTION:Deluxe collective's first full exhibition explores zones of u
- ncertainty\, haunting and perception. It closes with an afternoon of per
- formance on 15 November.\nhttps://aptstudios.org/20262027commonghosts
+DESCRIPTION:https://aptstudios.org/20262027commonghosts
 LOCATION:6 Creekside\, Harold Wharf\, Deptford\, London
 URL:https://aptstudios.org/20262027commonghosts
 END:VEVENT
@@ -26323,6 +26278,36 @@ LOCATION:The Mayor Gallery\, London West End\, London
 URL:https://www.galleriesnow.net/shows/miguel-chevalier-beyond-retina
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c37e8686382f49bbb48c2ca4f00c1097-occ_016cc469a58e452c80e4bfe8931
+ 1baa9@thingstodoinyourcity
+DTSTAMP:20261105T044014Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:NAZA
+DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this documentary exa
+ mines civilian casualties in Israel's Gaza operations. It premiered at V
+ enice\, winning the Special Jury Prize.\nPrice: Standard £14.50\; Suppo
+ rter £15.50\; Concession £13.50\; CEA carer (standard ticket required)
+  £0.00\; Member £11.95\; Member Supporter £12.95\; Free member ticket
+  £0.00\nhttps://castlecinema.admit-one.co.uk/seats/18276/
+LOCATION:Castle Hackney\, Hackney\, London
+URL:https://castlecinema.admit-one.co.uk/seats/18276/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c37e8686382f49bbb48c2ca4f00c1097-occ_53dae650dae7435c9dc1688db20
+ 73fa7@thingstodoinyourcity
+DTSTAMP:20261105T044014Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:NAZA
+DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this documentary exa
+ mines civilian casualties in Israel's Gaza operations. It premiered at V
+ enice\, winning the Special Jury Prize.\nPrice: Standard £14.50\; Suppo
+ rter £15.50\; Concession £13.50\; CEA carer (standard ticket required)
+  £0.00\; Member £11.95\; Member Supporter £12.95\; Free member ticket
+  £0.00\nhttps://castlecinema.admit-one.co.uk/seats/18276/
+LOCATION:Castle Hackney\, Hackney\, London
+URL:https://castlecinema.admit-one.co.uk/seats/18276/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_295f7e1b548c48d29436c390f6de9b7c-occ_76a3a3258eb1404c98a49c43da5
  19b10@thingstodoinyourcity
 DTSTAMP:20261104T203453Z
@@ -26552,296 +26537,110 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3f77c6fa31534e8282e363db036c1d6c-occ_cf8cd5b9d73e40ca89a317159d3
  bdcbe@thingstodoinyourcity
-DTSTAMP:20261103T014519Z
+DTSTAMP:20261105T043839Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261221
 SUMMARY:The Ever After Garden
-DESCRIPTION:More than 30\,000 illuminated white roses\, each dedicated to
-  someone who has died\, fill the square. Walking through is free\, and t
- he garden is in aid of the Royal Marsden Cancer Charity.\nPrice: Free to
-  walk through. Dedicating a rose starts at a suggested £15 minimum dona
- tion\nhttps://www.londonxlondon.com/ever-after-garden-duke-of-york-squar
- e
+DESCRIPTION:More than 30\,000 illuminated white roses fill the square\, e
+ ach dedicated to someone who has died. Walking through is free\; dedicat
+ ions support the Royal Marsden Cancer Charity.\nPrice: Free to walk thro
+ ugh. Dedicating a rose starts at a suggested £15 minimum donation\nhttp
+ s://www.londonxlondon.com/whats-on
 LOCATION:Duke of York Square\, Chelsea\, London
-URL:https://www.londonxlondon.com/ever-after-garden-duke-of-york-square
+URL:https://www.londonxlondon.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_dea2bac583604f1d8887cbaa4a2
- 6095f@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
+UID:cand_3f77c6fa31534e8282e363db036c1d6c-occ_e36d58aaedb04eff9b9f81b2f14
+ c4f21@thingstodoinyourcity
+DTSTAMP:20261105T043839Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261221
+SUMMARY:The Ever After Garden
+DESCRIPTION:More than 30\,000 illuminated white roses fill the square\, e
+ ach dedicated to someone who has died. Walking through is free\; dedicat
+ ions support the Royal Marsden Cancer Charity.\nPrice: Free to walk thro
+ ugh. Dedicating a rose starts at a suggested £15 minimum donation\nhttp
+ s://www.londonxlondon.com/whats-on
+LOCATION:Duke of York Square\, Chelsea\, London
+URL:https://www.londonxlondon.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_f8ecb7f376054643bb57a8108c9
  16071@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261107T103000Z
+DTSTAMP:20261105T033449Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_232cad3a6bb5472b8899584ec89
- 30d91@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261107T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_6a699dccaafc4c0d93e421cb1e5
- 51945@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261107T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e64636d40e6a4856baf282ed77c
  66f58@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
+DTSTAMP:20261105T033449Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_19ed755960b849dc82682bab1e4
- ebea8@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261108T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_02bd97b53e054f1badf88d3e1c4
- 815b8@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261108T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_e03938b5a4db441981c2f84b88d
  ffd3d@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
+DTSTAMP:20261105T033449Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_87c1e7cc6931494c86130f9bb55
- 53fda@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261114T103000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_4af62e2357ef4b7b8045a9dcc3a
- 1fd9d@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261114T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_d6e95c449e894cfe9226bad47d1
- 9dfbd@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261114T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_b561766cd30147c99fff57b6384
- 38e63@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_ea728ea9f51c46728fe9d242074
  636a5@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261115T113000Z
+DTSTAMP:20261105T033449Z
+DTSTART;VALUE=DATE:20261115
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_1111e6c4cb0e4829bf42c3f3097
- fb29d@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261115T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_b3a64834d7d141d7a904d542352
- d3305@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_ba5fa92737d84c1d9f156b77424
  8b6e3@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261121T103000Z
+DTSTAMP:20261105T033449Z
+DTSTART;VALUE=DATE:20261121
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7ff2813be4934296967bf244876
- 84282@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261121T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_7ea44dbe9a99471283352b42bad
- 795d8@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261121T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_c4cdbaddf97247709c223edce6e
  cf5b5@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
+DTSTAMP:20261105T033449Z
 DTSTART;VALUE=DATE:20261122
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_a73767c59a6d4899854bc24d7f4
- 963b3@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261122T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_152b0853ca244821a3a6ea88b16
- 07277@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261122T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_da1c7e6e88774a869b3764820b9
  11f73@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
+DTSTAMP:20261105T033449Z
 DTSTART;VALUE=DATE:20261128
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_81e6191d4a934e6c84ed5db216a
- e9b79@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261128T103000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_78ecef87ee1944f687f3f896128
- 58a68@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261128T140000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_5721f8b5f283452bb9175018bff
- 63cc3@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261128T150000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_deccc223859f4800a5fa6566e0f
  f51a6@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
+DTSTAMP:20261105T033449Z
 DTSTART;VALUE=DATE:20261129
 SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_26b5298f182643c8b6050951f8e
- c6bd2@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261129T113000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
-LOCATION:British Library\, London\, London
-URL:https://events.bl.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_c06c801c2782460e8bef45e3a23
- 904b7@thingstodoinyourcity
-DTSTAMP:20261104T020618Z
-DTSTART:20261129T153000Z
-SUMMARY:Treasures Tour
-DESCRIPTION:Price: £12\nhttps://events.bl.uk/
+DESCRIPTION:Price: £12 Concessions available\nhttps://events.bl.uk/
 LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
@@ -26893,6 +26692,20 @@ DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
  karsgård lead this strange romance.\nhttps://actonecinema.co.uk/ActOneC
  inema.dll/WhatsOn?f=492381
 LOCATION:ActOne Cinema Screen 2\, London
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=492381
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dc5489cf8dd54a45b8627324d41ab5ef-occ_3a6a1db5f0044e68b1111543627
+ c084e@thingstodoinyourcity
+DTSTAMP:20261105T052332Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261112
+SUMMARY:WICKER
+DESCRIPTION:A fed-up Fisherwoman commissions a wicker husband to shock he
+ r stuffy seaside village. Critics praise its bold\, strange romance\, sc
+ ript\, costumes and ensemble cast.\nhttps://actonecinema.co.uk/ActOneCin
+ ema.dll/WhatsOn?f=492381
+LOCATION:ActOne Cinema\, London
 URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=492381
 END:VEVENT
 BEGIN:VEVENT
@@ -27164,6 +26977,26 @@ URL:https://concerts.consequence.net/events/larger-than-life-starring-wal
  lace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_c182d9f8bb654025ba789409f0f
+ 9d408@thingstodoinyourcity
+DTSTAMP:20261102T183842Z
+DTSTART:20261107T100000Z
+SUMMARY:The Jewel Room
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_01cd8218f545475e9832dbdd870
+ e1137@thingstodoinyourcity
+DTSTAMP:20261102T183842Z
+DTSTART:20261108T100000Z
+SUMMARY:The Jewel Room
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:Kensington Palace\, London
+URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c3041fb50d524395b5cdaa8fad18ea73-occ_847b3553d6b04d9eb924be16f5c
  bba01@thingstodoinyourcity
 DTSTAMP:20261104T211608Z
@@ -27322,6 +27155,28 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
  -nine
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6b65b093d64948cfbef7a9a1c3e792b4-occ_7fc45b316735455085a33104c99
+ 30bf6@thingstodoinyourcity
+DTSTAMP:20261105T041320Z
+DTSTART:20261107T111500Z
+SUMMARY:STREET FIGHTER
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27949/
+LOCATION:Forest Walthamstow | Screen 4\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/27949/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c71d1ebc401e4f82805a030d63e4bd6c-occ_7a132949a3264e09b45e649052d
+ e8edf@thingstodoinyourcity
+DTSTAMP:20261105T040809Z
+DTSTART:20261107T105000Z
+SUMMARY:WILDWOOD
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27853/
+LOCATION:Forest Walthamstow | Screen 8\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/27853/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9a75f0bc90b7412d8cd999851f75d2a9-occ_f29979e20fe643f99cea61afcab
  e9244@thingstodoinyourcity
 DTSTAMP:20261104T201644Z
@@ -27412,6 +27267,80 @@ LOCATION:Vestry St\, Floor 1\, 6-8 Vestry St\, London N1 7RE\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_f9713bd291fa495593ae670ecbd
+ 46473@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261106T171500Z
+DTEND;VALUE=DATE:20261106
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_72c91d94603042b1931004f2021
+ d567d@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261106T194000Z
+DTEND;VALUE=DATE:20261106
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_b09cd652f9ab4112807ea89c2c4
+ 7cccf@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261107T134000Z
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_59101355040943588561f752ddb
+ 387ba@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261107T194000Z
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_5a8dfff0dee54024af1d1526e3b
+ a4669@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261108T143000Z
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_33cb0b04008b441283d2a4a4df0
+ c828b@thingstodoinyourcity
+DTSTAMP:20261105T024812Z
+DTSTART:20261108T183000Z
+SUMMARY:WICKER
+DESCRIPTION:A lonely fisherwoman commissions herself a wicker husband to 
+ outrage her neighbours. Olivia Colman and Peter Dinklage star in this ba
+ wdy romantic comedy.\nhttps://www.olympiccinema.com/film/wicker
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_44c9e9bbe04e4246a6216642e7188bf2-occ_03e0063eeb18434abbe93f8a4c0
  1a95d@thingstodoinyourcity
 DTSTAMP:20261022T152725Z
@@ -27446,71 +27375,6 @@ DESCRIPTION:Said service according to the Book of Common Prayer. Listed o
  rch.com/events
 LOCATION:London
 URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01259725ecfe43dc993505b561ad86ee-occ_d72780d9e64f4e90aaf61b4fad1
- 01538@thingstodoinyourcity
-DTSTAMP:20261104T013206Z
-DTSTART:20261107T140000Z
-SUMMARY:Wild Horse Nine
-DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
- rk pasts catch up. Martin McDonagh directs this comic thriller starring 
- Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
- d-horse-nine
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wild-horse-nine
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01259725ecfe43dc993505b561ad86ee-occ_e61b4b1f2de9447f80fa9ee1cdf
- ed87f@thingstodoinyourcity
-DTSTAMP:20261104T013206Z
-DTSTART:20261108T135000Z
-SUMMARY:Wild Horse Nine
-DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
- rk pasts catch up. Martin McDonagh directs this comic thriller starring 
- Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
- d-horse-nine
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wild-horse-nine
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01259725ecfe43dc993505b561ad86ee-occ_fa8e7cccd9134d94822ca8f8eda
- df801@thingstodoinyourcity
-DTSTAMP:20261104T013206Z
-DTSTART:20261113T174000Z
-SUMMARY:Wild Horse Nine
-DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
- rk pasts catch up. Martin McDonagh directs this comic thriller starring 
- Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
- d-horse-nine
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wild-horse-nine
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01259725ecfe43dc993505b561ad86ee-occ_2e9036c766074655994c37a644b
- f8f1a@thingstodoinyourcity
-DTSTAMP:20261104T013206Z
-DTSTART:20261114T203000Z
-SUMMARY:Wild Horse Nine
-DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
- rk pasts catch up. Martin McDonagh directs this comic thriller starring 
- Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
- d-horse-nine
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wild-horse-nine
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01259725ecfe43dc993505b561ad86ee-occ_0af6d9ac06e34c6f903f809740f
- db46b@thingstodoinyourcity
-DTSTAMP:20261104T013206Z
-DTSTART:20261115T164500Z
-SUMMARY:Wild Horse Nine
-DESCRIPTION:Two CIA agents are sent to Easter Island in 1973 and their da
- rk pasts catch up. Martin McDonagh directs this comic thriller starring 
- Sam Rockwell and John Malkovich.\nhttps://www.olympiccinema.com/film/wil
- d-horse-nine
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_31a79b9325fb4e48b1268bbf6ba73ac3-occ_68b6b33a0504496a9ddc22d19f9
@@ -27792,6 +27656,28 @@ LOCATION:Walthamstow Cricket\, Tennis and Squash Club\, Greenway Avenue\,
 URL:https://londoncheapo.com/events/stow-firework-spectacular
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4fbf08165cfb4b36aa3cd8c99f4b4ca0-occ_04591ae5b4bd4488a1825ad21ef
+ 6a5aa@thingstodoinyourcity
+DTSTAMP:20261105T041032Z
+DTSTART:20261107T102500Z
+SUMMARY:Forgotten Island
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27948/
+LOCATION:Forest Walthamstow | Screen 4\, 267 High Street\, Walthamstow\, 
+ E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/27948/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4fbf08165cfb4b36aa3cd8c99f4b4ca0-occ_dfcf37acd0d0499b977ff2c4421
+ 6dd83@thingstodoinyourcity
+DTSTAMP:20261105T041032Z
+DTSTART:20261108T102500Z
+SUMMARY:Forgotten Island
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27948/
+LOCATION:Forest Walthamstow | Screen 4\, 267 High Street\, Walthamstow\, 
+ E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/27948/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b8e9d57df4cf40b1b3ef96b1fbaa0455-occ_d8884e497bba4f6ab4f640f5796
  04469@thingstodoinyourcity
 DTSTAMP:20261103T003503Z
@@ -27805,6 +27691,46 @@ DESCRIPTION:Free gigs showcasing new British and international artists on
 LOCATION:Queen Elizabeth Hall\, Queen Elizabeth Hall\, Belvedere Road\, L
  ondon\, UK\, London
 URL:https://southbank.london/whats-on/futuretense
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_17dd266c3d764e3baed4da0d2554bd1c-occ_03af47f4894f4ef9b45b86edf52
+ 77722@thingstodoinyourcity
+DTSTAMP:20261105T024618Z
+DTSTART:20261106T173000Z
+DTEND;VALUE=DATE:20261106
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip across a r
+ uined Germany. Winner of Best Director at Cannes Film Festival 2026\, di
+ rected by Paweł Pawlikowski.\nhttps://www.olympiccinema.com/film/father
+ land
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_17dd266c3d764e3baed4da0d2554bd1c-occ_d7655a44a7314689ae2d41e464e
+ f73ca@thingstodoinyourcity
+DTSTAMP:20261105T024618Z
+DTSTART:20261107T164000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip across a r
+ uined Germany. Winner of Best Director at Cannes Film Festival 2026\, di
+ rected by Paweł Pawlikowski.\nhttps://www.olympiccinema.com/film/father
+ land
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/fatherland
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_17dd266c3d764e3baed4da0d2554bd1c-occ_004ece64f75d4f6d9f4aedf0f0b
+ ccba2@thingstodoinyourcity
+DTSTAMP:20261105T024618Z
+DTSTART:20261108T142000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and daughter Erika road-trip across a r
+ uined Germany. Winner of Best Director at Cannes Film Festival 2026\, di
+ rected by Paweł Pawlikowski.\nhttps://www.olympiccinema.com/film/father
+ land
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/film/fatherland
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4878cfc0733f4ea99b657bcbe86a4804-occ_66ed211be27a4693b73da9a532d
@@ -27827,6 +27753,17 @@ LOCATION:Forest Walthamstow | Screen 2\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28004/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e8685c47ecb3439680b7311361731f95-occ_ef305d8e91b04c50974b2aad271
+ 53624@thingstodoinyourcity
+DTSTAMP:20261105T041507Z
+DTSTART:20261108T150500Z
+SUMMARY:Ramayana: Rise of a Legend (Hindi)
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28197/
+LOCATION:Forest Cinemas\, The Forest Cinema\, 267 High Street\, Walthamst
+ ow\, E17 7FD\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28197/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ef065849912149768ff341e73fd318ff-occ_00bbe7a35fca4024b8fcbf2db79
  a1731@thingstodoinyourcity
 DTSTAMP:20261104T023416Z
@@ -27836,6 +27773,45 @@ DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28004/
 LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
  eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28004/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c0f1de2a44c4f83a7cd29dd7ec4a13f-occ_514875f99bf14e34899ef740aa9
+ 586ee@thingstodoinyourcity
+DTSTAMP:20261105T044153Z
+DTSTART:20261107T155000Z
+SUMMARY:Primetime
+DESCRIPTION:Chris Hansen of To Catch a Predator sets out to make televisi
+ on history in 2006. Starring Robert Pattinson\, Merritt Wever and Anna F
+ aris.\nPrice: Cheap Monday!\nhttps://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
+ ondon E9 6DA\, Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c0f1de2a44c4f83a7cd29dd7ec4a13f-occ_1c688444b3cd4ae0863b0dbce49
+ 751ce@thingstodoinyourcity
+DTSTAMP:20261105T044153Z
+DTSTART:20261107T181000Z
+SUMMARY:Primetime
+DESCRIPTION:Chris Hansen of To Catch a Predator sets out to make televisi
+ on history in 2006. Starring Robert Pattinson\, Merritt Wever and Anna F
+ aris.\nPrice: Cheap Monday!\nhttps://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
+ ondon E9 6DA\, Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c0f1de2a44c4f83a7cd29dd7ec4a13f-occ_eac421daae984ead92a1ff214e4
+ 67dcd@thingstodoinyourcity
+DTSTAMP:20261105T044153Z
+DTSTART:20261108T170000Z
+SUMMARY:Primetime
+DESCRIPTION:Chris Hansen of To Catch a Predator sets out to make televisi
+ on history in 2006. Starring Robert Pattinson\, Merritt Wever and Anna F
+ aris.\nPrice: Cheap Monday!\nhttps://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
+ ondon E9 6DA\, Hackney\, London
+URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7dd7d3309d654f8f910abe8ed04fe6ac-occ_18ba6da478c34569a5ebd80816e
@@ -28260,6 +28236,66 @@ LOCATION:Chelsea Theatre\, 7\, World’s End Place\, Chelsea\, London SW1
 URL:https://chelseatheatre.org.uk/picnic-on-a-battlefield
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_d72780d9e64f4e90aaf61b4fad1
+ 01538@thingstodoinyourcity
+DTSTAMP:20261105T030117Z
+DTSTART:20261107T140000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973 as
+  their dark pasts catch up. Martin McDonagh directs Sam Rockwell and Joh
+ n Malkovich.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_e61b4b1f2de9447f80fa9ee1cdf
+ ed87f@thingstodoinyourcity
+DTSTAMP:20261105T030117Z
+DTSTART:20261108T135000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973 as
+  their dark pasts catch up. Martin McDonagh directs Sam Rockwell and Joh
+ n Malkovich.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_fa8e7cccd9134d94822ca8f8eda
+ df801@thingstodoinyourcity
+DTSTAMP:20261105T030117Z
+DTSTART:20261113T174000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973 as
+  their dark pasts catch up. Martin McDonagh directs Sam Rockwell and Joh
+ n Malkovich.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_2e9036c766074655994c37a644b
+ f8f1a@thingstodoinyourcity
+DTSTAMP:20261105T030117Z
+DTSTART:20261114T203000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973 as
+  their dark pasts catch up. Martin McDonagh directs Sam Rockwell and Joh
+ n Malkovich.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01259725ecfe43dc993505b561ad86ee-occ_0af6d9ac06e34c6f903f809740f
+ db46b@thingstodoinyourcity
+DTSTAMP:20261105T030117Z
+DTSTART:20261115T164500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island in 1973 as
+  their dark pasts catch up. Martin McDonagh directs Sam Rockwell and Joh
+ n Malkovich.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b2b5b29f04f54e60882da411786fe143-occ_b58e6abb393342e78adcdee8105
  d89c2@thingstodoinyourcity
 DTSTAMP:20261101T010029Z
@@ -28448,16 +28484,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_01a62c17ee3340028db614e74ef083ac-occ_93d0fbb946484dd9880e11c7d13
  02b87@thingstodoinyourcity
-DTSTAMP:20261031T223938Z
+DTSTAMP:20261105T035007Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261213
 SUMMARY:Episode 16: Katie Shannon
-DESCRIPTION:Katie Shannon is the latest artist in Goldsmiths CCA’s Epis
- odes commissioning series. Her practice treats the event as a medium\, s
- panning visual art\, performance\, writing and event making.\nhttps://go
- ldsmithscca.art/exhibition/episode-16-katie-shannon/
-LOCATION:Goldsmiths CCA\, St James’\, New Cross London SE14 6AD\, New C
- ross\, London
+DESCRIPTION:https://goldsmithscca.art/exhibition/episode-16-katie-shannon
+ /
+LOCATION:Goldsmiths CCA\, New Cross\, London
 URL:https://goldsmithscca.art/exhibition/episode-16-katie-shannon/
 END:VEVENT
 BEGIN:VEVENT
@@ -29338,6 +29371,32 @@ LOCATION:Strongroom Bar\, London
 URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
+ e5943@thingstodoinyourcity
+DTSTAMP:20261105T023939Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:PRIMETIME
+DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
+ ce Oppenheim. Its story follows To Catch a Predator host Chris Hansen as
+  he sets out to make television history.\nhttps://www.olympiccinema.com/
+ whats-on
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_8300999cc2344bde9007066ddf9
+ ff4f2@thingstodoinyourcity
+DTSTAMP:20261105T023939Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:PRIMETIME
+DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
+ ce Oppenheim. Its story follows To Catch a Predator host Chris Hansen as
+  he sets out to make television history.\nhttps://www.olympiccinema.com/
+ whats-on
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_82fb4aa872194453913d1925a9f4d000-occ_7c566f21baa241fc89ade137408
  2b589@thingstodoinyourcity
 DTSTAMP:20261104T062738Z
@@ -29364,59 +29423,43 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c2f1f312fcdb4f6291b637068c8a051b-occ_77875a7ac25d42eeac32a220a3b
  fbcfa@thingstodoinyourcity
-DTSTAMP:20261104T025558Z
+DTSTAMP:20261105T051906Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:PRIMETIME
-DESCRIPTION:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=811716
+DESCRIPTION:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
 LOCATION:ActOne Cinema\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=811716
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c2f1f312fcdb4f6291b637068c8a051b-occ_f00f0f6410a349d388100f732c6
  7b964@thingstodoinyourcity
-DTSTAMP:20261104T025558Z
+DTSTAMP:20261105T051906Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:PRIMETIME
-DESCRIPTION:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=811716
+DESCRIPTION:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
 LOCATION:ActOne Cinema\, London
-URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn?f=811716
+URL:https://actonecinema.co.uk/ActOneCinema.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d2ec2cfc1b504e288e11caef2070f08a-occ_72d142ce7e75469198e77126a14
  e6109@thingstodoinyourcity
-DTSTAMP:20261031T230327Z
+DTSTAMP:20261105T040249Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Pink Floyd: Mega Laser Show
-DESCRIPTION:Atom Heart Floyd performs a laser\, LED and sound-driven Pink
-  Floyd tribute. Runs about 3hrs\; recommended for ages 14+.\nhttps://gre
- enwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
+DESCRIPTION:https://greenwichtheatre.org.uk/whats-on/
 LOCATION:Main House\, London
-URL:https://greenwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d2ec2cfc1b504e288e11caef2070f08a-occ_9a66b6ed7da541a5bb48303aa97
- e45e2@thingstodoinyourcity
-DTSTAMP:20261031T230327Z
-DTSTART:20261106T200000Z
-SUMMARY:Pink Floyd: Mega Laser Show
-DESCRIPTION:Atom Heart Floyd performs a laser\, LED and sound-driven Pink
-  Floyd tribute. Runs about 3hrs\; recommended for ages 14+.\nhttps://gre
- enwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
-LOCATION:Main House\, London
-URL:https://greenwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
+URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d2ec2cfc1b504e288e11caef2070f08a-occ_66eae90c978d45568341954cb3a
  638ab@thingstodoinyourcity
-DTSTAMP:20261031T230327Z
-DTSTART:20261107T200000Z
+DTSTAMP:20261105T040249Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:Pink Floyd: Mega Laser Show
-DESCRIPTION:Atom Heart Floyd performs a laser\, LED and sound-driven Pink
-  Floyd tribute. Runs about 3hrs\; recommended for ages 14+.\nhttps://gre
- enwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
+DESCRIPTION:https://greenwichtheatre.org.uk/whats-on/
 LOCATION:Main House\, London
-URL:https://greenwichtheatre.org.uk/events/pink-floyd-mega-laser-show/
+URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8cadd2cf34ae495a9d1d2c7c13cfa549-occ_34c57c5887f94b90a37ff3ddd64
@@ -29938,24 +29981,244 @@ URL:https://stayhappening.com/e/close-protection-world-security-conferenc
  e-2026-E118SAMSX22FU
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_c182d9f8bb654025ba789409f0f
- 9d408@thingstodoinyourcity
-DTSTAMP:20261102T183842Z
-DTSTART:20261107T100000Z
-SUMMARY:The Jewel Room
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_707ee859b9fd4177aef5796b434
+ 04f60@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_57ef78dd1ac548c689bc68cc3c56e975-occ_01cd8218f545475e9832dbdd870
- e1137@thingstodoinyourcity
-DTSTAMP:20261102T183842Z
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_879b30e652a64b359626f4bfec1
+ 9f9b7@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261107T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8ce3793ce6144337a8fe6216066
+ 92c70@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261107T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8f4aff301e8340dcb3f868f7d8b
+ 57835@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7671f183b9ce49438218ac61116
+ 71057@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
 DTSTART:20261108T100000Z
-SUMMARY:The Jewel Room
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:Kensington Palace\, London
-URL:https://highstreetkensington.co.uk/whats-on
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fcc024fe5fc748f097dcd2bbd88
+ dccf4@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261108T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_34adf2501fc54e06a90d7e908b0
+ c9fd0@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261114
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_654e7c7959a04601b055fc708bd
+ e0395@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261114T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_b20c67b8ec564da793e5e23211b
+ c56f2@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261114T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_e62a592ed9b3472ea7588b97128
+ be071@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261115
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7cefb1d889404238bd4149669bb
+ e4ccb@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261115T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7f14556e895843f289063908062
+ 69bde@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261115T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f6e8e82707184e93945f3f78879
+ 45656@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8753ffcac41c41219dffe7cfd76
+ 8ad7e@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261121T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_a929977277ea400289ad4624095
+ e1b66@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261121T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f81cc651034a488f9036226c428
+ bf15c@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_0faea4ff656f4c70adfc21723e3
+ 89dfc@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261122T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_238ab0706a3b4816a2fff9a0227
+ adeee@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261122T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_cf5400a6313f461a99509cd595c
+ dd14a@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_4a7eed83193848ea949cceadeb3
+ fe2c2@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261128T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_66f8901fae8643e8bc43963e8b6
+ 80da2@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261128T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fc0ef84330ef4b98ba390516fc2
+ f051c@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART;VALUE=DATE:20261129
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_44b356343f844ceca95758a9602
+ 76ecf@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261129T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9b9076e831514f4aab5385dbf57
+ 04ac0@thingstodoinyourcity
+DTSTAMP:20261104T081439Z
+DTSTART:20261129T100000Z
+SUMMARY:The Nue Black Aesthetic
+DESCRIPTION:https://www.newexhibitions.com/
+LOCATION:Design Museum\, High Street Kensington\, London
+URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9f491476595a4e65973bd4c8fba5e45a-occ_d66b5dd81396462a883381412ad
@@ -30081,6 +30344,17 @@ LOCATION:Castle Hackney\, London
 URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_241c2ba30b5840c48a627a29de7cf378-occ_3d7aeedaaa4d441f9da899b4cb8
+ bc172@thingstodoinyourcity
+DTSTAMP:20261105T041606Z
+DTSTART:20261107T111000Z
+SUMMARY:ONWARDS AND SIDEWAYS
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28016/
+LOCATION:Forest Walthamstow | Screen 4\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28016/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c7a2d35788d34437a31690bda882a82f-occ_7795840374ec425d8532f4f71d6
  676b4@thingstodoinyourcity
 DTSTAMP:20261104T023434Z
@@ -30121,6 +30395,26 @@ SUMMARY:Wild Horse Nine 15
 DESCRIPTION:https://www.thegardencinema.co.uk/
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b7e163fc48a248e8a9dcf624ab9f82dd-occ_7b9c87414e0c4cc6bea33a8fb58
+ 97d27@thingstodoinyourcity
+DTSTAMP:20261105T041336Z
+DTSTART:20261107T111500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b7e163fc48a248e8a9dcf624ab9f82dd-occ_de3b20751c1b4efd83a2f3c3bdf
+ ce762@thingstodoinyourcity
+DTSTAMP:20261105T041336Z
+DTSTART:20261108T141500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_284fd3cfa2ab423caee579c6df195e17-occ_f6687cc23e1d40d6a082e812b74
@@ -30169,6 +30463,17 @@ DESCRIPTION:Price: £36\nhttps://seatplan.com/london/stranger-things-the-
 LOCATION:Phoenix Theatre\, Charing Cross Road\, London\, WC2H 0JG\, Londo
  n
 URL:https://seatplan.com/london/stranger-things-the-first-shadow-tickets/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_92fed42210a840c28c44515b0b36c120-occ_29b80dee34e64caf93fad95eb5f
+ 0d5fe@thingstodoinyourcity
+DTSTAMP:20261105T041546Z
+DTSTART:20261107T110500Z
+SUMMARY:LA BOLA NEGRA
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28168/
+LOCATION:Forest Walthamstow | Screen 3\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28168/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d936f676419546d095504a2f2ade91fc-occ_0952c9975c0e4f30a0c1d2caa9f
@@ -30366,6 +30671,26 @@ URL:https://www.ianvisits.co.uk/calendar/ahoy-mayflower-the-ships-of-roth
  erhithe-421025
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1d3fc8453a84468e9f328f1782dc8c4b-occ_ed91444240064f99bbb184c1ce0
+ 5f75d@thingstodoinyourcity
+DTSTAMP:20261105T041304Z
+DTSTART:20261107T120000Z
+SUMMARY:La Bola Negra
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1d3fc8453a84468e9f328f1782dc8c4b-occ_f83ca4e433ee449bb50d089689a
+ 4b1b9@thingstodoinyourcity
+DTSTAMP:20261105T041304Z
+DTSTART:20261108T163000Z
+SUMMARY:La Bola Negra
+DESCRIPTION:https://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_378ef575da14442292e1dcb3a2f25a1a-occ_f3edeae50d354d5a933888e6c29
  fb923@thingstodoinyourcity
 DTSTAMP:20261102T231617Z
@@ -30385,6 +30710,28 @@ SUMMARY:RAMAYANA: RISE OF A LEGEND ENGLISH DUBBED
 DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28009/
 LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
  eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28009/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d03a801ad3aa4e468573c3b11e553461-occ_ee4355e8d54b467cbd758258776
+ 6e205@thingstodoinyourcity
+DTSTAMP:20261105T041605Z
+DTSTART:20261107T151500Z
+SUMMARY:Ramayana: Rise of a Legend English Dubbed
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28009/
+LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28009/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d03a801ad3aa4e468573c3b11e553461-occ_1fb6e5b2927c4aa6ad24460b917
+ dec46@thingstodoinyourcity
+DTSTAMP:20261105T041605Z
+DTSTART:20261108T151500Z
+SUMMARY:Ramayana: Rise of a Legend English Dubbed
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28009/
+LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
+ eet\, Walthamstow\, E17 7FD\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28009/
 END:VEVENT
 BEGIN:VEVENT
@@ -31005,6 +31352,20 @@ URL:https://www.eventbrite.co.uk/e/bharatanatyam-kathak-odissi-and-semi-c
  lassical-dance-raga-rhythm-suchi-tickets-2003918253440
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a98f7540cbad4c05905c14a860ab3a26-occ_d04b2b7813d54a3a8494f8c9447
+ ec7ae@thingstodoinyourcity
+DTSTAMP:20261105T025122Z
+DTSTART:20261106T183000Z
+SUMMARY:Re:Heal - Energy Weaving
+DESCRIPTION:Guided Energy Weaving session to channel healing frequencies 
+ and find your centre. Lie down or sit\, with an option to simply relax.\
+ nhttps://momence.com/Re%3AMind-Studio/Re%3AHeal---Energy-Weaving/1382622
+ 76?skipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Energy-Weaving/13826
+ 2276?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4abf502158ef4ba090cb53cf79f6546c-occ_e6bc3d7dd19f4e9e91da872d867
  eaa8f@thingstodoinyourcity
 DTSTAMP:20261103T134747Z
@@ -31273,6 +31634,18 @@ LOCATION:NCC FITNESS\, London
 URL:https://www.thelondonlions.com/fixtures/november-6-2026-19-00-00
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7668849d05684307b6e9b966e876a8c1-occ_bd78fa9dc57048ceb5b5b1a7812
+ ee0a7@thingstodoinyourcity
+DTSTAMP:20261105T033348Z
+DTSTART:20261106T190000Z
+SUMMARY:Pulp Fiction
+DESCRIPTION:Three crime stories trip back and forth in time\, following a
+  hit man\, his partner and a washed-up boxer. Screening on 35mm\; runs 2
+ h 34m\, rated 18.\nhttps://clusterflick.com/movies/680/pulp-fiction/
+LOCATION:The Refinery Citypoint\, London
+URL:https://clusterflick.com/movies/680/pulp-fiction/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5ae8ae4c1e654feda89c0fb339ec2b79-occ_269c8750f93a4094b25e095ee7b
  82f86@thingstodoinyourcity
 DTSTAMP:20261031T234046Z
@@ -31361,6 +31734,18 @@ LOCATION:The Moniker\, 25 Fenchurch Ave\, London// EC3M 5AD\, London\, Un
  ited Kingdom\, London
 URL:https://stayhappening.com/e/taste-film-presents-shrek-2-2004-EY90HCDV
  XIB
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_884ca88d9f2b4c0e80d75e18c6e2970a-occ_2d33c8dff4d6446392ed1fa663e
+ 16360@thingstodoinyourcity
+DTSTAMP:20261105T033031Z
+DTSTART:20261106T190000Z
+SUMMARY:The films of Annette Kennerley
+DESCRIPTION:https://clusterflick.com/movies/20c4a3af/the-films-of-annette
+ -kennerley/
+LOCATION:UCL East Community Cinema\, London
+URL:https://clusterflick.com/movies/20c4a3af/the-films-of-annette-kennerl
+ ey/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_dfbc7703c04a43f09de15a5ce5c
@@ -32116,6 +32501,39 @@ LOCATION:Forest Walthamstow\, Screen 3\, 267 High Street\, Walthamstow\,
 URL:https://forestwalthamstow.admit-one.co.uk/seats/26983/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f0b8fe9ed085404bba5efa8aa6581004-occ_6884798e899e497ea9164d98466
+ 2ca47@thingstodoinyourcity
+DTSTAMP:20261105T041547Z
+DTSTART:20261106T200000Z
+SUMMARY:George Michael: The Faith Tour
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+LOCATION:Forest Walthamstow\, Screen 3\, 267 High Street\, Walthamstow\, 
+ E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0b8fe9ed085404bba5efa8aa6581004-occ_c4e5e6cb004a4218aaba82a80cb
+ 67a88@thingstodoinyourcity
+DTSTAMP:20261105T041547Z
+DTSTART:20261107T160000Z
+SUMMARY:George Michael: The Faith Tour
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+LOCATION:Forest Walthamstow\, Screen 3\, 267 High Street\, Walthamstow\, 
+ E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f0b8fe9ed085404bba5efa8aa6581004-occ_19d5f0d883a944cc8e9978f2d05
+ 43ed6@thingstodoinyourcity
+DTSTAMP:20261105T041547Z
+DTSTART:20261108T160000Z
+SUMMARY:George Michael: The Faith Tour
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+LOCATION:Forest Walthamstow\, Screen 3\, 267 High Street\, Walthamstow\, 
+ E17 7FD\, Walthamstow\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/26983/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8bd1400b98794f758f841df80f7bcab4-occ_745874a8d556487b87bfc50c090
  14ae1@thingstodoinyourcity
 DTSTAMP:20261104T044923Z
@@ -32138,42 +32556,6 @@ DESCRIPTION:Comedian Maisie Adam performs her Whatsherface show live. Tic
 LOCATION:The Stables - Milton Keynes\, Stockwell lane\, Wavedon\, Milton 
  Keynes\, MK17 8LU\, Milton Keynes\, London
 URL:https://opencomedy.com/uk/gigs/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_d0cce70a594c40bcbfa0bdec3f3
- 3b679@thingstodoinyourcity
-DTSTAMP:20261104T011710Z
-DTSTART:20261106T200000Z
-SUMMARY:PRIMETIME
-DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
- ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
- e5943@thingstodoinyourcity
-DTSTAMP:20261104T011710Z
-DTSTART:20261107T200000Z
-SUMMARY:PRIMETIME
-DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
- ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_8300999cc2344bde9007066ddf9
- ff4f2@thingstodoinyourcity
-DTSTAMP:20261104T011710Z
-DTSTART:20261108T195000Z
-SUMMARY:PRIMETIME
-DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
- ake television history. Robert Pattinson stars in this crime thriller di
- rected by Lance Oppenheim.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d023954a4b47418e9e5bdaafb43efec1-occ_46e3df4dcd654c7c8ee30529e3b
@@ -32741,29 +33123,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8221ca81bd1a4058b53b94a386636da7-occ_2c7b3c78c8834cad9bf5402741b
  23f00@thingstodoinyourcity
-DTSTAMP:20261031T232957Z
+DTSTAMP:20261105T035007Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:10 Years of Deptford Northern Soul Club
-DESCRIPTION:Founded by Will Foot and Lewis Henderson at Deptford's Bunker
-  Club a decade ago. They have played Glastonbury\, Green Man\, Tate Mode
- rn and Southbank Centre.\nPrice: £15.00 - £20.00\nhttps://www.thealban
- y.org.uk/events/10-years-of-deptford-northern-soul-club
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, London
-URL:https://www.thealbany.org.uk/events/10-years-of-deptford-northern-sou
- l-club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8221ca81bd1a4058b53b94a386636da7-occ_55ec8089937c4f078476ad872a6
- acfd9@thingstodoinyourcity
-DTSTAMP:20261031T232957Z
-DTSTART:20261107T210000Z
-SUMMARY:10 Years of Deptford Northern Soul Club
-DESCRIPTION:Founded by Will Foot and Lewis Henderson at Deptford's Bunker
-  Club a decade ago. They have played Glastonbury\, Green Man\, Tate Mode
- rn and Southbank Centre.\nPrice: £15.00 - £20.00\nhttps://www.thealban
- y.org.uk/events/10-years-of-deptford-northern-soul-club
-LOCATION:The Albany\, Douglas Way\, Deptford\, SE8 4AG\, London
+DESCRIPTION:https://www.thealbany.org.uk/events/10-years-of-deptford-nort
+ hern-soul-club
+LOCATION:The Albany\, London
 URL:https://www.thealbany.org.uk/events/10-years-of-deptford-northern-sou
  l-club
 END:VEVENT
@@ -32910,7 +33276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
  06b10@thingstodoinyourcity
-DTSTAMP:20261104T005932Z
+DTSTAMP:20261105T024858Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:BARBARO
 DESCRIPTION:https://highstreetkensington.co.uk/whats-on
@@ -33531,6 +33897,18 @@ LOCATION:National Maritime Museum\, London
 URL:https://www.primarytimes.co.uk/south_london/listings
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9e47b0c23a234ef4a65a77b63cebc5be-occ_5bee15c11bba4a4a9d0e8551b54
+ ea5d6@thingstodoinyourcity
+DTSTAMP:20261105T043816Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Doc 'n' Roll: HEAVEN 17: THE LAST TEMPTATION + Director Q&A
+DESCRIPTION:Martyn Ware reaches out to Phil Oakey as Heaven 17 approach t
+ heir 50th anniversary. A post-screening Q&A with director James Strong f
+ ollows.\nhttps://thecastlecinema.com/calendar
+LOCATION:Castle Hackney\, Hackney\, London
+URL:https://thecastlecinema.com/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e267e401ed9a4d27aa859b5aa19efc45-occ_1bb9ffc705b74b83add45ff4695
  4f66a@thingstodoinyourcity
 DTSTAMP:20261104T041814Z
@@ -33804,28 +34182,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1064621c02bb4fb1bc02803ffab7f7fe-occ_d69ae8684e8b407b8bff9346791
  284c9@thingstodoinyourcity
-DTSTAMP:20261104T012024Z
+DTSTAMP:20261105T024004Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Exclusive footage from George Michael's 1988 Faith Tour\, sho
- t live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\,
-  35mm shoot\, it captures the star at his peak.\nhttps://www.olympiccine
- ma.com/film/george-michael-the-faith-tour
+DESCRIPTION:Exclusive footage of George Michael's 1988 Faith Tour\, shot 
+ live at Paris-Bercy. Built from a 14-camera\, 35mm shoot over two nights
+  in May 1988.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/george-michael-the-faith-tour
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1064621c02bb4fb1bc02803ffab7f7fe-occ_0b411af570934ad58db4f94f0ea
  2f63e@thingstodoinyourcity
-DTSTAMP:20261104T012024Z
+DTSTAMP:20261105T024004Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Exclusive footage from George Michael's 1988 Faith Tour\, sho
- t live at Palais Omnisports de Paris-Bercy. Assembled from a 14-camera\,
-  35mm shoot\, it captures the star at his peak.\nhttps://www.olympiccine
- ma.com/film/george-michael-the-faith-tour
+DESCRIPTION:Exclusive footage of George Michael's 1988 Faith Tour\, shot 
+ live at Paris-Bercy. Built from a 14-camera\, 35mm shoot over two nights
+  in May 1988.\nhttps://www.olympiccinema.com/whats-on
 LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/film/george-michael-the-faith-tour
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6b6a5bacffa54188aa309bbc73703f5d-occ_9720b9b6cc5c49068c727010897
@@ -33904,16 +34280,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4be961dcb85f494eb9eb7118c3ec8452-occ_e70837eb2fba401a90695981372
  13278@thingstodoinyourcity
-DTSTAMP:20261101T032941Z
+DTSTAMP:20261105T030624Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261121
 SUMMARY:H2E+ (Heaven to Earth Plus)
-DESCRIPTION:A Ukrainian soldier's autobiographical story blends storytell
- ing\, music\, poetry and folk songs. It explores courage\, resilience an
- d the enduring roots of Ukrainian culture.\nhttps://space.org.uk/event/h
- 2e-heaven-to-earth-plus/
-LOCATION:The Space\, 269 Westferry Road London E14 3RS\, London
-URL:https://space.org.uk/event/h2e-heaven-to-earth-plus/
+DESCRIPTION:https://space.org.uk/whats-on
+LOCATION:The Space\, London
+URL:https://space.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7540472406954777a37c2c9fc38d8218-occ_743ce434c8b1495e8f772511987
@@ -34261,6 +34634,39 @@ LOCATION:Dalston\, The Factory\, Dalston\, 21-31 Shacklewell Lane\, Dalst
 URL:https://popette.app/p/ldn-yokimono-japanese-sample-sale-dalston-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fffcfdffb4994299ad78330292f700a9-occ_c41bb30ab83642ceb7ebc10c67e
+ a8de5@thingstodoinyourcity
+DTSTAMP:20261105T034548Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Jazz Saturdays
+DESCRIPTION:Price: £0.00\nhttps://www.thealbany.org.uk/events/jazz-satur
+ days
+LOCATION:The Albany\, Deptford\, London
+URL:https://www.thealbany.org.uk/events/jazz-saturdays
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fffcfdffb4994299ad78330292f700a9-occ_627764bc60b44672b64a5ffc82a
+ ba200@thingstodoinyourcity
+DTSTAMP:20261105T034548Z
+DTSTART;VALUE=DATE:20261121
+SUMMARY:Jazz Saturdays
+DESCRIPTION:Price: £0.00\nhttps://www.thealbany.org.uk/events/jazz-satur
+ days
+LOCATION:The Albany\, Deptford\, London
+URL:https://www.thealbany.org.uk/events/jazz-saturdays
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fffcfdffb4994299ad78330292f700a9-occ_a61ab6450d234b2aa43466e4fe3
+ d532e@thingstodoinyourcity
+DTSTAMP:20261105T034548Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:Jazz Saturdays
+DESCRIPTION:Price: £0.00\nhttps://www.thealbany.org.uk/events/jazz-satur
+ days
+LOCATION:The Albany\, Deptford\, London
+URL:https://www.thealbany.org.uk/events/jazz-saturdays
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5ee5faf7d7fe4c128327a27b7ff55649-occ_cc2c8764bd434a2eb2a603b5e6c
  e7656@thingstodoinyourcity
 DTSTAMP:20261104T093415Z
@@ -34274,7 +34680,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
  9c86d@thingstodoinyourcity
-DTSTAMP:20261104T015535Z
+DTSTAMP:20261105T032631Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Kaleidoscope East London LGBTQ+ Film Festival 2026
 DESCRIPTION:https://clusterflick.com/
@@ -34299,7 +34705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4568ec8e581a4b1fb04c39b647feae4b-occ_2c889b32213545b6b713fc8e97a
  0777e@thingstodoinyourcity
-DTSTAMP:20261104T005810Z
+DTSTAMP:20261105T025030Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Kensington Botanical Market
 DESCRIPTION:Growers and makers offer rare houseplants\, bulbs\, botanical
@@ -34347,13 +34753,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e123c418858c4baa86704da0fed1d721-occ_bdc6da9c63a64287a35219fd0b6
  0a918@thingstodoinyourcity
-DTSTAMP:20261104T015719Z
+DTSTAMP:20261105T032905Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Language of Water Triple Bill + Q&A
 DESCRIPTION:Three surf and ocean films\, including two world premieres an
- d a UK premiere\, screen in one evening. Each film is followed by a spec
- ial Q&A with its makers.\nhttps://riversidestudios.co.uk/whats-on/u42-la
- nguage-of-water-triple-bill-qa/
+ d a UK premiere\, screen together. Each is followed by a Q&A with its ma
+ kers.\nhttps://riversidestudios.co.uk/whats-on/u42-language-of-water-tri
+ ple-bill-qa/
 LOCATION:Riverside Studios\, London
 URL:https://riversidestudios.co.uk/whats-on/u42-language-of-water-triple-
  bill-qa/
@@ -34374,7 +34780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cf5df7b463414d5f97ea4efb296c2faf-occ_62d11ef8bc954f25a428c2fc78d
  dafca@thingstodoinyourcity
-DTSTAMP:20261104T010016Z
+DTSTAMP:20261105T035124Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261107
 SUMMARY:Libraries of the Future Zine Workshop
@@ -35059,6 +35465,18 @@ LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b84b92b7a6064f018fffbf6137143b58-occ_d68748859fe147e8bebc23022e7
+ b80fb@thingstodoinyourcity
+DTSTAMP:20261105T041209Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Ramayana: Rise of a Legend
+DESCRIPTION:Prince Rama must confront Ravana\, an immortal ruler driven b
+ y pride and vengeance\, as worlds hang in the balance. The action-advent
+ ure runs 165 minutes.\nhttps://www.forestcinema.co.uk/whatson
+LOCATION:Forest Cinema\, Walthamstow\, London
+URL:https://www.forestcinema.co.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ace63154c56f42208a8b758dc1c6950b-occ_81b65fc1094648a2b54aff0006f
  2ce6b@thingstodoinyourcity
 DTSTAMP:20261101T022129Z
@@ -35284,7 +35702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_11699c62e69c43468c934ce723a86b22-occ_b380bc90993f4a8d843504972ff
  4bd4f@thingstodoinyourcity
-DTSTAMP:20261104T012430Z
+DTSTAMP:20261105T025206Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Saturday Afternoon Comedy\, 4PM\, Soho
 DESCRIPTION:Price: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
@@ -36026,270 +36444,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b2d0cad6829a48c59be45cd982e54cdb-occ_feca05bf625346e1866af6410df
  f110c@thingstodoinyourcity
-DTSTAMP:20261031T221256Z
+DTSTAMP:20261105T035048Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:The Lyrical Bridge: An Immersive Journey through Chinese Verse & 
  Sound
 DESCRIPTION:Ages 5 to 12 explore Chinese poetry through bilingual learnin
- g\, drama games and live erhu and piano. Parents join in throughout\, an
- d places are limited\, so booking is required.\nPrice: Free Admission\nh
- ttps://www.gold.ac.uk/calendar/?id=16239
+ g\, drama games and live erhu and piano. Parents join throughout\; place
+ s are limited and booking is required.\nPrice: Free Admission\nhttps://w
+ ww.gold.ac.uk/calendar/?id=16239
 LOCATION:RHB 141\, Richard Hoggart Building\, London
 URL:https://www.gold.ac.uk/calendar/?id=16239
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b2d0cad6829a48c59be45cd982e54cdb-occ_48650735aaa84545abe0da9a9d7
  984a1@thingstodoinyourcity
-DTSTAMP:20261031T221256Z
+DTSTAMP:20261105T035048Z
 DTSTART;VALUE=DATE:20261206
 SUMMARY:The Lyrical Bridge: An Immersive Journey through Chinese Verse & 
  Sound
 DESCRIPTION:Ages 5 to 12 explore Chinese poetry through bilingual learnin
- g\, drama games and live erhu and piano. Parents join in throughout\, an
- d places are limited\, so booking is required.\nPrice: Free Admission\nh
- ttps://www.gold.ac.uk/calendar/?id=16239
+ g\, drama games and live erhu and piano. Parents join throughout\; place
+ s are limited and booking is required.\nPrice: Free Admission\nhttps://w
+ ww.gold.ac.uk/calendar/?id=16239
 LOCATION:RHB 141\, Richard Hoggart Building\, London
 URL:https://www.gold.ac.uk/calendar/?id=16239
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_707ee859b9fd4177aef5796b434
- 04f60@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_879b30e652a64b359626f4bfec1
- 9f9b7@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261107T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8ce3793ce6144337a8fe6216066
- 92c70@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261107T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8f4aff301e8340dcb3f868f7d8b
- 57835@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7671f183b9ce49438218ac61116
- 71057@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261108T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fcc024fe5fc748f097dcd2bbd88
- dccf4@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261108T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_34adf2501fc54e06a90d7e908b0
- c9fd0@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261114
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_654e7c7959a04601b055fc708bd
- e0395@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261114T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_b20c67b8ec564da793e5e23211b
- c56f2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261114T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_e62a592ed9b3472ea7588b97128
- be071@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261115
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7cefb1d889404238bd4149669bb
- e4ccb@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261115T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_7f14556e895843f289063908062
- 69bde@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261115T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f6e8e82707184e93945f3f78879
- 45656@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261121
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_8753ffcac41c41219dffe7cfd76
- 8ad7e@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261121T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_a929977277ea400289ad4624095
- e1b66@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261121T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_f81cc651034a488f9036226c428
- bf15c@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_0faea4ff656f4c70adfc21723e3
- 89dfc@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261122T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_238ab0706a3b4816a2fff9a0227
- adeee@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261122T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_cf5400a6313f461a99509cd595c
- dd14a@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_4a7eed83193848ea949cceadeb3
- fe2c2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261128T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_66f8901fae8643e8bc43963e8b6
- 80da2@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261128T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_fc0ef84330ef4b98ba390516fc2
- f051c@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART;VALUE=DATE:20261129
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_44b356343f844ceca95758a9602
- 76ecf@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261129T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9b9076e831514f4aab5385dbf57
- 04ac0@thingstodoinyourcity
-DTSTAMP:20261104T081439Z
-DTSTART:20261129T100000Z
-SUMMARY:The Nue Black Aesthetic
-DESCRIPTION:https://www.newexhibitions.com/
-LOCATION:Design Museum\, High Street Kensington\, London
-URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_932d9ac7260f450b98dd0dce14b9a843-occ_8ff5e2f624cb4eeb92389f11e31
@@ -36570,7 +36748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a7d41e9d07f4995867bddc827d655b4-occ_8e7d505c7a7d486da8a2a10d2f9
  4ef1d@thingstodoinyourcity
-DTSTAMP:20261104T015747Z
+DTSTAMP:20261105T032736Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Vampires Surf + Bulleji Boys Double Bill + Q&A
 DESCRIPTION:Three immortal vampire girls surf beneath the moon in this UK
@@ -36661,6 +36839,30 @@ SUMMARY:Walking with the Snowman Christmas Trail
 DESCRIPTION:https://www.english-heritage.org.uk/visit/whats-on/
 LOCATION:Wrest Park and Belsay Hall\, Castle and Gardens\, London
 URL:https://www.english-heritage.org.uk/visit/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_5cc901e49bba4e27aa14097bc3a
+ 19066@thingstodoinyourcity
+DTSTAMP:20261105T023931Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Wildwood
+DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
+ ther from a murder of crows. Stop-motion animated adventure directed by 
+ Travis Knight.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_3a2ecf958efc4e76a74698070b1
+ 85761@thingstodoinyourcity
+DTSTAMP:20261105T023931Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Wildwood
+DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
+ ther from a murder of crows. Stop-motion animated adventure directed by 
+ Travis Knight.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0c25255ae121454d9cfe12dbd51e2a53-occ_a226cc385cd34f848befe9f9bda
@@ -37249,6 +37451,21 @@ URL:https://www.ianvisits.co.uk/calendar/open-day-at-the-clockworks-43549
  8/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8d6bbf9ff3714b3d8b23dc98fa57e6e2-occ_5d7d6b17f368497c972d8e5fe13
+ 1273e@thingstodoinyourcity
+DTSTAMP:20261105T025402Z
+DTSTART:20261107T100000Z
+SUMMARY:Re:Heal - Sekhem + Crystal Bowls
+DESCRIPTION:A grounding meditation leads into a sonic journey with crysta
+ l singing bowls\, tuning forks and chimes. Hands-on healing with Sekhem 
+ energy comes toward the end of the class.\nPrice: £30.00\nhttps://momen
+ ce.com/Re%3AMind-Studio/Re%3AHeal---Sekhem-%2B-Crystal-Bowls/138282576?s
+ kipPreview=true
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Sekhem-%2B-Crystal-B
+ owls/138282576?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_985a846bae7d4b6792de7b2d2ac
  6db33@thingstodoinyourcity
 DTSTAMP:20261031T071356Z
@@ -37505,6 +37722,26 @@ LOCATION:UCL Institute of Archaeology\, 31-34 Gordon Square\, London\, Un
  ited Kingdom\, London
 URL:https://stayhappening.com/e/ucl-institute-of-archaeology-winter-archa
  eology-festival-2026-E118SB2JN2K3B
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2977777b83c94f3b867f7dd22517e6d1-occ_e59de3b9de3c4f0abb9f44d93d7
+ 70aba@thingstodoinyourcity
+DTSTAMP:20261105T041815Z
+DTSTART:20261107T101500Z
+SUMMARY:Tad and the Magic Lamp
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
+LOCATION:Forest Walthamstow\, Screen 2\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2977777b83c94f3b867f7dd22517e6d1-occ_39ce8a9dea13466a86ded8b12bf
+ 2447b@thingstodoinyourcity
+DTSTAMP:20261105T041815Z
+DTSTART:20261108T101500Z
+SUMMARY:Tad and the Magic Lamp
+DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
+LOCATION:Forest Walthamstow\, Screen 2\, London
+URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_36b49578ca314c86bdc81ff082e7ebd5-occ_43c73ef5a33a49dbbbc425a7b8e
@@ -38308,30 +38545,6 @@ URL:https://stayhappening.com/e/undergraduate-open-day-%E2%80%93-aldgate-
  andamp-shoreditch-campuses-E118SB3JV6XNX
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_5cc901e49bba4e27aa14097bc3a
- 19066@thingstodoinyourcity
-DTSTAMP:20261104T011944Z
-DTSTART:20261107T110000Z
-SUMMARY:Wildwood
-DESCRIPTION:Prue and Curtis enter a magical forest to rescue her abducted
-  baby brother from a murder of crows. Stop-motion animated adventure dir
- ected by Travis Knight.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_3a2ecf958efc4e76a74698070b1
- 85761@thingstodoinyourcity
-DTSTAMP:20261104T011944Z
-DTSTART:20261108T105500Z
-SUMMARY:Wildwood
-DESCRIPTION:Prue and Curtis enter a magical forest to rescue her abducted
-  baby brother from a murder of crows. Stop-motion animated adventure dir
- ected by Travis Knight.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7f7d828bc4994147b602dcc81e3e0a37-occ_7badfec72318428ea5bbcb703c7
  6ffdd@thingstodoinyourcity
 DTSTAMP:20261102T103148Z
@@ -38719,6 +38932,22 @@ LOCATION:ICA\, London
 URL:https://www.ica.art/films/imamura-a-man-vanishes
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1d16c11d99c944178b11846a04d0b9ba-occ_5eb40cf80d2447de8e423b6272e
+ 8aad6@thingstodoinyourcity
+DTSTAMP:20261105T025358Z
+DTSTART:20261107T130000Z
+DTEND:20261107T135000Z
+SUMMARY:Re:Heal - Reiki Healing + Crystal Bowls
+DESCRIPTION:Blends Alchemy Bowls sound with Reiki\, starting with guided 
+ meditation and ending with rest. Falling asleep is a natural reaction to
+  the deep relaxation.\nPrice: £30.00\nhttps://momence.com/Re%3AMind-Stu
+ dio/Re%3AHeal---Reiki-Healing-%2B-Crystal-Bowls/138285217?skipPreview=tr
+ ue
+LOCATION:Re:Mind Studio\, London
+URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Reiki-Healing-%2B-Cr
+ ystal-Bowls/138285217?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a64ad366867140e5b9029292ba1ff475-occ_ee9883b3397944c680c6f55a967
  339f4@thingstodoinyourcity
 DTSTAMP:20261104T071728Z
@@ -38801,21 +39030,6 @@ DESCRIPTION:Blue Badge Guide Patrick Voss explores Dickens's portrayal of
 LOCATION:The London Archives\, The London Archives 40 Northampton Road Lo
  ndon EC1R 0HB\, London\, EC1R 0HB\, Clerkenwell\, London\, London
 URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9e47b0c23a234ef4a65a77b63cebc5be-occ_5bee15c11bba4a4a9d0e8551b54
- ea5d6@thingstodoinyourcity
-DTSTAMP:20261102T233304Z
-DTSTART:20261107T134500Z
-SUMMARY:Doc 'n' Roll: HEAVEN 17: THE LAST TEMPTATION + Director Q&A
-DESCRIPTION:Heaven 17 approach their 50th anniversary as Martyn Ware reac
- hes out to Phil Oakey after three decades apart. Includes a post-screeni
- ng Q&A with director James Strong.\nhttps://thecastlecinema.com/programm
- e/112779/doc-n-roll-heaven-17-the-last-temptation-director-q-a/
-LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
- ondon E9 6DA\, Hackney\, London
-URL:https://thecastlecinema.com/programme/112779/doc-n-roll-heaven-17-the
- -last-temptation-director-q-a/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6593621d1ff04a28824cea3d7ac7b5d5-occ_83836fd257be4bf79ce9aba7977
@@ -39315,6 +39529,20 @@ DESCRIPTION:Chow Yun-fat and Tony Leung give John Woo's gunplay epic a br
  co.uk/screening/806
 LOCATION:The Nickel\, London
 URL:https://thenickel.co.uk/screening/806
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8547593f812345c884b48ef3a0b88040-occ_f0cdf50836ff40ab8d33e6ef65b
+ 026b3@thingstodoinyourcity
+DTSTAMP:20261105T041701Z
+DTSTART:20261107T151500Z
+SUMMARY:NAZA
+DESCRIPTION:Filmed at night from Tel Aviv rooftops\, this documentary pro
+ bes civilian casualties in Israeli Gaza operations. It won the Special J
+ ury Prize at Venice Film Festival.\nhttps://thecastlecinema.com/programm
+ e/115766/naza/
+LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
+ ondon E9 6DA\, Hackney\, London
+URL:https://thecastlecinema.com/programme/115766/naza/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_87b48fb62d81475d8dd08bca7fde5488-occ_ceda0e19f62e44ebb8b969bd132
@@ -40128,19 +40356,6 @@ URL:https://www.theluckypig.co.uk/event-details/private-party-18th-septem
  ber-1-1
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b84b92b7a6064f018fffbf6137143b58-occ_d68748859fe147e8bebc23022e7
- b80fb@thingstodoinyourcity
-DTSTAMP:20261104T022228Z
-DTSTART:20261107T190000Z
-SUMMARY:Ramayana: Rise of a Legend
-DESCRIPTION:Prince Rama must confront Ravana\, an immortal ruler driven b
- y pride and vengeance\, as worlds hang in the balance. The action-advent
- ure runs 165 minutes.\nhttps://www.forestcinema.co.uk/whatson
-LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
- mstow\, London
-URL:https://www.forestcinema.co.uk/whatson
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_055602734956446386ff7a2dbc74ac8f-occ_251404551d6a4cd489c8105d857
  f5c7a@thingstodoinyourcity
 DTSTAMP:20261101T011541Z
@@ -40917,15 +41132,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e1e31e1d4eb41c7a23e5c5d0d7ea89e-occ_fd7b9d617cb34d8a984946a62e8
  cbe65@thingstodoinyourcity
-DTSTAMP:20261101T033911Z
+DTSTAMP:20261105T030906Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261115
-SUMMARY:BALANCE
-DESCRIPTION:Two strangers turn beer kegs\, bottles and planks into a high
- -energy acrobatic playground. A kinetic\, funny show of trust from ich-d
- uO\, co-produced by Hoxton Hall.\nhttps://space.org.uk/event/balance/
-LOCATION:The Space\, 269 Westferry Road London E14 3RS\, London
-URL:https://space.org.uk/event/balance/
+SUMMARY:Balance
+DESCRIPTION:https://space.org.uk/whats-on
+LOCATION:The Space\, London
+URL:https://space.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c355de5db997458380c2be5face52fd4-occ_3ef4069c20a245fa97fcfdda6f9
@@ -41104,15 +41317,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_863c20897a0d498a9de9be3821ccd434-occ_41c4202f689c4538a5c0c8f215a
  51da3@thingstodoinyourcity
-DTSTAMP:20261101T023548Z
+DTSTAMP:20261105T030624Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261114
 SUMMARY:Do You Know Where To Go From Here?
-DESCRIPTION:A one-woman dark comedy about grief\, family\, faith and migr
- ation. Sophie is trapped in a sea of clothes and turns to tidying up to 
- escape.\nhttps://space.org.uk/event/do-you-know-where-to-go-from-here/
-LOCATION:The Space\, 269 Westferry Road London E14 3RS\, London
-URL:https://space.org.uk/event/do-you-know-where-to-go-from-here/
+DESCRIPTION:https://space.org.uk/whats-on
+LOCATION:The Space\, London
+URL:https://space.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_924201adc36d447098a9fd149a06edfd-occ_935346c50b034451813a3714ab0
@@ -41321,12 +41532,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3798c701520449a78aeed4e7106d477d-occ_121fc8c4d2cd4f61a8bbee2d436
  ca6ec@thingstodoinyourcity
-DTSTAMP:20261104T023709Z
+DTSTAMP:20261105T044046Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Hitch Hike
-DESCRIPTION:A bitter couple's road trip across the American West turns sa
- vage after they pick up a stranger. Franco Nero and Corinne Cléry star 
- in this 1977 Italian road thriller.\nhttps://thenickel.co.uk/
+DESCRIPTION:A bitter couple's road trip turns savage after they pick up a
+  stranger. Franco Nero and Corinne Cléry star in this 1977 Italian thri
+ ller.\nhttps://thenickel.co.uk/
 LOCATION:The Nickel\, Clerkenwell\, London
 URL:https://thenickel.co.uk/
 END:VEVENT
@@ -41511,7 +41722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_772f9eab585b40359aa88e7d828c1475-occ_64a4948bccd444128b626a3ea0d
  aeb11@thingstodoinyourcity
-DTSTAMP:20261104T015627Z
+DTSTAMP:20261105T032632Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Lift + Calais: The Last Border followed by Q&A with Marc Isaacs
 DESCRIPTION:https://clusterflick.com/
@@ -41521,17 +41732,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_fcb12dadc80144dc92649bdfcf34053f-occ_57b54f7e798443ecb901e51a005
  edf20@thingstodoinyourcity
-DTSTAMP:20261101T174324Z
+DTSTAMP:20261105T050026Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:London Music Showcase Presents: PSYCHIATRISTS
-DESCRIPTION:A showcase of the best unsigned London bands\, with a friendl
- y meetup crowd. Solo newcomers get a reserved table area\, and refunds a
- re available until the event starts.\nPrice: £12.50\nhttps://tickts.co.
- uk/events/london-music-showcase-presents-psychiatrists
-LOCATION:The Star in Shoreditch\, 243 Old Street\, London\, EC1V 9EY\, Lo
- ndon
-URL:https://tickts.co.uk/events/london-music-showcase-presents-psychiatri
- sts
+DESCRIPTION:A showcase of the best unsigned London bands\, held in a frie
+ ndly meetup crowd. Solo newcomers get a reserved table area\, and refund
+ s are available until the event starts.\nPrice: £12.50\nhttps://tickts.
+ co.uk/city/london
+LOCATION:The Star in Shoreditch\, London
+URL:https://tickts.co.uk/city/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_899a67136d91436ba9fcc9322caf6fde-occ_e148b2f3d8464cf0b2af3cc0003
+ 52b23@thingstodoinyourcity
+DTSTAMP:20261105T041244Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Merry Christmas Aubrey Flint + Q & A
+DESCRIPTION:A reclusive model-soldier painter who hates Christmas is sent
+ enced to community service at a retirement home. He ends up directing a 
+ chaotic resident-led A Christmas Carol.\nhttps://www.forestcinema.co.uk/
+ whatson
+LOCATION:Forest Cinema\, Walthamstow\, London
+URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad690381c79247418a25d89f46ac6cb5-occ_8c56a3f7cfff43bfb550822f66d
@@ -41739,11 +41961,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_648056a7855141e7bbfed4bce9e2b993-occ_1c054eaac3e64302b116d96f751
  7200f@thingstodoinyourcity
-DTSTAMP:20261104T024924Z
+DTSTAMP:20261105T045829Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Rocky Horror Picture Show at Coldharbour Blue
-DESCRIPTION:Join fellow fans for a cult classic screening where fancy dre
- ss is encouraged but not required. Expect props\, singing along and danc
+DESCRIPTION:Fans are invited to a cult classic screening where fancy dres
+ s is recommended but not required. Expect props\, singing along and danc
+ ing during the show.\nPrice: £12.50\nhttps://www.thecliq.app/event/rock
+ y-horror-picture-show-at-coldharbour-blue
+LOCATION:Coldharbour Blue\, London
+URL:https://www.thecliq.app/event/rocky-horror-picture-show-at-coldharbou
+ r-blue
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_648056a7855141e7bbfed4bce9e2b993-occ_f79590af938e455998dae02d387
+ 8a7d6@thingstodoinyourcity
+DTSTAMP:20261105T045829Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Rocky Horror Picture Show at Coldharbour Blue
+DESCRIPTION:Fans are invited to a cult classic screening where fancy dres
+ s is recommended but not required. Expect props\, singing along and danc
  ing during the show.\nPrice: £12.50\nhttps://www.thecliq.app/event/rock
  y-horror-picture-show-at-coldharbour-blue
 LOCATION:Coldharbour Blue\, London
@@ -42062,13 +42298,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f3fcd2d5359b4a78a60bc873291addbf-occ_8fccd8472f1643f4b38fb37f3d0
  b61f9@thingstodoinyourcity
-DTSTAMP:20261104T023906Z
+DTSTAMP:20261105T044313Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:Tentacles
-DESCRIPTION:A reporter and a marine expert uncover a threat with eight ar
- ms off the California coast. Huston\, Winters and Fonda lend Hollywood g
- randeur to this Italian JAWS answer.\nPrice: Regular price: £12.00 Memb
- er price: £10.00 (save £2)\nhttps://thenickel.co.uk/
+DESCRIPTION:A reporter and a marine expert uncover a giant octopus threat
+  off the California coast. John Huston\, Shelley Winters and Henry Fonda
+  lend Hollywood grandeur to this Italian JAWS answer.\nPrice: Regular pr
+ ice: £12.00 Member price: £10.00 (save £2)\nhttps://thenickel.co.uk/
 LOCATION:The Nickel\, London
 URL:https://thenickel.co.uk/
 END:VEVENT
@@ -42184,7 +42420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4da0d632e9cf44aaab19bb4c1b08465c-occ_802be6235f574699b67c05a38ca
  3399d@thingstodoinyourcity
-DTSTAMP:20261104T015424Z
+DTSTAMP:20261105T032604Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:WATCH PARTY EPISODE 1 - debra.in4k
 DESCRIPTION:https://clusterflick.com/
@@ -43068,50 +43304,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_edeaa290e6524d5d9026e86c10821e27-occ_df861e6cd297499b9134b9a5f3b
  5199c@thingstodoinyourcity
-DTSTAMP:20261104T030118Z
+DTSTAMP:20261105T051747Z
 DTSTART:20261108T133000Z
 SUMMARY:Sunday | Singles Museum Guided Tour! | V&A
 DESCRIPTION:A singles-only one-hour guided tour led by Chris Hayden\, wit
  h groups capped at 20. Mingle with your group\, then optionally grab foo
  d or drinks at a nearby café.\nPrice: Male Ticket £20 / Female Ticket 
- £20\nhttps://www.thursday.com/events/london/sunday-singles-museum-tour-
- v-and-a-8-nov
+ £20\nhttps://www.thursday.com/events/london
 LOCATION:Victoria and Albert Museum\, Cromwell Rd\, London SW7 2RL\, UK\,
   London
-URL:https://www.thursday.com/events/london/sunday-singles-museum-tour-v-a
- nd-a-8-nov
+URL:https://www.thursday.com/events/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_edeaa290e6524d5d9026e86c10821e27-occ_e993e7339d104605a0ca9de739e
  b9332@thingstodoinyourcity
-DTSTAMP:20261104T030118Z
+DTSTAMP:20261105T051747Z
 DTSTART:20261108T144500Z
 SUMMARY:Sunday | Singles Museum Guided Tour! | V&A
 DESCRIPTION:A singles-only one-hour guided tour led by Chris Hayden\, wit
  h groups capped at 20. Mingle with your group\, then optionally grab foo
  d or drinks at a nearby café.\nPrice: Male Ticket £20 / Female Ticket 
- £20\nhttps://www.thursday.com/events/london/sunday-singles-museum-tour-
- v-and-a-8-nov
+ £20\nhttps://www.thursday.com/events/london
 LOCATION:Victoria and Albert Museum\, Cromwell Rd\, London SW7 2RL\, UK\,
   London
-URL:https://www.thursday.com/events/london/sunday-singles-museum-tour-v-a
- nd-a-8-nov
+URL:https://www.thursday.com/events/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_edeaa290e6524d5d9026e86c10821e27-occ_3999f19bc8e94e99b812ebdf886
  f06d9@thingstodoinyourcity
-DTSTAMP:20261104T030118Z
+DTSTAMP:20261105T051747Z
 DTSTART:20261108T160000Z
 SUMMARY:Sunday | Singles Museum Guided Tour! | V&A
 DESCRIPTION:A singles-only one-hour guided tour led by Chris Hayden\, wit
  h groups capped at 20. Mingle with your group\, then optionally grab foo
  d or drinks at a nearby café.\nPrice: Male Ticket £20 / Female Ticket 
- £20\nhttps://www.thursday.com/events/london/sunday-singles-museum-tour-
- v-and-a-8-nov
+ £20\nhttps://www.thursday.com/events/london
 LOCATION:Victoria and Albert Museum\, Cromwell Rd\, London SW7 2RL\, UK\,
   London
-URL:https://www.thursday.com/events/london/sunday-singles-museum-tour-v-a
- nd-a-8-nov
+URL:https://www.thursday.com/events/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9ed9bf4c22234bd886df9b363867e0f0-occ_efd8df734d754ae5b8bae54d7fa
@@ -43487,20 +43717,6 @@ DESCRIPTION:A 30-minute in-person celebration of Dog Man: A Sprinkle of T
 LOCATION:ODEON Luxe Leicester Square\, 22-24 Leicester Square\, London\, 
  WC2H 7LQ\, Covent Garden\, London
 URL:https://go-london.uk/events/event/meet-dav-pilkey-on-his-epic-tour/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_899a67136d91436ba9fcc9322caf6fde-occ_e148b2f3d8464cf0b2af3cc0003
- 52b23@thingstodoinyourcity
-DTSTAMP:20261104T022303Z
-DTSTART:20261108T150000Z
-SUMMARY:Merry Christmas Aubrey Flint + Q & A
-DESCRIPTION:A reclusive model-soldier painter who hates Christmas is sent
- enced to community service at a retirement home. He ends up directing a 
- chaotic resident-led A Christmas Carol.\nhttps://www.forestcinema.co.uk/
- whatson
-LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
- mstow\, London
-URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0280a61bf6cb40c9842e48bbcba25c2c-occ_20c07ed072e94af990a28930748
