@@ -710,30 +710,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e131e640770444f88506160a3f435424-occ_5338e9e3280f494e8902630e8a4
  9dc90@thingstodoinyourcity
-DTSTAMP:20261101T230633Z
+DTSTAMP:20261105T073135Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:33rd SCI Young Chemist in Industry 2026
 DESCRIPTION:Early-career chemists give 25-minute talks on industrial rese
- arch\, with prizes. A leading industrial chemist closes the day.\nPrice:
-  Not listed — worth a quick ask\nhttps://www.soci.org/events/young-che
- mists-panel/2026/33rd-sci-young-chemist-in-industry-2026
-LOCATION:SCI\, West Hill Innovation Park\, Hertford Rd\, Hoddesdon EN11 9
- FH\, Belgravia\, London
-URL:https://www.soci.org/events/young-chemists-panel/2026/33rd-sci-young-
- chemist-in-industry-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e131e640770444f88506160a3f435424-occ_9e020c0c64934b7ebc86f462d36
- cc4de@thingstodoinyourcity
-DTSTAMP:20261101T230633Z
-DTSTART:20261105T100000Z
-SUMMARY:33rd SCI Young Chemist in Industry 2026
-DESCRIPTION:Early-career chemists give 25-minute talks on industrial rese
- arch\, with prizes. A leading industrial chemist closes the day.\nPrice:
-  Not listed — worth a quick ask\nhttps://www.soci.org/events/young-che
- mists-panel/2026/33rd-sci-young-chemist-in-industry-2026
-LOCATION:SCI\, West Hill Innovation Park\, Hertford Rd\, Hoddesdon EN11 9
- FH\, Belgravia\, London
+ arch\, with prizes for the best talk and runners-up. A leading industria
+ l chemist gives a closing lecture.\nPrice: Not listed — worth a quick 
+ ask\nhttps://www.soci.org/events/young-chemists-panel/2026/33rd-sci-youn
+ g-chemist-in-industry-2026
+LOCATION:West Hill Innovation Park\, Hoddesdon\, London
 URL:https://www.soci.org/events/young-chemists-panel/2026/33rd-sci-young-
  chemist-in-industry-2026
 END:VEVENT
@@ -911,6 +896,18 @@ SUMMARY:Atmospheric watercolour painting class
 DESCRIPTION:https://highstreetkensington.co.uk/whats-on
 LOCATION:Cass Art Kensington\, London
 URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f655ce2ff6f343fa84297b77db82a85e-occ_317ecd97100544ad844b40e5c0f
+ b52d2@thingstodoinyourcity
+DTSTAMP:20261105T055258Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Back in the Eighties by Clare Muller Private View
+DESCRIPTION:Unseen and recently digitised photography documents music cul
+ ture in the early 1980s. Admission to the private view is free.\nPrice: 
+ Free Entry\nhttps://eventslist.co.uk/london/exhibitions
+LOCATION:Museum of Youth Culture\, Camden\, London\, London
+URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_90c9379fc4c24df3bc9f7c45e66c0981-occ_a69126bd4c3148089ab0ba0face
@@ -1373,6 +1370,20 @@ DESCRIPTION:Led by a Protein professional dancer\, classes blend a physic
  ts\nhttps://www.woolwich.works/whats-on
 LOCATION:Coopers Studio\, London
 URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_49ce62e786354170adb9f57eb490c8a2-occ_7dc7bce8d44149f3a9288c2b4d6
+ 17359@thingstodoinyourcity
+DTSTAMP:20261105T055128Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:David Tarbox Exhibition: Bomb The Format. Private View
+DESCRIPTION:Cassettes\, ghetto blasters and 12-inch covers\, bombed with 
+ pens and spray paint. Brixton-based artist with family roots in Belfast 
+ mural painting.\nPrice: Free Entry\nhttps://www.eventbrite.co.uk/e/david
+ -tarbox-exhibition-bomb-the-format-private-view-tickets-1998644635908
+LOCATION:Brixton Library\, London
+URL:https://www.eventbrite.co.uk/e/david-tarbox-exhibition-bomb-the-forma
+ t-private-view-tickets-1998644635908
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1fca81a1ad924061bd03be996c8b3cfe-occ_ce07ae8bb18d4522acf8ed53609
@@ -2643,6 +2654,19 @@ URL:https://www.instituteforgovernment.org.uk/event/northern-ireland-asse
  mbly-elections-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_25f2b8ed193842d7a6a13ff40a8322e4-occ_c10fcf79d1f44dcfac01ae843a5
+ 6d0eb@thingstodoinyourcity
+DTSTAMP:20261105T054905Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Panel Discussion: Finance and the Sacred
+DESCRIPTION:Artists and academics explore debt\, gamification and conspir
+ acy. Linked to Bahar Noorizadeh's exhibition and mural\, it features Max
+  Haiven and Lama El Khatib.\nPrice: Tickets £5.\nhttps://eventslist.co.
+ uk/london/exhibitions
+LOCATION:The Showroom Gallery\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b0a36635e56f471ba45b2fbcf9977d60-occ_1385f7377f5c45f896893e64582
  501a7@thingstodoinyourcity
 DTSTAMP:20261031T221530Z
@@ -2659,14 +2683,144 @@ URL:https://www.eventbrite.co.uk/e/panel-discussion-wakaliga-uganda-and-a
  ue
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_0ae6c666e1c8459aa3b9f69054e
+ 9f2bb@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_242e00875b3743cd87ec1cf19f1
+ a41f4@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_cfb7e7c1016349b9acf0bc29b82
+ 56577@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_1307b11a7ca043049efd8c50f4c
+ 8b740@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_cb6eaf89c34d40fbb205b7efb3b
+ 5afdc@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_bc88944a199041e3979cee32659
+ 2fb1f@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261210
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_bac6f885d12f452b951b4d575b5
+ e781e@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261217
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_c2b6483e721b472e8954b909dd2
+ 962f5@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261224
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_a2673fc4c1fa43afa469b28da44
+ 2a14e@thingstodoinyourcity
+DTSTAMP:20261105T055211Z
+DTSTART;VALUE=DATE:20261231
+SUMMARY:Paradox Nexus - Thursdays at Gallery
+DESCRIPTION:The listing says the event features a performance by BRADII. 
+ Tickets are sold through official ticketing providers\, according to the
+  listing.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
+ ions
+LOCATION:XOYO\, Shoreditch\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_359c5f133d83411faa9d6bd994bc71d2-occ_e12133e2984842c0a969a5e2f28
+ 920b9@thingstodoinyourcity
+DTSTAMP:20261105T074857Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Phil Wang: UH OH
+DESCRIPTION:Comedian Phil Wang brings his live UH OH show to the stage. B
+ ooking is through the listing's Get tickets link\, with tickets listed a
+ s available.\nhttps://opencomedy.com/uk/gigs/london
+LOCATION:Alban Arena\, St Albans\, London
+URL:https://opencomedy.com/uk/gigs/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_77a448b3ed8e4a01a28672626473ee16-occ_00c0b916cb2a4057a94e593e020
  48185@thingstodoinyourcity
-DTSTAMP:20261103T014132Z
+DTSTAMP:20261105T082501Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Pink Palace: Who Killed Teddy Bear
-DESCRIPTION:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949921
+DESCRIPTION:https://riocinema.org.uk/Rio.dll/WhatsOn
 LOCATION:Rio Cinema\, Dalston\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949921
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_15c0a2d95aa54bbea88132ca44413324-occ_82179d254a1a4aa3a0554745563
@@ -3325,6 +3479,20 @@ LOCATION:The London Library\, London
 URL:https://www.londonlibrary.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2c8baa88b94b4f309d5911469977cf2a-occ_8b08c673a3de470f9f3e2c2229e
+ b8956@thingstodoinyourcity
+DTSTAMP:20261105T055049Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:Tubular Steel Chairs to Brutalism: The Marcel Breuer Collection i
+ n Budapest
+DESCRIPTION:Ágnes Anna Sebestyén presents a new book on the Hungarian M
+ useum of Architecture's Breuer collection. It covers Cape Cod acquisitio
+ ns and a Michael Szarvasy donation.\nPrice: £15\nhttps://eventslist.co.
+ uk/london/exhibitions
+LOCATION:Isokon Gallery\, Gospel Oak\, London\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0c82681fe01e4bbe861264641ee4392d-occ_dead9935a46d4f359608c5fc4ee
  abd85@thingstodoinyourcity
 DTSTAMP:20261104T003943Z
@@ -3449,7 +3617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9c2a3b8ea3834180972514e1be77d920-occ_2578f6614d864c45b719aa6891a
  36be6@thingstodoinyourcity
-DTSTAMP:20261104T031512Z
+DTSTAMP:20261105T055414Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Wimbledon Park Bonfire & Fireworks 2026
 DESCRIPTION:Price: Adults: Advance sales: £15.00\; Children: Advance sal
@@ -3592,6 +3760,38 @@ DESCRIPTION:Visit two UNESCO World Heritage sites\, St George's Chapel an
 LOCATION:Victoria Coach Station\, Victoria Coach Station\, 164 Buckingham
   Palace Road\, London\, SW1W 9TP\, London
 URL:https://feverup.com/en/london/when/this-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_afb536c260524ef8b1efa754c00bd5f3-occ_5ccc4d5475d744b6bd2391c8d62
+ 3efd1@thingstodoinyourcity
+DTSTAMP:20261105T075120Z
+DTSTART:20261105T091500Z
+DTEND:20261105T115000Z
+SUMMARY:Young Flyers Aerial Classes
+DESCRIPTION:Aerial hoop\, silks\, slings and static trapeze classes for c
+ hildren aged 7-12 to play and learn upside-down. Includes a Watching Wee
+ k performance and an Aerial Games Week.\nPrice: £23 trial £299 full te
+ rm\nhttps://www.southwark.gov.uk/southwark-presents/young-flyers-aerial-
+ classes-0
+LOCATION:Arch 27\, Old union yard arches\, Arch 27\, Old union yard arche
+ s 229 Union St London SE1 0LR United Kingdom\, Bankside\, London
+URL:https://www.southwark.gov.uk/southwark-presents/young-flyers-aerial-c
+ lasses-0
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_44e1127a8c0d4d858547d4dcc894979e-occ_4d8f905a184a4437a821e6506d3
+ 8b8ab@thingstodoinyourcity
+DTSTAMP:20261105T073409Z
+DTSTART:20261105T093000Z
+DTEND:20261105T103000Z
+SUMMARY:Mind and Body Yoga
+DESCRIPTION:Yoga aimed at balancing body and mind\, as described in the l
+ isting. Categorised under Sports & Fitness and Wellness & Wellbeing.\nPr
+ ice: Not listed — worth a quick ask\nhttps://nearhere.events/events/8b
+ fc5c1d40445f2a/mind-and-body-yoga
+LOCATION:Chelsea Library\, Chelsea Old Town Hall\, King's Rd\, London\, S
+ W3 5EZ\, London
+URL:https://nearhere.events/events/8bfc5c1d40445f2a/mind-and-body-yoga
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9ee059d24ce34758ad61942d17f88d27-occ_e66df192243e4f04b0ed9ab670c
@@ -3815,6 +4015,17 @@ URL:https://www.westminster.gov.uk/event/stop-smoking-cessations-church-s
  treet-library
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_43fc271392cf4dc68daf6608fb653a13-occ_b439d7b6b3f5415ca1cf014140f
+ 5cbfb@thingstodoinyourcity
+DTSTAMP:20261105T073444Z
+DTSTART:20261105T100000Z
+SUMMARY:Asian Art 亞洲藝術
+DESCRIPTION:Price: Not listed — worth a quick ask\nhttps://nearhere.eve
+ nts/events/9bbaebbf/asian-art
+LOCATION:Chiswick Auctions\, 127 Fulham Road\, London
+URL:https://nearhere.events/events/9bbaebbf/asian-art
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3ce4364e9bfd46e5887b100535d6d617-occ_417889e86b164591a7e9b05bec2
  195ad@thingstodoinyourcity
 DTSTAMP:20261031T222759Z
@@ -3887,6 +4098,54 @@ DESCRIPTION:Linked to the Agatha Christie exhibition\, students explore w
  nhttps://events.bl.uk/events/history-of-medicine-study-day
 LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
 URL:https://events.bl.uk/events/history-of-medicine-study-day
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_337c66591759409fa756b71c8f1de1ed-occ_3466556fa37b4c7e997a3ea55c2
+ 0eee3@thingstodoinyourcity
+DTSTAMP:20261105T075223Z
+DTSTART:20261105T100000Z
+DTEND:20261105T110000Z
+SUMMARY:Ladies Social Thursday Tennis @ Dulwich Park
+DESCRIPTION:A drop-in tennis session for women who consider themselves be
+ ginners\, improvers or intermediates. It offers drills and games\, with 
+ participation the key focus.\nPrice: £12.50\nhttps://www.southwark.gov.
+ uk/southwark-presents/ladies-social-thursday-tennis-dulwich-park
+LOCATION:Dulwich Park Tennis Courts (1 & 2)\, Dulwich SE21 7BB United Kin
+ gdom\, Dulwich\, London
+URL:https://www.southwark.gov.uk/southwark-presents/ladies-social-thursda
+ y-tennis-dulwich-park
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_57b10c873670493cbde0c80a350ca6a2-occ_1a492bcc2a5b4aaf965f8a3ed94
+ 0af4d@thingstodoinyourcity
+DTSTAMP:20261105T075417Z
+DTSTART:20261105T100000Z
+DTEND:20261105T113000Z
+SUMMARY:Parent and Child Swimming Lessons
+DESCRIPTION:Play-based swimming lessons for babies and young children wit
+ h a parent or carer. Classes are led by a DBS-checked\, STA-qualified te
+ acher.\nhttps://www.southwark.gov.uk/southwark-presents/parent-and-child
+ -swimming-lessons
+LOCATION:Downside Fisher Youth Centre\, Coxson Place Druid Street London 
+ SE1 2EZ United Kingdom\, Bermondsey\, London
+URL:https://www.southwark.gov.uk/southwark-presents/parent-and-child-swim
+ ming-lessons
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_28fb3da8159e474099340085c5091680-occ_286ca2ec582246898b7df1bb03b
+ 40765@thingstodoinyourcity
+DTSTAMP:20261105T075212Z
+DTSTART:20261105T100000Z
+DTEND:20261105T110000Z
+SUMMARY:Sensory storytelling and play
+DESCRIPTION:Sensory-friendly storytelling and play sessions for families 
+ with neurodivergent children. Held monthly on the first Thursday in a ca
+ lm\, supportive environment.\nhttps://www.southwark.gov.uk/southwark-pre
+ sents/sensory-storytelling-and-play-0
+LOCATION:Dulwich Library\, 368 Lordship Lane London SE22 8NB United Kingd
+ om\, London
+URL:https://www.southwark.gov.uk/southwark-presents/sensory-storytelling-
+ and-play-0
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_495afa143d92416fb3ea416eae4c0db3-occ_2b2cbae6e20043379c6dcb136d4
@@ -5372,6 +5631,23 @@ LOCATION:London
 URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4a9c1b976222448ea697067019149452-occ_b016584b0edb48e9a9e9ad99bfc
+ 40933@thingstodoinyourcity
+DTSTAMP:20261105T075455Z
+DTSTART:20261105T120000Z
+DTEND:20261105T140000Z
+SUMMARY:English+ at Canada Water Library
+DESCRIPTION:A relaxed group for studying English as a second language thr
+ ough group discussion. It is less formal than a regular ESOL class\, cov
+ ering grammar and vocabulary.\nPrice: Free\, no advance booking required
+ .\nhttps://www.southwark.gov.uk/southwark-presents/english-canada-water-
+ library
+LOCATION:Canada Water Library\, 21 Surrey Quays Rd London SE16 7AR United
+  Kingdom\, Rotherhithe\, London
+URL:https://www.southwark.gov.uk/southwark-presents/english-canada-water-
+ library
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fef1e570164642c3bc24f08c124a3160-occ_786e9802937c46519a4b752b3d0
  11127@thingstodoinyourcity
 DTSTAMP:20261102T120530Z
@@ -6194,6 +6470,21 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018562/sense-and-
  sensibility-2026?filter=
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7740a285e738442db4d69e0beae2b4ed-occ_2feaf31de5db40d6a946ed61f59
+ b44ef@thingstodoinyourcity
+DTSTAMP:20261105T060616Z
+DTSTART:20261105T153000Z
+DTEND:20261105T190000Z
+SUMMARY:Coram’s Fields Fireworks Display
+DESCRIPTION:Gates open at 3:30pm\, with stage entertainment from 4:15pm. 
+ Expect local children's performances\, fairground rides and street food 
+ before the 6pm display.\nPrice: Free\nhttps://londoncheapo.com/events/co
+ rams-fields-fireworks-display/
+LOCATION:Coram’s Fields\, 93 Guilford Street\, London\, WC1N 1DN\, Bloo
+ msbury\, London
+URL:https://londoncheapo.com/events/corams-fields-fireworks-display/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b49e9502d5494c3f881d783235cfa4f1-occ_8acf254d45f34f3fb58b73fe98c
  13762@thingstodoinyourcity
 DTSTAMP:20261027T154447Z
@@ -6491,6 +6782,16 @@ URL:https://www.westfield.com/en/united-kingdom/london/events/john-lewis-
  find-the-perfect-gift-with-floral-street/139255
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ced23b1ef87743a2a1988eee7492e09d-occ_87df2d34557a45a1b1e3eb57e2d
+ 6e18d@thingstodoinyourcity
+DTSTAMP:20261105T075335Z
+DTSTART:20261105T173000Z
+SUMMARY:Trafalgar Theatre
+DESCRIPTION:https://opencomedy.com/uk/gigs/london
+LOCATION:Trafalgar Theatre\, London
+URL:https://opencomedy.com/uk/gigs/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e0384b868281468390ea46f0621ddfe4-occ_15b3fe0629134aec954ea1ab152
  29e64@thingstodoinyourcity
 DTSTAMP:20261105T034310Z
@@ -6522,20 +6823,6 @@ URL:https://princecharlescinema.com/film/23054753/salo-or-the-120-days-of
  -sodom/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f655ce2ff6f343fa84297b77db82a85e-occ_317ecd97100544ad844b40e5c0f
- b52d2@thingstodoinyourcity
-DTSTAMP:20261104T033429Z
-DTSTART:20261105T180000Z
-SUMMARY:Back in the Eighties by Clare Muller Private View
-DESCRIPTION:The exhibition features unseen and recently digitised photogr
- aphy documenting music culture in the early 1980s. Admission to the priv
- ate view is free.\nPrice: Free Entry\nhttps://eventslist.co.uk/london/ex
- hibitions
-LOCATION:Museum of Youth Culture\, 51 St Pancras Way\, London NW1 0PZ\, C
- amden\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3a6d10199d2840bd89d12432bba4ea03-occ_e47fd01d695a4e31a2b7fed76c8
  06e11@thingstodoinyourcity
 DTSTAMP:20261104T061803Z
@@ -6549,22 +6836,6 @@ DESCRIPTION:Part two of an exclusive Frida Kahlo-inspired workshop for cr
 LOCATION:Dalston CLR James Library\, Dalston CLR James Library\, London\,
   E8 3BQ\, London
 URL:https://www.outsavvy.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_49ce62e786354170adb9f57eb490c8a2-occ_7dc7bce8d44149f3a9288c2b4d6
- 17359@thingstodoinyourcity
-DTSTAMP:20261104T033010Z
-DTSTART:20261105T180000Z
-DTEND:20261105T200000Z
-SUMMARY:David Tarbox Exhibition: Bomb The Format. Private View
-DESCRIPTION:Cassettes\, ghetto blasters and 12-inch record covers\, bombe
- d with pens and spray paint. The Brixton-based artist's family heritage 
- is rooted in Belfast mural painting.\nPrice: Free Entry\nhttps://www.eve
- ntbrite.co.uk/e/david-tarbox-exhibition-bomb-the-format-private-view-tic
- kets-1998644635908
-LOCATION:Brixton Library\, Brixton Oval\, London\, SW2 1JQ\, London
-URL:https://www.eventbrite.co.uk/e/david-tarbox-exhibition-bomb-the-forma
- t-private-view-tickets-1998644635908
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2220818401234b2aaeb1cfe34642d93d-occ_8fbae976b63c421e9029a7f2302
@@ -6802,6 +7073,16 @@ LOCATION:Trafalgar Theatre\, London
 URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d9703bc7f5ea4587b92ff3c481215c5c-occ_796261c1ef66447aaf78c083728
+ 79304@thingstodoinyourcity
+DTSTAMP:20261105T075310Z
+DTSTART:20261105T180000Z
+SUMMARY:Top Secret Comedy Club
+DESCRIPTION:https://opencomedy.com/uk/gigs/london
+LOCATION:Top Secret Comedy Club\, London
+URL:https://opencomedy.com/uk/gigs/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7c3b78a776734389a925b7d237e96d36-occ_c8ee71731b554af698613c486ac
  88a4a@thingstodoinyourcity
 DTSTAMP:20261105T033834Z
@@ -6959,18 +7240,20 @@ URL:https://www.outsavvy.com/event/40943/jake-x-friend-of-dorothy-super-g
  ay-network-event
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_25f2b8ed193842d7a6a13ff40a8322e4-occ_c10fcf79d1f44dcfac01ae843a5
- 6d0eb@thingstodoinyourcity
-DTSTAMP:20261104T032425Z
+UID:cand_541848b3e360492e849a371d79465a9e-occ_a1c66e70d98f4d7faef922d64e2
+ 7ca28@thingstodoinyourcity
+DTSTAMP:20261105T073504Z
 DTSTART:20261105T183000Z
-SUMMARY:Panel Discussion: Finance and the Sacred
-DESCRIPTION:Artists and academics discuss debt\, gamification and conspir
- acy\, convened by The Otolith Collective. It is linked to Bahar Noorizad
- eh's exhibition and mural.\nPrice: Tickets £5.\nhttps://eventslist.co.u
- k/london/exhibitions
-LOCATION:The Showroom Gallery\, 63 Penfold Street\, London\, NW8 8PQ\, Lo
- ndon
-URL:https://eventslist.co.uk/london/exhibitions
+SUMMARY:Music: Carnatic Vocal Performance
+DESCRIPTION:Vocalist Savita Sundaresan leads\, joined by violinist Vivek 
+ Dinesh and percussionist RN Prakash. Savita has trained for 17 years and
+  performs across India\, the UK and the U.S.\nPrice: Not listed — wort
+ h a quick ask\nhttps://www.nehrucentre.org.uk/events/music-carnatic-voca
+ l-performance/
+LOCATION:Nehru Centre London\, 8 South Audley Street\, London\, W1K 1HF\,
+  Mayfair\, London
+URL:https://www.nehrucentre.org.uk/events/music-carnatic-vocal-performanc
+ e/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9ab335000794413e999377a4af0c13fd-occ_7b0730f572f84f0d97d5e1555b1
@@ -7049,21 +7332,6 @@ DESCRIPTION:COP30 President André Corrêa do Lago and Rachel Kyte join t
 LOCATION:Old Theatre\, Old Building\, London
 URL:https://lectures.london/london-school-of-economics/the-economics-of-t
  ransitioning-away-from-fossil-fuels/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2c8baa88b94b4f309d5911469977cf2a-occ_8b08c673a3de470f9f3e2c2229e
- b8956@thingstodoinyourcity
-DTSTAMP:20261104T032807Z
-DTSTART:20261105T183000Z
-SUMMARY:Tubular Steel Chairs to Brutalism: The Marcel Breuer Collection i
- n Budapest
-DESCRIPTION:A talk on a new book about the Hungarian Museum of Architectu
- re's Marcel Breuer collection. It covers Cape Cod acquisitions and a don
- ation by collector Michael Szarvasy.\nPrice: £15\nhttps://eventslist.co
- .uk/london/exhibitions
-LOCATION:Isokon Gallery\, Lawn Road\, London\, NW3 2XD\, Gospel Oak\, Lon
- don\, London
-URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_75b35cef28e24fa584f3b8e527194063-occ_3617c558d528477ea456950fa0d
@@ -7687,17 +7955,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_25549b8563974ed185f82a4d7100e3f1-occ_36675810ba384545a27f9a743ee
  13702@thingstodoinyourcity
-DTSTAMP:20261104T030101Z
+DTSTAMP:20261105T060135Z
 DTSTART:20261105T190000Z
 DTEND:20261105T220000Z
 SUMMARY:Thursday | Singles Drinks & Open Mic Night | Victoria
-DESCRIPTION:Price: Early Bird Ticket £12\; General Admission Ticket £18
- \; On-the-door Ticket £25\nhttps://www.thursday.com/events/london/thurs
- day-singles-night-tusktrust
+DESCRIPTION:Singles-only night with optional open-mic karaoke\, where gue
+ sts can sing solo or duet with a new crush. 50% of ticket sales (excludi
+ ng booking fees) go to Tusk Trust.\nPrice: Early Bird Ticket £12\; Gene
+ ral Admission Ticket £18\; On-the-door Ticket £25\nhttps://www.thursda
+ y.com/events/london
 LOCATION:BAM Karaoke Box | Victoria\, 74 Victoria St\, London SW1E 6SQ\, 
- UK\, London
-URL:https://www.thursday.com/events/london/thursday-singles-night-tusktru
- st
+ UK\, Victoria\, London
+URL:https://www.thursday.com/events/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9e91f8877d35487098e38f515ad1b524-occ_68e90bbaa4e140159ba0b5de6e7
@@ -7845,13 +8114,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_19cd9a7449ce4599816b51e82c23de3d-occ_8fc32ebc644f49f0a8e109effd7
  9777b@thingstodoinyourcity
-DTSTAMP:20261104T042543Z
+DTSTAMP:20261105T073228Z
 DTSTART:20261105T193000Z
 SUMMARY:Discovering the Galápagos
 DESCRIPTION:Meet blue-footed boobies\, hammerhead sharks and giant tortoi
- ses. National Geographic Explorer Sarah Knutie explores Darwin's finches
-  and shark nurseries.\nPrice: Not listed — worth a quick ask\nhttps://
- live.nationalgeographic.org/event/Discovering-The-Galapagos-Sarah-Knutie
+ ses. Explorer Sarah Knutie explores Darwin’s finches and shark nurseri
+ es.\nPrice: Not listed — worth a quick ask\nhttps://live.nationalgeogr
+ aphic.org/event/Discovering-The-Galapagos-Sarah-Knutie
 LOCATION:National Geographic\, 102 Brompton Road\, London\, SW3 1\, Knigh
  tsbridge\, London
 URL:https://live.nationalgeographic.org/event/Discovering-The-Galapagos-S
@@ -7899,19 +8168,6 @@ LOCATION:Fitzrovia Chapel\, Fitzroy Place\, 2 Pearson Square\, London W1T
   3BF\, London
 URL:https://www.fitzroviachapel.org/event/off-colour-kay-simpson-eric-hua
  ng-in-conversation-with-ross-macfarlane/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_359c5f133d83411faa9d6bd994bc71d2-occ_e12133e2984842c0a969a5e2f28
- 920b9@thingstodoinyourcity
-DTSTAMP:20261104T044200Z
-DTSTART:20261105T193000Z
-SUMMARY:Phil Wang: UH OH
-DESCRIPTION:A live stand-up performance by Phil Wang\, with tickets liste
- d as available. Booking is through the listing's Get tickets link.\nhttp
- s://opencomedy.com/uk/gigs/london
-LOCATION:Alban Arena\, Civic Centre\, St Albans\, AL1 3LD\, St Albans\, L
- ondon
-URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_842678b5f4d64f1a95aa5f71debefcdb-occ_4010005a097f4015ad726603817
@@ -8160,124 +8416,6 @@ LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
 URL:https://bigbellycomedy.club/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_0ae6c666e1c8459aa3b9f69054e
- 9f2bb@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART:20261105T230000Z
-DTEND;VALUE=DATE:20261106
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_242e00875b3743cd87ec1cf19f1
- a41f4@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART:20261112T230000Z
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_cfb7e7c1016349b9acf0bc29b82
- 56577@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261119
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_1307b11a7ca043049efd8c50f4c
- 8b740@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261126
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_cb6eaf89c34d40fbb205b7efb3b
- 5afdc@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_bc88944a199041e3979cee32659
- 2fb1f@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261210
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_bac6f885d12f452b951b4d575b5
- e781e@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261217
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_c2b6483e721b472e8954b909dd2
- 962f5@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261224
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b02eb78142d402aa989fdaf162f0990-occ_a2673fc4c1fa43afa469b28da44
- 2a14e@thingstodoinyourcity
-DTSTAMP:20261104T033222Z
-DTSTART;VALUE=DATE:20261231
-SUMMARY:Paradox Nexus - Thursdays at Gallery
-DESCRIPTION:Features a performance by BRADII at XOYO. The listing shows n
- ine Thursday dates\, with tickets sold through official ticketing provid
- ers.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:XOYO\, 32-37 Cowper Street\; Shoreditch\; London EC2A 4AP\; Unit
- ed Kingdom\, Shoreditch\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_633b0ed6c70747ff8b8d3f5b60ac0dbf-occ_f6cd1c1c00e2470f923304d816e
  095af@thingstodoinyourcity
 DTSTAMP:20261104T235335Z
@@ -8373,9 +8511,22 @@ URL:https://lectures.london/kings-college-london/closed-doors-on-citizens
  hip-denial-in-germany
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ac5a983bd85d4f309298a80e934d4eed-occ_04362536c01342e794626ab9b21
+ 90f9c@thingstodoinyourcity
+DTSTAMP:20261105T060126Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Clothing Upcycling in Isle of Dogs | Free for All
+DESCRIPTION:Upcycle second-hand clothes in a creative session\; finished 
+ items are sold in the café to support a Soho homeless project. Held wee
+ kly on Fridays.\nPrice: Free to attend. Everyone is welcome.\nhttps://ww
+ w.meetup.com/livingroom-east-arts/events/317023286/
+LOCATION:Living Room Club Glengal Grove\, Tower Hamlets\, London\, London
+URL:https://www.meetup.com/livingroom-east-arts/events/317023286/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d5b7a67467c342179c4ec3231877692e-occ_ba632b6031d74fdaacd2f2f819d
  3db4f@thingstodoinyourcity
-DTSTAMP:20261104T042656Z
+DTSTAMP:20261105T074955Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Corner Corner Comedy Club
 DESCRIPTION:https://opencomedy.com/uk/gigs/london
@@ -8777,6 +8928,18 @@ URL:https://www.visitrichmond.co.uk/events/landscape-tours-at-marble-hill
  -p2506651
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8bd1400b98794f758f841df80f7bcab4-occ_745874a8d556487b87bfc50c090
+ 14ae1@thingstodoinyourcity
+DTSTAMP:20261105T075116Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Larry Dean: Hellbent
+DESCRIPTION:Larry Dean performs live with his Hellbent show. Tickets are 
+ listed as available through the Get tickets link.\nhttps://opencomedy.co
+ m/uk/gigs/london
+LOCATION:Soho Theatre Walthamstow\, London
+URL:https://opencomedy.com/uk/gigs/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_066885a0f1724c3abb20c6f94bcf2227-occ_d31829bdccba47e4b864ec8dad9
  ade9b@thingstodoinyourcity
 DTSTAMP:20261104T181513Z
@@ -8817,6 +8980,18 @@ DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
  n
 LOCATION:34 Bloomsbury\, London WC1B 3QJ\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_002b04b6481048f79b1274067a462d80-occ_f05a37e0ecda4ee09c194f6acf2
+ b30f3@thingstodoinyourcity
+DTSTAMP:20261105T075032Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Maisie Adam: Whatsherface
+DESCRIPTION:Comedian Maisie Adam performs her Whatsherface show live. Tic
+ kets are listed as available on the event page.\nhttps://opencomedy.com/
+ uk/gigs/london
+LOCATION:The Stables - Milton Keynes\, Milton Keynes\, London
+URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_27d2b3f980f147e4baa4bca5a22a1413-occ_18fde6c63bde490e8fde74667db
@@ -9020,7 +9195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cf7894b5e957475eaa51f9d27d445c5b-occ_2b6ca0bec3444816ab53b4079b6
  a0ab2@thingstodoinyourcity
-DTSTAMP:20261104T035110Z
+DTSTAMP:20261105T070305Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Open Mic Acoustic Night - Firepit Red Room Sessions
 DESCRIPTION:An intimate acoustic open mic for singer-songwriters\, guitar
@@ -9295,7 +9470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3798a78f15e24d1ca49e3a35233bc56a-occ_8c9b15c8790c416184066e5008c
  ebbc6@thingstodoinyourcity
-DTSTAMP:20261104T044343Z
+DTSTAMP:20261105T074953Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:The Ginger Giggle Club
 DESCRIPTION:https://opencomedy.com/uk/gigs/london
@@ -9316,15 +9491,15 @@ LOCATION:Riverside Studios\, London
 URL:https://riversidestudios.co.uk/whats-on/u4H-thread-special-qa/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_72002e329cbb4ad5becbaa133d40b4fa-occ_ba92b4a8d9914f7cb562ae2e3d4
- 8345b@thingstodoinyourcity
-DTSTAMP:20261104T050140Z
+UID:cand_72002e329cbb4ad5becbaa133d40b4fa-occ_cc61fc2ab10443c1a9cef4e8b92
+ d996c@thingstodoinyourcity
+DTSTAMP:20261105T070414Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Tiny Tides Peninsula Under-5 Social Club
-DESCRIPTION:Calm\, sensory-friendly play lets little ones explore at thei
- r own pace. Families also meet locally and discover the Peninsula's park
- s and cafés together.\nPrice: Free\nhttps://tinytidespeninsula.co.uk/se
- ssions/cec8ba59-afaa-4d07-980d-4a1b3d45685a
+DESCRIPTION:Babies\, toddlers and grown-ups can relax together with gentl
+ e sensory play. Families also get a chance to meet others on the Peninsu
+ la.\nPrice: Free\nhttps://tinytidespeninsula.co.uk/sessions/cec8ba59-afa
+ a-4d07-980d-4a1b3d45685a
 LOCATION:Firepit Art Gallery and Studios\, London
 URL:https://tinytidespeninsula.co.uk/sessions/cec8ba59-afaa-4d07-980d-4a1
  b3d45685a
@@ -9332,13 +9507,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_72002e329cbb4ad5becbaa133d40b4fa-occ_db10952fee3a4305b841e36cab9
  81a18@thingstodoinyourcity
-DTSTAMP:20261104T050140Z
+DTSTAMP:20261105T070414Z
 DTSTART;VALUE=DATE:20261113
 SUMMARY:Tiny Tides Peninsula Under-5 Social Club
-DESCRIPTION:Calm\, sensory-friendly play lets little ones explore at thei
- r own pace. Families also meet locally and discover the Peninsula's park
- s and cafés together.\nPrice: Free\nhttps://tinytidespeninsula.co.uk/se
- ssions/cec8ba59-afaa-4d07-980d-4a1b3d45685a
+DESCRIPTION:Babies\, toddlers and grown-ups can relax together with gentl
+ e sensory play. Families also get a chance to meet others on the Peninsu
+ la.\nPrice: Free\nhttps://tinytidespeninsula.co.uk/sessions/cec8ba59-afa
+ a-4d07-980d-4a1b3d45685a
 LOCATION:Firepit Art Gallery and Studios\, London
 URL:https://tinytidespeninsula.co.uk/sessions/cec8ba59-afaa-4d07-980d-4a1
  b3d45685a
@@ -9358,7 +9533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a6bff6976704b0bb50002957d1d9c59-occ_e0bdd97ead3b449baf49074c8d1
  a57b8@thingstodoinyourcity
-DTSTAMP:20261104T035210Z
+DTSTAMP:20261105T070351Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Touch Grass Day-Tripper: Wild Creatives (Upcycling)
 DESCRIPTION:Learn basic hand sewing and embroidery to make an upcycled ch
@@ -9384,7 +9559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_dfe7886b57c24ace9a4ab69ed5d7994b-occ_e162073371be43ca93f3e2b5cd6
  59408@thingstodoinyourcity
-DTSTAMP:20261104T033757Z
+DTSTAMP:20261105T064027Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Vinyl Market
 DESCRIPTION:Rare and collectable vintage vinyl plus some new stuff\, sour
@@ -10074,20 +10249,6 @@ DESCRIPTION:Gong class using vibrations to guide you into deep\, calm med
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Gong-/138241340?ski
  pPreview=true
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ac5a983bd85d4f309298a80e934d4eed-occ_04362536c01342e794626ab9b21
- 90f9c@thingstodoinyourcity
-DTSTAMP:20261104T031636Z
-DTSTART:20261106T123000Z
-SUMMARY:Clothing Upcycling in Isle of Dogs | Free for All
-DESCRIPTION:Upcycle second-hand clothes in a creative session\, with item
- s sold in the café to support a Soho homeless project. Held weekly on F
- ridays.\nPrice: Free to attend. Everyone is welcome.\nhttps://www.meetup
- .com/livingroom-east-arts/events/317023286/
-LOCATION:Living Room Club Glengal Grove\, 3 Glengal Grove\, E143NE\, Lond
- on\, E14 3NE\, London
-URL:https://www.meetup.com/livingroom-east-arts/events/317023286/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4f158c29dc6d48fdb64e30d8e1cdc448-occ_52f64d105d834cd581443f63523
