@@ -494,7 +494,7 @@ SUMMARY:Stevie Wonder: Songs in the Key of Life
 DESCRIPTION:The 50th anniversary tour performs the 1976 album in full. It
   earned Stevie Wonder his third GRAMMY for Album of the Year.\nhttps://w
  ww.theo2.co.uk/events/detail/stevie-wonder
-LOCATION:The O2 arena\, Peninsula Square\, London SE10 0DX\, London
+LOCATION:O2 Arena\, Peninsula Square\, London SE10 0DX\, London
 URL:https://www.theo2.co.uk/events/detail/stevie-wonder
 END:VEVENT
 BEGIN:VEVENT
@@ -506,7 +506,7 @@ SUMMARY:Stevie Wonder: Songs in the Key of Life
 DESCRIPTION:The 50th anniversary tour performs the 1976 album in full. It
   earned Stevie Wonder his third GRAMMY for Album of the Year.\nhttps://w
  ww.theo2.co.uk/events/detail/stevie-wonder
-LOCATION:The O2 arena\, Peninsula Square\, London SE10 0DX\, London
+LOCATION:O2 Arena\, Peninsula Square\, London SE10 0DX\, London
 URL:https://www.theo2.co.uk/events/detail/stevie-wonder
 END:VEVENT
 BEGIN:VEVENT
@@ -1291,13 +1291,28 @@ LOCATION:David Zwirner\, London
 URL:https://www.davidzwirner.com/events?tkn=JN2WcvvMKN&lid=f63zzplr05ds
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_604a65fad67a41919a7778757f386abe-occ_1d5109c960314b589201e3ee11e
- 61976@thingstodoinyourcity
+UID:cand_604a65fad67a41919a7778757f386abe-occ_2297378ef2244a808aaba81ff1e
+ b3419@thingstodoinyourcity
 DTSTAMP:20261104T235250Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Coram's Fields Fireworks Night
-DESCRIPTION:Price: Fireworks Night is free to attend.\nhttps://www.primar
- ytimes.co.uk/south_london/listings
+DESCRIPTION:Live stage shows\, food and drink stalls and fairground rides
+  lead up to a spectacular fireworks display. Adults must be accompanied 
+ by a child at entry.\nPrice: Fireworks Night is free to attend.\nhttps:/
+ /www.primarytimes.co.uk/south_london/listings
+LOCATION:Coram's Fields\, London
+URL:https://www.primarytimes.co.uk/south_london/listings
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_604a65fad67a41919a7778757f386abe-occ_1d5109c960314b589201e3ee11e
+ 61976@thingstodoinyourcity
+DTSTAMP:20261104T235250Z
+DTSTART:20261105T153000Z
+SUMMARY:Coram's Fields Fireworks Night
+DESCRIPTION:Live stage shows\, food and drink stalls and fairground rides
+  lead up to a spectacular fireworks display. Adults must be accompanied 
+ by a child at entry.\nPrice: Fireworks Night is free to attend.\nhttps:/
+ /www.primarytimes.co.uk/south_london/listings
 LOCATION:Coram's Fields\, London
 URL:https://www.primarytimes.co.uk/south_london/listings
 END:VEVENT
@@ -2065,34 +2080,6 @@ LOCATION:Peckhamplex Multi-screen Cinema London\, Peckham\, London
 URL:https://www.peckhamplex.london/film/godzilla-minus-zero
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_53343d7fddb24d209a40597f49050345-occ_6ed0d83d8d2b440e8a6b0e00240
- c4ace@thingstodoinyourcity
-DTSTAMP:20261031T214444Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Good Sex
-DESCRIPTION:Each night two strangers\, guided by an Intimacy Director\, t
- ell a funny story of desire and loneliness. Dead Centre and Emilie Pine 
- present the UK premiere\, running 80 minutes with no interval.\nPrice: P
- ay What You Can (Recommended Price £25)\nhttps://bac.org.uk/whats-on-hi
- ghlights
-LOCATION:Battersea Arts Centre\, London
-URL:https://bac.org.uk/whats-on-highlights
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_53343d7fddb24d209a40597f49050345-occ_6c355f3666dd4eccbecb7a8feaa
- aa802@thingstodoinyourcity
-DTSTAMP:20261031T214444Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Good Sex
-DESCRIPTION:Each night two strangers\, guided by an Intimacy Director\, t
- ell a funny story of desire and loneliness. Dead Centre and Emilie Pine 
- present the UK premiere\, running 80 minutes with no interval.\nPrice: P
- ay What You Can (Recommended Price £25)\nhttps://bac.org.uk/whats-on-hi
- ghlights
-LOCATION:Battersea Arts Centre\, London
-URL:https://bac.org.uk/whats-on-highlights
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_acf40aff72fa47d6874ea7703bf30b6d-occ_9d8997cc4b18455cbeb60fbcba7
  2b106@thingstodoinyourcity
 DTSTAMP:20261031T212153Z
@@ -2412,40 +2399,6 @@ LOCATION:Peckhamplex Multi-screen Cinema\, 95a Rye Lane\, London\, SE15 4
 URL:https://www.peckhamplex.london/film/in-the-shadows
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_66f7bdca814845c0bf06671529ba6c54-occ_f78f012d55664e008bbdd51852d
- 92ee9@thingstodoinyourcity
-DTSTAMP:20261105T162740Z
-DTSTART;VALUE=DATE:20261105
-DTEND:20261105T203000Z
-SUMMARY:Intimate Pharma & Public Politics: Abortion\, HIV\, and Making Ac
- cess to Medicines
-DESCRIPTION:Women Help Women and ABIA speakers cover abortion medicine in
- novation and HIV medicine access. A chaired audience discussion follows.
- \nPrice: Free\nhttps://www.eventbrite.co.uk/e/intimate-pharmapublic-poli
- tics-abortion-hiv-making-access-to-medicines-tickets-1999473833059
-LOCATION:River Room\, King's Building (2nd Floor)\, King's College London
-  London WC2R 2LS\, London
-URL:https://www.eventbrite.co.uk/e/intimate-pharmapublic-politics-abortio
- n-hiv-making-access-to-medicines-tickets-1999473833059
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_66f7bdca814845c0bf06671529ba6c54-occ_344c43aa8f6e49f3bc0aa5a301b
- 35f0a@thingstodoinyourcity
-DTSTAMP:20261105T162740Z
-DTSTART:20261105T190000Z
-DTEND:20261105T203000Z
-SUMMARY:Intimate Pharma & Public Politics: Abortion\, HIV\, and Making Ac
- cess to Medicines
-DESCRIPTION:Women Help Women and ABIA speakers cover abortion medicine in
- novation and HIV medicine access. A chaired audience discussion follows.
- \nPrice: Free\nhttps://www.eventbrite.co.uk/e/intimate-pharmapublic-poli
- tics-abortion-hiv-making-access-to-medicines-tickets-1999473833059
-LOCATION:River Room\, King's Building (2nd Floor)\, King's College London
-  London WC2R 2LS\, London
-URL:https://www.eventbrite.co.uk/e/intimate-pharmapublic-politics-abortio
- n-hiv-making-access-to-medicines-tickets-1999473833059
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_9fcbc7f0e1ff475eb1d517349ff1d72e-occ_b349a867b93344f5b5680674de1
  bbb40@thingstodoinyourcity
 DTSTAMP:20261031T221628Z
@@ -2625,22 +2578,6 @@ URL:https://stayhappening.com/e/london-stem-women-graduate-careers-event-
  E118SAUCX1IJ2
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_067db96cb2cc4d3c8051db9e64d7285a-occ_27cbaacc1f5f4bb9b31507b6c37
- 0ae0c@thingstodoinyourcity
-DTSTAMP:20261101T024537Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:London Society BONFIRE NIGHT - Hampstead Heath 🎆🎇🎆🎇
- 🎆
-DESCRIPTION:A short casual walk to Parliament Hill in Hampstead Heath to 
- see the city skyline and possible fireworks. An optional pub finish at t
- he Oak and Pastor follows.\nhttps://www.meetup.com/london-society-of-exp
- lorers/events/317027300?eventOrigin=city_outdoor_activities_events
-LOCATION:Outside Archway Underground Station\, Highgate Hill exit\, Archw
- ay · London\, London
-URL:https://www.meetup.com/london-society-of-explorers/events/317027300?e
- ventOrigin=city_outdoor_activities_events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_788d87fce9b5443b9685f125be973d2c-occ_5d667d85bf41450e88d96da6ad3
  bb43e@thingstodoinyourcity
 DTSTAMP:20261027T223724Z
@@ -2659,26 +2596,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ff4918c59b845efadb99e3831fd24e1-occ_1de321dbb2bd41e2a935037ff93
  9ef2e-2026-11-05@thingstodoinyourcity
-DTSTAMP:20261105T195847Z
+DTSTAMP:20261105T202529Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Look\, Learn\, Make: Papier-mâché Picasso
-DESCRIPTION:Design and paint your own papier-mâché vase\, plate or scul
- ptural object in this two-part workshop. Sessions also explore ceramics 
- history and contemporary art.\nPrice: Price: £30 for both workshops\nht
- tps://royaldocks.london/whats-on
+DESCRIPTION:Katrina Cowling leads a two-part workshop where you paint you
+ r own papier-mâché vase\, plate or sculptural object. Sessions also ex
+ plore ceramics history and contemporary art.\nPrice: Price: £30 for bot
+ h workshops\nhttps://royaldocks.london/whats-on
 LOCATION:Unit F13\, Royal Albert Wharf\, London
 URL:https://royaldocks.london/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ff4918c59b845efadb99e3831fd24e1-occ_1de321dbb2bd41e2a935037ff93
  9ef2e-2026-11-12@thingstodoinyourcity
-DTSTAMP:20261105T195847Z
+DTSTAMP:20261105T202529Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Look\, Learn\, Make: Papier-mâché Picasso
-DESCRIPTION:Design and paint your own papier-mâché vase\, plate or scul
- ptural object in this two-part workshop. Sessions also explore ceramics 
- history and contemporary art.\nPrice: Price: £30 for both workshops\nht
- tps://royaldocks.london/whats-on
+DESCRIPTION:Katrina Cowling leads a two-part workshop where you paint you
+ r own papier-mâché vase\, plate or sculptural object. Sessions also ex
+ plore ceramics history and contemporary art.\nPrice: Price: £30 for bot
+ h workshops\nhttps://royaldocks.london/whats-on
 LOCATION:Unit F13\, Royal Albert Wharf\, London
 URL:https://royaldocks.london/whats-on
 END:VEVENT
@@ -3015,20 +2952,6 @@ LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_32fcea1280fc49848b91bb74bbbae973-occ_b1a85e3cd45e407794df3bc2ece
- 47aad@thingstodoinyourcity
-DTSTAMP:20261104T200236Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:More Fire: Performance Poetry Ignited
-DESCRIPTION:For one night only\, radical voices in performance poetry sha
- re the stage\, including The Last Poets and Michael Rosen. Expect raw st
- orytelling\, hosted by Yomi Ṣode.\nPrice: Cabaret Seats: £27 | Standa
- rd Seats: £22 | All prices include a £2 booking fee per ticket.\nhttps
- ://www.woolwich.works/whats-on
-LOCATION:Fireworks Factory\, London
-URL:https://www.woolwich.works/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b423bb7bf0124d17960f4b1a76c8c3df-occ_a1b42851e328467cb0effd5d2b7
  776ac@thingstodoinyourcity
 DTSTAMP:20261105T201559Z
@@ -3179,9 +3102,10 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:NT Live: Golden Boy
 DESCRIPTION:Josh O’Connor leads Clifford Odets’ 1930s drama of a viol
  inist drawn into professional boxing. Filmed live from the Almeida Theat
- re with a live string quartet.\nhttps://thecastlecinema.com/calendar
+ re with a live string quartet.\nhttps://thecastlecinema.com/programme/11
+ 3512/nt-live-golden-boy
 LOCATION:Castle Hackney\, Hackney\, London
-URL:https://thecastlecinema.com/calendar
+URL:https://thecastlecinema.com/programme/113512/nt-live-golden-boy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ce2403a52bc147aaa9710ae351695945-occ_bc038d6d95bc4bc6b104ce2c336
@@ -3430,9 +3354,9 @@ UID:cand_77a448b3ed8e4a01a28672626473ee16-occ_00c0b916cb2a4057a94e593e020
 DTSTAMP:20261105T082501Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Pink Palace: Who Killed Teddy Bear
-DESCRIPTION:https://riocinema.org.uk/Rio.dll/WhatsOn
+DESCRIPTION:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949921
 LOCATION:Rio Cinema\, Dalston\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=2949921
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_15c0a2d95aa54bbea88132ca44413324-occ_82179d254a1a4aa3a0554745563
@@ -3475,19 +3399,6 @@ LOCATION:UAL London College of Communication\, Elephant and Castle\, Lond
  on\, London
 URL:https://stayhappening.com/e/postgraduate-shows-2026-photography-%E2%8
  0%94-launch-event-E118SB5GT4EEF
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6af7dfd5a58945ed842308c277ca0943-occ_18219d6df28f49b1a9977073966
- 1f4e0@thingstodoinyourcity
-DTSTAMP:20261104T095342Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:RCP Museum Late: exploring patient voices
-DESCRIPTION:Price: Free\nhttps://www.eventbrite.co.uk/e/rcp-museum-late-e
- xploring-patient-voices-tickets-2002562152305?aff=oddtdtcreator
-LOCATION:Royal College of Physicians Museum\, 11 St Andrews Place London 
- NW1 4LE\, London
-URL:https://www.eventbrite.co.uk/e/rcp-museum-late-exploring-patient-voic
- es-tickets-2002562152305?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f77f1fd919c34427b3a3d0e05c68689f-occ_7430f258659b4d0895d09255545
@@ -3554,9 +3465,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261105
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_54926f50bf2e47b6921c66f5b27
@@ -3565,9 +3477,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261112
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1223732d5dc4cd1b905c41b4ea
@@ -3576,9 +3489,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261119
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_f1626f1ed7c34b47bf5267b40c8
@@ -3587,9 +3501,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261126
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_95f70669d85f4a4d87c5ff2a8c7
@@ -3598,9 +3513,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261203
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_890ee980ccb645dfbc65aaff755
@@ -3609,9 +3525,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261210
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9bf9d43ce39a42eab69e60dd1ea
@@ -3620,9 +3537,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261217
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_90a64011248d49b884206e0baf1
@@ -3631,9 +3549,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261224
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_5b05d5b08bff454abf27f9eeeef
@@ -3642,9 +3561,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20261231
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_00809b6ee3bc411aad0668a9ddc
@@ -3653,9 +3573,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270107
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_dba46dcfe45a41708ae14af754c
@@ -3664,9 +3585,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270114
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_9e2b4fe7af67472a832d085ea5c
@@ -3675,9 +3597,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270121
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_eeef2cf0e12047bcb924dffddda56b21-occ_b96001560297402d8b573ea0013
@@ -3686,9 +3609,10 @@ DTSTAMP:20261104T230112Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270128
 SUMMARY:Rhyme and Move at Pimlico Library
-DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event
+DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
+ ove-pimlico-library
 LOCATION:Pimlico Library\, London
-URL:https://www.westminster.gov.uk/event
+URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f7e00d010ea843348646fcec482b0712-occ_188ca707bf96466bbd3c614a577
@@ -4146,12 +4070,12 @@ SUMMARY:Tech sovereignty\, security and democracy: a conversation with He
  nna Virkkunen
 DESCRIPTION:Henna Virkkunen\, the European Commission's EVP\, discusses A
  I and digital sovereignty with Cosmina Dorobantu. Cybersecurity\, democr
- acy and regulation are also covered.\nhttps://www.lse.ac.uk/dsi/events/2
- 025-26/public-events/tech-sovereignty-security-and-democracy-a-conversat
- ion-with-henna-virkkunen
+ acy and regulation are also covered.\nhttps://lectures.london/london-sch
+ ool-of-economics/tech-sovereignty-security-and-democracy-a-conversation-
+ with-henna-virkkunen
 LOCATION:LSE campus (venue tbc to ticketholders)\, LSE campus\, London
-URL:https://www.lse.ac.uk/dsi/events/2025-26/public-events/tech-sovereign
- ty-security-and-democracy-a-conversation-with-henna-virkkunen
+URL:https://lectures.london/london-school-of-economics/tech-sovereignty-s
+ ecurity-and-democracy-a-conversation-with-henna-virkkunen
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_076e77183eda45caba07154f7f499204-occ_c7df33e20c044f5d8cdaf1ee890
@@ -4216,9 +4140,10 @@ UID:cand_412a1b7459cd410d8ea2e7b4301e303b-occ_9067946e4ff84c968d6a4a07729
 DTSTAMP:20261104T184449Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:The Night is Fading Away
-DESCRIPTION:https://www.ica.art/films
+DESCRIPTION:https://www.ica.art/films/off-circuit-the-night-is-fading-awa
+ y
 LOCATION:CINEMA 2\, London
-URL:https://www.ica.art/films
+URL:https://www.ica.art/films/off-circuit-the-night-is-fading-away
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c639431741c94c8e85c26c543eff26fe-occ_5567947361204e6c8a7f73726c5
@@ -4238,6 +4163,18 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:The Problem of Other Minds
 DESCRIPTION:
 LOCATION:SHEIKH ZAYED THEATRE\, LOWER GROUND\, CHEN\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5cfdea83c3ef4998bc1bd5c31b8cda4d-occ_e74dcc2aa054494abbe96404cb2
+ 20b6a@thingstodoinyourcity
+DTSTAMP:20261105T204009Z
+DTSTART;VALUE=DATE:20261105
+SUMMARY:The economics of transitioning away from fossil fuels
+DESCRIPTION:COP30 President André Corrêa do Lago and Rachel Kyte join t
+ he discussion. It covers clean-tech costs\, carbon pricing and investmen
+ t barriers.\nhttps://lectures.london/
+LOCATION:Old Theatre\, Old Building\, London
+URL:https://lectures.london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c96e118f006471c875ad969380eb3b5-occ_f188f9df7ef34399a9c563f125d
@@ -4703,9 +4640,11 @@ UID:cand_8893a14e02344ce7b56e8573f206e09a-occ_9e4f903f8f544a078703512110c
 DTSTAMP:20261104T153619Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Wicker Sour cocktails\, straw man making + Wicker 18
-DESCRIPTION:Price: £18.50 each\nhttps://www.thegardencinema.co.uk/
+DESCRIPTION:Price: £18.50 each\nhttps://www.thegardencinema.co.uk/film/w
+ icker-sour-cocktails-straw-man-making-wicker
 LOCATION:The Garden Cinema\, London
-URL:https://www.thegardencinema.co.uk/
+URL:https://www.thegardencinema.co.uk/film/wicker-sour-cocktails-straw-ma
+ n-making-wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d9459fe8d26f4328ad16f2c50325a9f3-occ_becd7c67df7b4eebb2aaaae5f1d
@@ -4715,20 +4654,9 @@ DTSTART;VALUE=DATE:20261105
 SUMMARY:Wildwood
 DESCRIPTION:Prue McKeel ventures into an enchanted forest to rescue her b
  aby brother. From Oscar-nominated LAIKA\, a sweeping adventure about lov
- e and sacrifice.\nhttps://thecastlecinema.com/calendar
+ e and sacrifice.\nhttps://thecastlecinema.com/programme/113504/wildwood
 LOCATION:Castle Hackney\, Hackney\, London
-URL:https://thecastlecinema.com/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9c2a3b8ea3834180972514e1be77d920-occ_2578f6614d864c45b719aa6891a
- 36be6@thingstodoinyourcity
-DTSTAMP:20261105T055414Z
-DTSTART;VALUE=DATE:20261105
-SUMMARY:Wimbledon Park Bonfire & Fireworks 2026
-DESCRIPTION:Price: Adults: Advance sales: £15.00\; Children: Advance sal
- es: £11.00\nhttps://londoncheapo.com/events/
-LOCATION:Wimbledon Park\, Wimbledon\, London
-URL:https://londoncheapo.com/events/
+URL:https://thecastlecinema.com/programme/113504/wildwood
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dee3d06775ec47ca8ec8283e0544f6aa-occ_e44fe20ce0d9441b98ce99c5f16
@@ -6153,34 +6081,6 @@ LOCATION:Omniplex Sutton\, London
 URL:https://clusterflick.com/movies/299534/avengers-endgame/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_42decd860db6433f9f066525c0b74426-occ_31bc7b958b854c94b38d6cbb4bc
- 33224@thingstodoinyourcity
-DTSTAMP:20261102T210700Z
-DTSTART:20261105T170000Z
-DTEND:20261105T230000Z
-SUMMARY:Free Bonfire Night Fireworks Display With Prosecco & Fun Chats
-DESCRIPTION:Host Lucas invites RSVPs to a free fireworks display with a b
- onfire and music. Food and drinks are available to purchase\; the meetin
- g point is shared privately.\nPrice: Free\nhttps://www.meetup.com/lit_fu
- n_times_for_young_london_professionals/events/317020209?eventOrigin=city
- _meet_new_people_events
-LOCATION:Euston\, London\, London
-URL:https://www.meetup.com/lit_fun_times_for_young_london_professionals/e
- vents/317020209?eventOrigin=city_meet_new_people_events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_78ca01af85c54281b19e636a2a386205-occ_10972770b7064c1cb8bf993539a
- 289bc@thingstodoinyourcity
-DTSTAMP:20261101T041226Z
-DTSTART:20261105T170000Z
-DTEND:20261105T210000Z
-SUMMARY:Regent Street & St James's Christmas Lights Switch-on 2026
-DESCRIPTION:Price: Free\nhttps://www.foodmarketplace.co.uk/events/city/lo
- ndon
-LOCATION:Regent Street\, London
-URL:https://www.foodmarketplace.co.uk/events/city/london
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2a1faaf135064188b12c7b7302e796c7-occ_1aeaf2d8ad49425d8290d87f7b7
  94098@thingstodoinyourcity
 DTSTAMP:20261105T033302Z
@@ -6260,21 +6160,6 @@ LOCATION:Regent Street Cinema\, London
 URL:https://www.regentstreetcinema.com/now-playing/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3852172cada3490bac0e18197886f116-occ_9d8e8b5145e34474b09982ca5c4
- 4ac65@thingstodoinyourcity
-DTSTAMP:20261101T095356Z
-DTSTART:20261105T173000Z
-DTEND:20261105T230000Z
-SUMMARY:DIWALI GALA DINNER at FARZI
-DESCRIPTION:Farzi's Diwali gala features a five-course set menu\, welcome
-  cocktail\, live chaat counter and Bollywood music. Two seatings are off
- ered\, starting at 5:45 PM and 8:30 PM.\nPrice: GBP 42.91 to GBP 44.04\n
- https://stayhappening.com/e/diwali-gala-dinner-at-farzi-E118SB79677M5
-LOCATION:FARZI CAFE - Indian Restaurant\, 8 Haymarket\, Piccadilly\, Lond
- on SW1Y 4BP\, London
-URL:https://stayhappening.com/e/diwali-gala-dinner-at-farzi-E118SB79677M5
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ced23b1ef87743a2a1988eee7492e09d-occ_87df2d34557a45a1b1e3eb57e2d
  6e18d@thingstodoinyourcity
 DTSTAMP:20261105T075335Z
@@ -6292,13 +6177,11 @@ DTSTART:20261105T174500Z
 SUMMARY:A Simple Life Film Screening & Film Talk
 DESCRIPTION:After a stroke\, an altruistic maid wants to quit her job and
   move into an old people's home. The free screening is followed by a Fil
- mTalk where guests can share their reflections.\nPrice: Free\nhttps://ww
- w.eventbrite.co.uk/e/ufp-film-club-a-simple-life-film-screening-film-tal
- k-tickets-2004265002576
+ mTalk where guests can share their reflections.\nPrice: Free\nhttps://cl
+ usterflick.com/movies/91186/a-simple-life
 LOCATION:Clarence Hall\, Bradfield Court\, Hawley Road London NW1 8RN\, L
  ondon\, England\, London
-URL:https://www.eventbrite.co.uk/e/ufp-film-club-a-simple-life-film-scree
- ning-film-talk-tickets-2004265002576
+URL:https://clusterflick.com/movies/91186/a-simple-life
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_978acec8037f401ab22ebe12b884265a-occ_dd813687c0d94f5cb9c375c18af
@@ -6309,37 +6192,6 @@ SUMMARY:PRIMETIME
 DESCRIPTION:https://www.genesiscinema.co.uk/whatson
 LOCATION:London
 URL:https://www.genesiscinema.co.uk/whatson
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3a6d10199d2840bd89d12432bba4ea03-occ_e47fd01d695a4e31a2b7fed76c8
- 06e11@thingstodoinyourcity
-DTSTAMP:20261105T115334Z
-DTSTART:20261105T180000Z
-DTEND:20261105T203000Z
-SUMMARY:Creative Workshop inspired by Frida Kahlo Part 2
-DESCRIPTION:Part two of an exclusive Frida Kahlo-inspired workshop for cr
- eative fun and community. Bring yourself and an A4 head-to-shoulders pho
- to to join in.\nPrice: Pay What You Can to FREE\nhttps://www.outsavvy.co
- m/events
-LOCATION:Dalston CLR James Library\, Dalston CLR James Library\, London\,
-  E8 3BQ\, London
-URL:https://www.outsavvy.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2220818401234b2aaeb1cfe34642d93d-occ_8fbae976b63c421e9029a7f2302
- 69182@thingstodoinyourcity
-DTSTAMP:20261031T223052Z
-DTSTART:20261105T180000Z
-DTEND:20261105T213000Z
-SUMMARY:Does Size Matter? — Opening Night Party
-DESCRIPTION:Celebrate the opening of over 150 small original works\, none
-  over 50cm. Everything is £500 or less\, and entry is free.\nPrice: Fre
- e\nhttps://www.eventbrite.co.uk/e/does-size-matter-opening-night-party-f
- irepit-art-gallery-tickets-2003543826519
-LOCATION:Firepit Art Gallery and Studios CIC\, 10 Cutter Lane #No.2 Londo
- n SE10 0XX\, London\, England\, London
-URL:https://www.eventbrite.co.uk/e/does-size-matter-opening-night-party-f
- irepit-art-gallery-tickets-2003543826519
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_f0bfe142aae54940b7fe4e8366bdedf8-occ_74c15c9623db4795b4ad3961c83
@@ -6451,20 +6303,6 @@ DESCRIPTION:Comedian and host Tommy Sandhu and Bollywood vocalist Chirag
  ww.londontheatres.com/events/comedy
 LOCATION:Secret Venue\, London
 URL:https://www.londontheatres.com/events/comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b2d06e4d2d543eabbe7d0d8e4ab960e-occ_6f57fe453dd44967b87a040e3b5
- 963bb@thingstodoinyourcity
-DTSTAMP:20261103T065424Z
-DTSTART:20261105T180000Z
-DTEND:20261105T213000Z
-SUMMARY:Pink Onions — Opening Night
-DESCRIPTION:Michelle Nnanyelugo's solo poetry show features The Pickled B
- odies of Dizzy Daughters\, Morsels\, Ruffles and Abattoir. Part of the D
- oes Size Matter? Opening Night Party.\nPrice: Free\nhttps://www.firepit.
- art/whats-on
-LOCATION:Red Room\, London
-URL:https://www.firepit.art/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b5c5effa141a457cb4410e04173562de-occ_b67a9ab5fbc34df7ba14e8004bf
@@ -6639,22 +6477,6 @@ LOCATION:St James's Church Piccadilly\, 197 Piccadilly\, London W1J 9LL\,
 URL:https://www.sjp.org.uk/whats-on/all-souls-requiem-eucharist/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_36e180fdc9074eaf8c06e30c2332c064-occ_40ed9f36930a4fd09731faa921e
- 3cc9e@thingstodoinyourcity
-DTSTAMP:20261031T234532Z
-DTSTART:20261105T183000Z
-DTEND:20261105T203000Z
-SUMMARY:Carnatic Vocal Performance: Savita Sunderesan
-DESCRIPTION:Savita Sundaresan is a Carnatic vocalist trained under Dr. Ma
- la Swamy for 17 years. Joined by violinist Vivek Dinesh and percussionis
- t RN Prakash.\nPrice: Free\nhttps://www.eventbrite.co.uk/e/carnatic-voca
- l-performance-savita-sunderesan-tickets-2003916350749
-LOCATION:The Nehru Centre\, 8 South Audley Street Mayfair W1K1HF\, Mayfai
- r\, London
-URL:https://www.eventbrite.co.uk/e/carnatic-vocal-performance-savita-sund
- eresan-tickets-2003916350749
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0e4e89fb749a43f59f4ea56046ac6acd-occ_613b537d1ee74f9f826955b5f24
  56ef5@thingstodoinyourcity
 DTSTAMP:20261101T211732Z
@@ -6673,50 +6495,6 @@ SUMMARY:Clayface
 DESCRIPTION:https://www.peckhamplex.london/films/listings
 LOCATION:London
 URL:https://www.peckhamplex.london/films/listings
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0b913a99f37e4dd09a457d9636a4d77a-occ_a43ba0fc47954627b1df394faf9
- 9c0f4@thingstodoinyourcity
-DTSTAMP:20261105T115750Z
-DTSTART:20261105T183000Z
-DTEND:20261105T213000Z
-SUMMARY:Discovering Tantric Connection - With Andy
-DESCRIPTION:Price: £35 to £55\nhttps://www.outsavvy.com/event/7952/disc
- overing-tantric-connection-with-andy
-LOCATION:Anomalous Space\, 36 Pentonville Road\, London\, N1 9HF\, London
-URL:https://www.outsavvy.com/event/7952/discovering-tantric-connection-wi
- th-andy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9b20f7730a504a9da1b0d887e083eac8-occ_7cb5a57dd16347eba74f250d0e3
- 5046b@thingstodoinyourcity
-DTSTAMP:20261105T120433Z
-DTSTART:20261105T183000Z
-DTEND:20261105T213000Z
-SUMMARY:Get $hit Done! Queer Admin Night at QueerSwap Studio
-DESCRIPTION:A low-pressure evening to tackle your life admin alongside ot
- hers. Free coffee and tea are provided\, and outside food and drink is w
- elcome.\nPrice: Pay What You Can to FREE\nhttps://www.outsavvy.com/event
- /40912/get-hit-done-queer-admin-night-at-queerswap-studio
-LOCATION:QueerSwap Studio\, 89 Albert Embankment\, London\, SE1 7TP\, Lon
- don
-URL:https://www.outsavvy.com/event/40912/get-hit-done-queer-admin-night-a
- t-queerswap-studio
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dbc50cdec3b348fbb8f3d16104c349a0-occ_31435c1ba60148cfa38fd31e7eb
- 54ead@thingstodoinyourcity
-DTSTAMP:20261105T120252Z
-DTSTART:20261105T183000Z
-DTEND:20261105T223000Z
-SUMMARY:JAKE X Friend of Dorothy Super-Gay Network Event
-DESCRIPTION:Friend of Dorothy teams up with JAKE for a super-networking n
- ight bringing both groups together. Expect iconic 15th-floor views and a
-  late-night vibe on Bonfire Night.\nPrice: £17.50\nhttps://www.outsavvy
- .com/events
-LOCATION:Pérola\, Artotel Battersea\, 1 Electric Boulevard\, London\, SW
- 11 8BJ\, London
-URL:https://www.outsavvy.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_41ac3b25547546278dabf7ebbe17fa95-occ_d31a87f230084f268e13b4ff78f
@@ -6747,40 +6525,6 @@ URL:https://www.nehrucentre.org.uk/events/music-carnatic-vocal-performanc
  e/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9ab335000794413e999377a4af0c13fd-occ_7b0730f572f84f0d97d5e1555b1
- 44bc4@thingstodoinyourcity
-DTSTAMP:20261102T204848Z
-DTSTART:20261105T183000Z
-DTEND:20261105T213000Z
-SUMMARY:Property\, Landlords & Business Owners - Business Networking Even
- t in London
-DESCRIPTION:Lightly structured networking for property investors\, landlo
- rds\, agents and developers. Hosts are there from the start to help with
-  introductions.\nPrice: Free RSVP: Event access only. Paid ticket (when 
- available): Includes a contactless GMax Card\nhttps://www.meetup.com/lon
- don-entrepreneur-startup-network-tech-business-ecommerce/events/31679358
- 1/?eventOrigin=city_most_popular_event
-LOCATION:Sycamore Bar at Middle Eight Hotel\, 66 Great Queen St\, London 
- WC2B 5BX\, Covent Garden/Holborn area\, London
-URL:https://www.meetup.com/london-entrepreneur-startup-network-tech-busin
- ess-ecommerce/events/316793581/?eventOrigin=city_most_popular_event
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_401c45c138bb43528bfb155a571ddfb5-occ_ed1adc3289524c368c56361afea
- 311d6@thingstodoinyourcity
-DTSTAMP:20261031T013759Z
-DTSTART:20261105T183000Z
-DTEND:20261105T203000Z
-SUMMARY:Reclaiming the Archives
-DESCRIPTION:Make a zine from your own photographs using collage\, writing
- \, stitching and image-making. No experience is needed and all materials
-  are provided.\nhttps://www.stmargaretshouse.org.uk/events/reclaiming-th
- e-archives
-LOCATION:In The Create Place\, 29 Old Ford Road\, London\, E2 9PJ\, Londo
- n
-URL:https://www.stmargaretshouse.org.uk/events/reclaiming-the-archives
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_94dac4fea98e42cd9ef91ea046fa0ada-occ_f6bf74fe489a401faae9998f1d3
  cc070@thingstodoinyourcity
 DTSTAMP:20261105T033114Z
@@ -6792,22 +6536,6 @@ DESCRIPTION:A young man in prison confronts the wreckage of his crime thr
  eams-redemption/
 LOCATION:London Film School\, London
 URL:https://clusterflick.com/movies/1606330/stolen-dreams-redemption/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_16a1805f4bcc48c7b80678cc5e67405c-occ_14fb4a4e757441409ad4beca64b
- 55750@thingstodoinyourcity
-DTSTAMP:20261103T081420Z
-DTSTART:20261105T183000Z
-DTEND:20261105T210000Z
-SUMMARY:Stolen Dreams Redemption - Film Screening & Education Launch
-DESCRIPTION:Professionals working with young people can see the film Stol
- en Dreams: Redemption. An introduction to a new film-based education pro
- gramme follows.\nPrice: £0-12.5\nhttps://go-london.uk/events/event/stol
- en-dreams-redemption-film-screening-education-launch/
-LOCATION:London Film School\, 24 Greater\, London\, WC2H 9UB\, Covent Gar
- den\, London
-URL:https://go-london.uk/events/event/stolen-dreams-redemption-film-scree
- ning-education-launch/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_25b60cb97cd946ac8fc5845962d6ff5d-occ_83e642a3b4254c4fbcfcb9bd89d
@@ -7057,246 +6785,6 @@ URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-award-winni
  ng-stand-up-comedy-for-just-%C3%A2%C2%A33
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_8e17abb1199941d5b0533f0d7fc
- fd19b@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261105T190000Z
-DTEND:20261105T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_7455a2c214764c8f851ef86c5c6
- a6e18@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261110T190000Z
-DTEND:20261110T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_fb154cb0629e472ea4e5d72cb3f
- f38c0@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261112T190000Z
-DTEND:20261112T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_8c381d654f494494abb8894d4ef
- a0669@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261117T190000Z
-DTEND:20261117T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_1246c5d6fa6845d388a96a2216e
- 54fd8@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261119T190000Z
-DTEND:20261119T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_6bd75800a719481a8688b5421a1
- e8cd4@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261124T190000Z
-DTEND:20261124T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_ae828d0c0f5345c89f6076d99e9
- 90192@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261125T190000Z
-DTEND:20261125T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_f1b3a2e67a954b009537b76893c
- 3d7eb@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261126T190000Z
-DTEND:20261126T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_0440b70a788245e6b36810eeb9e
- 05967@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261201T190000Z
-DTEND:20261201T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_fe92bfd049854942aabcfa2905f
- b6e3d@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261202T190000Z
-DTEND:20261202T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_d9c5f34757bd411588fb120415a
- 91b18@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261203T190000Z
-DTEND:20261203T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_d2dcf2ca159c4c73a5244c3ed07
- f9df0@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261208T190000Z
-DTEND:20261208T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_403b7b87318c4cd8adfc39839e4
- 7b6ed@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261209T190000Z
-DTEND:20261209T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_018144850dfc469682d241df39f
- 43d18@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261210T190000Z
-DTEND:20261210T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_a0c35639962c4d0bbf6b2deb4e9
- f1445@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261216T190000Z
-DTEND:20261216T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_a00ae4fd902e49faa4ac12a3c05
- 53461@thingstodoinyourcity
-DTSTAMP:20261022T031041Z
-DTSTART:20261217T190000Z
-DTEND:20261217T210000Z
-SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
-DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
- mics and rising stars from the London circuit. Each show brings a new\, 
- top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
- omedy-in-your-eye-_-stand-up-comedy-in-camden-town
-LOCATION:Comedy In Your Eye\, London
-URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
- medy-in-camden-town
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_c93df47dc6ee49edbd0246a5c168403b-occ_d8e360b8e0014abdbe08f6c08d8
  6f0f1@thingstodoinyourcity
 DTSTAMP:20261103T111303Z
@@ -7310,86 +6798,6 @@ DESCRIPTION:Indie alternative outfit Deaf Havana performs live alongside
 LOCATION:O2 Shepherd's Bush Empire\, London\, Covent Garden\, London
 URL:https://go-london.uk/events/event/deaf-havana-live-at-o2-shepherd-s-b
  ush-empire/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e9d7f529ef394da29baae90471427c5b-occ_c768074b7b9e46a1bb686a445e5
- 15a40@thingstodoinyourcity
-DTSTAMP:20261105T120706Z
-DTSTART:20261105T190000Z
-DTEND:20261105T220000Z
-SUMMARY:Deeva D’s Divine Diwali
-DESCRIPTION:Deeva D and friends celebrate Diwali with queer South Asian p
- erformers\, bollywood dancing\, drag and burlesque. Guests include Bolly
-  Illusion\, Bindya and Sarjana.\nPrice: £10 to £15\nhttps://www.outsav
- vy.com/event/29932/deeva-ds-divine-diwali
-LOCATION:The Divine\, 33-35 Stoke Newington Road\, London\, N16 8BJ\, Lon
- don
-URL:https://www.outsavvy.com/event/29932/deeva-ds-divine-diwali
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fbe8a2d4a54342e59cac2b35e9e05153-occ_dffcfc3b08bf4bac837cf93d95a
- f651a@thingstodoinyourcity
-DTSTAMP:20261105T120905Z
-DTSTART:20261105T190000Z
-DTEND:20261105T210000Z
-SUMMARY:Drag Race UK Season 8 FINALE Viewing Party at Betty & Joan's
-DESCRIPTION:Hosted by Michael Marouli with special guest Kyran Thrax\, th
- e finale viewing party is a sold-out screening. Arrive by 6:30pm to guar
- antee entry\, though seats are not guaranteed.\nPrice: FREE\nhttps://www
- .outsavvy.com/events
-LOCATION:Betty & Joan’s\, 9 Hewson Way\, London\, SE17 1JS\, London
-URL:https://www.outsavvy.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a2b38c242cd64d62914bcacbf0c93725-occ_811fbd5641eb4e9dac446f34806
- 56351@thingstodoinyourcity
-DTSTAMP:20261105T120429Z
-DTSTART:20261105T190000Z
-DTEND:20261105T220000Z
-SUMMARY:EROTIQUE : An Erotic Open Mic And Scratch Night - VOL. 1
-DESCRIPTION:A scratch night centring sensual writing\, with performers re
- -enacting erotic pieces. Open mic slots let audience members read their 
- own erotica.\nPrice: General Admission £12.50\; Pay what you can\; Free
-  entry\nhttps://www.outsavvy.com/event/40172/erotique-an-erotic-open-mic
- -and-scratch-night-vol-1
-LOCATION:The Common Press Dalston\, 97 Stoke Newington Road\, London\, N1
- 6 8BX\, London
-URL:https://www.outsavvy.com/event/40172/erotique-an-erotic-open-mic-and-
- scratch-night-vol-1
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_51b14f478d784c20883fc364aa2e8af8-occ_142a361cf3d643329d7d4222d53
- 894ac@thingstodoinyourcity
-DTSTAMP:20261103T083713Z
-DTSTART:20261105T190000Z
-DTEND:20261105T220000Z
-SUMMARY:Here Is Where We Meet - John Berger at 100
-DESCRIPTION:Live contributions\, film clips and readings by Khalid Abdall
- a and Juliet Stevenson shape the evening. Lisa Appignanesi\, Teju Cole a
- nd Ali Smith are among the contributors.\nPrice: £20\nhttps://go-london
- .uk/events/event/here-is-where-we-meet-john-berger-at-100/
-LOCATION:Conway Hall\, 25 Red Lion Square\, London\, WC1R 4RL\, Holborn\,
-  London
-URL:https://go-london.uk/events/event/here-is-where-we-meet-john-berger-a
- t-100/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_465149581b3f445795c2b35bf7b6a178-occ_f7e19075344f425fbf567a07bbb
- 690d0@thingstodoinyourcity
-DTSTAMP:20261101T100005Z
-DTSTART:20261105T190000Z
-DTEND:20261105T203000Z
-SUMMARY:Japanese Whisky Masterclass w The House of Suntory | Amathus Nort
- hcote
-DESCRIPTION:Tasting Suntory's Yamazaki\, Hakushu and Hibiki whiskies. Sta
- rts with a classic Japanese Highball\, then covers casks and distilling 
- techniques.\nPrice: GBP 70.00 to GBP 198.00\nhttps://stayhappening.com/e
- /japanese-whisky-masterclass-w-the-house-of-suntory-amathus-northcote-E1
- 18SB6W2MANJ
-LOCATION:Amathus - Northcote Road\, 21 Northcote Road\, London\, United K
- ingdom\, London
-URL:https://stayhappening.com/e/japanese-whisky-masterclass-w-the-house-o
- f-suntory-amathus-northcote-E118SB6W2MANJ
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d7ede543686d45cdb190cee35f0bdf58-occ_6a5c7465305840658c68c181aca
@@ -7414,22 +6822,6 @@ LOCATION:Dishoom Borough\, The Hop Exchange\, 11-13 Park St\, London SE1
  9AB\, London
 URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
  nd
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bcb84708b9074b398682a29e74a6a176-occ_85975b6413a94927a62bf872d66
- 88e02@thingstodoinyourcity
-DTSTAMP:20261105T125244Z
-DTSTART:20261105T190000Z
-DTEND:20261105T205000Z
-SUMMARY:London Symphony Orchestra/Thomas Adès: Sibelius\, Nørgård and 
- Adès with Bertrand Chamayou
-DESCRIPTION:Per Nørgård's Dream Play\, Sibelius' Fifth Symphony and Ad
- ès' In Seven Days are performed. Adès conducts his own music alongside
-  French pianist Bertrand Chamayou.\nPrice: From £22 (£18 + £4 transac
- tion fee)\nhttps://www.barbican.org.uk/whats-on
-LOCATION:Barbican Hall\, Barbican Centre\, Silk Street\, London\, EC2Y 8D
- S\, London
-URL:https://www.barbican.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b740fd2b9a5c449f817cb491035cb029-occ_1b4879fc841842b69925f64d324
@@ -7502,23 +6894,6 @@ URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Energy-Weaving/13816
  3116?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a16d4e212a944e8485bb24bf2c2773e1-occ_54387894d9da4cb6a7b7e4f97e5
- 2cf83@thingstodoinyourcity
-DTSTAMP:20261105T120248Z
-DTSTART:20261105T190000Z
-DTEND:20261105T210000Z
-SUMMARY:Secrets of Dorley Hall : Book Launch
-DESCRIPTION:Alyson Greaves discusses the series' rise from online serial 
- to published phenomenon. Q&A and a book signing follow.\nPrice: £12.99 
- (Book & Ticket)\; FREE (Low income - Free entry)\; Pay what you can\; £
- 23.98 (Books 1 & 2)\nhttps://www.outsavvy.com/event/40240/secrets-of-dor
- ley-hall-book-launch
-LOCATION:The Common Press Shoreditch\, 118 Bethnal Green Road\, London\, 
- E2 6DG\, Shoreditch\, London\, London
-URL:https://www.outsavvy.com/event/40240/secrets-of-dorley-hall-book-laun
- ch
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_407f0969459e4eb2805777faafbb1bb4-occ_26caee9164eb4394823ab6a57ef
  94145@thingstodoinyourcity
 DTSTAMP:20261101T005240Z
@@ -7539,67 +6914,6 @@ DESCRIPTION:Price: from £5.00\nhttps://www.thefreeassociation.co.uk/impr
  ov-comedy-shows/whats-on
 LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b3b31fe9752f4979900eaaa507aa8863-occ_5edad4fd82f54fa9ae322bbb8c4
- 7bf3c@thingstodoinyourcity
-DTSTAMP:20261101T141655Z
-DTSTART:20261105T190000Z
-DTEND:20261105T230000Z
-SUMMARY:Thursday | 35+ Singles Night | Mansion House
-DESCRIPTION:Just a bar\, everyone single: a room full of singles aged 35+
-  ready to get out and meet someone. Come solo or bring a single mate\; l
- ast entry is 21:30.\nPrice: £12 to £25\nhttps://www.thursday.com/event
- s/london/thursday-25-singles-night-covent-garden-copy-2
-LOCATION:The Cocktail Club - Cocktail Bar near Mansion House\, 78 Queen V
- ictoria St\, Mansion House St\, London EC4N 8BH\, UK\, London
-URL:https://www.thursday.com/events/london/thursday-25-singles-night-cove
- nt-garden-copy-2
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_25549b8563974ed185f82a4d7100e3f1-occ_36675810ba384545a27f9a743ee
- 13702@thingstodoinyourcity
-DTSTAMP:20261105T060135Z
-DTSTART:20261105T190000Z
-DTEND:20261105T220000Z
-SUMMARY:Thursday | Singles Drinks & Open Mic Night | Victoria
-DESCRIPTION:Singles-only night with optional open-mic karaoke\, where gue
- sts can sing solo or duet with a new crush. 50% of ticket sales (excludi
- ng booking fees) go to Tusk Trust.\nPrice: Early Bird Ticket £12\; Gene
- ral Admission Ticket £18\; On-the-door Ticket £25\nhttps://www.thursda
- y.com/events/london
-LOCATION:BAM Karaoke Box | Victoria\, 74 Victoria St\, London SW1E 6SQ\, 
- UK\, Victoria\, London
-URL:https://www.thursday.com/events/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9e91f8877d35487098e38f515ad1b524-occ_68e90bbaa4e140159ba0b5de6e7
- d759e@thingstodoinyourcity
-DTSTAMP:20261103T080950Z
-DTSTART:20261105T190000Z
-DTEND:20261105T230000Z
-SUMMARY:WWIFF 2026 Opening Gala - Film LILLY
-DESCRIPTION:The opening gala of the third Women and the World Internation
- al Film Festival screens LILLY. Black Tie dress code applies\, with a re
- d carpet reception and networking.\nPrice: £109.5-130.72\nhttps://go-lo
- ndon.uk/events/event/wwiff-2026-opening-gala-film-lilly/
-LOCATION:1 Ham Yard\, 1 Ham Yard\, London\, W1D 7DY\, Soho\, London
-URL:https://go-london.uk/events/event/wwiff-2026-opening-gala-film-lilly/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bbeff5a7fc284adcba34dd569cab790a-occ_5317e88bf2874e6fbc2ec0e061c
- fd928@thingstodoinyourcity
-DTSTAMP:20261105T033806Z
-DTSTART:20261105T190000Z
-DTEND:20261105T230000Z
-SUMMARY:WWIFF 2026 Opening Gala /film LILLY (USA)
-DESCRIPTION:Black tie festival opening with a red carpet\, drinks\, canap
- és and after-party. The opening film is LILLY\, a true story of equal p
- ay.\nhttps://www.eventbrite.co.uk/e/wwiff-2026-opening-gala-film-lilly-u
- sa-tickets-1999726629179
-LOCATION:Ham Yard Hotel\, 1 Ham Yard London W1D 7DY\, London
-URL:https://www.eventbrite.co.uk/e/wwiff-2026-opening-gala-film-lilly-usa
- -tickets-1999726629179
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e5c2f9fe5fcb4f428d1505ac0c43bb8b-occ_6752f1114cc3434da599d4c34a7
@@ -7701,21 +7015,6 @@ LOCATION:The Three Lanterns Leicester Square\, London
 URL:https://www.londontheatres.com/event/comedy-night
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4ee71a5e52bb480ab40d2be6283e5532-occ_2c91047153564c67b6932543132
- 90a76@thingstodoinyourcity
-DTSTAMP:20261104T210107Z
-DTSTART:20261105T193000Z
-DTEND:20261105T210000Z
-SUMMARY:Dan The Stranger in London
-DESCRIPTION:Dan The Stranger's new stand-up tour asks what it means to be
-  a Normal Man\, drawing on his father and an immigrant family. The show 
- is performed in English.\nhttps://bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_19cd9a7449ce4599816b51e82c23de3d-occ_8fc32ebc644f49f0a8e109effd7
  9777b@thingstodoinyourcity
 DTSTAMP:20261105T073228Z
@@ -7772,21 +7071,6 @@ URL:https://www.outsavvy.com/event/39859/improv-comedy-with-holloway-play
  ers
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2ef7bfe7c49c43b892279fa723974705-occ_b0c8b7311b1e4940bfb79bd61d2
- dec31@thingstodoinyourcity
-DTSTAMP:20261105T120155Z
-DTSTART:20261105T193000Z
-DTEND:20261105T203000Z
-SUMMARY:King of More: Veza
-DESCRIPTION:Blends clowning\, comedy and participatory ritual into an int
- eractive journey through invisible human connections. Features Bosnian m
- usic\, dance and interdimensional wool.\nPrice: £11 to £15\nhttps://ww
- w.outsavvy.com/event/40476/king-of-more-veza
-LOCATION:Chisenhale Dance Space\, 64-84 Chisenhale Road\, London\, E3 5QZ
- \, London
-URL:https://www.outsavvy.com/event/40476/king-of-more-veza
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_84cd15ecd9d64467828fc43ad82ecca3-occ_ba2bc2db021549e498adfeef20d
  7a19a@thingstodoinyourcity
 DTSTAMP:20261103T155124Z
@@ -7811,24 +7095,6 @@ DESCRIPTION:Newsrevue is a topical comedy show with a single listed perfo
  6.25 to £21.25\nhttps://www.chortle.co.uk/venues/10/england_london
 LOCATION:Canal Cafe Theatre\, London
 URL:https://www.chortle.co.uk/venues/10/england_london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_09b77854e2ab4209acd7d24cb295496a-occ_f65ac07613644264951925df820
- 997bf@thingstodoinyourcity
-DTSTAMP:20261103T124450Z
-DTSTART:20261105T193000Z
-DTEND:20261105T203000Z
-SUMMARY:Off Colour: Kay Simpson\, Eric Huang in Conversation with Ross Ma
- cFarlane
-DESCRIPTION:Archivist Ross MacFarlane explores colour therapy's history w
- ith Kay Simpson and Eric Huang. Expect talk on how colours affect our fe
- elings and how artworks shape healing spaces.\nPrice: Tickets £10 via E
- ventbrite\, includes a free drink\nhttps://www.fitzroviachapel.org/event
- /off-colour-kay-simpson-eric-huang-in-conversation-with-ross-macfarlane/
-LOCATION:Fitzrovia Chapel\, Fitzroy Place\, 2 Pearson Square\, London W1T
-  3BF\, London
-URL:https://www.fitzroviachapel.org/event/off-colour-kay-simpson-eric-hua
- ng-in-conversation-with-ross-macfarlane/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_842678b5f4d64f1a95aa5f71debefcdb-occ_4010005a097f4015ad726603817
@@ -7860,42 +7126,10 @@ LOCATION:The Cinema Museum\, London
 URL:https://clusterflick.com/movies/309/the-celebration/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2ecd031503dd40aa89b431f7f0cd65db-occ_33884fb34895400dbcd717e519f
- 6392b@thingstodoinyourcity
-DTSTAMP:20261105T120754Z
-DTSTART:20261105T193000Z
-DTEND:20261105T223000Z
-SUMMARY:The Next Drag Superstar! SX! Bracket 3 - WK2 - LIVE VOCAL WEEK!
-DESCRIPTION:Ten artists take the mic in Bracket Three week two\, with poi
- nts building and places in the next stage at stake. Every lead vocal is 
- live\, and the age restriction is 18+.\nPrice: £12.50 to £15\nhttps://
- www.outsavvy.com/event/40818/the-next-drag-superstar-sx-bracket-3-wk2-li
- ve-vocal-week
-LOCATION:Queen of Hoxton\, 1 Curtain Road\, London\, EC2A 3JX\, London
-URL:https://www.outsavvy.com/event/40818/the-next-drag-superstar-sx-brack
- et-3-wk2-live-vocal-week
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0709e6b5fd2a438399ebd1eef903d63a-occ_812aa8ec6be84151bfa28900eb4
  85516@thingstodoinyourcity
 DTSTAMP:20261104T205953Z
 DTSTART:20261105T193000Z
-SUMMARY:Thursday Night Comedy Show | Free Drink w/ Ticket
-DESCRIPTION:Expect the UK's top comedians and new acts with fresh\, origi
- nal material. Every ticket includes a free drink or shot\, in the heart 
- of the London Southbank scene.\nPrice: Tickets start at just £5\nhttps:
- //bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_0709e6b5fd2a438399ebd1eef903d63a-occ_9dd5ed329e52439a9ff825266f1
- bf66c@thingstodoinyourcity
-DTSTAMP:20261104T205953Z
-DTSTART:20261105T201500Z
-DTEND:20261105T220000Z
 SUMMARY:Thursday Night Comedy Show | Free Drink w/ Ticket
 DESCRIPTION:Expect the UK's top comedians and new acts with fresh\, origi
  nal material. Every ticket includes a free drink or shot\, in the heart 
@@ -8018,39 +7252,6 @@ LOCATION:Forest Walthamstow | Screen 4\, The Forest Cinema\, 267 High Str
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27385/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d0c51381832c48858c28af8d92b75001-occ_1c76f5b2b2ed47c3acf46841cee
- d24fd@thingstodoinyourcity
-DTSTAMP:20261105T115924Z
-DTSTART:20261105T200000Z
-DTEND:20261105T220000Z
-SUMMARY:A Night At The Musicals - An Evening Of Musical Theatre Supportin
- g Terrence Higgins Trust
-DESCRIPTION:Michael Twaits hosts over 10 West End and cabaret performers\
- , plus HOMOPARODY's dance. Funds raised support Terrence Higgins Trust\,
-  the UK's leading HIV charity.\nPrice: £10\nhttps://www.outsavvy.com/ev
- ent/34062/a-night-at-the-musicals-supporting-terrence-higgins-trust-the-
- uks-leading-hiv-charity
-LOCATION:Royal Vauxhall Tavern\, 372 Kennington Lane\, London\, SE11 5HY\
- , London
-URL:https://www.outsavvy.com/event/34062/a-night-at-the-musicals-supporti
- ng-terrence-higgins-trust-the-uks-leading-hiv-charity
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1558b9df86a24a479f6e201a4fd81b16-occ_00efe8d09ad74f2cbb755fe14ce
- 42246@thingstodoinyourcity
-DTSTAMP:20261104T105320Z
-DTSTART:20261105T200000Z
-DTEND:20261105T220000Z
-SUMMARY:Always Be Comedy: Keyworth\, Stirling\, D'Souza & Barry - Chelsea
-DESCRIPTION:Sarah Keyworth\, Iain Stirling and Jamie D'Souza headline\, w
- ith Jack Barry as spesh guest MC. It is a general admission ticketed nig
- ht.\nPrice: £15.00 +£0.38 ticket service fee\nhttps://www.alwaysbecome
- dy.com/chelsea
-LOCATION:The Trafalgar Public House\, 224-226 King's Rd\, London SW3 5UA\
- , UK\, Chelsea\, London
-URL:https://www.alwaysbecomedy.com/chelsea
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_d977302ed7064a9cbeeb1a44057004bf-occ_7da43cc05ed246d6a2e56b69b2f
  3b4ec@thingstodoinyourcity
 DTSTAMP:20261105T112819Z
@@ -8137,19 +7338,18 @@ URL:https://www.villagesoho.co.uk/events/genrefluid?eventDate=2026-11-05T
  21%3A00%3A00.000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b9e3272b8532441ca3791d48b10b48bf-occ_0e7d5b3c0c204e12927195cb1db
- 224ec@thingstodoinyourcity
-DTSTAMP:20261104T210307Z
-DTSTART:20261105T213000Z
-DTEND:20261105T230000Z
-SUMMARY:Dan The Stranger in London (Late Show)
-DESCRIPTION:Dan The Stranger's new tour asks what it means to be a Normal
-  Man\, drawing on his father and his years heading an immigrant family. 
- The show is in English.\nhttps://bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
+UID:cand_7d4669a94c8440c88b256ebf46d95f91-occ_56caf283ed574b21a271e4f0457
+ 0d2d6@thingstodoinyourcity
+DTSTAMP:20261031T222033Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Genre Fluid
+DESCRIPTION:House and EDM on the main floor\, techno in the basement\, wi
+ th Vivian Bam Bam and Joey Tempo spinning. Happy Hour runs 4pm to 9pm\, 
+ with up to 50% off selected drinks.\nhttps://www.villagesoho.co.uk/event
+ s/genrefluid?eventDate=2026-11-05T21%3A00%3A00.000Z
+LOCATION:Village Soho\, London
+URL:https://www.villagesoho.co.uk/events/genrefluid?eventDate=2026-11-05T
+ 21%3A00%3A00.000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_633b0ed6c70747ff8b8d3f5b60ac0dbf-occ_f6cd1c1c00e2470f923304d816e
@@ -8177,7 +7377,9 @@ UID:cand_27456bbb8550462b85e9f442a2faa2f6-occ_89bc339525574061bebf9fbd280
 DTSTAMP:20261104T045123Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Arcadia by Sir John Akomfrah
-DESCRIPTION:Price: FREE\nhttps://londontalks.uk/
+DESCRIPTION:Sir John Akomfrah's major film installation explores nature a
+ nd humanity. The exhibition is listed as free to attend.\nPrice: FREE\nh
+ ttps://londontalks.uk/
 LOCATION:NATURAL HISTORY MUSEUM\, LONDON\, London
 URL:https://londontalks.uk/
 END:VEVENT
@@ -8358,7 +7560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5b9600c5c10b494390e59ea9abd9e7fa-occ_6ee45a384f97429aa486278151a
  d3bd9@thingstodoinyourcity
-DTSTAMP:20261104T101516Z
+DTSTAMP:20261105T205302Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Evening Concerts at the Queen's House: Harpists Gloria Rappo and 
  Xinyi Wu
@@ -8381,22 +7583,6 @@ DESCRIPTION:Arthur unites the Knights of the Round Table at Camelot and u
  next-7-days/
 LOCATION:The Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_518bbf4f73454461bf10bdcb2a863b57-occ_c0e1c108d282400dbb612ce53a2
- 4ae8d@thingstodoinyourcity
-DTSTAMP:20261101T123616Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Firework Night at The Sherriff Centre
-DESCRIPTION:Activities\, soft play and the yearly firework display make u
- p the evening\, with food and drink available. Everyone attending needs 
- an entry ticket\; soft play is an add-on.\nPrice: Adult Entry: £3.50\; 
- Child ticket: £5\nhttps://www.eventbrite.co.uk/e/firework-night-tickets
- -2002941256215?aff=oddtdtcreator
-LOCATION:The Sherriff Centre\, Sherriff Road London NW6 2AP\, London\, En
- gland\, London
-URL:https://www.eventbrite.co.uk/e/firework-night-tickets-2002941256215?a
- ff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_03f352f2479a444aa14f07ddc957a12f-occ_4c6fcd7254484935a3f7fd1f4a9
@@ -8512,17 +7698,6 @@ SUMMARY:GALLERY X VIRAGE
 DESCRIPTION:https://highstreetkensington.co.uk/whats-on
 LOCATION:GALLERY CLUB LONDON\, London
 URL:https://highstreetkensington.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a0cd8e5a6c2547e7a98c3a9e1f57dd5e-occ_d717cbc368774e39b9189e791ae
- 54910@thingstodoinyourcity
-DTSTAMP:20261101T022702Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:George Michael: The Faith Tour Party Screening
-DESCRIPTION:Price: ADULT £15.00\; CONCESSION MEMBER £10.00\; CARER (CEA
-  CARD) £15.00\nhttps://thearzner.com/TheArzner.dll/WhatsOn?f=361827
-LOCATION:The Arzner\, 10 Bermondsey Square London SE1 3UN\, London
-URL:https://thearzner.com/TheArzner.dll/WhatsOn?f=361827
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_728c06da17a9444ca12e9eb3a8d1fa82-occ_0979a75f468a42f8acf7cd3c76b
@@ -9004,32 +8179,6 @@ LOCATION:Holy Sepulchre London\, Holborn Viaduct\, London\, EC1A 2DQ\, Un
 URL:https://hsl.church/events/74ngsxcmf5x3xzx-thald-774yf-yhtbw
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_d992ef4497644762b452a857588
- 21fe3@thingstodoinyourcity
-DTSTAMP:20261105T193058Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage for unrehearsed\, live
-  improvised jazz\, with vinyl DJ sets and free boardgames. It runs every
-  first Friday of the month at Tate Modern's Corner.\nPrice: Free\nhttps:
- //www.tate.org.uk/whats-on/tate-modern/natural-jazz
-LOCATION:Tate Modern\, Bankside\, London
-URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_d8ffcee361e449cc8771d939aa6
- d0bf5@thingstodoinyourcity
-DTSTAMP:20261105T193058Z
-DTSTART;VALUE=DATE:20261204
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage for unrehearsed\, live
-  improvised jazz\, with vinyl DJ sets and free boardgames. It runs every
-  first Friday of the month at Tate Modern's Corner.\nPrice: Free\nhttps:
- //www.tate.org.uk/whats-on/tate-modern/natural-jazz
-LOCATION:Tate Modern\, Bankside\, London
-URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_cf7894b5e957475eaa51f9d27d445c5b-occ_2b6ca0bec3444816ab53b4079b6
  a0ab2@thingstodoinyourcity
 DTSTAMP:20261105T070305Z
@@ -9403,18 +8552,6 @@ DESCRIPTION:Babies\, toddlers and grown-ups can relax together with gentl
 LOCATION:Firepit Art Gallery and Studios\, London
 URL:https://tinytidespeninsula.co.uk/sessions/cec8ba59-afaa-4d07-980d-4a1
  b3d45685a
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c9f962a0cf4a44e09f25f072e7ed70b7-occ_3a5c5d4b31f14d1d8eca4eaafee
- ba219@thingstodoinyourcity
-DTSTAMP:20261104T095307Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Totteridge Fireworks Display
-DESCRIPTION:Price: Adult. £14 Child. £9.50 Family. £42. (2 adults & 3 
- kids)\nhttps://www.wherecanwego.com/whats-on/clerkenwell
-LOCATION:Totteridge Millhillians Cicket Club Totteridge Green London N20 
- 8PB\, London
-URL:https://www.wherecanwego.com/whats-on/clerkenwell
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a6bff6976704b0bb50002957d1d9c59-occ_e0bdd97ead3b449baf49074c8d1
@@ -15221,6 +14358,231 @@ LOCATION:Mulberry Hall\, St. Margaret's House on Old Ford Road in Bethnal
 URL:https://www.outsavvy.com/event/18331/intro-and-intermediate-muay-thai
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_7455a2c214764c8f851ef86c5c6
+ a6e18@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261110T190000Z
+DTEND:20261110T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_fb154cb0629e472ea4e5d72cb3f
+ f38c0@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_8c381d654f494494abb8894d4ef
+ a0669@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_1246c5d6fa6845d388a96a2216e
+ 54fd8@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261119T190000Z
+DTEND:20261119T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_6bd75800a719481a8688b5421a1
+ e8cd4@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261124T190000Z
+DTEND:20261124T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_ae828d0c0f5345c89f6076d99e9
+ 90192@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261125T190000Z
+DTEND:20261125T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_f1b3a2e67a954b009537b76893c
+ 3d7eb@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261126T190000Z
+DTEND:20261126T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_0440b70a788245e6b36810eeb9e
+ 05967@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261201T190000Z
+DTEND:20261201T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_fe92bfd049854942aabcfa2905f
+ b6e3d@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_d9c5f34757bd411588fb120415a
+ 91b18@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261203T190000Z
+DTEND:20261203T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_d2dcf2ca159c4c73a5244c3ed07
+ f9df0@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261208T190000Z
+DTEND:20261208T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_403b7b87318c4cd8adfc39839e4
+ 7b6ed@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261209T190000Z
+DTEND:20261209T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_018144850dfc469682d241df39f
+ 43d18@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261210T190000Z
+DTEND:20261210T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_a0c35639962c4d0bbf6b2deb4e9
+ f1445@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261216T190000Z
+DTEND:20261216T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8fcd214d8796497488dee3712bd4d8df-occ_a00ae4fd902e49faa4ac12a3c05
+ 53461@thingstodoinyourcity
+DTSTAMP:20261022T031041Z
+DTSTART:20261217T190000Z
+DTEND:20261217T210000Z
+SUMMARY:Comedy in Your Eye: Stand-Up in Camden Town
+DESCRIPTION:Stand-up nights in the historic Camden Eye pub\, mixing TV co
+ mics and rising stars from the London circuit. Each show brings a new\, 
+ top secret lineup of short sets.\nhttps://www.londontheatres.com/event/c
+ omedy-in-your-eye-_-stand-up-comedy-in-camden-town
+LOCATION:Comedy In Your Eye\, London
+URL:https://www.londontheatres.com/event/comedy-in-your-eye-_-stand-up-co
+ medy-in-camden-town
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4f9d5be446164fee915f4961b551317d-occ_f600c9aa93c34f65899850dad98
  40951@thingstodoinyourcity
 DTSTAMP:20261101T212753Z
@@ -17878,11 +17240,38 @@ LOCATION:Soho Theatre\, 21 Dean Street\, London W1D 3NE\, London
 URL:https://sohotheatre.com/events/cog-test-prices/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5b3fefea5fb04b7fb7789d8aafea1b54-occ_e174939cba064512aba21037429
+ 845a8@thingstodoinyourcity
+DTSTAMP:20261105T205107Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Garden/Art/Garden: a series of talks exploring gardens as an artf
+ orm
+DESCRIPTION:Price: £20 Standard\, £15 Friends\, £15 Young Fronds\, £1
+ 0 Student\, £10 Livestream\; or book all 5 for £80 Standard or £65 Fr
+ iends\nhttps://www.gardenmuseum.org.uk/whats-on
+LOCATION:Garden Museum\, London
+URL:https://www.gardenmuseum.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5b3fefea5fb04b7fb7789d8aafea1b54-occ_f05140d1885f4570b2e57daa9d0
  17759@thingstodoinyourcity
-DTSTAMP:20261104T101413Z
+DTSTAMP:20261105T205107Z
 DTSTART;VALUE=DATE:20261117
-SUMMARY:Garden/Art/Garden: talks on gardens as an artform
+SUMMARY:Garden/Art/Garden: a series of talks exploring gardens as an artf
+ orm
+DESCRIPTION:Price: £20 Standard\, £15 Friends\, £15 Young Fronds\, £1
+ 0 Student\, £10 Livestream\; or book all 5 for £80 Standard or £65 Fr
+ iends\nhttps://www.gardenmuseum.org.uk/whats-on
+LOCATION:Garden Museum\, London
+URL:https://www.gardenmuseum.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5b3fefea5fb04b7fb7789d8aafea1b54-occ_39580b66648e472397171463859
+ 1fc7a@thingstodoinyourcity
+DTSTAMP:20261105T205107Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Garden/Art/Garden: a series of talks exploring gardens as an artf
+ orm
 DESCRIPTION:Price: £20 Standard\, £15 Friends\, £15 Young Fronds\, £1
  0 Student\, £10 Livestream\; or book all 5 for £80 Standard or £65 Fr
  iends\nhttps://www.gardenmuseum.org.uk/whats-on
@@ -17892,9 +17281,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5b3fefea5fb04b7fb7789d8aafea1b54-occ_3d99d8211a8a4a169ecd79abc62
  6bdde@thingstodoinyourcity
-DTSTAMP:20261104T101413Z
+DTSTAMP:20261105T205107Z
 DTSTART;VALUE=DATE:20261201
-SUMMARY:Garden/Art/Garden: talks on gardens as an artform
+SUMMARY:Garden/Art/Garden: a series of talks exploring gardens as an artf
+ orm
 DESCRIPTION:Price: £20 Standard\, £15 Friends\, £15 Young Fronds\, £1
  0 Student\, £10 Livestream\; or book all 5 for £80 Standard or £65 Fr
  iends\nhttps://www.gardenmuseum.org.uk/whats-on
@@ -17909,6 +17299,19 @@ DTSTART;VALUE=DATE:20261117
 SUMMARY:Nelder Fellow lecture series – Prof Ed Bueler
 DESCRIPTION:
 LOCATION:London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_124a07715fc94e5c85605363910ba0a7-occ_41ae35a6c64f4b0f81dc7308117
+ e5dae@thingstodoinyourcity
+DTSTAMP:20261105T202928Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Nelder Fellow lecture series – Prof Ed Bueler (University of Al
+ aska Fairbanks)
+DESCRIPTION:Price: Free\nhttps://www.imperial.ac.uk//events/description/i
+ ndex.php?route=214746/nelder-fellow-lecture-series-prof-ed-bueler-4/
+LOCATION:658\, Huxley Building\, South Kensington Campus\, London
+URL:https://www.imperial.ac.uk//events/description/index.php?route=214746
+ /nelder-fellow-lecture-series-prof-ed-bueler-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aee036a4859e49f4bc2be58775682d52-occ_46f3419b3d9143f994ebbf02941
@@ -17943,23 +17346,6 @@ LOCATION:Next to the Pheasantry Cafe\, Pheasantry Cafe Woodland Gardens H
  ampton TW11 0EW\, Hampton\, London
 URL:https://www.eventbrite.co.uk/e/fungi-walks-citizen-science-tickets-19
  95969939820?aff=ianvisits
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_124a07715fc94e5c85605363910ba0a7-occ_41ae35a6c64f4b0f81dc7308117
- e5dae@thingstodoinyourcity
-DTSTAMP:20261104T095804Z
-DTSTART:20261117T150000Z
-DTEND:20261117T160000Z
-SUMMARY:Nelder Fellow lecture series – Prof Ed Bueler (University of Al
- aska Fairbanks)
-DESCRIPTION:Four-lecture series introducing variational inequalities and 
- their finite element solution. Applies them to glaciation extent in a ti
- me- and space-varying climate.\nPrice: Free\nhttps://www.imperial.ac.uk/
- /events/description/index.php?route=214746/nelder-fellow-lecture-series-
- prof-ed-bueler-4/
-LOCATION:658\, Huxley Building\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=214746
- /nelder-fellow-lecture-series-prof-ed-bueler-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_adb9916ef27c430bbb8dc786bef6f429-occ_e0b803ec6fe64992b83b05ae387
@@ -18511,9 +17897,11 @@ SUMMARY:Beneath the Stones: A Subterranean Tour of St Mary Magdalene's Ch
 DESCRIPTION:Descend beneath St Mary Magdalene's Church to explore the Und
  ercroft and Chapel of St Sepulchre. Learn about its Victorian design\, C
  omper heritage and recent restoration.\nPrice: Tickets: £5\nhttps://gra
- ndjunction.ticketsolve.com/ticketbooth/shows/1173692874
+ ndjunction.org.uk/events/tour-beneath-the-stones-a-subterranean-tour-of-
+ st-mary-magdalenes-church
 LOCATION:ST MARY MAGDALENE CHURCH\, London
-URL:https://grandjunction.ticketsolve.com/ticketbooth/shows/1173692874
+URL:https://grandjunction.org.uk/events/tour-beneath-the-stones-a-subterr
+ anean-tour-of-st-mary-magdalenes-church
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_70c5925bc040421ebd087200f3bcad6a-occ_b371b05c9c6844b2b1c2544fed3
