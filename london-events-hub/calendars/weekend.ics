@@ -6498,7 +6498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_708f5c1261da4643ad175b057172eb77-occ_4baeee095f764a6f96974d3f221
  3d000@thingstodoinyourcity
-DTSTAMP:20261104T091656Z
+DTSTAMP:20261105T200645Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20261212
 SUMMARY:House of K.I.N.G.s Saturday School: Created 2 Create
@@ -11500,17 +11500,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3a317344ca6a4a99ae67754a251027d5-occ_023cbb1da8e84a8fa50c48b8119
  c4df8@thingstodoinyourcity
-DTSTAMP:20261103T085726Z
+DTSTAMP:20261105T175211Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261122
 SUMMARY:606 Club 50th Anniversary x EFG London Jazz Festival
-DESCRIPTION:Celebrating 50 years since 1976\, the 606 Club hosts an All-S
- tar Festival featuring Jamie Cullum. Its EFG London Jazz Festival progra
- mme includes Jackson Mathod and Imaani.\nhttps://www.inchelsea.co.uk/eve
- nts/606-club-50th-anniversary-x-efg-london-jazz-festival
+DESCRIPTION:Marking 50 years since 1976\, the 606 Club hosts an All-Star 
+ Festival with Jamie Cullum. Its EFG London Jazz Festival programme featu
+ res Jackson Mathod and Imaani.\nhttps://www.inchelsea.co.uk/events
 LOCATION:King's Road\, London
-URL:https://www.inchelsea.co.uk/events/606-club-50th-anniversary-x-efg-lo
- ndon-jazz-festival
+URL:https://www.inchelsea.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_91f6b90c5c2b4cb395433281210e511f-occ_0c27bc24e3184371bcfda3ac02d
@@ -12940,17 +12938,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ae840f8dd6b94c1b92a2b183cffc6fc9-occ_cc3c658efe634faeac08f56ea42
  61d02@thingstodoinyourcity
-DTSTAMP:20261030T203224Z
+DTSTAMP:20261105T175210Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261108
 SUMMARY:A Taste of Diwali\, Jumeirah Carlton Tower
-DESCRIPTION:The second edition transforms The Chinoiserie Bar into a dest
- ination for contemporary Indian cuisine. Five chefs of South Asian herit
- age each contribute a signature dish.\nhttps://www.inchelsea.co.uk/event
- s/a-taste-of-diwali-jumeirah-carlton-tower
+DESCRIPTION:The second edition turns The Chinoiserie Bar into a contempor
+ ary Indian cuisine destination. Five South Asian-heritage chefs each con
+ tribute a signature dish.\nhttps://www.inchelsea.co.uk/events
 LOCATION:At Jumeirah Carlton Tower\, Sloane Street\, London
-URL:https://www.inchelsea.co.uk/events/a-taste-of-diwali-jumeirah-carlton
- -tower
+URL:https://www.inchelsea.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1f3995641b0f49d9a4509ed9616480c9-occ_b6616cd38dda4a028a9a2c70755
@@ -21547,6 +21543,32 @@ LOCATION:Seven Dials\, London
 URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_24537f54c7c842b09f632b7aeba37b48-occ_f7967d5b31dd4175b2152b11d33
+ 552bf@thingstodoinyourcity
+DTSTAMP:20261031T202804Z
+DTSTART:20261106T193000Z
+SUMMARY:Ilford Boy
+DESCRIPTION:Danny Lee Wynter's new play draws on his own life\, following
+  a mixed-race teen in a busy Ilford family home. Time Out rates it 4 out
+  of 5 stars.\nhttps://www.timeout.com/london/things-to-do-in-london-this
+ -weekend
+LOCATION:Seven Dials\, London
+URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_24537f54c7c842b09f632b7aeba37b48-occ_8e8d5ac05e9e4aa48ceac1269d8
+ 8f2b0@thingstodoinyourcity
+DTSTAMP:20261031T202804Z
+DTSTART:20261107T143000Z
+SUMMARY:Ilford Boy
+DESCRIPTION:Danny Lee Wynter's new play draws on his own life\, following
+  a mixed-race teen in a busy Ilford family home. Time Out rates it 4 out
+  of 5 stars.\nhttps://www.timeout.com/london/things-to-do-in-london-this
+ -weekend
+LOCATION:Seven Dials\, London
+URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3797ae2f5e1f49d5af8c79caedac3840-occ_c2923466ca3f4a87a1fa0ff447a
  0fea1@thingstodoinyourcity
 DTSTAMP:20261031T005240Z
@@ -23556,6 +23578,22 @@ LOCATION:Southbank Centre\, Queen's Walk\, Southbank Centre (under Hunger
 URL:https://popette.app/p/ldn-southbank-centre-winter-market-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8bf5b7e693c6497cba31d5332e3722db-occ_6bf1c1ba240d4051b2afb63ae31
+ 5ba4c@thingstodoinyourcity
+DTSTAMP:20261103T020728Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270103
+SUMMARY:Southbank Centre Winter Market
+DESCRIPTION:Wooden winter chalets line the Thames by the Royal Festival H
+ all. Find street food\, Dutch pancakes\, mulled wine and hot cider\, plu
+ s makers' stalls.\nPrice: Free entry\nhttps://popette.app/p/ldn-southban
+ k-centre-winter-market-2026/
+LOCATION:Southbank Centre\, Queen's Walk\, Southbank Centre (under Hunger
+ ford Bridge)\, The Queen's Walk\, Southbank Centre\, London SE1 8XX\, Lo
+ ndon
+URL:https://popette.app/p/ldn-southbank-centre-winter-market-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b836223823924d0985a44c17b726dbc6-occ_6251fc1cdf6e4bd0a704c43ee6a
  ae6d3@thingstodoinyourcity
 DTSTAMP:20261102T095332Z
@@ -23582,6 +23620,20 @@ DESCRIPTION:https://popette.app/p/ldn-heytea-lab-gacha-nov-2026/
 LOCATION:heytea lab London\, heytea lab London\, 118-120 Shaftesbury Aven
  ue\, London W1D 5ES\, London
 URL:https://popette.app/p/ldn-heytea-lab-gacha-nov-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_59a9a8c495e64a23870ea779cf0afefe-occ_e966181731d2431485ea2928449
+ 2c618@thingstodoinyourcity
+DTSTAMP:20261105T173540Z
+DTSTART:20261102T120000Z
+DTEND:20261108T170000Z
+SUMMARY:Bose Pop-Up in London with Freebies
+DESCRIPTION:Bose takes over Future Stores for one week of immersive audio
+ . Visitors can get free goodies and watch daily live DJ sets.\nPrice: FR
+ EE ENTRY\nhttps://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+LOCATION:Future Stores\, 95 Oxford Street\, London\, 95 Oxford Street\, L
+ ondon\, London
+URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_248b3f50d9f24373bc7a2ad409c45c7c-occ_e9ab51aead654d448ec4deeb48e
@@ -26284,6 +26336,19 @@ LOCATION:Kit Kat Club at the Playhouse Theatre\, Northumberland Avenue\,
 URL:https://londontheatrehub.co.uk/shows/cabaret/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_793d2e785f4c4d869d56d43091f16d63-occ_3048efaaaa064a05afa1c6f2cef
+ e0c37@thingstodoinyourcity
+DTSTAMP:20261105T173736Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270214
+SUMMARY:Cecilia Vicuña
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Whitechapel Gallery\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_827fc9ec4b224ee1b2f1c5589cc22c39-occ_37f1c95e4c1e4fff9fd9f4e9334
  a5fa5@thingstodoinyourcity
 DTSTAMP:20261105T144838Z
@@ -26297,26 +26362,15 @@ LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1912a5c664b84808b1db290fcf7f2164-occ_8759759cab514fa9bbe67e24e12
- 33a83@thingstodoinyourcity
-DTSTAMP:20261102T023955Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261228
-SUMMARY:Christmas in Chelsea
-DESCRIPTION:https://www.inchelsea.co.uk/events/christmas-in-chelsea
-LOCATION:Chelsea\, London
-URL:https://www.inchelsea.co.uk/events/christmas-in-chelsea
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ca25a15b9bba405c884c49ece5c43e50-occ_02cd2b2b396f460084923d808f2
  9c399@thingstodoinyourcity
-DTSTAMP:20261031T230528Z
+DTSTAMP:20261105T175259Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261228
 SUMMARY:Christmas in Chelsea
-DESCRIPTION:https://www.inchelsea.co.uk/events/christmas-in-chelsea
+DESCRIPTION:https://www.inchelsea.co.uk/events
 LOCATION:London
-URL:https://www.inchelsea.co.uk/events/christmas-in-chelsea
+URL:https://www.inchelsea.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4e3dbfcf081e4c5fb8a37c175da1225c-occ_70c6dc74a94f49918caab0c6f27
@@ -26724,58 +26778,58 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_d993d780c71641cdb2979d3dfb6
  ef318@thingstodoinyourcity
-DTSTAMP:20261104T004141Z
+DTSTAMP:20261105T190923Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:London Korean Film Festival
 DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
- at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
- ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
- ww.timeout.com/london/things-to-do/london-korean-film-festival
+ at London picture houses. Opens with The Journey to Gyeong-ju and closes
+  with the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps:/
+ /www.timeout.com/london/things-to-do/things-to-do-in-london-this-week
 LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_ed5ecbb3bde347f68512a981bd8
  76c53@thingstodoinyourcity
-DTSTAMP:20261104T004141Z
+DTSTAMP:20261105T190923Z
 DTSTART;VALUE=DATE:20261108
 SUMMARY:London Korean Film Festival
 DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
- at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
- ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
- ww.timeout.com/london/things-to-do/london-korean-film-festival
+ at London picture houses. Opens with The Journey to Gyeong-ju and closes
+  with the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps:/
+ /www.timeout.com/london/things-to-do/things-to-do-in-london-this-week
 LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_4b8588b65e7c4002802d1a7b03e
  ddfa7@thingstodoinyourcity
-DTSTAMP:20261104T004141Z
+DTSTAMP:20261105T190923Z
 DTSTART;VALUE=DATE:20261114
 SUMMARY:London Korean Film Festival
 DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
- at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
- ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
- ww.timeout.com/london/things-to-do/london-korean-film-festival
+ at London picture houses. Opens with The Journey to Gyeong-ju and closes
+  with the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps:/
+ /www.timeout.com/london/things-to-do/things-to-do-in-london-this-week
 LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad21c1ea347542d19eb3270e14eba628-occ_eec440011a1e4d5987afce43e02
  5d86a@thingstodoinyourcity
-DTSTAMP:20261104T004141Z
+DTSTAMP:20261105T190923Z
 DTSTART;VALUE=DATE:20261115
 SUMMARY:London Korean Film Festival
 DESCRIPTION:Annual festival of 22 Korean films screened over a fortnight 
- at London picture houses. Opens with The Journey to Gyeong-ju\; closes w
- ith the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps://w
- ww.timeout.com/london/things-to-do/london-korean-film-festival
+ at London picture houses. Opens with The Journey to Gyeong-ju and closes
+  with the UK premiere of Tristes Tropiques.\nPrice: Prices vary\nhttps:/
+ /www.timeout.com/london/things-to-do/things-to-do-in-london-this-week
 LOCATION:Various London venues\, London
-URL:https://www.timeout.com/london/things-to-do/london-korean-film-festiv
- al
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_265561126b9d44e287c16a9f7d610a42-occ_5a59c6c36fe94cf2aa2c5aa25e9
@@ -27025,6 +27079,21 @@ LOCATION:David Zwirner | London\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c478842e971b4d52a857ef0911e8e3c4-occ_0db04439e1b34f05b9dc5154410
+ dc1ac@thingstodoinyourcity
+DTSTAMP:20261105T192037Z
+DTSTART;VALUE=DATE:20261105
+DTEND:20270105T000000Z
+SUMMARY:Oxford Street’s Christmas Lights
+DESCRIPTION:Oxford Street's lights this year are Harry Potter-themed\, wi
+ th Hogwarts-style designs. Made from eco-friendly LED lights and recycle
+ d plastic\, with 5000 twinkling stars.\nhttps://www.timeout.com/london/t
+ hings-to-do/things-to-do-in-london-this-week
+LOCATION:Soho\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c7463c1c8fd64efb8abefdb60028a571-occ_3b13f71f06fb4230944857398c7
  c3ec7@thingstodoinyourcity
 DTSTAMP:20261030T163600Z
@@ -27059,32 +27128,6 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:Pierre Soulages / Outrenoir
 DESCRIPTION:
 LOCATION:Timothy Taylor\, London
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_43832f3506e848179fba72e8b6d
- c36f0@thingstodoinyourcity
-DTSTAMP:20261104T005114Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Pitchfork Music Festival
-DESCRIPTION:Pitchfork Music Festival returns with 80 artists across Londo
- n's best venues. Headliners include Horse Jumper of Love\, Actress\, The
-  Avalanches and Noname.\nPrice: Prices vary\nhttps://www.timeout.com/lon
- don/music/pitchfork-music-festival
-LOCATION:Various\, Various London\, London
-URL:https://www.timeout.com/london/music/pitchfork-music-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_085a236463404ce3ac2538c5545
- e643d@thingstodoinyourcity
-DTSTAMP:20261104T005114Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Pitchfork Music Festival
-DESCRIPTION:Pitchfork Music Festival returns with 80 artists across Londo
- n's best venues. Headliners include Horse Jumper of Love\, Actress\, The
-  Avalanches and Noname.\nPrice: Prices vary\nhttps://www.timeout.com/lon
- don/music/pitchfork-music-festival
-LOCATION:Various\, Various London\, London
-URL:https://www.timeout.com/london/music/pitchfork-music-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_62d3e66e30fb4a85bd709f2e696223e1-occ_740dac45c03446cc8450e6d3216
@@ -27172,6 +27215,19 @@ DESCRIPTION:Price: £16.50\nhttps://www.pleasance.co.uk/events/location/L
  ondon
 LOCATION:Pleasance London\, Main House Cabaret\, LONDON\, London
 URL:https://www.pleasance.co.uk/events/location/London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6066f1398e9a428bbff48e7003f2493a-occ_46c1c875e26c432da10b74b9cb6
+ 4e3f8@thingstodoinyourcity
+DTSTAMP:20261105T173917Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270207
+SUMMARY:Rudy Loewe: Intimacies of Care - Spaces of Grief and Possibility
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Wellcome Collection\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_192eb49c8e5e4ab79cca79e5174d7e23-occ_53718e7727b4414fa7b42cdb3a7
@@ -27311,6 +27367,19 @@ DESCRIPTION:Board a double-decker bus from Victoria for sightseeing with
 LOCATION:Golden Tours\, Bulleid Way Departure Point\, Pimlico\, London\, 
  London
 URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b96a8e2093444f57ae8fdbff09340f3f-occ_cf9d96ccb27e4cd7bafa775c273
+ 91d3f@thingstodoinyourcity
+DTSTAMP:20261105T173825Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261212
+SUMMARY:This Is Still Not a Pipe: The Afterlife of Magritte
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Gagosian’s Grosvenor Hill gallery\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ec55ec1fe114797a4923d9f29cd3b55-occ_f8ecb7f376054643bb57a8108c9
@@ -27627,6 +27696,47 @@ SUMMARY:upperground: DJ sets
 DESCRIPTION:Price: Free event\nhttps://www.vam.ac.uk/whatson
 LOCATION:V&A East Museum\, Upper Ground\, London
 URL:https://www.vam.ac.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3ea11dec5d124d25b01248943272d53c-occ_eef076c6d3e24c469dbada4f34e
+ 91341@thingstodoinyourcity
+DTSTAMP:20261105T173917Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+SUMMARY:‘I Tear Secrets from Your Yielding Flesh’: Nicola Turner
+DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
+ hibitions
+LOCATION:Annely Juda\, London
+URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_43832f3506e848179fba72e8b6d
+ c36f0@thingstodoinyourcity
+DTSTAMP:20261105T190925Z
+DTSTART:20261107T000000Z
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:80 artists play across London venues. Headliners include Hors
+ e Jumper of Love\, Actress\, The Avalanches and Noname.\nPrice: Prices v
+ ary\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-london-
+ this-week
+LOCATION:Various\, Various\, London\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5c6c048535a5475a88d0d2a47a634486-occ_085a236463404ce3ac2538c5545
+ e643d@thingstodoinyourcity
+DTSTAMP:20261105T190925Z
+DTSTART:20261108T000000Z
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:80 artists play across London venues. Headliners include Hors
+ e Jumper of Love\, Actress\, The Avalanches and Noname.\nPrice: Prices v
+ ary\nhttps://www.timeout.com/london/things-to-do/things-to-do-in-london-
+ this-week
+LOCATION:Various\, Various\, London\, London
+URL:https://www.timeout.com/london/things-to-do/things-to-do-in-london-th
+ is-week
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_51df607e9a3c4c8d878f6d56194b2b24-occ_bf3ed98fb0b6483b994b2273789
@@ -29203,6 +29313,18 @@ LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_caf928b493b74c5a9f485eeb02c132cc-occ_5bed2de1811c456f83fa4176927
+ a936f@thingstodoinyourcity
+DTSTAMP:20261105T183613Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:AKIRA
+DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk anime reshaped Japanese 
+ animation. Kaneda races to free his friend Tetsuo\, who awakens a terrif
+ ying power in an army lab.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a4b59e7323b44015bed4aafc045d2840-occ_dc04771d89a2440b820bda43235
  004b0@thingstodoinyourcity
 DTSTAMP:20261031T224114Z
@@ -30233,21 +30355,9 @@ DESCRIPTION:
 LOCATION:The Garden Cinema\, London
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ab664f21051945d19deb4ee6c5773c23-occ_8723c38e8a8a4c05bae512cdd08
- e54c9@thingstodoinyourcity
-DTSTAMP:20261104T095242Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Legend of Kaliakra
-DESCRIPTION:Price: Tickets: £16.45 (Incl booking fees)\nhttps://www.wher
- ecanwego.com/whats-on/clerkenwell
-LOCATION:The Cockpit\, Gateforth Street NW8 8EH\, London
-URL:https://www.wherecanwego.com/whats-on/clerkenwell
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ab664f21051945d19deb4ee6c5773c23-occ_b6de1e64f4994bf8b04d6e4cf7d
  126f1@thingstodoinyourcity
-DTSTAMP:20261104T095242Z
+DTSTAMP:20261105T202055Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Legend of Kaliakra
@@ -30259,7 +30369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ab664f21051945d19deb4ee6c5773c23-occ_8646d517441c4ed2a6e21ccb726
  f9e5f@thingstodoinyourcity
-DTSTAMP:20261104T095242Z
+DTSTAMP:20261105T202055Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Legend of Kaliakra
 DESCRIPTION:Price: Tickets: £16.45 (Incl booking fees)\nhttps://www.wher
@@ -30717,6 +30827,18 @@ DESCRIPTION:Georgia Oakley directs this drama starring Caitriona Balfe an
  station.com/film/sense-and-sensibility
 LOCATION:The Cinema in The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/sense-and-sensibility
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2241a24a658d4ea9b7cdb64bc0a41994-occ_7b51656e14764a1586fa20f12dd
+ 81a7c@thingstodoinyourcity
+DTSTAMP:20261105T183709Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Short Cuts : 35mm Roadshow Tour
+DESCRIPTION:Robert Altman's 1993 ensemble epic screens from an original 3
+ 5mm print. The Roadshow Tour begins here before a limited November run a
+ cross UK sites.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ebf780bfe8b4477cb180cede48eda9a8-occ_3a9ff9d7c2324cf48ca019e49d5
@@ -31639,21 +31761,6 @@ URL:https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectIte
  18.TcsSection_3060731
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2241a24a658d4ea9b7cdb64bc0a41994-occ_7b51656e14764a1586fa20f12dd
- 81a7c@thingstodoinyourcity
-DTSTAMP:20261031T235801Z
-DTSTART:20261107T200500Z
-SUMMARY:Short Cuts : 35mm Roadshow Tour
-DESCRIPTION:Robert Altman's sprawling 1993 epic screens from an original 
- 35mm print. The 35mm Roadshow Tour begins here before a limited November
-  run across UK sites.\nhttps://princecharlescinema.com/film/4583163/shor
- t-cuts-35mm-roadshow-tour/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/4583163/short-cuts-35mm-roadshow
- -tour/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_072abe2446004ddf8bd85c23d1a35566-occ_2db02a74b42f4b18a361770d98f
  b9112@thingstodoinyourcity
 DTSTAMP:20261101T055235Z
@@ -32105,20 +32212,6 @@ URL:https://www.imperial.ac.uk//events/description/index.php?route=215593
  /junior-geometry-seminar-zhengyang-cui/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_877cefa9710c4320bb6ad37a309da703-occ_634e01490b5f4580ad216d8816e
- 2c6e5@thingstodoinyourcity
-DTSTAMP:20261031T235643Z
-DTSTART:20261106T175000Z
-SUMMARY:The Fifth Element
-DESCRIPTION:Bruce Willis and Milla Jovovich star in Luc Besson's 1997 sci
- -fi action film. Korben Dallas\, a taxi driver and former secret agent\,
-  helps stop a sphere of fire racing toward Earth.\nhttps://princecharles
- cinema.com/film/31617354/the-fifth-element/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/31617354/the-fifth-element/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_68525e37a653464e95b64a7445e92f20-occ_0e908e15d97e4e088b57c9b2cf1
  bb627@thingstodoinyourcity
 DTSTAMP:20261105T074330Z
@@ -32205,68 +32298,6 @@ DESCRIPTION:Guests in masks join a hidden-space murder mystery over three
 LOCATION:Glaziers Hall\, 9 Montague Close\, London\, SE1 9DD\, London Bri
  dge\, London
 URL:https://feverup.com/en/london/when/this-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_d992ef4497644762b452a857588
- 21fe3@thingstodoinyourcity
-DTSTAMP:20261104T093740Z
-DTSTART:20261106T180000Z
-DTEND:20261106T220000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage to improvise live\, wi
- th vinyl DJ sets and free boardgames. It runs every first Friday of the 
- month.\nPrice: Free\nhttps://www.timeout.com/london/things-to-do/natural
- -jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_25464ef073f349a09c7576f171b
- b8e74@thingstodoinyourcity
-DTSTAMP:20261104T093740Z
-DTSTART:20261106T183000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage to improvise live\, wi
- th vinyl DJ sets and free boardgames. It runs every first Friday of the 
- month.\nPrice: Free\nhttps://www.timeout.com/london/things-to-do/natural
- -jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_d8ffcee361e449cc8771d939aa6
- d0bf5@thingstodoinyourcity
-DTSTAMP:20261104T093740Z
-DTSTART:20261204T180000Z
-DTEND:20261204T220000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage to improvise live\, wi
- th vinyl DJ sets and free boardgames. It runs every first Friday of the 
- month.\nPrice: Free\nhttps://www.timeout.com/london/things-to-do/natural
- -jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_67dd5dc4180a4001b97277b2efe
- a0d75@thingstodoinyourcity
-DTSTAMP:20261104T093740Z
-DTSTART:20261204T183000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:London jazz heavyweights meet on stage to improvise live\, wi
- th vinyl DJ sets and free boardgames. It runs every first Friday of the 
- month.\nPrice: Free\nhttps://www.timeout.com/london/things-to-do/natural
- -jazz-x-voices-radio-at-the-tate-corner-bar
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.timeout.com/london/things-to-do/natural-jazz-x-voices-rad
- io-at-the-tate-corner-bar
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1198d9181c2b4b31997249236b88952c-occ_9c1eac9e8530405c80e4aa26d14
@@ -33861,48 +33892,6 @@ URL:https://www.ica.art/films/after-utopia-the-strugatsky-brothers-on-fil
  m/pushkin-house-dead-mountaineer-s-hotel
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_caf928b493b74c5a9f485eeb02c132cc-occ_bc54ce6764de429c84e7205f9d1
- 11e73@thingstodoinyourcity
-DTSTAMP:20261031T235822Z
-DTSTART:20261106T204500Z
-SUMMARY:AKIRA
-DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic reshaped Japanes
- e animation. Kaneda sneaks into an army lab to free his friend Tetsuo\, 
- who has awakened a terrifying power.\nhttps://princecharlescinema.com/fi
- lm/1808/akira/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/1808/akira/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_caf928b493b74c5a9f485eeb02c132cc-occ_5bed2de1811c456f83fa4176927
- a936f@thingstodoinyourcity
-DTSTAMP:20261031T235822Z
-DTSTART:20261107T143500Z
-SUMMARY:AKIRA
-DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic reshaped Japanes
- e animation. Kaneda sneaks into an army lab to free his friend Tetsuo\, 
- who has awakened a terrifying power.\nhttps://princecharlescinema.com/fi
- lm/1808/akira/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/1808/akira/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_caf928b493b74c5a9f485eeb02c132cc-occ_42e6ba4350da418eaa9cec99d9b
- 80f81@thingstodoinyourcity
-DTSTAMP:20261031T235822Z
-DTSTART:20270115T175000Z
-SUMMARY:AKIRA
-DESCRIPTION:Katsuhiro Otomo's landmark cyberpunk classic reshaped Japanes
- e animation. Kaneda sneaks into an army lab to free his friend Tetsuo\, 
- who has awakened a terrifying power.\nhttps://princecharlescinema.com/fi
- lm/1808/akira/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/1808/akira/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_fe43c8febe054cedb8800698dbd35b16-occ_3878aae6b483409baa1a5ef0033
  3e0f1@thingstodoinyourcity
 DTSTAMP:20261102T231524Z
@@ -33931,20 +33920,6 @@ LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
   Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
  ondon
 URL:https://bigbellycomedy.club/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21a440c91953461b8d64e464a59b0338-occ_bc6e780cad6343c5a6c3a6f9df1
- 68631@thingstodoinyourcity
-DTSTAMP:20261101T000511Z
-DTSTART:20261106T210000Z
-SUMMARY:Mikey and Nicky
-DESCRIPTION:Elaine May's 1976 gangster drama follows two small-time mobst
- ers over one night after a hit is put on Nicky. Cassavetes and Falk star
-  in this unsung American masterpiece.\nhttps://princecharlescinema.com/f
- ilm/31617370/mikey-and-nicky/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/31617370/mikey-and-nicky/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9d6cfab9f7264877866934e7a4af0573-occ_946d8c53110b4a8b9ce9bf42857
@@ -34752,6 +34727,18 @@ LOCATION:18-22 Houndsditch\, London\, EC3A 7DB\, London
 URL:https://dabberssocial.co.uk/pages/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ad6cc8048e264e87ae889f62eef27320-occ_66438637ca5148e691a6d48242a
+ 8c992@thingstodoinyourcity
+DTSTAMP:20261105T183920Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Bugsy Malone
+DESCRIPTION:Rival gangs battle over splurge guns and a speakeasy in 1929 
+ New York. Jodie Foster stars in Alan Parker's 1976 musical comedy.\nhttp
+ s://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fc1b829a4edd4054ab6f3e7933a30040-occ_a2f154ee412d4ab19d8f1320e61
  50fd5@thingstodoinyourcity
 DTSTAMP:20261103T115445Z
@@ -34853,6 +34840,30 @@ LOCATION:The Ministry\, 79-81 Borough Road\, London Bridge\, SE1 1DN\, Lo
  ndon Bridge\, London
 URL:https://saladdaysmarket.co.uk/salad-days-market-blog/christmas-market
  -london-bridge-the-ministry-7-8-november-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8721f4036abd4afcb822bbcf7d960f9a-occ_f6011b3d762149908a22de8c4f4
+ 1d979@thingstodoinyourcity
+DTSTAMP:20261105T184057Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Chungking Express
+DESCRIPTION:Two lovelorn Hong Kong cops and a waitress cross paths in Won
+ g Kar Wai's 1994 romance. Presented in 4K as part of The Films of Wong K
+ ar Wai season.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8721f4036abd4afcb822bbcf7d960f9a-occ_e157a7ce7c96417da978868ddf8
+ eaec3@thingstodoinyourcity
+DTSTAMP:20261105T184057Z
+DTSTART;VALUE=DATE:20270123
+SUMMARY:Chungking Express
+DESCRIPTION:Two lovelorn Hong Kong cops and a waitress cross paths in Won
+ g Kar Wai's 1994 romance. Presented in 4K as part of The Films of Wong K
+ ar Wai season.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1653816a7b4641cd9cfc65f4ed4fa2cd-occ_4c6ec9fe654a4d368314f080a6e
@@ -36768,23 +36779,30 @@ URL:https://www.shakespearesglobe.com/whats-on/romeo-and-juliet-gcse-boos
  t/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f7104adca6e743e5ae0cbe7116ea3adf-occ_9373f33d053247298d19f56a6c7
+ 5035a@thingstodoinyourcity
+DTSTAMP:20261105T191011Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Round Table Fireworks Spectacular at Kenilworth Castle
+DESCRIPTION:Price: Adult £14\; Child\, 5-17 years £7\; Family tickets 
+ £21 or £35\; Under 5s go free\nhttps://www.english-heritage.org.uk/vis
+ it/whats-on/
+LOCATION:Kenilworth Castle and Elizabethan Garden\, Kenilworth\, Warwicks
+ hire\, West Midlands\, London
+URL:https://www.english-heritage.org.uk/visit/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f7104adca6e743e5ae0cbe7116ea3adf-occ_fcdaa21dd02540fcb9c37af421d
  fe533@thingstodoinyourcity
-DTSTAMP:20261031T232930Z
+DTSTAMP:20261105T191011Z
 DTSTART;VALUE=DATE:20261107
-DTEND:20261107T193000Z
 SUMMARY:Round Table Fireworks Spectacular at Kenilworth Castle
-DESCRIPTION:Kenilworth Round Table's annual charity fireworks night. A mi
- ni display starts at 6.15pm\, the main show at 7pm. Food and drink stall
- s on site\; profits go to local charities.\nPrice: Adult £14\; Child\, 
- 5-17 years £7\; Family tickets £21 or £35\; Under 5s go free\nhttps:/
- /www.english-heritage.org.uk/visit/whats-on/kenilworth-castle-roundtable
- -fireworks-spectacular
-LOCATION:Kenilworth Castle and Elizabethan Garden\, Castle Green\, Off Ca
- stle Road\, Kenilworth\, CV8 1NG\, Kenilworth\, Warwickshire\, West Midl
- ands\, London
-URL:https://www.english-heritage.org.uk/visit/whats-on/kenilworth-castle-
- roundtable-fireworks-spectacular
+DESCRIPTION:Price: Adult £14\; Child\, 5-17 years £7\; Family tickets 
+ £21 or £35\; Under 5s go free\nhttps://www.english-heritage.org.uk/vis
+ it/whats-on/
+LOCATION:Kenilworth Castle and Elizabethan Garden\, Kenilworth\, Warwicks
+ hire\, West Midlands\, London
+URL:https://www.english-heritage.org.uk/visit/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_842f366551f042d4b9f19616672ca1e6-occ_c1ba598576484c7ba5170ae4c31
@@ -38327,16 +38345,16 @@ LOCATION:Lyceum Theatre\, London
 URL:https://www.atgtickets.com/whats-on/london-west-end
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_c56c6321983a4239b6e36e3ceb6420bf-occ_66fbc711d0794488999eeae1d63
- 179df@thingstodoinyourcity
-DTSTAMP:20261102T024222Z
+UID:cand_c56c6321983a4239b6e36e3ceb6420bf-occ_e4639d0de9bd4c5cbde2ec7a43d
+ 66b65@thingstodoinyourcity
+DTSTAMP:20261105T175122Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Vibe N' Paint Unguided DJ Paint Party
-DESCRIPTION:Paint freely with no instructor or rules. Each session brings
-  a new DJ sound\, from R&B to Afrobeat and House.\nPrice: £25 per perso
- n\nhttps://www.artplay.co.uk/workshop/vibe-n-paint
-LOCATION:Chelsea studio\, 5 Chelsea Manor St\, Chelsea\, London
-URL:https://www.artplay.co.uk/workshop/vibe-n-paint
+DESCRIPTION:Paint whatever inspires you with no instructor\, while a live
+  DJ spins a new sound each session. The bar is open and entry is 18+.\nP
+ rice: £25 per person\nhttps://www.inchelsea.co.uk/events
+LOCATION:Chelsea studio\, Chelsea\, London
+URL:https://www.inchelsea.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_57121bd5c8224c7c832daae8d86ef56f-occ_2fc383b1cd22476798d0b47672f
@@ -38385,6 +38403,16 @@ DESCRIPTION:Price: Get Tickets £7.00 – £10.00\nhttps://bowarts.org/bo
  w-arts-events
 LOCATION:Bow Road & Nunnery Gallery\, London
 URL:https://bowarts.org/bow-arts-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5f77dcc9f3884afbbe58f98c40c0e16d-occ_59d6b6d8e32e4597af2dfd0fc7c
+ aa973@thingstodoinyourcity
+DTSTAMP:20261105T191904Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:Walking with the Snowman Christmas Trail
+DESCRIPTION:https://www.english-heritage.org.uk/visit/whats-on/
+LOCATION:Wrest Park and Belsay Hall\, Castle and Gardens\, London
+URL:https://www.english-heritage.org.uk/visit/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d9dc97f49b344c57857911f08338b092-occ_6278392156394e9aba0c65996de
@@ -40215,34 +40243,6 @@ URL:https://londonforcheap.co.uk/agenda/big-festive-popup-black-marketpla
  ce-camden-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8721f4036abd4afcb822bbcf7d960f9a-occ_f6011b3d762149908a22de8c4f4
- 1d979@thingstodoinyourcity
-DTSTAMP:20261101T002707Z
-DTSTART:20261107T120000Z
-SUMMARY:Chungking Express
-DESCRIPTION:Two lovelorn Hong Kong cops and a waitress cross paths in Won
- g Kar Wai's 1994 romance. Presented in 4K as part of The Films of Wong K
- ar Wai season.\nhttps://princecharlescinema.com/film/19529908/chungking-
- express/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/19529908/chungking-express/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8721f4036abd4afcb822bbcf7d960f9a-occ_e157a7ce7c96417da978868ddf8
- eaec3@thingstodoinyourcity
-DTSTAMP:20261101T002707Z
-DTSTART:20270123T152000Z
-SUMMARY:Chungking Express
-DESCRIPTION:Two lovelorn Hong Kong cops and a waitress cross paths in Won
- g Kar Wai's 1994 romance. Presented in 4K as part of The Films of Wong K
- ar Wai season.\nhttps://princecharlescinema.com/film/19529908/chungking-
- express/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/19529908/chungking-express/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1798314f9ec44c5ea663c86e88633b96-occ_9f7ab5c4d7d74be6afe196cbe16
  78974@thingstodoinyourcity
 DTSTAMP:20261105T094206Z
@@ -41046,20 +41046,6 @@ SUMMARY:The Lyrical Bridge: An Immersive Journey through Chinese Verse
 DESCRIPTION:https://www.gold.ac.uk/events
 LOCATION:London
 URL:https://www.gold.ac.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ad6cc8048e264e87ae889f62eef27320-occ_66438637ca5148e691a6d48242a
- 8c992@thingstodoinyourcity
-DTSTAMP:20261101T003301Z
-DTSTART:20261107T151500Z
-SUMMARY:Bugsy Malone
-DESCRIPTION:Set in 1929 New York\, rival gangs battle over splurge guns a
- nd a speakeasy. Jodie Foster stars in this 1976 musical comedy directed 
- by Alan Parker.\nhttps://princecharlescinema.com/film/3217862/bugsy-malo
- ne/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/3217862/bugsy-malone/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1c67ffbac4dd4034b34ec6d9809b2481-occ_a53a85b619674b0ca82d346db61
@@ -42621,6 +42607,16 @@ LOCATION:Drayton Arms Theatre\, London
 URL:https://www.thedraytonarmstheatre.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_379e142c28364d23abcad05bba0eae8d-occ_3f0fcf5cd0754bac8396983203f
+ f1cf1@thingstodoinyourcity
+DTSTAMP:20261105T184327Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:All That Jazz
+DESCRIPTION:https://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_af9c1371c41d4c0a8c9cdcb9046315d5-occ_960859aa6427422f956d038738a
  04670@thingstodoinyourcity
 DTSTAMP:20261102T213418Z
@@ -42916,6 +42912,18 @@ DESCRIPTION:Make zai processional batons from wooden sticks and washi pap
 LOCATION:The Hall\, London
 URL:https://www.japanhouselondon.uk/whats-on/experience-ises-okihiki-fest
  ival-make-a-zai-and-sing-kiyari-work-songs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_342049e5f8a84833bfea6425a5d3c2e7-occ_5e2f4ceaf0bc4e4f9c6efd4e217
+ 26ea8@thingstodoinyourcity
+DTSTAMP:20261105T184009Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Fallen Angels
+DESCRIPTION:Wong Kar Wai's 1995 thriller follows an assassin trying to le
+ ave violence behind. Takeshi Kaneshiro and Leon Lai star in this 4K scre
+ ening.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_280cbac39cc14be69ca690a72d177bdb-occ_e26769a08a0c4fb68939f4e2b9f
@@ -43390,6 +43398,19 @@ DESCRIPTION:Price: Standard £14.25 (+ £2.14 fees)\; Child £24.25 (+ £
 LOCATION:Museum of Comedy\, London
 URL:https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873667198/ev
  ents/128663771
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a1356f7ea09340cc9a509cbe071c5886-occ_15b542c9306a4472952bdfce53d
+ 3a199@thingstodoinyourcity
+DTSTAMP:20261105T183920Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:One Flew Over The Cuckoo's Nest
+DESCRIPTION:Jack Nicholson's convict feigns mental illness and collides w
+ ith Nurse Ratched's rigid regimen. Part of THE CLASSICS\, this 1975 Milo
+ s Forman drama is rated 15.\nhttps://princecharlescinema.com/next-7-days
+ /
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4a97471007b74fd3a883ea072fa83c40-occ_18dd25107b844ba680b9be487ce
@@ -43976,6 +43997,16 @@ LOCATION:The Nickel\, London
 URL:https://thenickel.co.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_30000aba837a459496e3ac92395e79e4-occ_b1848ce11b0442ffa5a4bccefc0
+ 9b38f@thingstodoinyourcity
+DTSTAMP:20261105T184331Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:The 7th Voyage of Sinbad
+DESCRIPTION:https://princecharlescinema.com/next-7-days/
+LOCATION:Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_443eac54fe024b489251e5e2be61dc2f-occ_97286a3f10d44d5c8c8ed9a5412
  703a3@thingstodoinyourcity
 DTSTAMP:20261105T022954Z
@@ -44145,6 +44176,18 @@ DESCRIPTION:https://clusterflick.com/movies/af599b07/8-11-wwiff-internati
 LOCATION:Karma Sanctum Soho Hotel\, London\, England\, London
 URL:https://clusterflick.com/movies/af599b07/8-11-wwiff-international-sho
  rts-block-1-q-and-a-session
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9d243c5b89d5464585d0be16bc96764d-occ_223283e5c5a140eb85aab268366
+ 97829@thingstodoinyourcity
+DTSTAMP:20261105T184243Z
+DTSTART;VALUE=DATE:20261108
+SUMMARY:Whisper of the Heart
+DESCRIPTION:A girl with her head in the clouds goes on a quest for her tr
+ ue talent in this Studio Ghibli coming-of-age classic. Screened in 4K wi
+ th subtitles.\nhttps://princecharlescinema.com/next-7-days/
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_669a7ed2f5f6405ca1dc02cad60b5014-occ_1638a71b69214be09732eda1c24
@@ -44894,30 +44937,6 @@ URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-hampto
  n-p2047271
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9d243c5b89d5464585d0be16bc96764d-occ_223283e5c5a140eb85aab268366
- 97829@thingstodoinyourcity
-DTSTAMP:20261101T232543Z
-DTSTART:20261108T120000Z
-SUMMARY:Whisper of the Heart
-DESCRIPTION:A girl with her head in the clouds goes on a quest for her tr
- ue talent in this Studio Ghibli coming-of-age classic. Screened in 4K wi
- th subtitles.\nhttps://princecharlescinema.com/film/4534975/whisper-of-t
- he-heart/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/4534975/whisper-of-the-heart/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_30000aba837a459496e3ac92395e79e4-occ_b1848ce11b0442ffa5a4bccefc0
- 9b38f@thingstodoinyourcity
-DTSTAMP:20261102T001644Z
-DTSTART:20261108T121500Z
-SUMMARY:The 7th Voyage of Sinbad
-DESCRIPTION:https://princecharlescinema.com/next-7-days/
-LOCATION:Prince Charles Cinema\, London
-URL:https://princecharlescinema.com/next-7-days/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_101bd5de2fca46919ac8f295a3107405-occ_15638f197b6c437d8da120303c1
  51d76@thingstodoinyourcity
 DTSTAMP:20261102T203838Z
@@ -45335,20 +45354,6 @@ LOCATION:Tate Modern\, Tate Modern 57\, Bankside London SE1 9TG · London
 URL:https://www.meetup.com/drawing-london-on-location/events/316999810/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_379e142c28364d23abcad05bba0eae8d-occ_3f0fcf5cd0754bac8396983203f
- f1cf1@thingstodoinyourcity
-DTSTAMP:20261102T000730Z
-DTSTART:20261108T144500Z
-DTEND:20261108T170200Z
-SUMMARY:All That Jazz
-DESCRIPTION:https://princecharlescinema.com/prince-charles-cinema/booknow
- /31628292/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/prince-charles-cinema/booknow/3162829
- 2/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_9b32277e562e48e1988a32e0bc0d0af5-occ_039b847ba77b4d6ba9de515f6bc
  07030@thingstodoinyourcity
 DTSTAMP:20261101T152645Z
@@ -45622,21 +45627,6 @@ LOCATION:THE COCKPIT\, Gateforth Street\, London NW8 8EH\, London
 URL:https://www.thecockpit.org.uk/show/huella
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a1356f7ea09340cc9a509cbe071c5886-occ_15b542c9306a4472952bdfce53d
- 3a199@thingstodoinyourcity
-DTSTAMP:20261101T232410Z
-DTSTART:20261108T171000Z
-SUMMARY:One Flew Over The Cuckoo's Nest
-DESCRIPTION:Jack Nicholson plays a convict who feigns mental illness\, on
- ly to collide with the rigid regimen of Nurse Ratched. Featured as part 
- of THE CLASSICS\, this 1975 Milos Forman drama is rated 15.\nhttps://pri
- ncecharlescinema.com/film/2187938/one-flew-over-the-cuckoos-nest/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/2187938/one-flew-over-the-cuckoo
- s-nest/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_318fb62c66a842358d7d7eeeb97c9c4b-occ_adffaa934f404d8f8451312bb8f
  e2faa@thingstodoinyourcity
 DTSTAMP:20261101T174038Z
@@ -45655,20 +45645,6 @@ SUMMARY:English Comedy Night in Karlsruhe
 DESCRIPTION:https://www.eventbrite.com/
 LOCATION:Scruffy's Irish Pub\, London
 URL:https://www.eventbrite.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_342049e5f8a84833bfea6425a5d3c2e7-occ_5e2f4ceaf0bc4e4f9c6efd4e217
- 26ea8@thingstodoinyourcity
-DTSTAMP:20261101T232440Z
-DTSTART:20261108T173000Z
-SUMMARY:Fallen Angels
-DESCRIPTION:An assassin struggles to escape his violent lifestyle despite
-  his partner's opposition. Wong Kar Wai's 1995 Hong Kong thriller stars 
- Takeshi Kaneshiro and Leon Lai.\nhttps://princecharlescinema.com/film/19
- 529946/fallen-angels/
-LOCATION:The Prince Charles Cinema\, 7 Leicester Pl\, London\, WC2H 7BY\,
-  London
-URL:https://princecharlescinema.com/film/19529946/fallen-angels/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c791b0af81bd4c95a9e85fd72abd930b-occ_7942308a0e0b4cf4aeff91fa452
