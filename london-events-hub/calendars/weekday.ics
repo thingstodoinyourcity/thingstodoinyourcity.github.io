@@ -944,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_27d2b3f980f147e4baa4bca5a22a1413-occ_18fde6c63bde490e8fde74667db
  13859@thingstodoinyourcity
-DTSTAMP:20261104T174207Z
+DTSTAMP:20261106T061801Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:Mark Thomas: 40 in Stand-Up Years
 DESCRIPTION:https://www.london-theatreland.co.uk/dates/2026/05/category/c
@@ -1310,19 +1310,6 @@ SUMMARY:Rosa von Praunheim: The Bed Sausage & It is Not the Homosexual...
 DESCRIPTION:https://clusterflick.com/
 LOCATION:Goethe-Institut London\, London
 URL:https://clusterflick.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6dcc56d17b5c4edf8a1a7165d04acfb6-occ_c30e3a45c6714cd4bd64aae02a4
- b1a93@thingstodoinyourcity
-DTSTAMP:20261104T185814Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Roundtable: Unlocking London's Hidden Housing Capacity
-DESCRIPTION:Senior built environment leaders will examine how small\, con
- strained London sites could add homes. Practical recommendations for usi
- ng hidden housing capacity are the aim.\nPrice: Members Only - Free\nhtt
- ps://nla.london/events
-LOCATION:London
-URL:https://nla.london/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b1ad84c7ebcc4e37b498692bf5229601-occ_c03a6bfa6b664e769ac518c03f4
@@ -1823,6 +1810,19 @@ URL:https://go-london.uk/events/event/global-partnerships-for-equitable-c
  ancer-care/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6dcc56d17b5c4edf8a1a7165d04acfb6-occ_c30e3a45c6714cd4bd64aae02a4
+ b1a93@thingstodoinyourcity
+DTSTAMP:20261106T073043Z
+DTSTART:20261106T083000Z
+DTEND:20261106T103000Z
+SUMMARY:Roundtable: Unlocking London's Hidden Housing Capacity
+DESCRIPTION:Senior built environment leaders will explore how small\, con
+ strained London sites could add homes. Practical recommendations are the
+  aim.\nPrice: Members Only - Free\nhttps://nla.london/events
+LOCATION:London
+URL:https://nla.london/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_53d46e17ca4d4de88730fd81e2b63b9b-occ_16e9f41f42364b8bae8c9036e3e
  07de5@thingstodoinyourcity
 DTSTAMP:20261031T224434Z
@@ -1899,6 +1899,20 @@ URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Sound-Bath/13823715
  8?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0aab40554af54a5683da4d6e4348538b-occ_6a25542efb424000a9407cd8495
+ 6c1d6@thingstodoinyourcity
+DTSTAMP:20261106T064625Z
+DTSTART:20261106T100000Z
+SUMMARY:The Social Reckoning
+DESCRIPTION:Sorkin's screenplay follows whistleblower Frances Haugen and 
+ Wall Street Journal reporter Jeff Horwitz. It exposes the social network
+ 's most guarded secrets.\nhttps://www.everymancinema.com/venues-list/x07
+ 12-everyman-baker-street/
+LOCATION:Luxury Cinema Baker Street\, London
+URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
+ t/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_dfe7886b57c24ace9a4ab69ed5d7994b-occ_e162073371be43ca93f3e2b5cd6
  59408@thingstodoinyourcity
 DTSTAMP:20261105T064027Z
@@ -1910,6 +1924,54 @@ DESCRIPTION:Rare and collectable vintage vinyl plus some new stuff\, sour
  0s New York hip hop.\nhttps://oldspitalfieldsmarket.com/events
 LOCATION:Old Spitalfields Market\, London
 URL:https://oldspitalfieldsmarket.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_081a17137cf54be99bd6ce461909a140-occ_5a5678f4221345ff9d9d25bd207
+ dd01f@thingstodoinyourcity
+DTSTAMP:20261106T065916Z
+DTSTART:20261106T103000Z
+SUMMARY:Beatles Magical Mystery Tour London
+DESCRIPTION:Price: Adult: £20 · Students & Seniors: £15 · Children: 
+ £5\nhttps://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+LOCATION:Tottenham Court Road Station\, Exit 1 opposite The Flying Horse 
+ Pub\, London
+URL:https://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_081a17137cf54be99bd6ce461909a140-occ_2d4dfe924d2b4f119b766c1fc11
+ c3866@thingstodoinyourcity
+DTSTAMP:20261106T065916Z
+DTSTART:20261113T103000Z
+SUMMARY:Beatles Magical Mystery Tour London
+DESCRIPTION:Price: Adult: £20 · Students & Seniors: £15 · Children: 
+ £5\nhttps://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+LOCATION:Tottenham Court Road Station\, Exit 1 opposite The Flying Horse 
+ Pub\, London
+URL:https://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_081a17137cf54be99bd6ce461909a140-occ_fa0c9c8a388b446f8dff06308c3
+ b15f6@thingstodoinyourcity
+DTSTAMP:20261106T065916Z
+DTSTART:20261204T103000Z
+SUMMARY:Beatles Magical Mystery Tour London
+DESCRIPTION:Price: Adult: £20 · Students & Seniors: £15 · Children: 
+ £5\nhttps://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+LOCATION:Tottenham Court Road Station\, Exit 1 opposite The Flying Horse 
+ Pub\, London
+URL:https://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_081a17137cf54be99bd6ce461909a140-occ_c7c2e36b440c4ad9b36cf399ab5
+ 077d3@thingstodoinyourcity
+DTSTAMP:20261106T065916Z
+DTSTART:20270101T103000Z
+SUMMARY:Beatles Magical Mystery Tour London
+DESCRIPTION:Price: Adult: £20 · Students & Seniors: £15 · Children: 
+ £5\nhttps://www.walks.com/our-walks/the-beatles-magical-mystery-tour
+LOCATION:Tottenham Court Road Station\, Exit 1 opposite The Flying Horse 
+ Pub\, London
+URL:https://www.walks.com/our-walks/the-beatles-magical-mystery-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1fbc930b3ea4489b8e36df809a12a2d7-occ_ad4e49bc6af14053b5f665711fc
@@ -2033,6 +2095,20 @@ URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Angelic-Reiki-Healin
  g/138238784?skipPreview=true
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_a97db853a5424b8bbd5c9b2301c0d621-occ_4b6ec042bee14177895b1ac3afd
+ 0464e@thingstodoinyourcity
+DTSTAMP:20261106T063816Z
+DTSTART:20261106T110000Z
+SUMMARY:Sense and Sensibility
+DESCRIPTION:A fresh take on Jane Austen's classic starring Daisy Edgar-Jo
+ nes and Esmé Creed-Miles. It is a witty\, charming story of love and si
+ sterhood.\nhttps://www.everymancinema.com/venues-list/x0712-everyman-bak
+ er-street/
+LOCATION:Luxury Cinema Baker Street\, London
+URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
+ t/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2b767469de9243b482d5af5d967fc7e6-occ_1bcbb2ee34a7426984cd3e46f5b
  0d87b@thingstodoinyourcity
 DTSTAMP:20261104T084118Z
@@ -2058,6 +2134,21 @@ DESCRIPTION:Fun story and rhyme time sessions for under 5s and their pare
 LOCATION:Chelsea Library\, Chelsea Old Town Hall King's Road London SW3 5
  EZ United Kingdom\, London
 URL:https://www.rbkc.gov.uk/events/story-and-rhyme-time-chelsea-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a0e5e380a7bd469fb98064f93ac53d10-occ_fe8e5977bd554839856bc6acb09
+ e3a31@thingstodoinyourcity
+DTSTAMP:20261106T065857Z
+DTSTART:20261106T110000Z
+SUMMARY:Wild & Wonderful Women of Westminster
+DESCRIPTION:Walk Piccadilly\, St James's Square and the Mall with guide L
+ uisa. Meet spies\, novelists and a courtesan who wrote the first kiss-an
+ d-tell memoir.\nPrice: Adult: £20 · Students & Seniors: £15 · Childr
+ en: £5\nhttps://www.walks.com/our-walks/wild-wonderful-women-of-westmin
+ ster
+LOCATION:Green Park Underground Station\, North exit (on the corner of Pi
+ ccadilly and Stratton Street)\, London
+URL:https://www.walks.com/our-walks/wild-wonderful-women-of-westminster
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_e52fc6e2a658478287dbf23f7a1
@@ -2553,6 +2644,37 @@ LOCATION:The Supreme Court of the United Kingdom\, Parliament Square\, Lo
 URL:https://go-london.uk/events/event/uk-supreme-court-guided-tour/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_50a9496953514cd395c6e8eebb4939b9-occ_3b149dfb3c3c4a35add7211d98c
+ 41f29@thingstodoinyourcity
+DTSTAMP:20261106T065945Z
+DTSTART:20261106T140000Z
+SUMMARY:Unexpected London
+DESCRIPTION:Discover secret places and hidden interiors\, from a mini-Ede
+ n to an 18th-century pub linked to Edgar Wallace. Expect quirky stories 
+ and passing strange things along the way.\nPrice: Adult: £20 · Student
+ s & Seniors: £15 · Children: £5\nhttps://www.walks.com/our-walks/unex
+ pected-london-secret-places-hidden-interiors
+LOCATION:Temple underground station\, London\, London
+URL:https://www.walks.com/our-walks/unexpected-london-secret-places-hidde
+ n-interiors
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_93c9831ab00642f08ac61c29074cc38a-occ_f41aff3104334ef1a4de1a4a52d
+ 1423d@thingstodoinyourcity
+DTSTAMP:20261106T065818Z
+DTSTART:20261106T140000Z
+SUMMARY:Whitehall Exposed New Walk!
+DESCRIPTION:Led by a former surgeon\, this walk uncovers Whitehall's hidd
+ en symbols and wartime spies. Expect tales from Henry VIII's jousts to t
+ he Prime Minister's black door.\nPrice: Adult: £20 · Students & Senior
+ s: £15 · Children: £5\nhttps://www.walks.com/our-walks/the-most-impor
+ tant-street-in-britain-whitehall-its-secrets-symbols-spies
+LOCATION:Charing Cross Underground Station\, Exit 1\, meet by the entranc
+ e to the Clermont Hotel\, London
+URL:https://www.walks.com/our-walks/the-most-important-street-in-britain-
+ whitehall-its-secrets-symbols-spies
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3e74b91efe3b4124b24fce414f0e9658-occ_d5715dfe80b04b498d55d339785
  eda32@thingstodoinyourcity
 DTSTAMP:20261103T020004Z
@@ -2592,6 +2714,33 @@ LOCATION:Olympic Studios\, London
 URL:https://www.olympiccinema.com/film/de-gaulle-liberte
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8d30f5b2f28f48139cd944f44e3bf478-occ_2b269c5aae2f477ea52fe42ec93
+ a4b7d@thingstodoinyourcity
+DTSTAMP:20261106T064041Z
+DTSTART:20261106T141500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:A pitch-black comedy from Martin McDonagh\, earning a standin
+ g ovation of more than ten minutes at Venice. CIA partners Chris and Lee
+  face their pasts on Easter Island in 1973.\nhttps://www.everymancinema.
+ com/film-listing/298024-wild-horse-nine/
+LOCATION:Luxury Cinema Baker Street\, London
+URL:https://www.everymancinema.com/film-listing/298024-wild-horse-nine/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab5bca573fb2422baa40b13e70ff8267-occ_9227b44e18e74487aa338e48908
+ e7681@thingstodoinyourcity
+DTSTAMP:20261106T065947Z
+DTSTART:20261106T143000Z
+SUMMARY:Charles Dickens's London
+DESCRIPTION:Explore the Victorian nooks\, alleyways and gas lamps where D
+ ickens lived and worked. Guides link the streets to Oliver Twist\, Bleak
+  House and Great Expectations.\nPrice: Adult: £20 · Students & Seniors
+ : £15 · Children: £5\nhttps://www.walks.com/our-walks/charles-dickens
+ -london
+LOCATION:Embankment Tube\, Villiers Street exit\, London
+URL:https://www.walks.com/our-walks/charles-dickens-london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7daf64dc8d2448fdacc4a92d1cae34e5-occ_9967bdafabee49c5bee2ef332a1
  d4026@thingstodoinyourcity
 DTSTAMP:20261104T014349Z
@@ -2604,6 +2753,18 @@ DESCRIPTION:VortexHealing Divine Energy Healing opens and closes this ses
  ass
 LOCATION:Re:Mind Studio\, London
 URL:https://www.remindstudio.co.uk/book-class
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3ee1a3ec5c764ecfaf2b33878945ccf9-occ_4be8543e8e3b45de93159e90bb7
+ 14464@thingstodoinyourcity
+DTSTAMP:20261106T064033Z
+DTSTART:20261106T153000Z
+SUMMARY:Primetime
+DESCRIPTION:Directed by Lance Oppenheim\, with Robert Pattinson and Merri
+ tt Wever in the cast. Runs 1h 49m.\nhttps://www.everymancinema.com/film-
+ listing/1000013908-primetime/
+LOCATION:Luxury Cinema Baker Street\, London
+URL:https://www.everymancinema.com/film-listing/1000013908-primetime/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_abb205e403b04f97b51115794e9888c3-occ_acfad78a5a7842789a83e4cc0a7
@@ -8209,6 +8370,19 @@ DESCRIPTION:Welcoming yoga sessions offering a space to move\, breathe an
 LOCATION:The Rum Factory\, 49 Pennington Street\, Wapping\, London\, Wapp
  ing\, London\, London
 URL:https://bowarts.org/bow-arts-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ca59b64b7dc84a23acc5d8617340d924-occ_df8c54a35ee64c999b71805fa97
+ 38198@thingstodoinyourcity
+DTSTAMP:20261106T061750Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:eCommerce Packaging & Labelling Expo
+DESCRIPTION:Offers 50+ exhibitors and 75+ expert speakers on packaging an
+ d e-commerce. Your free ticket also grants access to three related expos
+ .\nhttps://www.excel.london/visitor/whats-on
+LOCATION:EXCEL LONDON\, London
+URL:https://www.excel.london/visitor/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_36bd8dcebc1c4a80aa078fcb365d4d5c-occ_e3d89f9b750547128b1078668ec
