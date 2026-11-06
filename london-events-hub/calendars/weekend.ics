@@ -301,12 +301,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f8696440d5f6433583c694af1267f975-occ_8d52326d598a430fb4d3ce11799
  72650@thingstodoinyourcity
-DTSTAMP:20261104T151207Z
+DTSTAMP:20261106T040958Z
 DTSTART;VALUE=DATE:20171114
 DTEND;VALUE=DATE:20311231
 SUMMARY:Permanent Exhibition
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:London Mithraeum Bloomberg SPACE\, London
+DESCRIPTION:Step into a faithful reconstruction of the Roman Temple of Mi
+ thras\, found in 1954. Over 14\,000 artefacts from the 2012–2014 excav
+ ation reveal Roman London.\nhttps://www.galleriesnow.net/exhibitions/lon
+ don/
+LOCATION:London Mithraeum Bloomberg SPACE\, 12 Walbrook\, EC4N 8AA\, Lond
+ on
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -427,6 +431,20 @@ UID:cand_c7d92b747ff648538efc48248ed3c2ea-occ_b4d19f288dd84ee1ae8445abfec
  086f0@thingstodoinyourcity
 DTSTAMP:20261021T164312Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20280130
+SUMMARY:The Play That Goes Wrong
+DESCRIPTION:A Cornley Polytechnic Drama Society 1920s murder mystery wher
+ e everything goes wrong. Accident-prone thespians battle all odds to rea
+ ch their final curtain call.\nhttps://www.britishtheatreguide.info/listi
+ ngs/333/884
+LOCATION:Duchess Theatre\, London\, London
+URL:https://www.britishtheatreguide.info/listings/333/884
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c7d92b747ff648538efc48248ed3c2ea-occ_73b6bfaa11e247598b5481764bf
+ 9e2b0@thingstodoinyourcity
+DTSTAMP:20261021T164312Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20280130
 SUMMARY:The Play That Goes Wrong
 DESCRIPTION:A Cornley Polytechnic Drama Society 1920s murder mystery wher
@@ -893,12 +911,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8fd6bd65c10d4394a506815d9bf1b678-occ_a300aa863076418fa7f82ad490f
  2768d@thingstodoinyourcity
-DTSTAMP:20261104T152131Z
-DTSTART;VALUE=DATE:20240516
-DTEND;VALUE=DATE:20261231
+DTSTAMP:20261106T035412Z
+DTSTART:20240516T090000Z
+DTEND:20261231T180000Z
 SUMMARY:Jean Prouvé: Maison Démountable
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
+DESCRIPTION:Carpenters Workshop Gallery presents one of Jean Prouvé's 19
+ 44 models of the 6×6 house. It will be a permanent installation in Ladb
+ roke Hall's garden.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -1602,6 +1622,21 @@ UID:cand_01b90d830ef6486e86f962b93492030a-occ_2b21b718de314c09abbda778369
  c9765@thingstodoinyourcity
 DTSTAMP:20261021T214111Z
 DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270605
+SUMMARY:Oh\, Mary!
+DESCRIPTION:Cole Escola's dark comedy\, starring Mason Alexander Park\, r
+ uns 80 minutes in one act. It has won Tony Awards for Best Leading Actor
+  in a Play and Best Direction of a Play.\nhttps://www.skiddle.com/whats-
+ on/London/Trafalgar-Theatre/Oh-Mary/42611428/
+LOCATION:Trafalgar Theatre\, 14 Whitehall\, London SW1A 2DY\, London
+URL:https://www.skiddle.com/whats-on/London/Trafalgar-Theatre/Oh-Mary/426
+ 11428/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_01b90d830ef6486e86f962b93492030a-occ_90b5c073ed884fd8bc75a9e5a7b
+ f26d7@thingstodoinyourcity
+DTSTAMP:20261021T214111Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270605
 SUMMARY:Oh\, Mary!
 DESCRIPTION:Cole Escola's dark comedy\, starring Mason Alexander Park\, r
@@ -2950,6 +2985,22 @@ URL:https://www.skiddle.com/whats-on/London/Shaftesbury-Theatre/Avenue-Q/
  42614296/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ad44a231d7c14ea78be779cdcaa5ae4c-occ_340fbce3eedc4fab99daa88cf53
+ 6b3bd@thingstodoinyourcity
+DTSTAMP:20261022T063604Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270103
+SUMMARY:Avenue Q
+DESCRIPTION:Three-time Tony winner returns to the West End after two deca
+ des\, with puppets\, songs and character-driven comedy. It runs for a st
+ rictly limited season this spring.\nhttps://www.skiddle.com/whats-on/Lon
+ don/Shaftesbury-Theatre/Avenue-Q/42614296/
+LOCATION:Shaftesbury Theatre\, London\, 210 Shaftesbury Avenue\, London\,
+  WC2H 8DP\, London
+URL:https://www.skiddle.com/whats-on/London/Shaftesbury-Theatre/Avenue-Q/
+ 42614296/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ad44a231d7c14ea78be779cdcaa5ae4c-occ_6120907e808d44f8a450444b289
  5b2cf@thingstodoinyourcity
 DTSTAMP:20261022T063604Z
@@ -2982,6 +3033,19 @@ UID:cand_2321ea3098da463f9b06322bc13ca40d-occ_ecea1101f91747a495b6f11dbc3
  582b5@thingstodoinyourcity
 DTSTAMP:20261028T113223Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270529
+SUMMARY:International Stand Up Comedy\, Covent Garden
+DESCRIPTION:https://entertainment.skiddle.com/book/1HBAJ-international-st
+ and-up-comedy-covent-garden/
+LOCATION:Comedy Carnival\, Covent Garden\, London
+URL:https://entertainment.skiddle.com/book/1HBAJ-international-stand-up-c
+ omedy-covent-garden/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2321ea3098da463f9b06322bc13ca40d-occ_858b3d5953c74f309b1e96e09a5
+ c6435@thingstodoinyourcity
+DTSTAMP:20261028T113223Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270529
 SUMMARY:International Stand Up Comedy\, Covent Garden
 DESCRIPTION:https://entertainment.skiddle.com/book/1HBAJ-international-st
@@ -4384,6 +4448,21 @@ LOCATION:Prince of Wales Theatre\, 31 Coventry Street\, London\, United K
 URL:https://ticketing.timeout.com/london/shows/287-the-book-of-mormon
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_95d248efb08145729130b8b6b8cef263-occ_62b00cf773ec4325b86f53bffe3
+ b851c@thingstodoinyourcity
+DTSTAMP:20261022T101503Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270220
+SUMMARY:The Book of Mormon
+DESCRIPTION:Two missionaries embark on a wild journey exploring faith\, f
+ riendship and laughter. Created by South Park's Trey Parker and Matt Sto
+ ne\, it won nine Tony Awards.\nPrice: £49\nhttps://ticketing.timeout.co
+ m/london/shows/287-the-book-of-mormon
+LOCATION:Prince of Wales Theatre\, 31 Coventry Street\, London\, United K
+ ingdom\, W1D 6AS\, West End\, London
+URL:https://ticketing.timeout.com/london/shows/287-the-book-of-mormon
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_95d248efb08145729130b8b6b8cef263-occ_958bf8531326418ba9d192cd5bc
  b52f7@thingstodoinyourcity
 DTSTAMP:20261022T101503Z
@@ -4699,12 +4778,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_99624a42bd9f46fd9daadb479e3057bf-occ_2e5cb105918248428c85341de14
  f3b9d@thingstodoinyourcity
-DTSTAMP:20261104T151421Z
+DTSTAMP:20261106T041125Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20270109
 SUMMARY:Anne Ryan: Folkmoot
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:London Mithraeum Bloomberg SPACE\, London
+DESCRIPTION:Anne Ryan's site-specific commission draws on an Old English 
+ word for a gathering of people. Sculptures and reliefs trace London's hi
+ story from Roman streets to the Blitz.\nhttps://www.galleriesnow.net/exh
+ ibitions/london/
+LOCATION:London Mithraeum Bloomberg SPACE\, 12 Walbrook\, EC4N 8AA\, Lond
+ on\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -5217,17 +5300,6 @@ URL:https://www.wildlondon.org.uk/events/2026-09-06-wonderful-wildlife-we
  ekends-grosvenor-square
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_86f2024c251b431f9cc2c0557b9b229e-occ_36c6232701094b17b648c4ca52e
- 08577@thingstodoinyourcity
-DTSTAMP:20261104T151420Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261117
-SUMMARY:Out of the Sand: Ancient Egypt Rediscovered
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Colnaghi\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_56eaa2db7f5842bcb0d54c142c4d0fb8-occ_e62f915a2ca74c17b1cea07c851
  ec981@thingstodoinyourcity
 DTSTAMP:20261101T144023Z
@@ -5255,6 +5327,21 @@ DESCRIPTION:Korean label SYSTEM shows new clothing\, bags\, shoes\, Harro
 LOCATION:Harrods\, Harrods\, Contemporary Designer\, 87-135 Brompton Road
  \, London SW1X 7XL\, Knightsbridge\, London
 URL:https://popette.app/p/ldn-system-harrods/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_86f2024c251b431f9cc2c0557b9b229e-occ_36c6232701094b17b648c4ca52e
+ 08577@thingstodoinyourcity
+DTSTAMP:20261106T041226Z
+DTSTART:20260907T090000Z
+DTEND;VALUE=DATE:20261117
+SUMMARY:Out of the Sand: Ancient Egypt Rediscovered
+DESCRIPTION:Ancient Egyptian artefacts sit beside paintings\, drawings an
+ d photographs from later centuries. It traces how Egypt was repeatedly r
+ ediscovered and reimagined.\nhttps://www.galleriesnow.net/exhibitions/lo
+ ndon/
+LOCATION:Colnaghi\, 26 Bury Street\, SW1Y 6AL\, London\, London West End\
+ , London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a7de4658ac0c44498419c3f150c06fca-occ_454a2a4ffffa4eb0aa796e2a7fe
@@ -5347,6 +5434,20 @@ DESCRIPTION:Drop-in watercolour and drawing class for all levels\, with m
   details\nhttps://www.towerhamletsarts.org.uk/?guide=events&cat=45
 LOCATION:The Brady Arts and Community Centre\, London
 URL:https://www.towerhamletsarts.org.uk/?guide=events&cat=45
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a8f4c35022a45bcb5cb57055487bafe-occ_a671e695f93c4972a9c6a0a60b0
+ e86ea@thingstodoinyourcity
+DTSTAMP:20261106T035010Z
+DTSTART:20260909T190000Z
+DTEND;VALUE=DATE:20261118
+SUMMARY:Backstage Tours
+DESCRIPTION:Backstage tours run at 8pm every other Wednesday\, showing vi
+ sitors the theatre's facilities and rehearsals. Tours are ticket-only an
+ d open to over 18s.\nPrice: £0.00\nhttps://questors.org.uk/event/backst
+ age-tours/
+LOCATION:Foyer\, London
+URL:https://questors.org.uk/event/backstage-tours/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a257ab2cbc84746bc6bc692ed5a3859-occ_5c6d55591c254624a69457e8788
@@ -5627,17 +5728,6 @@ URL:https://london.czechcentres.gov.cz/en/about-us/projects/30th-made-in-
  prague-festival
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e3e3cfd648c749a39e6fabcb50cd4746-occ_e9752a36949b4764bb444a5cebe
- fba11@thingstodoinyourcity
-DTSTAMP:20261104T151355Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20270117
-SUMMARY:Liz Larner: A hard line to bend
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Camden Art Centre\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_eec3020102ec4998bf0113c20f41dc4e-occ_9100787acc384bf1b20d3f73a99
  5622f@thingstodoinyourcity
 DTSTAMP:20261021T125441Z
@@ -5690,6 +5780,20 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Woo Jin Joo: Bodily Inbetweenness
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Ruup & Form\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e3e3cfd648c749a39e6fabcb50cd4746-occ_e9752a36949b4764bb444a5cebe
+ fba11@thingstodoinyourcity
+DTSTAMP:20261106T041226Z
+DTSTART:20260911T100000Z
+DTEND:20270117T180000Z
+SUMMARY:Liz Larner: A hard line to bend
+DESCRIPTION:The first UK institutional exhibition of Liz Larner brings to
+ gether works mainly from the last decade. Central are wall-mounted ceram
+ ic slabs and a new work inspired by Lilith.\nhttps://www.galleriesnow.ne
+ t/exhibitions/london/
+LOCATION:Camden Art Centre\, Arkwright Road\, NW3 6DG\, London\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -5759,12 +5863,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_412b6604fa754c9e8e070460675277e6-occ_86d7ca038c5544ecb3e4cc37fbc
  26a2c@thingstodoinyourcity
-DTSTAMP:20261104T152131Z
+DTSTAMP:20261106T035646Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20270109
 SUMMARY:Under Wraps
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Charles Burnand Gallery\, London
+DESCRIPTION:Opens during London Design Festival as the inaugural show at 
+ the gallery's new Mayfair home. Works stay veiled until a choreographed 
+ sequence of automated unveilings.\nhttps://www.galleriesnow.net/exhibiti
+ ons/london/
+LOCATION:Charles Burnand Gallery\, 20 Bruton Place\, W1J 6LY\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -5967,57 +6074,30 @@ LOCATION:Queen’s Park Library\, 666 Harrow Road\, London W10 4NE\, Lond
 URL:https://citylions.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2ed239b1c6cb4f26bf00817455557725-occ_54d9eb33c4714bb8abc20d077da
- 7c54d@thingstodoinyourcity
-DTSTAMP:20261104T151441Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20261219
-SUMMARY:František Vízner: Beyond the Vessel
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_08509a84fcc9476ab15c559861eb5523-occ_71cbc1e7ed74408d80afaa197df
- 767c2@thingstodoinyourcity
-DTSTAMP:20261103T155005Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20261114
-SUMMARY:Hernan Bas: TIME TO SHINE! (the salesmen)
-DESCRIPTION:New paintings set in retail spaces and by the seaside\, where
-  minor characters take centre stage. Works draw on childhood memories an
- d the decline of mall culture.\nhttps://www.victoria-miro.com/exhibition
- s/hernan-bas-london-2026/
-LOCATION:London Gallery I\, 16 Wharf Road\, London N1 7RW\, London
-URL:https://www.victoria-miro.com/exhibitions/hernan-bas-london-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_55ebb686cd9c482ea27cb9340e96d610-occ_cfc471a992284e41b60e9d23d3b
  7efe3@thingstodoinyourcity
-DTSTAMP:20261022T021336Z
+DTSTAMP:20261106T042730Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20261114
 SUMMARY:Hernan Bas: TIME TO SHINE! (the salesmen)
 DESCRIPTION:New paintings by Hernan Bas set in retail spaces\, where mino
  r characters take the lead. Works range from a perfume counter attendant
-  to a seashell seller.\nhttps://www.victoria-miro.com/exhibitions/hernan
- -bas-london-2026/
-LOCATION:London Gallery I\, London
-URL:https://www.victoria-miro.com/exhibitions/hernan-bas-london-2026/
+  to a seashell seller.\nhttps://www.victoria-miro.com/exhibitions/
+LOCATION:London Gallery I\, 16 Wharf Road\, London N1 7RW\, London
+URL:https://www.victoria-miro.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_55ebb686cd9c482ea27cb9340e96d610-occ_ccd9abc6f09242d097f7be32588
  8eecd@thingstodoinyourcity
-DTSTAMP:20261022T021336Z
-DTSTART;VALUE=DATE:20261103
+DTSTAMP:20261106T042730Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261114
 SUMMARY:Hernan Bas: TIME TO SHINE! (the salesmen)
 DESCRIPTION:New paintings by Hernan Bas set in retail spaces\, where mino
  r characters take the lead. Works range from a perfume counter attendant
-  to a seashell seller.\nhttps://www.victoria-miro.com/exhibitions/hernan
- -bas-london-2026/
-LOCATION:London Gallery I\, London
-URL:https://www.victoria-miro.com/exhibitions/hernan-bas-london-2026/
+  to a seashell seller.\nhttps://www.victoria-miro.com/exhibitions/
+LOCATION:London Gallery I\, 16 Wharf Road\, London N1 7RW\, London
+URL:https://www.victoria-miro.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b78600847d854cc1b5c3286778e44799-occ_b83ebc781a0840cd879128a8696
@@ -6069,17 +6149,6 @@ LOCATION:The Shop\, London
 URL:https://www.japanhouselondon.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ec4f9eddc5d448b08a1efa18f20b9be4-occ_9976ec747e704f0fb061035e36d
- 1f7a8@thingstodoinyourcity
-DTSTAMP:20261104T151208Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20261219
-SUMMARY:Vincent Dubourg: Blue Weather
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a3ac25b787f4499aa5eeda247382cbc4-occ_2333537355244e6694316ebd318
  e9e27@thingstodoinyourcity
 DTSTAMP:20261022T202628Z
@@ -6103,6 +6172,32 @@ DESCRIPTION:Creative activities help children and young people discover o
  Free\nhttps://citylions.org/events
 LOCATION:Royal Opera House\, London
 URL:https://citylions.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2ed239b1c6cb4f26bf00817455557725-occ_54d9eb33c4714bb8abc20d077da
+ 7c54d@thingstodoinyourcity
+DTSTAMP:20261106T041250Z
+DTSTART:20260917T090000Z
+DTEND:20261219T180000Z
+SUMMARY:František Vízner: Beyond the Vessel
+DESCRIPTION:Features over 20 sculptural glass bowls by Czech-born artist 
+ František Vízner (1936–2011). Includes three replicas of his iconic 
+ Bowl with Point shape.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec4f9eddc5d448b08a1efa18f20b9be4-occ_9976ec747e704f0fb061035e36d
+ 1f7a8@thingstodoinyourcity
+DTSTAMP:20261106T040927Z
+DTSTART:20260917T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Vincent Dubourg: Blue Weather
+DESCRIPTION:Sculptures in bronze and wood explore the move from molten fo
+ rce to settled calm. Works include Organic Table and the Stonehenge Armc
+ hair and Ottoman.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_df69a584be7540968906fbf4df06f245-occ_33213d54c85946c38fc34aa5bdc
@@ -6670,6 +6765,21 @@ LOCATION:Wyndham's Theatre\, Charing Cross Road\, London WC2H 0DA\, West
 URL:https://londontheatrehub.co.uk/shows/hay-fever/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_36280ec6e56d41e7a031d73a5cb6635f-occ_66b6a6109a5440cd833dd0f06de
+ ebd81@thingstodoinyourcity
+DTSTAMP:20261021T191823Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261212
+SUMMARY:Hay Fever
+DESCRIPTION:Christine Baranski makes her West End debut opposite Richard 
+ E. Grant. Directed by Emily Burns\, this 1925 Noël Coward comedy of bad
+  manners is staged in a 750-seat house.\nPrice: From £54\nhttps://londo
+ ntheatrehub.co.uk/shows/hay-fever/
+LOCATION:Wyndham's Theatre\, Charing Cross Road\, London WC2H 0DA\, West 
+ End\, London
+URL:https://londontheatrehub.co.uk/shows/hay-fever/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ff094f39b0154af4bc8d36bc88e5e128-occ_f480a905a0cc4d128479322f74d
  26d2d@thingstodoinyourcity
 DTSTAMP:20261021T182655Z
@@ -6824,12 +6934,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_77726d75c84d47fda6d20b302b597625-occ_566a9d71c84f4d62a1a165f5393
  8d5e5@thingstodoinyourcity
-DTSTAMP:20261104T151508Z
-DTSTART;VALUE=DATE:20260923
+DTSTAMP:20261106T041314Z
+DTSTART:20260923T100000Z
 DTEND;VALUE=DATE:20261114
 SUMMARY:Richard Baker: Anticipation of Memory
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:BRINK\, London
+DESCRIPTION:Paintings made over the past decade turn eBay furniture photo
+ s into compositions. Newer works move into interiors and larger canvases
+ .\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:BRINK\, The People’s Hall\, 2 Olaf Street\, W11 4BE\, London\,
+  London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -6969,28 +7082,6 @@ SUMMARY:Jenkin van Zyl: Enclosure
 DESCRIPTION:https://www.somersethouse.org.uk/whats-on
 LOCATION:London
 URL:https://www.somersethouse.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f9fa016f851947c2b13a43bea671ed1a-occ_2778d2da85e540ed869e2220914
- 48b1f@thingstodoinyourcity
-DTSTAMP:20261104T153408Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261129
-SUMMARY:Jenkin van Zyl: Enclosure
-DESCRIPTION:https://www.somersethouse.org.uk/whats-on
-LOCATION:London
-URL:https://www.somersethouse.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_afb20b5863c84d4bb5a02f8adc872d3f-occ_45d59db151e1452a99e9e6b42d2
- ed0f9@thingstodoinyourcity
-DTSTAMP:20261104T151635Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261120
-SUMMARY:Jonathan Baldock: For Your Keeping
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Canopy Collections\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_668410b04bee4d75a54c11e1b0e422d6-occ_eb14e0ffa57d44f6a3de7bacfb9
@@ -7170,19 +7261,32 @@ LOCATION:Lisson\, 67 Lisson Street\, NW1 5DA\, London
 URL:https://www.galleriesnow.net/shows/carmen-herrera-4/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_afb20b5863c84d4bb5a02f8adc872d3f-occ_45d59db151e1452a99e9e6b42d2
+ ed0f9@thingstodoinyourcity
+DTSTAMP:20261106T041344Z
+DTSTART:20260924T100000Z
+DTEND:20261120T180000Z
+SUMMARY:Jonathan Baldock: For Your Keeping
+DESCRIPTION:Small-scale ceramic and textile works take the form of votive
+  objects\, keepsakes and bodily hybrids. Explores folklore\, ritual and 
+ care\, with an essay by Gemma Brace.\nhttps://www.galleriesnow.net/exhib
+ itions/london/
+LOCATION:Canopy Collections\, 3 Bloomsbury Place\, WC1A 2QA\, London\, Lo
+ ndon
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5d4dc9dc6f57435b931f6a23a80c0ed9-occ_09cdc13389b94544bb31c903696
  e11a7@thingstodoinyourcity
-DTSTAMP:20261022T003648Z
+DTSTAMP:20261106T035833Z
 DTSTART:20260924T110000Z
-DTEND;VALUE=DATE:20261121
+DTEND:20261121T180000Z
 SUMMARY:Emrys Williams: what seas what shores what grey rocks
 DESCRIPTION:Paintings from 2022 to 2026 are shown\, including oil and acr
  ylic works. Text draws on Proust and describes memory as only just withi
- n the artist's reach.\nhttps://www.galleriesnow.net/shows/emrys-williams
- -what-seas-what-shores-what-grey-rocks/
+ n the artist's reach.\nhttps://www.galleriesnow.net/exhibitions/london/
 LOCATION:Benjamin Rhodes Arts\, 62 Old Nichol Street\, E2 7HP\, London
-URL:https://www.galleriesnow.net/shows/emrys-williams-what-seas-what-shor
- es-what-grey-rocks/
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6d11966585024e7aa559331bc940c412-occ_a9bb11e40e7b403491159cdb935
@@ -7320,17 +7424,6 @@ URL:https://ivycollection.com/events-at-the-ivy/friday-live-entertainment
  /?sfmc_id=63898069
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_c4b467607e0343c4b0833ec7fb17af4e-occ_14dd99e84cf74b79afbd1100f1e
- e6739@thingstodoinyourcity
-DTSTAMP:20261104T151655Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261114
-SUMMARY:SOFT SERVE
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Flatmates 37\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_85663ed62e5042c6b7ebdee797c7646a-occ_16fa8a82edbb42c3a025f7a96ee
  8afa4@thingstodoinyourcity
 DTSTAMP:20261022T004825Z
@@ -7434,6 +7527,20 @@ DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
 LOCATION:Korean Cultural Centre\, London
 URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c4b467607e0343c4b0833ec7fb17af4e-occ_14dd99e84cf74b79afbd1100f1e
+ e6739@thingstodoinyourcity
+DTSTAMP:20261106T041432Z
+DTSTART:20260925T110000Z
+DTEND:20261114T180000Z
+SUMMARY:SOFT SERVE
+DESCRIPTION:Five artists explore belonging and material memory in Flatmat
+ es 37's opening show. Works span sculpture\, textile\, painting and inst
+ allation.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Flatmates 37\, 1st Floor\, 37 Foley Street\, W1W 7TN\, London\, 
+ London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_52b5a827b53d4c63a2ead343d6f52527-occ_9e0a303c8f3b4e9aabc20ab0aac
@@ -7708,17 +7815,6 @@ LOCATION:Online\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_af7eb305f9ff41efaba443ffcc0858a7-occ_079f2607a30146e9a6cd18241f6
- 3a21f@thingstodoinyourcity
-DTSTAMP:20261104T152106Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261129
-SUMMARY:Autumn Knight: I Can’t Complain
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Institute of Contemporary Arts (ICA)\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_cb36e67537604a6f869e0ce859b9ee8b-occ_1424b78327504411af26fc8e653
  eaaf9@thingstodoinyourcity
 DTSTAMP:20261025T215244Z
@@ -7778,6 +7874,21 @@ LOCATION:Bob and Tamar Manoukian Production Workshop and Costume Centre\,
   High House Production Park Entrance: Vellacott Close\, London Road\, Pu
  rfleet\, RM19 1RJ\, Thurrock\, Essex\, London
 URL:https://www.rbo.org.uk/tickets-and-events/thurrock-tour-details
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_af7eb305f9ff41efaba443ffcc0858a7-occ_079f2607a30146e9a6cd18241f6
+ 3a21f@thingstodoinyourcity
+DTSTAMP:20261106T042224Z
+DTSTART:20260929T110000Z
+DTEND:20261129T200000Z
+SUMMARY:Autumn Knight: I Can’t Complain
+DESCRIPTION:A new installation and performance work on the act of complai
+ ning\, Autumn Knight's first major UK show. Performances punctuate the g
+ allery throughout the run.\nhttps://www.galleriesnow.net/exhibitions/lon
+ don/
+LOCATION:Institute of Contemporary Arts (ICA)\, The Mall\, SW1Y 5AH\, Lon
+ don
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_20a2bdf0d8d74a6aa3ddce5e69af0871-occ_4b06f8584a1c4c8d86b1ed0281f
@@ -9171,17 +9282,6 @@ LOCATION:Online\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3f5762d9a31a4041a676db5acc236e44-occ_dceeed6d28ed431993097d0b5ff
- fa6d3@thingstodoinyourcity
-DTSTAMP:20261104T151723Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261219
-SUMMARY:Iván Argote: Mamarrachos: Quinceañera
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Perrotin London\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_d8376e8359784df687c603f36ea92a35-occ_5f9b2e0b872f4768befc80f665b
  42b1a@thingstodoinyourcity
 DTSTAMP:20261101T144148Z
@@ -9248,6 +9348,20 @@ LOCATION:The Gallery Cafe at St Margaret’s House\, 21 Old Ford Road\, L
  ondon\, E2 9PL\, London
 URL:https://www.stmargaretshouse.org.uk/events/jazz-dance-in-british-cult
  ure
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3f5762d9a31a4041a676db5acc236e44-occ_dceeed6d28ed431993097d0b5ff
+ fa6d3@thingstodoinyourcity
+DTSTAMP:20261106T041500Z
+DTSTART:20261006T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Iván Argote: Mamarrachos: Quinceañera
+DESCRIPTION:Celebrates fifteen years of Argote's paintings and sculptures
+  born from digital scribbles. Visitors can participate within the galler
+ y.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Perrotin London\, Claridge’s\, Brook’s Mews\, W1K 4HR\, Lond
+ on\, London West End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_da7e48179b4c4e54af29ee70b9a65c3a-occ_063a4fd011444b62a6d8503ba57
@@ -9397,12 +9511,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a2dc9593d46148b0aee1de88a6880b21-occ_1c4d50cbb767445d976d2e766e6
  6703f@thingstodoinyourcity
-DTSTAMP:20261104T151804Z
+DTSTAMP:20261106T041642Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261219
 SUMMARY:PARIS | CUBA - the post-war affair
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Hanina Fine Arts\, London West End\, London
+DESCRIPTION:Explores the exchange between Cuban communism and the French 
+ avant-garde in the 1950s and 60s. Reunites artists from the Havana exhib
+ itions with archive material from the era.\nhttps://www.galleriesnow.net
+ /exhibitions/london/
+LOCATION:Hanina Fine Arts\, 21 Woodstock Street\, W1C 2AP\, London\, Lond
+ on West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -9569,12 +9687,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_464129b94a9d483db879462a08af2725-occ_b6f84c4fe7ca446d8f1a31364e1
  fa248@thingstodoinyourcity
-DTSTAMP:20261104T151805Z
+DTSTAMP:20261106T041639Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270213
 SUMMARY:Charan Singh: Your Tongue in My Mouth
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Autograph\, London
+DESCRIPTION:Charan Singh's new portraits centre Hijra\, Kothi and trans p
+ eople's agency. The show traces how colonial law policed gender and inti
+ macy in India.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Autograph\, Rivington Place\, EC2A 3BA\, London\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -9646,12 +9766,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_21b01705c17444c0968b54ec30020f24-occ_bf8ec0d5aed04c13af023bdf9ec
  cec9a@thingstodoinyourcity
-DTSTAMP:20261104T151931Z
+DTSTAMP:20261106T042007Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261212
 SUMMARY:Gülsün Karamustafa: Remains of a Forgotten Promise
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Ab-Anbar\, London West End\, London
+DESCRIPTION:The first and most comprehensive UK solo show of Gülsün Kar
+ amustafa spans five decades of work. It explores memory\, migration and 
+ the unfulfilled promises of official history.\nhttps://www.galleriesnow.
+ net/exhibitions/london/
+LOCATION:Ab-Anbar\, 34 Mortimer St\, W1W 7JS\, London\, London West End\,
+  London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -9673,12 +9797,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c808cd0381c74edd93f9de19f6950852-occ_63e3c1dab5b54595a4a97526a71
  6e12a@thingstodoinyourcity
-DTSTAMP:20261104T151959Z
+DTSTAMP:20261106T042120Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261121
 SUMMARY:Jim Amaral: A Study of Five Decades
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:LAMB\, London West End\, London
+DESCRIPTION:Works on paper spanning fifty years by Colombia-based artist 
+ Jim Amaral. The show coincides with LAMB's Frieze Masters debut.\nhttps:
+ //www.galleriesnow.net/exhibitions/london/
+LOCATION:LAMB\, 32 St. George Street\, W1S 2EA\, London\, London West End
+ \, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -9805,92 +9932,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_c4b6bbbcf00d4d0f8495af85874
  acf7a@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
+DTSTAMP:20261106T042922Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261107
 SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
+DESCRIPTION:The gallery's first solo show of Thompson since representing 
+ him. Vibrant domestic scenes draw on his Brooklyn childhood and today.\n
+ https://www.victoria-miro.com/exhibitions/
 LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_44eff7bde70b4f38aa07fe37243
- 69309@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261107
-SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
-LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_ed64e0d161ee433396349b8da76
- a778a@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261107
-SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
-LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
+URL:https://www.victoria-miro.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_eef3e762cd8f422fbfcf3fd5fb5
  8be81@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
-DTSTART;VALUE=DATE:20261101
+DTSTAMP:20261106T042922Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
+DESCRIPTION:The gallery's first solo show of Thompson since representing 
+ him. Vibrant domestic scenes draw on his Brooklyn childhood and today.\n
+ https://www.victoria-miro.com/exhibitions/
 LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_74273eeeba1a4ffeb52494cf47f
- 5e093@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261107
-SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
-LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc5825d6ac934673a00847a8e4788f30-occ_413f635e063d4feca8a974e0e3a
- 5996f@thingstodoinyourcity
-DTSTAMP:20261022T021337Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261107
-SUMMARY:Khalif Tahir Thompson: Send in the Clowns
-DESCRIPTION:The gallery's first solo presentation of Thompson's work sinc
- e representing him. Vibrant domestic scenes draw on his Brooklyn childho
- od and today.\nhttps://www.victoria-miro.com/exhibitions/khalif-tahir-th
- ompson-london-2026/
-LOCATION:London Gallery II\, London
-URL:https://www.victoria-miro.com/exhibitions/khalif-tahir-thompson-londo
- n-2026/
+URL:https://www.victoria-miro.com/exhibitions/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7538a78cc09a468e875639367fa90b59-occ_8eaab701be3443619bbcd1c481d
@@ -9931,17 +9994,6 @@ LOCATION:The British Museum\, London
 URL:https://www.britishmuseum.org/exhibitions-events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e2e20c564e96429da24063348452dd6b-occ_20b364fedb2c49ceafd597981d1
- 16ef7@thingstodoinyourcity
-DTSTAMP:20261104T151026Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20270213
-SUMMARY:Our Bodies Have Been Bridges
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Autograph\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7c5ac43ee7ed41bfb59d34680d5fe17b-occ_4c11ec70238b4c10b3f948fd02b
  12abf@thingstodoinyourcity
 DTSTAMP:20261026T071507Z
@@ -9956,17 +10008,6 @@ LOCATION:Clore Learning Studio\, Learning Hub & Yard\, Chiswick House and
   Gardens\, London
 URL:https://chiswickhouseandgardens.org.uk/event/parkinsons-neurological-
  movement-class-with-move-into-wellbeing
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7b7fdca0e644492daacf03f51419b00a-occ_0da24fa454df475aacca783ca41
- 9a750@thingstodoinyourcity
-DTSTAMP:20261104T151822Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261114
-SUMMARY:Reko Rennie: Renaissance Revolution
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Ames Yavuz\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6a6a9ac0e1b946e1b824ab26ed3f76b6-occ_3f1db7f2982d419385a0f122961
@@ -10149,17 +10190,6 @@ URL:https://www.barbican.org.uk/whats-on/2026/event/robert-ryman-the-real
  -thing
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ea1724bedb6c482cbb5bfcb89ea56435-occ_97560c493af84e4cac1163bc5a5
- cbb23@thingstodoinyourcity
-DTSTAMP:20261104T151126Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261121
-SUMMARY:Romuald Hazoumè: My Blue Period
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:October Gallery\, Bloomsbury\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f3a0008844d8428097eaba9299f45562-occ_587000d588c348bda5acac1f9ca
  6fb2f@thingstodoinyourcity
 DTSTAMP:20261105T205151Z
@@ -10263,31 +10293,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_68aa1ebcb0a8403f833533da23924107-occ_4591965292b9455dab52001695c
  568a1@thingstodoinyourcity
-DTSTAMP:20261104T150229Z
+DTSTAMP:20261106T040117Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20270207
 SUMMARY:Tim Walker’s Fairyland: Love and Legends
 DESCRIPTION:Exuberant portraits and fantastical landscapes explore queer 
  identity\, community and love. A new book features contributions by Trav
  is Alabanza and Russell T Davies.\nPrice: £23 / £25.50 with donation (
- off peak: Mon-Thu)\; £25 / £27.50 with donation (peak: Fri-Sun)\nhttps
- ://www.galleriesnow.net/exhibitions/london/
-LOCATION:National Portrait Gallery\, London
+ off peak: Mon-Thu) £25 / £27.50 with donation (peak: Fri-Sun)\nhttps:/
+ /www.galleriesnow.net/exhibitions/london/
+LOCATION:National Portrait Gallery\, St Martin's Place\, WC2H 0HE\, Londo
+ n\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_68aa1ebcb0a8403f833533da23924107-occ_87f3583fec614940818fd79f23f
  d4012@thingstodoinyourcity
-DTSTAMP:20261104T150229Z
+DTSTAMP:20261106T040117Z
 DTSTART:20261009T093000Z
 DTEND:20270207T180000Z
 SUMMARY:Tim Walker’s Fairyland: Love and Legends
 DESCRIPTION:Exuberant portraits and fantastical landscapes explore queer 
  identity\, community and love. A new book features contributions by Trav
  is Alabanza and Russell T Davies.\nPrice: £23 / £25.50 with donation (
- off peak: Mon-Thu)\; £25 / £27.50 with donation (peak: Fri-Sun)\nhttps
- ://www.galleriesnow.net/exhibitions/london/
-LOCATION:National Portrait Gallery\, London
+ off peak: Mon-Thu) £25 / £27.50 with donation (peak: Fri-Sun)\nhttps:/
+ /www.galleriesnow.net/exhibitions/london/
+LOCATION:National Portrait Gallery\, St Martin's Place\, WC2H 0HE\, Londo
+ n\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -10321,6 +10353,34 @@ LOCATION:Dirimart London\, 23 Princes Street\, W1B 2LY\, London\, London
 URL:https://www.galleriesnow.net/shows/peter-zimmermann-still-flowing/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7b7fdca0e644492daacf03f51419b00a-occ_0da24fa454df475aacca783ca41
+ 9a750@thingstodoinyourcity
+DTSTAMP:20261106T041739Z
+DTSTART:20261008T090000Z
+DTEND:20261114T180000Z
+SUMMARY:Reko Rennie: Renaissance Revolution
+DESCRIPTION:Kamilaroi artist Reko Rennie's first London show pairs Renais
+ sance figures with chevrons and reflective foil. It questions who museum
+ s represent\, and who is left out.\nhttps://www.galleriesnow.net/exhibit
+ ions/london/
+LOCATION:Ames Yavuz\, 31 Grosvenor Hill\, W1K 3QU\, London\, London West 
+ End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2e20c564e96429da24063348452dd6b-occ_20b364fedb2c49ceafd597981d1
+ 16ef7@thingstodoinyourcity
+DTSTAMP:20261106T040705Z
+DTSTART:20261008T100000Z
+DTEND;VALUE=DATE:20270213
+SUMMARY:Our Bodies Have Been Bridges
+DESCRIPTION:Photographs by Laura Aguilar\, Tarrah Krajnak and Koyoltzintl
+ i claim presence across 65 works. The show links body\, memory and land.
+ \nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Autograph\, Rivington Place\, EC2A 3BA\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_623a8618ac3f4180b560eeb7cf6a1627-occ_f04b1107acd24889b50d13911dc
  15b47@thingstodoinyourcity
 DTSTAMP:20261102T072303Z
@@ -10334,47 +10394,77 @@ LOCATION:ASSEMBLY\, Hypha Gallery South Bank\, London
 URL:https://londonforcheap.co.uk/agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ea1724bedb6c482cbb5bfcb89ea56435-occ_97560c493af84e4cac1163bc5a5
+ cbb23@thingstodoinyourcity
+DTSTAMP:20261106T045119Z
+DTSTART:20261008T113000Z
+DTEND;VALUE=DATE:20261121
+SUMMARY:Romuald Hazoumè: My Blue Period
+DESCRIPTION:Iconic masks made from repurposed plastic containers address 
+ slavery\, migration and postcolonial Africa. They reflect on the precari
+ ous nature of the world we inhabit.\nhttps://www.galleriesnow.net/exhibi
+ tions/london/
+LOCATION:October Gallery\, 24 Old Gloucester Street\, Bloomsbury\, WC1N 3
+ AL\, London\, Bloomsbury\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9af069602ce04efeb8c29d4dc360e2eb-occ_aaa604688eaf449ca3e8a8dc7a5
  5b55a@thingstodoinyourcity
-DTSTAMP:20261104T151822Z
+DTSTAMP:20261106T041741Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261120
 SUMMARY:Clive Head: Simultaneously Real
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Alon Zakaim Fine Art\, London West End\, London
+DESCRIPTION:Eight large-scale paintings fill two floors\, alongside drawi
+ ngs and works from Head's Visionary Series. The show traces his evolving
+  approach to realism and magic realism.\nhttps://www.galleriesnow.net/ex
+ hibitions/london/
+LOCATION:Alon Zakaim Fine Art\, 27 Cork Street\, W1S 3NG\, London\, Londo
+ n West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d3178f450b5a42aeb64ced615a4dee6b-occ_fdef2d5bdc1846c4a430c7ac884
  6f0e1@thingstodoinyourcity
-DTSTAMP:20261104T150419Z
+DTSTAMP:20261106T040428Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261114
 SUMMARY:Graham Little
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Alison Jacques\, London West End\, London
+DESCRIPTION:Intricate new paintings come from staged studio arrangements 
+ of cut paper and objects gathered near the artist's home. Friends pose a
+ s models in the compositions.\nhttps://www.galleriesnow.net/exhibitions/
+ london/
+LOCATION:Alison Jacques\, 22 Cork Street\, W1S 3NG\, London\, London West
+  End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d3178f450b5a42aeb64ced615a4dee6b-occ_55aad4883ff846f8847eedd9969
  1b5b6@thingstodoinyourcity
-DTSTAMP:20261104T150419Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261106T040428Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261114
 SUMMARY:Graham Little
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Alison Jacques\, London West End\, London
+DESCRIPTION:Intricate new paintings come from staged studio arrangements 
+ of cut paper and objects gathered near the artist's home. Friends pose a
+ s models in the compositions.\nhttps://www.galleriesnow.net/exhibitions/
+ london/
+LOCATION:Alison Jacques\, 22 Cork Street\, W1S 3NG\, London\, London West
+  End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e240ff21642d4718b754fbd5b9b93b80-occ_408d522db9f54d6c9c84acfadef
  51267@thingstodoinyourcity
-DTSTAMP:20261104T151319Z
+DTSTAMP:20261106T041010Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261211
 SUMMARY:Hanover Gallery
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Ordovas\, London West End\, London
+DESCRIPTION:Ordovas presents the first exhibition dedicated to post-war g
+ allerist Erica Brausen. It features loans from major institutions and pr
+ ivate collections.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Ordovas\, 25 Savile Row\, W1S 2ER\, London\, London West End\, L
+ ondon
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -10417,59 +10507,6 @@ LOCATION:Phillida Reid\, 10 - 16 Grape Street\, London\, WC2H 8DY\, Londo
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_83a50b4a4ebe4162b47ac2d8bfd7e01a-occ_e35a7cf6d0b84a43815e11134ad
- 40347@thingstodoinyourcity
-DTSTAMP:20261104T152035Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261205
-SUMMARY:Karin Sander
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Annka Kultys Gallery\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_bf43e02c33e4478f9d6f6c268f0
- 177aa@thingstodoinyourcity
-DTSTAMP:20261104T151048Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261122
-SUMMARY:Pia Camil: Bestia
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_6855a16bc2014761a3244a61421
- 8d145@thingstodoinyourcity
-DTSTAMP:20261104T151048Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Pia Camil: Bestia
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_fc8d36db4aef443c8c2e4c2642a
- 9fd5f@thingstodoinyourcity
-DTSTAMP:20261104T151048Z
-DTSTART;VALUE=DATE:20261122
-SUMMARY:Pia Camil: Bestia
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_3ac2a30942bb46c0816d37ee226dbe70-occ_d1a7c51368744beba26400b10a7
- b8159@thingstodoinyourcity
-DTSTAMP:20261104T151241Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261212
-SUMMARY:Rebecca Warren: There Will Be Another You
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Maureen Paley\, 4 Herald St\, Bethnal Green\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_f6f8f84cfd4944f5a781c0ed1b7293ba-occ_2e270da2d93c4c879b305a05f66
  eedb5@thingstodoinyourcity
 DTSTAMP:20261105T115452Z
@@ -10505,23 +10542,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d12481b7cd8948169383363b6b646314-occ_355212085cfc43fda6c63d096ed
  ab336@thingstodoinyourcity
-DTSTAMP:20261104T150455Z
+DTSTAMP:20261106T040159Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sofía Bassi: Floating Between Earth and Sky
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Pippy Houldsworth Gallery\, London West End\, London
+DESCRIPTION:The first European solo show of Mexican Surrealist Sofía Bas
+ si\, centred on works from 1968 to 1972. Paintings\, works on paper and 
+ a rare painted ostrich egg are on view.\nhttps://www.galleriesnow.net/ex
+ hibitions/london/
+LOCATION:Pippy Houldsworth Gallery\, 6 Heddon Street\, W1B 4BT\, London\,
+  London West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d12481b7cd8948169383363b6b646314-occ_f48d6ebef59f48b2af077eb3fa6
  9dbd0@thingstodoinyourcity
-DTSTAMP:20261104T150455Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261106T040159Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261114
 SUMMARY:Sofía Bassi: Floating Between Earth and Sky
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Pippy Houldsworth Gallery\, London West End\, London
+DESCRIPTION:The first European solo show of Mexican Surrealist Sofía Bas
+ si\, centred on works from 1968 to 1972. Paintings\, works on paper and 
+ a rare painted ostrich egg are on view.\nhttps://www.galleriesnow.net/ex
+ hibitions/london/
+LOCATION:Pippy Houldsworth Gallery\, 6 Heddon Street\, W1B 4BT\, London\,
+  London West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -10554,7 +10599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_023bc5e014004ce1bbaa0ac013536082-occ_0e51e8125ad74d669c739652309
  b624c@thingstodoinyourcity
-DTSTAMP:20261104T151743Z
+DTSTAMP:20261106T040301Z
 DTSTART:20261009T093000Z
 DTEND:20270228T180000Z
 SUMMARY:Artist Focus. Issy Wood: Self-Portraits
@@ -10562,8 +10607,37 @@ DESCRIPTION:First of three annual Artist Focus shows\, featuring intimate
   self-portraits by Issy Wood. Distortion and masking explore how the sel
  f appears or is concealed.\nhttps://www.galleriesnow.net/exhibitions/lon
  don/
-LOCATION:National Portrait Gallery\, London
+LOCATION:National Portrait Gallery\, St Martin's Place\, WC2H 0HE\, Londo
+ n
 URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_3ac2a30942bb46c0816d37ee226dbe70-occ_d1a7c51368744beba26400b10a7
+ b8159@thingstodoinyourcity
+DTSTAMP:20261106T041044Z
+DTSTART:20261009T100000Z
+DTEND:20261212T180000Z
+SUMMARY:Rebecca Warren: There Will Be Another You
+DESCRIPTION:Warren's new sculptures fill both gallery spaces. A life-size
+  bronze reclining figure anchors the show.\nhttps://www.galleriesnow.net
+ /exhibitions/london/
+LOCATION:Maureen Paley\, 4 Herald St\, 4 Herald Street\, E2 6JT\, London\
+ , Bethnal Green\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_83a50b4a4ebe4162b47ac2d8bfd7e01a-occ_e35a7cf6d0b84a43815e11134ad
+ 40347@thingstodoinyourcity
+DTSTAMP:20261106T042256Z
+DTSTART:20261009T110000Z
+DTEND:20261205T180000Z
+SUMMARY:Karin Sander
+DESCRIPTION:Karin Sander's new video 696 Encounters shows ants moving alo
+ ng a railing against a blue sky. It marks her return to London since her
+  2016 Whitechapel Gallery exhibition.\nhttps://www.galleriesnow.net/show
+ s/karin-sander-3/
+LOCATION:Annka Kultys Gallery\, City Road\, EC1V\, London\, London
+URL:https://www.galleriesnow.net/shows/karin-sander-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b10782b32bed44238203408f16a7d34c-occ_7e844d7c9a454afa97605f9e808
@@ -10580,6 +10654,46 @@ LOCATION:Buxton Memorial Fountain\, 1 Millbank\, London\, SW1P 3JU\, St J
  ames's\, London\, London
 URL:https://www.skiddle.com/whats-on/London/Buxton-Memorial-Fountain/Mill
  bank-and-Pimlico/42869450/?sktag=15752
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_bf43e02c33e4478f9d6f6c268f0
+ 177aa@thingstodoinyourcity
+DTSTAMP:20261106T040844Z
+DTSTART:20261009T110000Z
+DTEND:20261122T180000Z
+SUMMARY:Pia Camil: Bestia
+DESCRIPTION:Pia Camil's debut London solo show explores looking and being
+  looked at. Lady Godiva becomes a monumental inflatable sculpture.\nhttp
+ s://www.galleriesnow.net/exhibitions/london/
+LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, 20-22 Exmouth Market\, EC1
+ R 4QE\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_6855a16bc2014761a3244a61421
+ 8d145@thingstodoinyourcity
+DTSTAMP:20261106T040844Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Pia Camil: Bestia
+DESCRIPTION:Pia Camil's debut London solo show explores looking and being
+  looked at. Lady Godiva becomes a monumental inflatable sculpture.\nhttp
+ s://www.galleriesnow.net/exhibitions/london/
+LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, 20-22 Exmouth Market\, EC1
+ R 4QE\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5bcf8561c1f548b6a0b2cc870077e452-occ_fc8d36db4aef443c8c2e4c2642a
+ 9fd5f@thingstodoinyourcity
+DTSTAMP:20261106T040844Z
+DTSTART;VALUE=DATE:20261122
+SUMMARY:Pia Camil: Bestia
+DESCRIPTION:Pia Camil's debut London solo show explores looking and being
+  looked at. Lady Godiva becomes a monumental inflatable sculpture.\nhttp
+ s://www.galleriesnow.net/exhibitions/london/
+LOCATION:Elizabeth Xi Bauer\, Exmouth Market\, 20-22 Exmouth Market\, EC1
+ R 4QE\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b7eeb833666343d58cecbd349889aa73-occ_1467d5656a15485595383c5de49
@@ -11122,12 +11236,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_91f6b90c5c2b4cb395433281210e511f-occ_0c27bc24e3184371bcfda3ac02d
  2f5ed@thingstodoinyourcity
-DTSTAMP:20261104T150936Z
+DTSTAMP:20261106T040459Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261218
 SUMMARY:Allen Jones: In Town Tonight
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Gazelli Art House\, London West End\, London
+DESCRIPTION:Allen Jones RA's first solo show with the gallery opens durin
+ g Frieze Week. New shaped-canvas paintings and acrylic sculptures explor
+ e performance and the human figure.\nhttps://www.galleriesnow.net/exhibi
+ tions/london/
+LOCATION:Gazelli Art House\, 39 Dover Street\, W1S 4NN\, London\, London 
+ West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11169,6 +11287,17 @@ UID:cand_51b200e0db834997ae8d7a83dd58e168-occ_a1e0ef6257aa4ba9a2f59da5a25
 DTSTAMP:20261104T150332Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261122
+SUMMARY:Fernando Botero: In Praise of an Amplified World
+DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
+LOCATION:Opera Gallery\, London West End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_51b200e0db834997ae8d7a83dd58e168-occ_a60a076ebc6142e0b87c9be2346
+ 0d135@thingstodoinyourcity
+DTSTAMP:20261104T150332Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261206
 SUMMARY:Fernando Botero: In Praise of an Amplified World
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Opera Gallery\, London West End\, London
@@ -11341,12 +11470,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_4575c445964044dcb09facf39eb61371-occ_a8ec8531f56d4266abae3da0765
  d4979@thingstodoinyourcity
-DTSTAMP:20261104T151931Z
+DTSTAMP:20261106T041845Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mira Schendel: In Transit
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Luxembourg + Co.\, London West End\, London
+DESCRIPTION:Shown at the gallery and Frieze Masters\, the show explores S
+ chendel's material language. It marks a new book on her materials as mea
+ ns to define drawing and painting.\nhttps://www.galleriesnow.net/exhibit
+ ions/london/
+LOCATION:Luxembourg + Co.\, 2 Savile Row\, W1S 3PA\, London\, London West
+  End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11400,12 +11533,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_532dbaf0ee44429d88e738c33f2c86cb-occ_ef5b240a71b4462699bf25baa42
  ea584@thingstodoinyourcity
-DTSTAMP:20261104T151853Z
+DTSTAMP:20261106T041817Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261114
 SUMMARY:Timur Si-Qin: Pristine\, Part I
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Albion Jeune\, London West End\, London
+DESCRIPTION:A new Timur Si-Qin exhibition\, the first chapter of work sha
+ ped by his Peruvian Amazon engagement. Sculptures of roots\, trunks and 
+ leaves carry those encounters into new form.\nhttps://www.galleriesnow.n
+ et/exhibitions/london/
+LOCATION:Albion Jeune\, 16-17 Little Portland Street\, W1W 8BP\, London\,
+  London West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11417,28 +11554,6 @@ DTEND;VALUE=DATE:20261110
 SUMMARY:Yesterday
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:SETAREH\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d09f6b270100402ca2f625114a520b7a-occ_2e4c45b902f547ffb7ecff55867
- d150b@thingstodoinyourcity
-DTSTAMP:20261104T151242Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261219
-SUMMARY:Anne Holtrop: Low-relief
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_bc6622133f0649a2a81f96dc9e501868-occ_678ba4c059d64ad794fa74babd8
- 93d38@thingstodoinyourcity
-DTSTAMP:20261104T151048Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261223
-SUMMARY:Cindy Sherman
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Hauser & Wirth\, London West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11466,17 +11581,6 @@ DESCRIPTION:https://www.wallpaper.com/art/exhibitions-shows/london-art-ex
 LOCATION:Hauser & Wirth London\, London
 URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4fc7d7e00c8d4639a399121e69e376db-occ_7a282dac279f40f29660b408603
- 3e54e@thingstodoinyourcity
-DTSTAMP:20261104T150548Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261219
-SUMMARY:Dissent: Notes from Underground
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0945f7aece6d48e3acc1de8b2b565336-occ_78fc20167172414995b6c4782fc
@@ -11541,17 +11645,6 @@ URL:https://www.whitecube.com/gallery-exhibitions/firenze-lai-masons-yard
  -2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bc6b7bf55d7c4283bfe919599ffa652b-occ_7cf4d3c9cf78477bb3090acdac1
- 05454@thingstodoinyourcity
-DTSTAMP:20261104T152002Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261219
-SUMMARY:Gareth Mason: Flights of Fancy
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3e5de2d06d06428abebfc623f412f878-occ_5fd8af7aadfa45cc84cce83e220
  8f494@thingstodoinyourcity
 DTSTAMP:20261022T021842Z
@@ -11588,39 +11681,6 @@ DTEND;VALUE=DATE:20261219
 SUMMARY:Glenn Ligon: Prompts
 DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
 LOCATION:Thomas Dane Gallery\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cdede469e4c4a98a9604a700fe3e119-occ_6e2bbe759774484da3fb145a9c3
- 98254@thingstodoinyourcity
-DTSTAMP:20261104T151321Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261114
-SUMMARY:Kylie Manning: The Mudlarkers
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Pace\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cdede469e4c4a98a9604a700fe3e119-occ_dc2f68e648fe4717844fa54fbc0
- 2fa70@thingstodoinyourcity
-DTSTAMP:20261104T151321Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261114
-SUMMARY:Kylie Manning: The Mudlarkers
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Pace\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_74389db75f0343f8b92fad945af14bc7-occ_e97b8fb0b7d74c5687e9c3e4976
- 33773@thingstodoinyourcity
-DTSTAMP:20261104T151355Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261223
-SUMMARY:Lorna Simpson. Previous & Ongoing
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Hauser & Wirth\, London West End\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11672,28 +11732,6 @@ LOCATION:Modern Art\, 8 Bennet Street London SW1A 1RP\, London
 URL:https://www.newexhibitions.com/e/69280
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_61ab9d5f48b64ee184b4c51394dcd32c-occ_e175e84e72b64169bfb2862136c
- 575ca@thingstodoinyourcity
-DTSTAMP:20261104T151026Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261121
-SUMMARY:Rosalind Nashashibi: Gaza Apollo
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:GRIMM\, London West End\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_54db5c05c93e4e3ba0a07bd7928fab4c-occ_a534b941ddb04cad8e98f86a2a7
- 30d83@thingstodoinyourcity
-DTSTAMP:20261104T151910Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261121
-SUMMARY:Sophie Birch: The eye lives in this texture
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Alice Amati\, London
-URL:https://www.galleriesnow.net/exhibitions/london/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_0c0339018c054d31b5f9d05f4eee93ba-occ_215b485497ec44f1a3b82b9d134
  2077d@thingstodoinyourcity
 DTSTAMP:20261021T200828Z
@@ -11729,14 +11767,60 @@ LOCATION:V&A Academy Online\, London
 URL:https://www.vam.ac.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ffb6c7727df94d28a4df5324e87008a4-occ_35edffbc5ad942f58722d68bcd1
- 4d865@thingstodoinyourcity
-DTSTAMP:20261104T151127Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261219
-SUMMARY:Thukral & Tagra: Arboretum
-DESCRIPTION:https://www.galleriesnow.net/exhibitions/london/
-LOCATION:Carpenters\, London
+UID:cand_d09f6b270100402ca2f625114a520b7a-occ_2e4c45b902f547ffb7ecff55867
+ d150b@thingstodoinyourcity
+DTSTAMP:20261106T041044Z
+DTSTART:20261013T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Anne Holtrop: Low-relief
+DESCRIPTION:Anne Holtrop's inaugural show with the gallery presents new f
+ unctional cast-glass artworks. They explore the relationship between lig
+ ht\, space\, and material.\nhttps://www.galleriesnow.net/exhibitions/lon
+ don/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bc6622133f0649a2a81f96dc9e501868-occ_678ba4c059d64ad794fa74babd8
+ 93d38@thingstodoinyourcity
+DTSTAMP:20261106T040734Z
+DTSTART:20261013T090000Z
+DTEND:20261223T180000Z
+SUMMARY:Cindy Sherman
+DESCRIPTION:This autumn\, Sherman debuts photographic works from her new 
+ Fabric Matrons series. The series explores identity as a continual proce
+ ss of construction over a lifetime.\nhttps://www.galleriesnow.net/exhibi
+ tions/london/
+LOCATION:Hauser & Wirth\, 23 Savile Row\, W1S 2ET\, London\, London West 
+ End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4fc7d7e00c8d4639a399121e69e376db-occ_7a282dac279f40f29660b408603
+ 3e54e@thingstodoinyourcity
+DTSTAMP:20261106T040542Z
+DTSTART:20261013T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Dissent: Notes from Underground
+DESCRIPTION:A new subterranean space at Ladbroke Hall explores dissenting
+  attitudes to form and function. Works by Wendell Castle\, Vincenzo De C
+ otiis and Nacho Carbonell feature.\nhttps://www.galleriesnow.net/exhibit
+ ions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bc6b7bf55d7c4283bfe919599ffa652b-occ_7cf4d3c9cf78477bb3090acdac1
+ 05454@thingstodoinyourcity
+DTSTAMP:20261106T042200Z
+DTSTART:20261013T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Gareth Mason: Flights of Fancy
+DESCRIPTION:Ceramic artist Gareth Mason presents seven new works blending
+  porcelain\, stoneware\, glazes and granite. The show explores flux and 
+ the unfinished\, provisional nature of firing.\nhttps://www.galleriesnow
+ .net/exhibitions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
@@ -11751,6 +11835,91 @@ DESCRIPTION:Atoui turns the Turbine Hall into a sonic landscape of ancien
  brate with sound.\nPrice: Free\nhttps://www.tate.org.uk/whats-on
 LOCATION:Tate Modern\, London SE1 9TG\, Bankside\, London
 URL:https://www.tate.org.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cdede469e4c4a98a9604a700fe3e119-occ_6e2bbe759774484da3fb145a9c3
+ 98254@thingstodoinyourcity
+DTSTAMP:20261106T041125Z
+DTSTART:20261013T090000Z
+DTEND:20261114T180000Z
+SUMMARY:Kylie Manning: The Mudlarkers
+DESCRIPTION:Marking her first solo London show\, Kylie Manning's painting
+ s mix Hampshire and London clay with Thames silt. Inspired by mudlarking
+ \, they explore memory\, grief and disappearance.\nhttps://www.galleries
+ now.net/exhibitions/london/
+LOCATION:Pace\, 5 Hanover Square\, W1S 1HQ\, London\, London West End\, L
+ ondon
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cdede469e4c4a98a9604a700fe3e119-occ_dc2f68e648fe4717844fa54fbc0
+ 2fa70@thingstodoinyourcity
+DTSTAMP:20261106T041125Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261114
+SUMMARY:Kylie Manning: The Mudlarkers
+DESCRIPTION:Marking her first solo London show\, Kylie Manning's painting
+ s mix Hampshire and London clay with Thames silt. Inspired by mudlarking
+ \, they explore memory\, grief and disappearance.\nhttps://www.galleries
+ now.net/exhibitions/london/
+LOCATION:Pace\, 5 Hanover Square\, W1S 1HQ\, London\, London West End\, L
+ ondon
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_74389db75f0343f8b92fad945af14bc7-occ_e97b8fb0b7d74c5687e9c3e4976
+ 33773@thingstodoinyourcity
+DTSTAMP:20261106T041250Z
+DTSTART:20261013T090000Z
+DTEND:20261223T180000Z
+SUMMARY:Lorna Simpson. Previous & Ongoing
+DESCRIPTION:Simpson returns to the UK after eight years with new painting
+ s\, collages and sculpture. Her works reshape archival news photographs 
+ as carriers of memory.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Hauser & Wirth\, 23 Savile Row\, W1S 2ET\, London\, London West 
+ End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ffb6c7727df94d28a4df5324e87008a4-occ_35edffbc5ad942f58722d68bcd1
+ 4d865@thingstodoinyourcity
+DTSTAMP:20261106T040927Z
+DTSTART:20261013T090000Z
+DTEND:20261219T180000Z
+SUMMARY:Thukral & Tagra: Arboretum
+DESCRIPTION:Jiten Thukral and Sumir Tagra show paintings on brass sculptu
+ res and canvases inspired by sacred trees. It is their first solo exhibi
+ tion with Carpenters.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:Carpenters\, 79 Barlby Road\, W10 6AZ\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_61ab9d5f48b64ee184b4c51394dcd32c-occ_e175e84e72b64169bfb2862136c
+ 575ca@thingstodoinyourcity
+DTSTAMP:20261106T040743Z
+DTSTART:20261013T100000Z
+DTEND:20261121T180000Z
+SUMMARY:Rosalind Nashashibi: Gaza Apollo
+DESCRIPTION:New paintings by Rosalind Nashashibi\, her first solo show in
+  London since 2020. Five works depict the bronze Apollo statue discovere
+ d off Gaza in 2013.\nhttps://www.galleriesnow.net/exhibitions/london/
+LOCATION:GRIMM\, 43a Duke Street\, St James’s\, SW1Y 6DD\, London\, Lon
+ don West End\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54db5c05c93e4e3ba0a07bd7928fab4c-occ_a534b941ddb04cad8e98f86a2a7
+ 30d83@thingstodoinyourcity
+DTSTAMP:20261106T041930Z
+DTSTART:20261013T100000Z
+DTEND;VALUE=DATE:20261121
+SUMMARY:Sophie Birch: The eye lives in this texture
+DESCRIPTION:Sophie Birch's first solo show with the gallery presents new 
+ paintings in oil and marble dust. They draw on her Rome residency and Ju
+ ng's Memories\, Dreams\, Reflections.\nhttps://www.galleriesnow.net/exhi
+ bitions/london/
+LOCATION:Alice Amati\, 27 Warren Street\, W1T 5NB\, London\, London
+URL:https://www.galleriesnow.net/exhibitions/london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fdf3c1d5e04d49c38af0c88b2881d017-occ_0d1aa389d79148a085d8801c4dc
@@ -13110,6 +13279,17 @@ LOCATION:President Hotel\, London
 URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0c40ab7ea1464df2a8446e72f319c885-occ_7f24c141bff844f3a2e5ee1cd86
+ d7845@thingstodoinyourcity
+DTSTAMP:20261022T212336Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20271219
+SUMMARY:Faulty Towers - The Original Dining Experience
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:President Hotel\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ec3c73583d9043a0b64582773124fbde-occ_f315d9dd763647c0832d259473b
  de884@thingstodoinyourcity
 DTSTAMP:20261021T164026Z
@@ -13202,6 +13382,17 @@ UID:cand_b49d7515c3b146d0a0a0a9597297e3bc-occ_8438f64203664d3bae6cc83a5ca
  4e852@thingstodoinyourcity
 DTSTAMP:20261023T042242Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20270529
+SUMMARY:Operation Mincemeat
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Fortune Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b49d7515c3b146d0a0a0a9597297e3bc-occ_0f9cfd4295e84e24a94783e1db0
+ 4defa@thingstodoinyourcity
+DTSTAMP:20261023T042242Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270529
 SUMMARY:Operation Mincemeat
 DESCRIPTION:https://www.londontheatres.com/events/comedy
@@ -13588,6 +13779,20 @@ UID:cand_fee413364bb94e699e5a702cffefcafc-occ_daf58f93d26542709173ac572c0
  4b3c3@thingstodoinyourcity
 DTSTAMP:20261022T030224Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261121
+SUMMARY:Affluenza
+DESCRIPTION:Noah Schnapp makes his professional stage debut in this play 
+ set in the ultra-wealthy Hamptons. It explores moral accountability\, fa
+ mily legacy and the American justice system.\nhttps://www.londontheatres
+ .com/event/affluenza
+LOCATION:Riverside Studios\, London
+URL:https://www.londontheatres.com/event/affluenza
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_fee413364bb94e699e5a702cffefcafc-occ_a1c3d8a68ab04ecdb3f62e3768a
+ 80f7d@thingstodoinyourcity
+DTSTAMP:20261022T030224Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261121
 SUMMARY:Affluenza
 DESCRIPTION:Noah Schnapp makes his professional stage debut in this play 
@@ -15797,6 +16002,21 @@ URL:https://www.londontheatres.com/event/big-belly-comedy-club-_-voted-lo
  ndon's-best-comedy-club
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_29379f25e7054d33895d4224ba5431fc-occ_e793536b1788416c9b88951501b
+ 13f14@thingstodoinyourcity
+DTSTAMP:20261022T031040Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261130
+SUMMARY:Big Belly Comedy Club - Voted London's Best Comedy Club
+DESCRIPTION:Recently crowned Best London Comedy Club at the Chortle Award
+ s. Offers stand-up\, live podcasts\, new talent nights and late-night en
+ tertainment with bars and street food.\nhttps://www.londontheatres.com/e
+ vent/big-belly-comedy-club-_-voted-london's-best-comedy-club
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/big-belly-comedy-club-_-voted-lo
+ ndon's-best-comedy-club
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_29379f25e7054d33895d4224ba5431fc-occ_d2e8d3b731c249e8b724f4862fd
  0c95f@thingstodoinyourcity
 DTSTAMP:20261022T031040Z
@@ -17046,6 +17266,20 @@ LOCATION:Apollo Theatre\, London
 URL:https://www.londontheatres.com/event/derren-brown
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ec80dcbf343c4f1b99f8a043938697aa-occ_dbe5a1acef394dd09bb29d445b3
+ 50146@thingstodoinyourcity
+DTSTAMP:20261028T092954Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270130
+SUMMARY:Derren Brown
+DESCRIPTION:The multi award-winning illusionist returns with new live sho
+ w ONLY HUMAN\, content under wraps. Expect a mind-blowing experience\; n
+ ot suitable for under 12s.\nhttps://www.londontheatres.com/event/derren-
+ brown
+LOCATION:Apollo Theatre\, London
+URL:https://www.londontheatres.com/event/derren-brown
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d44f43773a3243f5bff5a68a8884e830-occ_fb2255a028a94b27acf41e60799
  cf1f6@thingstodoinyourcity
 DTSTAMP:20261028T052049Z
@@ -17490,22 +17724,6 @@ LOCATION:Holloway Theatre (Bush Theatre's Main Space)\, London
 URL:https://www.bushtheatre.co.uk/event/the-bridge/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_f35c79800ef643b4947c26b82f89d314-occ_ed921d99d8524c0d8ba16250ecb
- b45b8@thingstodoinyourcity
-DTSTAMP:20261104T160027Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261111
-SUMMARY:The Bridge
-DESCRIPTION:Alaa Shehada's solo comedy follows his olive-oil journey acro
- ss the bridge from the West Bank to Jordan. Written and performed by She
- hada\, directed by Sam Beale.\nPrice: Get tickets from £28\; £40 on 4 
- November 2026\; £28 on 11 November 2026\nhttps://bookings.whatsonstage.
- com/london/shows/47181-the-bridge
-LOCATION:Bush Theatre\, 7 Uxbridge Road\, Shepherd's Bush\, London\, Unit
- ed Kingdom\, W12 8LJ\, London
-URL:https://bookings.whatsonstage.com/london/shows/47181-the-bridge
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_845906fbe3b44a5c80a5690c82cb6679-occ_312ed79624d84b7bbdd3b2c9dc2
  ffe2b@thingstodoinyourcity
 DTSTAMP:20261103T184530Z
@@ -17650,6 +17868,20 @@ UID:cand_60aed1f18a194cb39303282f6746abd1-occ_2490cb264c844ed6acfbdb77555
  11430@thingstodoinyourcity
 DTSTAMP:20261027T081706Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20270103
+SUMMARY:Titanique
+DESCRIPTION:A cabaret-style parody of the Titanic film that makes Celine 
+ Dion the main character\, played by Lauren Drew. Strong language and sex
+ ual references\; under 12s not admitted.\nPrice: £27\nhttps://ticketing
+ .timeout.com/
+LOCATION:Criterion Theatre\, West End\, London
+URL:https://ticketing.timeout.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_60aed1f18a194cb39303282f6746abd1-occ_27e0032a45ac49829c22e1cd59c
+ bd860@thingstodoinyourcity
+DTSTAMP:20261027T081706Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270103
 SUMMARY:Titanique
 DESCRIPTION:A cabaret-style parody of the Titanic film that makes Celine 
@@ -19045,10 +19277,38 @@ URL:https://www.londontheatres.com/event/friday-comedy-show-_-comedy-frea
  ks
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_09e8d77bee6a40e4a9df9a391ad14b2c-occ_de74083455dc433f98e4b1695ce
+ 9955a@thingstodoinyourcity
+DTSTAMP:20261030T222756Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261218
+SUMMARY:Friday Comedy Show - Comedy Freaks
+DESCRIPTION:Stand-up comedy that actually delivers\, with stacked lineups
+  and drink deals. A different lineup is featured every week.\nhttps://ww
+ w.londontheatres.com/event/friday-comedy-show-_-comedy-freaks
+LOCATION:Comedy Freaks Camden\, London\, London
+URL:https://www.londontheatres.com/event/friday-comedy-show-_-comedy-frea
+ ks
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_09e8d77bee6a40e4a9df9a391ad14b2c-occ_6b45c788f6dd4daa8cb638ffefb
  accc1@thingstodoinyourcity
 DTSTAMP:20261030T222756Z
 DTSTART:20261106T190000Z
+SUMMARY:Friday Comedy Show - Comedy Freaks
+DESCRIPTION:Stand-up comedy that actually delivers\, with stacked lineups
+  and drink deals. A different lineup is featured every week.\nhttps://ww
+ w.londontheatres.com/event/friday-comedy-show-_-comedy-freaks
+LOCATION:Comedy Freaks Camden\, London\, London
+URL:https://www.londontheatres.com/event/friday-comedy-show-_-comedy-frea
+ ks
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_09e8d77bee6a40e4a9df9a391ad14b2c-occ_c584c2f330924dcdb3136151ea8
+ 855f3@thingstodoinyourcity
+DTSTAMP:20261030T222756Z
+DTSTART:20261106T193000Z
+DTEND:20270122T213000Z
 SUMMARY:Friday Comedy Show - Comedy Freaks
 DESCRIPTION:Stand-up comedy that actually delivers\, with stacked lineups
   and drink deals. A different lineup is featured every week.\nhttps://ww
@@ -19912,6 +20172,17 @@ LOCATION:London
 URL:https://www.marylebonetheatre.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_aa70117da9bb4f40ace651cb3b839915-occ_c42f10a94d1941bda6d45db1b62
+ 37367@thingstodoinyourcity
+DTSTAMP:20261023T074401Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270103
+SUMMARY:Speculations
+DESCRIPTION:https://www.marylebonetheatre.com/
+LOCATION:London
+URL:https://www.marylebonetheatre.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_aa70117da9bb4f40ace651cb3b839915-occ_2b0d35d3bc164f6cbc5ab3d5bb7
  f9476@thingstodoinyourcity
 DTSTAMP:20261023T074401Z
@@ -20161,6 +20432,20 @@ URL:https://www.londontheatres.com/event/friday-night-comedy-9pm-leiceste
  r-square
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9c33030cc2f741c8a5bae14f14767cee-occ_7a2d30329445471e89bf99271da
+ e146d@thingstodoinyourcity
+DTSTAMP:20261030T210524Z
+DTSTART:20261106T210000Z
+DTEND;VALUE=DATE:20261225
+SUMMARY:Friday Night Comedy 9PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. The source describes the prices as affordable.\nhttps://www.london
+ theatres.com/event/friday-night-comedy-9pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-9pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bd008f13a48645d2940c0ae22dae3543-occ_6b69a254046549e38bb3478d1c5
  86c25@thingstodoinyourcity
 DTSTAMP:20261030T211937Z
@@ -20178,6 +20463,19 @@ UID:cand_bd008f13a48645d2940c0ae22dae3543-occ_a2c50b2b4d264eada2b2ae4eaf6
  2702c@thingstodoinyourcity
 DTSTAMP:20261030T211937Z
 DTSTART:20261106T210000Z
+SUMMARY:Friday Night Comedy at Big Belly Comedy Club - Southbank 9.30pm
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-at-b
+ ig-belly-comedy-club-_-southbank-9.30pm
+LOCATION:Big Belly Comedy - Southbank\, London\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-9.30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bd008f13a48645d2940c0ae22dae3543-occ_e7bf64253d18458e9a81d9aebab
+ 6401d@thingstodoinyourcity
+DTSTAMP:20261030T211937Z
+DTSTART:20261106T213000Z
+DTEND;VALUE=DATE:20261127
 SUMMARY:Friday Night Comedy at Big Belly Comedy Club - Southbank 9.30pm
 DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-at-b
  ig-belly-comedy-club-_-southbank-9.30pm
@@ -20414,6 +20712,20 @@ UID:cand_7d5fc3f5b39044ab96929291069d95be-occ_2a25922cc91645eeaa2baa271bf
  4bc3b@thingstodoinyourcity
 DTSTAMP:20261030T211409Z
 DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261219
+SUMMARY:Buff Bingo Drag Brunch
+DESCRIPTION:Expect bingo cards\, dancing on chairs and buff butlers at th
+ is daytime drag brunch. Choose the full bottomless brunch experience or 
+ just the brunch and the show.\nhttps://www.londontheatres.com/event/buff
+ -bingo-drag-brunch
+LOCATION:Vauxhall Street Food Garden & Fire Club\, London
+URL:https://www.londontheatres.com/event/buff-bingo-drag-brunch
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7d5fc3f5b39044ab96929291069d95be-occ_3cbda863337e411883a4c561760
+ b9365@thingstodoinyourcity
+DTSTAMP:20261030T211409Z
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261219
 SUMMARY:Buff Bingo Drag Brunch
 DESCRIPTION:Expect bingo cards\, dancing on chairs and buff butlers at th
@@ -22761,7 +23073,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8082d5fad4174142bf83965eeaab2604-occ_5edc0294d142437fbe694ef8970
  ba1db@thingstodoinyourcity
-DTSTAMP:20261101T041625Z
+DTSTAMP:20261106T050357Z
 DTSTART:20261102T100000Z
 DTEND:20261108T170000Z
 SUMMARY:Spirit of Christmas Fair
@@ -23515,9 +23827,9 @@ LOCATION:The Cinema in The Power Station\, London
 URL:https://www.thecinemainthepowerstation.com/film/primetime
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_8e1568a07f464ab094eecc6bdc7
- 00ec4@thingstodoinyourcity
-DTSTAMP:20261102T050343Z
+UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_76d6169a3aa14587b73502cc32c
+ 2fcbc@thingstodoinyourcity
+DTSTAMP:20261106T050513Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261107
 SUMMARY:Pulman & Stilgoe Hooray for Hollywood
@@ -23534,8 +23846,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_34e6e05a206540369adfc7b3c14
  4b4bb@thingstodoinyourcity
-DTSTAMP:20261102T050343Z
+DTSTAMP:20261106T050513Z
 DTSTART:20261106T190000Z
+SUMMARY:Pulman & Stilgoe Hooray for Hollywood
+DESCRIPTION:Liza Pulman and Joe Stilgoe weave a century of movie musical 
+ songs into an evening of laughter and romance. Songs from The Wizard of 
+ Oz to Wicked\, with no big screen needed.\nPrice: £13.50 – £28.00 fu
+ ll price | £11.50 – £26.00 concession\nhttps://wiltons.org.uk/whats-
+ on/pulman-stilgoe-hooray-for-hollywood-2/
+LOCATION:Wilton's Music Hall\, Graces Alley\, London E1 8JB\, Inner Londo
+ n\, London
+URL:https://wiltons.org.uk/whats-on/pulman-stilgoe-hooray-for-hollywood-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_364672c8f0004a48a78567d15e7
+ 6d702@thingstodoinyourcity
+DTSTAMP:20261106T050513Z
+DTSTART;VALUE=DATE:20261107
 SUMMARY:Pulman & Stilgoe Hooray for Hollywood
 DESCRIPTION:Liza Pulman and Joe Stilgoe weave a century of movie musical 
  songs into an evening of laughter and romance. Songs from The Wizard of 
@@ -23550,7 +23878,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_233d313fbcf94bff87810f9e832
  2dce5@thingstodoinyourcity
-DTSTAMP:20261102T050343Z
+DTSTAMP:20261106T050513Z
 DTSTART:20261107T143000Z
 SUMMARY:Pulman & Stilgoe Hooray for Hollywood
 DESCRIPTION:Liza Pulman and Joe Stilgoe weave a century of movie musical 
@@ -23566,7 +23894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_53d4a49a98fd40f5a0da5974ce6dff67-occ_eaab6b2e06c54f7797bfe3996dd
  c4228@thingstodoinyourcity
-DTSTAMP:20261102T050343Z
+DTSTAMP:20261106T050513Z
 DTSTART:20261107T190000Z
 SUMMARY:Pulman & Stilgoe Hooray for Hollywood
 DESCRIPTION:Liza Pulman and Joe Stilgoe weave a century of movie musical 
@@ -24273,6 +24601,17 @@ UID:cand_586f22fe9db24fe1aa12968910ecc300-occ_ad67ea722ee445e78aaa006c9ee
  c056f@thingstodoinyourcity
 DTSTAMP:20261104T153124Z
 DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20270417
+SUMMARY:Beetlejuice The Musical
+DESCRIPTION:https://www.londontheatres.com/events/comedy
+LOCATION:Prince Edward Theatre\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_586f22fe9db24fe1aa12968910ecc300-occ_ec9355899e284d8f8900f2b6e6e
+ af7cd@thingstodoinyourcity
+DTSTAMP:20261104T153124Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270417
 SUMMARY:Beetlejuice The Musical
 DESCRIPTION:https://www.londontheatres.com/events/comedy
@@ -25983,6 +26322,20 @@ LOCATION:Jamon Jamon Soho\, Soho\, London
 URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8c59240b52a14767bd7acf3b6087c8fb-occ_6c892484f28f4211b32454f846d
+ 14d6d@thingstodoinyourcity
+DTSTAMP:20261031T220628Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sam Jackson: What Remains of Her
+DESCRIPTION:Sam Jackson paints imagined portraits of historical queens an
+ d women\, from Cleopatra to Boudicca. Loose gestural brushwork and scatt
+ ered text make the faces ambiguous.\nhttps://www.galleriesnow.net/shows/
+ what-remains-of-her
+LOCATION:Pontone Gallery\, London West End\, London
+URL:https://www.galleriesnow.net/shows/what-remains-of-her
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8c59240b52a14767bd7acf3b6087c8fb-occ_c031ac1fed8245099907fe0eb84
  d39f1@thingstodoinyourcity
 DTSTAMP:20261031T220628Z
@@ -26199,6 +26552,21 @@ DESCRIPTION:Visitors can create their own personalised LEGO gift at this
  m/discover/free-pop-ups-in-london?lang=en
 LOCATION:Borough Yards\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8aa655ccea2447acac50fbd2547571a6-occ_76f21f78f7ec4cca8ec9edc81a6
+ 76c61@thingstodoinyourcity
+DTSTAMP:20261106T035921Z
+DTSTART:20261105T100000Z
+DTEND:20261212T180000Z
+SUMMARY:Miami Warm Up in London
+DESCRIPTION:A group exhibition previewing works bound for Miami's Art Bas
+ el week. Artists with distinct practices explore atmosphere\, space\, li
+ ght and perception intimately.\nhttps://www.galleriesnow.net/shows/miami
+ -warm-up-in-london/
+LOCATION:Pontone Gallery\, 74 Newman Street\, W1T 3DB\, London\, London W
+ est End\, London
+URL:https://www.galleriesnow.net/shows/miami-warm-up-in-london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_26520a1581b74161a04361faf36f96dd-occ_845213e4c1b942ae94a7697ebc1
@@ -26765,20 +27133,6 @@ LOCATION:Battersea Power Station\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_fd3c86b295a84190a11d2dffc832574c-occ_c584c2f330924dcdb3136151ea8
- 855f3@thingstodoinyourcity
-DTSTAMP:20261105T094639Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20270122
-SUMMARY:Comedy Freaks - Friday Comedy Show
-DESCRIPTION:Stand-up acts from across London's comedy circuit take the st
- age\, with a resident DJ between sets. Ages 18+ with valid ID.\nPrice: E
- arly Bird - General Admission £12.50\; General Admission £15.00\nhttps
- ://feverup.com/en/london/when/this-week
-LOCATION:Comedy Freaks - Camden\, Camden\, London
-URL:https://feverup.com/en/london/when/this-week
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_aca3db8f3cd6449f8b8f12274ff9cf1c-occ_2489ca780c0044fca6c470340fc
  ad7b4@thingstodoinyourcity
 DTSTAMP:20261022T050513Z
@@ -26929,17 +27283,61 @@ LOCATION:Goldsmiths CCA\, New Cross\, London
 URL:https://goldsmithscca.art/exhibition/episode-16-katie-shannon/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8727ba3954a942d187429c1de95b10b9-occ_dd748e13f9b744cd83d93e7adf9
+ daa39@thingstodoinyourcity
+DTSTAMP:20261106T042515Z
+DTSTART:20261106T200000Z
+DTEND:20261106T220000Z
+SUMMARY:Explore 50 dinner
+DESCRIPTION:Explore community members celebrate shared achievements and d
+ iscuss what exploration's future looks like. No tickets are issued\, and
+  the dinner is now fully booked.\nPrice: £75.00 - £75.00\nhttps://www.
+ rgs.org/events/upcoming-events
+LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
+ on\, SW7 2AR\, LONDON\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_be4ebd0f3b4f4afdb76f39b6b0a79fb3-occ_7186e569da344c0e9bb2627247f
+ 1cf29@thingstodoinyourcity
+DTSTAMP:20261106T042614Z
+DTSTART:20261106T140000Z
+DTEND:20261106T183000Z
+SUMMARY:Explore 50: celebrating 50 years of inspiring exploration
+DESCRIPTION:View Collections objects chosen for Explore 50 in the Foyle R
+ eading Room\, plus a Lowther Lodge tour. Afternoon tea is also on offer.
+ \nPrice: Free\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
+ on\, SW7 2AR\, LONDON AND ONLINE\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6d055b5397a0438cb8ab35aaa94cbb27-occ_814bcc575f544dbea9699ea1da0
+ 19218@thingstodoinyourcity
+DTSTAMP:20261106T042428Z
+DTSTART:20261106T183000Z
+DTEND:20261106T194500Z
+SUMMARY:Explore 50: five decades of discovery
+DESCRIPTION:Five speakers\, one for each decade since 1976\, share field 
+ stories. Paul Rose hosts the evening\, which is also available online.\n
+ Price: £5.00 - £12.00\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:Ondaatje Theatre at Royal Geographical Society (with IBG)\, 1 Ke
+ nsington Gore\, London\, SW7 2AR\, LONDON AND ONLINE\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_dd0e96fd659a471aac9be227607cdb37-occ_935fec5440a84d2a8360ecfae2c
  5dc39@thingstodoinyourcity
-DTSTAMP:20261104T152925Z
+DTSTAMP:20261106T042544Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
 SUMMARY:Explore Weekend 2026
-DESCRIPTION:Join explorers and field researchers at the 50th edition of t
- his expedition planning weekend. Expect talks\, specialist workshops and
-  networking opportunities.\nPrice: Non-member £135.00\, Member £95.00\
- nhttps://www.rgs.org/events/upcoming-events
-LOCATION:Royal Geographical Society (with IBG)\, London
+DESCRIPTION:Marking the 50th edition\, this weekend brings talks\, specia
+ list workshops and networking for expedition planners. It suits first ov
+ erseas adventurers and field researchers.\nPrice: Non-member £135.00\, 
+ Member £95.00\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
+ on\, SW7 2AR\, London
 URL:https://www.rgs.org/events/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
@@ -27114,6 +27512,167 @@ URL:https://www.eventbrite.co.uk/e/firework-night-tickets-2002941256215?a
  ff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ddc252c2c17145d38f825b73da2b23e1-occ_96aa98fb2efe4fa386f38727cc1
+ 9d9e5@thingstodoinyourcity
+DTSTAMP:20261031T230712Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270219
+SUMMARY:Friday Comedy Club London | Covent Garden
+DESCRIPTION:Award-winning international stand-up comedians perform here\,
+  with happy hour and a late bar. Artists listed are Sara Barron\, Matt B
+ rigg\, Travis Jay and Phil Dinsdale.\nPrice: £12\nhttps://opencomedy.co
+ m/uk/gigs/london/comedy-carnival-covent-garden/friday-comedy-club-london
+ -covent-garden-november-2026-06th-nov/19091
+LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
+ H 9LA\, London
+URL:https://opencomedy.com/uk/gigs/london/comedy-carnival-covent-garden/f
+ riday-comedy-club-london-covent-garden-november-2026-06th-nov/19091
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ddc252c2c17145d38f825b73da2b23e1-occ_f938de34bde4443787bb7c4aae5
+ 9f87b@thingstodoinyourcity
+DTSTAMP:20261031T230712Z
+DTSTART:20261106T203000Z
+DTEND:20261106T223000Z
+SUMMARY:Friday Comedy Club London | Covent Garden
+DESCRIPTION:Award-winning international stand-up comedians perform here\,
+  with happy hour and a late bar. Artists listed are Sara Barron\, Matt B
+ rigg\, Travis Jay and Phil Dinsdale.\nPrice: £12\nhttps://opencomedy.co
+ m/uk/gigs/london/comedy-carnival-covent-garden/friday-comedy-club-london
+ -covent-garden-november-2026-06th-nov/19091
+LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
+ H 9LA\, London
+URL:https://opencomedy.com/uk/gigs/london/comedy-carnival-covent-garden/f
+ riday-comedy-club-london-covent-garden-november-2026-06th-nov/19091
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2902df8b4528458ab6864e49b76a9259-occ_2296954c1c93447d8425f0c9beb
+ ec3c7@thingstodoinyourcity
+DTSTAMP:20261105T025128Z
+DTSTART:20261106T210000Z
+DTEND;VALUE=DATE:20271126
+SUMMARY:Friday Night Comedy\, 9PM\, Covent Garden
+DESCRIPTION:Hand-picked London circuit stand-ups headline the bill. Past 
+ shows featured acts seen on Taskmaster\, Live at the Apollo and Netflix.
+ \nPrice: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
+LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
+ \, London WC2H 0HF\, Covent Garden\, London
+URL:https://jkcomedyclub.co.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_585eab2bb24242a493298cdc6b2
+ b348c@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261218
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_0b527ada24fa4767b73f2e6d7b9
+ 7fa98@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261106T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_f7bc9d9da8954e98b1b5242ee6f
+ 11f78@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261113T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_a569b1926c7a4385be1b1fe90a2
+ b463d@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261120T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_c9bda32a98934aab910d6ea81dd
+ 2a004@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261127T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_d3835b582c94496289159b86e0a
+ af1ff@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261204T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_d7884063b0554edfa0e22960842
+ e930b@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261211T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_74b20302fccf45c4b660b9e078c
+ bfd38@thingstodoinyourcity
+DTSTAMP:20261030T215457Z
+DTSTART:20261218T193000Z
+SUMMARY:Friday Night at Backyard Comedy Club
+DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
+ ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
+ \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
+ lub
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
+ club
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_339048b13e184d21971c05ba0e0e6faa-occ_c3e989c1f7774a969287e508530
  e0530@thingstodoinyourcity
 DTSTAMP:20261101T025312Z
@@ -27136,21 +27695,6 @@ DESCRIPTION:Price: ALL TICKETS £6.99 PLUS A 60P PER TICKET BOOKING FEE (
  ichael-the-faith-tour
 LOCATION:Peckhamplex Multi-screen Cinema London\, Peckham\, London
 URL:https://www.peckhamplex.london/film/george-michael-the-faith-tour
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5590844e253748e1a83509f56842bc37-occ_edc2a52bd0674a55bc140d6b035
- cedcf@thingstodoinyourcity
-DTSTAMP:20261104T163129Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261119
-SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Exclusive footage of George Michael's 1988 Faith Tour\, shot 
- live at Palais Omnisports de Paris-Bercy. Filmed on 35mm with 14 cameras
- \, it captures the star at his peak.\nhttps://www.thecinemainthepowersta
- tion.com/film/george-michael-the-faith-tour
-LOCATION:London
-URL:https://www.thecinemainthepowerstation.com/film/george-michael-the-fa
- ith-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6f7ea176f78146abb1f83cf94bc6c8b9-occ_031bdab93fd04207a82cc2cb1cf
@@ -27212,18 +27756,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8db0a116c4bf4e02a2738935ac6d6a0f-occ_25d0111d277441039dd01779898
  620ab@thingstodoinyourcity
-DTSTAMP:20261103T143639Z
+DTSTAMP:20261106T050419Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261206
 SUMMARY:Grit\, Glitter & Gaslight – The Sarah McGuinness Story
-DESCRIPTION:Sarah McGuinness traces her life from childhood in Derry to i
- nternational success. Blending storytelling and song\, it features music
-  by David Bowie\, Kate Bush and Kurt Weill.\nhttps://www.whatsonstage.co
- m/shows/london-theatre/off-west-end-theatre/grit-glitter-gaslight-the-sa
- rah-mcguinness-story_1735574/
-LOCATION:Blacks Club\, London Soho\, London\, W1D 4QH\, Soho\, London
-URL:https://www.whatsonstage.com/shows/london-theatre/off-west-end-theatr
- e/grit-glitter-gaslight-the-sarah-mcguinness-story_1735574/
+DESCRIPTION:Sarah McGuinness traces her life from Derry to international 
+ success. Storytelling and song are set to Bowie\, Kate Bush and Weill.\n
+ https://www.whatsonstage.com/
+LOCATION:Blacks Club\, Blacks Club \, London\, Soho\, London\, W1D 4QH\, 
+ Soho\, London
+URL:https://www.whatsonstage.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4d83102da1384ba5a1d592c10070628f-occ_6a4015467e39490d8d8b8dade0c
@@ -27341,30 +27883,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7fe11e23df1042d1a7b3b6eb419d6892-occ_47999aeb9a4442018f21dcbd135
  e269c@thingstodoinyourcity
-DTSTAMP:20261103T143740Z
+DTSTAMP:20261106T050304Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270214
 SUMMARY:Julius Caesar
-DESCRIPTION:A murderous plot in the Roman Senate unfolds into civil war. 
- Joe Hill-Gibbins directs this brutal\, timely tale of betrayal and polit
- ical violence.\nPrice: From £79\nhttps://whatsonstage.londontheatredire
- ct.com/play/julius-caesar-london-tickets
+DESCRIPTION:Shakespeare's Julius Caesar is staged in the candlelit Sam Wa
+ namaker Playhouse. Joe Hill-Gibbins directs this brutal\, timely tale of
+  friendship\, betrayal and political violence.\nPrice: From £79\nhttps:
+ //whatsonstage.londontheatredirect.com/play/julius-caesar-london-tickets
 LOCATION:Shakespeare's Globe Theatre\, New Globe Walk\, Bankside\, West E
  nd\, SE1 9DT\, West End\, London
 URL:https://whatsonstage.londontheatredirect.com/play/julius-caesar-londo
  n-tickets
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7fe11e23df1042d1a7b3b6eb419d6892-occ_001b2e1b84d24b20a9712f86beb
- 6798c@thingstodoinyourcity
-DTSTAMP:20261103T143740Z
-DTSTART:20261106T193000Z
-DTEND;VALUE=DATE:20270214
+UID:cand_7fe11e23df1042d1a7b3b6eb419d6892-occ_764a53d3c18548e698c34510c7c
+ df431@thingstodoinyourcity
+DTSTAMP:20261106T050304Z
+DTSTART:20261107T193000Z
 SUMMARY:Julius Caesar
-DESCRIPTION:A murderous plot in the Roman Senate unfolds into civil war. 
- Joe Hill-Gibbins directs this brutal\, timely tale of betrayal and polit
- ical violence.\nPrice: From £79\nhttps://whatsonstage.londontheatredire
- ct.com/play/julius-caesar-london-tickets
+DESCRIPTION:Shakespeare's Julius Caesar is staged in the candlelit Sam Wa
+ namaker Playhouse. Joe Hill-Gibbins directs this brutal\, timely tale of
+  friendship\, betrayal and political violence.\nPrice: From £79\nhttps:
+ //whatsonstage.londontheatredirect.com/play/julius-caesar-london-tickets
+LOCATION:Shakespeare's Globe Theatre\, New Globe Walk\, Bankside\, West E
+ nd\, SE1 9DT\, West End\, London
+URL:https://whatsonstage.londontheatredirect.com/play/julius-caesar-londo
+ n-tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7fe11e23df1042d1a7b3b6eb419d6892-occ_12aef759274a46038c46f4f9ccc
+ 1991d@thingstodoinyourcity
+DTSTAMP:20261106T050304Z
+DTSTART:20261113T193000Z
+SUMMARY:Julius Caesar
+DESCRIPTION:Shakespeare's Julius Caesar is staged in the candlelit Sam Wa
+ namaker Playhouse. Joe Hill-Gibbins directs this brutal\, timely tale of
+  friendship\, betrayal and political violence.\nPrice: From £79\nhttps:
+ //whatsonstage.londontheatredirect.com/play/julius-caesar-london-tickets
 LOCATION:Shakespeare's Globe Theatre\, New Globe Walk\, Bankside\, West E
  nd\, SE1 9DT\, West End\, London
 URL:https://whatsonstage.londontheatredirect.com/play/julius-caesar-londo
@@ -28127,6 +28683,21 @@ LOCATION:Painted Hall\, Old Royal Naval College\, Old Royal Naval College
 URL:https://www.culturecalling.com/london/events/luxmuralis
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_93d69597c09c499ab9faf1b8795ed806-occ_5cb03e5acbb447a5a672f6993d3
+ 59a9f@thingstodoinyourcity
+DTSTAMP:20261106T033429Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270214
+SUMMARY:Measure for Measure + Julius Caesar
+DESCRIPTION:Shake-Scene Shakespeare return with cued-parts performances i
+ n a double bill of Shakespeare's political plays. Actors work only from 
+ their own lines and cues\, so each performance is unpredictable.\nhttps:
+ //www.londontheatres.com/event/measure-for-measure--julius-caesar
+LOCATION:Shakespeare's Globe\, London
+URL:https://www.londontheatres.com/event/measure-for-measure--julius-caes
+ ar
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8d8de7e874c84bafa01ba45a647215ab-occ_b302adec988c43cf89b1281a54c
  1e6d9@thingstodoinyourcity
 DTSTAMP:20261105T054827Z
@@ -28317,6 +28888,20 @@ LOCATION:Olympic Studios\, London
 URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_67e985bb4fb146d8bd99e213053e40c7-occ_0f74999b8a6b470192f8b33f617
+ ed15a@thingstodoinyourcity
+DTSTAMP:20261106T052412Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:PRIMETIME
+DESCRIPTION:In 2006\, To Catch a Predator host Chris Hansen sets out to m
+ ake television history. Robert Pattinson stars in this crime thriller di
+ rected by Lance Oppenheim.\nhttps://www.thecinemainthepowerstation.com/f
+ ilm/primetime
+LOCATION:The Cinema in The Power Station\, London
+URL:https://www.thecinemainthepowerstation.com/film/primetime
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_82fb4aa872194453913d1925a9f4d000-occ_7c566f21baa241fc89ade137408
  2b589@thingstodoinyourcity
 DTSTAMP:20261104T062738Z
@@ -28494,42 +29079,42 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_93b410fb5b6f4d5fb84e43f9bb7f075c-occ_73196e243da548d4aa13931bedd
  82dfe@thingstodoinyourcity
-DTSTAMP:20261104T163226Z
+DTSTAMP:20261106T051544Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261111
 SUMMARY:Sense and Sensibility
 DESCRIPTION:Georgia Oakley directs this drama starring Caitriona Balfe an
  d Daisy Edgar-Jones. It follows the sisterly bond between Elinor and Mar
- ianne\, drawn from Jane Austen's novel.\nhttps://www.thecinemainthepower
- station.com/film/sense-and-sensibility
+ ianne in Jane Austen's story.\nhttps://www.thecinemainthepowerstation.co
+ m/whats-on
 LOCATION:The Cinema in The Power Station\, London
-URL:https://www.thecinemainthepowerstation.com/film/sense-and-sensibility
+URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_93b410fb5b6f4d5fb84e43f9bb7f075c-occ_0f9da3cb6201475f9f0a0036816
  a516a@thingstodoinyourcity
-DTSTAMP:20261104T163226Z
+DTSTAMP:20261106T051544Z
 DTSTART:20261107T163000Z
 SUMMARY:Sense and Sensibility
 DESCRIPTION:Georgia Oakley directs this drama starring Caitriona Balfe an
  d Daisy Edgar-Jones. It follows the sisterly bond between Elinor and Mar
- ianne\, drawn from Jane Austen's novel.\nhttps://www.thecinemainthepower
- station.com/film/sense-and-sensibility
+ ianne in Jane Austen's story.\nhttps://www.thecinemainthepowerstation.co
+ m/whats-on
 LOCATION:The Cinema in The Power Station\, London
-URL:https://www.thecinemainthepowerstation.com/film/sense-and-sensibility
+URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_93b410fb5b6f4d5fb84e43f9bb7f075c-occ_11b16c544d6c42c693160cb063c
  d9bf8@thingstodoinyourcity
-DTSTAMP:20261104T163226Z
+DTSTAMP:20261106T051544Z
 DTSTART:20261108T130000Z
 SUMMARY:Sense and Sensibility
 DESCRIPTION:Georgia Oakley directs this drama starring Caitriona Balfe an
  d Daisy Edgar-Jones. It follows the sisterly bond between Elinor and Mar
- ianne\, drawn from Jane Austen's novel.\nhttps://www.thecinemainthepower
- station.com/film/sense-and-sensibility
+ ianne in Jane Austen's story.\nhttps://www.thecinemainthepowerstation.co
+ m/whats-on
 LOCATION:The Cinema in The Power Station\, London
-URL:https://www.thecinemainthepowerstation.com/film/sense-and-sensibility
+URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2241a24a658d4ea9b7cdb64bc0a41994-occ_7b51656e14764a1586fa20f12dd
@@ -28727,28 +29312,6 @@ LOCATION:London
 URL:https://www.somersethouse.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_79f65f8e37294b5bb5cb48ceb590d015-occ_33d643e19df647bd85e92576170
- 7d1aa@thingstodoinyourcity
-DTSTAMP:20261104T153216Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20270207
-SUMMARY:Through Our Eyes: Sámi Art and Culture
-DESCRIPTION:https://www.somersethouse.org.uk/whats-on
-LOCATION:London
-URL:https://www.somersethouse.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_96754095e97a4663804b482760ebceb0-occ_8baf45e170a64bc9a3cc637e334
- be35f@thingstodoinyourcity
-DTSTAMP:20261102T045109Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20270207
-SUMMARY:Through Our Eyes: Sámi Art and Culture
-DESCRIPTION:https://www.somersethouse.org.uk/whats-on
-LOCATION:London
-URL:https://www.somersethouse.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_144fbe66310646e3985febd4b88f6e0d-occ_5b92591d4cf34d159ee36961954
  e2fce@thingstodoinyourcity
 DTSTAMP:20261103T015139Z
@@ -28845,6 +29408,119 @@ LOCATION:British Library\, London\, London
 URL:https://events.bl.uk/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_65eb7cc89233473f8ae14d8dfcd
+ 3344b@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261218
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_dfbc7703c04a43f09de15a5ce5c
+ b5497@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261106T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_a0d575de5267429cb59999999ca
+ d10cd@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261113T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_58dad073a7144ebfbfbcd6b9442
+ b70ba@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261120T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_fabf7530f3e2465eb42cfed2fa3
+ e51fc@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261127T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_ef544e74e0584742b3a6f66a6f0
+ 6232c@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261204T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_dcf3432fa6434eaf849c9ad8894
+ d0e94@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261211T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_7c866507d9dd4f0f839ff2c825b
+ beea4@thingstodoinyourcity
+DTSTAMP:20261030T220432Z
+DTSTART:20261218T190000Z
+SUMMARY:Up The Creek Comedy Club - The Friday Night Show
+DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
+ e part of the night out. An after party runs until 2am after the comedy.
+ \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
+ iday-night-show
+LOCATION:Up The Creek\, London
+URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
+ riday-night-show
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2f6d40d6bd26440582b99fc94b63161b-occ_6e97d42118244722929b18fda4d
  8d464@thingstodoinyourcity
 DTSTAMP:20261104T034502Z
@@ -28887,6 +29563,147 @@ DESCRIPTION:Ticketing is handled through an external checkout on ra.co. T
  Price: £\nhttps://eventslist.co.uk/london/exhibitions
 LOCATION:Gallery\, Campden\, London\, London
 URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_32280c4ef3f645739ea04491436
+ 9fefa@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261219
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_4d9b47d103e34fd0b9c6d7a4c56
+ f867f@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261106T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_a0d4fe976a3f4332a8ca05db2cc
+ 72043@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261107T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_ce1fce1ea5a142aabcab885d213
+ f613f@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261113T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_b7295f4623ae43aa89f1b5226c1
+ 77a23@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261114T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_a97500fe3b494facab7832201ac
+ 5c50a@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261120T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_9b3637548a5f4d28810a5294c46
+ f3e11@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261121T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_33ee14b5c61e4eeab58cf2c9205
+ 9e942@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261127T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_1fbd481ef8eb49b7908d79bdfeb
+ 7b8da@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261128T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_8625c0692f2542bc8f34af58a1b
+ 6643d@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261204T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_bcf0f40fc0d64e528bd6c2342fd
+ 2da73@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261211T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_8b5acc817aee4a27835783f5a8d
+ 20649@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261212T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_33ac6a1bf610414f958f5b21493
+ e7f58@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261218T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21530bfd46814419b8ad09812a99e29f-occ_7400658749fd411485ed2c7a554
+ d2a5a@thingstodoinyourcity
+DTSTAMP:20261030T222155Z
+DTSTART:20261219T170000Z
+SUMMARY:Vauxhall Comedy
+DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
+LOCATION:The Garden Vauxhall\, London
+URL:https://www.londontheatres.com/event/vauxhall-comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_449cb7db17b849fdac5ed5f1ccf84003-occ_5e40d0709f39498b85d7fd60c52
@@ -29264,6 +30081,20 @@ DESCRIPTION:Malkovich and Rockwell play eccentric CIA agents on Easter Is
 LOCATION:Barbican Cinema 1\, Barbican Centre Silk Street\, London EC2Y 8D
  S\, London
 URL:https://www.barbican.org.uk/whats-on/event/228294/performances
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_31f393e4909b4f8f9e769a7302dc1563-occ_6c6917286ce94c3ab55585919a6
+ 864d4@thingstodoinyourcity
+DTSTAMP:20261106T052320Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee are sent to Easter Island\, where a 
+ bond with rebellious students threatens their trip. Directed by Martin M
+ cDonagh\; stars Sam Rockwell and John Malkovich.\nhttps://www.thecinemai
+ nthepowerstation.com/film/wild-horse-nine
+LOCATION:The Cinema in The Power Station\, London
+URL:https://www.thecinemainthepowerstation.com/film/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_62a16d0c9c1043a1849bd3bc1c12a5c7-occ_f91102e4e8d84c5ca56486b0361
@@ -30225,21 +31056,6 @@ LOCATION:Forest Walthamstow | Screen 3\, The Forest Cinema\, 267 High Str
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28168/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_be4ebd0f3b4f4afdb76f39b6b0a79fb3-occ_7186e569da344c0e9bb2627247f
- 1cf29@thingstodoinyourcity
-DTSTAMP:20261103T140122Z
-DTSTART:20261106T140000Z
-DTEND:20261106T183000Z
-SUMMARY:Explore 50: celebrating 50 years of inspiring exploration
-DESCRIPTION:Visit the Foyle Reading Room to see Collections objects\, map
- s and journals chosen for Explore 50. A Lowther Lodge tour and afternoon
-  tea are also on offer.\nPrice: Non-member £0.00\, Member £0.00\nhttps
- ://www.rgs.org/events/upcoming-events/explore-50-celebration
-LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
- on\, SW7 2AR\, London and online\, London
-URL:https://www.rgs.org/events/upcoming-events/explore-50-celebration
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8a2dab3deb444c60bd0a4284c9d5825a-occ_fa8a19213e7a438d8cdaedb2002
  c5327@thingstodoinyourcity
 DTSTAMP:20261102T110307Z
@@ -30794,136 +31610,6 @@ URL:https://www.japanhouselondon.uk/whats-on/grand-sumo-highlights-at-jap
  an-house-london-november-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_4d9b47d103e34fd0b9c6d7a4c56
- f867f@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261106T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_a0d4fe976a3f4332a8ca05db2cc
- 72043@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261107T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_ce1fce1ea5a142aabcab885d213
- f613f@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261113T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_b7295f4623ae43aa89f1b5226c1
- 77a23@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261114T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_a97500fe3b494facab7832201ac
- 5c50a@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261120T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_9b3637548a5f4d28810a5294c46
- f3e11@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261121T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_33ee14b5c61e4eeab58cf2c9205
- 9e942@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261127T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_1fbd481ef8eb49b7908d79bdfeb
- 7b8da@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261128T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_8625c0692f2542bc8f34af58a1b
- 6643d@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261204T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_bcf0f40fc0d64e528bd6c2342fd
- 2da73@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261211T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_8b5acc817aee4a27835783f5a8d
- 20649@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261212T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_33ac6a1bf610414f958f5b21493
- e7f58@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261218T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21530bfd46814419b8ad09812a99e29f-occ_7400658749fd411485ed2c7a554
- d2a5a@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
-DTSTART:20261219T170000Z
-SUMMARY:Vauxhall Comedy
-DESCRIPTION:https://www.londontheatres.com/event/vauxhall-comedy
-LOCATION:The Garden Vauxhall\, London
-URL:https://www.londontheatres.com/event/vauxhall-comedy
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_10dcebb58c754aaa9076dd833ee0ed01-occ_620d45a59163438db5485f11569
  db759@thingstodoinyourcity
 DTSTAMP:20261105T095010Z
@@ -31294,22 +31980,6 @@ LOCATION:ICA\, London
 URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6d055b5397a0438cb8ab35aaa94cbb27-occ_814bcc575f544dbea9699ea1da0
- 19218@thingstodoinyourcity
-DTSTAMP:20261103T135821Z
-DTSTART:20261106T183000Z
-DTEND:20261106T194500Z
-SUMMARY:Explore 50: five decades of discovery
-DESCRIPTION:Five speakers\, one for each decade since 1976\, share field 
- stories on expeditionary fieldwork's challenges and evolving purpose. Pa
- ul Rose hosts the evening.\nPrice: £5.00 - £12.00\nhttps://www.rgs.org
- /events/upcoming-events/explore-50-five-decades-of-discovery
-LOCATION:Ondaatje Theatre at Royal Geographical Society (with IBG)\, 1 Ke
- nsington Gore\, London\, SW7 2AR\, London and online\, London
-URL:https://www.rgs.org/events/upcoming-events/explore-50-five-decades-of
- -discovery
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1ad32bae0e444e1290919e9bda24e75e-occ_111b18c589a64dc08c64c4102b1
  b0dfc@thingstodoinyourcity
 DTSTAMP:20261031T225540Z
@@ -31338,6 +32008,77 @@ DESCRIPTION:Opening night screening of La Bola Negra\, followed by a Q&A
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018958/foyles-pre
  sents-la-bola-negra-panel-discussion?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c2179ac12cf343a98af9d9c1e893401a-occ_f108338de1474de5a98cda70c19
+ ecf45@thingstodoinyourcity
+DTSTAMP:20261106T032050Z
+DTSTART:20261106T183000Z
+SUMMARY:Friday Night Comedy At Big Belly Comedy Club - Southbank 7pm
+DESCRIPTION:A show at our NEW Big Belly Bar on the Southbank. The same in
+ credible comedians\, including stars from off the telly\, and the same B
+ ig Belly laughs.\nhttps://www.londontheatres.com/event/friday-night-come
+ dy-at-big-belly-comedy-club-_-southbank-7pm
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-7pm
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c2179ac12cf343a98af9d9c1e893401a-occ_227d83fbdc6746fab06d136bb24
+ f67a3@thingstodoinyourcity
+DTSTAMP:20261106T032050Z
+DTSTART:20261106T190000Z
+DTEND;VALUE=DATE:20261127
+SUMMARY:Friday Night Comedy At Big Belly Comedy Club - Southbank 7pm
+DESCRIPTION:A show at our NEW Big Belly Bar on the Southbank. The same in
+ credible comedians\, including stars from off the telly\, and the same B
+ ig Belly laughs.\nhttps://www.londontheatres.com/event/friday-night-come
+ dy-at-big-belly-comedy-club-_-southbank-7pm
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-7pm
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c2179ac12cf343a98af9d9c1e893401a-occ_965fed89dd0a4c38adaf8c13a44
+ 48c21@thingstodoinyourcity
+DTSTAMP:20261106T032050Z
+DTSTART:20261113T183000Z
+SUMMARY:Friday Night Comedy At Big Belly Comedy Club - Southbank 7pm
+DESCRIPTION:A show at our NEW Big Belly Bar on the Southbank. The same in
+ credible comedians\, including stars from off the telly\, and the same B
+ ig Belly laughs.\nhttps://www.londontheatres.com/event/friday-night-come
+ dy-at-big-belly-comedy-club-_-southbank-7pm
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-7pm
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c2179ac12cf343a98af9d9c1e893401a-occ_cce9fdec9aa64e929eb70795ebe
+ 644a5@thingstodoinyourcity
+DTSTAMP:20261106T032050Z
+DTSTART:20261120T183000Z
+SUMMARY:Friday Night Comedy At Big Belly Comedy Club - Southbank 7pm
+DESCRIPTION:A show at our NEW Big Belly Bar on the Southbank. The same in
+ credible comedians\, including stars from off the telly\, and the same B
+ ig Belly laughs.\nhttps://www.londontheatres.com/event/friday-night-come
+ dy-at-big-belly-comedy-club-_-southbank-7pm
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-7pm
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c2179ac12cf343a98af9d9c1e893401a-occ_9ec01719ec8d4d22bdd82b36fef
+ 084fe@thingstodoinyourcity
+DTSTAMP:20261106T032050Z
+DTSTART:20261127T183000Z
+SUMMARY:Friday Night Comedy At Big Belly Comedy Club - Southbank 7pm
+DESCRIPTION:A show at our NEW Big Belly Bar on the Southbank. The same in
+ credible comedians\, including stars from off the telly\, and the same B
+ ig Belly laughs.\nhttps://www.londontheatres.com/event/friday-night-come
+ dy-at-big-belly-comedy-club-_-southbank-7pm
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
+ -comedy-club-_-southbank-7pm
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_30a38d0083614bc691cbc9ea4f69e452-occ_ae871aed700a4002b1307ae8cd8
@@ -31601,6 +32342,148 @@ LOCATION:Piccadilly\, London
 URL:https://www.sohocomedyfactory.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c0ec30e842254889bbf2b45bd0d1c189-occ_ed87ad685a4c46f2a0288adfeae
+ 8904e@thingstodoinyourcity
+DTSTAMP:20261106T031901Z
+DTSTART:20261106T190000Z
+SUMMARY:Friday Comedy with Paul F Taylor & Friends
+DESCRIPTION:Silly and surreal Paul F Taylor headlines alongside five hand
+ -picked comedians. Card payments only\; ticket holders should arrive bef
+ ore 7.45pm to be seated.\nPrice: Tickets can be reserved online for ?12 
+ (plus ticket agent fee) until 7pm on the day of the show. Door price tic
+ kets are ?15.\nhttps://www.londontheatres.com/event/friday-comedy-with-p
+ aul-f-taylor-&-friends
+LOCATION:The Poodle Club\, London
+URL:https://www.londontheatres.com/event/friday-comedy-with-paul-f-taylor
+ -&-friends
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f1fc3b02ce2e4a608ae5f59f3d53c156-occ_95156eaf5d8549c18b0f79e5c16
+ 33355@thingstodoinyourcity
+DTSTAMP:20261106T033030Z
+DTSTART:20261106T190000Z
+DTEND;VALUE=DATE:20271126
+SUMMARY:Friday Night Comedy 7PM Covent Garden
+DESCRIPTION:Stand-up comedy with a host and professional comedians in Cov
+ ent Garden. Rated 4.9/5 from 4\,500+ Google reviews.\nhttps://www.london
+ theatres.com/event/friday-night-comedy-7pm-covent-garden
+LOCATION:Jk Comedy Club Covent Garden\, Covent Garden\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-covent-g
+ arden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_114a577dbf2e430e927a44c72e2
+ 43da1@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261106T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_3732d709c9ee4e0e89eca939e97
+ 46e62@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261113T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_874d31c1bcd84e65b6887afbc46
+ 2872f@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261120T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_fd564a19007b45e5849738c59ae
+ 16916@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261127T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_29eacc1de4584db5ab17763570f
+ 6c94c@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261204T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_a0ccc978039545d3b35d944cb52
+ 7a2a4@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261211T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_3c9ea77b270348499e50b5c070c
+ f63ca@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261218T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_447497979a214f07a15698252d5da774-occ_0a4fb737dded456c9087c300f9d
+ f0704@thingstodoinyourcity
+DTSTAMP:20261106T032230Z
+DTSTART:20261225T190000Z
+SUMMARY:Friday Night Comedy 7PM Leicester Square
+DESCRIPTION:Stand-up comedy in central London featuring exceptional comed
+ ians. Prices are described as affordable\, with tickets available throug
+ h the Buy links for each listed date.\nhttps://www.londontheatres.com/ev
+ ent/friday-night-comedy-7pm-leicester-square
+LOCATION:Jk Comedy Club Leicester Square\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
+ r-square
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8f833e020c454a75a4879fb654aafa00-occ_cdff415eb0dc43e790090a810ba
  a1790@thingstodoinyourcity
 DTSTAMP:20261104T210337Z
@@ -31614,6 +32497,86 @@ LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
   Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
  ondon
 URL:https://bigbellycomedy.club/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_0a0dc8cdce2e407f9ec6334fb8c
+ a44af@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261106T190000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_f3152bfcd85c4e5fa5849874fbe
+ 069ac@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261106T213000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_004f6455cf584564bb9e33329b4
+ 1f0e9@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261113T190000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_73dd2962199f43e9b94b7440ef4
+ 6616c@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261113T213000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_8589cf9d8c8842e1ba05d613cf9
+ 3e093@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261120T190000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_0907fdaed7464a889d700bd020d
+ 47423@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261120T213000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_55a17d8667fe4b079d7d330528d
+ b9413@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261127T190000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_7823baaf3015466ca1689dda93a
+ 8393c@thingstodoinyourcity
+DTSTAMP:20261106T033618Z
+DTSTART:20261127T213000Z
+SUMMARY:Friday Night Comedy Show
+DESCRIPTION:https://www.londontheatres.com/event/friday-night-comedy-show
+LOCATION:Big Belly Comedy - Southbank\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-show
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_41db04bdb1104bcea8296400ccc67632-occ_d9f59ca3ba11488a98085507c12
@@ -31800,104 +32763,6 @@ URL:https://clusterflick.com/movies/20c4a3af/the-films-of-annette-kennerl
  ey/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_dfbc7703c04a43f09de15a5ce5c
- b5497@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261106T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_a0d575de5267429cb59999999ca
- d10cd@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261113T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_58dad073a7144ebfbfbcd6b9442
- b70ba@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261120T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_fabf7530f3e2465eb42cfed2fa3
- e51fc@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261127T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_ef544e74e0584742b3a6f66a6f0
- 6232c@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261204T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_dcf3432fa6434eaf849c9ad8894
- d0e94@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261211T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_e5dcda4d5a384701bf6912fae2c0bd0d-occ_7c866507d9dd4f0f839ff2c825b
- beea4@thingstodoinyourcity
-DTSTAMP:20261030T220432Z
-DTSTART:20261218T190000Z
-SUMMARY:Up The Creek Comedy Club - The Friday Night Show
-DESCRIPTION:Top circuit comedians\, Detroit-style pizza and bar drinks ar
- e part of the night out. An after party runs until 2am after the comedy.
- \nhttps://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-fr
- iday-night-show
-LOCATION:Up The Creek\, London
-URL:https://www.londontheatres.com/event/up-the-creek-comedy-club-_-the-f
- riday-night-show
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_eef08161b4a0407494cecb40d7aed870-occ_53599ef86886453a8fcc1e57748
  64825@thingstodoinyourcity
 DTSTAMP:20261103T023249Z
@@ -31976,6 +32841,20 @@ DESCRIPTION:An expert guide leads an evening ghost walk through royal par
 LOCATION:Constance Fund fountain of Diana\, London SW1A 1RN\, United King
  dom\, London
 URL:https://feverup.com/m/600614
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4fbe4bf973f04c74bece63fe42995805-occ_07fa7ee386534fb6b2aa783629a
+ ac4fd@thingstodoinyourcity
+DTSTAMP:20261106T033429Z
+DTSTART:20261106T191500Z
+DTEND;VALUE=DATE:20261107
+SUMMARY:Ginger Johnson: Show Pony
+DESCRIPTION:She returns with new live show Show Pony\, promising high cam
+ p\, low morals and whip-smart comedy. It follows her 2024 tour 'Ginger J
+ ohnson Blows Off!' and draws strong reviews.\nhttps://www.londontheatres
+ .com/event/ginger-johnson
+LOCATION:Soho Theatre\, London
+URL:https://www.londontheatres.com/event/ginger-johnson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c9c27ace45ec4b0d8bbbbc1eda9ca555-occ_3d8c9c2d148141f2bdbb4b1355d
@@ -32397,104 +33276,6 @@ URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
  n-6-november-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_0b527ada24fa4767b73f2e6d7b9
- 7fa98@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261106T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_f7bc9d9da8954e98b1b5242ee6f
- 11f78@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261113T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_a569b1926c7a4385be1b1fe90a2
- b463d@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261120T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_c9bda32a98934aab910d6ea81dd
- 2a004@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261127T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_d3835b582c94496289159b86e0a
- af1ff@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261204T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_d7884063b0554edfa0e22960842
- e930b@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261211T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b9f6d85525b34bfca02f6ea3b68a2683-occ_74b20302fccf45c4b660b9e078c
- bfd38@thingstodoinyourcity
-DTSTAMP:20261030T215457Z
-DTSTART:20261218T193000Z
-SUMMARY:Friday Night at Backyard Comedy Club
-DESCRIPTION:Billed as one of the best comedy nights in London\, held on F
- ridays at Backyard Comedy Club. Each listed performance starts at 19:30.
- \nhttps://www.londontheatres.com/event/friday-night-at-backyard-comedy-c
- lub
-LOCATION:Backyard Comedy Club\, London
-URL:https://www.londontheatres.com/event/friday-night-at-backyard-comedy-
- club
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_53343d7fddb24d209a40597f49050345-occ_6c355f3666dd4eccbecb7a8feaa
  aa802@thingstodoinyourcity
 DTSTAMP:20261031T214444Z
@@ -32681,6 +33462,45 @@ URL:https://www.universe.com/events/the-best-in-stand-up-friday-6th-novem
  ber-tickets-1NGVW2
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8dcd5662121a4b99a2c7c5a4fd904d85-occ_3307355e90ea4f9e80317c744e7
+ 82438@thingstodoinyourcity
+DTSTAMP:20261106T035056Z
+DTSTART:20261106T193000Z
+SUMMARY:The Nutcracker
+DESCRIPTION:Tchaikovsky's classic ballet follows Clara\, whose wooden Nut
+ cracker doll comes to life at midnight. A journey through a blizzard lea
+ ds to the Kingdom of Sweets.\nPrice: £15.00\nhttps://questors.org.uk/ev
+ ent/the-nutcracker/
+LOCATION:Playhouse\, London
+URL:https://questors.org.uk/event/the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8dcd5662121a4b99a2c7c5a4fd904d85-occ_7a10f110901c4c8596d3a91be82
+ 6fdab@thingstodoinyourcity
+DTSTAMP:20261106T035056Z
+DTSTART:20261107T140000Z
+SUMMARY:The Nutcracker
+DESCRIPTION:Tchaikovsky's classic ballet follows Clara\, whose wooden Nut
+ cracker doll comes to life at midnight. A journey through a blizzard lea
+ ds to the Kingdom of Sweets.\nPrice: £15.00\nhttps://questors.org.uk/ev
+ ent/the-nutcracker/
+LOCATION:Playhouse\, London
+URL:https://questors.org.uk/event/the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8dcd5662121a4b99a2c7c5a4fd904d85-occ_d8ee71922da047b08a2748d3c63
+ b8484@thingstodoinyourcity
+DTSTAMP:20261106T035056Z
+DTSTART:20261107T190000Z
+SUMMARY:The Nutcracker
+DESCRIPTION:Tchaikovsky's classic ballet follows Clara\, whose wooden Nut
+ cracker doll comes to life at midnight. A journey through a blizzard lea
+ ds to the Kingdom of Sweets.\nPrice: £15.00\nhttps://questors.org.uk/ev
+ ent/the-nutcracker/
+LOCATION:Playhouse\, London
+URL:https://questors.org.uk/event/the-nutcracker/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b08f3e9ae4f0414fa29c5cb98baed4e6-occ_203c19060e4c4f17b23904effac
  8ab66@thingstodoinyourcity
 DTSTAMP:20261105T124810Z
@@ -32765,6 +33585,58 @@ LOCATION:Totteridge Millhillians Cicket Club\, London
 URL:https://www.wherecanwego.com/whats-on/clerkenwell
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ae6b24ddff6b49efb9f58bb07e1186b6-occ_0e91d93d14894356911800da10d
+ dc521@thingstodoinyourcity
+DTSTAMP:20261106T033228Z
+DTSTART:20261106T200000Z
+SUMMARY:CNN Karaoke
+DESCRIPTION:Walthamstow's most popular karaoke night\, pitched as a Brita
+ in's Got Talent-style showcase for all the applause you can carry. Ticke
+ ts don't guarantee a song\, so arrive early.\nPrice: Members: ?2 Non Mem
+ bers: ?5\nhttps://www.londontheatres.com/event/cnn-karaoke
+LOCATION:London Walthamstow Trades Hall\, London
+URL:https://www.londontheatres.com/event/cnn-karaoke
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ae6b24ddff6b49efb9f58bb07e1186b6-occ_8407cadbc6ae40b0a8f8d0faa7e
+ 4162b@thingstodoinyourcity
+DTSTAMP:20261106T033228Z
+DTSTART:20261120T200000Z
+SUMMARY:CNN Karaoke
+DESCRIPTION:Walthamstow's most popular karaoke night\, pitched as a Brita
+ in's Got Talent-style showcase for all the applause you can carry. Ticke
+ ts don't guarantee a song\, so arrive early.\nPrice: Members: ?2 Non Mem
+ bers: ?5\nhttps://www.londontheatres.com/event/cnn-karaoke
+LOCATION:London Walthamstow Trades Hall\, London
+URL:https://www.londontheatres.com/event/cnn-karaoke
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ae6b24ddff6b49efb9f58bb07e1186b6-occ_837081035cf4439c8a3c066bdb9
+ a2e1b@thingstodoinyourcity
+DTSTAMP:20261106T033228Z
+DTSTART:20261204T200000Z
+SUMMARY:CNN Karaoke
+DESCRIPTION:Walthamstow's most popular karaoke night\, pitched as a Brita
+ in's Got Talent-style showcase for all the applause you can carry. Ticke
+ ts don't guarantee a song\, so arrive early.\nPrice: Members: ?2 Non Mem
+ bers: ?5\nhttps://www.londontheatres.com/event/cnn-karaoke
+LOCATION:London Walthamstow Trades Hall\, London
+URL:https://www.londontheatres.com/event/cnn-karaoke
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ae6b24ddff6b49efb9f58bb07e1186b6-occ_a01cb3601c9943fcbd6e3e5f363
+ 51a4b@thingstodoinyourcity
+DTSTAMP:20261106T033228Z
+DTSTART:20261218T200000Z
+SUMMARY:CNN Karaoke
+DESCRIPTION:Walthamstow's most popular karaoke night\, pitched as a Brita
+ in's Got Talent-style showcase for all the applause you can carry. Ticke
+ ts don't guarantee a song\, so arrive early.\nPrice: Members: ?2 Non Mem
+ bers: ?5\nhttps://www.londontheatres.com/event/cnn-karaoke
+LOCATION:London Walthamstow Trades Hall\, London
+URL:https://www.londontheatres.com/event/cnn-karaoke
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_fb8b6d8aec0c4185ac14b3739c46eef9-occ_a7fa5fc0d92a4d82865c5f1b94d
  c9940@thingstodoinyourcity
 DTSTAMP:20261105T070714Z
@@ -32792,19 +33664,17 @@ URL:https://www.eventbrite.co.uk/e/everton-vs-coventry-premier-league-liv
  e-screening-tickets-2004201892813
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8727ba3954a942d187429c1de95b10b9-occ_dd748e13f9b744cd83d93e7adf9
- daa39@thingstodoinyourcity
-DTSTAMP:20261104T153708Z
+UID:cand_8d150f0cff034073a95b6039a26ecb9e-occ_4bf51310a6394acea9a1f26006c
+ 0a9b7@thingstodoinyourcity
+DTSTAMP:20261106T032855Z
 DTSTART:20261106T200000Z
-DTEND:20261106T220000Z
-SUMMARY:Explore 50 dinner
-DESCRIPTION:Members of the Explore community gather for an anniversary di
- nner to celebrate shared achievements and discuss the future of explorat
- ion. The dinner is now fully booked.\nPrice: Non-member £75.00\, Member
-  £75.00\nhttps://www.rgs.org/events/upcoming-events/explore-50-dinner
-LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
- on\, SW7 2AR\, London
-URL:https://www.rgs.org/events/upcoming-events/explore-50-dinner
+DTEND;VALUE=DATE:20261225
+SUMMARY:FRI 8:00PM: (Includes free drink)
+DESCRIPTION:https://www.londontheatres.com/event/fri-8:00pm:-(includes-fr
+ ee-drink)
+LOCATION:City Comedy Club | Trapeze Bar\, London
+URL:https://www.londontheatres.com/event/fri-8:00pm:-(includes-free-drink
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8a741587111f441793d72b8df95f202d-occ_b74b2b22fedf4bb8b3bfc22b99e
@@ -32821,6 +33691,20 @@ UID:cand_4c0f1e4c55234e07ae3c940c38924660-occ_400699d6c4c54c4e993a951c73a
  bfb21@thingstodoinyourcity
 DTSTAMP:20261030T222947Z
 DTSTART:20261106T200000Z
+SUMMARY:Friday Night Comedy 8PM Covent Garden
+DESCRIPTION:Stand-up night with one host and six comedians\, rated 4.9/5 
+ from 3\,400+ Google reviews. Suited to adults aged 18 and over.\nhttps:/
+ /www.londontheatres.com/event/friday-night-comedy-8pm-covent-garden
+LOCATION:Arboretum\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-8pm-covent-g
+ arden
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4c0f1e4c55234e07ae3c940c38924660-occ_599070c9880b4af095e8c17bbd9
+ 326d9@thingstodoinyourcity
+DTSTAMP:20261030T222947Z
+DTSTART:20261106T200000Z
+DTEND;VALUE=DATE:20261225
 SUMMARY:Friday Night Comedy 8PM Covent Garden
 DESCRIPTION:Stand-up night with one host and six comedians\, rated 4.9/5 
  from 3\,400+ Google reviews. Suited to adults aged 18 and over.\nhttps:/
@@ -32925,6 +33809,20 @@ UID:cand_71c057b43d534cb08382386ce6176787-occ_3fb1c332ed0f4afa8443f957302
  ab8b3@thingstodoinyourcity
 DTSTAMP:20261030T215858Z
 DTSTART:20261106T200000Z
+SUMMARY:Friday Night Comedy 8PM Piccadilly Circus
+DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
+  The source describes its prices as affordable.\nhttps://www.londontheat
+ res.com/event/friday-night-comedy-8pm-piccadilly-circus
+LOCATION:Jk Comedy Club Piccadilly Circus\, London
+URL:https://www.londontheatres.com/event/friday-night-comedy-8pm-piccadil
+ ly-circus
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_71c057b43d534cb08382386ce6176787-occ_c50de4d1de8d4aefa08ca485f32
+ fa99b@thingstodoinyourcity
+DTSTAMP:20261030T215858Z
+DTSTART:20261106T200000Z
+DTEND;VALUE=DATE:20261120
 SUMMARY:Friday Night Comedy 8PM Piccadilly Circus
 DESCRIPTION:Stand-up comedy in central London with exceptional comedians.
   The source describes its prices as affordable.\nhttps://www.londontheat
@@ -33103,6 +34001,19 @@ LOCATION:Forest Walthamstow\, Screen 3\, 267 High Street\, Walthamstow\,
 URL:https://forestwalthamstow.admit-one.co.uk/seats/26983/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_597599840323429b8b0996c49bb1826d-occ_8580a177150544f7af5f254d37f
+ c6541@thingstodoinyourcity
+DTSTAMP:20261106T032500Z
+DTSTART:20261106T200000Z
+SUMMARY:Good Ship Comedy feat. Ed Gamble
+DESCRIPTION:Good Ship Comedy is a friendly neighbourhood comedy club feat
+ uring top comics from the UK and international festival circuit. Ed Gamb
+ le is the featured act on this London night.\nhttps://www.londontheatres
+ .com/event/good-ship-comedy-feat.-ed-gamble
+LOCATION:Brockwell Hall\, London
+URL:https://www.londontheatres.com/event/good-ship-comedy-feat.-ed-gamble
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_066885a0f1724c3abb20c6f94bcf2227-occ_d31829bdccba47e4b864ec8dad9
  ade9b@thingstodoinyourcity
 DTSTAMP:20261104T181513Z
@@ -33142,6 +34053,19 @@ DESCRIPTION:A darkly comic\, absurdist anti-war play\, with a 'Dad's Army
 LOCATION:Chelsea Theatre\, 7\, World’s End Place\, Chelsea\, London SW1
  0 0DR\, Chelsea\, London
 URL:https://chelseatheatre.org.uk/picnic-on-a-battlefield
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_67f5fd7546b24f7f8ac59db82bac3472-occ_5d5017eb8c6149dba6d7268f8d4
+ ff9b6@thingstodoinyourcity
+DTSTAMP:20261106T033030Z
+DTSTART:20261106T200000Z
+SUMMARY:Terry Alderton at House of Stand Up
+DESCRIPTION:House of Stand Up presents its own brand of live comedy each 
+ month. This date is part of Terry Alderton's on-tour run.\nhttps://www.l
+ ondontheatres.com/event/terry-alderton-at-house-of-stand-up
+LOCATION:Soper Hall (Main Hall)\, Croydon\, London
+URL:https://www.londontheatres.com/event/terry-alderton-at-house-of-stand
+ -up
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d023954a4b47418e9e5bdaafb43efec1-occ_46e3df4dcd654c7c8ee30529e3b
@@ -33212,23 +34136,6 @@ DESCRIPTION:Price: from £10.00\nhttps://www.thefreeassociation.co.uk/imp
  rov-comedy-shows/whats-on
 LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ddc252c2c17145d38f825b73da2b23e1-occ_f938de34bde4443787bb7c4aae5
- 9f87b@thingstodoinyourcity
-DTSTAMP:20261031T230712Z
-DTSTART:20261106T203000Z
-DTEND:20261106T223000Z
-SUMMARY:Friday Comedy Club London | Covent Garden
-DESCRIPTION:Award-winning international stand-up comedians perform here\,
-  with happy hour and a late bar. Artists listed are Sara Barron\, Matt B
- rigg\, Travis Jay and Phil Dinsdale.\nPrice: £12\nhttps://opencomedy.co
- m/uk/gigs/london/comedy-carnival-covent-garden/friday-comedy-club-london
- -covent-garden-november-2026-06th-nov/19091
-LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
- H 9LA\, London
-URL:https://opencomedy.com/uk/gigs/london/comedy-carnival-covent-garden/f
- riday-comedy-club-london-covent-garden-november-2026-06th-nov/19091
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b731659de03a4b88894541ee95387c99-occ_dab06e22d60a487fa937a3e7f3f
@@ -33417,98 +34324,82 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_45c57a0428724ebd80059865844
  1867d@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261106T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_f9ef64e34f284af4a72978e7afe
  207d5@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261113T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_3616c2399afc4fcbb05c8bbd664
  b1e68@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261120T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_2cc08ee723e34e5d9ee98aac9b4
  9ab23@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261127T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_bc05901339c047a5be4e7c5f83e
  b96e0@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261204T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_55039393b237412d85f39a9901a
  767d0@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261211T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_a510838fd13242b29228718064d
  d7ac2@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261218T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3889e1ff41664cfe9407179817a53c41-occ_19810ce0b84041b984ec1c12580
  ee899@thingstodoinyourcity
-DTSTAMP:20261030T222155Z
+DTSTAMP:20261106T033733Z
 DTSTART:20261225T220000Z
 SUMMARY:FRI 10:00PM: (Includes free drink)
-DESCRIPTION:https://www.londontheatres.com/event/fri-10:00pm:-(includes-f
- ree-drink)
+DESCRIPTION:https://www.londontheatres.com/events/comedy
 LOCATION:City Comedy Club | Trapeze Bar\, London
-URL:https://www.londontheatres.com/event/fri-10:00pm:-(includes-free-drin
- k)
+URL:https://www.londontheatres.com/events/comedy
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_18fc954accc04f169fa6c2c4f7822def-occ_9976b0cf3e694df58163dc59c57
@@ -34847,17 +35738,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b08c06174a54e31a36c82565d67fcb4-occ_59cb456422da447db8388327cc6
  cd3b8@thingstodoinyourcity
-DTSTAMP:20261103T141321Z
+DTSTAMP:20261106T050513Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261220
 SUMMARY:Gladiators Live
-DESCRIPTION:The arena spectacle returns in 2026 as a two-hour live adapta
- tion of the BBC television show. Expect head-to-head battles\, stunts an
- d the Eliminator finale.\nhttps://www.whatsonstage.com/shows/london-thea
- tre/gladiators-live_1717057/
+DESCRIPTION:The live tour returns to UK arenas in 2026 with head-to-head 
+ battles\, stunts and the Eliminator finale. Stars from the BBC series br
+ ing an immersive\, high-octane spectacle.\nhttps://www.whatsonstage.com/
 LOCATION:OVO Arena Wembley\, London
-URL:https://www.whatsonstage.com/shows/london-theatre/gladiators-live_171
- 7057/
+URL:https://www.whatsonstage.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2355dd2ae05d47749c8fdede9193aeff-occ_86dc4aacd49a4620864ee5b1e5e
@@ -36572,17 +37461,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a5924065140d4c5f805a88c2bf46e4cf-occ_c7d3d9c7661a4ac4afc029eaa3f
  0642a@thingstodoinyourcity
-DTSTAMP:20261104T163443Z
+DTSTAMP:20261106T051801Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Shaun the Sheep: The Beast of Mossy Bottom
-DESCRIPTION:On Halloween Eve the clumsy Farmer ruins the pumpkin patch\, 
- and Shaun's science fix goes wrong when a wild beast appears. Peter Brad
- shaw calls it sharp\, smart and funny.\nhttps://www.thecinemainthepowers
- tation.com/film/shaun-the-sheep-the-beast-of-mossy-bottom
+DESCRIPTION:Shaun's attempt to fix the ruined pumpkin patch with science 
+ experiments goes wrong when a wild beast appears. Peter Bradshaw calls i
+ t sharp\, smart and funny.\nhttps://www.thecinemainthepowerstation.com/w
+ hats-on
 LOCATION:The Cinema in The Power Station\, London
-URL:https://www.thecinemainthepowerstation.com/film/shaun-the-sheep-the-b
- east-of-mossy-bottom
+URL:https://www.thecinemainthepowerstation.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fc36db82ecdd4464841fb44d2f3fb9eb-occ_31f9d83b9fad42b191a803486f7
@@ -39906,6 +40794,19 @@ LOCATION:The Lexi Cinema\, 194b Chamberlayne Rd\, London NW10 3JU\, Londo
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10229646
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f8d4853abf704a6089dd77a3fc23a376-occ_4177daf40dd44f2f94f6c9c296d
+ b1ee0@thingstodoinyourcity
+DTSTAMP:20261106T043748Z
+DTSTART:20261107T124500Z
+SUMMARY:Naza
+DESCRIPTION:Shot at night on Tel Aviv rooftops\, it details the systems b
+ ehind Israel's mass killing in Gaza. Yuval Abraham and Rachel Szor are c
+ redited on this 80-minute film.\nhttps://www.thegardencinema.co.uk/film/
+ naza/
+LOCATION:The Garden Cinema\, 39-41 Parker Street London WC2B 5PQ\, London
+URL:https://www.thegardencinema.co.uk/film/naza/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0d713a66fc354abd839e7c9187f76ae1-occ_5ff20c0c7ba24f4dbe99603305e
  2720c@thingstodoinyourcity
 DTSTAMP:20261103T180749Z
@@ -40022,6 +40923,33 @@ DESCRIPTION:Make wooden artworks and objects from offcuts in this free dr
 LOCATION:V&A South Kensington\, Cromwell Road\, London\, SW7 2RL\, London
 URL:https://www.vam.ac.uk/event/q4rg0kGxO3/making-workshop-afternoon-drop
  -in-apr-nov-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b43cf0478f8c44d190316798545c3adc-occ_a48ec8cbb88d41a3b5aa6f2e7e1
+ 96748@thingstodoinyourcity
+DTSTAMP:20261106T052038Z
+DTSTART:20261107T133000Z
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wildwood
+DESCRIPTION:Prue and classmate Curtis quest through an enchanted forest t
+ o rescue her baby brother from a murder of crows. Critics call this stop
+ -motion animation a spectacular success.\nhttps://www.thecinemainthepowe
+ rstation.com/film/wildwood
+LOCATION:The Arches\, Arches under Grosvenor Bridge\, London
+URL:https://www.thecinemainthepowerstation.com/film/wildwood
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b43cf0478f8c44d190316798545c3adc-occ_d0297b2c9171442488f865a7583
+ 4fe9f@thingstodoinyourcity
+DTSTAMP:20261106T052038Z
+DTSTART:20261108T170000Z
+SUMMARY:Wildwood
+DESCRIPTION:Prue and classmate Curtis quest through an enchanted forest t
+ o rescue her baby brother from a murder of crows. Critics call this stop
+ -motion animation a spectacular success.\nhttps://www.thecinemainthepowe
+ rstation.com/film/wildwood
+LOCATION:The Arches\, Arches under Grosvenor Bridge\, London
+URL:https://www.thecinemainthepowerstation.com/film/wildwood
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6593621d1ff04a28824cea3d7ac7b5d5-occ_83836fd257be4bf79ce9aba7977
@@ -40918,6 +41846,20 @@ LOCATION:The Walker Ground\, Southgate\, London
 URL:https://londoncheapo.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_590566b620b744c4a1a418bfc447aa38-occ_63f9fa5929f748039e7221b084c
+ ff89f@thingstodoinyourcity
+DTSTAMP:20261106T034740Z
+DTSTART:20261107T171500Z
+DTEND;VALUE=DATE:20261212
+SUMMARY:Improvisation – Comedy & Drama Level 2
+DESCRIPTION:Standalone Level 2 improv course covering longform and shortf
+ orm techniques. Limited to 16 students\, with an optional end-of-course 
+ showcase.\nPrice: £130.00\nhttps://questors.org.uk/event/improv-level-2
+ -nov-dec-26/
+LOCATION:Studio\, London
+URL:https://questors.org.uk/event/improv-level-2-nov-dec-26/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_55607123b34d49a28e6cb81d7063ed44-occ_4d4b1c391500495987c15c587b9
  3b9ab@thingstodoinyourcity
 DTSTAMP:20261105T060247Z
@@ -41801,6 +42743,42 @@ LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f8f7da238bca4a72978a67c26dd352ba-occ_0d494ae904eb4d089863c1acc75
+ 38589@thingstodoinyourcity
+DTSTAMP:20261106T032735Z
+DTSTART:20261107T193000Z
+SUMMARY:Chris McCausland: Waffle
+DESCRIPTION:Chris McCausland heads out on tour with his brand-new stand-u
+ p show\, Waffle. Expect an incredible night of laughter with no serious 
+ bits.\nhttps://www.londontheatres.com/event/chris-mccausland
+LOCATION:Union Chapel\, London
+URL:https://www.londontheatres.com/event/chris-mccausland
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_736695f97e17418ba3ef16e5cfce2d24-occ_86fea51d1431471c90294fad151
+ 16544@thingstodoinyourcity
+DTSTAMP:20261106T033606Z
+DTSTART:20261107T193000Z
+SUMMARY:Emma Doran: Emmaculate
+DESCRIPTION:Irish comedian Emma Doran brings her new stand-up show Emmacu
+ late on tour. Expect razor-sharp observations about a blended family and
+  riotous on-stage antics.\nhttps://www.londontheatres.com/events/comedy
+LOCATION:Soho Theatre Walthamstow\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_736695f97e17418ba3ef16e5cfce2d24-occ_45a32a83e271466bb85037dbe3f
+ d37b8@thingstodoinyourcity
+DTSTAMP:20261106T033606Z
+DTSTART:20261107T200000Z
+SUMMARY:Emma Doran: Emmaculate
+DESCRIPTION:Irish comedian Emma Doran brings her new stand-up show Emmacu
+ late on tour. Expect razor-sharp observations about a blended family and
+  riotous on-stage antics.\nhttps://www.londontheatres.com/events/comedy
+LOCATION:Soho Theatre Walthamstow\, London
+URL:https://www.londontheatres.com/events/comedy
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3cfd184b80b040578c04ac56a7817ba9-occ_fc6e6d6164e14d30932c3a016cc
  a65c7@thingstodoinyourcity
 DTSTAMP:20261105T074352Z
@@ -41829,6 +42807,31 @@ DESCRIPTION:A monthly social for Japanese culture fans\, native speakers
 LOCATION:Cittie of Yorke\, 22 High Holborn\, WC1V 6BN · London\, London
 URL:https://www.meetup.com/japanese-culture-meetup-london/events/31646879
  4/?eventOrigin=city_most_popular_event
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e1a8e61d654842ea9b2ed70f4ac6fa85-occ_9446da83f7194a4daa4d2dc3b59
+ 929b7@thingstodoinyourcity
+DTSTAMP:20261106T032735Z
+DTSTART:20261107T193000Z
+SUMMARY:KAARIJA
+DESCRIPTION:Käärijä became a Eurovision 2023 fan favourite with 'Cha C
+ ha Cha'\, a top global Spotify hit. Known for his bowl cut\, humour and 
+ energetic\, shirtless live shows.\nhttps://www.londontheatres.com/event/
+ kaarija
+LOCATION:Electric Brixton\, London
+URL:https://www.londontheatres.com/event/kaarija
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_295f6edef9424898a252033a55c72f6b-occ_daee82d4450843119343b5409b4
+ 0638b@thingstodoinyourcity
+DTSTAMP:20261106T033233Z
+DTSTART:20261107T193000Z
+SUMMARY:Laura Smyth
+DESCRIPTION:Laura Smyth follows her sold-out 'Living My Best Life' tour w
+ ith truth\, warmth and hilarity. Her tour covers her everyday\, ever-cha
+ nging life.\nhttps://www.londontheatres.com/event/laura-smyth
+LOCATION:Eventim Apollo\, London
+URL:https://www.londontheatres.com/event/laura-smyth
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2101ea6a486b4ecdb4038007726614c2-occ_bcbb6383512e468693b2aec712d
@@ -43736,6 +44739,33 @@ LOCATION:Love Affair Basement\, London
 URL:https://clusterflick.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_71e366330c654f388f7de15be238902c-occ_be98087316e24d718b0b76bc4ac
+ c587e@thingstodoinyourcity
+DTSTAMP:20261106T052654Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261111
+SUMMARY:WICKER
+DESCRIPTION:A fed-up Fisherwoman commissions a husband made from wicker\,
+  sparking outrage and chaos. Starring Olivia Colman\, Elizabeth Debicki 
+ and Peter Dinklage.\nhttps://www.thecinemainthepowerstation.com/film/wic
+ ker
+LOCATION:The Cinema in The Power Station\, London
+URL:https://www.thecinemainthepowerstation.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_71e366330c654f388f7de15be238902c-occ_3fe188af41734672a2d0b683d87
+ 0e93b@thingstodoinyourcity
+DTSTAMP:20261106T052654Z
+DTSTART:20261108T193000Z
+SUMMARY:WICKER
+DESCRIPTION:A fed-up Fisherwoman commissions a husband made from wicker\,
+  sparking outrage and chaos. Starring Olivia Colman\, Elizabeth Debicki 
+ and Peter Dinklage.\nhttps://www.thecinemainthepowerstation.com/film/wic
+ ker
+LOCATION:The Cinema in The Power Station\, London
+URL:https://www.thecinemainthepowerstation.com/film/wicker
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0fb7a63bc5ac441caa5ef3bd1e0b9832-occ_5ca79918a8354c1686e87167f56
  0e046@thingstodoinyourcity
 DTSTAMP:20261102T220625Z
@@ -44420,6 +45450,17 @@ URL:https://thecastlecinema.com/programme/112784/wolfwalkers-trans-awaren
  ess-programme-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c1344f1514cd4abf9829f31d7db3069c-occ_3f55231d7d8f40f4aa0e05e43e5
+ ec9d8@thingstodoinyourcity
+DTSTAMP:20261106T050916Z
+DTSTART:20261108T113000Z
+DTEND:20261108T133000Z
+SUMMARY:School of Icing Notting Hill - CHRISTMAS MARKET
+DESCRIPTION:https://www.foodmarketplace.co.uk/events/city/london
+LOCATION:Biscuiteers\, London
+URL:https://www.foodmarketplace.co.uk/events/city/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_461ad745b44b426f9e7138653ec4f53c-occ_ae7b85663d0a4e4da0fd259981e
  8620c@thingstodoinyourcity
 DTSTAMP:20261101T123702Z
@@ -44853,6 +45894,32 @@ LOCATION:The National Gallery\, Trafalgar Square\, London\, United Kingdo
  m\, London
 URL:https://stayhappening.com/e/image-of-the-black-at-the-national-galler
  y-E118SB42P3FNP
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2fd67b0a93af4a1dbaa3c4ac72821665-occ_aa66401fdf8e4c87af83ffc5e18
+ a0eff@thingstodoinyourcity
+DTSTAMP:20261106T044301Z
+DTSTART:20261108T140000Z
+SUMMARY:Luna’s Got Talent
+DESCRIPTION:All 12 Luna Dance Academy classes perform over two shows\, sh
+ owing new skills and high-energy routines. Expect iconic throwbacks and 
+ feel-good favourites packed with music.\nPrice: £7.50 – £15.00\nhttp
+ s://questors.org.uk/event/lunas-got-talent/
+LOCATION:Playhouse\, London
+URL:https://questors.org.uk/event/lunas-got-talent/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2fd67b0a93af4a1dbaa3c4ac72821665-occ_ffb3673d08ac43dca13811addc8
+ 12496@thingstodoinyourcity
+DTSTAMP:20261106T044301Z
+DTSTART:20261108T190000Z
+SUMMARY:Luna’s Got Talent
+DESCRIPTION:All 12 Luna Dance Academy classes perform over two shows\, sh
+ owing new skills and high-energy routines. Expect iconic throwbacks and 
+ feel-good favourites packed with music.\nPrice: £7.50 – £15.00\nhttp
+ s://questors.org.uk/event/lunas-got-talent/
+LOCATION:Playhouse\, London
+URL:https://questors.org.uk/event/lunas-got-talent/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_13a29acf0d90459da1211b7252b99069-occ_933f3ff12d92489798ddbef718e
@@ -46234,6 +47301,18 @@ DESCRIPTION:Michael Mann's crime classic is shown in its original cut fro
  nted by the LAPD.\nhttps://princecharlescinema.com/film/3182341/heat
 LOCATION:The Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/film/3182341/heat
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_593cbc91b1d641b18760e50712e70d45-occ_b3bb5014b7f44d249009e9f35de
+ 54ae9@thingstodoinyourcity
+DTSTAMP:20261106T034509Z
+DTSTART:20261226T150000Z
+SUMMARY:Spurs vs Bournemouth
+DESCRIPTION:Men's first team fixture listed on the stadium events calenda
+ r. Booking is linked from the event card for this match.\nhttps://www.to
+ ttenhamhotspur.com/tickets/mens-home-tickets
+LOCATION:Tottenham Hotspur Stadium\, London
+URL:https://www.tottenhamhotspur.com/tickets/mens-home-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ab9115d7f5da4e259db37198f53cb30a-occ_31327322a69e43e1bc55e482fd2
