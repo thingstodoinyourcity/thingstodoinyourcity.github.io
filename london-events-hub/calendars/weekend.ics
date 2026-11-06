@@ -8153,17 +8153,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_6c9ce6fcbe284b519a369bfbd6554db1-occ_b639f48ae63f46aba33c0fce0de
  64e0d@thingstodoinyourcity
-DTSTAMP:20261026T114449Z
+DTSTAMP:20261106T205249Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261130
 SUMMARY:Battersea Power Station Land Train
 DESCRIPTION:A gentle journey around the Battersea Power Station estate\, 
  a fun treat for children. Not open every day\, so check the BPS website 
- for details.\nhttps://nineelms.org/events/1406/battersea-power-station-l
- and-train
+ for details.\nhttps://nineelms.org/events
 LOCATION:Battersea Power Station\, Battersea Power Station\, London SW11 
  8BJ\, London
-URL:https://nineelms.org/events/1406/battersea-power-station-land-train
+URL:https://nineelms.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b58c73c2dffc41279902bb92ae0e8353-occ_2d0dee0d78824586aed9700a8cb
@@ -8286,18 +8285,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_860892ce76b74be39e67decaf3537d76-occ_74672ce9bb9b418f99ff83f72ca
  72920@thingstodoinyourcity
-DTSTAMP:20261026T114526Z
+DTSTAMP:20261106T205304Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261219
 SUMMARY:Music lessons for young people\, with World Heart Beat
 DESCRIPTION:Violin\, piano and vocal lessons for 5-25 year olds\, from be
- ginners to advanced\, individually\, jointly or in groups. A bursary off
- ers free music learning for young people in need.\nhttps://nineelms.org/
- events/1405/music-lessons-for-young-people-with-world-heart-beat
+ ginners to advanced. A bursary offers free music learning for young peop
+ le in need.\nhttps://nineelms.org/events
 LOCATION:Embassy Gardens\, Embassy Gardens\, 3 Ponton Rd\, Nine Elms\, Lo
  ndon SW11 7BD\, Nine Elms\, London
-URL:https://nineelms.org/events/1405/music-lessons-for-young-people-with-
- world-heart-beat
+URL:https://nineelms.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9cf104d23c78498abab2e78277f42cbf-occ_789ce4a004be47c6b6d003e9305
@@ -10265,32 +10262,6 @@ LOCATION:Garden Museum\, London
 URL:https://www.gardenmuseum.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8a31ecf9e0bb4dd18b5139457f6e0d7c-occ_17bfe9aed0d34d1c907967085eb
- be682@thingstodoinyourcity
-DTSTAMP:20261105T015723Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261203
-SUMMARY:The Work in Progress seminar
-DESCRIPTION:Fortnightly Thursday lunchtime seminar in term time where Bir
- kbeck Philosophy Research Centre members discuss new work. Details are e
- mailed to members on a mailing list.\nhttps://www.bbk.ac.uk/events
-LOCATION:Birkbeck Central\, London
-URL:https://www.bbk.ac.uk/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2d51e16ebe8349d595c5ecc95e38f340-occ_1ad21c1944284a529d6272993b9
- 24854@thingstodoinyourcity
-DTSTAMP:20261105T015558Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261203
-SUMMARY:Themed Seminar Autumn 2026
-DESCRIPTION:A five-part series exploring what it means for a sentence to 
- be true\, from consciousness and judgement to properties and a picture t
- heory of language. No booking is required.\nhttps://www.bbk.ac.uk/events
-LOCATION:Birkbeck Central\, London
-URL:https://www.bbk.ac.uk/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1122b33f238641d0a1b04f8319242e22-occ_d987e44402094d21a52ad0d0575
  f9da8@thingstodoinyourcity
 DTSTAMP:20261023T012602Z
@@ -10329,19 +10300,6 @@ DESCRIPTION:Twenty-three international artists show recent painting in th
  apelgallery.org/exhibitions/
 LOCATION:Assembly Room\, London
 URL:https://www.whitechapelgallery.org/exhibitions/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_94864c0a31e045659fccf36c47b9014c-occ_872a5984560248b0a071e024fbf
- 76d89@thingstodoinyourcity
-DTSTAMP:20261105T015633Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261203
-SUMMARY:Thursday Evening Research Seminar
-DESCRIPTION:Open to all Birkbeck postgraduate research students. Faculty 
- lead the first paper\, then students present their own research.\nhttps:
- //www.bbk.ac.uk/events
-LOCATION:Birkbeck 43 Gordon Square\, London
-URL:https://www.bbk.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_85e34f2a9f784b84a23ea2cf67daa05d-occ_ed9b1508520448a0910bdab4abf
@@ -10458,6 +10416,20 @@ LOCATION:ASSEMBLY\, Hypha Gallery South Bank\, London
 URL:https://londonforcheap.co.uk/agenda
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8a31ecf9e0bb4dd18b5139457f6e0d7c-occ_17bfe9aed0d34d1c907967085eb
+ be682@thingstodoinyourcity
+DTSTAMP:20261106T211500Z
+DTSTART:20261008T110000Z
+DTEND:20261203T133000Z
+SUMMARY:The Work in Progress seminar
+DESCRIPTION:Birkbeck Philosophy Research Centre members discuss new work 
+ at this fortnightly Thursday lunchtime seminar. Details go to members by
+  email\; contact Keith to join the mailing list.\nhttps://www.bbk.ac.uk/
+ events
+LOCATION:Birkbeck Central\, London
+URL:https://www.bbk.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ea1724bedb6c482cbb5bfcb89ea56435-occ_97560c493af84e4cac1163bc5a5
  cbb23@thingstodoinyourcity
 DTSTAMP:20261106T045119Z
@@ -10471,6 +10443,32 @@ DESCRIPTION:Iconic masks made from repurposed plastic containers address
 LOCATION:October Gallery\, 24 Old Gloucester Street\, Bloomsbury\, WC1N 3
  AL\, London\, Bloomsbury\, London
 URL:https://www.galleriesnow.net/exhibitions/london/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2d51e16ebe8349d595c5ecc95e38f340-occ_1ad21c1944284a529d6272993b9
+ 24854@thingstodoinyourcity
+DTSTAMP:20261106T211533Z
+DTSTART:20261008T140000Z
+DTEND:20261203T170000Z
+SUMMARY:Themed Seminar Autumn 2026
+DESCRIPTION:A five-part series exploring what it means for a sentence to 
+ be true\, from consciousness and judgement to properties and a picture t
+ heory of language. No booking is required.\nhttps://www.bbk.ac.uk/events
+LOCATION:Birkbeck Central\, London
+URL:https://www.bbk.ac.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_94864c0a31e045659fccf36c47b9014c-occ_872a5984560248b0a071e024fbf
+ 76d89@thingstodoinyourcity
+DTSTAMP:20261106T211532Z
+DTSTART:20261008T170000Z
+DTEND:20261203T193000Z
+SUMMARY:Thursday Evening Research Seminar
+DESCRIPTION:Open to all Birkbeck postgraduate research students. Faculty 
+ lead the first paper\, then students present their own research.\nhttps:
+ //www.bbk.ac.uk/events
+LOCATION:Birkbeck 43 Gordon Square\, 43 Gordon Square\, Room BO3\, London
+URL:https://www.bbk.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9af069602ce04efeb8c29d4dc360e2eb-occ_aaa604688eaf449ca3e8a8dc7a5
@@ -13069,6 +13067,18 @@ UID:cand_7637a4e59f8b4fcb924105af9104af8c-occ_f85006e915c14595b6f98669ad3
  2ca71@thingstodoinyourcity
 DTSTAMP:20261103T234906Z
 DTSTART:20261108T100000Z
+SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
+DESCRIPTION:https://concerts.consequence.net/events/larger-than-life-star
+ ring-wallace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+LOCATION:The Lightroom\, 12 Lewis Cubitt Square London N1C 5DY\, London
+URL:https://concerts.consequence.net/events/larger-than-life-starring-wal
+ lace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7637a4e59f8b4fcb924105af9104af8c-occ_7cf46b555f7849a4810383c8e8d
+ aacc5@thingstodoinyourcity
+DTSTAMP:20261103T234906Z
+DTSTART:20261114T100000Z
 SUMMARY:Larger Than Life: Starring Wallace & Gromit\, Shaun & More
 DESCRIPTION:https://concerts.consequence.net/events/larger-than-life-star
  ring-wallace-gromit-shaun-and-more-at-the-lightroom-on-2026-11-04-10-00
@@ -26581,20 +26591,6 @@ URL:https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibition
  s
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_192eb49c8e5e4ab79cca79e5174d7e23-occ_53718e7727b4414fa7b42cdb3a7
- 8ddcf@thingstodoinyourcity
-DTSTAMP:20261105T021632Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261126
-SUMMARY:Salsa Club London | Beginners & Improvers | Social Dancing | Soho
-DESCRIPTION:Thursday salsa nights offer beginner and improver classes\, t
- hen social dancing with no partner needed. Spanish tapas\, paella and dr
- inks are available on site.\nPrice: From GBP 12.62\nhttps://stayhappenin
- g.com/london--workshops
-LOCATION:Jamon Jamon Soho\, Soho\, London
-URL:https://stayhappening.com/london--workshops
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8c59240b52a14767bd7acf3b6087c8fb-occ_6c892484f28f4211b32454f846d
  14d6d@thingstodoinyourcity
 DTSTAMP:20261031T220628Z
@@ -27080,6 +27076,22 @@ LOCATION:SET Social\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_192eb49c8e5e4ab79cca79e5174d7e23-occ_53718e7727b4414fa7b42cdb3a7
+ 8ddcf@thingstodoinyourcity
+DTSTAMP:20261106T213412Z
+DTSTART:20261105T190000Z
+DTEND;VALUE=DATE:20261126
+SUMMARY:Salsa Club London: Beginners & Improvers Classes + Social Dancing
+ \, Soho
+DESCRIPTION:One-hour beginner and improver salsa classes\, then social da
+ ncing\, every Thursday. No partner needed\, and Spanish tapas and drinks
+  are available.\nPrice: From GBP 12.62 Tickets GBP 12.62 to GBP 50.55\nh
+ ttps://stayhappening.com/london--workshops
+LOCATION:Jamon Jamon Soho\, 3 Caxton Walk\, London\, United Kingdom\, Soh
+ o\, London
+URL:https://stayhappening.com/london--workshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bc3284d551634252b65bdd763097b6fb-occ_8ee71ef303294940beccc711c09
  797b3@thingstodoinyourcity
 DTSTAMP:20261104T041036Z
@@ -27562,21 +27574,6 @@ LOCATION:The Spice of Life\, JK Comedy Club Soho\, 6 Moor St\, London\, W
 URL:https://feverup.com/m/169644
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bb3715d36b5148f795209368b7238264-occ_334e6c8b3595442da3058df1ead
- dd0c4@thingstodoinyourcity
-DTSTAMP:20261104T050719Z
-DTSTART:20261106T163000Z
-DTEND:20261106T203000Z
-SUMMARY:Edvoy Universal Education Expo 2026: Thailand
-DESCRIPTION:Meet the SOAS International Office to learn about degree prog
- rammes\, funding opportunities and student life in central London. Regis
- tration is offered through the Register now link.\nPrice: FREE\nhttps://
- www.soas.ac.uk/about/event/edvoy-universal-education-expo-2026-thailand
-LOCATION:BANGKOK\, THAILAND\, Bangkok\, London
-URL:https://www.soas.ac.uk/about/event/edvoy-universal-education-expo-202
- 6-thailand
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7ab61f917b064da384215092f3c3e9e1-occ_33531a21d3484647bd7a926adce
  3661d@thingstodoinyourcity
 DTSTAMP:20261103T010756Z
@@ -27598,21 +27595,6 @@ DESCRIPTION:https://goldsmithscca.art/exhibition/episode-16-katie-shannon
  /
 LOCATION:Goldsmiths CCA\, New Cross\, London
 URL:https://goldsmithscca.art/exhibition/episode-16-katie-shannon/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8727ba3954a942d187429c1de95b10b9-occ_dd748e13f9b744cd83d93e7adf9
- daa39@thingstodoinyourcity
-DTSTAMP:20261106T042515Z
-DTSTART:20261106T200000Z
-DTEND:20261106T220000Z
-SUMMARY:Explore 50 dinner
-DESCRIPTION:Explore community members celebrate shared achievements and d
- iscuss what exploration's future looks like. No tickets are issued\, and
-  the dinner is now fully booked.\nPrice: £75.00 - £75.00\nhttps://www.
- rgs.org/events/upcoming-events
-LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
- on\, SW7 2AR\, LONDON\, London
-URL:https://www.rgs.org/events/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dd0e96fd659a471aac9be227607cdb37-occ_935fec5440a84d2a8360ecfae2c
@@ -27784,45 +27766,11 @@ LOCATION:London
 URL:https://londoncitydirectory.co.uk/london-events-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_518bbf4f73454461bf10bdcb2a863b57-occ_c0e1c108d282400dbb612ce53a2
- 4ae8d@thingstodoinyourcity
-DTSTAMP:20261101T123616Z
-DTSTART:20261106T180000Z
-DTEND:20261106T210000Z
-SUMMARY:Firework Night at The Sherriff Centre
-DESCRIPTION:Activities\, soft play and the yearly firework display make u
- p the evening\, with food and drink available. Everyone attending needs 
- an entry ticket\; soft play is an add-on.\nPrice: Adult Entry: £3.50\; 
- Child ticket: £5\nhttps://www.eventbrite.co.uk/e/firework-night-tickets
- -2002941256215?aff=oddtdtcreator
-LOCATION:The Sherriff Centre\, Sherriff Road London NW6 2AP\, London\, En
- gland\, London
-URL:https://www.eventbrite.co.uk/e/firework-night-tickets-2002941256215?a
- ff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ddc252c2c17145d38f825b73da2b23e1-occ_96aa98fb2efe4fa386f38727cc1
  9d9e5@thingstodoinyourcity
 DTSTAMP:20261031T230712Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270219
-SUMMARY:Friday Comedy Club London | Covent Garden
-DESCRIPTION:Award-winning international stand-up comedians perform here\,
-  with happy hour and a late bar. Artists listed are Sara Barron\, Matt B
- rigg\, Travis Jay and Phil Dinsdale.\nPrice: £12\nhttps://opencomedy.co
- m/uk/gigs/london/comedy-carnival-covent-garden/friday-comedy-club-london
- -covent-garden-november-2026-06th-nov/19091
-LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
- H 9LA\, London
-URL:https://opencomedy.com/uk/gigs/london/comedy-carnival-covent-garden/f
- riday-comedy-club-london-covent-garden-november-2026-06th-nov/19091
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_ddc252c2c17145d38f825b73da2b23e1-occ_f938de34bde4443787bb7c4aae5
- 9f87b@thingstodoinyourcity
-DTSTAMP:20261031T230712Z
-DTSTART:20261106T203000Z
-DTEND:20261106T223000Z
 SUMMARY:Friday Comedy Club London | Covent Garden
 DESCRIPTION:Award-winning international stand-up comedians perform here\,
   with happy hour and a late bar. Artists listed are Sara Barron\, Matt B
@@ -29312,32 +29260,6 @@ LOCATION:Rio Cinema\, London
 URL:https://riocinema.org.uk/Rio.dll/WhatsOn?f=3060668
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
- e5943@thingstodoinyourcity
-DTSTAMP:20261105T023939Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:PRIMETIME
-DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
- ce Oppenheim. Its story follows To Catch a Predator host Chris Hansen as
-  he sets out to make television history.\nhttps://www.olympiccinema.com/
- whats-on
-LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_8300999cc2344bde9007066ddf9
- ff4f2@thingstodoinyourcity
-DTSTAMP:20261105T023939Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:PRIMETIME
-DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
- ce Oppenheim. Its story follows To Catch a Predator host Chris Hansen as
-  he sets out to make television history.\nhttps://www.olympiccinema.com/
- whats-on
-LOCATION:Olympic Studios\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_67e985bb4fb146d8bd99e213053e40c7-occ_0f74999b8a6b470192f8b33f617
  ed15a@thingstodoinyourcity
 DTSTAMP:20261106T052412Z
@@ -29675,22 +29597,6 @@ UID:cand_a8c44f5144d14513aa4f0d8f18e988cd-occ_90b0c2a6a478410ab68e28276d6
 DTSTAMP:20261031T235009Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261218
-SUMMARY:The Friday Night Show
-DESCRIPTION:Friday night comedy from top circuit comedians\, with Detroit
- -style pizza and bar drinks available. Up the Creek says the show is ful
- ly accessible\, with step-free access to the venue and Main Room.\nPrice
- : £14.41 - £56.20\nhttps://www.universe.com/events/the-friday-night-sh
- ow-tickets-FQ26RM
-LOCATION:Up The Creek\, 302 Creek Road\, London\, SE10 9SW\, Great Britai
- n\, London
-URL:https://www.universe.com/events/the-friday-night-show-tickets-FQ26RM
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_a8c44f5144d14513aa4f0d8f18e988cd-occ_a7a3821a02604e93bb93f88fe9d
- f058d@thingstodoinyourcity
-DTSTAMP:20261031T235009Z
-DTSTART:20261106T180000Z
-DTEND:20261106T220000Z
 SUMMARY:The Friday Night Show
 DESCRIPTION:Friday night comedy from top circuit comedians\, with Detroit
  -style pizza and bar drinks available. Up the Creek says the show is ful
@@ -30707,23 +30613,6 @@ DESCRIPTION:Scarlet poppies and memorials will blanket the Abbey's ground
  .westminster-abbey.org/events
 LOCATION:North Green\, London
 URL:https://www.westminster-abbey.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9ace105cea464dacb01f4d519b9a1745-occ_d80937e240ce479ebdb73cf374e
- 8fee8@thingstodoinyourcity
-DTSTAMP:20261031T224550Z
-DTSTART:20261106T100000Z
-DTEND:20261106T220000Z
-SUMMARY:Close Protection World Security Conference 2026
-DESCRIPTION:Networking\, exhibitors\, guest speakers\, workshops and a ch
- arity raffle for security and close protection professionals. A sponsore
- d drinks reception ends the day.\nPrice: From GBP 29.96\nhttps://stayhap
- pening.com/e/close-protection-world-security-conference-2026-E118SAMSX22
- FU
-LOCATION:Victory Services Club\, Victory Services Club\, 63-79 Seymour St
- reet\, London\, United Kingdom\, London
-URL:https://stayhappening.com/e/close-protection-world-security-conferenc
- e-2026-E118SAMSX22FU
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_373c2735b6624c43b91a00394e328a0f-occ_8213f36c6c47404fb2011eaff0b
@@ -31833,23 +31722,6 @@ LOCATION:Regent Street Cinema\, London
 URL:https://www.regentstreetcinema.com/now-playing/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_94c791e8b98d451db42f02ce4edb66d4-occ_24f0ecab1a7e4d6cab4a93546fc
- d4fb2@thingstodoinyourcity
-DTSTAMP:20261102T084755Z
-DTSTART:20261106T160000Z
-DTEND:20261106T220000Z
-SUMMARY:Diwali Mini-Market
-DESCRIPTION:Celebrate the Festival of Lights with local vendors\, South A
- sian food and drinks\, and festive shopping. All are welcome\, whether y
- ou celebrate Diwali or are just curious.\nPrice: Free Entry\nhttps://www
- .eventbrite.ca/e/diwali-mini-market-of-london-ontario-tickets-2002011530
- 380?aff=oddtdtcreator
-LOCATION:Innovation Works\, 201 King Street\, London\, ON N6A 1C9\, Londo
- n\, ON\, London
-URL:https://www.eventbrite.ca/e/diwali-mini-market-of-london-ontario-tick
- ets-2002011530380?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_60fb6ef4869a4d7ca43ca7daac579d2a-occ_a965e8ed70cc4403bc8c82a8874
  18fb7@thingstodoinyourcity
 DTSTAMP:20261103T123714Z
@@ -31943,22 +31815,6 @@ LOCATION:National Geographic\, 102 Brompton Road\, London\, SW3 1\, Knigh
 URL:https://nearhere.events/events/9450ce560304511a/a-pirate-s-life
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_9b1af41c69a34d78af512d1237373fcc-occ_2b9c55d2bc4b495f9c84f05b090
- 689dc@thingstodoinyourcity
-DTSTAMP:20261103T134723Z
-DTSTART:20261106T180000Z
-DTEND:20261106T203000Z
-SUMMARY:A toast to Renoir: Champagne tasting with canapés
-DESCRIPTION:Martin Dibben guides a champagne tasting inspired by Renoir's
-  paintings\, with paired canapés. Conversation and champagne flow freel
- y\, evoking the cafés and salons of Paris.\nPrice: Members: £100\nhttp
- s://www.nationalgallery.org.uk/events/experience-a-toast-to-renoir-champ
- agne-tasting-with-canapes-06-11-2026
-LOCATION:Supporters' House Salon\, In Gallery\, London
-URL:https://www.nationalgallery.org.uk/events/experience-a-toast-to-renoi
- r-champagne-tasting-with-canapes-06-11-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_ba9644d522494153b9c91f1e5844bc9c-occ_b464c1a84ef941b38ec3d901fc9
  48848@thingstodoinyourcity
 DTSTAMP:20261106T070014Z
@@ -32016,50 +31872,6 @@ DESCRIPTION:Guests in masks join a hidden-space murder mystery over three
 LOCATION:Glaziers Hall\, 9 Montague Close\, London\, SE1 9DD\, London Bri
  dge\, London
 URL:https://feverup.com/en/london/when/this-week
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_d992ef4497644762b452a857588
- 21fe3@thingstodoinyourcity
-DTSTAMP:20261106T120009Z
-DTSTART:20261106T180000Z
-DTEND:20261106T220000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:Jazz heavyweights improvise live on stage\, with vinyl DJ set
- s and free boardgames. Natural Jazz runs every first Friday of the month
- .\nPrice: Free\nhttps://www.tate.org.uk/whats-on/tate-modern/natural-jaz
- z
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_25464ef073f349a09c7576f171b
- b8e74@thingstodoinyourcity
-DTSTAMP:20261106T120009Z
-DTSTART:20261106T183000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:Jazz heavyweights improvise live on stage\, with vinyl DJ set
- s and free boardgames. Natural Jazz runs every first Friday of the month
- .\nPrice: Free\nhttps://www.tate.org.uk/whats-on/tate-modern/natural-jaz
- z
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_67dd5dc4180a4001b97277b2efe
- a0d75@thingstodoinyourcity
-DTSTAMP:20261106T120009Z
-DTSTART:20261204T180000Z
-DTEND:20261204T220000Z
-SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
-DESCRIPTION:Jazz heavyweights improvise live on stage\, with vinyl DJ set
- s and free boardgames. Natural Jazz runs every first Friday of the month
- .\nPrice: Free\nhttps://www.tate.org.uk/whats-on/tate-modern/natural-jaz
- z
-LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
- \, London
-URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1198d9181c2b4b31997249236b88952c-occ_9c1eac9e8530405c80e4aa26d14
@@ -32123,22 +31935,6 @@ SUMMARY:The Celebrity Traitors Season 1 Finale: Live Watch Party
 DESCRIPTION:https://wembleypark.com/whats-on
 LOCATION:BOXPARK Wembley\, London
 URL:https://wembleypark.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8e886379a57347b99c49b7877e7afe55-occ_67614d92a09e47ffb11c4d08cdb
- 9fee4@thingstodoinyourcity
-DTSTAMP:20261103T110301Z
-DTSTART:20261106T180000Z
-DTEND:20261106T213000Z
-SUMMARY:The Physio Coach Podcast - Live Audience Event
-DESCRIPTION:Join a live podcast recording celebrating influential women i
- n physiotherapy. Two expert talks cover hypermobility and chronic ankle 
- instability\, plus a buffet dinner.\nPrice: £20\nhttps://go-london.uk/e
- vents/event/the-physio-coach-podcast-live-audience-event/
-LOCATION:London Film School\, 24 Shelton Street\, London\, WC2H 9UB\, Cov
- ent Garden\, London
-URL:https://go-london.uk/events/event/the-physio-coach-podcast-live-audie
- nce-event/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7e6d3390d4fc43ed9b99ade4feb2a931-occ_6e03da12813843b79e818d4a659
@@ -32206,22 +32002,6 @@ LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
 URL:https://genesiscinema.co.uk/event/115427
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d70d41661dc345e1836c23c88d95b050-occ_60937f20dcd5457789ab595d6cd
- f350a@thingstodoinyourcity
-DTSTAMP:20261102T102701Z
-DTSTART:20261106T183000Z
-DTEND:20261106T220000Z
-SUMMARY:A Forest Walk After Dark - Epping Forest Guided Walk
-DESCRIPTION:Led by expert guide Mike Smith\, this longer walk explores th
- e woods after dark. Bring a head or hand torch and sturdy footwear.\nPri
- ce: FREE\nhttps://www.eventbrite.co.uk/e/a-forest-walk-after-dark-epping
- -forest-guided-walk-tickets-2001315091312
-LOCATION:Outside Chingford Station (Overground)\, Chingford Train Station
-  London E4 6AL\, London\, England\, London
-URL:https://www.eventbrite.co.uk/e/a-forest-walk-after-dark-epping-forest
- -guided-walk-tickets-2001315091312
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_318f760ccaf3442b916121aaa0e8d556-occ_537f6c6ebfd74e59a39f1ab3268
  8f165@thingstodoinyourcity
 DTSTAMP:20261106T070556Z
@@ -32256,22 +32036,6 @@ DESCRIPTION:Music documentaries from the 13th edition screen in cinemas a
  followed by a Q&A.\nhttps://www.ica.art/films
 LOCATION:ICA\, London
 URL:https://www.ica.art/films
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1ad32bae0e444e1290919e9bda24e75e-occ_111b18c589a64dc08c64c4102b1
- b0dfc@thingstodoinyourcity
-DTSTAMP:20261031T225540Z
-DTSTART:20261106T183000Z
-DTEND:20261106T210000Z
-SUMMARY:Flow State – Samhain Special
-DESCRIPTION:Ruby Holder leads a candlelit writing session in a secret Vic
- torian chapel. It explores pagan Samhain\, Essex witch trials and folk h
- orror through free writing.\nPrice: £7.50\nhttps://www.eventbrite.co.uk
- /e/flow-state-samhain-special-tickets-2001063437609?aff=oddtdtcreator
-LOCATION:Oxford House in Bethnal Green\, Derbyshire Street London E2 6HG\
- , Bethnal Green\, London
-URL:https://www.eventbrite.co.uk/e/flow-state-samhain-special-tickets-200
- 1063437609?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_787e882c30554653a9c8b5d49d125c53-occ_b0d83d43cebe422c9e1e325fcbc
@@ -32359,22 +32123,33 @@ URL:https://www.londontheatres.com/event/friday-night-comedy-at-big-belly
  -comedy-club-_-southbank-7pm
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_30a38d0083614bc691cbc9ea4f69e452-occ_ae871aed700a4002b1307ae8cd8
- 1b18b@thingstodoinyourcity
-DTSTAMP:20261031T234553Z
+UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_25464ef073f349a09c7576f171b
+ b8e74@thingstodoinyourcity
+DTSTAMP:20261106T120009Z
 DTSTART:20261106T183000Z
-DTEND:20261106T203000Z
-SUMMARY:Raga & Rhythm: Bharatanatyam\, Kathak\, Odissi and Semi-Classical
-  Dance
-DESCRIPTION:Young students share the stage with adult dancers and choreog
- rapher Suchismita Ganguly. The evening moves from darkness towards light
- \, closing with an ensemble finale.\nhttps://www.eventbrite.co.uk/e/bhar
- atanatyam-kathak-odissi-and-semi-classical-dance-raga-rhythm-suchi-ticke
- ts-2003918253440
-LOCATION:The Nehru Centre\, 8 South Audley Street Mayfair W1K1HF\, Mayfai
- r\, London
-URL:https://www.eventbrite.co.uk/e/bharatanatyam-kathak-odissi-and-semi-c
- lassical-dance-raga-rhythm-suchi-tickets-2003918253440
+SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
+DESCRIPTION:Jazz heavyweights improvise live on stage\, with vinyl DJ set
+ s and free boardgames. Natural Jazz runs every first Friday of the month
+ .\nPrice: Free\nhttps://www.tate.org.uk/whats-on/tate-modern/natural-jaz
+ z
+LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
+ \, London
+URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_db6e4cb23bb2407c8b57e2f4a970a37e-occ_67dd5dc4180a4001b97277b2efe
+ a0d75@thingstodoinyourcity
+DTSTAMP:20261106T120009Z
+DTSTART:20261204T180000Z
+DTEND:20261204T220000Z
+SUMMARY:Natural Jazz x Voices Radio at the Tate Corner Bar
+DESCRIPTION:Jazz heavyweights improvise live on stage\, with vinyl DJ set
+ s and free boardgames. Natural Jazz runs every first Friday of the month
+ .\nPrice: Free\nhttps://www.tate.org.uk/whats-on/tate-modern/natural-jaz
+ z
+LOCATION:Tate Modern\, Tate Modern\, Bankside\, London SE1 9TG\, Bankside
+ \, London
+URL:https://www.tate.org.uk/whats-on/tate-modern/natural-jazz
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a98f7540cbad4c05905c14a860ab3a26-occ_d04b2b7813d54a3a8494f8c9447
@@ -32435,75 +32210,6 @@ URL:https://www.chortle.co.uk/shows/edinburgh_fringe_2025/s/37865/_shrink
  _wrapped%3A_a_psychologist_analyses_comedians%2C_live_on_stage
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ed30272b5220415e8d070267e8b83cef-occ_2c5abfdf58c742af97e88561c75
- 0ee75@thingstodoinyourcity
-DTSTAMP:20261104T081002Z
-DTSTART:20261106T183000Z
-DTEND:20261106T221000Z
-SUMMARY:TEDxSt Albans Salon
-DESCRIPTION:Guests revisit TEDx St Albans ideas over dinner and choose on
- e St Albans could act on. Bring your ideas and help turn inspiration int
- o action.\nhttps://www.ted.com/tedx/events/71077
-LOCATION:County Club\, 29 Ridgmont Road\, St Albans\, Hertfordshire\, Uni
- ted Kingdom\, St Albans\, Hertfordshire\, United Kingdom\, London
-URL:https://www.ted.com/tedx/events/71077
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9a311c04b1a1459ead0d36b62c2e71c8-occ_f4b357bba277422abac390293e8
- bb042@thingstodoinyourcity
-DTSTAMP:20261031T224210Z
-DTSTART:20261106T183000Z
-DTEND:20261106T203000Z
-SUMMARY:The Letter - Experiments in Ink
-DESCRIPTION:https://www.stmargaretshouse.org.uk/upcoming-events
-LOCATION:In the Chapel\, London
-URL:https://www.stmargaretshouse.org.uk/upcoming-events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9a311c04b1a1459ead0d36b62c2e71c8-occ_323e2aa6240d471b9f8faf4676a
- 43e49@thingstodoinyourcity
-DTSTAMP:20261031T224210Z
-DTSTART:20261107T100000Z
-DTEND:20261108T163000Z
-SUMMARY:The Letter - Experiments in Ink
-DESCRIPTION:https://www.stmargaretshouse.org.uk/upcoming-events
-LOCATION:In the Chapel\, London
-URL:https://www.stmargaretshouse.org.uk/upcoming-events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_215464227b0049e3a3f6877e835d396d-occ_c6156077d64746e299acdced58e
- 29001@thingstodoinyourcity
-DTSTAMP:20261031T225619Z
-DTSTART:20261106T184500Z
-DTEND:20261106T213000Z
-SUMMARY:Big Comedy Hammersmith with Mark Silcox
-DESCRIPTION:Headliner Mark Silcox leads four support acts. Live band Rubi
- k and the Cuboids plays first\, and karaoke follows downstairs.\nPrice: 
- From GBP 16.96\nhttps://stayhappening.com/e/big-comedy-hammersmith-with-
- mark-silcox-E118SB5L9WLP1
-LOCATION:The Distillers\, Hammersmith\, 64 Fulham Palace Road\, London\, 
- United Kingdom\, London
-URL:https://stayhappening.com/e/big-comedy-hammersmith-with-mark-silcox-E
- 118SB5L9WLP1
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c88b14b8fa5e462e85e9a9d3768ff9f3-occ_a30d936918654f929c25f6c6e7f
- 3c8d9@thingstodoinyourcity
-DTSTAMP:20261102T204521Z
-DTSTART:20261106T184500Z
-DTEND:20261106T214500Z
-SUMMARY:Friday Night Zen Social at the National Gallery + After Party
-DESCRIPTION:Meet new people\, explore masterpieces by Van Gogh\, Turner a
- nd Caravaggio\, then head to an optional Soho after-party. Entry needs a
-  free Gallery ticket\, so grab one early.\nPrice: Free\nhttps://www.meet
- up.com/cityzenlondon/events/316330238/?eventOrigin=city_outdoor_activiti
- es_events
-LOCATION:The National Gallery Sainsbury Wing\, Trafalgar Square\, London 
- WC2N 5DN\, London
-URL:https://www.meetup.com/cityzenlondon/events/316330238/?eventOrigin=ci
- ty_outdoor_activities_events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_70a472efd543404fbfe8a46152a67177-occ_eb8f407a503c43e983387890ea4
  f995e@thingstodoinyourcity
 DTSTAMP:20261106T060003Z
@@ -32516,36 +32222,6 @@ DESCRIPTION:Award-winning standup Sid Singh moved to Barcelona after burn
 LOCATION:Soho Upstairs – Soho\, 21 Dean Street\, London W1D 3NE\, Soho\
  , London
 URL:https://sohotheatre.com/events/sid-singh-love-bombing/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b05826c066674ed1a452666108ce5c1f-occ_bf9b59fc7da145b8ab7cfe92df2
- 21295@thingstodoinyourcity
-DTSTAMP:20261101T114635Z
-DTSTART:20261106T184500Z
-DTEND:20261106T220000Z
-SUMMARY:Territories: Pub Race | London 20s and 30s
-DESCRIPTION:Teams claim 32 London pubs on a virtual map in this live-acti
- on strategy game inspired by Risk. Themed pub challenges earn bonus troo
- ps.\nPrice: Free\nhttps://www.meetup.com/london-friendship-project/event
- s/317149984/?eventOrigin=city_events_this_weekend
-LOCATION:Gilt of Cain Statue\, Fen Court Garden\, Hogarth Ct\, EC3M 5DL\,
-  London
-URL:https://www.meetup.com/london-friendship-project/events/317149984/?ev
- entOrigin=city_events_this_weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_71290ae446264f16969cedb81d9cb3f1-occ_6136554c45db4d0397bc411c0ce
- facbf@thingstodoinyourcity
-DTSTAMP:20261101T035201Z
-DTSTART:20261106T190000Z
-DTEND:20261106T220000Z
-SUMMARY:A Tribute to Ray Harryhausen\, including The Beast from 20\,000 F
- athoms (1953)
-DESCRIPTION:Price: £8.00 (£8.68 incl. fees)\nhttps://ticketlab.app/even
- ts/cinemamuseum
-LOCATION:The Cinema Museum\, 2 Dugard Way\, Renfrew Road\, London\, SE11 
- 4TH\, London
-URL:https://ticketlab.app/events/cinemamuseum
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_069eb978eae44e669bced8e949576267-occ_5c2800edc52b439ca0cdd25b846
@@ -32561,37 +32237,6 @@ LOCATION:ICA (Institute of Contemporary Arts)\, The Mall\, London SW1Y 5A
  H\, London
 URL:https://eventslist.co.uk/london/events/diary-drawing-club-dd-club-202
  6-11-06-london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_abc46125cc394ebd8f5428259c7dd3b5-occ_563afed0cba44bc785860da78a1
- edb5b@thingstodoinyourcity
-DTSTAMP:20261105T021041Z
-DTSTART:20261106T190000Z
-DTEND:20261106T230000Z
-SUMMARY:Dykes\, Dorothy’s & Drag
-DESCRIPTION:Expect fabulous drag\, games and DJs\, built for coming alone
-  and leaving with friends. Photography is taken throughout\; tell the te
- am if you'd rather not be photographed.\nPrice: From GBP 6.13\; Tickets 
- GBP 6.13 to GBP 11.55\nhttps://stayhappening.com/london--workshops
-LOCATION:living womb\, London
-URL:https://stayhappening.com/london--workshops
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8108060e42ad454184ad42fffb6e6a0b-occ_2d9f6e153c6a4726b358b07a21c
- a893a@thingstodoinyourcity
-DTSTAMP:20261101T115654Z
-DTSTART:20261106T190000Z
-DTEND:20261106T210000Z
-SUMMARY:Free Argentine Tango Practica – Notting Hill (All Levels\, No P
- artner Needed)
-DESCRIPTION:Weekly Argentine tango practica for all levels\, with or with
- out a partner. A relaxed space to practise technique and dance with othe
- rs.\nPrice: Free entry\nhttps://www.meetup.com/tangolife-london/events/3
- 16949743/?eventOrigin=city_most_popular_event
-LOCATION:The Tabernacle\, 34-35 Powis Sq\, London W11 2AY\, UK\, Notting 
- Hill\, London
-URL:https://www.meetup.com/tangolife-london/events/316949743/?eventOrigin
- =city_most_popular_event
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dd954c903a53427dbe24c49c537626cc-occ_e8214db0a1ed4eea9dec7d11071
@@ -32746,21 +32391,6 @@ URL:https://www.londontheatres.com/event/friday-night-comedy-7pm-leiceste
  r-square
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8f833e020c454a75a4879fb654aafa00-occ_cdff415eb0dc43e790090a810ba
- a1790@thingstodoinyourcity
-DTSTAMP:20261106T125615Z
-DTSTART:20261106T190000Z
-DTEND:20261106T210000Z
-SUMMARY:Friday Night Comedy Club | 7pm Comedy Show
-DESCRIPTION:Sharp\, edgy stand-up from the UK's most daring comedians\, w
- ith Lyle Barke\, Alexander Bennett\, Freya Mallard and Aurie Styla. Acts
-  to be announced.\nhttps://bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2464265e46714aab9f7dd1cb9f690cfc-occ_0a0dc8cdce2e407f9ec6334fb8c
  a44af@thingstodoinyourcity
 DTSTAMP:20261106T033618Z
@@ -32841,40 +32471,6 @@ LOCATION:Big Belly Comedy - Southbank\, London
 URL:https://www.londontheatres.com/event/friday-night-comedy-show
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_41db04bdb1104bcea8296400ccc67632-occ_d9f59ca3ba11488a98085507c12
- 525d6@thingstodoinyourcity
-DTSTAMP:20261031T225643Z
-DTSTART:20261106T190000Z
-DTEND:20261106T203000Z
-SUMMARY:IN-HOUSE - Two Women: Book Launch with Jacqueline Rose
-DESCRIPTION:Jacqueline Rose and Devorah Baum discuss psychoanalysis\, bio
- graphy and fiction around Rose's novel Two Women. Aims to raise funds fo
- r the independent Freud Museum London.\nPrice: From GBP 26.94\nhttps://s
- tayhappening.com/e/in-house-two-women-book-launch-with-jacqueline-rose-E
- 118SB2W7FDSH
-LOCATION:Freud Museum London\, 20 Maresfield Gardens\, London\, United Ki
- ngdom\, London
-URL:https://stayhappening.com/e/in-house-two-women-book-launch-with-jacqu
- eline-rose-E118SB2W7FDSH
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6fae75b7a3414cf18ae90f8c3c88e9c3-occ_96372d93b8f94e0fb4a44fc1821
- 44f95@thingstodoinyourcity
-DTSTAMP:20261101T114954Z
-DTSTART:20261106T190000Z
-DTEND:20261106T210000Z
-SUMMARY:Ivo Andrić\, Schopenhauer & Nietzsche: Suffering and the Meaning
-  of Life
-DESCRIPTION:Open philosophical discussion on suffering\, happiness and me
- aning through Andrić\, Schopenhauer and Nietzsche. No prior knowledge n
- eeded\, just curiosity.\nPrice: Free\nhttps://www.meetup.com/philosophy-
- matters-uk/events/316959033/?eventOrigin=city_events_this_weekend
-LOCATION:The Square Pig\, 30-32 Procter St\, London WC1V 6NX\, UK\, Londo
- n
-URL:https://www.meetup.com/philosophy-matters-uk/events/316959033/?eventO
- rigin=city_events_this_weekend
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2b8d08230ae64282bf205c9e8dc73f88-occ_45e6d96449c340d3b26cc44b2ed
  0e590@thingstodoinyourcity
 DTSTAMP:20261101T004932Z
@@ -32948,21 +32544,6 @@ DESCRIPTION:Weekly classes start from the basics of Collegiate Shag\, a f
 LOCATION:The Mulberry Hall\, St. Margaret's House\, 21 Old Ford Road — 
  E2 9PL\, London
 URL:https://shagpile.dancecloud.com/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_caa8eb4c3e5a4237a9cad183c91d3f4d-occ_f8db9f54b9cb4515bbe808bb5cb
- fe21f@thingstodoinyourcity
-DTSTAMP:20261106T125645Z
-DTSTART:20261106T190000Z
-DTEND:20261106T203000Z
-SUMMARY:Shrink Wrapped: A Psychologist Analyses Comedians\, Live on Stage
-DESCRIPTION:Comedians perform their best material\, then get a gentle psy
- chological analysis from Dr Carolyne Keenan. A new show blending psychol
- ogy and stand-up.\nhttps://bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2e97f567cb314186bf0783b16e61cf74-occ_79b8ba1cc0784beeb21948787d6
@@ -33490,52 +33071,6 @@ LOCATION:President Hotel\, London
 URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_29e9967f236345df877f161abd246518-occ_ad42314789a74eb79786e6fcc3d
- 63065@thingstodoinyourcity
-DTSTAMP:20261031T230235Z
-DTSTART:20261106T193000Z
-DTEND:20261106T223000Z
-SUMMARY:Fawlty Towers Comedy Dinner Show
-DESCRIPTION:Basil\, Sybil and Manuel serve fine food alongside classic co
- medy chaos at this dinner show. Expect a friendly party atmosphere with 
- some of the finest comedy actors in the land.\nPrice: £59.5\nhttps://op
- encomedy.com/uk/gigs/shepperton/warren-lodge-hotel/fawlty-towers-comedy-
- dinner-show-06112026-shepperton/18142
-LOCATION:Warren Lodge Hotel\, Church Square\, Shepperton\, TW17 9JZ\, She
- pperton\, London
-URL:https://opencomedy.com/uk/gigs/shepperton/warren-lodge-hotel/fawlty-t
- owers-comedy-dinner-show-06112026-shepperton/18142
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_afc6265f64644f01b23eaedb3f26c834-occ_523972f061114eb9a3ae01ee512
- ac355@thingstodoinyourcity
-DTSTAMP:20261103T172542Z
-DTSTART:20261106T193000Z
-DTEND:20261106T213000Z
-SUMMARY:Friday Comedy Show - Camden
-DESCRIPTION:Comedy Freaks brings the best London comedians to Camden ever
- y Friday night. Expect headline-level sets from established pros and bre
- akout stars.\nPrice: From £12.50\nhttps://www.comedyfreaks.co.uk/comedy
- -show/friday-comedy-camden-london-6-november-2026
-LOCATION:4A Tileyard Rd\, London N7 9AH\, Kings Cross - London\, London
-URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
- n-6-november-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_afc6265f64644f01b23eaedb3f26c834-occ_29fd1ab821f04d13b4586b84e1c
- 0612a@thingstodoinyourcity
-DTSTAMP:20261103T172542Z
-DTSTART:20261113T193000Z
-SUMMARY:Friday Comedy Show - Camden
-DESCRIPTION:Comedy Freaks brings the best London comedians to Camden ever
- y Friday night. Expect headline-level sets from established pros and bre
- akout stars.\nPrice: From £12.50\nhttps://www.comedyfreaks.co.uk/comedy
- -show/friday-comedy-camden-london-6-november-2026
-LOCATION:4A Tileyard Rd\, London N7 9AH\, Kings Cross - London\, London
-URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
- n-6-november-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_adb46d3ab0064be58dc9a63e8713ce4e-occ_234cc07c80b74de5b092fd3a4cd
  b5b64@thingstodoinyourcity
 DTSTAMP:20261106T163358Z
@@ -33641,6 +33176,20 @@ LOCATION:London Coliseum\, London\, Covent Garden\, London
 URL:https://go-london.uk/events/event/iphigenie-en-tauride/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3074247132f5442684605d9983be3fd8-occ_3c7027bce23542f1ba13b7a52c9
+ 29d78@thingstodoinyourcity
+DTSTAMP:20261104T051214Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+SUMMARY:Iphigénie en Tauride
+DESCRIPTION:Christoph Willuck's neoclassical opera explores family\, duty
+  and redemption through the myth of Iphigenia. Four acts bring powerful 
+ drama and vocal virtuosity.\nhttps://go-london.uk/events/event/iphigenie
+ -en-tauride/
+LOCATION:London Coliseum\, London\, Covent Garden\, London
+URL:https://go-london.uk/events/event/iphigenie-en-tauride/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b42f4f95fb984bef9457bf5757f96f70-occ_0bebaa4a4f7a4f448ab0cd59800
  7fcf6@thingstodoinyourcity
 DTSTAMP:20261106T070011Z
@@ -33654,53 +33203,6 @@ DESCRIPTION:A walking tour through Whitechapel and Spitalfields\, dedicat
 LOCATION:Tower Hill underground station\, London (meet by the Tower Hill 
  Tram coffee stand)\, London
 URL:https://www.walks.com/our-walks/jack-the-ripper-walking-tour
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f57390e77f384222b50b498d9fcf9b76-occ_e34b2aaa7bd64185971ddba3f38
- e6184@thingstodoinyourcity
-DTSTAMP:20261104T030947Z
-DTSTART:20261106T193000Z
-DTEND:20261106T230000Z
-SUMMARY:Jasper Llewellyn (caroline) | Devin Shaffer
-DESCRIPTION:Jasper Llewellyn's first ever solo tour show\, marking his de
- but single For the Teacher. Support comes from New York musician Devin S
- haffer.\nPrice: £12 Unwaged/Student\; £14 General Admission\; £16 Sol
- idarity\nhttps://gel.now/events/945
-LOCATION:The Horse Hospital\, Colonnade\, Bloomsbury London WC1N 1JD\, Bl
- oomsbury\, London
-URL:https://gel.now/events/945
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_5ef8f26b77464e84979722fafc04abe8-occ_71762fd09a0548ff816fb449cdd
- e28e2@thingstodoinyourcity
-DTSTAMP:20261031T230052Z
-DTSTART:20261106T193000Z
-DTEND:20261106T220000Z
-SUMMARY:Jiran x Lyle's Golden Syrup Southeast Asian Supper Club in London
-DESCRIPTION:A long-table supper weaving Lyle's Golden Syrup into sweet an
- d savoury Southeast Asian dishes. Guests dine together with friends and 
- strangers\; 18+ only.\nPrice: £45.00\nhttps://tickts.co.uk/events/jiran
- -x-lyles-golden-syrup-southeast-asian-supper-club-in-london
-LOCATION:Amor's Cafe\, 512 Fulham Rd\, London\, SW6 5NJ\, London
-URL:https://tickts.co.uk/events/jiran-x-lyles-golden-syrup-southeast-asia
- n-supper-club-in-london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_993cc511c97a452b926597086ee04cc9-occ_38818c22f32649dca416a93f37f
- ecddc@thingstodoinyourcity
-DTSTAMP:20261102T210440Z
-DTSTART:20261106T193000Z
-DTEND:20261106T213000Z
-SUMMARY:Let's Go Fairgame ST PAULS - NEW GAMES!! - 75 Mins of Games
-DESCRIPTION:Fairgame's new St Paul's site offers 12 exclusive games\, inc
- luding Beaky Finders\, plus street food. Unlimited play for 75 minutes\,
-  with groups limited to 25 spots.\nPrice: £34\nhttps://www.meetup.com/f
- un-activities-to-do-in-london-on-a-weekend/events/316661487?eventOrigin=
- city_events_this_weekend
-LOCATION:Fairgame - City\, Fairgame - City\, St Pauls\, LONDON\, EC4M 9AF
- \, St Pauls\, London
-URL:https://www.meetup.com/fun-activities-to-do-in-london-on-a-weekend/ev
- ents/316661487?eventOrigin=city_events_this_weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d0227fce38174d459caa2ff56d3b6b20-occ_84861033946f45a68017ebca313
@@ -33727,21 +33229,6 @@ DESCRIPTION:Kenneth MacMillan's 1974 ballet\, set to Jules Massenet's sco
  ttps://www.rbo.org.uk/production/manon-kenneth-macmillan
 LOCATION:Main Stage\, London
 URL:https://www.rbo.org.uk/production/manon-kenneth-macmillan
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_c851558dfe734737882bd4bc60385607-occ_1d78e6357ddf444cacf1a0aa173
- 801a0@thingstodoinyourcity
-DTSTAMP:20261031T230301Z
-DTSTART:20261106T193000Z
-DTEND:20261106T213000Z
-SUMMARY:Samling Showcase
-DESCRIPTION:Celebrates Samling Institute's 30th anniversary with alumni f
- rom across the decades. It showcases Samling's training of young voices 
- and pianists in an evening of song.\nhttps://stayhappening.com/e/samling
- -showcase-E2ISYWQNN08
-LOCATION:Wigmore Hall\, Wigmore Hall\, 36 Wigmore Street\, London\, Unite
- d Kingdom\, London
-URL:https://stayhappening.com/e/samling-showcase-E2ISYWQNN08
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a6ebac6b4c17403d8ee74ecf4d6a4ffc-occ_74fac0a7423248c2a321560dc46
@@ -33882,34 +33369,6 @@ LOCATION:National Geographic\, 102 Brompton Road\, London\, SW3 1\, Knigh
 URL:https://nearhere.events/events/8aace979bc98f772/wild-cats-revealed
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2068b5e66b3844f797730f9604b3c836-occ_a6805af0489046b0a1d4a53568e
- 0eadd@thingstodoinyourcity
-DTSTAMP:20261106T123840Z
-DTSTART:20261106T194500Z
-DTEND:20261106T220400Z
-SUMMARY:George Michael: The Faith Tour
-DESCRIPTION:Price: FROM £17.49\nhttps://www.myvue.com/book-tickets/summa
- ry/10030/HO00021480/317672
-LOCATION:Vue London West End (Leicester Square) EPIC 1\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021480/317672
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_03a6c71b9c704e4fb3c07b6fca7e5b5c-occ_efec87e0e1204409bb8d0418574
- 7cffd@thingstodoinyourcity
-DTSTAMP:20261104T043740Z
-DTSTART:20261106T194500Z
-DTEND:20261106T220000Z
-SUMMARY:LFNS
-DESCRIPTION:Listed under Community at Wellington Arch on Friday evening. 
- No price is listed\; the page suggests checking the original listing for
-  the latest details.\nPrice: Not listed — worth a quick ask\nhttps://l
- ondonstreetskates.com/events/lfns-3-303?occurrence=2026-11-06
-LOCATION:Wellington Arch\, Blenheim Palace Grounds\, Woodstock\, OX20 1PS
- \, Hyde Park Corner\, London
-URL:https://londonstreetskates.com/events/lfns-3-303?occurrence=2026-11-0
- 6
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_488efefeac394affbc753f9520323b83-occ_20af5d88bc9b4b1e868e8e6a766
  9bd06@thingstodoinyourcity
 DTSTAMP:20261101T001855Z
@@ -34013,23 +33472,6 @@ SUMMARY:Diwali on the Thames Boat Party
 DESCRIPTION:https://www.eventbrite.ie/ttd/united-kingdom--london
 LOCATION:Temple Pier Victoria Embankment\, London
 URL:https://www.eventbrite.ie/ttd/united-kingdom--london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_647a9308496d4c0d902e4e8c2b8d9b99-occ_36e201ef262148adbebb76387c5
- b30b6@thingstodoinyourcity
-DTSTAMP:20261102T104242Z
-DTSTART:20261106T200000Z
-DTEND:20261106T220000Z
-SUMMARY:Everton vs Coventry Premier League Live Screening
-DESCRIPTION:Watch the match with a great atmosphere\, dozens of street fo
- od kitchens and drinks ordered straight to your table. Industry-leading 
- TVs and audio make it a lively night out.\nPrice: £0 - £6.16\nhttps://
- www.eventbrite.co.uk/e/everton-vs-coventry-premier-league-live-screening
- -tickets-2004201892813
-LOCATION:BOXPARK Shoreditch\, 2 – 10 Bethnal Green Road Shoreditch Lond
- on E1 6GY\, Shoreditch\, London
-URL:https://www.eventbrite.co.uk/e/everton-vs-coventry-premier-league-liv
- e-screening-tickets-2004201892813
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8d150f0cff034073a95b6039a26ecb9e-occ_4bf51310a6394acea9a1f26006c
@@ -34237,39 +33679,6 @@ LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_06d97222533c47dfb88ba70d9d7e5632-occ_4aa88464bbc243f59e80e3a7b17
- 67bb0@thingstodoinyourcity
-DTSTAMP:20261031T230424Z
-DTSTART:20261106T200000Z
-DTEND:20261106T223000Z
-SUMMARY:Fridays at Backyard
-DESCRIPTION:Top UK and international comedians perform a mix of seasoned 
- professionals and rising stars. Arrive early for pre-show entertainment 
- and stay afterwards for drinks and food.\nPrice: £12.5 - £20\nhttps://
- backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-93b4-783b87
- a3ec2e
-LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
- E2 0EL\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-
- 93b4-783b87a3ec2e
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_06d97222533c47dfb88ba70d9d7e5632-occ_330764d6a35b44eeb4098082003
- 5673b@thingstodoinyourcity
-DTSTAMP:20261031T230424Z
-DTSTART:20261113T200000Z
-SUMMARY:Fridays at Backyard
-DESCRIPTION:Top UK and international comedians perform a mix of seasoned 
- professionals and rising stars. Arrive early for pre-show entertainment 
- and stay afterwards for drinks and food.\nPrice: £12.5 - £20\nhttps://
- backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-93b4-783b87
- a3ec2e
-LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
- E2 0EL\, Bethnal Green\, London
-URL:https://backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-
- 93b4-783b87a3ec2e
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_bbd334c2b6894fdd8b2e27edfb6d2efc-occ_0c5f221780a34bb49476e8f4916
  acd3a@thingstodoinyourcity
 DTSTAMP:20261104T023631Z
@@ -34395,6 +33804,45 @@ LOCATION:Hackney Empire\, 291 Mare Street London E8 1EJ\, London
 URL:https://www.hackneyempire.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_d0cce70a594c40bcbfa0bdec3f3
+ 3b679@thingstodoinyourcity
+DTSTAMP:20261106T232143Z
+DTSTART:20261106T200000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
+ ce Oppenheim. It follows To Catch a Predator host Chris Hansen as he set
+ s out to make television history.\nhttps://www.olympiccinema.com/whats-o
+ n
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
+ e5943@thingstodoinyourcity
+DTSTAMP:20261106T232143Z
+DTSTART:20261107T200000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
+ ce Oppenheim. It follows To Catch a Predator host Chris Hansen as he set
+ s out to make television history.\nhttps://www.olympiccinema.com/whats-o
+ n
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_8300999cc2344bde9007066ddf9
+ ff4f2@thingstodoinyourcity
+DTSTAMP:20261106T232143Z
+DTSTART:20261108T195000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Robert Pattinson stars in this crime thriller directed by Lan
+ ce Oppenheim. It follows To Catch a Predator host Chris Hansen as he set
+ s out to make television history.\nhttps://www.olympiccinema.com/whats-o
+ n
+LOCATION:Olympic Studios\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5310bd5deb214684b5a45d283aa499e0-occ_c7cb1088f1434782b398ecc16a7
  7a7a4@thingstodoinyourcity
 DTSTAMP:20261031T230507Z
@@ -34506,23 +33954,6 @@ URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero?filter=
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_d023954a4b47418e9e5bdaafb43efec1-occ_46e3df4dcd654c7c8ee30529e3b
- ad0f2@thingstodoinyourcity
-DTSTAMP:20261102T104206Z
-DTSTART:20261106T201000Z
-DTEND:20261106T221000Z
-SUMMARY:Ireland vs Argentina | Nations Championship Live Screening
-DESCRIPTION:Watch Ireland vs Argentina live at BOXPARK Shoreditch with in
- dustry-leading TVs and audio. Dozens of street food kitchens and drinks 
- ordered to your table are available on site.\nPrice: £0 - £6.16\nhttps
- ://www.eventbrite.co.uk/e/ireland-vs-argentina-nations-championship-live
- -screening-tickets-2004201898831
-LOCATION:BOXPARK Shoreditch\, 2 – 10 Bethnal Green Road Shoreditch Lond
- on E1 6GY\, Shoreditch\, London
-URL:https://www.eventbrite.co.uk/e/ireland-vs-argentina-nations-champions
- hip-live-screening-tickets-2004201898831
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1d5367533e8340468b37fa4ff5691f0f-occ_30b6b948d63e4cf190a406cc60f
  d5d1e@thingstodoinyourcity
 DTSTAMP:20261101T162324Z
@@ -34574,24 +34005,6 @@ DESCRIPTION:Price: from £10.00\nhttps://www.thefreeassociation.co.uk/imp
  rov-comedy-shows/whats-on
 LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_566127d827f64135a520e663fb482b8d-occ_673076e5fbda4dcc9d94c385ded
- ca6a5@thingstodoinyourcity
-DTSTAMP:20261106T085132Z
-DTSTART:20261106T203000Z
-DTEND:20261106T215900Z
-SUMMARY:Home A Loan
-DESCRIPTION:Eun-jin buys an apartment in a Seoul building due for redevel
- opment\, but her paranoia grows. Kim Tae-kyeong's UK premiere keeps its 
- plotting deliberately uncertain.\nPrice: STANDARD £10.00\, MEMBER £9.5
- 0\, UNDER 25S MEMBER £5.00\nhttps://cinelumiere.savoysystems.co.uk/Cine
- Lumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTa
- b_601.TcsPerformance_7122205.TcsSection_6930861
-LOCATION:Ciné Lumière\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
- aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71222
- 05.TcsSection_6930861
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b731659de03a4b88894541ee95387c99-occ_dab06e22d60a487fa937a3e7f3f
@@ -34727,21 +34140,6 @@ URL:https://thecastlecinema.com/programme/112778/doc-n-roll-peven-everett
  -voice-of-a-generation-director-q-a/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_dc9a1bd637d54c15b6bbb6506d29e973-occ_4fa42a7404e24de1800a58d5539
- f85a4@thingstodoinyourcity
-DTSTAMP:20261106T125541Z
-DTSTART:20261106T210000Z
-DTEND:20261106T230000Z
-SUMMARY:Friday Night Comedy Club | 9pm Comedy Show
-DESCRIPTION:Part of the Secret Headliner Season\, with Lyle Barke\, Alexa
- nder Bennett and Freya Mallard listed. Further acts are still to be anno
- unced.\nhttps://bigbellycomedy.club/whats-on
-LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
-  Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
- ondon
-URL:https://bigbellycomedy.club/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_9d6cfab9f7264877866934e7a4af0573-occ_946d8c53110b4a8b9ce9bf42857
  75ec7@thingstodoinyourcity
 DTSTAMP:20261104T041004Z
@@ -34755,20 +34153,6 @@ DESCRIPTION:Weekend stand-up nights spotlight established stars and up-an
 LOCATION:Big Belly Bar & Comedy Club London\, Unit 6 & 7\, 30 Stamford St
  reet\, London\, SE1 9LQ\, London
 URL:https://feverup.com/m/130330
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_01ce6bcdfd6247988ce3bb5ce0297153-occ_d27302e28e4444a59825591d9e8
- 3e820@thingstodoinyourcity
-DTSTAMP:20261103T092816Z
-DTSTART:20261106T210000Z
-DTEND:20261106T230000Z
-SUMMARY:Unruly Comedy
-DESCRIPTION:Brings together some of the city's most fearless stand-up per
- formers. Expect unfiltered humour and wild comedy from talented acts.\nP
- rice: £13-20\nhttps://go-london.uk/events/event/unruly-comedy/
-LOCATION:Big Belly Bar & Comedy Club London\, 30 Stamford Street #Unit 6 
- & 7\, London\, SE1 9LQ\, Southwark\, London
-URL:https://go-london.uk/events/event/unruly-comedy/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bc4bf72595054fdea597ce1b99547041-occ_3e910b9736ca42eca28b83a52d1
@@ -34906,6 +34290,16 @@ DESCRIPTION:Price: £14 Concessions: £11\nhttps://thetopsecretcomedyclub
  .co.uk/events-listings/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_015ac15c4d25498db862e8d4cdea9367-occ_18b072a74c844cb7a6c7c249545
+ 279f4@thingstodoinyourcity
+DTSTAMP:20261106T224112Z
+DTSTART:20261106T220000Z
+SUMMARY:GALLERY X VIRAGE
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:GALLERY CLUB LONDON\, London
+URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_67390269b6344064bd7555deac33b829-occ_f78b719a23e64e1eba76fc1a9bf
@@ -35281,16 +34675,6 @@ DESCRIPTION:https://www.cntraveller.com/gallery/things-to-do-in-london-th
 LOCATION:Rake's Café Bar at Andaz London Liverpool Street\, London
 URL:https://www.cntraveller.com/gallery/things-to-do-in-london-this-weeke
  nd
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
- 06b10@thingstodoinyourcity
-DTSTAMP:20261105T024858Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:BARBARO
-DESCRIPTION:https://highstreetkensington.co.uk/whats-on
-LOCATION:GALLERY CLUB LONDON\, London
-URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0b3a59bd353946fe9c0f7b1689a0b8a4-occ_488506bcbbb24c538f306f9f30d
@@ -35893,19 +35277,6 @@ LOCATION:Prince Philip Maritime Collections Centre\, London
 URL:https://www.rmg.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_07a1c1c844e54c369fa3ca374dc39915-occ_25cf6f1b5f3f4a889cda3efe65d
- fed21@thingstodoinyourcity
-DTSTAMP:20261105T020216Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Coffee Club Speed Dating | Ages 40 to 55
-DESCRIPTION:Join a relaxed coffee-bar speed dating morning where your fir
- st cup is on the house. Gents rotate every five minutes\, with a 15-minu
- te break halfway through.\nPrice: From GBP 22.38\nhttps://stayhappening.
- com/london--workshops
-LOCATION:The Happenstance\, London
-URL:https://stayhappening.com/london--workshops
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_54ecb6a9f73947308322747d2da5f6ea-occ_097cd602ffbc4a40928d0e92600
  21e69@thingstodoinyourcity
 DTSTAMP:20261105T094637Z
@@ -36083,18 +35454,6 @@ DESCRIPTION:This two-part walk explores the City Fringe via Golden Lane a
 LOCATION:South-East corner of Finsbury Square (near Sun Street)\, Shoredi
  tch\, London
 URL:https://www.ianvisits.co.uk/calendar/weekend/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_21d00340808546d09df2260340184e78-occ_d1e26ed376ee43a3b2cd426ee0a
- f4ae7@thingstodoinyourcity
-DTSTAMP:20261105T021352Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Egyptian Cookery Class with Amro | London Cookery School
-DESCRIPTION:Price: From GBP 70.00\nhttps://stayhappening.com/e/sold-out-e
- gyptian-cookery-class-with-amro-london-cookery-school-E118SB6KRABEQ
-LOCATION:The Bridge Social\, London
-URL:https://stayhappening.com/e/sold-out-egyptian-cookery-class-with-amro
- -london-cookery-school-E118SB6KRABEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a6f5035b464a4796b79788de79c13964-occ_3d604826381541259c0843a1309
@@ -36547,22 +35906,6 @@ LOCATION:London
 URL:https://app.foresttms.com/TicketListing?restaurant=crazycoqs
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7a4cf053faef494a840bddaab51b9950-occ_7318410066f44e66924ecfaaade
- c7c91@thingstodoinyourcity
-DTSTAMP:20261105T020102Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261212
-SUMMARY:Improve Your Speaking and Presenting Skills with Mel Byron (5-wee
- k course)
-DESCRIPTION:Five 2-hour Saturday sessions cover managing nerves\, storyte
- lling and delivering your own talk\, with personalised\, actionable feed
- back. You must book the whole five-week course\, and places are confirme
- d by the tutor.\nPrice: From GBP 3.96\nhttps://stayhappening.com/london-
- -workshops
-LOCATION:Brompton Library\, London
-URL:https://stayhappening.com/london--workshops
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_78e4a1d588eb4d63b83d151f2f8e0ed6-occ_ff4e0f39a4ec4181ae3b20136a7
  510ec@thingstodoinyourcity
 DTSTAMP:20261106T125920Z
@@ -36714,19 +36057,6 @@ DESCRIPTION:Three surf and ocean films\, including two world premieres an
 LOCATION:Riverside Studios\, London
 URL:https://riversidestudios.co.uk/whats-on/u42-language-of-water-triple-
  bill-qa/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_55f574ef936c4bf58db211846ca30209-occ_45c62c2a2e3c41d6bc1fd874da2
- 06346@thingstodoinyourcity
-DTSTAMP:20261105T020616Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Learning to love Allah through Tawakkul
-DESCRIPTION:Hosted by Bilal and Sana\, this mixed-group session explores 
- tawakkul as reliance on Allah and its effect on worry. Only 20 spots\, f
- irst come first served\; no refunds.\nPrice: From GBP 3.99\nhttps://stay
- happening.com/london--workshops
-LOCATION:John Lewis Stratford\, London
-URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_cf5df7b463414d5f97ea4efb296c2faf-occ_62d11ef8bc954f25a428c2fc78d
@@ -37156,12 +36486,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b511432eb0874680bfcf3a774798160a-occ_e0a5de1222b54167a9468a69dca
  79fae@thingstodoinyourcity
-DTSTAMP:20261105T022314Z
+DTSTAMP:20261106T223628Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Minet Gardening Club
-DESCRIPTION:Help tidy up the Minet Garden while learning new skills and s
- upporting your local community. It suits anyone who enjoys gardening and
-  spending time outdoors.\nPrice: Free\nhttps://www.lambeth.gov.uk/events
+DESCRIPTION:The Minet Garden needs a tidy up\, and helpers can learn new 
+ skills while supporting their local community. It suits people who enjoy
+  gardening and spending time outdoors.\nPrice: Free\nhttps://www.lambeth
+ .gov.uk/events
 LOCATION:London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
@@ -37524,12 +36855,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a2ca0d9e3b294862bfb4ecc61332814b-occ_4074ccdd8ea44854aae2dfd8745
  adeab@thingstodoinyourcity
-DTSTAMP:20261105T022251Z
+DTSTAMP:20261106T223706Z
 DTSTART;VALUE=DATE:20261107
 SUMMARY:Reading Group
-DESCRIPTION:Book lovers can share their thoughts on what they read in thi
- s group. Come along to join in the conversation about books.\nPrice: Fre
- e\nhttps://www.lambeth.gov.uk/events
+DESCRIPTION:Love books and sharing your thoughts on what you read? Join o
+ ur reading group. The listing gives no further details about the group.\
+ nPrice: Free\nhttps://www.lambeth.gov.uk/events
 LOCATION:Norwood\, London
 URL:https://www.lambeth.gov.uk/events
 END:VEVENT
@@ -37695,20 +37026,6 @@ DESCRIPTION:Price: £37.50\nhttps://app.foresttms.com/TicketListing?resta
  urant=crazycoqs
 LOCATION:London
 URL:https://app.foresttms.com/TicketListing?restaurant=crazycoqs
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_329392ab2893423793e69aabec59ab21-occ_1bffa5f64ee44c81bfe121fc6b7
- e4d01@thingstodoinyourcity
-DTSTAMP:20261105T022031Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261114
-SUMMARY:Salsa Club London | Beginners & Improvers | Saturdays | Soho
-DESCRIPTION:Two one-hour classes\, Beginners and Improvers\, lead into so
- cial dancing with no partner needed. Tapas\, paella and drinks are serve
- d at this Spanish bar and restaurant.\nPrice: Tickets GBP 12.62 to GBP 5
- 0.55\nhttps://stayhappening.com/london--workshops
-LOCATION:Jamon Jamon Soho\, Soho\, London
-URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_caf3d31c24bf42128d8be0f6892f0f6f-occ_ac5de1a59f224149bd90d76a0cc
@@ -38864,30 +38181,6 @@ LOCATION:Wrest Park and Belsay Hall\, Castle and Gardens\, London
 URL:https://www.english-heritage.org.uk/visit/whats-on/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_5cc901e49bba4e27aa14097bc3a
- 19066@thingstodoinyourcity
-DTSTAMP:20261105T023931Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Wildwood
-DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
- ther from a murder of crows. Stop-motion animated adventure directed by 
- Travis Knight.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_3a2ecf958efc4e76a74698070b1
- 85761@thingstodoinyourcity
-DTSTAMP:20261105T023931Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Wildwood
-DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
- ther from a murder of crows. Stop-motion animated adventure directed by 
- Travis Knight.\nhttps://www.olympiccinema.com/whats-on
-LOCATION:Olympic Studios\, Barnes\, London
-URL:https://www.olympiccinema.com/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_4834ab52aa964faa9415b6c5c8e8a283-occ_00caa6661ec64865be34bbb94a5
  4a3c0@thingstodoinyourcity
 DTSTAMP:20261105T082348Z
@@ -39731,6 +39024,17 @@ LOCATION:Downstairs at Dillons\, 82 Gower Street #Lower Ground Floor\, Lo
  Q\, Bloomsbury\, London
 URL:https://go-london.uk/events/event/the-ai-girls-club-the-lightning-rou
  nd/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_9a311c04b1a1459ead0d36b62c2e71c8-occ_323e2aa6240d471b9f8faf4676a
+ 43e49@thingstodoinyourcity
+DTSTAMP:20261031T224210Z
+DTSTART:20261107T100000Z
+DTEND:20261108T163000Z
+SUMMARY:The Letter - Experiments in Ink
+DESCRIPTION:https://www.stmargaretshouse.org.uk/upcoming-events
+LOCATION:In the Chapel\, London
+URL:https://www.stmargaretshouse.org.uk/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dce05384b15a4961a8ba4fb174f6c7e4-occ_9a59f104d99f4eeb84c7200db85
@@ -41004,6 +40308,21 @@ URL:https://www.royalparks.org.uk/whats-on/hidden-stories-hyde-park-walki
  ng-tour-071126
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7a4cf053faef494a840bddaab51b9950-occ_7318410066f44e66924ecfaaade
+ c7c91@thingstodoinyourcity
+DTSTAMP:20261106T214758Z
+DTSTART:20261107T110000Z
+DTEND:20261212T130000Z
+SUMMARY:Improve Your Speaking and Presenting Skills with Mel Byron (5-wee
+ k course)
+DESCRIPTION:Learn to manage nerves\, tell stories and deliver your own ta
+ lk. Book the whole course\; the tutor confirms places.\nPrice: From GBP 
+ 3.96\nhttps://stayhappening.com/london--workshops
+LOCATION:Brompton Library\, Brompton Library\, 210 Old Brompton Road\, Lo
+ ndon\, United Kingdom\, London
+URL:https://stayhappening.com/london--workshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1b68c2ad33ed47689ad3f0d1504d2b0a-occ_56ca5a527f3340ad9ae7f70ece0
  6880b@thingstodoinyourcity
 DTSTAMP:20261105T205007Z
@@ -41076,6 +40395,30 @@ LOCATION:London Metropolitan University\, 16 Goulston Street\, London\, U
  nited Kingdom\, London
 URL:https://stayhappening.com/e/undergraduate-open-day-%E2%80%93-aldgate-
  andamp-shoreditch-campuses-E118SB3JV6XNX
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_5cc901e49bba4e27aa14097bc3a
+ 19066@thingstodoinyourcity
+DTSTAMP:20261106T232054Z
+DTSTART:20261107T110000Z
+SUMMARY:Wildwood
+DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
+ ther from a murder of crows. Stop-motion animated adventure directed by 
+ Travis Knight.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b602a0464f5944a3ae8a54ad219d2209-occ_3a2ecf958efc4e76a74698070b1
+ 85761@thingstodoinyourcity
+DTSTAMP:20261106T232054Z
+DTSTART:20261108T105500Z
+SUMMARY:Wildwood
+DESCRIPTION:Prue and Curtis enter a magical forest to rescue her baby bro
+ ther from a murder of crows. Stop-motion animated adventure directed by 
+ Travis Knight.\nhttps://www.olympiccinema.com/whats-on
+LOCATION:Olympic Studios\, Barnes\, London
+URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7f7d828bc4994147b602dcc81e3e0a37-occ_7badfec72318428ea5bbcb703c7
@@ -41186,6 +40529,21 @@ DESCRIPTION:Watch all four games on the big screen\, from Italy v South A
  e or stay for the lot.\nhttps://www.britanniakensington.co.uk/whats-on
 LOCATION:The Britannia\, London
 URL:https://www.britanniakensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_21d00340808546d09df2260340184e78-occ_91e8ca31a17d4dff9690b361567
+ 46279@thingstodoinyourcity
+DTSTAMP:20261106T214725Z
+DTSTART:20261107T114500Z
+DTEND:20261107T141500Z
+SUMMARY:Egyptian Cookery Class with Amro | London Cookery School
+DESCRIPTION:A hands-on\, family-style class where everyone cooks together
+  before sitting down to eat. Chef Amro teaches favourite Egyptian dishes
+ \, run by Migrateful to support refugees and asylum seekers.\nPrice: Fro
+ m GBP 70.00\nhttps://stayhappening.com/london--workshops
+LOCATION:The Bridge Social\, 73-81 Southwark Bridge Road\, London\, Unite
+ d Kingdom\, London
+URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_61b0f90211c14ddf98fe0982845d98f1-occ_875ba6dd6f3742e48cbbfe1be3a
@@ -41486,6 +40844,21 @@ LOCATION:Blame Gloria Covent Garden\, 20 Bedford Street\, Covent Garden\,
   London\, Greater London\, WC2E 9HP\, England\, Covent Garden\, London
 URL:https://www.blamegloria.co.uk/bars/covent-garden/events/abba-and-lege
  nds-bottomless-brunch?eventDate=2026-11-07T12%3A30%3A00.000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_55f574ef936c4bf58db211846ca30209-occ_45c62c2a2e3c41d6bc1fd874da2
+ 06346@thingstodoinyourcity
+DTSTAMP:20261106T214928Z
+DTSTART:20261107T123000Z
+DTEND:20261107T140000Z
+SUMMARY:Learning to love Allah through Tawakkul
+DESCRIPTION:Hosted by Bilal and Sana\, this mixed-group session explores 
+ tawakkul as reliance on Allah and its effect on worry. Only 20 spots\, f
+ irst come first served\; no refunds.\nPrice: From GBP 3.99\nhttps://stay
+ happening.com/london--workshops
+LOCATION:John Lewis Stratford\, John Lewis Stratford\, Westfield Stratfor
+ d City\, Montfichet Road\, London\, United Kingdom\, London
+URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e88aca4b57ff43ce8d664947f2e61258-occ_7aa7aabc122140a18bb0897ea02
@@ -41872,6 +41245,21 @@ DESCRIPTION:A premium bottomless drag brunch with a more refined take on
  less drinks and room-wide performances.\nPrice: Tickets from £16.50 - 
  £59.34
 LOCATION:FORGE\, Central London\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_07a1c1c844e54c369fa3ca374dc39915-occ_25cf6f1b5f3f4a889cda3efe65d
+ fed21@thingstodoinyourcity
+DTSTAMP:20261106T213221Z
+DTSTART:20261107T140000Z
+DTEND:20261107T160000Z
+SUMMARY:Coffee Club Speed Dating | Ages 40 to 55
+DESCRIPTION:Relaxed coffee-bar speed dating where your first cup is on th
+ e house. Gents rotate every five minutes\, with a 15-minute break halfwa
+ y through.\nPrice: From GBP 22.38\nhttps://stayhappening.com/london--wor
+ kshops
+LOCATION:The Happenstance\, 10 Paternoster Square\, London\, United Kingd
+ om\, London
+URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6593621d1ff04a28824cea3d7ac7b5d5-occ_83836fd257be4bf79ce9aba7977
@@ -43188,6 +42576,16 @@ LOCATION:St James Church\, 197 Piccadilly\, London W1J 9LL\, London
 URL:https://www.wherecanwego.com/item/e1602577
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5e7d7dbdd7cd44afa818f7186770cfb7-occ_f50dfeea46d74c70ad8efe3c859
+ 27561@thingstodoinyourcity
+DTSTAMP:20261106T223857Z
+DTSTART:20261107T180000Z
+SUMMARY:Negroni's All Night Long
+DESCRIPTION:https://www.mandarinoriental.com/en/london/mayfair/events
+LOCATION:Hanover Bar\, London
+URL:https://www.mandarinoriental.com/en/london/mayfair/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d5d054f5d57f4116983dc7b2bc8c0bfd-occ_55a78e5505434829aef4033fdc8
  870b3@thingstodoinyourcity
 DTSTAMP:20261101T100614Z
@@ -43202,6 +42600,21 @@ LOCATION:Eataly\, Eataly\, 135 bishopsgate\, London\, United Kingdom\, Lo
  ndon
 URL:https://stayhappening.com/e/pasta-andamp-dolce-class-lasagna-andamp-t
  iramis%C3%B9-E118SB7IRXSNC
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_329392ab2893423793e69aabec59ab21-occ_1bffa5f64ee44c81bfe121fc6b7
+ e4d01@thingstodoinyourcity
+DTSTAMP:20261106T213745Z
+DTSTART:20261107T180000Z
+DTEND:20261114T180000Z
+SUMMARY:Salsa Club London | Beginners & Improvers | Saturdays | Soho
+DESCRIPTION:Two one-hour classes\, Beginners and Improvers\, lead into so
+ cial dancing with no partner needed. Tapas\, paella and drinks are serve
+ d at this Spanish bar and restaurant.\nPrice: Tickets GBP 12.62 to GBP 5
+ 0.55\nhttps://stayhappening.com/london--workshops
+LOCATION:Jamon Jamon Soho\, 3-5 Caxton Walk\, London WC2H 8PW\, Soho\, Lo
+ ndon
+URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_04f0f5d50fb445f7b0f0ce93ac6011a3-occ_d47ac341acf24beb85cb0ae358b
@@ -44297,6 +43710,16 @@ DESCRIPTION:Price: £22 Concessions: £20\nhttps://thetopsecretcomedyclub
  .co.uk/events-listings/saturday-9pm-47/
 LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/saturday-9pm-47/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
+ 06b10@thingstodoinyourcity
+DTSTAMP:20261106T224204Z
+DTSTART:20261107T220000Z
+SUMMARY:BARBARO
+DESCRIPTION:https://highstreetkensington.co.uk/whats-on
+LOCATION:GALLERY CLUB LONDON\, London
+URL:https://highstreetkensington.co.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_972453203bdf4b9591edf03ee9554ace-occ_730943f5cf5342b2afeab1660e8
@@ -45760,19 +45183,6 @@ LOCATION:Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_443eac54fe024b489251e5e2be61dc2f-occ_97286a3f10d44d5c8c8ed9a5412
- 703a3@thingstodoinyourcity
-DTSTAMP:20261105T022954Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Beauty of the Beloved ﷺ
-DESCRIPTION:A reflective seminar on the character and way of life of Prop
- het Muhammad ﷺ\, led by Mufti Amir Isap. Includes a short fundraising 
- segment for 13 Rivers Trust.\nPrice: From GBP 0.00\nhttps://stayhappenin
- g.com/london--workshops
-LOCATION:East London Mosque & London Muslim Centre\, London
-URL:https://stayhappening.com/london--workshops
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2e97d57a88f64d8986eb3f47fd6e9a5b-occ_a2c7d3f415044e18a3567e8bac0
  2abf7@thingstodoinyourcity
 DTSTAMP:20261102T213403Z
@@ -46873,6 +46283,22 @@ LOCATION:Japan House London\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_443eac54fe024b489251e5e2be61dc2f-occ_97286a3f10d44d5c8c8ed9a5412
+ 703a3@thingstodoinyourcity
+DTSTAMP:20261106T214435Z
+DTSTART:20261108T123000Z
+DTEND:20261108T180000Z
+SUMMARY:The Beauty of the Beloved ﷺ
+DESCRIPTION:A reflective seminar on the character\, manners and way of li
+ fe of Prophet Muhammad ﷺ\, led by Mufti Amir Isap. Includes a short fu
+ ndraising segment for 13 Rivers Trust.\nPrice: From GBP 0.00\nhttps://st
+ ayhappening.com/london--workshops
+LOCATION:East London Mosque & London Muslim Centre\, East London Mosque &
+  London Muslim Centre\, LMC\, 1st Floor Hall\, London\, United Kingdom\,
+  London
+URL:https://stayhappening.com/london--workshops
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_f0a1ac3ed9034f949afc000cbe0
  2bddf@thingstodoinyourcity
 DTSTAMP:20261106T110632Z
@@ -47419,6 +46845,22 @@ URL:https://www.ianvisits.co.uk/calendar/death-debauchery-doctors-in-soho
  -421027
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_3129d1f1f52d49ca887416e2d2011722-occ_b6f5f863f9a64583a2499b3a9d0
+ 3d818@thingstodoinyourcity
+DTSTAMP:20261106T210213Z
+DTSTART:20261108T140000Z
+DTEND:20261108T153000Z
+SUMMARY:Diwali Candle Painting
+DESCRIPTION:Decorate a pair of pillar candles in a relaxed 90-minute mind
+ ful workshop led by artist Isher Dhiman. No experience is needed and all
+  materials are provided.\nPrice: PAY WHAT YOU CAN (£10 SUGGESTED DONATI
+ ON)\nhttps://www.burghhouse.org.uk/whats-on/whats-on/event/diwali-candle
+ -painting
+LOCATION:Burgh House\, BURGH HOUSE NEW END SQUARE LONDON NW3 1LT\, London
+URL:https://www.burghhouse.org.uk/whats-on/whats-on/event/diwali-candle-p
+ ainting
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f8d697004a414cd3bd98e8bdbe8809d6-occ_d45d9b649bae4963be7babac64e
  3d23e@thingstodoinyourcity
 DTSTAMP:20261102T235002Z
@@ -47666,17 +47108,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0280a61bf6cb40c9842e48bbcba25c2c-occ_20c07ed072e94af990a28930748
  e9604@thingstodoinyourcity
-DTSTAMP:20261101T151208Z
+DTSTAMP:20261106T205727Z
 DTSTART:20261108T150000Z
 DTEND:20261108T200000Z
 SUMMARY:UNMASKED: A Masquerade Gathering
-DESCRIPTION:A five-hour immersive journey through movement\, cacao and li
- ve music\, with masks worn until a shared unmasking ritual. Cacao\, food
-  and saffron chai are included.\nPrice: £44.04 - £140\nhttps://www.eve
- ntbrite.co.uk/e/unmasked-a-masquerade-gathering-tickets-1998454844236
-LOCATION:St Stephen's Church\, Pond Street London NW3 2PP\, London
-URL:https://www.eventbrite.co.uk/e/unmasked-a-masquerade-gathering-ticket
- s-1998454844236
+DESCRIPTION:A five-hour immersive journey blending movement\, ceremonial 
+ cacao and live music. Masks stay on until a shared unmasking ritual\, th
+ en guests reconnect over food.\nPrice: £44.04 - £140\nhttps://www.pram
+ stead.com/whats-on
+LOCATION:St Stephen's Church\, Pond Street\, London NW3 2PP\, London\, En
+ gland\, London
+URL:https://www.pramstead.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_de0bd990bd144505a5c7615400b421c7-occ_d0acff78afb6467cbb6c122a26b
@@ -47866,16 +47308,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_0cafa109ea2b4887b9c72451ff4fdb79-occ_218393a43df543af92276caa0db
  1dae4@thingstodoinyourcity
-DTSTAMP:20261105T022644Z
+DTSTAMP:20261106T215250Z
 DTSTART:20261108T170000Z
 DTEND:20270307T170000Z
 SUMMARY:FUEGO Sundays FREE INTRO - Party in 4 Rooms: Bachata | Cuban | Sa
  lsa
 DESCRIPTION:A weekly Sunday party opening with a free intro salsa and bac
- hata class from 5PM\, followed by paid classes. Four rooms offer bachata
- \, cuban\, salsa and Brazilian funk.\nPrice: From GBP 0.00\nhttps://stay
- happening.com/london--workshops
-LOCATION:Sway Bar\, 61-65 Great Queen St\, London WC2B 5BZ\, London
+ hata class from 5PM\, then paid classes. Four rooms cover bachata\, cuba
+ n\, salsa and Brazilian funk.\nPrice: From GBP 0.00\nhttps://stayhappeni
+ ng.com/london--workshops
+LOCATION:Sway Bar\, 61-65 Great Queen Street\, London\, United Kingdom\, 
+ London
 URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
@@ -48815,6 +48258,20 @@ LOCATION:The Ministry\, Borough | Workspace & Members' Club | South Londo
 URL:https://www.outsavvy.com/event/34552/gripped
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_afc6265f64644f01b23eaedb3f26c834-occ_29fd1ab821f04d13b4586b84e1c
+ 0612a@thingstodoinyourcity
+DTSTAMP:20261103T172542Z
+DTSTART:20261113T193000Z
+SUMMARY:Friday Comedy Show - Camden
+DESCRIPTION:Comedy Freaks brings the best London comedians to Camden ever
+ y Friday night. Expect headline-level sets from established pros and bre
+ akout stars.\nPrice: From £12.50\nhttps://www.comedyfreaks.co.uk/comedy
+ -show/friday-comedy-camden-london-6-november-2026
+LOCATION:4A Tileyard Rd\, London N7 9AH\, Kings Cross - London\, London
+URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
+ n-6-november-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d5d706808c304889a30ee19f294454e3-occ_b754c87a4149448f858fd65ef41
  3c621@thingstodoinyourcity
 DTSTAMP:20261106T193909Z
@@ -48826,6 +48283,22 @@ DESCRIPTION:Multi-award-winning comedian Matt Richardson brings his high-
  matt-richardson-bit-much-mate
 LOCATION:Pleasance London\, Main House Cabaret\, LONDON\, London
 URL:https://www.pleasance.co.uk/event/matt-richardson-bit-much-mate
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_06d97222533c47dfb88ba70d9d7e5632-occ_330764d6a35b44eeb4098082003
+ 5673b@thingstodoinyourcity
+DTSTAMP:20261031T230424Z
+DTSTART:20261113T200000Z
+SUMMARY:Fridays at Backyard
+DESCRIPTION:Top UK and international comedians perform a mix of seasoned 
+ professionals and rising stars. Arrive early for pre-show entertainment 
+ and stay afterwards for drinks and food.\nPrice: £12.5 - £20\nhttps://
+ backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-93b4-783b87
+ a3ec2e
+LOCATION:Backyard Comedy Club\, 231 Cambridge Heath Rd\, Bethnal Green\, 
+ E2 0EL\, Bethnal Green\, London
+URL:https://backyardcomedyclub.co.uk/event/link/?ceId=1c01a847-4009-4ec4-
+ 93b4-783b87a3ec2e
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d6a6e5a4d6a441a793842fd3432644fe-occ_162121c6f95a4284a58658bc537
