@@ -3715,18 +3715,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d585ac13d10d4314a756c9095114d15c-occ_87955ce421b5479f986533fe2d2
  1d7b2@thingstodoinyourcity
-DTSTAMP:20261026T033313Z
+DTSTAMP:20261106T091928Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20261231
 SUMMARY:70 Years ACF London
-DESCRIPTION:Celebrating 70 years\, ACF—A Celebration of Friends honours
-  artists and institutions with anniversaries. It also honours the Austri
- an and Jewish émigré community in London.\nhttps://www.acflondon.org/e
- vents/70-years-acf-a-celebration-of-friends/
+DESCRIPTION:It celebrates 70 years of the Austrian Cultural Forum London\
+ , honouring anniversaries of artists and institutions. It also honours L
+ ondon's Austrian and Jewish émigré community.\nhttps://www.acflondon.o
+ rg/events
 LOCATION:Austrian Cultural Forum London\, 28 Rutland Gate London SW7 1PQ\
  , London
-URL:https://www.acflondon.org/events/70-years-acf-a-celebration-of-friend
- s/
+URL:https://www.acflondon.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3903c1c50ec64b8181d13b30469a9f04-occ_9ddb045f1e494f139c723bdfadc
@@ -5187,18 +5186,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_708cc142358e42968f05ad11ae5abed3-occ_5e9856a47b1b43be80227e817bf
  e0aa0@thingstodoinyourcity
-DTSTAMP:20261026T033423Z
+DTSTAMP:20261106T092003Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20270620
 SUMMARY:Together on this Island: Émigré Art Networks in Britain
 DESCRIPTION:Rarely seen works by émigré artists who fled Nazi Europe ar
- e shown here. Material from Tate Library and Archive tells their stories
- .\nhttps://www.acflondon.org/events/together-on-this-island-emigre-art-n
- etworks-in-britain/
+ e shown. Highlights include Oskar Kokoschka\, Kurt Schwitters and Jankel
+  Adler.\nhttps://www.acflondon.org/events
 LOCATION:Austrian Cultural Forum London\, 28 Rutland Gate London SW7 1PQ\
  , London
-URL:https://www.acflondon.org/events/together-on-this-island-emigre-art-n
- etworks-in-britain/
+URL:https://www.acflondon.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bb803f2209074dc7b6b3a5c702954471-occ_c94a8091d59a4f66baee4941276
@@ -5622,17 +5619,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_aeda25ac3cc246dbb2ca14ce85444a24-occ_e9fa766ecd764a9cb66173ded95
  7822a@thingstodoinyourcity
-DTSTAMP:20261026T033543Z
+DTSTAMP:20261106T092003Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20270214
 SUMMARY:40 Objects 40 Years
 DESCRIPTION:Marks the Freud Museum's 40th anniversary with objects and fa
- mily items never shown publicly. Visitors see antiquities from Freud's d
- esk and items seen for the first time.\nhttps://www.acflondon.org/events
- /40-objects-40-years/
+ mily items never publicly displayed. Visitors can see antiquities from F
+ reud's desk up close.\nhttps://www.acflondon.org/events
 LOCATION:Freud Museum London\, 20 Maresfield Gardens\, London NW3 5SX\, H
  ampstead\, London
-URL:https://www.acflondon.org/events/40-objects-40-years/
+URL:https://www.acflondon.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_fe6b5e72718741c8a6a79a624532d8c7-occ_516b1d220d4c400cbcf16349649
@@ -9166,26 +9162,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_391ee873462840c8ab6766886f34f4ed-occ_cba1669ca5ce42af84daf61b393
  ece5e@thingstodoinyourcity
-DTSTAMP:20261104T203422Z
+DTSTAMP:20261106T100121Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261127
 SUMMARY:R. B. Kitaj: From Fragments 1958–1975
-DESCRIPTION:https://www.piano-nobile.com/exhibitions/133-r.-b.-kitaj-from
- -fragments-19581975
-LOCATION:Piano Nobile\, W11\, London
+DESCRIPTION:Explores how R. B. Kitaj combined found imagery in his early 
+ career through paintings\, drawings and collages. Includes large-scale w
+ orks and a fully illustrated publication.\nhttps://www.piano-nobile.com/
+ exhibitions/133-r.-b.-kitaj-from-fragments-19581975
+LOCATION:Piano Nobile\, 96 & 129 Portland Road\, London\, W11 4LW\, W11\,
+  London
 URL:https://www.piano-nobile.com/exhibitions/133-r.-b.-kitaj-from-fragmen
  ts-19581975
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_391ee873462840c8ab6766886f34f4ed-occ_c9ed0d13d8974ab1b6de3f99afe
  116fb@thingstodoinyourcity
-DTSTAMP:20261104T203422Z
-DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261106T100121Z
+DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261127
 SUMMARY:R. B. Kitaj: From Fragments 1958–1975
-DESCRIPTION:https://www.piano-nobile.com/exhibitions/133-r.-b.-kitaj-from
- -fragments-19581975
-LOCATION:Piano Nobile\, W11\, London
+DESCRIPTION:Explores how R. B. Kitaj combined found imagery in his early 
+ career through paintings\, drawings and collages. Includes large-scale w
+ orks and a fully illustrated publication.\nhttps://www.piano-nobile.com/
+ exhibitions/133-r.-b.-kitaj-from-fragments-19581975
+LOCATION:Piano Nobile\, 96 & 129 Portland Road\, London\, W11 4LW\, W11\,
+  London
 URL:https://www.piano-nobile.com/exhibitions/133-r.-b.-kitaj-from-fragmen
  ts-19581975
 END:VEVENT
@@ -11696,6 +11698,16 @@ LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, London
 URL:https://bowarts.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_288d96dd5af54dc2b1b9f556cf926058-occ_d3d32bd050314d1fa6a7d3d398b
+ 22f39@thingstodoinyourcity
+DTSTAMP:20261021T120128Z
+DTSTART:20261106T100000Z
+SUMMARY:Bhajan Hunjan: speaking through materials
+DESCRIPTION:https://bowarts.org/
+LOCATION:Bow Road & Nunnery Gallery\, 181-183 Bow Road\, London
+URL:https://bowarts.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_023bc5e014004ce1bbaa0ac013536082-occ_0e51e8125ad74d669c739652309
  b624c@thingstodoinyourcity
 DTSTAMP:20261106T040301Z
@@ -12548,6 +12560,17 @@ UID:cand_533c3c7662f8461b91dbbfebe0095609-occ_f9c001f91bc243c3b83be03fefa
 DTSTAMP:20261103T123429Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20270130
+SUMMARY:Open to Ideas Programme
+DESCRIPTION:Price: Free\nhttps://bowarts.org/event/open-to-ideas-programm
+ e
+LOCATION:Lakeside Centre\, London
+URL:https://bowarts.org/event/open-to-ideas-programme
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_533c3c7662f8461b91dbbfebe0095609-occ_e49acec4ade042c4911c96d2dbe
+ 9de89@thingstodoinyourcity
+DTSTAMP:20261103T123429Z
+DTSTART;VALUE=DATE:20261106
 SUMMARY:Open to Ideas Programme
 DESCRIPTION:Price: Free\nhttps://bowarts.org/event/open-to-ideas-programm
  e
@@ -30305,20 +30328,6 @@ URL:https://www.galleriesnow.net/shows/henry-glover-and-miya-kosowick-kep
  t/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_74c14c4c297b4c1e86bac6819e546365-occ_de7cbceb2bef492eb64e7ebdbe2
- c4973@thingstodoinyourcity
-DTSTAMP:20261104T203653Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20270117
-SUMMARY:Hokusai: Thirty-six views of Mount Fuji from the Iuchi Collection
-DESCRIPTION:Hokusai's complete Thirty-six Views of Mount Fuji is shown in
-  the UK for the first time. Early impressions from the Iuchi Collection 
- show his pioneering use of Prussian blue.\nhttps://www.houseandgarden.co
- .uk/gallery/best-art-exhibitions-london
-LOCATION:Dulwich Picture Gallery\, SE21\, London
-URL:https://www.houseandgarden.co.uk/gallery/best-art-exhibitions-london
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_3e8177e5396c48579b66c59fdaefbe6a-occ_85afff3d66904bf7b279509c9dc
  28641@thingstodoinyourcity
 DTSTAMP:20261031T215531Z
@@ -33348,6 +33357,20 @@ DESCRIPTION:Over 50 artists\, galleries and collectives show affordable c
 LOCATION:Highgate Primary School\, Storey Road\, London N6 4ED\, Highgate
  \, London
 URL:https://highgateartfair.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_74c14c4c297b4c1e86bac6819e546365-occ_de7cbceb2bef492eb64e7ebdbe2
+ c4973@thingstodoinyourcity
+DTSTAMP:20261106T095822Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270117
+SUMMARY:Hokusai: Thirty-six views of Mount Fuji from the Iuchi Collection
+DESCRIPTION:Hokusai's complete Thirty-six Views of Mount Fuji is shown in
+  the UK for the first time. Early impressions from the Iuchi Collection 
+ show his pioneering use of Prussian blue.\nhttps://www.houseandgarden.co
+ .uk/gallery/best-art-exhibitions-london
+LOCATION:Dulwich Picture Gallery\, SE21\, London
+URL:https://www.houseandgarden.co.uk/gallery/best-art-exhibitions-london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4cc767ff44a94b47b2245ebb9b5fe5ed-occ_d4e1995294ba4f879d429dddf7a
@@ -39567,19 +39590,6 @@ LOCATION:North Green\, London
 URL:https://www.westminster-abbey.org/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_6dcc56d17b5c4edf8a1a7165d04acfb6-occ_c30e3a45c6714cd4bd64aae02a4
- b1a93@thingstodoinyourcity
-DTSTAMP:20261106T073043Z
-DTSTART:20261106T083000Z
-DTEND:20261106T103000Z
-SUMMARY:Roundtable: Unlocking London's Hidden Housing Capacity
-DESCRIPTION:Senior built environment leaders will explore how small\, con
- strained London sites could add homes. Practical recommendations are the
-  aim.\nPrice: Members Only - Free\nhttps://nla.london/events
-LOCATION:London
-URL:https://nla.london/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_53d46e17ca4d4de88730fd81e2b63b9b-occ_16e9f41f42364b8bae8c9036e3e
  07de5@thingstodoinyourcity
 DTSTAMP:20261031T224434Z
@@ -39625,21 +39635,6 @@ LOCATION:Business Design Centre\, 52 Upper Street\, London N1 0QH\, Londo
  n
 URL:https://iuk-business-connect.org.uk/events/uk-national-quantum-techno
  logies-showcase-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_52c8ce657f604aa9b36f4fcab4d66cbe-occ_467bea66588e49c6b9a36a1b359
- 74c4f@thingstodoinyourcity
-DTSTAMP:20261102T102820Z
-DTSTART:20261106T100000Z
-DTEND:20261106T110000Z
-SUMMARY:Bird Survey - River Lea MEET AT TOTTENHAM LOCK
-DESCRIPTION:Learn to identify local birds by sight and birdsong on a guid
- ed outdoor transect survey. Pre-booking is essential and each survey run
- s for about an hour.\nPrice: FREE\nhttps://www.eventbrite.co.uk/e/bird-s
- urvey-river-lea-meet-at-tottenham-lock-tickets-2003344207453
-LOCATION:Tottenham Lock\, Ferry Lane London N17 9NE\, London
-URL:https://www.eventbrite.co.uk/e/bird-survey-river-lea-meet-at-tottenha
- m-lock-tickets-2003344207453
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_24b203ff808545caabaa6ab2843a7dbe-occ_982b374fb9754e18837c65a6982
@@ -40593,21 +40588,6 @@ LOCATION:Highgate Primary School\, Storey Road\, London N6 4ED\, Highgate
 URL:https://highgateartfair.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_1fbc930b3ea4489b8e36df809a12a2d7-occ_ad4e49bc6af14053b5f665711fc
- 334b2@thingstodoinyourcity
-DTSTAMP:20261030T154956Z
-DTSTART:20261106T103000Z
-DTEND:20261106T113000Z
-SUMMARY:Wellbeing Walk
-DESCRIPTION:Led by trained residents\, these walks offer a chance to unwi
- nd\, meet new people and discover nature. They are free of charge and op
- en to everyone of any ability.\nPrice: Free\nhttps://www.rbkc.gov.uk/eve
- nts/wellbeing-walk-kensington-gardens
-LOCATION:Kensington Gardens\, Kensington High Street W8 5NX United Kingdo
- m\, London
-URL:https://www.rbkc.gov.uk/events/wellbeing-walk-kensington-gardens
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a784b06a0dcb490182087cd8656ff095-occ_8842ab8123184ac4bf38064bb0b
  b0691@thingstodoinyourcity
 DTSTAMP:20261104T201548Z
@@ -40940,13 +40920,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_4219923d53814deea236ca89989
  385da@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261106T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -40954,13 +40934,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_8d7ddffc2d4c45f4892c8a0fc75
  deedc@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261107T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -40968,13 +40948,41 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_13465cfe32ef4213b99673ad44c
  4eddf@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261108T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_73d53d8f2e22494c9917b44ee92
+ e6489@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261108T133000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_35397c3f1af14eb292176ad6af3
+ 251f8@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261108T194500Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -40982,13 +40990,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_ae0143cbe13249fdb7e19a8d0cb
  a86e1@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261109T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_b0a793e028a5440696311936497
+ 99be8@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261109T160000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -40996,13 +41018,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_a016c0906a0245a69515293af70
  c0856@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261110T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_bb535d957d294fa5bbaec75fb8c
+ 9ae0a@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261110T190000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -41010,13 +41046,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_259d56c1c6394d9681797e4a701
  63a43@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261112T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_0e39975f5b104b6493f7eef66a2
+ 39e98@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261112T134000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -41024,13 +41074,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_66aea898b0184d40b6ae9b6eefb
  d4bb4@thingstodoinyourcity
-DTSTAMP:20261104T211548Z
+DTSTAMP:20261106T112632Z
 DTSTART:20261124T110000Z
 SUMMARY:Godzilla Minus Zero
 DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
-  the Shikishima family facing an all-new calamity. Ryunosuke Kamiki retu
- rns as Koichi\, joined by Minami Hamabe.\nhttps://www.picturehouses.com/
- movie-details/022/HO00018698/godzilla-minus-zero
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f31de0cce86840ea8be4f9f7d116028d-occ_c773884150db49fba41349f0022
+ 79109@thingstodoinyourcity
+DTSTAMP:20261106T112632Z
+DTSTART:20261124T193000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Set in 1949\, two years after Godzilla Minus One\, it follows
+  the Shikishima family. Ryunosuke Kamiki returns as Koichi\, joined by M
+ inami Hamabe as Noriko.\nhttps://www.picturehouses.com/movie-details/022
+ /HO00018698/godzilla-minus-zero
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
  inus-zero
@@ -41145,20 +41209,6 @@ DESCRIPTION:Price: FREE loaded spuds for the first 50 customers\, half-pr
  pop-ups-in-london?lang=en
 LOCATION:Bexleyheath\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9caf098d02fb46d5b69c1f22177df527-occ_0ffceed85e6840319963a231ed4
- a137e@thingstodoinyourcity
-DTSTAMP:20261031T235035Z
-DTSTART:20261106T110000Z
-DTEND:20261106T113000Z
-SUMMARY:Story and rhyme time at Chelsea Library
-DESCRIPTION:Fun story and rhyme time sessions for under 5s and their pare
- nts or carers. No booking needed\, just come along.\nPrice: Free\nhttps:
- //www.rbkc.gov.uk/events/story-and-rhyme-time-chelsea-library
-LOCATION:Chelsea Library\, Chelsea Old Town Hall King's Road London SW3 5
- EZ United Kingdom\, London
-URL:https://www.rbkc.gov.uk/events/story-and-rhyme-time-chelsea-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a0e5e380a7bd469fb98064f93ac53d10-occ_fe8e5977bd554839856bc6acb09
@@ -41745,6 +41795,25 @@ LOCATION:London
 URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e8050915c78943d0a1fce4c6f4ff589f-occ_663e52f229c148918125fb901a4
+ 0792b@thingstodoinyourcity
+DTSTAMP:20261106T085152Z
+DTSTART:20261106T120000Z
+DTEND:20261106T144500Z
+SUMMARY:La Bola Negra
+DESCRIPTION:Best Director's Award winner at Cannes\, a bold tapestry span
+ ning nearly a century of Spanish history. Rich with Lorca's poetry\, it 
+ explores memory\, inheritance and queer history.\nPrice: Standard £11.0
+ 0\; Concession £9.00\; Member £8.50\; Under 25s Member £5.00\nhttps:/
+ /cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.waSelectIte
+ msPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_7188447.TcsSect
+ ion_3841519
+LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71884
+ 47.TcsSection_3841519
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8b2fe96d1a3e48e6a315529b3a4fa0ae-occ_a292996725f54662ad3fb8f43c0
  cf9d0@thingstodoinyourcity
 DTSTAMP:20261104T014226Z
@@ -41860,6 +41929,62 @@ LOCATION:Bustronome London\, Coach bay 40B\, Victoria Embankment\, WC2N 6
 URL:https://feverup.com/m/133739
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_d8b301319b434da6aab3f86ed5853363-occ_02bb928f87814e86a2d5c4d0004
+ a5f6f@thingstodoinyourcity
+DTSTAMP:20261106T111421Z
+DTSTART:20261106T121500Z
+SUMMARY:WICKER
+DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
+ ng outrage in a conservative seaside town. Olivia Colman and Alexander S
+ karsgård star.\nhttps://www.picturehouses.com/movie-details/022/HO00018
+ 436/wicker?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker?fil
+ ter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d8b301319b434da6aab3f86ed5853363-occ_bee8b61ea56c44c689aee6c47d0
+ e6f88@thingstodoinyourcity
+DTSTAMP:20261106T111421Z
+DTSTART:20261106T152000Z
+SUMMARY:WICKER
+DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
+ ng outrage in a conservative seaside town. Olivia Colman and Alexander S
+ karsgård star.\nhttps://www.picturehouses.com/movie-details/022/HO00018
+ 436/wicker?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker?fil
+ ter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d8b301319b434da6aab3f86ed5853363-occ_d47c10055c0a498d816bfcfe94a
+ 19e79@thingstodoinyourcity
+DTSTAMP:20261106T111421Z
+DTSTART:20261106T173000Z
+SUMMARY:WICKER
+DESCRIPTION:A ridiculed fisherwoman commissions a wicker husband\, sparki
+ ng outrage in a conservative seaside town. Olivia Colman and Alexander S
+ karsgård star.\nhttps://www.picturehouses.com/movie-details/022/HO00018
+ 436/wicker?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker?fil
+ ter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_57d80f64611740d19f8df669605c1a97-occ_e4915a414be14607acf6fca1f37
+ 1e15e@thingstodoinyourcity
+DTSTAMP:20261106T095307Z
+DTSTART:20261106T122000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:CIA agents Chris and Lee head to Easter Island in 1973 as the
+ ir pasts and present conspiracies collide. Chris's bond with two rebelli
+ ous students threatens to derail the trip.\nhttps://www.picturehouses.co
+ m/movie-details/022/HO00018626/wild-horse-nine
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_717d51f3fc964b5ca7268465b042999c-occ_40b9b42b22da4074851d3cb7044
  72952@thingstodoinyourcity
 DTSTAMP:20261031T225012Z
@@ -41928,6 +42053,19 @@ SUMMARY:Wild Horse Nine 15
 DESCRIPTION:https://www.thegardencinema.co.uk/
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_de48f9c1c9ea49eea05531fc6c5d73f5-occ_6a44c2f6456a41128d561e856bc
+ d6e8a@thingstodoinyourcity
+DTSTAMP:20261106T085004Z
+DTSTART:20261106T123000Z
+SUMMARY:Fatherland
+DESCRIPTION:Thomas Mann and his daughter Erika embark on a tense 1949 roa
+ d trip across a divided Germany. Pawlikowski's film\, a Cannes highlight
+ \, explores identity\, family\, love and guilt.\nhttps://www.institut-fr
+ ancais.org.uk/cinema/fatherland/
+LOCATION:Ciné Lumière\, London
+URL:https://www.institut-francais.org.uk/cinema/fatherland/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c610ca9e78624a08ae7a3f79e8c9eb88-occ_873f910e2d014589a8d48d044a2
@@ -42346,16 +42484,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_8e6af2baf3be4f35930076e4ee8a1291-occ_a0444f7e3bad494aaff266edd66
  4ec6d@thingstodoinyourcity
-DTSTAMP:20261104T203442Z
+DTSTAMP:20261106T093916Z
 DTSTART:20261106T131000Z
 SUMMARY:Bendit Chan (piano)
-DESCRIPTION:Hong Kong-born pianist Bendit Chan performs works by Bach\, R
- achmaninoff and Chopin. The concert is also streamed live on the church'
- s YouTube channel.\nPrice: Free admission | Donations welcome\nhttps://w
- ww.sjp.org.uk/whats-on/bendit-chan-piano/
+DESCRIPTION:Pianist Bendit Chan performs works by Bach\, Rachmaninoff and
+  Chopin. The concert is also streamed live on the church's YouTube chann
+ el.\nPrice: Free admission | Donations welcome\nhttps://www.sjp.org.uk/w
+ hats-on
 LOCATION:St James's Church Piccadilly\, 197 Piccadilly\, London W1J 9LL\,
   London
-URL:https://www.sjp.org.uk/whats-on/bendit-chan-piano/
+URL:https://www.sjp.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_92fed42210a840c28c44515b0b36c120-occ_a06acb8b4a3d47faa92145add5d
@@ -43361,6 +43499,231 @@ DESCRIPTION:Now in its 28th triumphant year\, Disney's award-winning musi
   seats\, prices and book.\nhttps://www.thelionking.co.uk/
 LOCATION:Lyceum Theatre\, London
 URL:https://www.thelionking.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a4aa8a88b6b64b0395ccaafc52acd3f7-occ_b890eb6042f24cdbaea676056a1
+ f3067@thingstodoinyourcity
+DTSTAMP:20261106T101759Z
+DTSTART:20261106T143000Z
+SUMMARY:Wildwood
+DESCRIPTION:Teen Prue McKeel sets out to rescue her baby brother from an 
+ enchanted forest near Portland. A loyal classmate joins her against band
+ its\, talking animals and powerful figures.\nhttps://www.picturehouses.c
+ om/movie-details/022/HO00018429/wildwood?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018429/wildwood?f
+ ilter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_8a45e3be8739455d9fe9ff24e28
+ b70be@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261106T150000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_f919c84eab824a61b47ca0e6982
+ 6b5f0@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261107T153000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_8feef8e284fb4a24a065bebc2d2
+ 5a43d@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261108T124000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_d0019cabada84c0fac1eccadc28
+ 5769e@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261109T120000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_6b82327ade434a48a8f2394fc3c
+ 1ad17@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261110T121000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_1be815e5b36f496bb91a678a0ed
+ 7ce96@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261111T120000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_5a4e4132cd05440fabd2c20a01dc06c0-occ_41f804fd88ab45c0b9ee9a2b4c3
+ 6e152@thingstodoinyourcity
+DTSTAMP:20261106T105745Z
+DTSTART:20261112T120000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika road-trip across
+  a ruined Germany. Directed by Paweł Pawlikowski\, starring Sandra Hül
+ ler and August Diehl.\nhttps://www.picturehouses.com/cinema/picturehouse
+ -central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_63149d0a664543f48e6d64161c73115c-occ_73c0bb8cd6324392b499a69b32f
+ b2db3@thingstodoinyourcity
+DTSTAMP:20261106T100501Z
+DTSTART:20261106T150000Z
+SUMMARY:Fatherland
+DESCRIPTION:In 1949\, Thomas Mann and his daughter Erika embark on a road
+  trip across a ruined Germany. Directed by Paweł Pawlikowski\, starring
+  Sandra Hüller and August Diehl.\nhttps://www.picturehouses.com/movie-d
+ etails/022/HO00018642/fatherland?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_aabfe8f69a6b4d149fde2fb4021
+ 46b0d@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261106T150000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_225ee0b15a604b4a998644dad46
+ e8402@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261107T103000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_a80396be85a24dedb39ac0aefde
+ 484ac@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261107T130000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_fd46b7c655a04d7ab7725848ed1
+ 899ac@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261108T114000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_4690087b54cb4405a078e9c992e
+ 33a3b@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261108T171500Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_11db34c5191140e9b1f8a2d52a4
+ ab2b3@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261109T122000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_fdd8455841544f98ab02b6d6d9c
+ ccc4c@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261110T161500Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_266aced1719b45388874c7f2b2de9016-occ_16c22ba495c74568bd72a32f7a9
+ 3e6e3@thingstodoinyourcity
+DTSTAMP:20261106T100409Z
+DTSTART:20261112T115000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/movie-details/022/HO00018428/gh
+ osts-the-possession-of-button-house
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018428/ghosts-the
+ -possession-of-button-house
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e62734fcc401424fac355664b98f7770-occ_0c48739890464b3a9144de62fcf
+ be82d@thingstodoinyourcity
+DTSTAMP:20261106T095320Z
+DTSTART:20261106T150000Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e8685c47ecb3439680b7311361731f95-occ_abf90a90029f4ebea621aa392a4
@@ -46091,6 +46454,21 @@ LOCATION:Totteridge Millhillians Cicket Club\, London
 URL:https://www.wherecanwego.com/whats-on/clerkenwell
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_949e2c5f2826457bbea31215c35c6163-occ_7cf7b7a7865e43f19b5ebc9f9b4
+ 1e5b2@thingstodoinyourcity
+DTSTAMP:20261106T093252Z
+DTSTART:20261106T200000Z
+SUMMARY:A Night of Comedy with Jeff McEnery & Special Guest
+DESCRIPTION:Jeff McEnery\, known for Letterkenny's Alexander\, headlines 
+ with special guest Anjelica Scannura and host Dom Pare. Three great come
+ dians\, one night only!\nPrice: $41\nhttps://www.londontourism.ca/events
+ /a-night-of-comedy-with-jeff-mcenery-and-special-guest
+LOCATION:Port Stanley Festival Theatre\, 302 Bridge Street\, Port Stanley
+ \, Ontario N5L 1C3\, London\, Ontario\, London
+URL:https://www.londontourism.ca/events/a-night-of-comedy-with-jeff-mcene
+ ry-and-special-guest
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ae6b24ddff6b49efb9f58bb07e1186b6-occ_0e91d93d14894356911800da10d
  dc521@thingstodoinyourcity
 DTSTAMP:20261106T033228Z
@@ -46574,6 +46952,132 @@ URL:https://www.londontheatres.com/event/terry-alderton-at-house-of-stand
  -up
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_6d2ffe73e8ce4788a748d5facbc
+ 504e3@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261106T201000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_449db0067e5348fe82dbfaeb4cd
+ e63ba@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261107T110000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_1bf5d77b8a154c0b824ff6e017e
+ 76f78@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261107T200000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_903ef10b4dfb4ea09744c85f287
+ 1f95a@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261108T133000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_68b7f9945de9423ea44e17f593b
+ 5b275@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261108T194500Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_aae36b8633ab4ea59e5d7fdadbc
+ 1dae6@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261109T160000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_4a6f3e9668174e4c8941226ed16
+ b5da7@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261110T190000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_2dea70f70ed048839ba6df2b653
+ e9e2c@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261112T134000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b18ab330b2df495fa36493ec41ab1e11-occ_2fc6624b4d64497a8f64c6364c9
+ 6fb5d@thingstodoinyourcity
+DTSTAMP:20261106T105118Z
+DTSTART:20261124T193000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Picks up in 1949\, two years after Godzilla Minus One\, follo
+ wing the Shikishima family. Ryunosuke Kamiki returns as Koichi Shikishim
+ a\, joined by Minami Hamabe as Noriko Oishi.\nhttps://www.picturehouses.
+ com/movie-details/022/HO00018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d023954a4b47418e9e5bdaafb43efec1-occ_46e3df4dcd654c7c8ee30529e3b
  ad0f2@thingstodoinyourcity
 DTSTAMP:20261102T104206Z
@@ -46676,6 +47180,24 @@ LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_566127d827f64135a520e663fb482b8d-occ_673076e5fbda4dcc9d94c385ded
+ ca6a5@thingstodoinyourcity
+DTSTAMP:20261106T085132Z
+DTSTART:20261106T203000Z
+DTEND:20261106T215900Z
+SUMMARY:Home A Loan
+DESCRIPTION:Eun-jin buys an apartment in a Seoul building due for redevel
+ opment\, but her paranoia grows. Kim Tae-kyeong's UK premiere keeps its 
+ plotting deliberately uncertain.\nPrice: STANDARD £10.00\, MEMBER £9.5
+ 0\, UNDER 25S MEMBER £5.00\nhttps://cinelumiere.savoysystems.co.uk/Cine
+ Lumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTa
+ b_601.TcsPerformance_7122205.TcsSection_6930861
+LOCATION:Ciné Lumière\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71222
+ 05.TcsSection_6930861
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b731659de03a4b88894541ee95387c99-occ_dab06e22d60a487fa937a3e7f3f
  8c463@thingstodoinyourcity
 DTSTAMP:20261023T010836Z
@@ -46724,6 +47246,18 @@ SUMMARY:International Stand Up Comedy Club Night featuring Sara Barron
 DESCRIPTION:https://comedycarnival.co.uk/events
 LOCATION:SEVEN DIALS CLUB\, London
 URL:https://comedycarnival.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8252eb4beb3848e8a396c19922a1cea7-occ_72e2236e4a3d487cb1b48cbc80b
+ 30ac8@thingstodoinyourcity
+DTSTAMP:20261106T101803Z
+DTSTART:20261106T203000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Host Chris Hansen\, played by Robert Pattinson\, wants televi
+ sion history when executives move his show to primetime. Directed by Lan
+ ce Oppenheim.\nhttps://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0ff7e8ce2c5b49378da297232b72f342-occ_9ca235ca28fd4c36b71f71956a6
@@ -50296,20 +50830,6 @@ LOCATION:Village Soho\, London
 URL:https://www.villagesoho.co.uk/london-bar/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7eb8600157b847a5b9bd5be5ecd88911-occ_f2948667694a4a81aac57ad8437
- 47d40@thingstodoinyourcity
-DTSTAMP:20261104T200327Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Screening: Sheep\, Actually: The Make Joy After Party
-DESCRIPTION:Paul Wyatt's woolly documentary is screened at the Make Joy A
- fter Party\, followed by a Q&A. Speakers include Justine Lee of the Lond
- on Wool Collective and artist Remiiya Badru.\nPrice: Advance Price: £18
- .50 | Price includes a £1.50 booking fee per ticket.\nhttps://www.woolw
- ich.works/whats-on
-LOCATION:Beanfeast\, London
-URL:https://www.woolwich.works/whats-on
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_79670da927064a00b9ddd402f9fa1943-occ_823eda423db04617820eebfb09c
  096fd@thingstodoinyourcity
 DTSTAMP:20261104T041928Z
@@ -50386,51 +50906,6 @@ SUMMARY:Sip and Paint: Experimental Saturdays
 DESCRIPTION:Price: Tickets from £15\nhttps://www.rmg.co.uk/whats-on
 LOCATION:Prince Philip Maritime Collections Centre\, London
 URL:https://www.rmg.co.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_a5bb52894eff411591c1f2f03f4
- 88529@thingstodoinyourcity
-DTSTAMP:20261104T194408Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Sirocco & The Kingdom of the Winds
-DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
- Two sisters enter their favourite book's world and must find Sirocco\, a
-  terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
- b6968-2026-11-07@thingstodoinyourcity
-DTSTAMP:20261104T194408Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Sirocco & The Kingdom of the Winds
-DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
- Two sisters enter their favourite book's world and must find Sirocco\, a
-  terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
- b6968-2026-11-08@thingstodoinyourcity
-DTSTAMP:20261104T194408Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Sirocco & The Kingdom of the Winds
-DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
- Two sisters enter their favourite book's world and must find Sirocco\, a
-  terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
-  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://www.institut-francais.org
- .uk/cinema/sirocco-the-kingdom-of-the-winds
-LOCATION:Ciné Lumière II\, London
-URL:https://www.institut-francais.org.uk/cinema/sirocco-the-kingdom-of-th
- e-winds
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_221b011fd5d54c5f9e43b5e3ef131c88-occ_6cbf1c3c859b4e1394efab42d4c
@@ -51106,6 +51581,19 @@ UID:cand_cb9466e51d37446685ec87b92714c64c-occ_5a4b8892c93e4ce1aa301a70b87
 DTSTAMP:20261031T235255Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261114
+SUMMARY:UNREAL: A Festival of Magic and Performance
+DESCRIPTION:Artists from the UK and Europe reimagine sleight of hand and 
+ stage illusion through theatre and live art. Audiences go behind the cur
+ tain across five days.\nPrice: Pay What You Can (Recommended Prices from
+  £8)*\nhttps://bac.org.uk/whats-on/unreal-festival/
+LOCATION:Battersea Arts Centre\, Lavender Hill London SW11 5TN\, London
+URL:https://bac.org.uk/whats-on/unreal-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_cb9466e51d37446685ec87b92714c64c-occ_817e23bad03d4d7da40e163f5b2
+ f26f4@thingstodoinyourcity
+DTSTAMP:20261031T235255Z
+DTSTART;VALUE=DATE:20261114
 SUMMARY:UNREAL: A Festival of Magic and Performance
 DESCRIPTION:Artists from the UK and Europe reimagine sleight of hand and 
  stage illusion through theatre and live art. Audiences go behind the cur
@@ -52677,6 +53165,20 @@ URL:https://stayhappening.com/e/ucl-institute-of-archaeology-winter-archa
  eology-festival-2026-E118SB2JN2K3B
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cc3ad65c84404738b28ad3047993603f-occ_200d31e40c3e40ed8e647339c28
+ 20fad@thingstodoinyourcity
+DTSTAMP:20261106T100143Z
+DTSTART:20261107T101000Z
+SUMMARY:WILDWOOD
+DESCRIPTION:Prue McKeel launches a rescue mission into an enchanted fores
+ t after crows abduct her baby brother. A loyal classmate joins her among
+  bandits and talking animals.\nhttps://www.picturehouses.com/movie-detai
+ ls/022/HO00018429/wildwood?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018429/wildwood?f
+ ilter=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2977777b83c94f3b867f7dd22517e6d1-occ_e59de3b9de3c4f0abb9f44d93d7
  70aba@thingstodoinyourcity
 DTSTAMP:20261105T041815Z
@@ -53348,6 +53850,76 @@ LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_394a717a5ebe44b6817d61422a8a5bd9-occ_0365eee2901d433dbfcd3e06487
+ 068d8@thingstodoinyourcity
+DTSTAMP:20261106T101322Z
+DTSTART:20261107T104500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:In 1973 Chile\, CIA agents Chris and Lee wrestle with dark pa
+ sts on Easter Island. Chris's bond with two rebellious students threaten
+ s to upend their trip.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_394a717a5ebe44b6817d61422a8a5bd9-occ_7615e555a60a4b99b55c549309b
+ dd7ca@thingstodoinyourcity
+DTSTAMP:20261106T101322Z
+DTSTART:20261107T142000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:In 1973 Chile\, CIA agents Chris and Lee wrestle with dark pa
+ sts on Easter Island. Chris's bond with two rebellious students threaten
+ s to upend their trip.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_394a717a5ebe44b6817d61422a8a5bd9-occ_534c7dbab3164169bfd31bbada4
+ d32cd@thingstodoinyourcity
+DTSTAMP:20261106T101322Z
+DTSTART:20261107T143000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:In 1973 Chile\, CIA agents Chris and Lee wrestle with dark pa
+ sts on Easter Island. Chris's bond with two rebellious students threaten
+ s to upend their trip.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_394a717a5ebe44b6817d61422a8a5bd9-occ_b7ec0219370840148549631dcbc
+ 6613d@thingstodoinyourcity
+DTSTAMP:20261106T101322Z
+DTSTART:20261107T171500Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:In 1973 Chile\, CIA agents Chris and Lee wrestle with dark pa
+ sts on Easter Island. Chris's bond with two rebellious students threaten
+ s to upend their trip.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_394a717a5ebe44b6817d61422a8a5bd9-occ_06ad19f4000143caabd5c61a692
+ 22bbc@thingstodoinyourcity
+DTSTAMP:20261106T101322Z
+DTSTART:20261107T203000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:In 1973 Chile\, CIA agents Chris and Lee wrestle with dark pa
+ sts on Easter Island. Chris's bond with two rebellious students threaten
+ s to upend their trip.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c71d1ebc401e4f82805a030d63e4bd6c-occ_7a132949a3264e09b45e649052d
  e8edf@thingstodoinyourcity
 DTSTAMP:20261105T040809Z
@@ -53528,6 +54100,96 @@ URL:https://stayhappening.com/e/bollyhit-bollywood-dance-fitness-class-no
  rth-greenwich-london-E118SB6W4WUIQ
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_9a0e2b0a82314ce6b1374d96121
+ 92f76@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261107T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_6548a1f7dcb24767b4ecab973d2
+ 21c92@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261114T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_d7ad3ccb63a844b2821ae37a3b0
+ b74b6@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261121T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_23254a98909642d0888b33a061f
+ d8845@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261128T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_e16890c4650b4fd893a2b65cb02
+ a11fb@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261205T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ecaf654dcc83463ca39c1283594848dd-occ_6350e25b4c28496e868ca94710c
+ 9023b@thingstodoinyourcity
+DTSTAMP:20261106T085343Z
+DTSTART:20261212T110000Z
+SUMMARY:Code Easy Robotics & Coding Club - Free Taster Session
+DESCRIPTION:Children explore robotics\, coding and 3D design through prac
+ tical challenges in a friendly environment. Places are limited and advan
+ ce registration is recommended.\nPrice: Free taster session\nhttps://www
+ .woolwich.works/events/code-easy-robotics-coding-club-free-taster-sessio
+ ns
+LOCATION:Meeting Room 2 at Woolwich Works\, London
+URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
+ -taster-sessions
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_46c52eddc1fa4541a1dd0ed0e37aee58-occ_088b7d18b2bb41b1b3316c434d0
  fed1c@thingstodoinyourcity
 DTSTAMP:20261103T065229Z
@@ -53618,15 +54280,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_11f16d55788a40dc8d74ce466db6c014-occ_fa63656d71e74fab9ff4632d8eb
  fb5eb@thingstodoinyourcity
-DTSTAMP:20261104T203720Z
+DTSTAMP:20261106T094144Z
 DTSTART:20261107T110000Z
 SUMMARY:Relaxed Saturday Live: Ke Ma (piano)
 DESCRIPTION:A relaxed 45-minute concert with an omakase-style programme c
- hosen by the artist. Pieces by Scarlatti\, Chopin and more\, and you're 
- free to wander in and out.\nPrice: Free admission | Donations welcome\nh
- ttps://www.sjp.org.uk/whats-on/relaxed-saturday-live-ke-ma-piano/
+ hosen by the artist\, featuring Scarlatti and Chopin. Wander in and out 
+ as you like.\nPrice: Free admission | Donations welcome\nhttps://www.sjp
+ .org.uk/whats-on
 LOCATION:St James's Church\, 197 Piccadilly London W1J 9LL\, London
-URL:https://www.sjp.org.uk/whats-on/relaxed-saturday-live-ke-ma-piano/
+URL:https://www.sjp.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_116921e5d73148acb56930c9553dd09f-occ_d1af9c04de81444985c62106736
@@ -53719,6 +54381,45 @@ LOCATION:BOXPARK Shoreditch\, 2 – 10 Bethnal Green Road Shoreditch Lond
  on E1 6GY\, London\, England\, London
 URL:https://www.eventbrite.co.uk/e/italy-vs-south-africa-nations-champion
  ship-live-screening-tickets-2004201899834
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_20a0a51716b74485a7fd42df1b7e402e-occ_b84a65792e254c16bf82d8bebb6
+ 4c21d@thingstodoinyourcity
+DTSTAMP:20261106T100540Z
+DTSTART:20261107T114000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Host Chris Hansen's hit TV sting show spirals into a high-sta
+ kes operation that slips out of control. Directed by Lance Oppenheim\; s
+ tarring Robert Pattinson and Phoebe Bridgers.\nhttps://www.picturehouses
+ .com/movie-details/022/HO00018589/primetime
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018589/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_20a0a51716b74485a7fd42df1b7e402e-occ_af0c6dc6cc6b48ee8e354a0185b
+ 0f0db@thingstodoinyourcity
+DTSTAMP:20261106T100540Z
+DTSTART:20261107T143500Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Host Chris Hansen's hit TV sting show spirals into a high-sta
+ kes operation that slips out of control. Directed by Lance Oppenheim\; s
+ tarring Robert Pattinson and Phoebe Bridgers.\nhttps://www.picturehouses
+ .com/movie-details/022/HO00018589/primetime
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018589/primetime
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_20a0a51716b74485a7fd42df1b7e402e-occ_ae30f82dbfab4c95810e87f79b0
+ 8b98a@thingstodoinyourcity
+DTSTAMP:20261106T100540Z
+DTSTART:20261107T171500Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Host Chris Hansen's hit TV sting show spirals into a high-sta
+ kes operation that slips out of control. Directed by Lance Oppenheim\; s
+ tarring Robert Pattinson and Phoebe Bridgers.\nhttps://www.picturehouses
+ .com/movie-details/022/HO00018589/primetime
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018589/primetime
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5026ed98590b4570809d49df8fc492a7-occ_198fa30ee87e4a1098fb22f43a6
@@ -54436,6 +55137,20 @@ LOCATION:ICA\, London
 URL:https://www.ica.art/films
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_651e76ca5bb04502b23aae8229180ad3-occ_8331e0cf896e41b2873a0bc539e
+ 0e002@thingstodoinyourcity
+DTSTAMP:20261106T100242Z
+DTSTART:20261107T131500Z
+SUMMARY:NAZA
+DESCRIPTION:Israeli filmmakers examine the systems behind the mass killin
+ g of Palestinian civilians. A preview with special broadcast Q&A is also
+  advertised.\nhttps://www.picturehouses.com/movie-details/022/HO00018771
+ /naza?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018771/naza?filte
+ r=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6431cf7a61db43b2998070ca6ac5389e-occ_b3235395bcc44f7c9336b1aba7d
  d56b2@thingstodoinyourcity
 DTSTAMP:20261030T000814Z
@@ -54515,6 +55230,24 @@ DESCRIPTION:Prue and classmate Curtis quest through an enchanted forest t
  rstation.com/film/wildwood
 LOCATION:The Arches\, Arches under Grosvenor Bridge\, London
 URL:https://www.thecinemainthepowerstation.com/film/wildwood
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
+ b6968@thingstodoinyourcity
+DTSTAMP:20261106T084905Z
+DTSTART:20261107T134500Z
+DTEND:20261107T151100Z
+SUMMARY:Sirocco & The Kingdom of the Winds
+DESCRIPTION:Audience Award winner at the Annecy Animation Festival 2023. 
+ Two sisters enter their favourite book's world and must find Sirocco\, a
+  terrifying wind magician.\nPrice: STANDARD £6.00\, CONCESSION £6.00\,
+  MEMBER £6.00\, KIDS STANDARD £6.00\nhttps://cinelumiere.savoysystems.
+ co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_60
+ 0.TcsWebTab_601.TcsPerformance_7189443.TcsSection_3841519
+LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71894
+ 43.TcsSection_3841519
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6593621d1ff04a28824cea3d7ac7b5d5-occ_83836fd257be4bf79ce9aba7977
@@ -55152,6 +55885,16 @@ LOCATION:The Bill Murray\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_29dd911fc1b54b77a84f1f4bb0d819ab-occ_33d2d35d94514656be577dff92e
+ 1da84@thingstodoinyourcity
+DTSTAMP:20261106T100027Z
+DTSTART:20261107T153000Z
+SUMMARY:Fatherland
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e5e3da9e7e58435e92195a11f00eb530-occ_af50fd470f9547b3809ac6aa1b6
  24bc1@thingstodoinyourcity
 DTSTAMP:20261105T110148Z
@@ -55575,6 +56318,21 @@ LOCATION:BOXPARK Shoreditch\, 2 – 10 Bethnal Green Road Shoreditch Lond
  on E1 6GY\, Shoreditch\, London
 URL:https://www.eventbrite.co.uk/e/nottingham-forest-vs-man-city-premier-
  league-live-screening-tickets-2004064051526
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7eb8600157b847a5b9bd5be5ecd88911-occ_f2948667694a4a81aac57ad8437
+ 47d40@thingstodoinyourcity
+DTSTAMP:20261106T085004Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Screening: Sheep\, Actually: The Make Joy After Party
+DESCRIPTION:Paul Wyatt's woolly documentary screens at the Make Joy After
+  Party\, followed by a Q&A. Speakers include Justine Lee of the London W
+ ool Collective and artist Remiiya Badru.\nPrice: Advance Price: £18.50 
+ | Price includes a £1.50 booking fee per ticket.\nhttps://www.woolwich.
+ works/whats-on
+LOCATION:Beanfeast\, London
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1952805354554dd3a79a74b2adcefaca-occ_6bf866256de84d3da1033b103ab
@@ -56679,6 +57437,19 @@ LOCATION:Elliott Hall\, Harrow Arts Centre\, 171 Uxbridge Road\, Hatch En
 URL:https://harrowarts.com/events/the-best-in-comedy-nov-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5188cf378af04826b5ea3ed477749efc-occ_e8a5265417244430b3e2c9a167b
+ 2f235@thingstodoinyourcity
+DTSTAMP:20261106T100503Z
+DTSTART:20261107T194000Z
+SUMMARY:La Bola Negra
+DESCRIPTION:Three generations of men are followed through Spain's 1932\, 
+ 1937 and 2017. Sexuality\, desire\, pain and inheritance connect them.\n
+ https://www.picturehouses.com/movie-details/022/HO00018749/la-bola-negra
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018749/la-bola-ne
+ gra
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ba9fc9ac8b9c47adbdd50babce96275f-occ_ab2de3788b36457ba623ad0fa65
  34106@thingstodoinyourcity
 DTSTAMP:20261101T015354Z
@@ -56767,6 +57538,19 @@ LOCATION:Comedy Carnival Covent Garden\, 42 Earlham Street\, London\, WC2
  H 9LA\, London
 URL:https://opencomedy.com/uk/gigs/london/comedy-carnival-covent-garden/s
  aturday-comedy-club-london-covent-garden-november-2026-7th-nov/19083
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_872bdb56006b419ea165527bce35a749-occ_f8068daf2d63487d9dafe5d18bf
+ ec3de@thingstodoinyourcity
+DTSTAMP:20261106T095517Z
+DTSTART:20261107T203000Z
+SUMMARY:Wicker
+DESCRIPTION:A fisherwoman\, ridiculed by her neighbours\, commissions her
+ self a husband made from wicker. Her unconventional romance sparks outra
+ ge\, jealousy and chaos in a conservative town.\nhttps://www.picturehous
+ es.com/movie-details/022/HO00018436/wicker
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2ce5f8d44a6e490692f5723de0bede86-occ_cafce3aa6a5a45538e08a15647c
@@ -56956,27 +57740,51 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_c355de5db997458380c2be5face52fd4-occ_3ef4069c20a245fa97fcfdda6f9
  1b45e@thingstodoinyourcity
-DTSTAMP:20261103T203028Z
+DTSTAMP:20261106T092040Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261115
 SUMMARY:Balance by Brainfools at VOILÀ! Theatre Festival
-DESCRIPTION:Price: Full: £18 Conc: £13\nhttps://www.acflondon.org/event
- s/balance-by-brainfools-at-voila-theatre-festival
-LOCATION:The Space Theatre\, Isle of Dogs\, London
-URL:https://www.acflondon.org/events/balance-by-brainfools-at-voila-theat
- re-festival
+DESCRIPTION:Brainfools' ich-duO use found objects\, industrial kegs and g
+ lass bottles for acrobatic feats. The show explores trust and finding a 
+ partner to help carry the load.\nPrice: Full: £18 Conc: £13\nhttps://w
+ ww.voilafestival.co.uk/events/balance-contemporary-circus-show-by-ich-du
+ o/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/balance-contemporary-circus-sh
+ ow-by-ich-duo/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c355de5db997458380c2be5face52fd4-occ_3b4b9ecc25a641d8bee347eb0ca
+ 2f587@thingstodoinyourcity
+DTSTAMP:20261106T092040Z
+DTSTART:20261108T153000Z
+SUMMARY:Balance by Brainfools at VOILÀ! Theatre Festival
+DESCRIPTION:Brainfools' ich-duO use found objects\, industrial kegs and g
+ lass bottles for acrobatic feats. The show explores trust and finding a 
+ partner to help carry the load.\nPrice: Full: £18 Conc: £13\nhttps://w
+ ww.voilafestival.co.uk/events/balance-contemporary-circus-show-by-ich-du
+ o/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/balance-contemporary-circus-sh
+ ow-by-ich-duo/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c355de5db997458380c2be5face52fd4-occ_4471f3841e0b45c9841c90d1ab4
  19fd0@thingstodoinyourcity
-DTSTAMP:20261103T203028Z
-DTSTART;VALUE=DATE:20261115
+DTSTAMP:20261106T092040Z
+DTSTART:20261115T123000Z
 SUMMARY:Balance by Brainfools at VOILÀ! Theatre Festival
-DESCRIPTION:Price: Full: £18 Conc: £13\nhttps://www.acflondon.org/event
- s/balance-by-brainfools-at-voila-theatre-festival
-LOCATION:The Space Theatre\, Isle of Dogs\, London
-URL:https://www.acflondon.org/events/balance-by-brainfools-at-voila-theat
- re-festival
+DESCRIPTION:Brainfools' ich-duO use found objects\, industrial kegs and g
+ lass bottles for acrobatic feats. The show explores trust and finding a 
+ partner to help carry the load.\nPrice: Full: £18 Conc: £13\nhttps://w
+ ww.voilafestival.co.uk/events/balance-contemporary-circus-show-by-ich-du
+ o/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/balance-contemporary-circus-sh
+ ow-by-ich-duo/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2ff4bbbabfb1400185ca793c706c3bf9-occ_807fd79d94744c11bf398a51fdd
@@ -57166,27 +57974,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_924201adc36d447098a9fd149a06edfd-occ_935346c50b034451813a3714ab0
  b2082@thingstodoinyourcity
-DTSTAMP:20261103T202807Z
+DTSTAMP:20261106T092040Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261114
 SUMMARY:Do You Know Where To Go From Here? at VOILÀ! Theatre Festival
-DESCRIPTION:Price: Full: £16 Conc: £12\nhttps://www.acflondon.org/event
- s/do-you-know-where-to-go-from-here-at-voila-theatre-festival
-LOCATION:The Space Theatre\, Isle of Dogs\, London
-URL:https://www.acflondon.org/events/do-you-know-where-to-go-from-here-at
- -voila-theatre-festival
+DESCRIPTION:Stephanie Renae Lau performs this one-woman dark comedy: Soph
+ ie tidies up amid clothes to face old wounds. It explores grief\, family
+ \, faith and migration.\nPrice: Full: £16 Conc: £12\nhttps://www.voila
+ festival.co.uk/events/do-you-know-where-to-go-from-here-2026/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/do-you-know-where-to-go-from-h
+ ere-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_924201adc36d447098a9fd149a06edfd-occ_9cf52ab7bb154d458978ef24521
+ c1844@thingstodoinyourcity
+DTSTAMP:20261106T092040Z
+DTSTART:20261108T173000Z
+SUMMARY:Do You Know Where To Go From Here? at VOILÀ! Theatre Festival
+DESCRIPTION:Stephanie Renae Lau performs this one-woman dark comedy: Soph
+ ie tidies up amid clothes to face old wounds. It explores grief\, family
+ \, faith and migration.\nPrice: Full: £16 Conc: £12\nhttps://www.voila
+ festival.co.uk/events/do-you-know-where-to-go-from-here-2026/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/do-you-know-where-to-go-from-h
+ ere-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_924201adc36d447098a9fd149a06edfd-occ_fd5fc13e736142678145146eb6d
  948e6@thingstodoinyourcity
-DTSTAMP:20261103T202807Z
-DTSTART;VALUE=DATE:20261114
+DTSTAMP:20261106T092040Z
+DTSTART:20261114T190000Z
 SUMMARY:Do You Know Where To Go From Here? at VOILÀ! Theatre Festival
-DESCRIPTION:Price: Full: £16 Conc: £12\nhttps://www.acflondon.org/event
- s/do-you-know-where-to-go-from-here-at-voila-theatre-festival
-LOCATION:The Space Theatre\, Isle of Dogs\, London
-URL:https://www.acflondon.org/events/do-you-know-where-to-go-from-here-at
- -voila-theatre-festival
+DESCRIPTION:Stephanie Renae Lau performs this one-woman dark comedy: Soph
+ ie tidies up amid clothes to face old wounds. It explores grief\, family
+ \, faith and migration.\nPrice: Full: £16 Conc: £12\nhttps://www.voila
+ festival.co.uk/events/do-you-know-where-to-go-from-here-2026/
+LOCATION:The Space Theatre\, 269 Westferry Road\, Isle of Dogs\, London\,
+  E14 3RS\, Isle of Dogs\, London
+URL:https://www.voilafestival.co.uk/events/do-you-know-where-to-go-from-h
+ ere-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9bc0b5378cdc4f868d56b141dacd33af-occ_c8746f19a3f8419282ff3a8217c
@@ -57341,23 +58170,6 @@ SUMMARY:Gilbert O’Sullivan Celebrating 60 Years of Music
 DESCRIPTION:https://www.theatreticketsdirect.co.uk/category/all
 LOCATION:London Palladium\, London
 URL:https://www.theatreticketsdirect.co.uk/category/all
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_216148cea98149189455ec32e3d7ea46-occ_cca162a09f034e5db878a1f9eef
- dd336@thingstodoinyourcity
-DTSTAMP:20261104T194408Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:God's Offices
-DESCRIPTION:Nathalie Baye plays Anne\, a family planning counsellor\, in 
- this ensemble work. Claire Simon directs\, and the film premiered in Can
- nes' Directors Fortnight.\nPrice: Standard £14.00\; Concession £12.00\
- ; Member £11.50\; Under 25s Member £5.00\nhttps://cinelumiere.savoysys
- tems.co.uk/CineLumiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuIt
- em_600.TcsWebTab_601.TcsPerformance_6970744.TcsSection_6930861
-LOCATION:Ciné Lumière\, London
-URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
- aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_69707
- 44.TcsSection_6930861
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_05a7a02894f34eb58abde4625b0a83ea-occ_f62ecf0743f84999862a19517ba
@@ -57815,20 +58627,6 @@ DESCRIPTION:Price: £20.00 (£21.20 incl. fees)\nhttps://ticketlab.app/ev
  ents/cinemamuseum
 LOCATION:London
 URL:https://ticketlab.app/events/cinemamuseum
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4b3b682ebd25496d8220787240c06ead-occ_8fc59b33eb094bd2a625cc6c231
- a9935@thingstodoinyourcity
-DTSTAMP:20261104T200345Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Mr Sleepybum’s Dream Machine
-DESCRIPTION:Mr Sleepybum can’t dream\, so he invents a machine to bring
-  dreams to life. Interactive sketches\, slapstick and silliness make it 
- fun for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £4
- 9.20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nht
- tps://www.woolwich.works/whats-on
-LOCATION:Ropekeepers Studio\, London
-URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c3d01cf06dfe4aae94c5d5a66fcefc7f-occ_6a5588e87e25491ebc1da890273
@@ -58957,6 +59755,20 @@ LOCATION:St Giles’ Cripplegate Church\, St Giles’ Cripplegate Church\
 URL:https://culturemilebid.co.uk/events-news
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_2022616a851f4cfc8086a3a5189f15c0-occ_bb866f16b1074b18a15373e19cb
+ 4c4ea@thingstodoinyourcity
+DTSTAMP:20261106T103720Z
+DTSTART:20261108T103000Z
+SUMMARY:NAZA
+DESCRIPTION:Israeli filmmakers examine the systems behind the mass killin
+ g of Palestinian civilians. The film explores what goes unsaid\, and say
+ s breaking that silence is up to all of us.\nhttps://www.picturehouses.c
+ om/movie-details/022/HO00018771/naza?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018771/naza?filte
+ r=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b61ba52d193e4986a7b8876ec6f07dfd-occ_45ea24f1652847fc9137e4524fc
  d26cf@thingstodoinyourcity
 DTSTAMP:20261101T103211Z
@@ -59210,6 +60022,34 @@ LOCATION:Studio Theatre\, London
 URL:https://www.artsdepot.co.uk/event/the-wind-in-the-willows/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_14d7cd0849e94a5093ad2c0fc5673363-occ_35544aa29eb745d29eaaffb0865
+ aee97@thingstodoinyourcity
+DTSTAMP:20261106T102937Z
+DTSTART:20261108T103000Z
+SUMMARY:WICKER
+DESCRIPTION:A fed-up fisherwoman commissions a husband made from wicker. 
+ Her unconventional romance sparks outrage\, jealousy and chaos in a cons
+ ervative town.\nhttps://www.picturehouses.com/movie-details/022/HO000184
+ 36/wicker?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker?fil
+ ter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_14d7cd0849e94a5093ad2c0fc5673363-occ_b6ecdf9473304d72b432eb7cd4b
+ a3a5e@thingstodoinyourcity
+DTSTAMP:20261106T102937Z
+DTSTART:20261108T174500Z
+SUMMARY:WICKER
+DESCRIPTION:A fed-up fisherwoman commissions a husband made from wicker. 
+ Her unconventional romance sparks outrage\, jealousy and chaos in a cons
+ ervative town.\nhttps://www.picturehouses.com/movie-details/022/HO000184
+ 36/wicker?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018436/wicker?fil
+ ter=
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_738f411453be47e795d36d91c6fe1946-occ_be5eeef0e9a74d64a5664bcc1e2
  85a25@thingstodoinyourcity
 DTSTAMP:20261102T083539Z
@@ -59217,6 +60057,16 @@ DTSTART:20261108T103000Z
 SUMMARY:regen mixer: hike edition part 3
 DESCRIPTION:https://www.eventbrite.com.au/ttd/united-kingdom--london
 LOCATION:Richmond Park\, London
+URL:https://www.eventbrite.com.au/ttd/united-kingdom--london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a8832b7c500f46d9bfe3a6d88706d6ee-occ_9cfe4b3f63b04aa98555e64a9c2
+ cc0d2@thingstodoinyourcity
+DTSTAMP:20261106T085226Z
+DTSTART:20261108T103000Z
+SUMMARY:regen mixer: hike edition part 3
+DESCRIPTION:https://www.eventbrite.com.au/ttd/united-kingdom--london
+LOCATION:TW10 5HU\, Richmond\, London
 URL:https://www.eventbrite.com.au/ttd/united-kingdom--london
 END:VEVENT
 BEGIN:VEVENT
@@ -59244,6 +60094,34 @@ SUMMARY:Remembrance Sunday Morning Service & Sunday School with Revd Angu
 DESCRIPTION:https://www.stcolumbas.org.uk/all-events/?event=3900
 LOCATION:St Columba's Church\, Pont Street\, London\, SW1X 0BD\, London
 URL:https://www.stcolumbas.org.uk/all-events/?event=3900
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec56333b80f642d2aafa116f4a12a0f0-occ_038c97d4af9b4b0d84350675962
+ 2a57a@thingstodoinyourcity
+DTSTAMP:20261106T103917Z
+DTSTART:20261108T104500Z
+SUMMARY:WILDWOOD
+DESCRIPTION:A headstrong teenager sets out on a rescue mission into an en
+ chanted forest near Portland after crows abduct her baby brother. A loya
+ l classmate joins her.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018429/wildwood?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018429/wildwood?f
+ ilter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec56333b80f642d2aafa116f4a12a0f0-occ_8f5a27c2111c45779c240f347c1
+ 07970@thingstodoinyourcity
+DTSTAMP:20261106T103917Z
+DTSTART:20261108T201000Z
+SUMMARY:WILDWOOD
+DESCRIPTION:A headstrong teenager sets out on a rescue mission into an en
+ chanted forest near Portland after crows abduct her baby brother. A loya
+ l classmate joins her.\nhttps://www.picturehouses.com/movie-details/022/
+ HO00018429/wildwood?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018429/wildwood?f
+ ilter=
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_88298c77f15746c4b8c263d4d20941bb-occ_f392e55cde6f4bdba6bb93d4b8b
@@ -59345,6 +60223,34 @@ DESCRIPTION:Join a guide to explore the National Maritime Museum's treasu
 LOCATION:National Maritime Museum\, London
 URL:https://www.rmg.co.uk/whats-on/national-maritime-museum/members-treas
  ures-tours
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b3b682ebd25496d8220787240c06ead-occ_8fc59b33eb094bd2a625cc6c231
+ a9935@thingstodoinyourcity
+DTSTAMP:20261106T085029Z
+DTSTART:20261108T110000Z
+SUMMARY:Mr Sleepybum’s Dream Machine
+DESCRIPTION:Mr Sleepybum can’t dream\, so he invents a machine to bring
+  dreams to life. Interactive sketches\, slapstick and silliness make it 
+ fun for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £4
+ 9.20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nht
+ tps://www.woolwich.works/whats-on
+LOCATION:Ropekeepers Studio\, London
+URL:https://www.woolwich.works/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4b3b682ebd25496d8220787240c06ead-occ_5d13643797974ca28eb5dc47e0c
+ fa12e@thingstodoinyourcity
+DTSTAMP:20261106T085029Z
+DTSTART:20261108T140000Z
+SUMMARY:Mr Sleepybum’s Dream Machine
+DESCRIPTION:Mr Sleepybum can’t dream\, so he invents a machine to bring
+  dreams to life. Interactive sketches\, slapstick and silliness make it 
+ fun for the whole family.\nPrice: Standard: £13.50 | Family Ticket: £4
+ 9.20 (10% Discount) | Prices include a £1.50 booking fee per ticket\nht
+ tps://www.woolwich.works/whats-on
+LOCATION:Ropekeepers Studio\, London
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b555399fd83642dea8c65b275c26f5d3-occ_cf7dbe431dbe4b8ca1c49a20c5c
@@ -59496,6 +60402,89 @@ LOCATION:Japan House London\, London
 URL:https://www.southkenculturequarter.com/this-weekends-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_f0a1ac3ed9034f949afc000cbe0
+ 2bddf@thingstodoinyourcity
+DTSTAMP:20261106T110632Z
+DTSTART:20261108T124000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
+ Germany in 1949. Paweł Pawlikowski directs Sandra Hüller and August Di
+ ehl.\nhttps://www.picturehouses.com/movie-details/022/HO00018642/fatherl
+ and?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_6f0444b6b0c04b119682f50788a
+ fab1b@thingstodoinyourcity
+DTSTAMP:20261106T110632Z
+DTSTART:20261109T120000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
+ Germany in 1949. Paweł Pawlikowski directs Sandra Hüller and August Di
+ ehl.\nhttps://www.picturehouses.com/movie-details/022/HO00018642/fatherl
+ and?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_c13b278acefe4fb386a7f7820ee
+ 6df35@thingstodoinyourcity
+DTSTAMP:20261106T110632Z
+DTSTART:20261110T121000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
+ Germany in 1949. Paweł Pawlikowski directs Sandra Hüller and August Di
+ ehl.\nhttps://www.picturehouses.com/movie-details/022/HO00018642/fatherl
+ and?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_357280c68760417daa1acf6b66a
+ 35d94@thingstodoinyourcity
+DTSTAMP:20261106T110632Z
+DTSTART:20261111T120000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
+ Germany in 1949. Paweł Pawlikowski directs Sandra Hüller and August Di
+ ehl.\nhttps://www.picturehouses.com/movie-details/022/HO00018642/fatherl
+ and?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f5b0f82cdb8a40689f1d1f25db1d4c11-occ_92972eb152bc478da8052cbb892
+ d8381@thingstodoinyourcity
+DTSTAMP:20261106T110632Z
+DTSTART:20261112T120000Z
+SUMMARY:FATHERLAND
+DESCRIPTION:Thomas Mann and his daughter Erika road-trip across a ruined 
+ Germany in 1949. Paweł Pawlikowski directs Sandra Hüller and August Di
+ ehl.\nhttps://www.picturehouses.com/movie-details/022/HO00018642/fatherl
+ and?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+ ?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d4743140343c41c8ad4ba6b40860817a-occ_739f19c48ed944238373aa4c3d6
+ eeb9b@thingstodoinyourcity
+DTSTAMP:20261106T101415Z
+DTSTART:20261108T124000Z
+SUMMARY:Fatherland
+DESCRIPTION:Thomas Mann and his daughter Erika embark on a 1949 road trip
+  across a ruined Germany. Directed by Paweł Pawlikowski\, starring Sand
+ ra Hüller and August Diehl.\nhttps://www.picturehouses.com/movie-detail
+ s/022/HO00018642/fatherland
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018642/fatherland
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_099a320b346948598e355dec7e83cd2d-occ_fac4dbac299842a082f616f9243
  ffdcb@thingstodoinyourcity
 DTSTAMP:20261105T110347Z
@@ -59568,6 +60557,76 @@ DESCRIPTION:https://www.seedtalks.co.uk/
 LOCATION:THE NEW BLXCK\, 10 Quaker Street #Unit B London E1 6SZ\, London\
  , England\, London
 URL:https://www.seedtalks.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_08156d1783ee4616a954abc5a7918b40-occ_47e8bfd35b244c06932bb83a96a
+ 915f9@thingstodoinyourcity
+DTSTAMP:20261106T101702Z
+DTSTART:20261108T131000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and L
+ ee head to Easter Island. Chris's bond with two rebellious students thre
+ atens to send their trip sideways.\nhttps://www.picturehouses.com/movie-
+ details/022/HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_08156d1783ee4616a954abc5a7918b40-occ_58d859dc1cf6417394f8a846681
+ ac7fa@thingstodoinyourcity
+DTSTAMP:20261106T101702Z
+DTSTART:20261108T172000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and L
+ ee head to Easter Island. Chris's bond with two rebellious students thre
+ atens to send their trip sideways.\nhttps://www.picturehouses.com/movie-
+ details/022/HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_08156d1783ee4616a954abc5a7918b40-occ_8d4483e3577c4e78bc4895fda9c
+ 6c7ac@thingstodoinyourcity
+DTSTAMP:20261106T101702Z
+DTSTART:20261108T200000Z
+SUMMARY:Wild Horse Nine
+DESCRIPTION:Shortly before the 1973 Chilean coup\, CIA agents Chris and L
+ ee head to Easter Island. Chris's bond with two rebellious students thre
+ atens to send their trip sideways.\nhttps://www.picturehouses.com/movie-
+ details/022/HO00018626/wild-horse-nine?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018626/wild-horse
+ -nine?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ceec8309f60845a6b61c197055f83b79-occ_95c85c470fd141608b8e6c1f2aa
+ 6cdaa@thingstodoinyourcity
+DTSTAMP:20261106T102916Z
+DTSTART:20261108T133000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Ryunosuke Kamiki returns as Koichi Shikishima in this 1949-se
+ t sequel to Godzilla Minus One. Filmed for IMAX\, the film is directed b
+ y Takashi Yamazaki.\nhttps://www.picturehouses.com/movie-details/022/HO0
+ 0018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ceec8309f60845a6b61c197055f83b79-occ_f0e54623597c4492a7cc118643e
+ 94bee@thingstodoinyourcity
+DTSTAMP:20261106T102916Z
+DTSTART:20261108T194500Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Ryunosuke Kamiki returns as Koichi Shikishima in this 1949-se
+ t sequel to Godzilla Minus One. Filmed for IMAX\, the film is directed b
+ y Takashi Yamazaki.\nhttps://www.picturehouses.com/movie-details/022/HO0
+ 0018698/godzilla-minus-zero?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018698/godzilla-m
+ inus-zero?filter=
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_edeaa290e6524d5d9026e86c10821e27-occ_df861e6cd297499b9134b9a5f3b
@@ -59850,6 +60909,24 @@ LOCATION:Castle Hackney\, First floor\, 64-66 Brooksby's Walk Hackney\, L
  ondon E9 6DA\, Hackney\, London
 URL:https://thecastlecinema.com/programme/112780/doc-n-roll-wolf-director
  -q-a/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_216148cea98149189455ec32e3d7ea46-occ_98f03511bff5448a81a4e59f435
+ b97d5@thingstodoinyourcity
+DTSTAMP:20261106T084940Z
+DTSTART:20261108T140000Z
+DTEND:20261108T161200Z
+SUMMARY:God's Offices
+DESCRIPTION:Nathalie Baye plays Anne\, a family planning counsellor\, in 
+ Claire Simon's ensemble drama. The film premiered in Cannes' Directors F
+ ortnight.\nPrice: Standard £14.00\; Concession £12.00\; Member £11.50
+ \; Under 25s Member £5.00\nhttps://cinelumiere.savoysystems.co.uk/CineL
+ umiere.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab
+ _601.TcsPerformance_6970744.TcsSection_6930861
+LOCATION:Ciné Lumière\, 17 Queensberry Place London SW7 2DT\, London
+URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
+ aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_69707
+ 44.TcsSection_6930861
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_933c4f56ded14a8bafcbf7cbfbc1db00-occ_d91bb2e3695348d59a9cc70a99e
@@ -60334,6 +61411,16 @@ LOCATION:Whitechapel Gallery\, London
 URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_9bd28b911f164dcd91df15c3ed0d4b3b-occ_9413cd61caa443999be18c1f5ec
+ c2f12@thingstodoinyourcity
+DTSTAMP:20261106T103800Z
+DTSTART:20261108T171500Z
+SUMMARY:Ghosts: The Possession of Button House
+DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/cinema/picturehouse-central
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_318fb62c66a842358d7d7eeeb97c9c4b-occ_adffaa934f404d8f8451312bb8f
  e2faa@thingstodoinyourcity
 DTSTAMP:20261101T174038Z
@@ -60512,54 +61599,54 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_4dac302f73fe41b3975f99c12ee
  2eaaf@thingstodoinyourcity
-DTSTAMP:20261104T201231Z
+DTSTAMP:20261106T085030Z
 DTSTART:20261108T190000Z
 SUMMARY:Sunday Quiz Nights with Inquizition
 DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
  ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
  , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
- rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+ rd on the night\nhttps://www.woolwich.works/whats-on
 LOCATION:Visitors' Book Café\, London
-URL:https://www.woolwich.works/events/sunday-quiz-nights
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_feee45bfdffa4094b6806bfe1c9
  53deb@thingstodoinyourcity
-DTSTAMP:20261104T201231Z
+DTSTAMP:20261106T085030Z
 DTSTART:20261115T190000Z
 SUMMARY:Sunday Quiz Nights with Inquizition
 DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
  ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
  , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
- rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+ rd on the night\nhttps://www.woolwich.works/whats-on
 LOCATION:Visitors' Book Café\, London
-URL:https://www.woolwich.works/events/sunday-quiz-nights
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_3aa5ef760deb49c096d0216aab2
  d2fca@thingstodoinyourcity
-DTSTAMP:20261104T201231Z
+DTSTAMP:20261106T085030Z
 DTSTART:20261122T190000Z
 SUMMARY:Sunday Quiz Nights with Inquizition
 DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
  ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
  , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
- rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+ rd on the night\nhttps://www.woolwich.works/whats-on
 LOCATION:Visitors' Book Café\, London
-URL:https://www.woolwich.works/events/sunday-quiz-nights
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a8f4d5d0ba854547bd040ae46975b2cd-occ_fe12e86705f243ccae3cd294eb5
  e2a3b@thingstodoinyourcity
-DTSTAMP:20261104T201231Z
+DTSTAMP:20261106T085030Z
 DTSTART:20261129T190000Z
 SUMMARY:Sunday Quiz Nights with Inquizition
 DESCRIPTION:Weekly quiz with a picture round\, music round and mystery vo
  ices\, plus a £50 first prize. Arrive from 6:30pm\; no team size limit\
  , but teams over 7 face penalties.\nPrice: £2.50 per person - pay by ca
- rd on the night\nhttps://www.woolwich.works/events/sunday-quiz-nights
+ rd on the night\nhttps://www.woolwich.works/whats-on
 LOCATION:Visitors' Book Café\, London
-URL:https://www.woolwich.works/events/sunday-quiz-nights
+URL:https://www.woolwich.works/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_bd4345792cfe497d982e1a27764e5d9c-occ_dc9b518fa49c43e7b3d0ce11796
@@ -60616,6 +61703,20 @@ DESCRIPTION:Broadway legend Jim Caruso hosts this impromptu variety show
  london/events/jim-carusos-cast-party
 LOCATION:Crazy Coqs\, London
 URL:https://www.culturecalling.com/london/events/jim-carusos-cast-party
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_91497dbf9d2e4f92aee758841537f615-occ_dc2f2f1c80f540a4ba643683901
+ e3537@thingstodoinyourcity
+DTSTAMP:20261106T102320Z
+DTSTART:20261108T193000Z
+SUMMARY:La Bola Negra
+DESCRIPTION:Three generations of Spanish men in 1932\, 1937 and 2017 are 
+ linked by desire\, pain and inheritance. A buried family secret gives vo
+ ice to truths the past tried to erase.\nhttps://www.picturehouses.com/mo
+ vie-details/022/HO00018749/la-bola-negra?filter=
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018749/la-bola-ne
+ gra?filter=
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_024f1055d3a24ad49fd2c1c745e6eddf-occ_cf309b9f7b3a44bf8dcd9efc362
@@ -60990,6 +62091,19 @@ DESCRIPTION:Price: from £12.00\nhttps://www.thefreeassociation.co.uk/imp
  rov-comedy-shows/whats-on
 LOCATION:London
 URL:https://www.thefreeassociation.co.uk/improv-comedy-shows/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e7060345f05e4bd18d5c3e8a7cb1f748-occ_7fdf4456af724654a59911b981f
+ ff5f7@thingstodoinyourcity
+DTSTAMP:20261106T103703Z
+DTSTART:20261108T202000Z
+SUMMARY:PRIMETIME
+DESCRIPTION:A TV host chasing ratings for a primetime slot sees a high-st
+ akes operation slip out of control. Directed by Lance Oppenheim\; Robert
+  Pattinson and Phoebe Bridgers star.\nhttps://www.picturehouses.com/movi
+ e-details/022/HO00018589/primetime
+LOCATION:Picturehouse Central\, London
+URL:https://www.picturehouses.com/movie-details/022/HO00018589/primetime
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
