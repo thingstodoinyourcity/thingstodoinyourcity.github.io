@@ -291,22 +291,6 @@ LOCATION:XOYO\, Shoreditch\, London
 URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3ce4364e9bfd46e5887b100535d6d617-occ_417889e86b164591a7e9b05bec2
- 195ad@thingstodoinyourcity
-DTSTAMP:20261031T222759Z
-DTSTART:20261105T100000Z
-DTEND:20261106T153000Z
-SUMMARY:Collaborative Doctoral Partnerships 20th Anniversary Conference
-DESCRIPTION:Students\, alumni\, supervisors and partners reflect on colla
- borative research's new knowledge. It celebrates twenty years of AHRC-fu
- nded doctoral collaborations.\nPrice: Free event\nhttps://www.vam.ac.uk/
- event/PJzxzj4OQJ/ahrc-cdp-20th-anniversary-conference-nov-2026
-LOCATION:V&A South Kensington\, Gorvy Lecture Theatre\, Cromwell Road\, L
- ondon\, SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/PJzxzj4OQJ/ahrc-cdp-20th-anniversary-conf
- erence-nov-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_81ed0e951c304c67a19d8ef009ef566c-occ_632d9f63c58a47c496e73e1e1a0
  528cb@thingstodoinyourcity
 DTSTAMP:20261105T120332Z
@@ -454,18 +438,6 @@ LOCATION:Camden Town Brewery\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_85a01eeb86544f71b50c0755a60e47b1-occ_2135ce209249419a8e034b0b18c
- 13e77@thingstodoinyourcity
-DTSTAMP:20261106T123840Z
-DTSTART;VALUE=DATE:20261106
-DTEND:20261106T153300Z
-SUMMARY:Clayface
-DESCRIPTION:Price: From £12.99\nhttps://www.myvue.com/book-tickets/summa
- ry/10030/HO00020288/319135
-LOCATION:Vue London West End (Leicester Square)\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00020288/319135
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8b289258a8664414b7715694457207b8-occ_fa72473462464b6db29150d1959
  f2887@thingstodoinyourcity
 DTSTAMP:20261101T034755Z
@@ -540,15 +512,6 @@ SUMMARY:Don DeLillo at 90: Cosmopolis with Ben Rivers
 DESCRIPTION:https://cinemaguide.co.uk/london
 LOCATION:London
 URL:https://cinemaguide.co.uk/london
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6d56f6c8646a47cea948bfdd6e76d074-occ_08ccf6fa6d4747138cb1f17ca6e
- 08edb@thingstodoinyourcity
-DTSTAMP:20261031T211920Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:EVELYN TAOCHENG WANG: Being Poetic Ruins Life
-DESCRIPTION:
-LOCATION:London
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7d803e7bc381404d9f0555fd4f650878-occ_667ef604af334e3e816ee2c40b4
@@ -1007,6 +970,16 @@ DESCRIPTION:https://www.london-theatreland.co.uk/dates/2026/05/category/c
  omedy
 LOCATION:Astor Theatre\, London
 URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_34a07be6c9864c45ab61ba6be8567eb9-occ_0864d10535714beda69ac8a702f
+ 179af@thingstodoinyourcity
+DTSTAMP:20261106T165843Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Mayfair Library's Lego Club
+DESCRIPTION:https://www.westminster.gov.uk/event
+LOCATION:London
+URL:https://www.westminster.gov.uk/event
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_304ba5f170fb4348bf36eecb58294e7e-occ_6727e9305b234362b83bc90802b
@@ -1673,18 +1646,6 @@ LOCATION:The Nickel\, Clerkenwell\, London\, London
 URL:https://thenickel.co.uk/screening/804
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8dc7f31861b34e09b61193c20e9d9534-occ_3454b78c5a904bb69ca6f70e0ff
- bcefe@thingstodoinyourcity
-DTSTAMP:20261106T123559Z
-DTSTART;VALUE=DATE:20261106
-DTEND:20261106T150000Z
-SUMMARY:WICKER
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021404/319071
-LOCATION:Vue London West End (Leicester Square) Screen 1\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021404/319071
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_435d10f75fbe43418afd5b25a818e439-occ_1dcb38d464c147ef9aad9fbe9c9
  2f511@thingstodoinyourcity
 DTSTAMP:20261031T223138Z
@@ -1867,54 +1828,6 @@ LOCATION:London
 URL:https://www.rbkc.gov.uk/events/zumba-online-only
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2827c6bedf5d4fa5814358f68c744b7a-occ_e2726a7bbbec47968bcb6e12d7d
- 1a355@thingstodoinyourcity
-DTSTAMP:20261103T081102Z
-DTSTART:20261106T080000Z
-DTEND:20261106T170000Z
-SUMMARY:Global Partnerships for Equitable Cancer Care
-DESCRIPTION:In-person conference for healthcare professionals and advocat
- es on fair cancer treatment access worldwide. Discuss strategies for equ
- itable care and exchange experiences.\nhttps://go-london.uk/events/event
- /global-partnerships-for-equitable-cancer-care/
-LOCATION:King's College London\, Strand\, London\, WC2R 2LS\, Covent Gard
- en\, London
-URL:https://go-london.uk/events/event/global-partnerships-for-equitable-c
- ancer-care/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_53d46e17ca4d4de88730fd81e2b63b9b-occ_16e9f41f42364b8bae8c9036e3e
- 07de5@thingstodoinyourcity
-DTSTAMP:20261031T224434Z
-DTSTART:20261106T083000Z
-DTEND:20261106T160000Z
-SUMMARY:The Sustainable Events Show 2026
-DESCRIPTION:A one-day expo on eco-friendly event planning\, green technol
- ogy and sustainable practice. Over 100 sustainable venues\, suppliers an
- d event technology companies exhibit.\nPrice: From GBP 0.00\nhttps://sta
- yhappening.com/e/the-sustainable-events-show-2026-E118SAWFATFGF
-LOCATION:The University of Chicago Booth School of Business\, London\, UK
- \, London
-URL:https://stayhappening.com/e/the-sustainable-events-show-2026-E118SAWF
- ATFGF
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_321ddbfbafee4b109aec21a399cd1123-occ_384adb5146a042debaa2701cc92
- cf351@thingstodoinyourcity
-DTSTAMP:20261105T034609Z
-DTSTART:20261106T090000Z
-DTEND:20261106T160000Z
-SUMMARY:UK National Quantum Technologies Showcase 2026
-DESCRIPTION:Business demonstrations show how quantum ideas can become inv
- estable\, scalable companies. Investors\, government and researchers gat
- her to build partnerships.\nPrice: Free to attend\nhttps://iuk-business-
- connect.org.uk/events/uk-national-quantum-technologies-showcase-2026/
-LOCATION:Business Design Centre\, 52 Upper Street\, London N1 0QH\, Londo
- n
-URL:https://iuk-business-connect.org.uk/events/uk-national-quantum-techno
- logies-showcase-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_eacf9e825eb84d35989ee518cfffd74c-occ_3c9a1a6cda7148acbdff96f3ef2
  f3b32@thingstodoinyourcity
 DTSTAMP:20261105T025623Z
@@ -1941,19 +1854,6 @@ DESCRIPTION:Sorkin's screenplay follows whistleblower Frances Haugen and
 LOCATION:Luxury Cinema Baker Street\, London
 URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
  t/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_dfe7886b57c24ace9a4ab69ed5d7994b-occ_e162073371be43ca93f3e2b5cd6
- 59408@thingstodoinyourcity
-DTSTAMP:20261105T064027Z
-DTSTART:20261106T100000Z
-DTEND:20261106T170000Z
-SUMMARY:Vinyl Market
-DESCRIPTION:Rare and collectable vintage vinyl plus some new stuff\, sour
- ced by dedicated hunters. Styles range from obscure 60s psychedelia to 9
- 0s New York hip hop.\nhttps://oldspitalfieldsmarket.com/events
-LOCATION:Old Spitalfields Market\, London
-URL:https://oldspitalfieldsmarket.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_081a17137cf54be99bd6ce461909a140-occ_5a5678f4221345ff9d9d25bd207
@@ -2124,19 +2024,6 @@ URL:https://www.everymancinema.com/venues-list/x0712-everyman-baker-stree
  t/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2b767469de9243b482d5af5d967fc7e6-occ_1bcbb2ee34a7426984cd3e46f5b
- 0d87b@thingstodoinyourcity
-DTSTAMP:20261104T084118Z
-DTSTART:20261106T110000Z
-DTEND:20261106T160000Z
-SUMMARY:SpudBae x SpudBros
-DESCRIPTION:Price: FREE loaded spuds for the first 50 customers\, half-pr
- ice spuds all day and free merch!\nhttps://www.tiktok.com/discover/free-
- pop-ups-in-london?lang=en
-LOCATION:Bexleyheath\, London
-URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a0e5e380a7bd469fb98064f93ac53d10-occ_fe8e5977bd554839856bc6acb09
  e3a31@thingstodoinyourcity
 DTSTAMP:20261106T065857Z
@@ -2271,23 +2158,14 @@ LOCATION:London
 URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e8050915c78943d0a1fce4c6f4ff589f-occ_663e52f229c148918125fb901a4
- 0792b@thingstodoinyourcity
-DTSTAMP:20261106T085152Z
+UID:cand_6d56f6c8646a47cea948bfdd6e76d074-occ_08ccf6fa6d4747138cb1f17ca6e
+ 08edb@thingstodoinyourcity
+DTSTAMP:20261106T142729Z
 DTSTART:20261106T120000Z
-DTEND:20261106T144500Z
-SUMMARY:La Bola Negra
-DESCRIPTION:Best Director's Award winner at Cannes\, a bold tapestry span
- ning nearly a century of Spanish history. Rich with Lorca's poetry\, it 
- explores memory\, inheritance and queer history.\nPrice: Standard £11.0
- 0\; Concession £9.00\; Member £8.50\; Under 25s Member £5.00\nhttps:/
- /cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.waSelectIte
- msPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_7188447.TcsSect
- ion_3841519
-LOCATION:Ciné Lumière II\, 17 Queensberry Place London SW7 2DT\, London
-URL:https://cinelumiere.savoysystems.co.uk/CineLumiere.dll/TSelectItems.w
- aSelectItemsPrompt.TcsWebMenuItem_600.TcsWebTab_601.TcsPerformance_71884
- 47.TcsSection_3841519
+SUMMARY:Evelyn Taocheng Wang: Being Poetic Ruins Life
+DESCRIPTION:https://www.gold.ac.uk/events
+LOCATION:London
+URL:https://www.gold.ac.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b2fe96d1a3e48e6a315529b3a4fa0ae-occ_a292996725f54662ad3fb8f43c0
@@ -2331,46 +2209,6 @@ LOCATION:Ciné Lumière\, London
 URL:https://www.institut-francais.org.uk/cinema/fatherland/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_710e75077912494d8f2d29aff423188a-occ_af224c63a34e42cfb93a8abc5cd
- 4b102@thingstodoinyourcity
-DTSTAMP:20261106T123627Z
-DTSTART:20261106T124000Z
-DTEND:20261106T150200Z
-SUMMARY:WILD HORSE NINE
-DESCRIPTION:Price: FROM £12.99\nhttps://www.myvue.com/book-tickets/summa
- ry/10030/HO00021133/319120
-LOCATION:Vue London West End (Leicester Square) EPIC 1\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021133/319120
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_012be720ec0344b7abdfe644ced3b68c-occ_7f7209064fc141d79b47e78ed45
- c594e@thingstodoinyourcity
-DTSTAMP:20261105T162646Z
-DTSTART:20261106T130000Z
-DTEND:20261106T160000Z
-SUMMARY:Children's Nursing BSc Taster event - November 6 2026
-DESCRIPTION:Current students and staff share experiences and answer quest
- ions. Attendees tour Guy's Campus and try clinical skills demonstrations
- .\nhttps://www.kcl.ac.uk/events/childrens-nursing-bsc-taster-event-novem
- ber-6-2026
-LOCATION:Hodgkin Building\, Large Committee Room\, Guy's Campus\, London 
- SE1 1UL\, Guy's Campus\, London\, London
-URL:https://www.kcl.ac.uk/events/childrens-nursing-bsc-taster-event-novem
- ber-6-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b3ea8cd91808456789908485009052c5-occ_39fe53947434466c9f18ea9e91d
- 9dc7b@thingstodoinyourcity
-DTSTAMP:20261106T123646Z
-DTSTART:20261106T130000Z
-DTEND:20261106T151500Z
-SUMMARY:PRIMETIME
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021488/319146
-LOCATION:Vue London West End (Leicester Square)\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021488/319146
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_8e6af2baf3be4f35930076e4ee8a1291-occ_a0444f7e3bad494aaff266edd66
  4ec6d@thingstodoinyourcity
 DTSTAMP:20261106T093916Z
@@ -2383,30 +2221,6 @@ DESCRIPTION:Pianist Bendit Chan performs works by Bach\, Rachmaninoff and
 LOCATION:St James's Church Piccadilly\, 197 Piccadilly\, London W1J 9LL\,
   London
 URL:https://www.sjp.org.uk/whats-on
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_9b92e0c6ddf64990a2c383514b890b15-occ_9783f56cb17349398a0e1e9289d
- 3d62c@thingstodoinyourcity
-DTSTAMP:20261106T123532Z
-DTSTART:20261106T131000Z
-DTEND:20261106T153200Z
-SUMMARY:VERITY
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021230/319110
-LOCATION:Vue London West End (Leicester Square) Screen 4\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021230/319110
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_845aa26172f7408593da991730dee83f-occ_d96e929bd13f4d7d85bb8dc143f
- 1e1b3@thingstodoinyourcity
-DTSTAMP:20261106T123815Z
-DTSTART:20261106T133000Z
-DTEND:20261106T160500Z
-SUMMARY:WILDWOOD
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021405/319085
-LOCATION:Vue London West End (Leicester Square) Screen 2\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021405/319085
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a0e2734e2b394b3db2b823f7bd25ced3-occ_2dd93478c9c143468d199ae792b
@@ -2487,96 +2301,6 @@ LOCATION:Holy Sepulchre London\, Holborn ViaductLondon\, EC1A 2DQUnited K
  ingdom\, London
 URL:https://hsl.church/events/pnn2sex7hykz8rk-cdxpw-7t88m-nk7b7-lrhc2-fkx
  7m-6wbz6-2l48j-y6mee-6jggn-yghax-jet8s-hnejd-t888a-7skr7
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_37ddfb7fd74f4506822f2e0f409414db-occ_a70749179b4848ba8b5c5a8002e
- 4ffdb@thingstodoinyourcity
-DTSTAMP:20261105T085617Z
-DTSTART:20261106T140000Z
-DTEND:20261106T150000Z
-SUMMARY:Fluid Dynamics Seminar: Jacob Jepson (UCL)
-DESCRIPTION:Jacob Jepson gives this fluid dynamics seminar\, with contact
- s Eric Keaveny and Ory Schnitzer. Open to all\, with tickets first come\
- , first served.\nPrice: Free\nhttps://www.imperial.ac.uk//events/descrip
- tion/index.php?route=213724/fluid-dynamics-seminar-jacob-jepson-ucl/
-LOCATION:139\, Huxley Building\, Imperial College London South Kensington
-  Campus London SW7 2AZ\, UK\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=213724
- /fluid-dynamics-seminar-jacob-jepson-ucl/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_20dd371cf8574660baf98dc29bc980dc-occ_afb8f90f1bf8444ba03eb2c896a
- 641a2@thingstodoinyourcity
-DTSTAMP:20261106T123742Z
-DTSTART:20261106T140000Z
-DTEND:20261106T163300Z
-SUMMARY:I PLAY ROCKY
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021363/319129
-LOCATION:Vue London West End (Leicester Square)\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021363/319129
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_51d610ec857c49ef8dd978017e6ca6bb-occ_de9bbcece4fc46b0aca3c26c912
- 12c96@thingstodoinyourcity
-DTSTAMP:20261103T084437Z
-DTSTART:20261106T140000Z
-DTEND:20261106T150000Z
-SUMMARY:Masonic Walking Tour of Covent Garden and the Strand
-DESCRIPTION:Explore London's hidden Masonic heritage on a 75 to 80-minute
-  guided walk. Tales include a Masonic detective who apprehended the Kray
-  Twins.\nPrice: £18\nhttps://go-london.uk/events/event/masonic-walking-
- tour-of-covent-garden-and-the-strand/
-LOCATION:Freemasons Hall\, 60 Great Queen St\, London\, WC2B 5AZ\, Covent
-  Garden\, London
-URL:https://go-london.uk/events/event/masonic-walking-tour-of-covent-gard
- en-and-the-strand/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6f7e2d80019c40788d59372ea8a709cb-occ_1099d96965e5446e9df9bfd36e0
- f5241@thingstodoinyourcity
-DTSTAMP:20261103T123537Z
-DTSTART:20261106T140000Z
-DTEND:20261106T160000Z
-SUMMARY:Schiaparelli Cosmic Ornament Workshop - Afternoon
-DESCRIPTION:Embroider a velvet hanging ornament with beads and sequins\, 
- guided by textile artist Christine Leech. All materials are provided\; n
- o experience is needed.\nPrice: Tickets cost £40.00\nhttps://www.vam.ac
- .uk/event/4zM3nDE3Mx/schiaparelli-ornament-workshop-14-00
-LOCATION:V&A South Kensington\, Cromwell Road\, London\, SW7 2RL\, London
-URL:https://www.vam.ac.uk/event/4zM3nDE3Mx/schiaparelli-ornament-workshop
- -14-00
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_fabf282f22444629a5b637615a51d316-occ_ec320e988bb648cb8b7058f7bdc
- f7ece@thingstodoinyourcity
-DTSTAMP:20261105T085404Z
-DTSTART:20261106T140000Z
-DTEND:20261106T150000Z
-SUMMARY:Statistics Seminar: Beatrice Franzolini (King's College)
-DESCRIPTION:A statistics talk by Beatrice Franzolini of King's College\, 
- listed under Science & Technology. The listing is marked free and can be
-  added to a calendar.\nPrice: Free\nhttps://www.imperial.ac.uk//events/d
- escription/index.php?route=213913/statistics-seminar-beatrice-franzolini
- -kings-college/
-LOCATION:HXLY139\, Huxley Building\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=213913
- /statistics-seminar-beatrice-franzolini-kings-college/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8653384ac5ca453a9191308506b96fca-occ_4602b42afbac47fd9ecb346c95d
- 5854e@thingstodoinyourcity
-DTSTAMP:20261103T083353Z
-DTSTART:20261106T140000Z
-DTEND:20261106T150000Z
-SUMMARY:UK Supreme Court Guided Tour
-DESCRIPTION:Visitors explore the courtrooms\, stained glass and artworks 
- with an expert guide. The roughly hour-long tour covers the Court's hist
- ory\, creation and landmark cases.\nPrice: £0-10\nhttps://go-london.uk/
- events/event/uk-supreme-court-guided-tour/
-LOCATION:The Supreme Court of the United Kingdom\, Parliament Square\, Lo
- ndon\, SW1P 3BD\, Millbank\, London
-URL:https://go-london.uk/events/event/uk-supreme-court-guided-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_50a9496953514cd395c6e8eebb4939b9-occ_3b149dfb3c3c4a35add7211d98c
@@ -2676,20 +2400,6 @@ LOCATION:Embankment Tube\, Villiers Street exit\, London
 URL:https://www.walks.com/our-walks/charles-dickens-london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7daf64dc8d2448fdacc4a92d1cae34e5-occ_9967bdafabee49c5bee2ef332a1
- d4026@thingstodoinyourcity
-DTSTAMP:20261104T014349Z
-DTSTART:20261106T143000Z
-DTEND:20261106T152000Z
-SUMMARY:Re:Heal - VortexHealing® Session + Crystal Bowls
-DESCRIPTION:VortexHealing Divine Energy Healing opens and closes this ses
- sion\, with Alchemy Crystal Bowls sound healing between. Each class focu
- ses on different release themes.\nhttps://www.remindstudio.co.uk/book-cl
- ass
-LOCATION:Re:Mind Studio\, London
-URL:https://www.remindstudio.co.uk/book-class
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_a4aa8a88b6b64b0395ccaafc52acd3f7-occ_b890eb6042f24cdbaea676056a1
  f3067@thingstodoinyourcity
 DTSTAMP:20261106T101759Z
@@ -2760,18 +2470,6 @@ DESCRIPTION:https://clusterflick.com/movies/9e575182/disterra-terrains-of
 LOCATION:Aga Khan Centre\, London
 URL:https://clusterflick.com/movies/9e575182/disterra-terrains-of-disappe
  arance/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6782bd5bc69f4d6e90d1193f2e054a61-occ_5c5bdb8663624dfb8041dbea37b
- 3ffef@thingstodoinyourcity
-DTSTAMP:20261106T123816Z
-DTSTART:20261106T163000Z
-DTEND:20261106T163000Z
-SUMMARY:Godzilla Minus Zero
-DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
- y/10030/HO00021499/319098
-LOCATION:Vue London West End (Leicester Square)\, Screen 3\, London
-URL:https://www.myvue.com/book-tickets/summary/10030/HO00021499/319098
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
@@ -5640,6 +5338,174 @@ URL:https://princecharlescinema.com/film/25079278/in-the-realm-of-the-sen
  ses
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_ab25ea5343bc4342bb1ef7aa30f
+ 01f79@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_aef9d4896b264e82bf119c94f46
+ aa214@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261111
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_337959fb81e64759baff80980d0
+ 127c4@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_a0a07b38833f4023b6f97c07701
+ 6d405@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_e3dffe648caf4165908f358de27
+ 44f4a@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261118
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_56b2f4c6cc524fa79ece83a660b
+ ded9a@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261119
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_c55d0d25ed7c40f8997e7fab320
+ 8e3c4@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_325d0741950f45b39f4fb0aa81e
+ 50062@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_1326eab41ccd4893b0f4c7cc5ed
+ 9a38b@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261126
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_b2c0151263b743a7b4a27745ba9
+ d1e44@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_8ef6a496d7c64bb2ac9b08005a1
+ 9eb56@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART:20261201T083000Z
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_1c653764cec442cfab11804cd30
+ 1f9e5@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261202
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_e8472510054e40e284a27cebddd
+ 12103@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART:20261202T083000Z
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8212f0ecd82645c9880fb98b7067ffd3-occ_a28edc067253496e8fbf07a72a1
+ 8b439@thingstodoinyourcity
+DTSTAMP:20261106T152056Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Morning Prayer
+DESCRIPTION:Said service of morning prayer according to the Book of Commo
+ n Prayer. Held 8:30 am to 9:00 am on the listed November 2026 dates.\nht
+ tps://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7f668e74605342f59349f3c29b571c2a-occ_7f9e0ecdbd644625b2c20c9b7ad
  77d42@thingstodoinyourcity
 DTSTAMP:20261027T135830Z
@@ -5932,6 +5798,232 @@ LOCATION:Victoria Library\, 60 Buckingham Palace Rd\, London SW1W 9TR\, W
  estminster\, London
 URL:https://www.westminster.gov.uk/event/rhyme-and-move-babies-and-toddle
  rs
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-11-10@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261110
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-11-17@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-11-24@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261124
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-12-01@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-12-08@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261208
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_e479407421864a10b0866af25b9
+ 3b9a3-2026-12-15@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_711ab42dc63b44f7bfb806c6315
+ f5c76@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART:20261215T193000Z
+DTEND:20261215T220000Z
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-01-12@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270112
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-01-19@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270119
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-01-26@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270126
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-02-02@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270202
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-02-09@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270209
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-02-16@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270216
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-02-23@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270223
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ab864ef0869144fea4c0a57f6e2c5da4-occ_5b9b663dd8f946918c98b48c2ad
+ 5126b-2027-03-02@thingstodoinyourcity
+DTSTAMP:20261106T161215Z
+DTSTART;VALUE=DATE:20270302
+SUMMARY:Swing Dance Buckinghamshire
+DESCRIPTION:Beginner and intermediate Lindy Hop classes with Simon Selmon
+ \, with no partner needed. Socials and a Christmas party are part of the
+  course schedule.\nPrice: 4-Weeks £40 +bf | 7-Weeks £70 +bf\nhttps://s
+ wingdanceuk.com/classes/swing-dance-buckinghamshire/
+LOCATION:Chalfont St Giles Memorial Hall\, Chalfont St Giles Memorial Hal
+ l\, School Lane\, Chalfont St Giles\, Buckinghamshire\, HP8 4JJ\, Buckin
+ ghamshire\, London
+URL:https://swingdanceuk.com/classes/swing-dance-buckinghamshire/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e60ef29769654d8db6ba89f53865311a-occ_d33253aebaf2420098d16da229a
