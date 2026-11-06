@@ -362,12 +362,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d6059fefcb864e2c8ce1a7291b9fd96b-occ_4c16f6e44f3c4379b198b188ef5
  01a12@thingstodoinyourcity
-DTSTAMP:20261104T210143Z
+DTSTAMP:20261106T125806Z
 DTSTART;VALUE=DATE:20261106
 SUMMARY:AfroJingo
 DESCRIPTION:https://dabberssocial.co.uk/pages/events
 LOCATION:18 - 22 Houndsditch\, London EC3A 7DB\, London
 URL:https://dabberssocial.co.uk/pages/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_69b87f4b39694c69ae9e84061e0c6491-occ_b5b300d9f2b549b99bc6af8c987
+ f7559@thingstodoinyourcity
+DTSTAMP:20261104T090721Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Alcotraz London: Cell Block Two-One-Two
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Alcotraz Penitentiary: London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_27456bbb8550462b85e9f442a2faa2f6-occ_89bc339525574061bebf9fbd280
@@ -430,6 +441,29 @@ DESCRIPTION:Jerry Hsu chats and signs copies of his book How About Never.
 LOCATION:The Photographers Gallery\, London
 URL:https://thephotographersgallery.org.uk/whats-on/book-launch-signing-j
  erry-hsu-how-about-never
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec89def53bb54fdaaa425bdf8b6ee0f5-occ_e344e07734de4039a1f6c64cb36
+ 25bbe@thingstodoinyourcity
+DTSTAMP:20261027T120009Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Camden Town Brewery Tour
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Camden Town Brewery\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_85a01eeb86544f71b50c0755a60e47b1-occ_2135ce209249419a8e034b0b18c
+ 13e77@thingstodoinyourcity
+DTSTAMP:20261106T123840Z
+DTSTART;VALUE=DATE:20261106
+DTEND:20261106T153300Z
+SUMMARY:Clayface
+DESCRIPTION:Price: From £12.99\nhttps://www.myvue.com/book-tickets/summa
+ ry/10030/HO00020288/319135
+LOCATION:Vue London West End (Leicester Square)\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00020288/319135
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8b289258a8664414b7715694457207b8-occ_fa72473462464b6db29150d1959
@@ -568,6 +602,17 @@ DESCRIPTION:Arthur unites the Knights of the Round Table at Camelot and u
  next-7-days/
 LOCATION:The Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/next-7-days/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c5fc03bd7af547a9827055f3927c8786-occ_fbae8d6f5d8f4be8855aeb37e20
+ fb4d3@thingstodoinyourcity
+DTSTAMP:20261104T090837Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:FRAMELESS
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Frameless\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_03f352f2479a444aa14f07ddc957a12f-occ_4c6fcd7254484935a3f7fd1f4a9
@@ -733,6 +778,17 @@ SUMMARY:Haus Tumbuna\, Pro Casual + Duo Triple Bill + Q&A
 DESCRIPTION:https://clusterflick.com/
 LOCATION:Riverside Studios\, London
 URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_14082c213f8c47c2a3aafe892fe94d33-occ_bbcc2056028a471eb330ae692ab
+ 5ab04@thingstodoinyourcity
+DTSTAMP:20261104T090836Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Hexmoor: Wizarding Prison
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Hexmoor: London\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4cc767ff44a94b47b2245ebb9b5fe5ed-occ_d4e1995294ba4f879d429dddf7a
@@ -1096,6 +1152,17 @@ DESCRIPTION:Price: From £12.00 to £18.00 (adults £18.00 +£0.45 ticket
  ://www.culturequesthunt.com/event-list
 LOCATION:British Museum\, London
 URL:https://www.culturequesthunt.com/event-list
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0c7e21f055e44608948b95d3a170035c-occ_2f37dfcbc0fc4b868a4ce9dda3c
+ ab455@thingstodoinyourcity
+DTSTAMP:20261104T090622Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Moonshine Saloon: Western Cocktail Experience
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Moonshine Saloon\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e557520c35924b5db03767d5b8ce8c36-occ_b430731c35464e8a9f65ee52873
@@ -1515,6 +1582,17 @@ LOCATION:White Hart In\, London
 URL:https://opencomedy.com/uk/gigs/london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1c4dc10b731f489a8f76ba8ce22a3f77-occ_ebc0d42302fe4575bcd443c505c
+ 28f8c@thingstodoinyourcity
+DTSTAMP:20261027T132830Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:The Murdér Express Part Deux -Jewel Of The Empire
+DESCRIPTION:https://www.designmynight.com/london/whats-on/best-events-in-
+ may
+LOCATION:Pedley Street Station\, Bethnal Green\, London
+URL:https://www.designmynight.com/london/whats-on/best-events-in-may
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7c28215890ac4ca3ab13261374b64c15-occ_023a7231ee8a4b9f94259336718
  65162@thingstodoinyourcity
 DTSTAMP:20261105T032431Z
@@ -1593,6 +1671,18 @@ DESCRIPTION:Made by Nabwana I.G.G. and the Wakaliwood team with homemade
  thenickel.co.uk/screening/804
 LOCATION:The Nickel\, Clerkenwell\, London\, London
 URL:https://thenickel.co.uk/screening/804
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8dc7f31861b34e09b61193c20e9d9534-occ_3454b78c5a904bb69ca6f70e0ff
+ bcefe@thingstodoinyourcity
+DTSTAMP:20261106T123559Z
+DTSTART;VALUE=DATE:20261106
+DTEND:20261106T150000Z
+SUMMARY:WICKER
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021404/319071
+LOCATION:Vue London West End (Leicester Square) Screen 1\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021404/319071
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_435d10f75fbe43418afd5b25a818e439-occ_1dcb38d464c147ef9aad9fbe9c9
@@ -1777,23 +1867,6 @@ LOCATION:London
 URL:https://www.rbkc.gov.uk/events/zumba-online-only
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_0efd9072c07d479a9ce1f31cba2692ac-occ_93da30bfa4e94af6aee423a2dc7
- ba54c@thingstodoinyourcity
-DTSTAMP:20261104T220747Z
-DTSTART:20261106T060000Z
-DTEND:20261106T123000Z
-SUMMARY:East London Car Boot Sale\, Goodmayes
-DESCRIPTION:Buyers and sellers arrive from 6am on Fridays\, closing aroun
- d 12.30pm. Mostly outdoors\, the sale runs all year and most sellers tak
- e cash only.\nPrice: Entry for buyers: Free entry. Pitches for sellers: 
- Cars £10\, vans £15\, walk-in pitches £5\nhttps://carbootdirectory.co
- .uk/listings/east-london-car-boot-sale-goodmayes/
-LOCATION:Orchard Playing Fields\, Orchard Playing Fields\, Goodmayes Lane
- \, Redbridge\, IG3 9PW\, Redbridge\, Greater London\, London
-URL:https://carbootdirectory.co.uk/listings/east-london-car-boot-sale-goo
- dmayes/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_2827c6bedf5d4fa5814358f68c744b7a-occ_e2726a7bbbec47968bcb6e12d7d
  1a355@thingstodoinyourcity
 DTSTAMP:20261103T081102Z
@@ -1824,21 +1897,6 @@ LOCATION:The University of Chicago Booth School of Business\, London\, UK
  \, London
 URL:https://stayhappening.com/e/the-sustainable-events-show-2026-E118SAWF
  ATFGF
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_1772d448388849088e21c547082d9d59-occ_1926facecc8c46478396f496dee
- 30f23@thingstodoinyourcity
-DTSTAMP:20261105T165635Z
-DTSTART:20261106T090000Z
-DTEND:20261106T130000Z
-SUMMARY:Environment\, Resources and Representation in the Southwest and N
- orthwest of Qing Empire
-DESCRIPTION:Four case studies cover silver mining\, mercury mining\, Mt J
- izu's religious history and Ningxia canal management. Presentations are 
- in English and Chinese.\nhttps://www.soas.ac.uk/about/whats-on
-LOCATION:SOAS\, Main Building Room C426h\, 10 Thornhaugh Street\, Russell
-  Square\, London WC1H 0XG\, London
-URL:https://www.soas.ac.uk/about/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_321ddbfbafee4b109aec21a399cd1123-occ_384adb5146a042debaa2701cc92
@@ -2094,118 +2152,6 @@ LOCATION:Green Park Underground Station\, North exit (on the corner of Pi
 URL:https://www.walks.com/our-walks/wild-wonderful-women-of-westminster
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_e52fc6e2a658478287dbf23f7a1
- e968a@thingstodoinyourcity
-DTSTAMP:20261101T024950Z
-DTSTART:20261106T111500Z
-DTEND:20261106T121500Z
-SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
-  Day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_799e3e04ca89431093fcb039c75
- cb209@thingstodoinyourcity
-DTSTAMP:20261101T024950Z
-DTSTART:20261109T123000Z
-SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
-  Day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_4613996db7814befa9e8f768d7e
- af87f@thingstodoinyourcity
-DTSTAMP:20261101T024950Z
-DTSTART:20261113T111500Z
-SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
-  Day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_d669ddc9da944d848949292e02f
- 0e0e5@thingstodoinyourcity
-DTSTAMP:20261101T024950Z
-DTSTART:20261120T111500Z
-SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
-  Day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_ae1fb00cd03c41fea913204ad65
- 0339c@thingstodoinyourcity
-DTSTAMP:20261101T024950Z
-DTSTART:20261127T111500Z
-SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
-  Day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d065e6536182417d958a79651449caa4-occ_230658d1e3cd408a94cb531c6ac
- 3d855@thingstodoinyourcity
-DTSTAMP:20261103T123945Z
-DTSTART:20261106T111500Z
-DTEND:20261106T121500Z
-SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
- the present day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:Temple Church\, London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d065e6536182417d958a79651449caa4-occ_28092cb910b24838adee903bd42
- 02c6f@thingstodoinyourcity
-DTSTAMP:20261103T123945Z
-DTSTART:20261109T123000Z
-SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
- the present day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:Temple Church\, London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d065e6536182417d958a79651449caa4-occ_3631a7b5aa904854a89b59ae214
- a7888@thingstodoinyourcity
-DTSTAMP:20261103T123945Z
-DTSTART:20261113T111500Z
-SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
- the present day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:Temple Church\, London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d065e6536182417d958a79651449caa4-occ_a9307acf6e744a07905c82992b3
- 26f18@thingstodoinyourcity
-DTSTAMP:20261103T123945Z
-DTSTART:20261120T111500Z
-SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
- the present day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:Temple Church\, London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d065e6536182417d958a79651449caa4-occ_77c72e4b183646cf902ab774de1
- e2f12@thingstodoinyourcity
-DTSTAMP:20261103T123945Z
-DTSTART:20261127T111500Z
-SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
- the present day
-DESCRIPTION:https://www.templechurch.com/events
-LOCATION:Temple Church\, London
-URL:https://www.templechurch.com/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_68d3887eac164b3bb7e444a0079a08cb-occ_88e7efd006364b1db2b086d34e2
  b1c93@thingstodoinyourcity
 DTSTAMP:20261027T113127Z
@@ -2358,20 +2304,6 @@ URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Gong-/138241340?ski
  pPreview=true
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_31194a5ab30644d5a4d9dbeacc1c95a6-occ_4c6a52cbea1f48a981e2f8103f0
- f9c30@thingstodoinyourcity
-DTSTAMP:20261105T162551Z
-DTSTART:20261106T120000Z
-DTEND:20261106T123000Z
-SUMMARY:Weekly Eucharist at Guy's
-DESCRIPTION:All are welcome at this said service of Holy Communion in the
-  Anglican tradition. It is held weekly in Guy's Chapel on Guy's Campus.\
- nhttps://www.kcl.ac.uk/events/weekly-eucharist-at-guys-11
-LOCATION:Guy's Chapel\, Opposite Boland House\, Guy's Courtyard\, Guys' C
- ampus Great Maze Pond\, London SE1 1UL\, Guy's Campus\, London\, London
-URL:https://www.kcl.ac.uk/events/weekly-eucharist-at-guys-11
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_57d80f64611740d19f8df669605c1a97-occ_e4915a414be14607acf6fca1f37
  1e15e@thingstodoinyourcity
 DTSTAMP:20261106T095307Z
@@ -2399,6 +2331,18 @@ LOCATION:Ciné Lumière\, London
 URL:https://www.institut-francais.org.uk/cinema/fatherland/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_710e75077912494d8f2d29aff423188a-occ_af224c63a34e42cfb93a8abc5cd
+ 4b102@thingstodoinyourcity
+DTSTAMP:20261106T123627Z
+DTSTART:20261106T124000Z
+DTEND:20261106T150200Z
+SUMMARY:WILD HORSE NINE
+DESCRIPTION:Price: FROM £12.99\nhttps://www.myvue.com/book-tickets/summa
+ ry/10030/HO00021133/319120
+LOCATION:Vue London West End (Leicester Square) EPIC 1\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021133/319120
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_012be720ec0344b7abdfe644ced3b68c-occ_7f7209064fc141d79b47e78ed45
  c594e@thingstodoinyourcity
 DTSTAMP:20261105T162646Z
@@ -2415,33 +2359,16 @@ URL:https://www.kcl.ac.uk/events/childrens-nursing-bsc-taster-event-novem
  ber-6-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4f158c29dc6d48fdb64e30d8e1cdc448-occ_52f64d105d834cd581443f63523
- 23529@thingstodoinyourcity
-DTSTAMP:20261103T134814Z
+UID:cand_b3ea8cd91808456789908485009052c5-occ_39fe53947434466c9f18ea9e91d
+ 9dc7b@thingstodoinyourcity
+DTSTAMP:20261106T123646Z
 DTSTART:20261106T130000Z
-DTEND:20261106T131000Z
-SUMMARY:Fresh takes: Art in 10 minutes
-DESCRIPTION:Former Articulation Prize speakers revisit National Gallery p
- aintings in short\, fresh talks. Today Tia Grant explores Pietro Longhi'
- s A Fortune Teller at Venice.\nPrice: Free\nhttps://www.nationalgallery.
- org.uk/events/fresh-takes-art-in-10-minutes-06-11-2026
-LOCATION:Room 33\, London
-URL:https://www.nationalgallery.org.uk/events/fresh-takes-art-in-10-minut
- es-06-11-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2fe11d0bbd534d18a7f6578a6730e732-occ_8f82cbb4418d405db5f159eecdd
- 9150b@thingstodoinyourcity
-DTSTAMP:20261105T162829Z
-DTSTART:20261106T130000Z
-DTEND:20261106T140000Z
-SUMMARY:Sweet Friday! at Guy's
-DESCRIPTION:Cake and coffee are served every Friday in the Chaplaincy roo
- m during term time. Stay as long or short as you like\; all are welcome.
- \nPrice: Free\nhttps://www.kcl.ac.uk/events/sweet-friday-at-guys-13
-LOCATION:Guy's Chaplaincy\, Henriette Raphael Building\, Guy's Campus\, L
- ondon SE1 1UL\, London
-URL:https://www.kcl.ac.uk/events/sweet-friday-at-guys-13
+DTEND:20261106T151500Z
+SUMMARY:PRIMETIME
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021488/319146
+LOCATION:Vue London West End (Leicester Square)\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021488/319146
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8e6af2baf3be4f35930076e4ee8a1291-occ_a0444f7e3bad494aaff266edd66
@@ -2458,21 +2385,28 @@ LOCATION:St James's Church Piccadilly\, 197 Piccadilly\, London W1J 9LL\,
 URL:https://www.sjp.org.uk/whats-on
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_17d8c202e65f4bdc932a9a027af7b760-occ_5234d5999f1346278b99a7bb029
- 35b05@thingstodoinyourcity
-DTSTAMP:20261105T085042Z
+UID:cand_9b92e0c6ddf64990a2c383514b890b15-occ_9783f56cb17349398a0e1e9289d
+ 3d62c@thingstodoinyourcity
+DTSTAMP:20261106T123532Z
+DTSTART:20261106T131000Z
+DTEND:20261106T153200Z
+SUMMARY:VERITY
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021230/319110
+LOCATION:Vue London West End (Leicester Square) Screen 4\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021230/319110
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_845aa26172f7408593da991730dee83f-occ_d96e929bd13f4d7d85bb8dc143f
+ 1e1b3@thingstodoinyourcity
+DTSTAMP:20261106T123815Z
 DTSTART:20261106T133000Z
-DTEND:20261106T143000Z
-SUMMARY:Geometry and Topology Seminar – Olivier de Gaay Fortman (Imperi
- al)
-DESCRIPTION:Open to all\, with free drop-in attendance and a 13.30 to 14.
- 30 slot. More details are on the GT seminar website linked from the list
- ing.\nPrice: Free\nhttps://www.imperial.ac.uk//events/description/index.
- php?route=216016/geometry-and-topology-seminar-olivier-de-gaay-fortman-i
- mperial/
-LOCATION:642\, Huxley Building\, South Kensington Campus\, London
-URL:https://www.imperial.ac.uk//events/description/index.php?route=216016
- /geometry-and-topology-seminar-olivier-de-gaay-fortman-imperial/
+DTEND:20261106T160500Z
+SUMMARY:WILDWOOD
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021405/319085
+LOCATION:Vue London West End (Leicester Square) Screen 2\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021405/319085
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a0e2734e2b394b3db2b823f7bd25ced3-occ_2dd93478c9c143468d199ae792b
@@ -2569,6 +2503,18 @@ LOCATION:139\, Huxley Building\, Imperial College London South Kensington
   Campus London SW7 2AZ\, UK\, South Kensington Campus\, London
 URL:https://www.imperial.ac.uk//events/description/index.php?route=213724
  /fluid-dynamics-seminar-jacob-jepson-ucl/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_20dd371cf8574660baf98dc29bc980dc-occ_afb8f90f1bf8444ba03eb2c896a
+ 641a2@thingstodoinyourcity
+DTSTAMP:20261106T123742Z
+DTSTART:20261106T140000Z
+DTEND:20261106T163300Z
+SUMMARY:I PLAY ROCKY
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021363/319129
+LOCATION:Vue London West End (Leicester Square)\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021363/319129
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_51d610ec857c49ef8dd978017e6ca6bb-occ_de9bbcece4fc46b0aca3c26c912
@@ -2782,6 +2728,16 @@ LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_e4d037c270b2408bac06ae6513d8c74f-occ_c5d7a074b4e945169ffdb043b52
+ 5a70c@thingstodoinyourcity
+DTSTAMP:20261106T115351Z
+DTSTART:20261106T151500Z
+SUMMARY:Ken Russell's The Devils: The Director's Cut
+DESCRIPTION:https://princecharlescinema.com
+LOCATION:The Prince Charles Cinema\, London
+URL:https://princecharlescinema.com
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3ee1a3ec5c764ecfaf2b33878945ccf9-occ_4be8543e8e3b45de93159e90bb7
  14464@thingstodoinyourcity
 DTSTAMP:20261106T064033Z
@@ -2804,6 +2760,18 @@ DESCRIPTION:https://clusterflick.com/movies/9e575182/disterra-terrains-of
 LOCATION:Aga Khan Centre\, London
 URL:https://clusterflick.com/movies/9e575182/disterra-terrains-of-disappe
  arance/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6782bd5bc69f4d6e90d1193f2e054a61-occ_5c5bdb8663624dfb8041dbea37b
+ 3ffef@thingstodoinyourcity
+DTSTAMP:20261106T123816Z
+DTSTART:20261106T163000Z
+DTEND:20261106T163000Z
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:Price: FROM £9.99\nhttps://www.myvue.com/book-tickets/summar
+ y/10030/HO00021499/319098
+LOCATION:Vue London West End (Leicester Square)\, Screen 3\, London
+URL:https://www.myvue.com/book-tickets/summary/10030/HO00021499/319098
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1b20268b81514d6b9e954d2d1aeda7b6-occ_a5e3ebd9d0e0438b954ee47dc9c
@@ -4322,6 +4290,94 @@ DESCRIPTION:Combines power walking and stretches for regular brisk walker
 LOCATION:Kensington Leisure Centre\, Silchester Road W10 6EX United Kingd
  om\, London
 URL:https://www.rbkc.gov.uk/events/fitness-walk
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_799e3e04ca89431093fcb039c75
+ cb209@thingstodoinyourcity
+DTSTAMP:20261101T024950Z
+DTSTART:20261109T123000Z
+SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
+  Day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_4613996db7814befa9e8f768d7e
+ af87f@thingstodoinyourcity
+DTSTAMP:20261101T024950Z
+DTSTART:20261113T111500Z
+SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
+  Day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_d669ddc9da944d848949292e02f
+ 0e0e5@thingstodoinyourcity
+DTSTAMP:20261101T024950Z
+DTSTART:20261120T111500Z
+SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
+  Day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7717bdc2e2f0462c9b5502f5d1139729-occ_ae1fb00cd03c41fea913204ad65
+ 0339c@thingstodoinyourcity
+DTSTAMP:20261101T024950Z
+DTSTART:20261127T111500Z
+SUMMARY:Talk: The Story of the Temple Church\, Knights Templar to Present
+  Day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d065e6536182417d958a79651449caa4-occ_28092cb910b24838adee903bd42
+ 02c6f@thingstodoinyourcity
+DTSTAMP:20261103T123945Z
+DTSTART:20261109T123000Z
+SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
+ the present day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d065e6536182417d958a79651449caa4-occ_3631a7b5aa904854a89b59ae214
+ a7888@thingstodoinyourcity
+DTSTAMP:20261103T123945Z
+DTSTART:20261113T111500Z
+SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
+ the present day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d065e6536182417d958a79651449caa4-occ_a9307acf6e744a07905c82992b3
+ 26f18@thingstodoinyourcity
+DTSTAMP:20261103T123945Z
+DTSTART:20261120T111500Z
+SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
+ the present day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d065e6536182417d958a79651449caa4-occ_77c72e4b183646cf902ab774de1
+ e2f12@thingstodoinyourcity
+DTSTAMP:20261103T123945Z
+DTSTART:20261127T111500Z
+SUMMARY:Talk: The story of the Temple Church from the Knights Templar to 
+ the present day
+DESCRIPTION:https://www.templechurch.com/events
+LOCATION:Temple Church\, London
+URL:https://www.templechurch.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c366ae77694a4f56b2eee95f0e828b80-occ_1b7c9906d2574d0cb96b42f3fae
