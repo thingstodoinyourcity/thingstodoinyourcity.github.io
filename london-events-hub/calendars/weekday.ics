@@ -335,35 +335,6 @@ LOCATION:VFD\, 66 Stoke Newington Road\, London\, N16 7XB\, London
 URL:https://www.outsavvy.com/event/38510/rebirth-vics-chest
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7d4669a94c8440c88b256ebf46d95f91-occ_eaa8f27234a74d1c8e1498ef77a
- 0ddaa@thingstodoinyourcity
-DTSTAMP:20261031T222033Z
-DTSTART:20261105T210000Z
-DTEND:20261106T030000Z
-SUMMARY:Genre Fluid
-DESCRIPTION:House and EDM on the main floor\, techno in the basement\, wi
- th Vivian Bam Bam and Joey Tempo spinning. Happy Hour runs 4pm to 9pm\, 
- with up to 50% off selected drinks.\nhttps://www.villagesoho.co.uk/event
- s/genrefluid?eventDate=2026-11-05T21%3A00%3A00.000Z
-LOCATION:Village Soho\, London
-URL:https://www.villagesoho.co.uk/events/genrefluid?eventDate=2026-11-05T
- 21%3A00%3A00.000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_7d4669a94c8440c88b256ebf46d95f91-occ_56caf283ed574b21a271e4f0457
- 0d2d6@thingstodoinyourcity
-DTSTAMP:20261031T222033Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Genre Fluid
-DESCRIPTION:House and EDM on the main floor\, techno in the basement\, wi
- th Vivian Bam Bam and Joey Tempo spinning. Happy Hour runs 4pm to 9pm\, 
- with up to 50% off selected drinks.\nhttps://www.villagesoho.co.uk/event
- s/genrefluid?eventDate=2026-11-05T21%3A00%3A00.000Z
-LOCATION:Village Soho\, London
-URL:https://www.villagesoho.co.uk/events/genrefluid?eventDate=2026-11-05T
- 21%3A00%3A00.000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_7b1b5d4f24e440cd8009146173742a14-occ_1565d719938240fdbe60818c9ba
  1ce74@thingstodoinyourcity
 DTSTAMP:20261031T221653Z
@@ -636,19 +607,6 @@ LOCATION:Camden\, 4A Tileyard Rd\, London N7 9AH\, Kings Cross - London\,
   London
 URL:https://www.comedyfreaks.co.uk/comedy-show/friday-comedy-camden-londo
  n-6-november-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2902df8b4528458ab6864e49b76a9259-occ_166192017c6944219ebc1d14b6c
- 4f54b@thingstodoinyourcity
-DTSTAMP:20261105T025128Z
-DTSTART;VALUE=DATE:20261106
-SUMMARY:Friday Night Comedy\, 9PM\, Covent Garden
-DESCRIPTION:Hand-picked London circuit stand-ups headline the bill. Past 
- shows featured acts seen on Taskmaster\, Live at the Apollo and Netflix.
- \nPrice: £15.00\nhttps://jkcomedyclub.co.uk/whats-on/
-LOCATION:JK Comedy Club Covent Garden\, Arboretum\, 2A Charing Cross Road
- \, London WC2H 0HF\, Covent Garden\, London
-URL:https://jkcomedyclub.co.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c310726c3c7c4d59ae17f7c0d6d4836f-occ_33b5199563c246f187cb0c94891
@@ -8118,18 +8076,6 @@ LOCATION:Upstairs at Ronnie’s\, Ronnie’s\, London
 URL:https://uk.korean-culture.org/en/1987/board/1594/read/145904
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_22927f328e164ec4b60014eb635624f8-occ_ce5a09dc2f07496092c2aa6b55d
- 21c16@thingstodoinyourcity
-DTSTAMP:20261031T214852Z
-DTSTART;VALUE=DATE:20261111
-SUMMARY:Luna's Karaoke
-DESCRIPTION:Luna sings all the karaoke classics\, so get ready to sing al
- ong. Happy Hour runs 4pm till 9pm\, and last entry is at 1am.\nhttps://w
- ww.villagesoho.co.uk/london-bar/events
-LOCATION:Village Soho\, London
-URL:https://www.villagesoho.co.uk/london-bar/events
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_78940b37d7e5429b8e9ba2df0d707f88-occ_f0ce6306d3ec4a85b599c480bb3
  ed6a7@thingstodoinyourcity
 DTSTAMP:20261104T062805Z
@@ -9977,6 +9923,20 @@ DESCRIPTION:
 LOCATION:GALLERY CLUB LONDON\, London
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7d4669a94c8440c88b256ebf46d95f91-occ_56caf283ed574b21a271e4f0457
+ 0d2d6@thingstodoinyourcity
+DTSTAMP:20261031T222033Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Genre Fluid
+DESCRIPTION:House and EDM on the main floor\, techno in the basement\, wi
+ th Vivian Bam Bam and Joey Tempo spinning. Happy Hour runs 4pm to 9pm\, 
+ with up to 50% off selected drinks.\nhttps://www.villagesoho.co.uk/event
+ s/genrefluid?eventDate=2026-11-05T21%3A00%3A00.000Z
+LOCATION:Village Soho\, London
+URL:https://www.villagesoho.co.uk/events/genrefluid?eventDate=2026-11-05T
+ 21%3A00%3A00.000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_cdcd746487db46a893890f87df5e0f01-occ_69f9fae0bb294b488b154e4cbde
  2271f@thingstodoinyourcity
 DTSTAMP:20261030T015040Z
@@ -10419,19 +10379,6 @@ DESCRIPTION:Price: Free\nhttps://www.westminster.gov.uk/event/rhyme-and-m
  ove-pimlico-library
 LOCATION:Pimlico Library\, London
 URL:https://www.westminster.gov.uk/event/rhyme-and-move-pimlico-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_863760a4255a4553979a38537832d55f-occ_24ec902ec22340d4b4f011cc589
- 4069d@thingstodoinyourcity
-DTSTAMP:20261031T221746Z
-DTSTART;VALUE=DATE:20261112
-SUMMARY:Thursdays at Backyard
-DESCRIPTION:Price: Standard - £7.50\; £8.25 inc £0.75 fee\nhttps://tic
- keting.designmynight.com/events/55c11714ef4744881b73985f/tickets/selecti
- on?item-ids=55c11714ef4744881b73985f&occurrence=2026-11-05
-LOCATION:Backyard Comedy Club\, Bethnal Green\, London
-URL:https://ticketing.designmynight.com/events/55c11714ef4744881b73985f/t
- ickets/selection?item-ids=55c11714ef4744881b73985f&occurrence=2026-11-05
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dee3d06775ec47ca8ec8283e0544f6aa-occ_e44fe20ce0d9441b98ce99c5f16
