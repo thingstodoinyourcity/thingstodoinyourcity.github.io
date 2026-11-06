@@ -567,6 +567,32 @@ LOCATION:The Prince Charles Cinema\, London
 URL:https://princecharlescinema.com/next-7-days/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_be4ebd0f3b4f4afdb76f39b6b0a79fb3-occ_a70ada846c8845b8892cc60c519
+ a7444@thingstodoinyourcity
+DTSTAMP:20261106T042614Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Explore 50: celebrating 50 years of inspiring exploration
+DESCRIPTION:View Collections objects chosen for Explore 50 in the Foyle R
+ eading Room\, plus a Lowther Lodge tour. Afternoon tea is also on offer.
+ \nPrice: Free\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:Royal Geographical Society (with IBG)\, 1 Kensington Gore\, Lond
+ on\, SW7 2AR\, LONDON AND ONLINE\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_6d055b5397a0438cb8ab35aaa94cbb27-occ_d15489ae097d4d7abf9f5d26e6d
+ a66f1@thingstodoinyourcity
+DTSTAMP:20261106T042428Z
+DTSTART;VALUE=DATE:20261106
+SUMMARY:Explore 50: five decades of discovery
+DESCRIPTION:Five speakers\, one for each decade since 1976\, share field 
+ stories. Paul Rose hosts the evening\, which is also available online.\n
+ Price: £5.00 - £12.00\nhttps://www.rgs.org/events/upcoming-events
+LOCATION:Ondaatje Theatre at Royal Geographical Society (with IBG)\, 1 Ke
+ nsington Gore\, London\, SW7 2AR\, LONDON AND ONLINE\, London
+URL:https://www.rgs.org/events/upcoming-events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_c5fc03bd7af547a9827055f3927c8786-occ_fbae8d6f5d8f4be8855aeb37e20
  fb4d3@thingstodoinyourcity
 DTSTAMP:20261104T090837Z
@@ -5072,37 +5098,41 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_aff6cef614e1420e8252caff0c971a2c-occ_8c61ba0ea1da4a539f1cc20d43a
  6adc7-2026-11-10@thingstodoinyourcity
-DTSTAMP:20261105T001009Z
+DTSTAMP:20261106T181450Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:Baby Massage
-DESCRIPTION:Learn baby massage techniques to help your baby sleep better 
- and strengthen your bond. Open to babies aged 0-6 months\; spaces are ve
- ry limited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
-LOCATION:Grand Junction at St Mary Magdalene’s Church\, London
+DESCRIPTION:Learn massage techniques to help your baby sleep better and s
+ trengthen your bond. Open to babies aged 0-6 months\; spaces are very li
+ mited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
 URL:https://grandjunction.org.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aff6cef614e1420e8252caff0c971a2c-occ_8c61ba0ea1da4a539f1cc20d43a
  6adc7-2026-11-17@thingstodoinyourcity
-DTSTAMP:20261105T001009Z
+DTSTAMP:20261106T181450Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:Baby Massage
-DESCRIPTION:Learn baby massage techniques to help your baby sleep better 
- and strengthen your bond. Open to babies aged 0-6 months\; spaces are ve
- ry limited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
-LOCATION:Grand Junction at St Mary Magdalene’s Church\, London
+DESCRIPTION:Learn massage techniques to help your baby sleep better and s
+ trengthen your bond. Open to babies aged 0-6 months\; spaces are very li
+ mited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
 URL:https://grandjunction.org.uk/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aff6cef614e1420e8252caff0c971a2c-occ_510e61982a514ef5aae5cdd446c
  07dc5@thingstodoinyourcity
-DTSTAMP:20261105T001009Z
-DTSTART;VALUE=DATE:20261110
+DTSTAMP:20261106T181450Z
+DTSTART:20261110T103000Z
+DTEND:20261110T113000Z
 SUMMARY:Baby Massage
-DESCRIPTION:Learn baby massage techniques to help your baby sleep better 
- and strengthen your bond. Open to babies aged 0-6 months\; spaces are ve
- ry limited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
-LOCATION:Grand Junction at St Mary Magdalene’s Church\, London
+DESCRIPTION:Learn massage techniques to help your baby sleep better and s
+ trengthen your bond. Open to babies aged 0-6 months\; spaces are very li
+ mited.\nPrice: FREE\nhttps://grandjunction.org.uk/events
+LOCATION:Grand Junction at St Mary Magdalene’s Church\, Rowington Close
+ \, London W2 5TF\, London
 URL:https://grandjunction.org.uk/events
 END:VEVENT
 BEGIN:VEVENT
