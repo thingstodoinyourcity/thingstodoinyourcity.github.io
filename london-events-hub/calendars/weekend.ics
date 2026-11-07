@@ -2677,11 +2677,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_195e440219ab40359d40cafbaffe6844-occ_e7d8034d13934458ab8f1908b88
  8c2cc@thingstodoinyourcity
-DTSTAMP:20261105T062645Z
+DTSTAMP:20261107T090443Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20261231
 SUMMARY:A Station of Stories
-DESCRIPTION:https://batterseapowerstation.co.uk/events/
+DESCRIPTION:A year-long storytelling celebration for the National Year of
+  Reading. Family experiences and ticketed cultural events bring books to
+  life.\nhttps://batterseapowerstation.co.uk/events/
 LOCATION:Battersea Power Station\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
@@ -2712,17 +2714,36 @@ LOCATION:New Theatre\, Peterborough\, London
 URL:https://howtoacademy.com/events/harry-enfield-and-no-chums/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_8a18bd175edd483ea10ad6d5759ee2cc-occ_63f5eb6bf1984c888f9ab3ace33
- 62f02@thingstodoinyourcity
-DTSTAMP:20261104T043224Z
+UID:cand_ac635e29542346a78b4280a0314dc63d-occ_d2a1b1eb979b49169dec122923b
+ f1aea@thingstodoinyourcity
+DTSTAMP:20261026T231027Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20270225
 SUMMARY:Londoners on Trial: Crime\, Courts and the Public 1244-1924
-DESCRIPTION:Price: Free entry\nhttps://onecitylondon.com/article/things-t
- o-do-this-june-in-the-city-of-london/
-LOCATION:The London Archives\, Clerkenwell\, London
-URL:https://onecitylondon.com/article/things-to-do-this-june-in-the-city-
- of-london/
+DESCRIPTION:Drawn from the archives\, the exhibition follows London's cri
+ minals\, victims and law enforcers. It asks how the city was governed an
+ d why Londoners love true crime.\nPrice: Our free exhibition\nhttps://ww
+ w.thelondonarchives.org/visit-us/exhibitions/londoners-on-trial
+LOCATION:The London Archives\, 40 Northampton Rd\, London\, EC1R 0HB\, Cl
+ erkenwell (between Farringdon and Angel)\, London
+URL:https://www.thelondonarchives.org/visit-us/exhibitions/londoners-on-t
+ rial
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ac635e29542346a78b4280a0314dc63d-occ_5fdea4a54f154b228b98ca6588e
+ a885b@thingstodoinyourcity
+DTSTAMP:20261026T231027Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20270225
+SUMMARY:Londoners on Trial: Crime\, Courts and the Public 1244-1924
+DESCRIPTION:Drawn from the archives\, the exhibition follows London's cri
+ minals\, victims and law enforcers. It asks how the city was governed an
+ d why Londoners love true crime.\nPrice: Our free exhibition\nhttps://ww
+ w.thelondonarchives.org/visit-us/exhibitions/londoners-on-trial
+LOCATION:The London Archives\, 40 Northampton Rd\, London\, EC1R 0HB\, Cl
+ erkenwell (between Farringdon and Angel)\, London
+URL:https://www.thelondonarchives.org/visit-us/exhibitions/londoners-on-t
+ rial
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_adfcf63f668a41caa15729a5c1f8fe8b-occ_ab393f8f6abd478393e620c10c4
@@ -5148,20 +5169,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e8693161b42d41aa893d66a49e75d22c-occ_74559b0569164080b4554877238
  4aa05@thingstodoinyourcity
-DTSTAMP:20261021T155134Z
+DTSTAMP:20261107T105618Z
 DTSTART:20260903T130000Z
-DTEND;VALUE=DATE:20261222
+DTEND:20261222T180000Z
 SUMMARY:Leadenhall Market’s Wunderkammer pop-ups
-DESCRIPTION:A miniature curiosity cabinet at No. 27¼ features a tiny ser
- ving window\, wool boutique and video shop. Tenants and brands rotate th
- rough the window with cakes\, coffee and wine.\nPrice: Entry to view the
-  tiny video rental and wool shops is free\, with products available to p
- urchase through the miniature serving window.\nhttps://onecitylondon.com
- /event/leadenhall-markets-wunderkammer-pop-ups/
+DESCRIPTION:A miniature serving window\, wool boutique and mouse-sized vi
+ deo shop open at No. 27¼. Tenants and brands rotate through the window 
+ with cakes\, coffee and wine.\nPrice: Entry to view the tiny video renta
+ l and wool shops is free\, with products available to purchase through t
+ he miniature serving window.\nhttps://onecitylondon.com/article/things-t
+ o-do-this-june-in-the-city-of-london/
 LOCATION:Leadenhall Market\, Leadenhall Market\, Gracechurch Street\, Lon
  don\, EC3V 1LT\, London
-URL:https://onecitylondon.com/event/leadenhall-markets-wunderkammer-pop-u
- ps/
+URL:https://onecitylondon.com/article/things-to-do-this-june-in-the-city-
+ of-london/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dadfb65e7daa43ea9988aaa03446659c-occ_f9624f03278c4e0590ca7c84183
@@ -7071,17 +7092,6 @@ DTEND;VALUE=DATE:20261212
 SUMMARY:See Magritte’s Masterpieces For Free At This London Gallery
 DESCRIPTION:Price: For Free\nhttps://londontheinside.com/whats-on-this-we
  ek/
-LOCATION:London
-URL:https://londontheinside.com/whats-on-this-week/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_d1a24a95d87b48589e768e8b82fb0760-occ_17dcae77b6ca4f87b66ca28b98e
- d645f@thingstodoinyourcity
-DTSTAMP:20261103T015333Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20261212
-SUMMARY:See Magritte’s Masterpieces For Free At This London Gallery
-DESCRIPTION:https://londontheinside.com/whats-on-this-week/
 LOCATION:London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
@@ -9212,6 +9222,22 @@ DESCRIPTION:Sam Doyle's 20-plus works\, many shown publicly for the first
 LOCATION:The Gallery of Everything\, 4 Chiltern Street\, London W1\, Lond
  on
 URL:https://www.gallevery.com/exhibitions/what-i-paint-is-history
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_436dfb4613284d6d97e28b9605ba0719-occ_7c31bc2f937947ffb69de08c5a1
+ 9887d@thingstodoinyourcity
+DTSTAMP:20261107T085337Z
+DTSTART:20261004T100000Z
+DTEND:20261122T114500Z
+SUMMARY:History & Ecology of Camley Street Natural Park
+DESCRIPTION:Guided 45-minute walk exploring Camley Street's history and w
+ ildlife\, led by experienced staff. Gentle\, fully outdoor route on path
+ s\; bring water and binoculars.\nhttps://www.eventbrite.co.uk/e/history-
+ ecology-of-camley-street-natural-park-tickets-2001871461430
+LOCATION:Camley Street Natural Park\, 12 Camley Street London N1C 4PW\, L
+ ondon\, England\, London
+URL:https://www.eventbrite.co.uk/e/history-ecology-of-camley-street-natur
+ al-park-tickets-2001871461430
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a7c5c125cd224bedbd6ead032731ddf6-occ_5980d0b7e3ad4b5580f145d08eb
@@ -12676,11 +12702,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1f3995641b0f49d9a4509ed9616480c9-occ_b6616cd38dda4a028a9a2c70755
  28693@thingstodoinyourcity
-DTSTAMP:20261104T031926Z
+DTSTAMP:20261107T090141Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261116
 SUMMARY:A.P.C. x Barbour – Discover the interaction
-DESCRIPTION:https://batterseapowerstation.co.uk/events/
+DESCRIPTION:Barbour's classic outerwear is re-imagined through A.P.C.'s c
+ ontemporary design. A special in-store preview begins at 5pm on 15 Octob
+ er.\nhttps://batterseapowerstation.co.uk/events/
 LOCATION:A.P.C. Battersea Power Station\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
@@ -14075,6 +14103,19 @@ LOCATION:The Other Palace\, 12 Palace Street\, London\, SW1E 5JA\, London
 URL:https://seatplan.com/london/garry-starr-classic-penguins-tickets/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b7489e07ebf340de8018609b510f50dd-occ_7ae3694d9c364139946b6e9c377
+ 3de74@thingstodoinyourcity
+DTSTAMP:20261021T224750Z
+DTSTART:20261107T211500Z
+SUMMARY:Garry Starr: Classic Penguins
+DESCRIPTION:Garry Starr performs every Penguin Classic novel in under an 
+ hour\, in a physical comedy show. Strictly 18+\, with full nudity\, stro
+ be lighting and haze.\nPrice: from £24.00\nhttps://seatplan.com/london/
+ garry-starr-classic-penguins-tickets/
+LOCATION:The Other Palace\, 12 Palace Street\, London\, SW1E 5JA\, London
+URL:https://seatplan.com/london/garry-starr-classic-penguins-tickets/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_5de9b9a98bd141cb821915e95f9fd5d4-occ_c17901a9f003418c8b5889ca9df
  d1e29@thingstodoinyourcity
 DTSTAMP:20261105T111550Z
@@ -15393,22 +15434,6 @@ LOCATION:British Museum\, London
 URL:https://www.culturalwednesday.co.uk/best-london-exhibitions-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ac635e29542346a78b4280a0314dc63d-occ_5fdea4a54f154b228b98ca6588e
- a885b@thingstodoinyourcity
-DTSTAMP:20261026T231027Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20270225
-SUMMARY:Londoners on Trial: Crime\, Courts and the Public 1244-1924
-DESCRIPTION:Drawn from the archives\, the exhibition follows London's cri
- minals\, victims and law enforcers. It asks how the city was governed an
- d why Londoners love true crime.\nPrice: Our free exhibition\nhttps://ww
- w.thelondonarchives.org/visit-us/exhibitions/londoners-on-trial
-LOCATION:The London Archives\, 40 Northampton Rd\, London\, EC1R 0HB\, Cl
- erkenwell (between Farringdon and Angel)\, London
-URL:https://www.thelondonarchives.org/visit-us/exhibitions/londoners-on-t
- rial
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b3bf130b1d1845889df54a63112ca247-occ_3a792803d18648b8983c543dac0
  85401@thingstodoinyourcity
 DTSTAMP:20261022T001033Z
@@ -15941,12 +15966,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_26d8dbb1601f4b6eb1ad778fe4bdb3a9-occ_abda7bf044ae45588c8f703ea38
  42969@thingstodoinyourcity
-DTSTAMP:20261105T062608Z
+DTSTAMP:20261107T090443Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261215
 SUMMARY:Adult Sushi Masterclass at Sticks’n’Sushi Battersea
-DESCRIPTION:Price: £56 per person\nhttps://batterseapowerstation.co.uk/e
- vents/
+DESCRIPTION:Learn signature sushi roll techniques in a hands-on class wit
+ h Sticks’n’Sushi chefs. Prosecco\, edamame and sake start the sessio
+ n\; miso soup and lemonade finish it.\nPrice: £56 per person\nhttps://b
+ atterseapowerstation.co.uk/events/
 LOCATION:Sticks’n’Sushi Battersea\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
@@ -17401,13 +17428,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_448b0c9aafac471484b04e3d11e5cbef-occ_bc545e2d4ed542c580e286c1e81
  19ed3@thingstodoinyourcity
-DTSTAMP:20261105T062528Z
+DTSTAMP:20261107T090340Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261123
 SUMMARY:El Pastor Celebrates Day of the Dead
-DESCRIPTION:The Marigold Margarita returns from 30 October. Guests can wr
- ite a loved one's name for a handcrafted ofrenda by artist Claudia.\nhtt
- ps://batterseapowerstation.co.uk/events/
+DESCRIPTION:The Marigold Margarita returns from 30 October at El Pastor. 
+ Guests can write a loved one's name for a handcrafted ofrenda by artist 
+ Claudia.\nhttps://batterseapowerstation.co.uk/events/
 LOCATION:El Pastor\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
@@ -20309,6 +20336,17 @@ LOCATION:Criterion Theatre\, Piccadilly\, London\, UK\, London
 URL:https://artoflondon.co.uk/events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0e1424a67d364524ab7089eba474a729-occ_e931e890c0c14776918aeaa6027
+ 2e442@thingstodoinyourcity
+DTSTAMP:20261104T231748Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20270103
+SUMMARY:Titaníque
+DESCRIPTION:https://artoflondon.co.uk/events
+LOCATION:Criterion Theatre\, Piccadilly\, London\, UK\, London
+URL:https://artoflondon.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4f19e2d2fb8f449380272fbc1b267cbe-occ_52332113c4654684947ba10a898
  77636@thingstodoinyourcity
 DTSTAMP:20261022T230435Z
@@ -22302,28 +22340,6 @@ LOCATION:POSK Gallery\, London\, United Kingdom\, London
 URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_3158638a7b9248038186d7a1ca9ea02b-occ_eb13caffef78469eac772699764
- 9ffd2@thingstodoinyourcity
-DTSTAMP:20261104T033945Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261108
-SUMMARY:Ally Pally's enormous annual fireworks festival
-DESCRIPTION:https://thenudge.com/whats-on-in-london-this-weekend
-LOCATION:Across London\, London
-URL:https://thenudge.com/whats-on-in-london-this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_394d2390a0324b3c9ff2db0395d67a6b-occ_2949494499ea4e53a5cd63e3c06
- c1467@thingstodoinyourcity
-DTSTAMP:20261105T060629Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261108
-SUMMARY:Ally Pally’s enormous annual fireworks festival
-DESCRIPTION:https://thenudge.com/whats-on-in-london-this-weekend
-LOCATION:London
-URL:https://thenudge.com/whats-on-in-london-this-weekend
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5e4f2b6e1c6f4f999236f28c4b5049d7-occ_9ad6e2ca959a43fe9665b89d54c
  8f346@thingstodoinyourcity
 DTSTAMP:20261103T012957Z
@@ -22387,17 +22403,6 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:Blackheath Fireworks
 DESCRIPTION:https://thenudge.com/whats-on-in-london-this-weekend
 LOCATION:London
-URL:https://thenudge.com/whats-on-in-london-this-weekend
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_45cbfce90dd249949311642963f71eb2-occ_76239cf821d448f6a8c67ec2860
- 11904@thingstodoinyourcity
-DTSTAMP:20261104T034047Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261108
-SUMMARY:Blackheath Fireworks
-DESCRIPTION:https://thenudge.com/whats-on-in-london-this-weekend
-LOCATION:Across London\, London
 URL:https://thenudge.com/whats-on-in-london-this-weekend
 END:VEVENT
 BEGIN:VEVENT
@@ -22953,6 +22958,20 @@ DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
  n
 LOCATION:Selfridges Beauty Spot\, 400 Oxford Street\, W1A 1AB\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d14944ba967c42fa90c0194b9dd42749-occ_cbd4c5fca4d84a6ca102de5155f
+ 253b7@thingstodoinyourcity
+DTSTAMP:20261107T113409Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261108
+SUMMARY:Pitchfork Music Festival
+DESCRIPTION:The bill includes The Avalanches\, Noname\, Panda Bear & Soni
+ c Boom\, DIIV and Tortoise. Described as a hipper-than-thou live music f
+ estival from the indie music website Pitchfork.\nhttps://thenudge.com/wh
+ ats-on-in-london-this-weekend
+LOCATION:Across London\, London
+URL:https://thenudge.com/whats-on-in-london-this-weekend
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_53bd9831d841425e962b23ab9a3a1abe-occ_b64fce66516d41d29ae5a969459
@@ -25856,6 +25875,17 @@ LOCATION:Tate Modern\, London
 URL:https://londontravelplanning.com/events-in-london-in-april/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_945dcb685953490d84e894d24e0851fe-occ_2808eba082dc4686976d6a1069e
+ f76d8@thingstodoinyourcity
+DTSTAMP:20261026T183940Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20270412
+SUMMARY:Constable & Turner: Rivals and Originals
+DESCRIPTION:https://londontravelplanning.com/events-in-london-in-april/
+LOCATION:Tate Modern\, London
+URL:https://londontravelplanning.com/events-in-london-in-april/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7db93db5b83241c59809fc69737ffcd7-occ_0e93b32885d04b99a2810171618
  4ca6c@thingstodoinyourcity
 DTSTAMP:20261105T145317Z
@@ -26406,15 +26436,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5fb96c9be3a64d9daf8db55d3c4f826f-occ_d41fb778b65b47c28f07e9469ec
  a39f7@thingstodoinyourcity
-DTSTAMP:20261105T112255Z
+DTSTAMP:20261107T103941Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261108
 SUMMARY:Wimbledon Art Fair
-DESCRIPTION:Explore 180+ artist studios and buy original\, affordable art
- works directly from the makers. Launch Night on Thursday 5 November offe
- rs live music and complimentary drinks.\nPrice: FREE ticket (pre-book)\n
- https://www.culturecalling.com/london/whats-on
-LOCATION:Wimbledon Art Studios\, London
+DESCRIPTION:Explore over 180 artist studios and buy original\, affordable
+  artworks directly from the makers. Launch Night on Thursday 5 November 
+ offers live music and complimentary drinks.\nPrice: pre-book your FREE t
+ icket today\nhttps://www.culturecalling.com/london/whats-on
+LOCATION:Wimbledon Art Studios\, 10 Riverside Yard\, London\, SW17 0BB\, 
+ London
 URL:https://www.culturecalling.com/london/whats-on
 END:VEVENT
 BEGIN:VEVENT
@@ -26850,6 +26881,17 @@ LOCATION:St Mary Le Strand Church\, Strand\, London\, WC2R 1ES\, London\,
 URL:https://feverup.com/m/133689
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b5237cd6bdfe4c4c8e3691f804653142-occ_5dc24e66b997434d9ae62713810
+ 8243c@thingstodoinyourcity
+DTSTAMP:20261107T101854Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:'DRYING GREEN' J.Williamson
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:BOTH Gallery\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a4b59e7323b44015bed4aafc045d2840-occ_dc04771d89a2440b820bda43235
  004b0@thingstodoinyourcity
 DTSTAMP:20261031T224114Z
@@ -26910,6 +26952,17 @@ LOCATION:MARIE-LOUISE VON MOTESICZKY GALLERY\, BURGH HOUSE NEW END SQUARE
   LONDON NW3 1LT\, London
 URL:https://www.burghhouse.org.uk/whats-on/whats-on/exhibition/amongst-th
  e-trees-and-terraces-donald-chisholm-towner-1903-1985
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_8bb066314b484b109cf162a3b7943c97-occ_15b265daf970410ea4b068d4e59
+ 27f01@thingstodoinyourcity
+DTSTAMP:20261107T112808Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261219
+SUMMARY:Artists Support. Asking for a Friend
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Arcadia Missa\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_56e1ae16d6e54449b3f0e4cc4b2f1972-occ_797dae33308143aba93877f3390
@@ -27012,13 +27065,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f0f8f7ed1a7b4d9187e02edd92470953-occ_d0b45f265d6d4d59acb112ef7ab
  73da1@thingstodoinyourcity
-DTSTAMP:20261105T062714Z
+DTSTAMP:20261107T090213Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261231
 SUMMARY:Christmas 2026
 DESCRIPTION:https://batterseapowerstation.co.uk/events/
 LOCATION:Battersea Power Station\, London
 URL:https://batterseapowerstation.co.uk/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_82313295597f4551bfcc297120587452-occ_e5c3cdfe599c438d86d19b60716
+ 7ed8d@thingstodoinyourcity
+DTSTAMP:20261107T113100Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261219
+SUMMARY:Coumba Samba. Big Nation
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Arcadia Missa\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_aca3db8f3cd6449f8b8f12274ff9cf1c-occ_2489ca780c0044fca6c470340fc
@@ -27045,6 +27109,17 @@ DESCRIPTION:Discover new passions through dance and performing arts. Talk
  https://www.sadlerswells.com/whats-on/culture-club-2026/
 LOCATION:Sadler's Wells Theatre\, London
 URL:https://www.sadlerswells.com/whats-on/culture-club-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_f72ddc6e9a124143bbf89c431534c34f-occ_43d1515603a24c62a3266e47c59
+ 39848@thingstodoinyourcity
+DTSTAMP:20261107T112604Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261219
+SUMMARY:Die Vögel
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Brunette Coleman\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1bbb2d925db54ac6ae69ebc37da60809-occ_c694448b2a7a4bb49cdc7341129
@@ -27104,6 +27179,18 @@ DESCRIPTION:The 13th edition screens 21 feature documentaries and five sh
  -to-do/docn-roll-film-festival
 LOCATION:Various London\, London
 URL:https://www.timeout.com/london/things-to-do/docn-roll-film-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54931c7889fd4cb3b162224a2111bb89-occ_c0627cc4881848ad94a6cebf50a
+ d7dcd@thingstodoinyourcity
+DTSTAMP:20261107T112516Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270130
+SUMMARY:Does Size Matter
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Firepit Art Gallery & Studios CIC\, London\, United Kingdom\, Lo
+ ndon
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_137e4ec3efd54bebabe4ed1f0bab04f5-occ_a7fe5bcfd95044b286a64c37eb4
@@ -27354,7 +27441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_1524851953cb4daea363b3e9fac282a7-occ_1d4a3ea3bed24404acea9ad2bcb
  0dc6b@thingstodoinyourcity
-DTSTAMP:20261105T062644Z
+DTSTAMP:20261107T090215Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20270103
 SUMMARY:Glide at Battersea Power Station
@@ -29252,6 +29339,17 @@ LOCATION:Bustronome London\, Coach bay 40B\, Victoria Embankment\, WC2N 6
 URL:https://feverup.com/m/133739
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ce64b5fbfd8b4c9ea2866067586501a5-occ_384f89851b4e400381d2ce2f075
+ bc1ad@thingstodoinyourcity
+DTSTAMP:20261107T112936Z
+DTSTART:20261106T140000Z
+DTEND;VALUE=DATE:20261115
+SUMMARY:Amidst the Trees and From the Earth
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Gallery White Box\, Blackheath\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_a73177de16df4173b58ccdb6c9f12146-occ_56854b46ad2c4313bc990b4cb7d
  f7fb9@thingstodoinyourcity
 DTSTAMP:20261107T081641Z
@@ -29674,19 +29772,15 @@ URL:https://www.angelcomedy.co.uk/event-detail/roast-battle-uk-angel-come
  dy-fri-6th-nov-the-bill-murray-london-tickets-202611062300
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_bca25cba01164488b98cf76abf098a25-occ_498307c12e2a44cbb612fbf3ca9
- ed429@thingstodoinyourcity
-DTSTAMP:20261031T232029Z
-DTSTART:20261106T235900Z
-DTEND:20261107T100000Z
-SUMMARY:The Third Room Club Tour (EXTENDED)
-DESCRIPTION:The Third Room returns to FOLD for an extended Club Tour span
- ning both rooms. Founder Ahmet Sisman joins TOMMY FOUR SEVEN\, Alba Heid
- ari and others.\nhttps://www.fold.london/tickets/the-third-room-club-tou
- r-extended
-LOCATION:FOLD\, Gillian House\, Stephenson Street\, London\, UK E16 4SA\,
-  London
-URL:https://www.fold.london/tickets/the-third-room-club-tour-extended
+UID:cand_ec078e9ecaac4941b3fc18c8bd118493-occ_c73ddcb79a304ef381d86a8b2c4
+ 85778@thingstodoinyourcity
+DTSTAMP:20261107T101832Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:"Held In Place" - Katie Deith
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:ArtWorks Project Space\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a2f8b1af6a96430fabadda412ac7eb00-occ_437fc625e94a46d48f8081c969a
@@ -29733,26 +29827,6 @@ DTSTART;VALUE=DATE:20261108
 SUMMARY:A Japanese Market Is Coming to East London
 DESCRIPTION:https://londontheinside.com/whats-on-this-week/
 LOCATION:London
-URL:https://londontheinside.com/whats-on-this-week/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_751123cdc56f445cb17969ae1f7f5766-occ_2be332c5460642f8bc26a08bfab
- a9cea-2026-11-07@thingstodoinyourcity
-DTSTAMP:20261101T143406Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:A Japanese Market Is Coming to East London
-DESCRIPTION:https://londontheinside.com/whats-on-this-week/
-LOCATION:DALSTON\, London
-URL:https://londontheinside.com/whats-on-this-week/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_751123cdc56f445cb17969ae1f7f5766-occ_2be332c5460642f8bc26a08bfab
- a9cea-2026-11-08@thingstodoinyourcity
-DTSTAMP:20261101T143406Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:A Japanese Market Is Coming to East London
-DESCRIPTION:https://londontheinside.com/whats-on-this-week/
-LOCATION:DALSTON\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
@@ -29891,17 +29965,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b3a197c447614771b97dac1f611aaf03-occ_390de9cf7e804c0cb899e1cf04f
  08632@thingstodoinyourcity
-DTSTAMP:20261105T063201Z
+DTSTAMP:20261107T085417Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:AllSaints 1 year anniversary
 DESCRIPTION:AllSaints marks its first year at Battersea Power Station wit
  h an in-store celebration. Shoppers get 20% off full-price items and com
  plimentary drinks while browsing.\nhttps://batterseapowerstation.co.uk/e
- vents/allsaints-1-year-anniversary/
+ vents/
 LOCATION:Battersea Power Station\, London
-URL:https://batterseapowerstation.co.uk/events/allsaints-1-year-anniversa
- ry/
+URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_3b0b63bc034c46429422380bbdbcf2d3-occ_738d8116d1224f4daae35422f0f
@@ -30028,28 +30101,15 @@ URL:https://londonforcheap.co.uk/agenda/ballroom-boogie-toasty-tots-xl-so
  uthbank-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_7f08802ea2cc4e0f870c24767ae31e88-occ_02e5160439124392afbc080dde5
- ab7af@thingstodoinyourcity
-DTSTAMP:20261105T060154Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Barbaro: ONE MORE DANCE
-DESCRIPTION:The lineup includes Ramoss\, Nico Ramírez\, Taylor Crane\, C
- opasetic\, Ale Grooves and Tiempo. Secure checkout is handled on ra.co.\
- nPrice: From £10.00\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:Gallery\, Campden\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_b133b5befcd14469bd20c576c29a6658-occ_89ef5ccd310e4ce492329c77790
  0e5e7@thingstodoinyourcity
-DTSTAMP:20261105T062710Z
+DTSTAMP:20261107T090250Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Battersea Brewery open later for Battersea Park Fireworks
-DESCRIPTION:Battersea Brewery stays open until 1am after the park closes 
- at 11pm. Pop in for beers and subs before the show\, or join afterwards 
- for the party.\nhttps://batterseapowerstation.co.uk/events/
+DESCRIPTION:Battersea Brewery stays open until 1am after Battersea Park c
+ loses at 11pm. Pop in for beers and subs before the show\, or join after
+ wards for the party.\nhttps://batterseapowerstation.co.uk/events/
 LOCATION:Battersea Brewery\, London
 URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
@@ -30384,20 +30444,6 @@ DESCRIPTION:Young Curators researched Home Guard archives from the Second
 LOCATION:Burgh House\, BURGH HOUSE NEW END SQUARE LONDON NW3 1LT\, London
 URL:https://www.burghhouse.org.uk/whats-on/whats-on/exhibition/burgh-hous
  e-young-curators-club
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b63e7958291d415daf6b6f9f7d452787-occ_a8fe0842a9924232acef72ac488
- 4f032@thingstodoinyourcity
-DTSTAMP:20261105T061250Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:C is for...Crime in Victorian London Talk + Londoners On Trial @ 
- London Archives
-DESCRIPTION:Blue Badge Guide Patrick Voss explores Dickens's portrayal of
-  Victorian crime and poverty. Visitors can also explore the Londoners On
-  Trial exhibition beforehand.\nPrice: Check website\nhttps://eventslist.
- co.uk/london/exhibitions
-LOCATION:The London Archives\, Clerkenwell\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_32875f10eba9451f842b2047c45ceeac-occ_109bde5c14154ac6b931387cfa1
@@ -30948,27 +30994,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_a78b90979cf04c5eb06e511b3a819f9b-occ_88c60f79602342ceb4e4541f225
  8e3fa@thingstodoinyourcity
-DTSTAMP:20261105T080425Z
+DTSTAMP:20261107T095524Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Fireworks & Drone Festival
-DESCRIPTION:Saturday offers the full festival atmosphere with a headline 
- DJ set and street food. Sunday brings an earlier\, family-focused show w
- ith a kids' rave and karaoke singalong.\nPrice: From £11.50\nhttps://ww
- w.alexandrapalace.com/whats-on
+DESCRIPTION:Saturday brings a headline DJ set\, a German Bier Festival an
+ d street food. Sunday offers an earlier\, family-focused show with a kid
+ s’ rave and karaoke singalong.\nPrice: From £11.50\nhttps://www.alexa
+ ndrapalace.com/whats-on
 LOCATION:Alexandra Palace Park\, London
 URL:https://www.alexandrapalace.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_a78b90979cf04c5eb06e511b3a819f9b-occ_ab4cf11ae6aa4d51947bba92d9c
  01b52@thingstodoinyourcity
-DTSTAMP:20261105T080425Z
+DTSTAMP:20261107T095524Z
 DTSTART:20261108T180000Z
 SUMMARY:Fireworks & Drone Festival
-DESCRIPTION:Saturday offers the full festival atmosphere with a headline 
- DJ set and street food. Sunday brings an earlier\, family-focused show w
- ith a kids' rave and karaoke singalong.\nPrice: From £11.50\nhttps://ww
- w.alexandrapalace.com/whats-on
+DESCRIPTION:Saturday brings a headline DJ set\, a German Bier Festival an
+ d street food. Sunday offers an earlier\, family-focused show with a kid
+ s’ rave and karaoke singalong.\nPrice: From £11.50\nhttps://www.alexa
+ ndrapalace.com/whats-on
 LOCATION:Alexandra Palace Park\, London
 URL:https://www.alexandrapalace.com/whats-on
 END:VEVENT
@@ -32024,17 +32070,6 @@ LOCATION:Old Royal Naval College\, London SE10 9NN\, London
 URL:https://ornc.digitickets.co.uk/category/74617
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_85582f4b58f14cd083da664ff381c3f8-occ_e876bb71ef6a4625a9a7734e4b5
- 50351@thingstodoinyourcity
-DTSTAMP:20261105T061202Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:MACS Goes To...Light and Magic @ Tate Modern
-DESCRIPTION:Price: Ticket: £20 Ticket with Art Pass: £10 Members: free\
- , no need to book\nhttps://eventslist.co.uk/london/exhibitions
-LOCATION:Tate Modern\, Southwark\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_08857fb8415d432594b86b3090cd9bf8-occ_bf8d6831999f4162bcb5020f1a5
  405e5@thingstodoinyourcity
 DTSTAMP:20261101T005126Z
@@ -32194,6 +32229,17 @@ LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/film/maya-give-me-a-title
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_5d142b9a840640edaa1db2278483a910-occ_2990f47b35ed411f90f19cad4e6
+ e6f73@thingstodoinyourcity
+DTSTAMP:20261107T112713Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261206
+SUMMARY:Meandros
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Coleman Projects\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_ed9cbbf947b64130a7c3c3aaa6a4d175-occ_4f9dd8b5ab5646b694f45b67d31
  5eb30-2026-11-07@thingstodoinyourcity
 DTSTAMP:20261105T145207Z
@@ -32222,32 +32268,6 @@ DESCRIPTION:Members get exclusive out-of-hours access to this UK-first ex
 LOCATION:V&A South Kensington\, London
 URL:https://www.vam.ac.uk/event/pDoR12r5/members-morning-view-constantino
  ple-to-istanbul
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8d8de7e874c84bafa01ba45a647215ab-occ_b302adec988c43cf89b1281a54c
- 1e6d9@thingstodoinyourcity
-DTSTAMP:20261105T054827Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Millbank and Pimlico
-DESCRIPTION:A self-guided audio walking tour past 16 landmarks\, with nar
- ration that plays at each stop. Once downloaded\, the audio and map work
-  offline on your own phone.\nPrice: From £3.99\nhttps://eventslist.co.u
- k/london/exhibitions
-LOCATION:Buxton Memorial Fountain\, St James's\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_8d8de7e874c84bafa01ba45a647215ab-occ_fe42a9c1c7e645acbf60dd5948d
- a0116@thingstodoinyourcity
-DTSTAMP:20261105T054827Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Millbank and Pimlico
-DESCRIPTION:A self-guided audio walking tour past 16 landmarks\, with nar
- ration that plays at each stop. Once downloaded\, the audio and map work
-  offline on your own phone.\nPrice: From £3.99\nhttps://eventslist.co.u
- k/london/exhibitions
-LOCATION:Buxton Memorial Fountain\, St James's\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b511432eb0874680bfcf3a774798160a-occ_e0a5de1222b54167a9468a69dca
@@ -32709,6 +32729,17 @@ DESCRIPTION:Step onto the Globe Stage through the stage door and tiring h
  n
 LOCATION:Shakespeare's Globe\, London
 URL:https://www.shakespearesglobe.com/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e4eb8438b8f648959196e8c8420bde56-occ_af8fcb2e1f4b46789e2466c1fa5
+ 99a2f@thingstodoinyourcity
+DTSTAMP:20261107T113354Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261113
+SUMMARY:Present Here
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:SET Lewisham Project Space\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2149d4a0601947ea91778e086ddc7cd2-occ_521ffa19e749487bae91a03e1ce
@@ -33391,6 +33422,17 @@ LOCATION:New Wimbledon Theatre\, London
 URL:https://www.london-theatreland.co.uk/dates/2026/05/category/comedy
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_25ed26ff17334a9db709db6a93a0684f-occ_478a44a577874f4a8fe95459d9c
+ 5afc8@thingstodoinyourcity
+DTSTAMP:20261107T112958Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261129
+SUMMARY:Stick It Baby - Hollie Dewick
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:The All Good Bookshop\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_1131fbcaea1742cda77c610faa516d53-occ_4ca06cd38e9349e89c518471dc7
  dd1ee@thingstodoinyourcity
 DTSTAMP:20261105T094547Z
@@ -33537,19 +33579,6 @@ LOCATION:Village Soho\, London
 URL:https://www.villagesoho.co.uk/london-bar/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_73f4ff8c5a89441fa7e0e4e66d74f34e-occ_1cf4875d8b1b496ba5d36e54a63
- 091f6@thingstodoinyourcity
-DTSTAMP:20261105T060156Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Tate Britain Architecture Tour
-DESCRIPTION:Participants explore the gallery's history and architectural 
- secrets during this guided session. The listing describes it as a single
-  guided tour.\nPrice: Check website\nhttps://eventslist.co.uk/london/exh
- ibitions
-LOCATION:Tate Britain\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_5bb0967d7a754c23b9136072208a928b-occ_6888563e2b1949dbb4c87cc76c8
  22c8b@thingstodoinyourcity
 DTSTAMP:20261031T231611Z
@@ -33568,17 +33597,6 @@ SUMMARY:The Blackheath Fireworks Are Back With DJs\, Comedy & Fairground
  Rides
 DESCRIPTION:https://londontheinside.com/whats-on-this-week/
 LOCATION:London
-URL:https://londontheinside.com/whats-on-this-week/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f01cfbad6a1849e2acc93922574f25e3-occ_d6da669d24364d42bfec78f9e2b
- e8955@thingstodoinyourcity
-DTSTAMP:20261101T143337Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:The Blackheath Fireworks Are Back With DJs\, Comedy & Fairground 
- Rides
-DESCRIPTION:https://londontheinside.com/whats-on-this-week/
-LOCATION:SOUTH LONDON\, London
 URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
@@ -33655,6 +33673,18 @@ SUMMARY:The Gorals 산양들
 DESCRIPTION:https://www.koreanfilm.co.uk/schedule
 LOCATION:London
 URL:https://www.koreanfilm.co.uk/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4ac6012e3f1241ed99cadf89a82d0ce2-occ_4f18b84e50404f4b9db682feb02
+ 90e31@thingstodoinyourcity
+DTSTAMP:20261107T113123Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:The Letter - Experiments in Ink
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:The Chapel at St Margarets House\, London\, United Kingdom\, Lon
+ don
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b2d0cad6829a48c59be45cd982e54cdb-occ_feca05bf625346e1866af6410df
@@ -34278,17 +34308,15 @@ LOCATION:The Lexi Cinema\, London
 URL:https://thelexicinema.co.uk/TheLexiCinema.dll/WhatsOn?f=10229631
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4834ab52aa964faa9415b6c5c8e8a283-occ_00caa6661ec64865be34bbb94a5
- 4a3c0@thingstodoinyourcity
-DTSTAMP:20261105T082348Z
+UID:cand_7fbdcfe155184b9a8ec3bb9c9a51bf5d-occ_96e6ffa81f464b85aeebc317ebe
+ 3430b@thingstodoinyourcity
+DTSTAMP:20261107T113221Z
 DTSTART;VALUE=DATE:20261107
-SUMMARY:Women and the World International Film Festival: LAYA
-DESCRIPTION:A young woman forms a dangerous alliance with a reclusive ex-
- criminal in a haunting Philippine coastal town. Includes an in-person Q&
- A with actress Andrea Brillantes.\nhttps://riocinema.org.uk/Rio.dll/What
- sOn
-LOCATION:Rio Cinema\, London\, E8 2PB\, London
-URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+DTEND;VALUE=DATE:20261121
+SUMMARY:Wolfgang Flad & Jost Münster
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:RAUMX\, London\, United Kingdom\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4bbbbc5007db47cd985dfe9de8d9d15f-occ_ea9effc17cd04c84bbcdb77c186
@@ -34302,6 +34330,16 @@ DESCRIPTION:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=e
 LOCATION:The Factory\, 21–31 Shacklewell Lane\, Dalston\, E8 2DA\, Dals
  ton\, London
 URL:https://www.tiktok.com/discover/free-pop-ups-in-london?lang=en
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1879cf8bbc8e49baadc300ccda02b5ff-occ_98867050f4394cd0b765bc48be4
+ 0e5a8-2026-11-07@thingstodoinyourcity
+DTSTAMP:20261031T231849Z
+DTSTART;VALUE=DATE:20261107
+SUMMARY:You Can Now Party at the Barbican Until 3am
+DESCRIPTION:https://londontheinside.com/whats-on-this-week/
+LOCATION:Barbican\, London
+URL:https://londontheinside.com/whats-on-this-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1879cf8bbc8e49baadc300ccda02b5ff-occ_a8c6f658b4774b1cba6dd497859
@@ -34352,6 +34390,17 @@ DESCRIPTION:Eclectic live music from avant-rock to UK rap across 80 artis
  /london/things-to-do-in-london-this-weekend
 LOCATION:Various\, Various\, London\, London
 URL:https://www.timeout.com/london/things-to-do-in-london-this-weekend
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d7318b9d4ce248dcbdec2fd40816dc0a-occ_7867449f74974e5e8071df24cd5
+ 75768@thingstodoinyourcity
+DTSTAMP:20261107T113220Z
+DTSTART:20261107T080000Z
+DTEND:20261107T210000Z
+SUMMARY:Butterup Coffee X Grill sessions
+DESCRIPTION:https://www.southwark.gov.uk/southwark-presents
+LOCATION:Trinity College Centre\, Peckham\, London
+URL:https://www.southwark.gov.uk/southwark-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7c8434038ed24f6ea01a897e31d0816f-occ_7722c6b64aef483c961021bb738
@@ -34554,6 +34603,17 @@ URL:https://www.sjp.org.uk/whats-on/tap-at-piccadilly-artisanal-marketpla
  ce/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7cf342c0c75c470c94147eed9d6063aa-occ_f7cf244fbb494e9b86c73d1181c
+ 6bfa1@thingstodoinyourcity
+DTSTAMP:20261107T113036Z
+DTSTART:20261107T091500Z
+DTEND:20261107T115000Z
+SUMMARY:Young Flyers Aerial Classes
+DESCRIPTION:https://www.southwark.gov.uk/southwark-presents
+LOCATION:Bankside\, London
+URL:https://www.southwark.gov.uk/southwark-presents
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b7b76550437749ffbf636502410e4e26-occ_b5416604d04b4a5995ecd84dec9
  5c373@thingstodoinyourcity
 DTSTAMP:20261103T092258Z
@@ -34604,6 +34664,17 @@ LOCATION:Woolwich Arsenal Railway Station\, Woolwich Arsenal Railway Stat
 URL:https://www.spice-social.co.uk/view-event?id=walking-with-linda-woolw
  ich-arsenal-to-maze-hill-7-mile-linear-walk-thames-barrier-the-queens&GI
  D=d20aa169-12aa-4489-a233-011d69d55ab4
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2a6b64806d04da8b89ad5d0d73aade9-occ_6f95b78961d146b19dc8c29a5a7
+ 414e4@thingstodoinyourcity
+DTSTAMP:20261107T112856Z
+DTSTART:20261107T095500Z
+DTEND:20261107T155500Z
+SUMMARY:The Latin American Market @ Liverpool Grove
+DESCRIPTION:Price: Free\nhttps://www.southwark.gov.uk/southwark-presents
+LOCATION:Liverpool Grove\, Walworth\, London
+URL:https://www.southwark.gov.uk/southwark-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_52686d48d7b84d7a974e619528238d2b-occ_343910fa3832425eb54e7728131
@@ -34669,6 +34740,17 @@ DESCRIPTION:Curated by Mehala Ford\, this free festival showcases South A
  urecalling.com/london/whats-on
 LOCATION:National Maritime Museum\, Greenwich\, London
 URL:https://www.culturecalling.com/london/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c1ae9e96549542b387c36dfd2105237a-occ_fb5992559a72474dbe338cca1a2
+ 00eed@thingstodoinyourcity
+DTSTAMP:20261107T113432Z
+DTSTART:20261107T100000Z
+DTEND:20261107T130000Z
+SUMMARY:Art&Design Club Hotel Elephant
+DESCRIPTION:https://www.southwark.gov.uk/southwark-presents
+LOCATION:Elephant and Castle\, London
+URL:https://www.southwark.gov.uk/southwark-presents
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_24b203ff808545caabaa6ab2843a7dbe-occ_dfaf8ba9f2304f35a6c1dc0c2d1
@@ -34952,6 +35034,16 @@ LOCATION:Light Centre\, Monument\, 36 Saint Mary at Hill\, London\, EC3R
 URL:https://portal.bwy.org.uk/user/events/1134
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_986fc24c0dda4fd4a9c0b10bd1addb59-occ_f30d1a232cda49579fff167f68d
+ ad57e@thingstodoinyourcity
+DTSTAMP:20261107T112855Z
+DTSTART:20261107T100000Z
+SUMMARY:Open Art Market
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Tavistock Piazza\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_f516b76c7a844bc0b56c40a31bf9a8a4-occ_a6eef95f89c94cc2ab84bfdaf85
  94f7e@thingstodoinyourcity
 DTSTAMP:20261102T065920Z
@@ -34998,230 +35090,6 @@ DESCRIPTION:A grounding meditation leads into a sonic journey with crysta
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3AHeal---Sekhem-%2B-Crystal-B
  owls/138282576?skipPreview=true
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_985a846bae7d4b6792de7b2d2ac
- 6db33@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261107T100000Z
-DTEND:20261107T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_b23fcdab2f0447988a1f776e23b
- 7baec@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261114T100000Z
-DTEND:20261114T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_cb6b07ab71a14bc38077d5dc0d9
- 24009@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261121T100000Z
-DTEND:20261121T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_9c9826734e02494b83aae425c58
- e1a89@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261128T100000Z
-DTEND:20261128T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_75f47c1d48f84576a128ec5fc47
- 393cd@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261205T100000Z
-DTEND:20261205T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_21927d5f2a444a5f84469ab4df3
- 483a4@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261212T100000Z
-DTEND:20261212T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_65584d3e64c14d9ba8baf8ee789
- ff78e@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261219T100000Z
-DTEND:20261219T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_efabd0fd78184ab1a07acbed31b
- fff83@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20261226T100000Z
-DTEND:20261226T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_86e00dcef03a488c89bccd199e9
- 863e7@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270102T100000Z
-DTEND:20270102T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_763231edc0c84b9799adf386680
- 2b59d@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270109T100000Z
-DTEND:20270109T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_801ff795f61c410498d3c1a1ed6
- 9c518@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270116T100000Z
-DTEND:20270116T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_719fd334765c4735ba74261c3be
- 63e96@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270123T100000Z
-DTEND:20270123T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_3126d06a40ae4b59862497b24cd
- cb6f8@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270130T100000Z
-DTEND:20270130T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_6a2aca0142e34cacb095ae21261
- b6d41@thingstodoinyourcity
-DTSTAMP:20261031T071356Z
-DTSTART:20270206T100000Z
-DTEND:20270206T110000Z
-SUMMARY:Saturday IT Help session at Paddington Library
-DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
- alls and online shopping. Drop in on the day or book ahead\; expert devi
- ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
- /event/saturday-it-help-session-paddington-library
-LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
- gdom\, London
-URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
- ton-library
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_79cdb95e515d4f9ba962beafc3f6c672-occ_a7c1e528b05c4a96b8eaca0e638
@@ -35672,6 +35540,17 @@ LOCATION:Forest Walthamstow | Screen 4\, The Forest Cinema\, 267 High Str
 URL:https://forestwalthamstow.admit-one.co.uk/seats/27838/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0340be2d4f8a458398a0c09d9f1935a7-occ_9b9f11f4d18d4d868a124bd1d08
+ 6c529@thingstodoinyourcity
+DTSTAMP:20261107T112958Z
+DTSTART:20261107T103000Z
+DTEND:20261107T130000Z
+SUMMARY:Art&Design Club at Art Academy
+DESCRIPTION:Price: Free\nhttps://www.southwark.gov.uk/southwark-presents
+LOCATION:Elephant and Castle\, London
+URL:https://www.southwark.gov.uk/southwark-presents
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7065cc29e7b045f2b104646dc7f40fd5-occ_fdf5ea3849fc48bda82a2ced595
  1633b@thingstodoinyourcity
 DTSTAMP:20261107T072835Z
@@ -35855,34 +35734,6 @@ SUMMARY:Ghosts: The Possession of Button House
 DESCRIPTION:https://www.picturehouses.com/cinema/picturehouse-central
 LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/cinema/picturehouse-central
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_33657164a8e14a3fae97705d92224634-occ_9168fc4dd700437ba8f178652a8
- 7190c@thingstodoinyourcity
-DTSTAMP:20261106T023109Z
-DTSTART:20261107T103000Z
-DTEND:20261107T113000Z
-SUMMARY:Great Fire of London family walk
-DESCRIPTION:Families explore how the Great Fire started and spread on thi
- s 60-minute outdoor walk. Suited to primary-age children\, it asks wheth
- er the Pudding Lane baker was to blame.\nhttps://www.londonmuseum.org.uk
- /whats-on/
-LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_33657164a8e14a3fae97705d92224634-occ_1d451440bfd04d41baf281f53ce
- d330a@thingstodoinyourcity
-DTSTAMP:20261106T023109Z
-DTSTART:20261128T103000Z
-DTEND:20261128T113000Z
-SUMMARY:Great Fire of London family walk
-DESCRIPTION:Families explore how the Great Fire started and spread on thi
- s 60-minute outdoor walk. Suited to primary-age children\, it asks wheth
- er the Pudding Lane baker was to blame.\nhttps://www.londonmuseum.org.uk
- /whats-on/
-LOCATION:London-wide\, London
-URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
@@ -36145,216 +35996,6 @@ LOCATION:Church Street Library\, 67 Church St\, Edgware Rd London NW8 8EU
   United Kingdom\, London
 URL:https://www.westminster.gov.uk/event/knitting-group-church-street-lib
  rary
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_19f1fabde9a34754b7fb57d8d22
- e9d39@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261107T103000Z
-DTEND:20261107T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_9d894c81d6f842c293d44fa6e15
- e8a50@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261114T103000Z
-DTEND:20261114T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_0beae8325b0e4fa8a655b683b1d
- d090d@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261121T103000Z
-DTEND:20261121T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_3d304e189de84c35ad206c4a77a
- 09d77@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261128T103000Z
-DTEND:20261128T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_3f8e8fb4ffa24610940323de75f
- 4270c@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261205T103000Z
-DTEND:20261205T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_51f1a95c8eab4d70ab4b10050fe
- 45591@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261212T103000Z
-DTEND:20261212T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_805733ce201646309ff0987edcc
- d32f8@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261219T103000Z
-DTEND:20261219T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_76aa773e5a9b41119cea45e3b7e
- 7ef7d@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20261226T103000Z
-DTEND:20261226T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_6c2a7bcb06a241a2b222a011bb2
- e205c@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270102T103000Z
-DTEND:20270102T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_6460782a1b1f44c1be20cff7e8e
- f3a68@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270109T103000Z
-DTEND:20270109T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_75345fa69a2143838758912c358
- 8702a@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270116T103000Z
-DTEND:20270116T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_1022ddcef59048a4a0e17d9a08c
- 18f44@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270123T103000Z
-DTEND:20270123T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_355fad216633400f84fbf074e24
- 8b164@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270130T103000Z
-DTEND:20270130T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_5ef191881cbc400daa419bacbd0
- 4d8a8@thingstodoinyourcity
-DTSTAMP:20261031T070925Z
-DTSTART:20270206T103000Z
-DTEND:20270206T113000Z
-SUMMARY:Lego Club at Pimlico Library (in-person)
-DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
- ub\, which meets every Saturday. No booking needed\; an adult must accom
- pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
- event/lego-club-pimlico-library-person
-LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
- London
-URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_46b1fb8f82864b4581a6b411c00aab85-occ_a42c9d8913da4632b001e22d5b7
@@ -37820,7 +37461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f50fc5238c814e42a26aab75bbe368be-occ_1135a6139389442bbf97de37dbd
  b4719@thingstodoinyourcity
-DTSTAMP:20261105T060248Z
+DTSTAMP:20261107T090136Z
 DTSTART:20261107T120000Z
 SUMMARY:Diwali festival photo walk
 DESCRIPTION:Participants photograph the stands and exhibitions during thi
@@ -37828,7 +37469,8 @@ DESCRIPTION:Participants photograph the stands and exhibitions during thi
  the walk.\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibit
  ions
 LOCATION:The entrance to the National Maritime Museum (just down the hill
-  from the observatory)\, Greenwich Park\, London\, London
+  from the observatory)\, National Maritime Museum Romney Road\, SE10 9NF
+ \, London\, Greenwich Park\, London\, London
 URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
@@ -37998,6 +37640,16 @@ DESCRIPTION:https://whatsdownthatstreet.com/london-museum-guide/exhibitio
 LOCATION:Kensington Palace\, London
 URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_ec34a912f54f439b85eaf60f505cb1d4-occ_0d2132c195314ccda8d568b8d07
+ 06116@thingstodoinyourcity
+DTSTAMP:20261107T112714Z
+DTSTART:20261107T120000Z
+SUMMARY:This is Southbury
+DESCRIPTION:https://www.artrabbit.com/all-shows/united-kingdom/london
+LOCATION:Enfield\, London
+URL:https://www.artrabbit.com/all-shows/united-kingdom/london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c723e37272a04a96b83a554c937edea2-occ_8c99a5d80ba84db4811086942d2
@@ -38894,6 +38546,20 @@ LOCATION:Olympic Studios\, London
 URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b63e7958291d415daf6b6f9f7d452787-occ_a8fe0842a9924232acef72ac488
+ 4f032@thingstodoinyourcity
+DTSTAMP:20261107T091345Z
+DTSTART:20261107T134500Z
+SUMMARY:Crime in Victorian London Talk + Londoners On Trial
+DESCRIPTION:A Blue Badge Guide\, Patrick Voss\, explores Dickens's portra
+ yal of Victorian crime and poverty. Visitors can also explore the London
+ ers On Trial exhibition beforehand.\nPrice: Check website\nhttps://event
+ slist.co.uk/london/exhibitions
+LOCATION:The London Archives\, The London Archives 40 Northampton Road Lo
+ ndon EC1R 0HB\, London\, EC1R 0HB\, Clerkenwell\, London\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6e9f59ca8c5647c3ba161775b9df9f01-occ_dc3faa6055484ddbb37544d45c8
  0eabc@thingstodoinyourcity
 DTSTAMP:20261107T032725Z
@@ -39475,6 +39141,19 @@ LOCATION:Olympic Studios\, Barnes\, London
 URL:https://www.olympiccinema.com/film/wild-horse-nine
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4834ab52aa964faa9415b6c5c8e8a283-occ_00caa6661ec64865be34bbb94a5
+ 4a3c0@thingstodoinyourcity
+DTSTAMP:20261107T104246Z
+DTSTART:20261107T140000Z
+SUMMARY:Women and the World International Film Festival: LAYA
+DESCRIPTION:A young woman forms a dangerous alliance with a reclusive ex-
+ criminal in a Philippine coastal town. An in-person Q&A with actress And
+ rea Brillantes follows.\nhttps://riocinema.org.uk/Rio.dll/WhatsOn
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, London\, E8 2PB\, Londo
+ n\, E8 2PB\, London
+URL:https://riocinema.org.uk/Rio.dll/WhatsOn
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_345598690409452b85f070b3352bc729-occ_1ad5851387d949fbac29e02f376
  13a23@thingstodoinyourcity
 DTSTAMP:20261102T103903Z
@@ -39751,6 +39430,18 @@ LOCATION:The Royal Institution\, The Royal Institution\, 21 Albemarle Str
 URL:https://www.rigb.org/whats-on/how-build-chocolate-bridge-family
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_85582f4b58f14cd083da664ff381c3f8-occ_e876bb71ef6a4625a9a7734e4b5
+ 50351@thingstodoinyourcity
+DTSTAMP:20261107T085914Z
+DTSTART:20261107T143000Z
+SUMMARY:MACS Goes To...Light and Magic @ Tate Modern
+DESCRIPTION:Price: Ticket: £20 Ticket with Art Pass: £10 Members: free\
+ , no need to book\nhttps://eventslist.co.uk/london/exhibitions
+LOCATION:Tate Modern\, Bankside\, London SE1 9TG\, UK\, London\, SE1 9TG\
+ , Southwark\, London\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_6d175b08b1d94eceadf803366bbb1997-occ_1858ba8b2e774e939e4823ede42
  105dd@thingstodoinyourcity
 DTSTAMP:20261105T105725Z
@@ -39790,6 +39481,18 @@ DESCRIPTION:Sound healing with gongs\, crystal bowls\, Tibetan bowls and
 LOCATION:Re:Mind Studio\, London
 URL:https://momence.com/Re%3AMind-Studio/Re%3ASound---Sound-Bath/13828757
  4?skipPreview=true
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_73f4ff8c5a89441fa7e0e4e66d74f34e-occ_1cf4875d8b1b496ba5d36e54a63
+ 091f6@thingstodoinyourcity
+DTSTAMP:20261107T085510Z
+DTSTART:20261107T143000Z
+SUMMARY:Tate Britain Architecture Tour
+DESCRIPTION:Participants explore the gallery's history and architectural 
+ secrets during this guided session. It is listed as a single guided tour
+ .\nPrice: Check website\nhttps://eventslist.co.uk/london/exhibitions
+LOCATION:Tate Britain\, Vincent Square\, London\, London
+URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7993c15015554445a96ffd50b5ad34dd-occ_057515fab20f4a7ea20e4a817b5
@@ -39849,7 +39552,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_f44c437a6cf94360bf9a641013628d4b-occ_dd7e9d9538ec407cb3d18fd4eae
  663a9@thingstodoinyourcity
-DTSTAMP:20261105T060442Z
+DTSTAMP:20261107T090547Z
 DTSTART:20261107T150000Z
 SUMMARY:Declaring Independence USA 250 then coffee social
 DESCRIPTION:Explores Indigenous Nations' shifting alliances during the Am
@@ -40220,13 +39923,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_e5e3da9e7e58435e92195a11f00eb530-occ_af50fd470f9547b3809ac6aa1b6
  24bc1@thingstodoinyourcity
-DTSTAMP:20261105T110148Z
+DTSTAMP:20261107T101636Z
 DTSTART:20261107T153000Z
 SUMMARY:Saturday Stand Up Comedy Afternoon Show
-DESCRIPTION:A sell-out mixed bill with the best comedians in town\; a cel
- ebrity guest may drop by. Booking covers entry only\; donations are coll
- ected after the show.\nPrice: £1 Concessions: £1\nhttps://thetopsecret
- comedyclub.co.uk/events-listings/
+DESCRIPTION:Afternoon stand-up show at Top Secret with acts to be announc
+ ed. Booking covers entry only\; audience donations are collected after t
+ he show to pay the acts.\nPrice: £1 Concessions: £1\nhttps://thetopsec
+ retcomedyclub.co.uk/events-listings/
 LOCATION:170 Drury Lane\, 170 Drury Lane\, London\, WC2B 5PD\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
@@ -40473,14 +40176,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d03f1cfdbf7d4a718530b5682842fdf6-occ_b557f245002b4a298d4958dd456
  3b058@thingstodoinyourcity
-DTSTAMP:20261105T060344Z
+DTSTAMP:20261107T090551Z
 DTSTART:20261107T160000Z
 DTEND:20261107T220000Z
 SUMMARY:The Muslim Youth Engagement Awards 2026
 DESCRIPTION:Celebrates individuals\, organisations and young people in Mu
  slim youth work across the UK. Held during Youth Work Week 2026\, with d
- inner and networking.\nPrice: General tickets: £50 per person\nhttps://
- eventslist.co.uk/london/exhibitions
+ inner\, networking and Qur’an recitation.\nPrice: General tickets: £5
+ 0 per person\nhttps://eventslist.co.uk/london/exhibitions
 LOCATION:Saffron Gallery\, 341-351 High Street\, London\, E15 4QZ\, Strat
  ford\, London\, London
 URL:https://eventslist.co.uk/london/exhibitions
@@ -41216,6 +40919,17 @@ LOCATION:Jamon Jamon Soho\, 3-5 Caxton Walk\, London WC2H 8PW\, Soho\, Lo
 URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ea9bab01017549faa8686c91215049a6-occ_cfd87dbbd63c4b85a361a74a5a6
+ 6db63@thingstodoinyourcity
+DTSTAMP:20261107T102416Z
+DTSTART:20261107T180000Z
+SUMMARY:Saturday Stand Up Comedy Early Show
+DESCRIPTION:Price: £16 Concessions: £13\nhttps://thetopsecretcomedyclub
+ .co.uk/events-listings/
+LOCATION:170 Drury Lane\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_bb5d37985f4c49ae8d1e34a0d3672bac-occ_79186f04e36d497eb346ce41e3e
  994a5@thingstodoinyourcity
 DTSTAMP:20261107T032614Z
@@ -41291,7 +41005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_7ca7283e0257461bb3ed4a5db84322e6-occ_8a14861b678741be8b33e6bc454
  5d15c@thingstodoinyourcity
-DTSTAMP:20261105T062737Z
+DTSTAMP:20261107T090250Z
 DTSTART:20261107T183000Z
 DTEND:20261107T220000Z
 SUMMARY:JOIA Rooftop Bonfire Night – Season Closing Party
@@ -41304,6 +41018,17 @@ DESCRIPTION:Last rooftop party before JOIA closes for winter\, with Switc
 LOCATION:JOIA Rooftop\, Battersea\, London
 URL:https://www.designmynight.com/london/bars/battersea/joia/joia-rooftop
  -bonfire-night-season-closing-party?t=tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bd8d0d0b027d4a6bb5925b80190040d1-occ_aa6efa3b33734eebb2ff949608c
+ 8384f@thingstodoinyourcity
+DTSTAMP:20261107T104132Z
+DTSTART:20261107T183000Z
+SUMMARY:Jarred Christmas\, Roger Monkhouse
+DESCRIPTION:Price: £27.25\nhttps://www.chortle.co.uk/venues/10/england_l
+ ondon
+LOCATION:Comedy Store\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ec7f33a26aa249b5922fb7dd6d98cf30-occ_5d2c43b0f5604f208614276a82b
@@ -42329,6 +42054,17 @@ LOCATION:Bar at Underbelly Boulevard Soho\, Soho\, London
 URL:https://londoncheapo.com/events/bar-icons-at-underbelly-boulevard/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_b083ef16be8941f8953f6027a08b1db3-occ_479f5c8c59b942358352c10a5fe
+ 6152f@thingstodoinyourcity
+DTSTAMP:20261107T104224Z
+DTSTART:20261107T200000Z
+SUMMARY:Eleanor Tiernan\, John Robertson
+DESCRIPTION:Price: Price: £24.20\nhttps://www.chortle.co.uk/venues/10/en
+ gland_london
+LOCATION:Headliners\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2896197e804949d982e8014876d69944-occ_e42cde22a127406e9dceb37d40a
  413a5@thingstodoinyourcity
 DTSTAMP:20261106T125647Z
@@ -42356,6 +42092,28 @@ LOCATION:Big Belly Bar & Comedy Club London (Southbank)\, Unit 6 & 7\, 30
   Stamford Street\, South Bank Central\, London\, SE1 9LQ\, Southbank\, L
  ondon
 URL:https://bigbellycomedy.club/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_70542dcd055d409fb4636ef5ea3fc713-occ_87da448d3e994c988469c07db8e
+ 6d59c@thingstodoinyourcity
+DTSTAMP:20261107T104200Z
+DTSTART:20261107T200000Z
+SUMMARY:Funmbi Omotayo\, Roger Monkhouse\, Samantha Day\, Sean Meo
+DESCRIPTION:Price: £16 to £24\nhttps://www.chortle.co.uk/venues/10/engl
+ and_london
+LOCATION:Backyard Comedy Club\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_d90f6408e3a1454da1eba519b05daa4a-occ_60da7c92443440c6adf8505c4c2
+ 2a3cd@thingstodoinyourcity
+DTSTAMP:20261107T104244Z
+DTSTART:20261107T200000Z
+SUMMARY:Jack Hester\, Lou Conran\, Michael Odewale\, Sikisa
+DESCRIPTION:Price: Price: £18.90 to £21.50\nhttps://www.chortle.co.uk/v
+ enues/10/england_london
+LOCATION:Tattershall Castle\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b701ebe01164e05a1ca3f74f1e27d4c-occ_c9d9f73bec3a4ee69111588005a
@@ -42490,6 +42248,17 @@ SUMMARY:International Stand Up Comedy Club Night featuring Sara Barron
 DESCRIPTION:https://comedycarnival.co.uk/events
 LOCATION:SEVEN DIALS CLUB\, London
 URL:https://comedycarnival.co.uk/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_61363f6cb50e42d1bb019f2ce2a2fe07-occ_06def9f39d4a4c2b951b72fdf93
+ cc575@thingstodoinyourcity
+DTSTAMP:20261107T104224Z
+DTSTART:20261107T203000Z
+SUMMARY:Sara Barron
+DESCRIPTION:Price: £15\nhttps://www.chortle.co.uk/venues/10/england_lond
+ on
+LOCATION:Seven Dials Club\, London
+URL:https://www.chortle.co.uk/venues/10/england_london
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_15042f008fe747a68b328169821f498f-occ_7c3ce2aa8d2a4d749c5c15dc8b3
@@ -42628,6 +42397,21 @@ SUMMARY:BARBARO
 DESCRIPTION:https://highstreetkensington.co.uk/whats-on
 LOCATION:GALLERY CLUB LONDON\, London
 URL:https://highstreetkensington.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_7f08802ea2cc4e0f870c24767ae31e88-occ_02e5160439124392afbc080dde5
+ ab7af@thingstodoinyourcity
+DTSTAMP:20261107T085939Z
+DTSTART:20261107T220000Z
+DTEND;VALUE=DATE:20261108
+SUMMARY:Barbaro: ONE MORE DANCE
+DESCRIPTION:Performances by Ramoss\, Nico Ramírez\, Taylor Crane\, Copas
+ etic\, Ale Grooves and Tiempo headline this night. Secure checkout is ha
+ ndled on ra.co.\nPrice: From £10.00\nhttps://eventslist.co.uk/london/ex
+ hibitions
+LOCATION:Gallery\, 2A Kensington High Street\, London\, W8 4PT\, Campden\
+ , London\, London
+URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c9a817f5e337478386843efca8b99a50-occ_574c8440cc0849b0b4f44242916
@@ -43435,19 +43219,6 @@ LOCATION:Eventim Apollo\, London
 URL:https://www.eventimapollo.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_a34e97bb4a23430388133b406407c679-occ_f3b43368ca604e7188ca4f50919
- e5b38@thingstodoinyourcity
-DTSTAMP:20261105T060344Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Kensington Palace - Standard Admission
-DESCRIPTION:Standard admission is offered\, with prices shown on the tick
- eting website. Tickets are sold by the venue or its authorised sellers\,
-  never by the listing site.\nPrice: Check website\nhttps://eventslist.co
- .uk/london/exhibitions
-LOCATION:Kensington Palace\, Campden\, London\, London
-URL:https://eventslist.co.uk/london/exhibitions
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_832bbacbcad945e5a43a87227d47e4ee-occ_b46d312f813b46928ba75cfa268
  47464@thingstodoinyourcity
 DTSTAMP:20261104T162548Z
@@ -43551,43 +43322,31 @@ LOCATION:Drayton Arms Theatre\, London
 URL:https://www.thedraytonarmstheatre.co.uk/tickets/pleasing-terrors
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_995d04b1e23a4ec19948cafaa01a7fc0-occ_41637f37cdcf4aeca31a34a9eac
- 187f0@thingstodoinyourcity
-DTSTAMP:20261105T055940Z
+UID:cand_eb303b9f37bf435880090cf32a9ab698-occ_37e28a92ff4843179c06d8aadab
+ 206f6@thingstodoinyourcity
+DTSTAMP:20261107T084149Z
 DTSTART;VALUE=DATE:20261108
-SUMMARY:Remembrance Day Service: Richmond
-DESCRIPTION:Members join a parade to the War Memorial for a service and w
- reath-laying. The Mayor takes the salute\; attendees are welcomed afterw
- ards at Training Ship Goodwin.\nPrice: Free event\nhttps://www.visitrich
- mond.co.uk/events/remembrance-day-service-richmond-p2045051
-LOCATION:Old Deer Park\, Richmond\, London
-URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-richmo
- nd-p2045051
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_6d443a23fbcb4c6a9ffc57112d23eb48-occ_10e459555c584935b0f3ecf6281
- 20c01@thingstodoinyourcity
-DTSTAMP:20261105T055858Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Remembrance Day Service: St Margaret's and North Twickenham
-DESCRIPTION:A short service at All Hallows Church is followed by a wreath
-  laying ceremony. Cllr Alexander Ehmann will represent the Council.\nPri
- ce: Free event\nhttps://www.visitrichmond.co.uk/events/free-events
-LOCATION:All Hallows Church\, Erncroft Way\, Twickenham\, Twickenham\, Lo
- ndon
+SUMMARY:Remembrance Day Service: Teddington
+DESCRIPTION:The parade leaves Kingston Lane and follows the High Street a
+ nd Broad Street to the Memorial. The Council is represented by Cllr. Phi
+ l Giesler\, and refreshments follow afterwards.\nPrice: Free event\nhttp
+ s://www.visitrichmond.co.uk/events/free-events
+LOCATION:The Royal British Legion\, 135 High Street\, Teddington\, London
+ \, TW11 8HH\, Teddington\, London
 URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_c588318a91e145a9ab64eb6ee7060bf7-occ_f6120fcca8ec4834af5bd0b45f7
- 0ea9b@thingstodoinyourcity
-DTSTAMP:20261105T055858Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Remembrance Day Service: Twickenham
-DESCRIPTION:The Deputy Mayor takes the salute at a march-past of local or
- ganisations. A Royal British Legion representative escorts the parade to
-  the War Memorial in Radnor Gardens.\nPrice: Free event\nhttps://www.vis
- itrichmond.co.uk/events/free-events
-LOCATION:Radnor Gardens\, Twickenham\, London
+UID:cand_eb303b9f37bf435880090cf32a9ab698-occ_5b4025782a8f4f98b33050f28fc
+ fb269@thingstodoinyourcity
+DTSTAMP:20261107T084149Z
+DTSTART:20261108T100000Z
+SUMMARY:Remembrance Day Service: Teddington
+DESCRIPTION:The parade leaves Kingston Lane and follows the High Street a
+ nd Broad Street to the Memorial. The Council is represented by Cllr. Phi
+ l Giesler\, and refreshments follow afterwards.\nPrice: Free event\nhttp
+ s://www.visitrichmond.co.uk/events/free-events
+LOCATION:The Royal British Legion\, 135 High Street\, Teddington\, London
+ \, TW11 8HH\, Teddington\, London
 URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
@@ -43840,21 +43599,6 @@ LOCATION:Green Dragon Ct\, London\, Green Dragon Ct\, London SE1\, UK\, L
  ondon
 URL:https://www.herstoricaltours.co.uk/event-details/southwark-hysteries-
  4
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_18c3617f0dc048ccbe4ed541c0838ada-occ_73d7a356777c4e35aeb2dcb6fac
- 62ba3@thingstodoinyourcity
-DTSTAMP:20261105T082954Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Special screening: DOVZHENKO. THE FIRST LOOK (WWIFF 2026)
-DESCRIPTION:A big-screen screening of a new Ukrainian film on the young O
- leksandr Dovzhenko's first steps into cinema. Shown in Ukrainian with En
- glish subtitles.\nPrice: £20\nhttps://www.eventbrite.co.uk/e/wwiff-spec
- ial-screening-dovzhenko-the-first-look-tickets-2003210923798?aff=oddtdtc
- reator
-LOCATION:Rio Cinema\, London
-URL:https://www.eventbrite.co.uk/e/wwiff-special-screening-dovzhenko-the-
- first-look-tickets-2003210923798?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_7c518355d91f4e8994da856a91ef3d40-occ_33968fa4b86a425197b6bc37656
@@ -44119,20 +43863,6 @@ LOCATION:Finsbury Park Picturehouse\, London
 URL:https://clusterflick.com/movies/234/the-cabinet-of-dr-caligari
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_e99312559cb846bca73694568d9a4128-occ_bfa4bf665fa7459c83a1169fcb0
- 8205e@thingstodoinyourcity
-DTSTAMP:20261105T060527Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:The Ethical Vandal Society Vol.1
-DESCRIPTION:Three sculptures frame a gathering on destruction\, value and
-  memory. Nothing is documented or reproduced\, and cameras are covered o
- n entry.\nPrice: £5\nhttps://www.eventbrite.co.uk/e/the-ethical-vandal-
- society-vol1-tickets-2003563114209
-LOCATION:Not For Sale Gallery\, London\, England\, London
-URL:https://www.eventbrite.co.uk/e/the-ethical-vandal-society-vol1-ticket
- s-2003563114209
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_1bbb68770ee54d47b557df869e9a9a31-occ_ef994d51eb5e4ab4a54bf54a6d6
  a811c@thingstodoinyourcity
 DTSTAMP:20261105T061325Z
@@ -44188,20 +43918,6 @@ DTSTART;VALUE=DATE:20261108
 SUMMARY:UNFOLD CXXXIV
 DESCRIPTION:
 LOCATION:FOLD London\, London
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_946e25e8d54047d8bdd4eb3d32fc5358-occ_4d13df9bbca44e66ac3b3cebb5e
- e9b8e@thingstodoinyourcity
-DTSTAMP:20261105T060527Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Visit the Imperial War Museum!
-DESCRIPTION:A self-guided museum visit with the London Cultureseekers gro
- up\, lasting about two hours. Afterwards the group heads to the museum c
- afe for a drink.\nPrice: Free\nhttps://www.meetup.com/london_cultureseek
- ers/events/316811898/
-LOCATION:Lambeth North Tube Station (outside the station)\, Westminster B
- ridge Road · London\, London
-URL:https://www.meetup.com/london_cultureseekers/events/316811898/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_71e366330c654f388f7de15be238902c-occ_be98087316e24d718b0b76bc4ac
@@ -44323,13 +44039,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ec0408c3591141749d2e309f97928ada-occ_199ae3452646415ea0c1ca84b92
  537ce@thingstodoinyourcity
-DTSTAMP:20261105T055920Z
+DTSTAMP:20261107T084351Z
 DTSTART:20261108T090000Z
 SUMMARY:Remembrance Day Service: Twickenham Riverside
-DESCRIPTION:The service is followed by a wreath-laying ceremony. Cllr And
- rew Duncan will represent the Council at this Remembrance Day commemorat
- ion.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/events/free-eve
- nts
+DESCRIPTION:A 9.00am service is followed by a wreath-laying ceremony at t
+ his Remembrance Day commemoration. Cllr Andrew Duncan will represent the
+  Council.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/events/fre
+ e-events
 LOCATION:St Stephen's Church\, St Stephen's Church\, Saint Stephens & Ric
  hmond Road\, Twickenham\, London\, TW1 2PD\, Twickenham\, London
 URL:https://www.visitrichmond.co.uk/events/free-events
@@ -44385,6 +44101,34 @@ DESCRIPTION:Six days of 60-minute guided tours reveal this grade one list
 LOCATION:Goldsmiths' Hall\, Foster Lane\, Goldsmiths' Hall\, Foster Lane\
  , London\, England\, EC2V 6BN\, United Kingdom\, London
 URL:https://www.thegoldsmiths.co.uk/whats-on
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a34e97bb4a23430388133b406407c679-occ_f3b43368ca604e7188ca4f50919
+ e5b38@thingstodoinyourcity
+DTSTAMP:20261107T085441Z
+DTSTART:20261108T100000Z
+SUMMARY:Kensington Palace - Standard Admission
+DESCRIPTION:Standard admission is offered\, with prices on the ticketing 
+ website. Tickets are sold by the venue or its authorised sellers\, not t
+ he listing site.\nPrice: Check website\nhttps://eventslist.co.uk/london/
+ exhibitions
+LOCATION:Kensington Palace\, The Orangery\, London\, W8 4PL\, Campden\, L
+ ondon\, London
+URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a34e97bb4a23430388133b406407c679-occ_0fcacf8d24c142a59478741f190
+ 80cdc@thingstodoinyourcity
+DTSTAMP:20261107T085441Z
+DTSTART:20261114T100000Z
+SUMMARY:Kensington Palace - Standard Admission
+DESCRIPTION:Standard admission is offered\, with prices on the ticketing 
+ website. Tickets are sold by the venue or its authorised sellers\, not t
+ he listing site.\nPrice: Check website\nhttps://eventslist.co.uk/london/
+ exhibitions
+LOCATION:Kensington Palace\, The Orangery\, London\, W8 4PL\, Campden\, L
+ ondon\, London
+URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e6ac340550b948a18f168951a7c2da39-occ_55604e92a1a94f13b88f5b9d5ff
@@ -44483,19 +44227,18 @@ URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-peters
  ham-p2047361
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_eb303b9f37bf435880090cf32a9ab698-occ_5b4025782a8f4f98b33050f28fc
- fb269@thingstodoinyourcity
-DTSTAMP:20261104T033655Z
+UID:cand_6d443a23fbcb4c6a9ffc57112d23eb48-occ_10e459555c584935b0f3ecf6281
+ 20c01@thingstodoinyourcity
+DTSTAMP:20261107T084241Z
 DTSTART:20261108T100000Z
-SUMMARY:Remembrance Day Service: Teddington
-DESCRIPTION:Parade from Kingston Lane along the High Street and Broad Str
- eet to the Memorial. Refreshments follow at the Royal British Legion aft
- erwards.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/events/reme
- mbrance-day-service-teddington-p2047411
-LOCATION:Memorial in Hampton Rd\, The Royal British Legion\, 135 High Str
- eet\, Teddington\, London\, TW11 8HH\, Teddington\, London
-URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-teddin
- gton-p2047411
+SUMMARY:Remembrance Day Service: St Margaret's and North Twickenham
+DESCRIPTION:A short service at All Hallows Church is followed by a wreath
+  laying ceremony. Cllr Alexander Ehmann will represent the Council.\nPri
+ ce: Guide Prices: Free event\nhttps://www.visitrichmond.co.uk/events/fre
+ e-events
+LOCATION:All Hallows Church\, Erncroft Way\, Twickenham\, All Hallows Chu
+ rch\, Erncroft Way\, Twickenham\, London\, TW1 1EW\, Twickenham\, London
+URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c02605653f374dc28c647a395ef24c09-occ_27484754b36b4960910270ca6f4
@@ -44510,6 +44253,19 @@ DESCRIPTION:Parish Eucharist with an Act of Remembrance\, featuring a bug
 LOCATION:St Giles’ Cripplegate Church\, St Giles’ Cripplegate Church\
  , Fore St\, Barbican\, London EC2Y 8DA\, Barbican\, London
 URL:https://culturemilebid.co.uk/events-news
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_995d04b1e23a4ec19948cafaa01a7fc0-occ_41637f37cdcf4aeca31a34a9eac
+ 187f0@thingstodoinyourcity
+DTSTAMP:20261107T084415Z
+DTSTART:20261108T101500Z
+SUMMARY:Remembrance Day Service: Richmond
+DESCRIPTION:Members join a parade to the War Memorial for a wreath-laying
+  service. Attendees are welcomed afterwards at Training Ship Goodwin.\nP
+ rice: Free event\nhttps://www.visitrichmond.co.uk/events/free-events
+LOCATION:War Memorial\, Whittaker Avenue\, Richmond\, Old Deer Park\, Old
+  Palace Lane\, Richmond\, London\, TW9 1PQ\, Richmond\, London
+URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_2022616a851f4cfc8086a3a5189f15c0-occ_bb866f16b1074b18a15373e19cb
@@ -44829,17 +44585,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_5df34760301e4826a3f0163612b954cf-occ_657f2f488b85417d97238c1e3d4
  b2a93@thingstodoinyourcity
-DTSTAMP:20261105T061444Z
+DTSTAMP:20261107T084417Z
 DTSTART:20261108T104500Z
 SUMMARY:Remembrance Day Service: Whitton
-DESCRIPTION:An Act of Remembrance service is held within the church\, whe
- re the Whitton War Memorial is located. The Council will be represented 
- by Cllr Nathanael MacDonald.\nPrice: Free event\nhttps://www.visitrichmo
- nd.co.uk/events/remembrance-day-service-whitton-p2047401
+DESCRIPTION:An Act of Remembrance held where the Whitton War Memorial is 
+ located. Cllr Nathanael MacDonald will represent the Council at the serv
+ ice.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/events/free-eve
+ nts
 LOCATION:St Philip & James Church\, 3 Vicarage Road\, Whitton TW2 7BY\, W
  hitton\, London
-URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-whitto
- n-p2047401
+URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b4b2db256b944516b9061b15225ab45e-occ_f226502af60b472daf4f9dcdb40
@@ -45023,6 +44778,20 @@ LOCATION:Stanley School\, Stanley School\, Strathmore Road\, Teddington\,
   London\, TW11 8UH\, Teddington\, London
 URL:https://www.visitrichmond.co.uk/events/remembrance-day-service-stanle
  y-school-p2047481
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c588318a91e145a9ab64eb6ee7060bf7-occ_f6120fcca8ec4834af5bd0b45f7
+ 0ea9b@thingstodoinyourcity
+DTSTAMP:20261107T084334Z
+DTSTART:20261108T110000Z
+SUMMARY:Remembrance Day Service: Twickenham
+DESCRIPTION:The Deputy Mayor takes the salute at a march-past of local or
+ ganisations. A Royal British Legion representative escorts the parade to
+  the War Memorial.\nPrice: Free event\nhttps://www.visitrichmond.co.uk/e
+ vents/free-events
+LOCATION:Radnor Gardens\, Radnor Gardens\, 92 Cross Deep\, Twickenham\, L
+ ondon\, TW1 4RB\, Twickenham\, London
+URL:https://www.visitrichmond.co.uk/events/free-events
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_b59db78ca3764658aa5f9037b0426329-occ_d27d477439a849dba8549b043db
@@ -45359,14 +45128,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_099a320b346948598e355dec7e83cd2d-occ_fac4dbac299842a082f616f9243
  ffdcb@thingstodoinyourcity
-DTSTAMP:20261105T110347Z
+DTSTAMP:20261107T101554Z
 DTSTART:20261108T130000Z
 SUMMARY:Elliot Steel: Live Special Recording
 DESCRIPTION:Price: £15\nhttps://thetopsecretcomedyclub.co.uk/events-list
- ings/elliot-steel-live-special-recording/
+ ings/
 LOCATION:170 Drury Lane (basement)\, London
-URL:https://thetopsecretcomedyclub.co.uk/events-listings/elliot-steel-liv
- e-special-recording/
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8968426330874acc987401e9cc3b4c44-occ_d5091094eeb54e058235c8cba3f
@@ -45416,6 +45184,22 @@ DESCRIPTION:Lunch follows the optional Remembrance Sunday Choral Mattins
 LOCATION:Middle Temple\, London
 URL:https://www.innertemple.org.uk/events/remembrance-sunday-lunch-at-mid
  dle-temple-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e99312559cb846bca73694568d9a4128-occ_bfa4bf665fa7459c83a1169fcb0
+ 8205e@thingstodoinyourcity
+DTSTAMP:20261107T090630Z
+DTSTART:20261108T130000Z
+DTEND:20261108T163000Z
+SUMMARY:The Ethical Vandal Society Vol.1
+DESCRIPTION:Three sculptures frame a gathering on destruction\, value and
+  memory. Nothing is documented or reproduced\, and cameras are covered o
+ n entry.\nPrice: £5\nhttps://www.eventbrite.co.uk/e/the-ethical-vandal-
+ society-vol1-tickets-2003563114209
+LOCATION:Not For Sale Gallery\, 83 Smeed Road\, London\, E3 2NR\, London\
+ , England\, London
+URL:https://www.eventbrite.co.uk/e/the-ethical-vandal-society-vol1-ticket
+ s-2003563114209
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_9ed9bf4c22234bd886df9b363867e0f0-occ_6b8e40f1186341aba8e45f2530e
@@ -45560,6 +45344,21 @@ DESCRIPTION:A singles-only one-hour guided tour led by Chris Hayden\, wit
 LOCATION:Victoria and Albert Museum\, Cromwell Rd\, London SW7 2RL\, UK\,
   London
 URL:https://www.thursday.com/events/london
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_946e25e8d54047d8bdd4eb3d32fc5358-occ_4d13df9bbca44e66ac3b3cebb5e
+ e9b8e@thingstodoinyourcity
+DTSTAMP:20261107T090626Z
+DTSTART:20261108T133000Z
+DTEND:20261108T153000Z
+SUMMARY:Visit the Imperial War Museum!
+DESCRIPTION:A self-guided museum visit with the London Cultureseekers gro
+ up\, lasting about two hours. Afterwards the group heads to the museum c
+ afe for a drink.\nPrice: Entry is free!\nhttps://www.meetup.com/london_c
+ ultureseekers/events/316811898/
+LOCATION:Lambeth North Tube Station (outside the station)\, Westminster B
+ ridge Road\, London\, Westminster Bridge Road · London\, London
+URL:https://www.meetup.com/london_cultureseekers/events/316811898/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_6e6ad32c57ec4c139fd5fc2be4e82f83-occ_021f026706914195b50e993f1e9
@@ -46470,7 +46269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_b9887934cfa244c2aa8a5ede1216fddc-occ_36e85e9c2a91404092aad95085e
  7e031@thingstodoinyourcity
-DTSTAMP:20261105T060446Z
+DTSTAMP:20261107T090910Z
 DTSTART:20261108T170000Z
 DTEND;VALUE=DATE:20261109
 SUMMARY:Independence Day of Cambodia 2026
@@ -46478,8 +46277,38 @@ DESCRIPTION:Marks Cambodia's 9 November public holiday\, commemorating in
  dependence from French rule in 1953. Includes exhibitions and performanc
  es celebrating Cambodian culture.\nPrice: Free Entry\nhttps://eventslist
  .co.uk/london/exhibitions
-LOCATION:Whitechapel Gallery\, London
+LOCATION:Whitechapel Gallery\, 77-82 Whitechapel High Street\, London\, E
+ 1 7QX\, London
 URL:https://eventslist.co.uk/london/exhibitions
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_18c3617f0dc048ccbe4ed541c0838ada-occ_4632a07d9469490897800889e4b
+ 7324c@thingstodoinyourcity
+DTSTAMP:20261107T103940Z
+DTSTART:20261108T170000Z
+SUMMARY:Special screening: DOVZHENKO. THE FIRST LOOK (WWIFF 2026)
+DESCRIPTION:A new Ukrainian film follows young Oleksandr Dovzhenko in 192
+ 0s Odesa as he makes his first film. Shown in Ukrainian with English sub
+ titles\, part of Women & the World 2026.\nPrice: £20\nhttps://www.event
+ brite.co.uk/e/wwiff-special-screening-dovzhenko-the-first-look-tickets-2
+ 003210923798?aff=oddtdtcreator
+LOCATION:Rio Cinema\, 107 Kingsland High Street\, London\, E8 2PB\, Londo
+ n
+URL:https://www.eventbrite.co.uk/e/wwiff-special-screening-dovzhenko-the-
+ first-look-tickets-2003210923798?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_a2c8453a9de941979c80fe41c9a3dbb0-occ_31159ae7e66b43f0b7b6a12a425
+ 2fa78@thingstodoinyourcity
+DTSTAMP:20261107T102446Z
+DTSTART:20261108T170000Z
+SUMMARY:Sunday Stand Up Comedy 5pm Show
+DESCRIPTION:A Sunday stand-up night at Top Secret Comedy Club with acts t
+ o be announced. Contributions are collected after the show to share with
+  the comedians.\nPrice: £1\; Concessions: FREE\nhttps://thetopsecretcom
+ edyclub.co.uk/events-listings/
+LOCATION:170 Drury Lane (basement)\, London
+URL:https://thetopsecretcomedyclub.co.uk/events-listings/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_afa4241029464d1daa8973a54a313b4f-occ_28a043b7c11949128cecd1de558
@@ -47781,6 +47610,409 @@ LOCATION:Pleasance London Studio\, LONDON\, London
 URL:https://www.pleasance.co.uk/event/josh-berry-work-progress
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_b23fcdab2f0447988a1f776e23b
+ 7baec@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261114T100000Z
+DTEND:20261114T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_cb6b07ab71a14bc38077d5dc0d9
+ 24009@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261121T100000Z
+DTEND:20261121T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_9c9826734e02494b83aae425c58
+ e1a89@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261128T100000Z
+DTEND:20261128T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_75f47c1d48f84576a128ec5fc47
+ 393cd@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261205T100000Z
+DTEND:20261205T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_21927d5f2a444a5f84469ab4df3
+ 483a4@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261212T100000Z
+DTEND:20261212T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_65584d3e64c14d9ba8baf8ee789
+ ff78e@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261219T100000Z
+DTEND:20261219T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_efabd0fd78184ab1a07acbed31b
+ fff83@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20261226T100000Z
+DTEND:20261226T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_86e00dcef03a488c89bccd199e9
+ 863e7@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270102T100000Z
+DTEND:20270102T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_763231edc0c84b9799adf386680
+ 2b59d@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270109T100000Z
+DTEND:20270109T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_801ff795f61c410498d3c1a1ed6
+ 9c518@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270116T100000Z
+DTEND:20270116T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_719fd334765c4735ba74261c3be
+ 63e96@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270123T100000Z
+DTEND:20270123T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_3126d06a40ae4b59862497b24cd
+ cb6f8@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270130T100000Z
+DTEND:20270130T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4750896bc49b4de2a1d13c8d581e0e54-occ_6a2aca0142e34cacb095ae21261
+ b6d41@thingstodoinyourcity
+DTSTAMP:20261031T071356Z
+DTSTART:20270206T100000Z
+DTEND:20270206T110000Z
+SUMMARY:Saturday IT Help session at Paddington Library
+DESCRIPTION:Volunteer-led IT help with internet\, apps\, emails\, video c
+ alls and online shopping. Drop in on the day or book ahead\; expert devi
+ ce repairs are not covered.\nPrice: Free\nhttps://www.westminster.gov.uk
+ /event/saturday-it-help-session-paddington-library
+LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
+ gdom\, London
+URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
+ ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_9d894c81d6f842c293d44fa6e15
+ e8a50@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261114T103000Z
+DTEND:20261114T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_0beae8325b0e4fa8a655b683b1d
+ d090d@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261121T103000Z
+DTEND:20261121T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_3d304e189de84c35ad206c4a77a
+ 09d77@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261128T103000Z
+DTEND:20261128T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_3f8e8fb4ffa24610940323de75f
+ 4270c@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_51f1a95c8eab4d70ab4b10050fe
+ 45591@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261212T103000Z
+DTEND:20261212T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_805733ce201646309ff0987edcc
+ d32f8@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261219T103000Z
+DTEND:20261219T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_76aa773e5a9b41119cea45e3b7e
+ 7ef7d@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20261226T103000Z
+DTEND:20261226T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_6c2a7bcb06a241a2b222a011bb2
+ e205c@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270102T103000Z
+DTEND:20270102T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_6460782a1b1f44c1be20cff7e8e
+ f3a68@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270109T103000Z
+DTEND:20270109T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_75345fa69a2143838758912c358
+ 8702a@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270116T103000Z
+DTEND:20270116T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_1022ddcef59048a4a0e17d9a08c
+ 18f44@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270123T103000Z
+DTEND:20270123T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_355fad216633400f84fbf074e24
+ 8b164@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270130T103000Z
+DTEND:20270130T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4cc8ed72ec2c4fce9aa25dd6cf8f3016-occ_5ef191881cbc400daa419bacbd0
+ 4d8a8@thingstodoinyourcity
+DTSTAMP:20261031T070925Z
+DTSTART:20270206T103000Z
+DTEND:20270206T113000Z
+SUMMARY:Lego Club at Pimlico Library (in-person)
+DESCRIPTION:Children aged five to 12 can build with Lego at the weekly cl
+ ub\, which meets every Saturday. No booking needed\; an adult must accom
+ pany children under eight.\nPrice: Free\nhttps://www.westminster.gov.uk/
+ event/lego-club-pimlico-library-person
+LOCATION:Pimlico Library\, Lupus Street London SW1V 3AT United Kingdom\, 
+ London
+URL:https://www.westminster.gov.uk/event/lego-club-pimlico-library-person
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d6a6e5a4d6a441a793842fd3432644fe-occ_162121c6f95a4284a58658bc537
  35f56@thingstodoinyourcity
 DTSTAMP:20261029T134534Z
@@ -47890,6 +48122,20 @@ LOCATION:Up The Creek\, London
 URL:https://www.chortle.co.uk/venues/10/england_london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_33657164a8e14a3fae97705d92224634-occ_1d451440bfd04d41baf281f53ce
+ d330a@thingstodoinyourcity
+DTSTAMP:20261106T023109Z
+DTSTART:20261128T103000Z
+DTEND:20261128T113000Z
+SUMMARY:Great Fire of London family walk
+DESCRIPTION:Families explore how the Great Fire started and spread on thi
+ s 60-minute outdoor walk. Suited to primary-age children\, it asks wheth
+ er the Pudding Lane baker was to blame.\nhttps://www.londonmuseum.org.uk
+ /whats-on/
+LOCATION:London-wide\, London
+URL:https://www.londonmuseum.org.uk/whats-on/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_36f4d72e744345ea8964033dacd2e442-occ_fa6731e1497d4a7cad785a18fd9
  a2237@thingstodoinyourcity
 DTSTAMP:20261023T053129Z
@@ -47936,14 +48182,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_9eb0b3963dd14ac99cbb060dac5620d4-occ_7c5a49e83759480f8db63f8baa0
  017a3@thingstodoinyourcity
-DTSTAMP:20261105T062609Z
-DTSTART;VALUE=DATE:20261206
+DTSTAMP:20261107T090341Z
+DTSTART:20261206T103000Z
+DTEND:20261206T120000Z
 SUMMARY:Meet and Mingle Events at The Transformers Store
-DESCRIPTION:https://batterseapowerstation.co.uk/events/meet-and-mingle-ev
- ents-at-the-transformers-store
+DESCRIPTION:Four pre-opening Meet & Mingle sessions let Transformers fans
+ \, collectors and enthusiasts connect before the store opens. Spaces are
+  limited\, so booking is essential.\nhttps://batterseapowerstation.co.uk
+ /events/
 LOCATION:The Transformers Store\, London
-URL:https://batterseapowerstation.co.uk/events/meet-and-mingle-events-at-
- the-transformers-store
+URL:https://batterseapowerstation.co.uk/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_c08f09bd50f2423ab5bcca1c0b678e61-occ_e3696e4bf5ba465f994ee1609a9
