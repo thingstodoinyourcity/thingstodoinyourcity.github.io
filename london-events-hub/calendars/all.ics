@@ -2605,7 +2605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_15ae4371e9d4455ea7ac297177365396-occ_7b163c7e8bea461bb196d0c8f08
  4e944@thingstodoinyourcity
-DTSTAMP:20261028T011829Z
+DTSTAMP:20261107T041157Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20261111
 SUMMARY:The Coming Of Age
@@ -5104,14 +5104,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_cb1d8e877d98454799995543cf0adb2c-occ_4932d68d35314ab4882a3fc541d
  7fc3a@thingstodoinyourcity
-DTSTAMP:20261028T012131Z
+DTSTAMP:20261107T041231Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20270207
 SUMMARY:Audrey Amiss: The Surviving Exhibitions
-DESCRIPTION:First museum exhibition for artist Audrey Amiss (1933–2013)
- \, with drawings and paintings. It explores her art and campaigning agai
- nst harmful mental health treatment.\nhttps://www.imperialhotels.co.uk/w
- hats-on-in-bloomsbury
+DESCRIPTION:First museum exhibition dedicated to artist Audrey Amiss (193
+ 3–2013). It explores how she used her art to speak out against harmful
+  mental health treatment.\nhttps://www.imperialhotels.co.uk/whats-on-in-
+ bloomsbury
 LOCATION:London
 URL:https://www.imperialhotels.co.uk/whats-on-in-bloomsbury
 END:VEVENT
@@ -6524,7 +6524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_164bb47c79d64abb97d4f6e5748
  fa969@thingstodoinyourcity
-DTSTAMP:20261105T040044Z
+DTSTAMP:20261107T051302Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20261108
 SUMMARY:Dark Arts
@@ -6538,7 +6538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_abad6240670b4612be7f7e9d5c296f56-occ_097ded473e4b4eed9827244f4be
  f68c1@thingstodoinyourcity
-DTSTAMP:20261105T040044Z
+DTSTAMP:20261107T051302Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20271107
 SUMMARY:Dark Arts
@@ -8835,6 +8835,19 @@ LOCATION:London
 URL:https://www.britishmuseum.org/exhibitions-events
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fd24e813fc924c558a98e3cc4b3cae2a-occ_5239caad54b9480aade52082041
+ 1dec4@thingstodoinyourcity
+DTSTAMP:20261107T041312Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270131
+SUMMARY:Korea Exhibition At British Museum
+DESCRIPTION:Draws on 23\,000 works bequeathed in 2021 by the late Samsung
+  Chairman Lee Kun-Hee. Covers Korean art over two millennia\, up to the 
+ present day.\nhttps://www.imperialhotels.co.uk/whats-on-in-bloomsbury
+LOCATION:British Museum\, London
+URL:https://www.imperialhotels.co.uk/whats-on-in-bloomsbury
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_2d221b471e4c4d5eb087c6f13ecbc3a3-occ_9ddb3a3a6cd8433982ca655d075
  3abfe@thingstodoinyourcity
 DTSTAMP:20261021T164052Z
@@ -9776,30 +9789,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_da34979efab94ee095bcdad8996e5c42-occ_203c61dff8914c7bb39fc7eb261
  d8266@thingstodoinyourcity
-DTSTAMP:20261028T012534Z
+DTSTAMP:20261107T041231Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261128
 SUMMARY:Visionary Landscapes
 DESCRIPTION:New Swedenborg House exhibition pairing historic and contempo
- rary works on landscape and vision. Curated by Stephen McNeilly\, it sho
- ws recent Blake and Finch acquisitions.\nPrice: Free\nhttps://bloomsbury
- festival.org.uk/whats-on/visionary-landscapes
+ rary works on landscape and vision. Shows recent Blake and Finch acquisi
+ tions.\nPrice: Free\nhttps://www.imperialhotels.co.uk/whats-on-in-blooms
+ bury
 LOCATION:Swedenborg House\, 20-21 Bloomsbury Way \, WC1A 2TH\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/visionary-landscapes
+URL:https://www.imperialhotels.co.uk/whats-on-in-bloomsbury
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_da34979efab94ee095bcdad8996e5c42-occ_b7d602d6797247e5bf4307aeb57
  f1af0@thingstodoinyourcity
-DTSTAMP:20261028T012534Z
+DTSTAMP:20261107T041231Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261216
 SUMMARY:Visionary Landscapes
 DESCRIPTION:New Swedenborg House exhibition pairing historic and contempo
- rary works on landscape and vision. Curated by Stephen McNeilly\, it sho
- ws recent Blake and Finch acquisitions.\nPrice: Free\nhttps://bloomsbury
- festival.org.uk/whats-on/visionary-landscapes
+ rary works on landscape and vision. Shows recent Blake and Finch acquisi
+ tions.\nPrice: Free\nhttps://www.imperialhotels.co.uk/whats-on-in-blooms
+ bury
 LOCATION:Swedenborg House\, 20-21 Bloomsbury Way \, WC1A 2TH\, London
-URL:https://bloomsburyfestival.org.uk/whats-on/visionary-landscapes
+URL:https://www.imperialhotels.co.uk/whats-on-in-bloomsbury
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_efc8b3ab36eb4403a6f66d0ae12ac92b-occ_4b7de6ddcdab4607b60873b470f
@@ -32497,22 +32510,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_d2ec2cfc1b504e288e11caef2070f08a-occ_72d142ce7e75469198e77126a14
  e6109@thingstodoinyourcity
-DTSTAMP:20261105T040249Z
+DTSTAMP:20261107T044935Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Pink Floyd: Mega Laser Show
-DESCRIPTION:https://greenwichtheatre.org.uk/whats-on/
-LOCATION:Main House\, London
+DESCRIPTION:Atom Heart Floyd performs a Pink Floyd tribute with immersive
+  lasers\, LED visuals and smoke effects. Expect a full journey through a
+ nthems like Comfortably Numb and Time.\nhttps://greenwichtheatre.org.uk/
+ whats-on/
+LOCATION:Main House\, Greenwich Theatre\, SE10 8ES\, London
 URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d2ec2cfc1b504e288e11caef2070f08a-occ_66eae90c978d45568341954cb3a
  638ab@thingstodoinyourcity
-DTSTAMP:20261105T040249Z
-DTSTART;VALUE=DATE:20261107
+DTSTAMP:20261107T044935Z
+DTSTART:20261107T200000Z
 SUMMARY:Pink Floyd: Mega Laser Show
-DESCRIPTION:https://greenwichtheatre.org.uk/whats-on/
-LOCATION:Main House\, London
+DESCRIPTION:Atom Heart Floyd performs a Pink Floyd tribute with immersive
+  lasers\, LED visuals and smoke effects. Expect a full journey through a
+ nthems like Comfortably Numb and Time.\nhttps://greenwichtheatre.org.uk/
+ whats-on/
+LOCATION:Main House\, Greenwich Theatre\, SE10 8ES\, London
 URL:https://greenwichtheatre.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
@@ -34250,20 +34269,6 @@ DESCRIPTION:Weekend stand-up nights spotlight established stars and up-an
 LOCATION:Big Belly Bar & Comedy Club London\, Unit 6 & 7\, 30 Stamford St
  reet\, London\, SE1 9LQ\, London
 URL:https://feverup.com/m/130330
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f7521ff29937452fb5e7cb2153288e6f-occ_e602e96b8f8642b5a0d221ed879
- c9b0a@thingstodoinyourcity
-DTSTAMP:20261103T235657Z
-DTSTART:20261106T220000Z
-DTEND:20261107T040000Z
-SUMMARY:Afrobeats & Bashment Party in Shoreditch
-DESCRIPTION:https://stayhappening.com/e/afrobeats-andampamp-bashment-part
- y-in-shoreditch-free-entry-before-12am-E1ANNTIBFR8J
-LOCATION:Trapeze Bar\, Trapeze Bar\, Trapeze Bar\, London\, EN\, United K
- ingdom\, London
-URL:https://stayhappening.com/e/afrobeats-andampamp-bashment-party-in-sho
- reditch-free-entry-before-12am-E1ANNTIBFR8J
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_38b2c0f8bf6544c6861875fe27f626c6-occ_3e52dd4fd4ce49f489c033514f3
@@ -36491,14 +36496,35 @@ LOCATION:Queen of Hoxton\, London
 URL:https://www.designmynight.com/london/whats-on/best-events-in-may
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
- 9c86d@thingstodoinyourcity
-DTSTAMP:20261105T032631Z
+UID:cand_54723e9bcfa7417786656fb1965defcd-occ_7d9c6b66ae7541d69509aebb35a
+ dd3d8@thingstodoinyourcity
+DTSTAMP:20261107T025142Z
 DTSTART;VALUE=DATE:20261107
-SUMMARY:Kaleidoscope East London LGBTQ+ Film Festival 2026
-DESCRIPTION:https://clusterflick.com/
-LOCATION:Lumiere Cinema Romford\, Screen 5\, London
-URL:https://clusterflick.com/
+DTEND:20261107T123000Z
+SUMMARY:Kalocsa - Film Screening
+DESCRIPTION:A lovesick director visits his ex in her small Hungarian home
+ town\, hoping to win her back. Screens in Screen 3\; seating is unalloca
+ ted and attendees must be 18+.\nhttps://www.eventbrite.co.uk/e/kalocsa-f
+ ilm-screening-tickets-1998364142946
+LOCATION:Genesis Cinema\, 93-95 Mile End Road London E1 4UJ\, London\, En
+ gland\, London
+URL:https://www.eventbrite.co.uk/e/kalocsa-film-screening-tickets-1998364
+ 142946
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_54723e9bcfa7417786656fb1965defcd-occ_21b1143646cd4eeb993e10ed9f8
+ 98a51@thingstodoinyourcity
+DTSTAMP:20261107T025142Z
+DTSTART:20261107T103000Z
+SUMMARY:Kalocsa - Film Screening
+DESCRIPTION:A lovesick director visits his ex in her small Hungarian home
+ town\, hoping to win her back. Screens in Screen 3\; seating is unalloca
+ ted and attendees must be 18+.\nhttps://www.eventbrite.co.uk/e/kalocsa-f
+ ilm-screening-tickets-1998364142946
+LOCATION:Genesis Cinema\, 93-95 Mile End Road London E1 4UJ\, London\, En
+ gland\, London
+URL:https://www.eventbrite.co.uk/e/kalocsa-film-screening-tickets-1998364
+ 142946
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_1ae0ad5de5324173a71740ba327cad43-occ_067a9b22b3bd445085f2881a567
@@ -38317,18 +38343,6 @@ SUMMARY:Raise the Red Lantern
 DESCRIPTION:https://www.thegardencinema.co.uk/
 LOCATION:The Garden Cinema\, London
 URL:https://www.thegardencinema.co.uk/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_b84b92b7a6064f018fffbf6137143b58-occ_d68748859fe147e8bebc23022e7
- b80fb@thingstodoinyourcity
-DTSTAMP:20261105T041209Z
-DTSTART;VALUE=DATE:20261107
-SUMMARY:Ramayana: Rise of a Legend
-DESCRIPTION:Prince Rama must confront Ravana\, an immortal ruler driven b
- y pride and vengeance\, as worlds hang in the balance. The action-advent
- ure runs 165 minutes.\nhttps://www.forestcinema.co.uk/whatson
-LOCATION:Forest Cinema\, Walthamstow\, London
-URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ace63154c56f42208a8b758dc1c6950b-occ_81b65fc1094648a2b54aff0006f
@@ -40447,6 +40461,16 @@ LOCATION:King's College London\, London
 URL:https://www.eventbrite.com.au/ttd/united-kingdom--london
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c2789664a1dd47b38afe2ece8e853836-occ_ae5e389f4b0b42b9805da785abc
+ 97e85@thingstodoinyourcity
+DTSTAMP:20261107T041434Z
+DTSTART:20261107T090000Z
+SUMMARY:Men's Breathwork Journey
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:We The Conscious®\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4c1473464187400697e6228884dacdea-occ_96c5a6edc8c6434d9fcac56c6ca
  44ec0@thingstodoinyourcity
 DTSTAMP:20261022T154116Z
@@ -41053,6 +41077,19 @@ LOCATION:Hellenic Community Centre\, 133 Southdale Rd. W\, London\, ON N6
 URL:https://www.londontourism.ca/events/holly-jolly-market
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_65734ba46d504d7d99bcd582624b027c-occ_0e451362021a4f50959dcdf2df6
+ fe00b@thingstodoinyourcity
+DTSTAMP:20261107T024231Z
+DTSTART:20261107T100000Z
+SUMMARY:Inside Out
+DESCRIPTION:Riley's Emotions team up to help her through a move to a new 
+ city. When Joy and Sadness get lost\, they must journey through unfamili
+ ar places to get home.\nhttps://clusterflick.com/movies/150540/inside-ou
+ t/
+LOCATION:ODEON Richmond\, London
+URL:https://clusterflick.com/movies/150540/inside-out/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_4568ec8e581a4b1fb04c39b647feae4b-occ_2c889b32213545b6b713fc8e97a
  0777e@thingstodoinyourcity
 DTSTAMP:20261105T025030Z
@@ -41367,6 +41404,18 @@ LOCATION:Paddington Library\, 45 Porchester Road London W2 5DU United Kin
  gdom\, London
 URL:https://www.westminster.gov.uk/event/saturday-it-help-session-padding
  ton-library
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_79cdb95e515d4f9ba962beafc3f6c672-occ_a7c1e528b05c4a96b8eaca0e638
+ b5b21@thingstodoinyourcity
+DTSTAMP:20261107T023146Z
+DTSTART:20261107T100000Z
+SUMMARY:Tangled: Kids Movie Club – A sky full of lights
+DESCRIPTION:Rapunzel longs to see sky lanterns on her eighteenth birthday
+ . She strikes a deal with charming thief Flynn Rider.\nPrice: FREE\nhttp
+ s://clusterflick.com/movies/38757/tangled/
+LOCATION:Tower Bridge Collective\, London
+URL:https://clusterflick.com/movies/38757/tangled/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_38828503f89c4cc59b029b67d5241e2a-occ_77299d683c9c4d60adf9905f29f
@@ -42047,6 +42096,19 @@ LOCATION:Design Museum\, High Street Kensington\, London
 URL:https://www.newexhibitions.com/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_00104d06423c4918b5c0c7909e1c959d-occ_188be1c101b64765acc31b1538a
+ 937f4@thingstodoinyourcity
+DTSTAMP:20261107T025449Z
+DTSTART:20261107T100000Z
+SUMMARY:Trolls
+DESCRIPTION:Princess Poppy\, the happiest Troll ever born\, and curmudgeo
+ nly outcast Branch must rescue their friends from the Bergens. Their mis
+ matched adventure is full of mishaps.\nhttps://clusterflick.com/movies/1
+ 36799/trolls/
+LOCATION:Everyman Crystal Palace\, London
+URL:https://clusterflick.com/movies/136799/trolls/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_d73144f1a27e43e4904a1ba59d446156-occ_27d20075e5a041ca9cd752c154f
  378d4@thingstodoinyourcity
 DTSTAMP:20261101T001403Z
@@ -42210,26 +42272,6 @@ LOCATION:Castle Hackney\, London
 URL:https://thecastlecinema.com/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_2977777b83c94f3b867f7dd22517e6d1-occ_e59de3b9de3c4f0abb9f44d93d7
- 70aba@thingstodoinyourcity
-DTSTAMP:20261105T041815Z
-DTSTART:20261107T101500Z
-SUMMARY:Tad and the Magic Lamp
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-LOCATION:Forest Walthamstow\, Screen 2\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_2977777b83c94f3b867f7dd22517e6d1-occ_39ce8a9dea13466a86ded8b12bf
- 2447b@thingstodoinyourcity
-DTSTAMP:20261105T041815Z
-DTSTART:20261108T101500Z
-SUMMARY:Tad and the Magic Lamp
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-LOCATION:Forest Walthamstow\, Screen 2\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_36b49578ca314c86bdc81ff082e7ebd5-occ_43c73ef5a33a49dbbbc425a7b8e
  38beb@thingstodoinyourcity
 DTSTAMP:20261102T231552Z
@@ -42249,28 +42291,6 @@ SUMMARY:Tad and the Magic Lamp
 DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
 LOCATION:Forest Walthamstow | Screen 2\, 267 High Street\, Walthamstow\, 
  E17 7FD\, Walthamstow\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_70e15e5155c94bda87eab11e1a5d8bc7-occ_1c911f4d8c9644908028bcf8826
- 41d61@thingstodoinyourcity
-DTSTAMP:20261104T024233Z
-DTSTART:20261107T101500Z
-SUMMARY:Tad and the Magic Lamp
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
- eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_70e15e5155c94bda87eab11e1a5d8bc7-occ_2d5e25d93aae4c5fb9664fe3d4f
- 45aae@thingstodoinyourcity
-DTSTAMP:20261104T024233Z
-DTSTART:20261108T101500Z
-SUMMARY:Tad and the Magic Lamp
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/28067/
-LOCATION:Forest Walthamstow | Screen 2\, The Forest Cinema\, 267 High Str
- eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28067/
 END:VEVENT
 BEGIN:VEVENT
@@ -42397,6 +42417,45 @@ DESCRIPTION:https://londoncitydirectory.co.uk/london-events-calendar
 LOCATION:National Maritime Museum\, Romney Rd\, Greenwich\, London SE10 9
  NF\, London
 URL:https://londoncitydirectory.co.uk/london-events-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_89325aa071824d598a67b867dab5ebf3-occ_f751c6b5b623467e91e7b28c8e2
+ 5f2dd@thingstodoinyourcity
+DTSTAMP:20261107T025408Z
+DTSTART:20261107T103000Z
+SUMMARY:Family Workshop: Little Miss Marple
+DESCRIPTION:Vanessa Woolf shares a cosy Marple book\, then young sleuths 
+ sing\, solve and draw with Mr. Men and Little Miss characters. Colourful
+  backdrops follow.\nPrice: Free\, booking essential\nhttps://events.bl.u
+ k/events/family-workshop-little-miss-marple
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/family-workshop-little-miss-marple
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_89325aa071824d598a67b867dab5ebf3-occ_66b5c1b859164219aa464f1c40c
+ d34c3@thingstodoinyourcity
+DTSTAMP:20261107T025408Z
+DTSTART:20261107T123000Z
+SUMMARY:Family Workshop: Little Miss Marple
+DESCRIPTION:Vanessa Woolf shares a cosy Marple book\, then young sleuths 
+ sing\, solve and draw with Mr. Men and Little Miss characters. Colourful
+  backdrops follow.\nPrice: Free\, booking essential\nhttps://events.bl.u
+ k/events/family-workshop-little-miss-marple
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/family-workshop-little-miss-marple
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_89325aa071824d598a67b867dab5ebf3-occ_6d0b3958415f4c60a86c9468a37
+ d93b2@thingstodoinyourcity
+DTSTAMP:20261107T025408Z
+DTSTART:20261107T143000Z
+SUMMARY:Family Workshop: Little Miss Marple
+DESCRIPTION:Vanessa Woolf shares a cosy Marple book\, then young sleuths 
+ sing\, solve and draw with Mr. Men and Little Miss characters. Colourful
+  backdrops follow.\nPrice: Free\, booking essential\nhttps://events.bl.u
+ k/events/family-workshop-little-miss-marple
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/family-workshop-little-miss-marple
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_5cf951a0930b491eb27cc06a898d2fbf-occ_e27f89f87ab64cd893cbd9a2cc3
@@ -42575,6 +42634,16 @@ LOCATION:London-wide\, London
 URL:https://www.londonmuseum.org.uk/whats-on/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_ba9be3c9a7b54966910071b785fa54eb-occ_9475be8be18741f3bdeec2ee26b
+ 9c86d@thingstodoinyourcity
+DTSTAMP:20261107T022546Z
+DTSTART:20261107T103000Z
+SUMMARY:Kaleidoscope East London LGBTQ+ Film Festival 2026
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Lumiere Cinema Romford\, Screen 5\, London
+URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b08b643588cd4671acfe9444f60d99ae-occ_60721566464b4b8887384c64d30
  c3a20@thingstodoinyourcity
 DTSTAMP:20261101T001519Z
@@ -42589,6 +42658,18 @@ LOCATION:Our Lady of Victories\, Kensington\, 235a Kensington High Street
   London W8 6SF\, Kensington\, London
 URL:https://www.eventbrite.co.uk/e/kensington-book-festival-tickets-19950
  64975046?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c895c107e68144908a649f225476f996-occ_b68fd77003b24c0fbd85403b250
+ 21b82@thingstodoinyourcity
+DTSTAMP:20261107T024954Z
+DTSTART:20261107T103000Z
+SUMMARY:Kids Club: Hocus Pocus
+DESCRIPTION:Three sister witches are resurrected in Salem on Halloween ni
+ ght. Three kids and their feline friend must stop their reign of terror.
+ \nhttps://clusterflick.com/movies/10439/hocus-pocus/
+LOCATION:Curzon Victoria\, London
+URL:https://clusterflick.com/movies/10439/hocus-pocus/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc224a4e9b70416081556b4fec6d8662-occ_3a120b41db284dda8fbffe935b1
@@ -43662,6 +43743,17 @@ URL:https://www.woolwich.works/events/code-easy-robotics-coding-club-free
  -taster-sessions
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_7d70a53f1f8b4e688e83764814b2bc78-occ_98ccf54575a7421a9df576603dd
+ 38099@thingstodoinyourcity
+DTSTAMP:20261107T041502Z
+DTSTART:20261107T110000Z
+SUMMARY:Community Breathwork
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:4-4-2 Together CIC\, 101 Hartforde Road\, Borehamwood\, UK\, Bor
+ ehamwood\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_46c52eddc1fa4541a1dd0ed0e37aee58-occ_088b7d18b2bb41b1b3316c434d0
  fed1c@thingstodoinyourcity
 DTSTAMP:20261103T065229Z
@@ -43689,6 +43781,47 @@ DESCRIPTION:Pontos hosts another Kai Kreations painting event\, offering
 LOCATION:Gateway Theatre of Shopping\, London\, ENG\, London
 URL:https://gatewayworld.co.za/whats-on/pontos-kai-kreations-painting-exp
  erience/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_27fec152e41e4aa8865a722ac5d293fb-occ_08ca601f71e4416b8954f8d22dd
+ 6b2f7@thingstodoinyourcity
+DTSTAMP:20261107T032303Z
+DTSTART:20261107T110000Z
+SUMMARY:Family Film Club: Coco
+DESCRIPTION:Miguel\, a young musician forbidden by his family from playin
+ g music\, journeys to the Land of the Dead. He teams up with the trickst
+ er Hector to uncover the true story of his family's past.\nhttps://clust
+ erflick.com/movies/354912/coco/
+LOCATION:The Barbican\, London
+URL:https://clusterflick.com/movies/354912/coco/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2bf9668065b432a955f902a40533b62-occ_ae45392ef77e496d8d853c7add4
+ 2dda5@thingstodoinyourcity
+DTSTAMP:20261107T024659Z
+DTSTART:20261107T110000Z
+SUMMARY:Family Workshops: Alex T Smith presents J. Algernon Pickle
+DESCRIPTION:Meet Alex T Smith as he presents his new book\, J. Algernon P
+ ickle\, in 'The Mystery at Odd-Doings House'. Expect mystery\, chocolate
+  and a draw-a-long activity.\nPrice: Free\, booking essential\nhttps://e
+ vents.bl.uk/events/family-workshops-alex-t-smith-presents-j-algerno
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/family-workshops-alex-t-smith-presents-j-
+ algerno
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_e2bf9668065b432a955f902a40533b62-occ_34fe904dc3514e41a97306f6bf8
+ 6136b@thingstodoinyourcity
+DTSTAMP:20261107T024659Z
+DTSTART:20261107T133000Z
+SUMMARY:Family Workshops: Alex T Smith presents J. Algernon Pickle
+DESCRIPTION:Meet Alex T Smith as he presents his new book\, J. Algernon P
+ ickle\, in 'The Mystery at Odd-Doings House'. Expect mystery\, chocolate
+  and a draw-a-long activity.\nPrice: Free\, booking essential\nhttps://e
+ vents.bl.uk/events/family-workshops-alex-t-smith-presents-j-algerno
+LOCATION:H M Weinrebe Learning Centre\, British Library\, London\, London
+URL:https://events.bl.uk/events/family-workshops-alex-t-smith-presents-j-
+ algerno
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_e4e669a106c447f18d32b573d09a71a1-occ_71ccf9f5a7b24d2a9b64698d033
@@ -44120,6 +44253,18 @@ LOCATION:The Padel Yard - G4P\, 2 Armoury Way\, London SW18 1SH\, UK\, Wa
  ndsworth\, London
 URL:https://www.thursday.com/events/london/saturday-your-pace-or-mine-sin
  gles-run-club-wandsworth-copy-3
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_db7abd2c17654f19b1a671f8d270488d-occ_501bcabebfd146a08f7126d8615
+ eb921@thingstodoinyourcity
+DTSTAMP:20261107T040219Z
+DTSTART:20261107T110000Z
+SUMMARY:The Butcher
+DESCRIPTION:A butcher's unlikely friendship with a schoolteacher unfolds 
+ amid Ripper-style murders. Claude Chabrol's 1970 French thriller.\nhttps
+ ://clusterflick.com/movies/2912/the-butcher/
+LOCATION:The Chiswick Cinema\, London
+URL:https://clusterflick.com/movies/2912/the-butcher/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_4b9bbcaf5fa948c1960275a7848f4322-occ_59ccfbe5c16b440eb2598a410a8
@@ -44902,6 +45047,32 @@ URL:https://whatsdownthatstreet.com/london-museum-guide/exhibitions-londo
  n/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_c723e37272a04a96b83a554c937edea2-occ_8c99a5d80ba84db4811086942d2
+ 879fb@thingstodoinyourcity
+DTSTAMP:20261107T024859Z
+DTSTART:20261107T121000Z
+SUMMARY:30th Anniversary: Space Jam
+DESCRIPTION:The Looney Tunes enlist NBA star Michael Jordan to win a bask
+ etball game against moronic aliens. A 1996 family comedy shown as part o
+ f a 30th anniversary screening.\nhttps://clusterflick.com/movies/2300/sp
+ ace-jam/
+LOCATION:BFI Southbank\, London
+URL:https://clusterflick.com/movies/2300/space-jam/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_c7bca3e7b3b245b09d974ed74610d6e2-occ_65ed2c1920e44f13ba387d194aa
+ b7543@thingstodoinyourcity
+DTSTAMP:20261107T025400Z
+DTSTART:20261107T121500Z
+SUMMARY:The Major and the Minor
+DESCRIPTION:Susan Applegate\, short on funds\, disguises herself as a you
+ ngster to get home. She ends up hiding in a train compartment with Major
+  Philip Kirby\, which turns into trouble.\nhttps://clusterflick.com/movi
+ es/39871/the-major-and-the-minor/
+LOCATION:BFI Southbank\, London
+URL:https://clusterflick.com/movies/39871/the-major-and-the-minor/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e36500aca60e4416837bb231f34459de-occ_fa5156f6292e4c5fb1409c3b0f6
  038d0@thingstodoinyourcity
 DTSTAMP:20261104T091043Z
@@ -44952,6 +45123,18 @@ DESCRIPTION:Teenager Prue McKeel ventures into an enchanted forest to res
 LOCATION:Genesis Cinema\, 93-95 Mile End Road\, Whitechapel\, London E1 4
  UJ\, Whitechapel\, London
 URL:https://genesiscinema.co.uk/event/113504
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_0f1e8c7fa14b42189ebd9206933905c6-occ_fd21e497a39b4dc994a7f3a0d08
+ e9364@thingstodoinyourcity
+DTSTAMP:20261107T032830Z
+DTSTART:20261107T122000Z
+SUMMARY:The Gorals
+DESCRIPTION:A school animal-pen keeper lectures a duck instead of studyin
+ g. On interview day\, she and Seo-hee skip school to find the lost duck 
+ in a meadow.\nhttps://clusterflick.com/movies/1453301/the-gorals/
+LOCATION:BFI Southbank Screen 3\, London
+URL:https://clusterflick.com/movies/1453301/the-gorals/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_717d51f3fc964b5ca7268465b042999c-occ_813bfb36212745e888d1672f279
@@ -45257,6 +45440,19 @@ LOCATION:Robert Dyas High Holborn\, 4 High Holborn\, London\, WC1V 6DR\,
  4 High Holborn\, London\, WC1V 6DR\, Holborn\, London
 URL:https://go-london.uk/events/event/holborn-smithfield-clerkenwell-walk
  /
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_72c307500bfc4ac1b618a6e56e4eea04-occ_6ea288981b1a4a8fb308ae8f7e7
+ c3c88@thingstodoinyourcity
+DTSTAMP:20261107T040256Z
+DTSTART:20261107T130000Z
+SUMMARY:London Vice
+DESCRIPTION:An indie heist thriller about an architect drawn into a mob b
+ oss's web. He assembles four thieves to steal the "Chameleon Diamond" fr
+ om a guarded London casino.\nhttps://clusterflick.com/movies/1804652/lon
+ don-vice/
+LOCATION:London Film School\, London
+URL:https://clusterflick.com/movies/1804652/london-vice/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d0227fce38174d459caa2ff56d3b6b20-occ_b5c5eed3809e45a493dcefcd2c8
@@ -46068,6 +46264,20 @@ LOCATION:Olympic Studios\, London
 URL:https://www.olympiccinema.com/whats-on
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_6e9f59ca8c5647c3ba161775b9df9f01-occ_dc3faa6055484ddbb37544d45c8
+ 0eabc@thingstodoinyourcity
+DTSTAMP:20261107T032725Z
+DTSTART:20261107T134500Z
+SUMMARY:Heaven 17: The Last Temptation
+DESCRIPTION:Sheffield synth legends Heaven 17 hit the road for what might
+  be their final tour. The documentary faces up to age\, loyalty and unfi
+ nished business with the past.\nhttps://clusterflick.com/movies/1686147/
+ heaven-17-the-last-temptation/
+LOCATION:The Castle Cinema\, London
+URL:https://clusterflick.com/movies/1686147/heaven-17-the-last-temptation
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_b6a1e83a65434dea9b1927cc9cdb29a2-occ_b5bf820dde964c5996d76ba8082
  b6968@thingstodoinyourcity
 DTSTAMP:20261106T084905Z
@@ -46211,6 +46421,19 @@ LOCATION:Sadler's Wells Theatre\, London
 URL:https://www.sadlerswells.com/whats-on/g-cornejo-tango-after-dark/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_f7a3350846554e1caab7d81ffd65c32b-occ_914c89a096fc47e896fbbe2d27f
+ 8c465@thingstodoinyourcity
+DTSTAMP:20261107T025045Z
+DTSTART:20261107T140000Z
+SUMMARY:Heaven's Gate (1980)
+DESCRIPTION:Harvard graduate James Averill is sheriff of Jackson County\,
+  Wyoming\, amid a clash between immigrants and cattle farmers. Michael C
+ imino directed this 3h 37m western.\nhttps://clusterflick.com/movies/109
+ 35/heavens-gate/
+LOCATION:Plaza Camden\, London
+URL:https://clusterflick.com/movies/10935/heavens-gate/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_3b08a8675df54a2499158d4ffa460baa-occ_2c894b7efb8844a98b53c4de291
  2bd27@thingstodoinyourcity
 DTSTAMP:20261104T042919Z
@@ -46254,6 +46477,16 @@ DESCRIPTION:Families can join hands-on creative craft activities every we
 LOCATION:Wood Street Library\, 1 Troubridge Square Wood Street London E17
   3GN\, London
 URL:https://www.london-rocks.co.uk/things-to-do/events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_80026a648c3f40ebb7d625537f3da053-occ_55074ab44bf2404ea27d3f5f3f1
+ 1fd26@thingstodoinyourcity
+DTSTAMP:20261107T032928Z
+DTSTART:20261107T140000Z
+SUMMARY:Leon's Fantasy Cut (UK Premiere)
+DESCRIPTION:https://clusterflick.com/movies/984963/leons-fantasy-cut/
+LOCATION:The Haggerston\, London
+URL:https://clusterflick.com/movies/984963/leons-fantasy-cut/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_0a387d633c6e4f1bbac79e6150c4035a-occ_ddeca16cd750444da223cd04224
@@ -46530,6 +46763,20 @@ DESCRIPTION:A friendly songwriting club for under-30s to develop musical
 LOCATION:The Living Room Club Cafe\, 43-45 Camden Road\, London\, London
 URL:https://www.meetup.com/london-art-photography-events-workshop/events/
  317033839/?eventOrigin=city_live_music_events
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_2f75335a3992409ab7313f50e4240a67-occ_2d4c33cc39584a00b0f1ecac756
+ af5c8@thingstodoinyourcity
+DTSTAMP:20261107T025306Z
+DTSTART:20261107T140000Z
+SUMMARY:The Lego Movie
+DESCRIPTION:An ordinary LEGO minifigure named Emmet is mistakenly identif
+ ied as the key to saving the world. He joins a fellowship of strangers o
+ n an epic quest against an evil tyrant.\nhttps://castlesidcup.com/progra
+ mme/12017/the-lego-movie/
+LOCATION:The Castle Cinema Sidcup\, Storyteller Building\, 106 High St Si
+ dcup\, London\, DA14 6DS\, Sidcup\, London
+URL:https://castlesidcup.com/programme/12017/the-lego-movie/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_8dcd5662121a4b99a2c7c5a4fd904d85-occ_7a10f110901c4c8596d3a91be82
@@ -47264,6 +47511,19 @@ LOCATION:Forest Walthamstow\, Screen 2\, The Forest Cinema\, 267 High Str
 URL:https://forestwalthamstow.admit-one.co.uk/seats/28009/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_0c0fb6ede6de42839d5fc5ac3ca8b129-occ_1de42f4d863c4f1cb3ea5258289
+ f5bf2@thingstodoinyourcity
+DTSTAMP:20261107T032625Z
+DTSTART:20261107T151500Z
+SUMMARY:Sapphire
+DESCRIPTION:Two Scotland Yard detectives investigate a young woman's murd
+ er in this 1959 Basil Dearden thriller. The film exposes racism and bigo
+ try as the suspects are interviewed.\nhttps://clusterflick.com/movies/64
+ 291/sapphire/
+LOCATION:BFI Southbank\, London
+URL:https://clusterflick.com/movies/64291/sapphire/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_87b48fb62d81475d8dd08bca7fde5488-occ_ceda0e19f62e44ebb8b969bd132
  02f3c@thingstodoinyourcity
 DTSTAMP:20261103T155726Z
@@ -47411,6 +47671,19 @@ LOCATION:Picturehouse Central\, London
 URL:https://www.picturehouses.com/cinema/picturehouse-central
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_93c6aeb389aa4b13825945b57570f717-occ_ddfc1e55ad654132b82edbea70f
+ fa21e@thingstodoinyourcity
+DTSTAMP:20261107T025119Z
+DTSTART:20261107T153000Z
+SUMMARY:Once Upon a Time in America: The Extended Edition
+DESCRIPTION:A former Prohibition-era gangster returns to Manhattan's Lowe
+ r East Side over thirty years later to confront his past. Sergio Leone d
+ irects a cast led by Robert De Niro.\nhttps://clusterflick.com/movies/31
+ 1/once-upon-a-time-in-america/
+LOCATION:Lumiere Cinema Romford\, London
+URL:https://clusterflick.com/movies/311/once-upon-a-time-in-america/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_e5e3da9e7e58435e92195a11f00eb530-occ_af50fd470f9547b3809ac6aa1b6
  24bc1@thingstodoinyourcity
 DTSTAMP:20261105T110148Z
@@ -47422,6 +47695,32 @@ DESCRIPTION:A sell-out mixed bill with the best comedians in town\; a cel
  comedyclub.co.uk/events-listings/
 LOCATION:170 Drury Lane\, 170 Drury Lane\, London\, WC2B 5PD\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_52d0700c4fc04b868bb0622c4e62ddb6-occ_014f227c74e24a0aa70181b6f6e
+ 315de@thingstodoinyourcity
+DTSTAMP:20261107T032714Z
+DTSTART:20261107T153000Z
+SUMMARY:Symbiopsychotaxiplasm: Take One
+DESCRIPTION:A screen test in Manhattan's Central Park becomes a probing 1
+ 968 documentary. It questions natural language\, sex and the process of 
+ making a movie.\nhttps://clusterflick.com/movies/44783/symbiopsychotaxip
+ lasm-take-one/
+LOCATION:The Barbican\, London
+URL:https://clusterflick.com/movies/44783/symbiopsychotaxiplasm-take-one/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_453195a414e24e21b69e672b8d59738c-occ_afbf46a7848e42e68be90f8be87
+ 9f026@thingstodoinyourcity
+DTSTAMP:20261107T033035Z
+DTSTART:20261107T154500Z
+SUMMARY:The Cemetery of Cinema
+DESCRIPTION:Thierno Souleymane Diallo follows his camera in search of the
+  origins of filmmaking in Guinea. The film traces the country's heritage
+  and shows why film archives matter.\nhttps://clusterflick.com/movies/10
+ 61651/the-cemetery-of-cinema/
+LOCATION:Close-Up Film Centre\, London
+URL:https://clusterflick.com/movies/1061651/the-cemetery-of-cinema/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_73920d8a996946b68cea2366e7f8f5d3-occ_21d3f786a6f04c26976d7915d88
@@ -47775,6 +48074,19 @@ DESCRIPTION:A community day and parade celebrating the change of seasons.
  ay-of-the-dead-parade
 LOCATION:London
 URL:https://www.artinthedocks.com/upcomingevents/day-of-the-dead-parade
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_76c0d5342cfe4d569851bf32c3be86a0-occ_7dd1164f87ba4d8e9dd8d1f3ecb
+ 657f0@thingstodoinyourcity
+DTSTAMP:20261107T025302Z
+DTSTART:20261107T160000Z
+SUMMARY:The Elephant Man
+DESCRIPTION:A Victorian surgeon rescues a heavily disfigured man mistreat
+ ed as a side-show freak. Behind his monstrous façade lies a person of g
+ reat intelligence and sensitivity.\nhttps://clusterflick.com/movies/1955
+ /the-elephant-man/
+LOCATION:The Haggerston\, London
+URL:https://clusterflick.com/movies/1955/the-elephant-man/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_d03f1cfdbf7d4a718530b5682842fdf6-occ_b557f245002b4a298d4958dd456
@@ -48523,6 +48835,35 @@ LOCATION:Jamon Jamon Soho\, 3-5 Caxton Walk\, London WC2H 8PW\, Soho\, Lo
 URL:https://stayhappening.com/london--workshops
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_bb5d37985f4c49ae8d1e34a0d3672bac-occ_79186f04e36d497eb346ce41e3e
+ 994a5@thingstodoinyourcity
+DTSTAMP:20261107T032614Z
+DTSTART:20261107T180000Z
+SUMMARY:Traces
+DESCRIPTION:Ukrainian women survivors of sexual violence by Russian troop
+ s unite to break stigma\, turning testimonies into resistance. Directed 
+ by Alisa Kovalenko\; 1h 25m.\nhttps://clusterflick.com/movies/1600580/tr
+ aces/
+LOCATION:Curzon Bloomsbury\, London
+URL:https://clusterflick.com/movies/1600580/traces/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_419d4b2c47cc4ee29f74d2b880564473-occ_38e3b8b6fa8d43b39cac9620379
+ e4617@thingstodoinyourcity
+DTSTAMP:20261107T032431Z
+DTSTART:20261107T183000Z
+DTEND:20261107T194500Z
+SUMMARY:'Man with a Movie Camera'\, the definitive version
+DESCRIPTION:Restored by Eye Filmmuseum from Vertov's own print\, the film
+  screens with original 1929 music reconstructed from cue notes. It is th
+ e first London screening.\nhttps://www.eventbrite.co.uk/e/man-with-a-mov
+ ie-camera-the-definitive-version-tickets-1998750469459
+LOCATION:London Film School\, 24 Shelton Street (entrance in Langley Stre
+ et) Covent Garden London WC2H 9UB\, London
+URL:https://www.eventbrite.co.uk/e/man-with-a-movie-camera-the-definitive
+ -version-tickets-1998750469459
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_04f0f5d50fb445f7b0f0ce93ac6011a3-occ_d47ac341acf24beb85cb0ae358b
  10751@thingstodoinyourcity
 DTSTAMP:20261106T004828Z
@@ -48588,6 +48929,16 @@ URL:https://go-london.uk/events/event/singles-pub-crawl-in-london-with-4-
  venues-free-shot/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_1df11026543e4f14a7e0f55bb2ebaf18-occ_be7b5baaa47f4b5cbf4a7148316
+ bb2d4@thingstodoinyourcity
+DTSTAMP:20261107T041500Z
+DTSTART:20261107T183000Z
+SUMMARY:Tantric Massage Course: Intro Session ~ London
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:Tara Yoga Centre\, Ironmonger Row\, London\, UK\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_215f18fef1574c35a7121d008a5ed2e2-occ_5b18d6cd57f14d5bbafbb4ff0dd
  d1826@thingstodoinyourcity
 DTSTAMP:20261101T083435Z
@@ -48619,13 +48970,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_47d79037e94845eca34f8497a361be0a-occ_759af9bbe53f4a608c0d001bfa1
  784c6@thingstodoinyourcity
-DTSTAMP:20261104T015511Z
+DTSTAMP:20261107T023703Z
 DTSTART:20261107T184500Z
 SUMMARY:LS/FF Saturday Night Pass
-DESCRIPTION:Surf cinema all night with premieres\, features and shorts\, 
- plus conversations and a complimentary drink from Sharps & Goodrays. Pas
- ses are limited and sell out fast.\nhttps://riversidestudios.co.uk/whats
- -on/uBl-lsff-saturday-night-pass/
+DESCRIPTION:A night of surf cinema with premieres\, features and shorts\,
+  plus talks and a complimentary drink from Sharps & Goodrays. Passes are
+  limited and sell out fast.\nhttps://riversidestudios.co.uk/whats-on/uBl
+ -lsff-saturday-night-pass/
 LOCATION:Riverside Studios\, London
 URL:https://riversidestudios.co.uk/whats-on/uBl-lsff-saturday-night-pass/
 END:VEVENT
@@ -48640,6 +48991,19 @@ DESCRIPTION:The listing describes an intimate-setting pop concert from th
  on.uk/events/event/davina-michelle/
 LOCATION:The Lower Third\, London\, Soho\, London
 URL:https://go-london.uk/events/event/davina-michelle/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_bda813ff42104052a4e0639dc55f3ae5-occ_6c0dcc36266c4738a2b91e0a809
+ 135fc@thingstodoinyourcity
+DTSTAMP:20261107T041633Z
+DTSTART:20261107T190000Z
+SUMMARY:ECSTATIC RAVE: Saturday Night Wellness Rave & Cacao in North Lond
+ on
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:13 Minutes from Gospel Oak Station or 11 minutes from Tufnell Pa
+ rk Station (VENUE ADDRESS in order CONFIRMATION EMAIL\, please SCROLL DO
+ WN in the email to 'Additional Information')\, London
+URL:https://dandelion.events/locations/London
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad29a43ddeef4592b064eff8b7f27a05-occ_ae37b8b5dd56478ab84c765b4ce
@@ -48792,6 +49156,19 @@ LOCATION:The Lucky Pig\, Fitzrovia\, London\, 5 Clipstone St\, London W1W
   6BB\, UK\, Fitzrovia\, London
 URL:https://www.theluckypig.co.uk/event-details/private-party-18th-septem
  ber-1-1
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_b84b92b7a6064f018fffbf6137143b58-occ_d68748859fe147e8bebc23022e7
+ b80fb@thingstodoinyourcity
+DTSTAMP:20261107T050829Z
+DTSTART:20261107T190000Z
+SUMMARY:Ramayana: Rise of a Legend
+DESCRIPTION:Rama\, a prince bound by duty\, must confront Ravana\, an imm
+ ortal ruler driven by pride and vengeance. The action-adventure runs 165
+  minutes.\nhttps://www.forestcinema.co.uk/whatson
+LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
+ mstow\, London
+URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_055602734956446386ff7a2dbc74ac8f-occ_251404551d6a4cd489c8105d857
@@ -49967,6 +50344,17 @@ LOCATION:23 Kingsway\, London
 URL:https://thetopsecretcomedyclub.co.uk/events-listings/saturday-9pm-47/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_fda7ab524e104923acd6c103eb6b7e98-occ_2ff52024269c436295bc54b24e4
+ e8cc1@thingstodoinyourcity
+DTSTAMP:20261107T041721Z
+DTSTART:20261107T213000Z
+DTEND:20261108T073000Z
+SUMMARY:All Night Galactic Gong Puja: Dreaming with the Ancestors
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:Green Rooms\, Station Road\, London\, UK\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_8b99426f88864e9295998814af000ae0-occ_9d2802e1d2dd4a5e9135eaef83e
  06b10@thingstodoinyourcity
 DTSTAMP:20261106T224204Z
@@ -51074,16 +51462,6 @@ LOCATION:The Bill Murray\, London
 URL:https://www.angelcomedy.co.uk/bill-murray/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_772f9eab585b40359aa88e7d828c1475-occ_64a4948bccd444128b626a3ea0d
- aeb11@thingstodoinyourcity
-DTSTAMP:20261105T032632Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Lift + Calais: The Last Border followed by Q&A with Marc Isaacs
-DESCRIPTION:https://clusterflick.com/
-LOCATION:Close-Up Film Centre\, London
-URL:https://clusterflick.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_fcb12dadc80144dc92649bdfcf34053f-occ_57b54f7e798443ecb901e51a005
  edf20@thingstodoinyourcity
 DTSTAMP:20261105T050026Z
@@ -51096,19 +51474,6 @@ DESCRIPTION:A showcase of the best unsigned London bands\, held in a frie
 LOCATION:The Star in Shoreditch\, London
 URL:https://tickts.co.uk/events/london-music-showcase-presents-psychiatri
  sts
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_899a67136d91436ba9fcc9322caf6fde-occ_e148b2f3d8464cf0b2af3cc0003
- 52b23@thingstodoinyourcity
-DTSTAMP:20261105T041244Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:Merry Christmas Aubrey Flint + Q & A
-DESCRIPTION:A reclusive model-soldier painter who hates Christmas is sent
- enced to community service at a retirement home. He ends up directing a 
- chaotic resident-led A Christmas Carol.\nhttps://www.forestcinema.co.uk/
- whatson
-LOCATION:Forest Cinema\, Walthamstow\, London
-URL:https://www.forestcinema.co.uk/whatson
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_ad690381c79247418a25d89f46ac6cb5-occ_8c56a3f7cfff43bfb550822f66d
@@ -51942,16 +52307,6 @@ LOCATION:Lambeth North Tube Station (outside the station)\, Westminster B
 URL:https://www.meetup.com/london_cultureseekers/events/316811898/
 END:VEVENT
 BEGIN:VEVENT
-UID:cand_4da0d632e9cf44aaab19bb4c1b08465c-occ_802be6235f574699b67c05a38ca
- 3399d@thingstodoinyourcity
-DTSTAMP:20261105T032604Z
-DTSTART;VALUE=DATE:20261108
-SUMMARY:WATCH PARTY EPISODE 1 - debra.in4k
-DESCRIPTION:https://clusterflick.com/
-LOCATION:Love Affair Basement\, London
-URL:https://clusterflick.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:cand_71e366330c654f388f7de15be238902c-occ_be98087316e24d718b0b76bc4ac
  c587e@thingstodoinyourcity
 DTSTAMP:20261106T052654Z
@@ -52104,6 +52459,18 @@ DESCRIPTION:https://www.yogawithem.me/book-classes
 LOCATION:Christ Church : Church Hall\, Christ Church\, Hampstead NW3 1AB.
  \, Christ Church\, Hampstead NW3 1AB\, Hampstead\, London
 URL:https://www.yogawithem.me/book-classes
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_1a8c8a9af3574e3e8bd325ed3512ab43-occ_628bc11de9754074a1491789eaa
+ 75a77@thingstodoinyourcity
+DTSTAMP:20261107T041752Z
+DTSTART:20261108T093000Z
+SUMMARY:NOUR Run Club – Free Social Run in Walthamstow
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:NOUR\, 275 Hoe Street\, Walthamstow\, London E17 9PT\, United Ki
+ ngdom\, 275 Hoe Street\, Walthamstow\, London E17 9PT\, United Kingdom\,
+  London
+URL:https://dandelion.events/locations/London
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_664a4151f67144bdb1a2d6e25f1c502a-occ_144b778493fb40b8947491cff0b
@@ -52881,6 +53248,16 @@ URL:https://www.designmynight.com/london/restaurants/notting-hill/biscuit
  0
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_cd227379bbb74827842f7801a0b90f5c-occ_63b9673579444482b5dd96cec89
+ b9f4a@thingstodoinyourcity
+DTSTAMP:20261107T041830Z
+DTSTART:20261108T113000Z
+SUMMARY:Tantric Kundalini Playshop: Awaken Your Sacred Pleasure
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:House of Moon\, Marlborough Road\, London\, UK\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_abaaad4a056c48768128d8a192d6cc1c-occ_07d956759442489c81f062f6820
  aab8a@thingstodoinyourcity
 DTSTAMP:20261102T120558Z
@@ -53032,6 +53409,16 @@ DTEND:20261213T160000Z
 SUMMARY:The Kids Table
 DESCRIPTION:
 LOCATION:BOXPARK Wembley\, London
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_25c22a914cf748d0a50607b25dfa7879-occ_0c6ada68fc6c41c09bb55da483d
+ 27625@thingstodoinyourcity
+DTSTAMP:20261107T041829Z
+DTSTART:20261108T120000Z
+SUMMARY:Wellbeing Day: Cacao Ceremony\, Sound Bath\, Laughter Yoga & More
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:Tara Yoga Centre\, Ironmonger Row\, London\, UK\, London
+URL:https://dandelion.events/locations/London
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_101bd5de2fca46919ac8f295a3107405-occ_15638f197b6c437d8da120303c1
@@ -53954,6 +54341,20 @@ LOCATION:ODEON Luxe Leicester Square\, 22-24 Leicester Square\, London\,
 URL:https://go-london.uk/events/event/meet-dav-pilkey-on-his-epic-tour/
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_899a67136d91436ba9fcc9322caf6fde-occ_e148b2f3d8464cf0b2af3cc0003
+ 52b23@thingstodoinyourcity
+DTSTAMP:20261107T050904Z
+DTSTART:20261108T150000Z
+SUMMARY:Merry Christmas Aubrey Flint + Q & A
+DESCRIPTION:A reclusive model-soldier painter who hates Christmas is sent
+ enced to community service at a retirement home. He ends up directing a 
+ chaotic resident-led A Christmas Carol.\nhttps://www.forestcinema.co.uk/
+ whatson
+LOCATION:Forest Cinema\, 267 High Street\, Walthamstow\, E17 7FD\, Waltha
+ mstow\, London
+URL:https://www.forestcinema.co.uk/whatson
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_0280a61bf6cb40c9842e48bbcba25c2c-occ_20c07ed072e94af990a28930748
  e9604@thingstodoinyourcity
 DTSTAMP:20261106T205727Z
@@ -54237,6 +54638,17 @@ LOCATION:Whitechapel Gallery\, London
 URL:https://eventslist.co.uk/london/exhibitions
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_afa4241029464d1daa8973a54a313b4f-occ_28a043b7c11949128cecd1de558
+ dcc7a@thingstodoinyourcity
+DTSTAMP:20261107T041911Z
+DTSTART:20261108T170000Z
+SUMMARY:Whole: a new moon ceremony of voice\, sound and Kundalini Activat
+ ion
+DESCRIPTION:https://dandelion.events/locations/London
+LOCATION:Luv Yourself Space\, Hoy Street\, London\, UK\, London
+URL:https://dandelion.events/locations/London
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_9bd28b911f164dcd91df15c3ed0d4b3b-occ_9413cd61caa443999be18c1f5ec
  c2f12@thingstodoinyourcity
 DTSTAMP:20261106T103800Z
@@ -54311,6 +54723,16 @@ LOCATION:The Nickel\, Clerkenwell\, London
 URL:https://thenickel.co.uk/screening/810
 END:VEVENT
 BEGIN:VEVENT
+UID:cand_772f9eab585b40359aa88e7d828c1475-occ_64a4948bccd444128b626a3ea0d
+ aeb11@thingstodoinyourcity
+DTSTAMP:20261107T031336Z
+DTSTART:20261108T180000Z
+SUMMARY:Lift + Calais: The Last Border followed by Q&A with Marc Isaacs
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Close-Up Film Centre\, London
+URL:https://clusterflick.com/
+END:VEVENT
+BEGIN:VEVENT
 UID:cand_7e56c3696f0048c3a150635ebc662701-occ_b44c4b98fa0a48039f45fa1a870
  29533@thingstodoinyourcity
 DTSTAMP:20261104T065504Z
@@ -54348,6 +54770,16 @@ DESCRIPTION:Watch emerging young ballet talent from across the globe in t
 LOCATION:London Coliseum\, London Coliseum\, St Martin’s Lane\, London 
  WC2N 4ES\, London
 URL:https://booking.londoncoliseum.org/book-online/92401/
+END:VEVENT
+BEGIN:VEVENT
+UID:cand_4da0d632e9cf44aaab19bb4c1b08465c-occ_802be6235f574699b67c05a38ca
+ 3399d@thingstodoinyourcity
+DTSTAMP:20261107T031337Z
+DTSTART:20261108T180000Z
+SUMMARY:WATCH PARTY EPISODE 1 - debra.in4k
+DESCRIPTION:https://clusterflick.com/
+LOCATION:Love Affair Basement\, London
+URL:https://clusterflick.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_11f23f60d63c407ca0b3e9fbeeacb3a5-occ_f159bd74ca7d4dc1a424fbe790a
@@ -59951,23 +60383,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cand_ab68c0661f33450a8edbff9dc10d40de-occ_2f3a5cdd733a4bd9ac5c928f408
  385a1@thingstodoinyourcity
-DTSTAMP:20261102T232819Z
+DTSTAMP:20261107T052400Z
 DTSTART:20261110T110000Z
 SUMMARY:HEART OF THE BEAST
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27462/
+DESCRIPTION:
 LOCATION:Forest Walthamstow | Screen 4\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/27462/
-END:VEVENT
-BEGIN:VEVENT
-UID:cand_f5b70a8233da42ceb2a5856f38c0ccc1-occ_86272112f63e40d0b9822439323
- 36fb0@thingstodoinyourcity
-DTSTAMP:20261104T022617Z
-DTSTART:20261110T110000Z
-SUMMARY:HEART OF THE BEAST
-DESCRIPTION:https://forestwalthamstow.admit-one.co.uk/seats/27462/
-LOCATION:Forest Walthamstow\, Screen 4\, The Forest Cinema\, 267 High Str
- eet\, Walthamstow\, E17 7FD\, Walthamstow\, London
-URL:https://forestwalthamstow.admit-one.co.uk/seats/27462/
 END:VEVENT
 BEGIN:VEVENT
 UID:cand_dc9154b3742248ef8fffd1c3ccba648c-occ_b038431196f04a35a161c6e4598
