@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>London This Week</title>
+<meta name="description" content="London This Week: the events we post, on a map and in your calendar.">
+<meta name="theme-color" content="#16131d">
+<link rel="icon" href="data:,">
+<link rel="preload" href="assets/barlow-condensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<style>
+@font-face{font-family:"Barlow Condensed";src:url(assets/barlow-condensed-700.woff2) format("woff2");font-weight:700;font-display:swap}
+@font-face{font-family:"Geist";src:url(assets/geist-sans.woff2) format("woff2");font-weight:100 900;font-display:swap}
+:root{--ink:#16131d;--ink-2:#221d2b;--cream:#fff8ee;--muted:#b9b0a4;--accent:#ffc93c}
+*{box-sizing:border-box}
+html{background:var(--ink)}
+body{margin:0;color:var(--cream);font:16px/1.45 Geist,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto}
+header{display:flex;align-items:baseline;justify-content:space-between;gap:8px 16px;flex-wrap:wrap;padding:calc(env(safe-area-inset-top) + 28px) 20px 18px}
+h1{margin:0;font:700 clamp(42px,11vw,76px)/.9 "Barlow Condensed","Arial Narrow",sans-serif;text-transform:uppercase}
+h2{margin:0 0 12px;font:700 34px/1 "Barlow Condensed","Arial Narrow",sans-serif;text-transform:uppercase}
+.handle{color:var(--muted);font-weight:600;text-decoration:none}
+.carousel{position:relative}
+.track{display:flex;align-items:flex-start;gap:14px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x mandatory;scroll-padding:0 20px;padding:4px 20px 10px;scrollbar-width:none}
+.track::-webkit-scrollbar{display:none}
+.slide{flex:0 0 auto;width:min(82vw,400px);min-width:0;margin:0;scroll-snap-align:start}
+.slide img{display:block;width:100%;max-width:100%;height:auto;aspect-ratio:4/5;border-radius:14px;background:var(--ink-2)}
+.slide figcaption{margin-top:9px;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.slide a{color:var(--cream);text-decoration:none}
+.slide .path{color:var(--muted)}
+.none{margin:0;color:var(--muted)}
+.step{position:absolute;top:calc(50% - 44px);display:none;place-items:center;width:48px;height:48px;border:0;border-radius:50%;background:var(--cream);color:var(--ink);font:700 26px/1 system-ui;cursor:pointer;box-shadow:0 6px 24px rgba(0,0,0,.45)}
+.step:disabled{opacity:0;pointer-events:none}
+@media (hover:hover) and (pointer:fine){.step{display:grid}}
+.prev{left:6px}.next{right:6px}
+.where,.calendar{padding:0 20px}
+.where{margin-top:30px}
+#map{height:min(68vh,560px);border-radius:14px;background:var(--ink-2)}
+.leaflet-popup-content-wrapper{border-radius:12px}
+.leaflet-popup-content{margin:14px 16px;font:14px/1.45 Geist,system-ui,sans-serif;color:var(--ink)}
+.leaflet-popup-content h3{margin:0 0 6px;font:700 22px/1 "Barlow Condensed","Arial Narrow",sans-serif;text-transform:uppercase}
+.leaflet-popup-content p{margin:4px 0}
+.leaflet-popup-content a{color:#3253d6}
+.calendar{margin:34px 0 0;padding-bottom:calc(env(safe-area-inset-bottom) + 48px)}
+.subscribe{display:inline-block;padding:15px 24px;border-radius:999px;background:var(--accent);color:var(--ink);font:700 21px/1 "Barlow Condensed","Arial Narrow",sans-serif;text-transform:uppercase;text-decoration:none}
+.feed{margin:12px 0 0;color:var(--muted);font-size:13px;overflow-wrap:anywhere;user-select:all}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>London This Week</h1><a class="handle" href="https://www.instagram.com/inlondonthisweek/">@inlondonthisweek</a></header>
+<section class="carousel" aria-label="The events">
+<div class="track" tabindex="0"><figure class="slide" id="e-cand_8ae1fede9bc442509c9f09838e045445"><img src="cards/cand_8ae1fede9bc442509c9f09838e045445.jpg" alt="Southbank Centre Winter Market" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.southbankcentre.co.uk/activity/winter-market/" target="_blank" rel="noopener">southbankcentre.co.uk<span class="path">/activity/winter-market</span></a></figcaption></figure><figure class="slide" id="e-cand_0457548577ac456c8c6b9ef6d1b2170b"><img src="cards/cand_0457548577ac456c8c6b9ef6d1b2170b.jpg" alt="Christmas at Kew" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.kew.org/kew-gardens/whats-on/christmas" target="_blank" rel="noopener">kew.org<span class="path">/kew-gardens/whats-on/christmas</span></a></figcaption></figure><figure class="slide" id="e-cand_1524851953cb4daea363b3e9fac282a7"><img src="cards/cand_1524851953cb4daea363b3e9fac282a7.jpg" alt="Glide at Battersea Power Station" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://batterseapowerstation.co.uk/events/glide-at-battersea-power-station" target="_blank" rel="noopener">batterseapowerstation.co.uk<span class="path">/events/glide-at-battersea-power-station</span></a></figcaption></figure><figure class="slide" id="e-cand_5ad98b3c5af342598168c048789ef493"><img src="cards/cand_5ad98b3c5af342598168c048789ef493.jpg" alt="Kensington Open Art Market" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://luma.com/pnbjxz3y" target="_blank" rel="noopener">luma.com<span class="path">/pnbjxz3y</span></a></figcaption></figure><figure class="slide" id="e-cand_7d13571686f844b7bea20c61dbf7efee"><img src="cards/cand_7d13571686f844b7bea20c61dbf7efee.jpg" alt="The Giant London Flea" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://hackneyfleamarket.com/" target="_blank" rel="noopener">hackneyfleamarket.com<span class="path"></span></a></figcaption></figure><figure class="slide" id="e-cand_358a1d14097840e3af80b06944543322"><img src="cards/cand_358a1d14097840e3af80b06944543322.jpg" alt="Handmade Chelsea: The Contemporary Craft &amp; Design Fair" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.handmadeinbritain.co.uk/product/handmade-chelsea-2026" target="_blank" rel="noopener">handmadeinbritain.co.uk<span class="path">/product/handmade-chelsea-2026</span></a></figcaption></figure><figure class="slide" id="e-cand_3f77c6fa31534e8282e363db036c1d6c"><img src="cards/cand_3f77c6fa31534e8282e363db036c1d6c.jpg" alt="The Ever After Garden: 30,000 glowing white roses in Chelsea" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.royalmarsden.org/ever-after-garden" target="_blank" rel="noopener">royalmarsden.org<span class="path">/ever-after-garden</span></a></figcaption></figure><figure class="slide" id="e-cand_62bee3d50e6445dc969d12597213ac01"><img src="cards/cand_62bee3d50e6445dc969d12597213ac01.jpg" alt="Hokusai: Thirty-six Views of Mount Fuji" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection" target="_blank" rel="noopener">dulwichpicturegallery.org.uk<span class="path">/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection</span></a></figcaption></figure><figure class="slide" id="e-cand_278be941c6944d738ceb63f2f27a6961"><img src="cards/cand_278be941c6944d738ceb63f2f27a6961.jpg" alt="Tamagotchi Pop-Up Shop (30th Anniversary)" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://popette.app/p/ldn-tamagotchi-pop-up-soho-2026" target="_blank" rel="noopener">popette.app<span class="path">/p/ldn-tamagotchi-pop-up-soho-2026</span></a></figcaption></figure><figure class="slide" id="e-cand_f17fdd9f88ad4e89b1dac9b8194a4e4c"><img src="cards/cand_f17fdd9f88ad4e89b1dac9b8194a4e4c.jpg" alt="London Gaming Market" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://www.londongamingmarket.com/tickets" target="_blank" rel="noopener">londongamingmarket.com<span class="path">/tickets</span></a></figcaption></figure><figure class="slide" id="e-cand_644302752b724dbbb11de019bb8b4ea0"><img src="cards/cand_644302752b724dbbb11de019bb8b4ea0.jpg" alt="Beatgeek: River Thames Edition" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://beatgeek.uk/" target="_blank" rel="noopener">beatgeek.uk<span class="path"></span></a></figcaption></figure><figure class="slide" id="e-cand_b87943e21b0e466c847609d4d952c8a5"><img src="cards/cand_b87943e21b0e466c847609d4d952c8a5.jpg" alt="EFG London Jazz Festival" width="1080" height="1350" loading="lazy" decoding="async"><figcaption><a href="https://efglondonjazzfestival.org.uk/" target="_blank" rel="noopener">efglondonjazzfestival.org.uk<span class="path"></span></a></figcaption></figure></div>
+<button class="step prev" type="button" aria-label="Back">&#8249;</button>
+<button class="step next" type="button" aria-label="Next">&#8250;</button>
+</section>
+<section class="where" aria-label="Where they are"><h2>Where</h2><div id="map"></div></section>
+<section class="calendar"><a class="subscribe" href="webcal://thingstodoinyourcity.github.io/london-events-hub/calendars/all.ics">Add them to your calendar</a><p class="feed">https://thingstodoinyourcity.github.io/london-events-hub/calendars/all.ics</p></section>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+const track = document.querySelector('.track');
+const prev = document.querySelector('.prev');
+const next = document.querySelector('.next');
+const slideWidth = () => (track.querySelector('.slide')?.getBoundingClientRect().width || 300) + 14;
+prev.addEventListener('click', () => track.scrollBy({ left: -slideWidth(), behavior: 'smooth' }));
+next.addEventListener('click', () => track.scrollBy({ left: slideWidth(), behavior: 'smooth' }));
+const ends = () => { prev.disabled = track.scrollLeft < 8; next.disabled = track.scrollLeft + track.clientWidth > track.scrollWidth - 8; };
+track.addEventListener('scroll', ends, { passive: true });
+ends();
+const esc = (value) => String(value ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const map = L.map('map', { scrollWheelZoom: false }).setView([51.5074, -0.1278], 11);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>', maxZoom: 19 }).addTo(map);
+function day(value, zone, withTime) {
+  const text = String(value || '');
+  const dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(text);
+  const moment = dateOnly ? new Date(text + 'T12:00:00Z') : new Date(text);
+  if (Number.isNaN(moment.getTime())) return '';
+  const options = { weekday: 'short', day: 'numeric', month: 'short', timeZone: dateOnly ? 'UTC' : zone };
+  if (withTime && !dateOnly) Object.assign(options, { hour: 'numeric', minute: '2-digit' });
+  return moment.toLocaleString('en-GB', options);
+}
+function when(row, zone) {
+  const first = (row.occurrences || [])[0];
+  if (!first) return '';
+  const start = String(first.starts_at || '');
+  const end = String(first.ends_at || '');
+  if (end && end.slice(0, 10) !== start.slice(0, 10)) return `Until ${day(end, zone, false)}`;
+  return day(start, zone, true);
+}
+function host(url) { try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return url; } }
+fetch('map/events.json').then((response) => response.json()).then((payload) => {
+  const zone = payload.city.timezone;
+  const points = [];
+  for (const row of payload.events || []) {
+    if (row.approximate) continue;
+    const marker = L.circleMarker([row.latitude, row.longitude], { radius: 9, color: '#16131d', weight: 2, fillColor: '#ff3d8b', fillOpacity: 1 }).addTo(map);
+    marker.bindPopup(`<h3>${esc(row.title)}</h3><p>${esc(when(row, zone))}</p><p>${esc(row.venue || row.area)}</p>`
+      + (row.price ? `<p><strong>${esc(row.price)}</strong></p>` : '')
+      + (row.description ? `<p>${esc(row.description)}</p>` : '')
+      + (row.url ? `<p><a href="${esc(row.url)}" target="_blank" rel="noopener">${esc(host(row.url))}</a></p>` : ''), { maxWidth: 280 });
+    points.push([row.latitude, row.longitude]);
+  }
+  if (points.length > 1) map.fitBounds(points, { padding: [28, 28], maxZoom: 14 });
+  else if (points.length === 1) map.setView(points[0], 14);
+});
+</script>
+</body>
+</html>

@@ -1,2 +1,3 @@
-# thingstodoinyourcity.github.io
-Things To Do In Your City events hubs
+# Things To Do In Your City
+
+The events hubs: the events we post, on a map and in a calendar.
